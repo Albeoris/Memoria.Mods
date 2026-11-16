@@ -105,7 +105,7 @@ def validate_descriptor(descriptor, component_id):
             require(isinstance(descriptor.get(key), str) and descriptor[key].strip(), f"{component_id}: missing {key}")
     require(descriptor["format"] == "memoria-native" and descriptor["delivery"] == "download",
             f"{component_id}: expected a downloadable native mod")
-    require(type(descriptor.get("defaultEnabled")) is bool, f"{component_id}: defaultEnabled must be true or false")
+    require(descriptor.get("defaultEnabled") is True, f"{component_id}: defaultEnabled must be true")
     validate_path(descriptor["runtimePackageId"])
     require(descriptor["groupId"] == "Memoria" and descriptor["runtimePackageId"].startswith("Memoria/")
             and descriptor["runtimePackageId"].count("/") == 1, f"{component_id}: runtime package must be a direct child of Memoria")
@@ -118,16 +118,13 @@ def read_descriptor(folder):
     require(path.is_file() and not path.is_symlink(), f"Missing regular mod.json in {folder}")
     descriptor = read_json(path)
     validate_descriptor(descriptor, folder.name)
-    require(set(descriptor) <= set(DESCRIPTOR_FIELDS) | {"version", "engineVersionRange", "releaseNotes", "mutableFiles"},
+    require(set(descriptor) <= set(DESCRIPTOR_FIELDS) | {"version", "engineVersionRange", "releaseNotes"},
             f"{folder.name}: unexpected authoring fields")
     if "version" in descriptor:
         version_key(descriptor["version"])
     if "engineVersionRange" in descriptor:
         engine_range(descriptor["engineVersionRange"])
     require(isinstance(descriptor.get("releaseNotes", ""), str), f"{folder.name}: releaseNotes must be text")
-    mutable_files = descriptor.get("mutableFiles", [])
-    require(isinstance(mutable_files, list) and all(path == "mod.ini" for path in mutable_files)
-            and len(mutable_files) <= 1, f"{folder.name}: only root mod.ini may be mutable")
     return descriptor
 
 
@@ -154,6 +151,7 @@ def payload_files(folder):
     for path in sorted(payload.rglob("*")):
         name = path.relative_to(payload).as_posix()
         validate_path(name)
+        require("mod.ini" not in name.casefold().split("/"), f"Player-owned mod.ini is forbidden in the payload: {name}")
         require(name.casefold() not in known_paths, f"Case-colliding payload entry: {name}")
         known_paths.add(name.casefold())
         mode = path.lstat().st_mode
@@ -196,12 +194,10 @@ def build(folder, output, descriptor, version, minimum, repository=REPOSITORY):
     version_key(version)
     engine_range(minimum)
     paths = payload_files(folder)
-    mutable_files = set(descriptor.get("mutableFiles", []))
-    require(mutable_files <= paths.keys(), f"Missing mutable defaults in {folder}")
     inventory = []
     for name, path in sorted(paths.items()):
         size, digest = file_digest(path)
-        inventory.append({"path": name, "size": size, "sha256": digest, "mutable": name in mutable_files})
+        inventory.append({"path": name, "size": size, "sha256": digest, "mutable": False})
     manifest = {
         "schemaVersion": 1, "sourceId": SOURCE_ID, "componentId": descriptor["id"],
         "runtimePackageId": descriptor["runtimePackageId"], "version": version, "engineVersionRange": minimum,

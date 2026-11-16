@@ -94,13 +94,11 @@ class PublicationTests(unittest.TestCase):
         payload = folder / "payload"
         payload.mkdir(parents=True)
         self.update_payload(component_id, b"original")
-        (payload / "mod.ini").write_bytes(b"enabled = 1\r\n")
         descriptor = {
             "id": component_id, "groupId": "Memoria", "runtimePackageId": f"Memoria/{component_id}",
             "settingsKey": component_id, "name": component_id, "description": f"Description of {component_id}.",
             "category": "Items", "format": "memoria-native", "delivery": "download", "defaultEnabled": True,
             "target": {"game": "FFVIII", "editions": ["Classic"], "languages": ["*"]},
-            "mutableFiles": ["mod.ini"],
         }
         if minimum:
             descriptor["engineVersionRange"] = minimum
@@ -130,10 +128,30 @@ class PublicationTests(unittest.TestCase):
         self.assertEqual(component, repeated)
         with ZipFile(first) as archive:
             manifest = json.loads(archive.read("mod.manifest.json"))
-            self.assertEqual(["image.png", "mod.ini"], [item["path"] for item in manifest["files"]])
-            self.assertEqual([False, True], [item["mutable"] for item in manifest["files"]])
-            self.assertEqual(b"enabled = 1\r\n", archive.read("payload/mod.ini"))
+            self.assertEqual(["image.png"], [item["path"] for item in manifest["files"]])
+            self.assertEqual([False], [item["mutable"] for item in manifest["files"]])
+            self.assertEqual(b"original", archive.read("payload/image.png"))
             self.assertEqual(sum(entry.file_size for entry in archive.infolist()), component["latest"]["artifact"]["unpackedSize"])
+
+    def test_reject_player_owned_configuration(self):
+        folder = self.create_mod("artwork")
+        descriptor = read_descriptor(folder)
+        for name in ("mod.ini", "nested/MoD.InI", "MOD.INI/image.png"):
+            with self.subTest(name=name):
+                configuration = folder / "payload" / name
+                configuration.parent.mkdir(parents=True, exist_ok=True)
+                configuration.write_bytes(b"name = Artwork\r\n")
+                with self.assertRaisesRegex(ValueError, "Player-owned mod.ini is forbidden"):
+                    build(folder, self.root / "archive", descriptor, "1.0.0", "[1.0.0,)")
+                configuration.unlink()
+
+    def test_require_enabled_by_default(self):
+        folder = self.create_mod("artwork")
+        descriptor = read_descriptor(folder)
+        descriptor["defaultEnabled"] = False
+        (folder / "mod.json").write_bytes(json_bytes(descriptor))
+        with self.assertRaisesRegex(ValueError, "defaultEnabled must be true"):
+            read_descriptor(folder)
 
     def test_reject_bounded_or_invalid_engine_minimum(self):
         for invalid in ("1.2.3", "(1.2.3,)", "[1.2.3]", "[1.2.3,2.0.0]", "[,)", "[01.2.3,)"):

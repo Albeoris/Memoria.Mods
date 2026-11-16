@@ -5,7 +5,7 @@ Browse and install these mods from the Mods menu in [Memoria FFVIII](https://git
 ## Publishing
 
 1. Put each independently published mod in its own `mods/<id>/` folder. Copy the [Girl Next Door descriptor](mods/girl-next-door/mod.json) as a starting point. Choose a lowercase hyphenated ID and a unique package and settings key. Keep those identifiers stable after publication.
-2. Put redistributable native resources in `payload/`. Declare `mod.ini` in `mutableFiles` when it contains user-editable defaults. Put any required attribution in `NOTICE.md` beside `payload/`. Keep original game assets and engine binaries out of payloads.
+2. Put redistributable native resources in `payload/`. The player's local `mod.ini` is reserved for their settings. Keep it, original game assets and engine binaries out of payloads. Put any required attribution in `NOTICE.md` beside `payload/`.
 3. Set `engineVersionRange` to `[minimum,)` if the payload needs a specific engine version. When omitted, the first release uses the latest stable Memoria FFVIII release and subsequent versions inherit the published minimum.
 4. Commit and push to `main`. Every changed mod folder publishes independently, starting at `1.0.0` and incrementing the patch version automatically. Add or raise the optional `version` in `mod.json` to start at a higher stable version.
 

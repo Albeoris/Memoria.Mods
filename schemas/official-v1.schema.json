@@ -66,7 +66,7 @@
         "category": { "type": "string", "minLength": 1 },
         "format": { "const": "memoria-native" },
         "delivery": { "const": "download" },
-        "defaultEnabled": { "type": "boolean" },
+        "defaultEnabled": { "const": true },
         "target": { "$ref": "#/$defs/target" },
         "latest": { "$ref": "#/$defs/release" }
       }
@@ -86,10 +86,10 @@
       "type": "object",
       "required": ["path", "size", "sha256", "mutable"],
       "properties": {
-        "path": { "type": "string", "minLength": 1 },
+        "path": { "type": "string", "minLength": 1, "not": { "pattern": "(^|/)[Mm][Oo][Dd]\\.[Ii][Nn][Ii](/|$)" } },
         "size": { "type": "integer", "minimum": 0 },
         "sha256": { "$ref": "#/$defs/digest" },
-        "mutable": { "type": "boolean" }
+        "mutable": { "const": false }
       }
     },
     "manifest": {

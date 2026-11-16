@@ -15,6 +15,5 @@
     "languages": ["*"]
   },
   "engineVersionRange": "[0.8.10,)",
-  "releaseNotes": "Initial standalone publication.",
-  "mutableFiles": ["mod.ini"]
+  "releaseNotes": "Keep mod preferences in the player's local settings."
 }
