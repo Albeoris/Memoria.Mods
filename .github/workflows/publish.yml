@@ -1,0 +1,30 @@
+name: Publish official mods
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: official-mod-publication
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - name: Check out current main
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+      - name: Run publication checks
+        run: python3 -m unittest discover -s tools
+      - name: Publish changed components
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tools/publish.py

@@ -1,0 +1,20 @@
+{
+  "id": "girl-next-door",
+  "groupId": "Memoria",
+  "runtimePackageId": "Memoria/Girl Next Door",
+  "settingsKey": "Girl Next Door",
+  "name": "Girl Next Door",
+  "description": "Open the magazine from the item menu.",
+  "category": "Items",
+  "format": "memoria-native",
+  "delivery": "download",
+  "defaultEnabled": true,
+  "target": {
+    "game": "FFVIII",
+    "editions": ["Classic"],
+    "languages": ["*"]
+  },
+  "engineVersionRange": "[0.8.10,)",
+  "releaseNotes": "Initial standalone publication.",
+  "mutableFiles": ["mod.ini"]
+}

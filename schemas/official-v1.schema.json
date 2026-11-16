@@ -1,0 +1,110 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Memoria official catalog and native package manifest",
+  "oneOf": [
+    { "$ref": "#/$defs/catalog" },
+    { "$ref": "#/$defs/manifest" }
+  ],
+  "$defs": {
+    "schemaVersion": { "const": 1 },
+    "sourceId": { "const": "memoria-official" },
+    "componentId": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "version": { "type": "string", "pattern": "^(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)$" },
+    "engineVersionRange": { "type": "string", "pattern": "^\\[(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)\\.(0|[1-9][0-9]*)(?:\\.[1-9][0-9]*)?(?:-[0-9A-Za-z-]+(?:\\.[0-9A-Za-z-]+)*)?,\\)$" },
+    "runtimePackageId": { "type": "string", "pattern": "^Memoria/[^/]+$" },
+    "digest": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "target": {
+      "type": "object",
+      "required": ["game", "editions", "languages"],
+      "properties": {
+        "game": { "const": "FFVIII" },
+        "editions": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "enum": ["Classic", "Remastered"] }
+        },
+        "languages": {
+          "oneOf": [
+            { "const": ["*"] },
+            { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "type": "string", "pattern": "^[a-z]{2}$" } }
+          ]
+        }
+      }
+    },
+    "artifact": {
+      "type": "object",
+      "required": ["url", "size", "unpackedSize", "sha256"],
+      "properties": {
+        "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "size": { "type": "integer", "minimum": 1, "exclusiveMaximum": 2147483648 },
+        "unpackedSize": { "type": "integer", "minimum": 1 },
+        "sha256": { "$ref": "#/$defs/digest" }
+      }
+    },
+    "release": {
+      "type": "object",
+      "required": ["version", "engineVersionRange", "releaseTag", "releaseNotes", "artifact"],
+      "properties": {
+        "version": { "$ref": "#/$defs/version" },
+        "engineVersionRange": { "$ref": "#/$defs/engineVersionRange" },
+        "releaseTag": { "type": "string", "minLength": 1 },
+        "releaseNotes": { "type": "string" },
+        "artifact": { "$ref": "#/$defs/artifact" }
+      }
+    },
+    "component": {
+      "type": "object",
+      "required": ["id", "groupId", "runtimePackageId", "settingsKey", "name", "description", "category", "format", "delivery", "defaultEnabled", "target", "latest"],
+      "properties": {
+        "id": { "$ref": "#/$defs/componentId" },
+        "groupId": { "const": "Memoria" },
+        "runtimePackageId": { "$ref": "#/$defs/runtimePackageId" },
+        "settingsKey": { "type": "string", "minLength": 1 },
+        "name": { "type": "string", "minLength": 1 },
+        "description": { "type": "string", "minLength": 1 },
+        "category": { "type": "string", "minLength": 1 },
+        "format": { "const": "memoria-native" },
+        "delivery": { "const": "download" },
+        "defaultEnabled": { "type": "boolean" },
+        "target": { "$ref": "#/$defs/target" },
+        "latest": { "$ref": "#/$defs/release" }
+      }
+    },
+    "catalog": {
+      "type": "object",
+      "required": ["schemaVersion", "sourceId", "revision", "publishedAt", "components"],
+      "properties": {
+        "schemaVersion": { "$ref": "#/$defs/schemaVersion" },
+        "sourceId": { "$ref": "#/$defs/sourceId" },
+        "revision": { "type": "integer", "minimum": 1 },
+        "publishedAt": { "type": "string", "format": "date-time" },
+        "components": { "type": "array", "items": { "$ref": "#/$defs/component" } }
+      }
+    },
+    "file": {
+      "type": "object",
+      "required": ["path", "size", "sha256", "mutable"],
+      "properties": {
+        "path": { "type": "string", "minLength": 1 },
+        "size": { "type": "integer", "minimum": 0 },
+        "sha256": { "$ref": "#/$defs/digest" },
+        "mutable": { "type": "boolean" }
+      }
+    },
+    "manifest": {
+      "type": "object",
+      "required": ["schemaVersion", "sourceId", "componentId", "runtimePackageId", "version", "engineVersionRange", "target", "files"],
+      "properties": {
+        "schemaVersion": { "$ref": "#/$defs/schemaVersion" },
+        "sourceId": { "$ref": "#/$defs/sourceId" },
+        "componentId": { "$ref": "#/$defs/componentId" },
+        "runtimePackageId": { "$ref": "#/$defs/runtimePackageId" },
+        "version": { "$ref": "#/$defs/version" },
+        "engineVersionRange": { "$ref": "#/$defs/engineVersionRange" },
+        "target": { "$ref": "#/$defs/target" },
+        "files": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/file" } }
+      }
+    }
+  }
+}
