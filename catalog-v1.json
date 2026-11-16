@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceId": "memoria-official",
-  "revision": 2,
-  "publishedAt": "2026-11-16T21:28:03Z",
+  "revision": 3,
+  "publishedAt": "2026-11-16T21:42:19Z",
   "components": [
     {
       "id": "girl-next-door",
@@ -25,15 +25,15 @@
         ]
       },
       "latest": {
-        "version": "1.0.1",
+        "version": "1.0.2",
         "engineVersionRange": "[0.8.10,)",
-        "releaseTag": "girl-next-door-v1.0.1",
-        "releaseNotes": "Keep mod preferences in the player's local settings.",
+        "releaseTag": "girl-next-door-v1.0.2",
+        "releaseNotes": "Declare the magazine's item and image in the mod package.",
         "artifact": {
-          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/girl-next-door-v1.0.1/girl-next-door-1.0.1.zip",
-          "size": 2506650,
-          "unpackedSize": 2506394,
-          "sha256": "88ea82d399001269432ca1f1bab2a686fadf0cc2b2f2a008b3a945a1669a7964"
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/girl-next-door-v1.0.2/girl-next-door-1.0.2.zip",
+          "size": 2507078,
+          "unpackedSize": 2506684,
+          "sha256": "72e089c95ff220f727c7b4a9c82527a4cbc6d81b209c18b62a63078b48e32e3b"
         }
       }
     }
