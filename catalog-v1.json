@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "memoria-official",
+  "revision": 1,
+  "publishedAt": "2026-11-16T21:16:20Z",
+  "components": [
+    {
+      "id": "girl-next-door",
+      "groupId": "Memoria",
+      "runtimePackageId": "Memoria/Girl Next Door",
+      "settingsKey": "Girl Next Door",
+      "name": "Girl Next Door",
+      "description": "Open the magazine from the item menu.",
+      "category": "Items",
+      "format": "memoria-native",
+      "delivery": "download",
+      "defaultEnabled": true,
+      "target": {
+        "game": "FFVIII",
+        "editions": [
+          "Classic"
+        ],
+        "languages": [
+          "*"
+        ]
+      },
+      "latest": {
+        "version": "1.0.0",
+        "engineVersionRange": "[0.8.10,)",
+        "releaseTag": "girl-next-door-v1.0.0",
+        "releaseNotes": "Initial standalone publication.",
+        "artifact": {
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/girl-next-door-v1.0.0/girl-next-door-1.0.0.zip",
+          "size": 2506931,
+          "unpackedSize": 2506569,
+          "sha256": "faf377c767d768f9a09c948e2b8fa0864310a228c1a42ed16bd91b2673243133"
+        }
+      }
+    }
+  ]
+}
