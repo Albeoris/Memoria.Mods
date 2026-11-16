@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceId": "memoria-official",
-  "revision": 1,
-  "publishedAt": "2026-11-16T21:16:20Z",
+  "revision": 2,
+  "publishedAt": "2026-11-16T21:28:03Z",
   "components": [
     {
       "id": "girl-next-door",
@@ -25,15 +25,15 @@
         ]
       },
       "latest": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "engineVersionRange": "[0.8.10,)",
-        "releaseTag": "girl-next-door-v1.0.0",
-        "releaseNotes": "Initial standalone publication.",
+        "releaseTag": "girl-next-door-v1.0.1",
+        "releaseNotes": "Keep mod preferences in the player's local settings.",
         "artifact": {
-          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/girl-next-door-v1.0.0/girl-next-door-1.0.0.zip",
-          "size": 2506931,
-          "unpackedSize": 2506569,
-          "sha256": "faf377c767d768f9a09c948e2b8fa0864310a228c1a42ed16bd91b2673243133"
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/girl-next-door-v1.0.1/girl-next-door-1.0.1.zip",
+          "size": 2506650,
+          "unpackedSize": 2506394,
+          "sha256": "88ea82d399001269432ca1f1bab2a686fadf0cc2b2f2a008b3a945a1669a7964"
         }
       }
     }
