@@ -19,3 +19,5 @@ python -m unittest discover -s tools
 ```
 
 The builder writes a reproducible ZIP and catalog entry under `artifacts/`. Pass `--version` and `--engine-version-range` to reproduce the resolved fields of a published package. The catalog and package formats are described in [formats.md](formats.md).
+
+To open a PNG from a game's item menu, author the mapping in `payload/items/book-artwork.json`. See [the item artwork format](formats.md#item-book-artwork) for the file structure and image paths.

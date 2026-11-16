@@ -19,6 +19,7 @@ NUGET_MINIMUM = re.compile(r"(0|[1-9][0-9]{0,9})\.(0|[1-9][0-9]{0,9})\.(0|[1-9][
 COMPONENT_ID = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 MAX_ASSET_SIZE = 2 * 1024**3
 CHUNK_SIZE = 1024**2
+BOOK_ARTWORK_PATH = "items/book-artwork.json"
 DESCRIPTOR_FIELDS = ("id", "groupId", "runtimePackageId", "settingsKey", "name", "description", "category", "format", "delivery", "defaultEnabled", "target")
 UNSUPPORTED_PAYLOAD_TYPES = {".exe", ".dll", ".so", ".dylib", ".bat", ".cmd", ".ps1", ".msi", ".lnk"}
 RESERVED_PATH = re.compile(r"(?:CON|PRN|AUX|NUL|COM[1-9¹²³]|LPT[1-9¹²³])(?:\.|$)", re.IGNORECASE)
@@ -164,6 +165,34 @@ def payload_files(folder):
     return files
 
 
+def validate_book_artwork(paths):
+    mapping_path = next((name for name in paths if name.casefold() == BOOK_ARTWORK_PATH), None)
+    if mapping_path is None:
+        return
+    require(mapping_path == BOOK_ARTWORK_PATH, f"Use the exact path {BOOK_ARTWORK_PATH}: {mapping_path}")
+    try:
+        mapping = json.loads(paths[mapping_path].read_text(encoding="utf-8"), object_pairs_hook=unique_object)
+    except ValueError as error:
+        raise ValueError(f"{mapping_path}: invalid UTF-8 JSON: {error}") from error
+    require(isinstance(mapping, dict) and set(mapping) == {"schemaVersion", "items"},
+            f"{mapping_path}: expected schemaVersion and items")
+    require(type(mapping["schemaVersion"]) is int and mapping["schemaVersion"] == 1,
+            f"{mapping_path}: unsupported schemaVersion")
+    require(isinstance(mapping["items"], list), f"{mapping_path}: items must be an array")
+    item_ids = set()
+    for item in mapping["items"]:
+        require(isinstance(item, dict) and set(item) == {"itemId", "image"},
+                f"{mapping_path}: every item must declare itemId and image")
+        item_id = item["itemId"]
+        require(type(item_id) is int and 0 <= item_id <= 255, f"{mapping_path}: itemId must be an integer from 0 through 255")
+        require(item_id not in item_ids, f"{mapping_path}: duplicate itemId: {item_id}")
+        item_ids.add(item_id)
+        image = item["image"]
+        validate_path(image)
+        require(image.lower().endswith(".png") and image in paths,
+                f"{mapping_path}: image must name an exact-case PNG path in this payload: {image}")
+
+
 def archive_entry(name, size):
     entry = ZipInfo(name, date_time=(1980, 1, 1, 0, 0, 0))
     entry.create_system = 3
@@ -194,6 +223,7 @@ def build(folder, output, descriptor, version, minimum, repository=REPOSITORY):
     version_key(version)
     engine_range(minimum)
     paths = payload_files(folder)
+    validate_book_artwork(paths)
     inventory = []
     for name, path in sorted(paths.items()):
         size, digest = file_digest(path)

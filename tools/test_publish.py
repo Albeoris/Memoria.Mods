@@ -153,6 +153,40 @@ class PublicationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "defaultEnabled must be true"):
             read_descriptor(folder)
 
+    def test_package_book_artwork_with_relative_image(self):
+        folder = self.create_mod("artwork")
+        payload = folder / "payload"
+        (payload / "art").mkdir()
+        (payload / "art" / "Cover.PNG").write_bytes(b"original cover")
+        (payload / "items").mkdir()
+        mapping = {"schemaVersion": 1, "items": [{"itemId": 0, "image": "art/Cover.PNG"}, {"itemId": 255, "image": "image.png"}]}
+        (payload / "items" / "book-artwork.json").write_bytes(json_bytes(mapping))
+        archive_path, _ = build(folder, self.root / "archive", read_descriptor(folder), "1.0.0", "[1.0.0,)")
+        with ZipFile(archive_path) as archive:
+            self.assertEqual(mapping, json.loads(archive.read("payload/items/book-artwork.json")))
+            self.assertEqual(b"original cover", archive.read("payload/art/Cover.PNG"))
+
+    def test_reject_invalid_book_artwork(self):
+        folder = self.create_mod("artwork")
+        descriptor = read_descriptor(folder)
+        path = folder / "payload" / "items" / "book-artwork.json"
+        path.parent.mkdir()
+        item = {"itemId": 163, "image": "image.png"}
+        cases = (
+            ("unsupported schemaVersion", {"schemaVersion": 2, "items": [item]}),
+            ("duplicate itemId", {"schemaVersion": 1, "items": [item, item]}),
+            ("integer from 0 through 255", {"schemaVersion": 1, "items": [{**item, "itemId": True}]}),
+            ("integer from 0 through 255", {"schemaVersion": 1, "items": [{**item, "itemId": 256}]}),
+            ("Non-portable resource path", {"schemaVersion": 1, "items": [{**item, "image": "../image.png"}]}),
+            ("exact-case PNG path", {"schemaVersion": 1, "items": [{**item, "image": "Image.png"}]}),
+            ("exact-case PNG path", {"schemaVersion": 1, "items": [{**item, "image": "missing.png"}]}),
+        )
+        for expected_error, mapping in cases:
+            with self.subTest(mapping=mapping):
+                path.write_bytes(json_bytes(mapping))
+                with self.assertRaisesRegex(ValueError, expected_error):
+                    build(folder, self.root / "archive", descriptor, "1.0.0", "[1.0.0,)")
+
     def test_reject_bounded_or_invalid_engine_minimum(self):
         for invalid in ("1.2.3", "(1.2.3,)", "[1.2.3]", "[1.2.3,2.0.0]", "[,)", "[01.2.3,)"):
             with self.subTest(invalid=invalid), self.assertRaises(ValueError):
