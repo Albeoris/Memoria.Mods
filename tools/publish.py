@@ -26,6 +26,7 @@ RELEASE_SUFFIX = " -->"
 DIGEST = re.compile(r"[a-f0-9]{64}")
 GIT_ID = re.compile(r"[a-f0-9]{40}")
 CATALOG_REF = f"refs/heads/{CATALOG_BRANCH}"
+RETIRED_COMPONENT_IDS = {"memoria-girl-next-door": "girl-next-door"}
 GIT_AUTHOR = ("-c", "user.name=github-actions[bot]", "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com")
 
 
@@ -183,6 +184,7 @@ def validate_unique(components):
 
 def write_catalog(folder, catalog, component, source):
     components = {entry["id"]: entry for entry in catalog["components"]}
+    components.pop(RETIRED_COMPONENT_IDS.get(component["id"]), None)
     components[component["id"]] = component
     updated = {
         "schemaVersion": 1,
@@ -268,11 +270,17 @@ def prune(host, component, keep, catalog):
     for candidate_version, (candidate, _) in component_releases(host.releases(), component_id).items():
         if candidate_version != version:
             retry(lambda: host.delete_release(candidate), f"Delete {candidate['tag_name']}")
+    previous_id = RETIRED_COMPONENT_IDS.get(component_id)
+    if previous_id:
+        require(all(entry["id"] != previous_id for entry in catalog["components"]), "Cannot prune an advertised previous identity")
+        for candidate, _ in component_releases(host.releases(), previous_id).values():
+            retry(lambda: host.delete_release(candidate), f"Delete {candidate['tag_name']}")
 
     def assert_retention():
         retained = component_releases(host.releases(), component_id)
         require(set(retained) == {version} and retained[version][0]["id"] == keep["id"] and not retained[version][0]["draft"],
                 f"{component_id}: publication did not retain exactly one available version")
+        require(not previous_id or not component_releases(host.releases(), previous_id), "Retired identity still has published releases")
 
     retry(assert_retention, f"Verify release retention for {component_id}")
 
@@ -289,7 +297,12 @@ def validate_identity_transition(current, metadata, minimum):
     fields = ("runtimePackageId", "settingsKey")
     old = tuple(current[key] for key in fields)
     new = tuple(metadata[key] for key in fields)
-    if old == new:
+    if current["id"] == metadata["id"] and old == new:
+        return
+    if metadata["id"] == "memoria-girl-next-door" and current["id"] == "girl-next-door":
+        require(old in (("Memoria/Girl Next Door", "Girl Next Door"), ("Memoria/girl-next-door", "girl-next-door"))
+                and new == ("Memoria/memoria-girl-next-door", "memoria-girl-next-door") and minimum == "[0.8.12,)",
+                "The namespaced Girl Next Door identity requires Memoria 0.8.12")
         return
     require(metadata["id"] == "girl-next-door" and old == ("Memoria/Girl Next Door", "Girl Next Door")
             and new == ("Memoria/girl-next-door", "girl-next-door") and minimum == "[0.8.11,)",
@@ -309,11 +322,14 @@ def publish(root, host, resolve_minimum=latest_engine_range):
     validate_unique(components)
     configuration = read_release_configuration(root)
     component_ids = {entry["id"] for entry in components}
+    require(not any(new in component_ids and old in component_ids for new, old in RETIRED_COMPONENT_IDS.items()),
+            "A retired component ID cannot be authored beside its replacement")
     require(configuration.keys() <= component_ids, "Release configuration references an unknown component ID")
     with TemporaryDirectory(prefix="memoria-mods-") as temporary, checkout_catalog(root, Path(temporary)) as catalog_folder:
         catalog = read_catalog(catalog_folder, host.repository)
         existing = {entry["id"]: entry for entry in catalog["components"]}
-        require(existing.keys() <= component_ids, "A cataloged component ID was removed or changed")
+        retained_ids = component_ids | {old for new, old in RETIRED_COMPONENT_IDS.items() if new in component_ids}
+        require(existing.keys() <= retained_ids, "A cataloged component ID was removed or changed")
         releases = host.releases()
         for folder, descriptor, metadata in zip(folders, descriptors, components):
             component_id = descriptor["id"]
@@ -324,19 +340,21 @@ def publish(root, host, resolve_minimum=latest_engine_range):
                 # Keep release metadata in the publication identity without rebuilding other mods.
                 tree = git(root, "hash-object", "--stdin", stdin=json.dumps([tree, release_configuration], sort_keys=True))
             available = component_releases(releases, component_id)
-            current = existing.get(component_id)
+            previous_id = RETIRED_COMPONENT_IDS.get(component_id)
+            current = existing.get(component_id) or existing.get(previous_id)
             current_version = current["latest"]["version"] if current else None
             if current_version:
-                require(current_version in available, f"Catalog references a missing release for {component_id}")
-                current_release, current_identity = available[current_version]
+                advertised = component_releases(releases, current["id"])
+                require(current_version in advertised, f"Catalog references a missing release for {component_id}")
+                current_release, current_identity = advertised[current_version]
                 latest = current["latest"]
                 require(not current_release["draft"] and current_identity["sha256"] == latest["artifact"]["sha256"]
                         and current_identity["engineVersionRange"] == latest["engineVersionRange"],
                         f"Catalog references a mismatched release for {component_id}")
-                verify_release(current_release, f"{component_id}-{current_version}.zip", latest["artifact"])
+                verify_release(current_release, f"{current['id']}-{current_version}.zip", latest["artifact"])
                 validate_identity_transition(current, metadata, configured_minimum)
-                if current_identity["tree"] == tree:
-                    if len(available) > 1:
+                if current["id"] == component_id and current_identity["tree"] == tree:
+                    if len(available) > 1 or previous_id and component_releases(releases, previous_id):
                         host.verify_artifact(latest["artifact"])
                         prune(host, current, current_release, catalog)
                         report_publication(current_identity["sourceCommit"], current, catalog)
@@ -351,7 +369,8 @@ def publish(root, host, resolve_minimum=latest_engine_range):
                 require(configured_minimum is None or minimum == configured_minimum, f"{component_id}: candidate engine range differs from configuration")
                 origin = identity["sourceCommit"]
             else:
-                version = select_version(available, release_configuration.get("version"))
+                versions = set(available) | ({current_version} if current_version else set())
+                version = select_version(versions, release_configuration.get("version"))
                 release, identity = None, None
                 origin = source
                 tag = f"{component_id}-v{version}"

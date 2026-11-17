@@ -1,5 +1,6 @@
 {
-  "girl-next-door": {
-    "engineVersionRange": "[0.8.11,)"
+  "memoria-girl-next-door": {
+    "engineVersionRange": "[0.8.12,)",
+    "releaseNotes": "Use a globally namespaced mod ID while preserving installed settings. Update Memoria to 0.8.12 first."
   }
 }

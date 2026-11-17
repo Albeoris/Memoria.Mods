@@ -1,10 +1,10 @@
 # Memoria FFVIII official mods
 
-Browse and install these mods from the Mods menu in [Memoria FFVIII](https://github.com/Albeoris/Memoria.FF8). Girl Next Door is available for Classic in every supported language and requires Memoria FFVIII 0.8.11 or later.
+Browse and install these mods from the Mods menu in [Memoria FFVIII](https://github.com/Albeoris/Memoria.FF8). Girl Next Door is available for Classic in every supported language and requires Memoria FFVIII 0.8.12 or later.
 
 ## Publishing
 
-1. Put each independently published mod in its own `mods/` subfolder. Copy the [Girl Next Door descriptor](mods/girl-next-door/mod.json) as a starting point. Choose a lowercase hyphenated ID and keep it stable after publication.
+1. Put each independently published mod in its own `mods/` subfolder. Copy the [Girl Next Door descriptor](mods/girl-next-door/mod.json) as a starting point. Choose a globally unique lowercase hyphenated ID with a publisher prefix (`memoria-` for these official mods), and keep it stable after publication. The `package` field only controls menu grouping.
 2. Put redistributable native resources beside `mod.json` or in its subdirectories. The player's local `mod.ini` is reserved for their settings. Keep it, original game assets and engine binaries out of the package. Put any required attribution in `NOTICE.md` beside `mod.json`.
 3. Set `engineVersionRange` to `[minimum,)` in [releases.json](releases.json) under the descriptor ID if the package needs a specific engine version. When omitted, the first release uses the latest stable Memoria FFVIII release and subsequent versions inherit the published minimum.
 4. Commit and push to `main`. Changes to a mod's files or release configuration publish independently, starting at `1.0.0` and incrementing the patch version automatically. Set the optional `version` in `releases.json` to publish at a higher stable version.

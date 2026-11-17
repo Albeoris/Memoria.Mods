@@ -12,7 +12,7 @@ Both generated documents conform to [the version 1 JSON Schema](schemas/official
 
 ## Mod descriptor
 
-`mod.json` declares the stable lowercase hyphenated `id`, the display `name`, the display group in `package`, and a `description` object keyed by language code with an `en` entry. Changing `package` moves the mod to the new group while retaining its identity. The installed descriptor includes every authored translation. Write descriptor and item documents as UTF-8 JSON without a byte order mark.
+`mod.json` declares the stable lowercase hyphenated `id`, the display `name`, the display group in `package`, and a `description` object keyed by language code with an `en` entry. Mod IDs are globally unique among native mods; `package` is not an ID namespace. Official Memoria IDs begin with `memoria-`. Changing `package` moves the mod to the new group while retaining its identity. The installed descriptor includes every authored translation. Write descriptor and item documents as UTF-8 JSON without a byte order mark.
 
 ## Item overrides
 

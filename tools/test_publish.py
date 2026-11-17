@@ -398,6 +398,37 @@ class PublicationTests(unittest.TestCase):
         self.assertEqual(1, self.default_calls)
         self.assertEqual(1, self.host.read_catalog()["revision"])
 
+    def test_namespaced_identity_replaces_catalog_atomically_and_resumes_retirement(self):
+        previous_id = "girl-next-door"
+        component_id = "memoria-girl-next-door"
+        folder = self.create_mod(previous_id, minimum="[0.8.11,)")
+        self.configure_release(previous_id, version="1.0.3", engineVersionRange="[0.8.11,)")
+        self.commit()
+        self.run_publication()
+        before = self.host.read_catalog()
+
+        descriptor = read_descriptor(folder)
+        descriptor["id"] = component_id
+        (folder / "mod.json").write_bytes(json_bytes(descriptor))
+        (self.repository / "releases.json").write_bytes(json_bytes({component_id: {"engineVersionRange": "[0.8.11,)"}}))
+        self.commit()
+        with self.assertRaisesRegex(ValueError, "requires Memoria 0.8.12"):
+            self.run_publication()
+        self.assertEqual(before, self.host.read_catalog())
+
+        self.configure_release(component_id, engineVersionRange="[0.8.12,)")
+        self.commit()
+        self.host.fail_catalog_check = True
+        with self.assertRaisesRegex(RuntimeError, "interrupted after catalog switch"):
+            self.run_publication()
+        switched = self.host.read_catalog()
+        self.assertEqual([component_id], [entry["id"] for entry in switched["components"]])
+        self.assertEqual("1.0.4", switched["components"][0]["latest"]["version"])
+        self.assertEqual({"girl-next-door-v1.0.3", "memoria-girl-next-door-v1.0.4"}, set(self.host.records))
+        self.run_publication()
+        self.assertEqual(switched, self.host.read_catalog())
+        self.assertEqual({"memoria-girl-next-door-v1.0.4"}, set(self.host.records))
+
     def test_resume_cleanup_without_changing_catalog_or_other_release(self):
         self.create_mod("artwork")
         self.create_mod("other")
