@@ -7,8 +7,10 @@ from pathlib import Path
 import re
 import shutil
 import stat
+from struct import unpack
 from urllib.request import urlopen
 from zipfile import ZIP_STORED, ZipFile, ZipInfo
+from zlib import crc32
 
 
 SOURCE_ID = "memoria-official"
@@ -19,6 +21,9 @@ NUGET_MINIMUM = re.compile(r"(0|[1-9][0-9]{0,9})\.(0|[1-9][0-9]{0,9})\.(0|[1-9][
 COMPONENT_ID = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 MAX_ASSET_SIZE = 2 * 1024**3
 CHUNK_SIZE = 1024**2
+MAX_PNG_SIZE = 64 * 1024**2
+PNG_SIGNATURE = b"\x89PNG\r\n\x1a\n"
+PNG_DEPTHS = {0: (1, 2, 4, 8, 16), 2: (8, 16), 3: (1, 2, 4, 8), 4: (8, 16), 6: (8, 16)}
 DESCRIPTOR_FIELDS = {"id", "name", "package", "description"}
 CATALOG_FIELDS = ("id", "groupId", "runtimePackageId", "settingsKey", "name", "description", "category", "format", "delivery", "defaultEnabled", "target")
 RELEASE_CONFIG = "releases.json"
@@ -107,8 +112,8 @@ def validate_catalog_component(component, component_id):
             f"{component_id}: expected a downloadable native mod")
     require(component.get("defaultEnabled") is True, f"{component_id}: defaultEnabled must be true")
     validate_path(component["runtimePackageId"])
-    require(component["groupId"] == "Memoria" and component["runtimePackageId"].startswith("Memoria/")
-            and component["runtimePackageId"].count("/") == 1, f"{component_id}: runtime package must be a direct child of Memoria")
+    require(component["runtimePackageId"].startswith("Memoria/") and component["runtimePackageId"].count("/") == 1,
+            f"{component_id}: runtime package must be a direct child of Memoria")
     validate_target(component.get("target"))
 
 
@@ -131,7 +136,9 @@ def read_descriptor(folder):
             f"{path}: invalid descriptor ID")
     validate_path(component_id)
     require(isinstance(descriptor["name"], str) and descriptor["name"].strip(), f"{path}: name must be text")
-    require(descriptor["package"] == "Memoria", f"{path}: official package must be Memoria")
+    package = descriptor["package"]
+    require(isinstance(package, str) and package.strip() and not re.search(r"[\x00-\x1f\x7f-\x9f]", package),
+            f"{path}: package must be nonblank text without control characters")
     descriptions = descriptor["description"]
     require(isinstance(descriptions, dict) and "en" in descriptions
             and all(re.fullmatch(r"[a-z]{2}", key) and isinstance(value, str) and value.strip() for key, value in descriptions.items()),
@@ -144,7 +151,7 @@ def catalog_metadata(descriptor):
     return {
         "id": component_id, "groupId": descriptor["package"], "runtimePackageId": f"Memoria/{component_id}",
         "settingsKey": component_id, "name": descriptor["name"], "description": descriptor["description"]["en"],
-        "category": "Items", "format": "memoria-native", "delivery": "download", "defaultEnabled": True,
+        "category": descriptor["package"], "format": "memoria-native", "delivery": "download", "defaultEnabled": True,
         "target": {"game": "FFVIII", "editions": ["Classic"], "languages": ["*"]},
     }
 
@@ -228,8 +235,58 @@ def resolve_image(document, image):
     return "/".join(parts)
 
 
+def validate_png(path, name):
+    prefix = f"{name}: invalid PNG"
+    file_size = path.stat().st_size
+    require(file_size <= MAX_PNG_SIZE, f"{prefix}: file exceeds 64 MiB")
+    with path.open("rb") as stream:
+        require(stream.read(8) == PNG_SIGNATURE, f"{prefix}: incorrect signature")
+        color = None
+        palette = False
+        image_data_size = 0
+        reading_image_data = False
+        image_data_ended = False
+        while True:
+            header = stream.read(8)
+            require(len(header) == 8, f"{prefix}: missing IEND or incomplete chunk header")
+            size, kind = unpack(">I4s", header)
+            require(size <= file_size - stream.tell() - 4 and kind.isalpha() and kind[2:3].isupper(),
+                    f"{prefix}: invalid chunk length or type")
+            data = stream.read(size)
+            checksum = stream.read(4)
+            require(len(data) == size and len(checksum) == 4 and crc32(data, crc32(kind)) == int.from_bytes(checksum, "big"),
+                    f"{prefix}: invalid {kind.decode('ascii')} CRC")
+            require(color is not None or kind == b"IHDR", f"{prefix}: missing initial IHDR")
+            if kind == b"IHDR":
+                require(color is None and size == 13, f"{prefix}: invalid IHDR")
+                width, height, depth, color, compression, filtering, interlace = unpack(">IIBBBBB", data)
+                require(0 < width <= 8192 and 0 < height <= 8192 and width * height <= 32_000_000,
+                        f"{prefix}: unsupported dimensions")
+                require(depth in PNG_DEPTHS.get(color, ()) and compression == filtering == 0 and interlace in (0, 1),
+                        f"{prefix}: unsupported IHDR fields")
+            elif kind == b"PLTE":
+                require(not palette and not reading_image_data and not image_data_ended and color not in (0, 4)
+                        and 3 <= size <= 768 and size % 3 == 0 and (color != 3 or size // 3 <= 2**depth),
+                        f"{prefix}: invalid PLTE")
+                palette = True
+            elif kind == b"IDAT":
+                require(not image_data_ended and (color != 3 or palette), f"{prefix}: misplaced IDAT or missing PLTE")
+                image_data_size += size
+                reading_image_data = True
+            elif kind == b"IEND":
+                require(image_data_size > 0, f"{prefix}: missing image data")
+                require(size == 0 and not stream.read(1), f"{prefix}: invalid IEND")
+                return
+            else:
+                require(kind[:1].islower(), f"{prefix}: unknown critical chunk {kind.decode('ascii')}")
+                if reading_image_data:
+                    image_data_ended = True
+                    reading_image_data = False
+
+
 def validate_items(paths):
     item_ids = set()
+    validated_images = set()
     for name, path in sorted(paths.items()):
         if not name.startswith("items/") or not name.lower().endswith(".json"):
             continue
@@ -240,7 +297,7 @@ def validate_items(paths):
         require(isinstance(item, dict) and "id" in item and {"type", "use"} & item.keys() and item.keys() <= {"id", "type", "use"},
                 f"{name}: expected id and at least one of type and use")
         item_id = item["id"]
-        require(type(item_id) is int and 0 <= item_id <= 255, f"{name}: id must be an integer from 0 through 255")
+        require(type(item_id) is int and 1 <= item_id <= 255, f"{name}: id must be an integer from 1 through 255")
         require(item_id not in item_ids, f"{name}: duplicate item ID: {item_id}")
         item_ids.add(item_id)
         if "type" in item:
@@ -252,6 +309,9 @@ def validate_items(paths):
             image = resolve_image(name, use["image"])
             require(image.lower().endswith(".png") and image in paths,
                     f"{name}: image must name an exact-case PNG path in this package: {use['image']}")
+            if image not in validated_images:
+                validate_png(paths[image], image)
+                validated_images.add(image)
 
 
 def archive_entry(name, size):

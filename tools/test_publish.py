@@ -1,13 +1,28 @@
 import copy
 import json
 from pathlib import Path
+from struct import pack
 from tempfile import TemporaryDirectory
 import unittest
 from unittest.mock import patch
 from zipfile import ZipFile
+from zlib import compress, crc32
 
-from build import build, catalog_metadata, engine_range, file_digest, json_bytes, read_descriptor, read_release_configuration
+from build import PNG_SIGNATURE, build, catalog_metadata, engine_range, file_digest, json_bytes, read_descriptor, read_release_configuration
 from publish import CATALOG_FILE, CATALOG_REF, RELEASE_MARKER, RELEASE_SUFFIX, GIT_AUTHOR, git, publish
+
+
+def png_chunk(kind, data):
+    return pack(">I", len(data)) + kind + data + pack(">I", crc32(kind + data))
+
+
+def png_header(width=1, height=1):
+    return png_chunk(b"IHDR", pack(">IIBBBBB", width, height, 8, 6, 0, 0, 0))
+
+
+PNG_IMAGE_DATA = png_chunk(b"IDAT", compress(b"\x00\x00\x00\x00\xff"))
+PNG_END = png_chunk(b"IEND", b"")
+TEST_PNG = PNG_SIGNATURE + png_header() + PNG_IMAGE_DATA + PNG_END
 
 
 class FakeGitHub:
@@ -93,7 +108,7 @@ class PublicationTests(unittest.TestCase):
     def create_mod(self, component_id, *, minimum=None, folder_name=None):
         folder = self.repository / "mods" / (folder_name or component_id)
         folder.mkdir(parents=True)
-        (folder / "image.png").write_bytes(b"original")
+        (folder / "image.png").write_bytes(TEST_PNG)
         descriptor = {
             "id": component_id, "name": f"Title of {component_id}", "package": "Memoria",
             "description": {"en": f"Description of {component_id}.", "ru": "Описание."},
@@ -137,11 +152,12 @@ class PublicationTests(unittest.TestCase):
             self.assertEqual("artwork", manifest["componentId"])
             self.assertEqual("Memoria/artwork", manifest["runtimePackageId"])
             self.assertEqual(descriptor, json.loads(archive.read("payload/mod.json")))
-            self.assertEqual(b"original", archive.read("payload/image.png"))
+            self.assertEqual(TEST_PNG, archive.read("payload/image.png"))
             self.assertEqual(b"Attribution", archive.read("NOTICE.md"))
             self.assertEqual(sum(entry.file_size for entry in archive.infolist()), component["latest"]["artifact"]["unpackedSize"])
         self.assertEqual("artwork", component["settingsKey"])
         self.assertEqual("Memoria", component["groupId"])
+        self.assertEqual("Memoria", component["category"])
         self.assertEqual("Title of artwork", component["name"])
         self.assertEqual(descriptor["description"]["en"], component["description"])
         self.assertTrue(component["defaultEnabled"])
@@ -169,9 +185,9 @@ class PublicationTests(unittest.TestCase):
     def test_package_item_overrides_and_image_paths(self):
         folder = self.create_mod("artwork")
         (folder / "items" / "nested").mkdir(parents=True)
-        (folder / "items" / "nested" / "Cover.PNG").write_bytes(b"original cover")
+        (folder / "items" / "nested" / "Cover.PNG").write_bytes(TEST_PNG)
         documents = {
-            "nested/arbitrary.json": {"id": 0, "type": "Magazine", "use": {"action": "ShowImage", "image": "./Cover.PNG"}},
+            "nested/arbitrary.json": {"id": 1, "type": "Magazine", "use": {"action": "ShowImage", "image": "./Cover.PNG"}},
             "nested/255.json": {"id": 163, "use": {"action": "ShowImage", "image": "../../image.png"}},
             "nested/root.JSON": {"id": 164, "use": {"action": "ShowImage", "image": "/image.png"}},
             "nested/plain.json": {"id": 165, "use": {"action": "ShowImage", "image": "Cover.PNG"}},
@@ -184,7 +200,7 @@ class PublicationTests(unittest.TestCase):
         with ZipFile(archive_path) as archive:
             for name, document in documents.items():
                 self.assertEqual(document, json.loads(archive.read(f"payload/items/{name}")))
-            self.assertEqual(b"original cover", archive.read("payload/items/nested/Cover.PNG"))
+            self.assertEqual(TEST_PNG, archive.read("payload/items/nested/Cover.PNG"))
 
     def test_reject_invalid_item_overrides(self):
         folder = self.create_mod("artwork")
@@ -196,8 +212,9 @@ class PublicationTests(unittest.TestCase):
             ("expected id", {"schemaVersion": 1, "items": []}),
             ("expected id", {"id": 163}),
             ("expected id", {"id": 163, "type": "Magazine", "extra": True}),
-            ("integer from 0 through 255", {"id": True, "type": "Magazine"}),
-            ("integer from 0 through 255", {"id": 256, "type": "Magazine"}),
+            ("integer from 1 through 255", {"id": True, "type": "Magazine"}),
+            ("integer from 1 through 255", {"id": 0, "type": "Magazine"}),
+            ("integer from 1 through 255", {"id": 256, "type": "Magazine"}),
             ("unsupported item type", {"id": 163, "type": "magazine"}),
             ("expected a ShowImage action", {"id": 163, "use": None}),
             ("expected a ShowImage action", {"id": 163, "use": {**image_action, "action": "showImage"}}),
@@ -226,6 +243,29 @@ class PublicationTests(unittest.TestCase):
         (path.parent / "duplicate.json").write_bytes(json_bytes(item))
         with self.assertRaisesRegex(ValueError, "duplicate item ID: 163"):
             build(folder, self.root / "archive", descriptor, "1.0.0", "[1.0.0,)")
+
+    def test_reject_invalid_png_used_by_item(self):
+        folder = self.create_mod("artwork")
+        descriptor = read_descriptor(folder)
+        document = folder / "items" / "item.json"
+        document.parent.mkdir()
+        document.write_bytes(json_bytes({"id": 163, "use": {"action": "ShowImage", "image": "/image.png"}}))
+        image = folder / "image.png"
+        cases = {
+            "incorrect signature": b"original cover",
+            "unsupported dimensions": PNG_SIGNATURE + png_header(8193) + PNG_IMAGE_DATA + PNG_END,
+            "invalid IHDR CRC": TEST_PNG[:29] + bytes([TEST_PNG[29] ^ 1]) + TEST_PNG[30:],
+            "missing initial IHDR": PNG_SIGNATURE + PNG_IMAGE_DATA + PNG_END,
+            "missing image data": PNG_SIGNATURE + png_header() + PNG_END,
+            "missing IEND": TEST_PNG[:-12],
+            "invalid IEND": TEST_PNG + b"trailing bytes",
+            "invalid chunk length": TEST_PNG[:33] + pack(">I", 0xFFFFFFFF) + TEST_PNG[37:],
+        }
+        for error, data in cases.items():
+            with self.subTest(error=error):
+                image.write_bytes(data)
+                with self.assertRaisesRegex(ValueError, f"invalid PNG: {error}"):
+                    build(folder, self.root / "archive", descriptor, "1.0.0", "[1.0.0,)")
 
     def test_reject_case_colliding_entries(self):
         folder = self.create_mod("artwork")
@@ -293,13 +333,36 @@ class PublicationTests(unittest.TestCase):
         self.assertEqual("[1.0.1,)", latest["engineVersionRange"])
         self.assertEqual("New engine contract.", latest["releaseNotes"])
 
+    def test_package_group_can_change_without_resetting_identity(self):
+        folder = self.create_mod("artwork")
+        descriptor = read_descriptor(folder)
+        descriptor["package"] = "Original group"
+        (folder / "mod.json").write_bytes(json_bytes(descriptor))
+        self.commit()
+        self.run_publication()
+        initial = self.host.read_catalog()["components"][0]
+
+        descriptor["package"] = "Different group"
+        (folder / "mod.json").write_bytes(json_bytes(descriptor))
+        self.commit()
+        self.run_publication()
+        updated_catalog = self.host.read_catalog()
+        updated = updated_catalog["components"][0]
+        for key in ("id", "runtimePackageId", "settingsKey", "defaultEnabled"):
+            self.assertEqual(initial[key], updated[key])
+        self.assertEqual("Different group", updated["groupId"])
+        self.assertEqual("Different group", updated["category"])
+        self.assertEqual("1.0.1", updated["latest"]["version"])
+        self.run_publication()
+        self.assertEqual(updated_catalog, self.host.read_catalog())
+
     def test_girl_next_door_identity_transition_requires_new_engine(self):
         component_id = "girl-next-door"
         self.create_mod(component_id, minimum="[0.8.10,)")
         self.commit()
 
         def legacy_metadata(descriptor):
-            return {**catalog_metadata(descriptor), "runtimePackageId": "Memoria/Girl Next Door", "settingsKey": "Girl Next Door"}
+            return {**catalog_metadata(descriptor), "runtimePackageId": "Memoria/Girl Next Door", "settingsKey": "Girl Next Door", "category": "Items"}
 
         with patch("publish.catalog_metadata", legacy_metadata), patch("build.catalog_metadata", legacy_metadata):
             self.run_publication()

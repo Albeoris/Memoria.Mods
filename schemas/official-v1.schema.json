@@ -58,7 +58,7 @@
       "required": ["id", "groupId", "runtimePackageId", "settingsKey", "name", "description", "category", "format", "delivery", "defaultEnabled", "target", "latest"],
       "properties": {
         "id": { "$ref": "#/$defs/componentId" },
-        "groupId": { "const": "Memoria" },
+        "groupId": { "type": "string", "pattern": "\\S" },
         "runtimePackageId": { "$ref": "#/$defs/runtimePackageId" },
         "settingsKey": { "type": "string", "minLength": 1 },
         "name": { "type": "string", "minLength": 1 },

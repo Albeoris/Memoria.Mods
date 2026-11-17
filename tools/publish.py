@@ -286,14 +286,14 @@ def report_publication(source, component, catalog):
 
 
 def validate_identity_transition(current, metadata, minimum):
-    fields = ("runtimePackageId", "settingsKey", "groupId")
+    fields = ("runtimePackageId", "settingsKey")
     old = tuple(current[key] for key in fields)
     new = tuple(metadata[key] for key in fields)
     if old == new:
         return
-    require(metadata["id"] == "girl-next-door" and old == ("Memoria/Girl Next Door", "Girl Next Door", "Memoria")
-            and new == ("Memoria/girl-next-door", "girl-next-door", "Memoria") and minimum == "[0.8.11,)",
-            f"{metadata['id']}: cannot change stable runtime package, settings key or group")
+    require(metadata["id"] == "girl-next-door" and old == ("Memoria/Girl Next Door", "Girl Next Door")
+            and new == ("Memoria/girl-next-door", "girl-next-door") and minimum == "[0.8.11,)",
+            f"{metadata['id']}: cannot change stable runtime package or settings key")
 
 
 def publish(root, host, resolve_minimum=latest_engine_range):
