@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "sourceId": "memoria-official",
-  "revision": 4,
-  "publishedAt": "2026-11-17T01:40:36Z",
+  "revision": 5,
+  "publishedAt": "2026-11-17T03:00:37Z",
   "components": [
     {
-      "id": "girl-next-door",
+      "id": "memoria-girl-next-door",
       "groupId": "Memoria",
-      "runtimePackageId": "Memoria/girl-next-door",
-      "settingsKey": "girl-next-door",
+      "runtimePackageId": "Memoria/memoria-girl-next-door",
+      "settingsKey": "memoria-girl-next-door",
       "name": "Girl Next Door",
       "description": "Read Girl Next Door from the item menu.",
       "category": "Memoria",
@@ -25,15 +25,15 @@
         ]
       },
       "latest": {
-        "version": "1.0.3",
-        "engineVersionRange": "[0.8.11,)",
-        "releaseTag": "girl-next-door-v1.0.3",
-        "releaseNotes": "",
+        "version": "1.0.4",
+        "engineVersionRange": "[0.8.12,)",
+        "releaseTag": "memoria-girl-next-door-v1.0.4",
+        "releaseNotes": "Use a globally namespaced mod ID while preserving installed settings. Update Memoria to 0.8.12 first.",
         "artifact": {
-          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/girl-next-door-v1.0.3/girl-next-door-1.0.3.zip",
-          "size": 2508037,
-          "unpackedSize": 2507499,
-          "sha256": "33b8b6c73bfb150ab1d50213b81a8526f85b74404a0436acd8d5173cf017ca3e"
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/memoria-girl-next-door-v1.0.4/memoria-girl-next-door-1.0.4.zip",
+          "size": 2508061,
+          "unpackedSize": 2507523,
+          "sha256": "9dfd3dff6a1b0f3c6a23a6094677f8d0efe3ba71d1c4a0f4dca858e2ee5f8fbf"
         }
       }
     }
