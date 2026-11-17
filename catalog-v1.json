@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceId": "memoria-official",
-  "revision": 5,
-  "publishedAt": "2026-11-17T03:00:37Z",
+  "revision": 6,
+  "publishedAt": "2026-11-17T03:00:42Z",
   "components": [
     {
       "id": "memoria-girl-next-door",
@@ -34,6 +34,39 @@
           "size": 2508061,
           "unpackedSize": 2507523,
           "sha256": "9dfd3dff6a1b0f3c6a23a6094677f8d0efe3ba71d1c4a0f4dca858e2ee5f8fbf"
+        }
+      }
+    },
+    {
+      "id": "memoria-meltdown",
+      "groupId": "Memoria",
+      "runtimePackageId": "Memoria/memoria-meltdown",
+      "settingsKey": "memoria-meltdown",
+      "name": "Meltdown",
+      "description": "Customize how the Vit0 status reduces Vitality and Spirit.",
+      "category": "Memoria",
+      "format": "memoria-native",
+      "delivery": "download",
+      "defaultEnabled": true,
+      "target": {
+        "game": "FFVIII",
+        "editions": [
+          "Classic"
+        ],
+        "languages": [
+          "*"
+        ]
+      },
+      "latest": {
+        "version": "1.0.0",
+        "engineVersionRange": "[0.8.12,)",
+        "releaseTag": "memoria-meltdown-v1.0.0",
+        "releaseNotes": "Define configurable Vitality and Spirit reductions on Vit0 itself, for every source of the status. Includes localized slider descriptions.",
+        "artifact": {
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/memoria-meltdown-v1.0.0/memoria-meltdown-1.0.0.zip",
+          "size": 3298,
+          "unpackedSize": 2930,
+          "sha256": "63be1fc86c7f27952ab3c1652fec82ee6e8f263c5228694fec1255c3b7b7f658"
         }
       }
     }
