@@ -14,6 +14,12 @@ Both generated documents conform to [the version 1 JSON Schema](schemas/official
 
 `mod.json` declares the stable lowercase hyphenated `id`, the display `name`, the display group in `package`, and a `description` object keyed by language code with an `en` entry. Mod IDs are globally unique among native mods; `package` is not an ID namespace. Official Memoria IDs begin with `memoria-`. Changing `package` moves the mod to the new group while retaining its identity. The installed descriptor includes every authored translation. Write descriptor and item documents as UTF-8 JSON without a byte order mark.
 
+## Status overrides
+
+Place one status definition in each JSON file under `statuses/`. The engine discovers these files recursively; the filename has no identity meaning. The native status `id` selects the target. Each entry in `statModifiers` supplies an `operation` and `value` for one supported stat. A numeric value is fixed; an object with `default` exposes a slider and can supply optional `min`, `max`, localized `label` and localized `description`. `ReducePercent` currently supports 0 through 100, which is also the default slider range. The optional status `name` uses the existing localized text-reference format.
+
+See the [Meltdown payload](mods/meltdown/statuses/vit0.json) and the [engine's status authoring guide](https://github.com/Albeoris/Memoria.FF8/blob/main/docs/modding/behaviors.md). Both bundled and downloaded mods use the same loader and settings identity.
+
 ## Item overrides
 
 Put one item override in each JSON document under `items/`. Subdirectories and filenames organize the files. The document's `id` identifies the item.

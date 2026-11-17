@@ -2,6 +2,8 @@
 
 Browse and install these mods from the Mods menu in [Memoria FFVIII](https://github.com/Albeoris/Memoria.FF8). Girl Next Door is available for Classic in every supported language and requires Memoria FFVIII 0.8.12 or later.
 
+Meltdown uses the same two-file status definition as the bundled mod and requires Memoria FFVIII 0.8.12 or later. It adjusts the Vitality and Spirit reductions of Vit0 regardless of how the status was applied. Downloading it replaces the bundled copy while preserving the mod's settings.
+
 ## Publishing
 
 1. Put each independently published mod in its own `mods/` subfolder. Copy the [Girl Next Door descriptor](mods/girl-next-door/mod.json) as a starting point. Choose a globally unique lowercase hyphenated ID with a publisher prefix (`memoria-` for these official mods), and keep it stable after publication. The `package` field only controls menu grouping.
