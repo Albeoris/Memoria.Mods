@@ -1,19 +1,14 @@
 {
   "id": "girl-next-door",
-  "groupId": "Memoria",
-  "runtimePackageId": "Memoria/Girl Next Door",
-  "settingsKey": "Girl Next Door",
   "name": "Girl Next Door",
-  "description": "Open the magazine from the item menu.",
-  "category": "Items",
-  "format": "memoria-native",
-  "delivery": "download",
-  "defaultEnabled": true,
-  "target": {
-    "game": "FFVIII",
-    "editions": ["Classic"],
-    "languages": ["*"]
-  },
-  "engineVersionRange": "[0.8.10,)",
-  "releaseNotes": "Declare the magazine's item and image in the mod package."
+  "package": "Memoria",
+  "description": {
+    "en": "Read Girl Next Door from the item menu.",
+    "fr": "Permet de lire le magazine Girl Next Door depuis le menu des objets.",
+    "de": "Lies Girl Next Door über das Gegenstandsmenü.",
+    "es": "Lee la revista Girl Next Door desde el menú de objetos.",
+    "it": "Leggi la rivista Girl Next Door dal menu degli oggetti.",
+    "ja": "アイテムメニューから雑誌「Girl Next Door」を読めます。",
+    "ru": "Открывает журнал Girl Next Door из меню предметов."
+  }
 }

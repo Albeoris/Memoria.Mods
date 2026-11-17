@@ -19,8 +19,9 @@ NUGET_MINIMUM = re.compile(r"(0|[1-9][0-9]{0,9})\.(0|[1-9][0-9]{0,9})\.(0|[1-9][
 COMPONENT_ID = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 MAX_ASSET_SIZE = 2 * 1024**3
 CHUNK_SIZE = 1024**2
-BOOK_ARTWORK_PATH = "items/book-artwork.json"
-DESCRIPTOR_FIELDS = ("id", "groupId", "runtimePackageId", "settingsKey", "name", "description", "category", "format", "delivery", "defaultEnabled", "target")
+DESCRIPTOR_FIELDS = {"id", "name", "package", "description"}
+CATALOG_FIELDS = ("id", "groupId", "runtimePackageId", "settingsKey", "name", "description", "category", "format", "delivery", "defaultEnabled", "target")
+RELEASE_CONFIG = "releases.json"
 UNSUPPORTED_PAYLOAD_TYPES = {".exe", ".dll", ".so", ".dylib", ".bat", ".cmd", ".ps1", ".msi", ".lnk"}
 RESERVED_PATH = re.compile(r"(?:CON|PRN|AUX|NUL|COM[1-9¹²³]|LPT[1-9¹²³])(?:\.|$)", re.IGNORECASE)
 
@@ -73,7 +74,7 @@ def unique_object(pairs):
 
 
 def read_json(path):
-    return json.loads(path.read_bytes(), object_pairs_hook=unique_object)
+    return json.loads(path.read_text(encoding="utf-8"), object_pairs_hook=unique_object)
 
 
 def validate_path(path):
@@ -97,36 +98,73 @@ def validate_target(target):
             and len(languages) == len(set(languages)), "Target must use [\"*\"] or distinct two-letter language codes")
 
 
-def validate_descriptor(descriptor, component_id):
-    require(isinstance(descriptor, dict), "Descriptor must be an object")
-    require(COMPONENT_ID.fullmatch(component_id) and descriptor.get("id") == component_id,
-            f"Invalid descriptor ID for component {component_id}")
-    for key in DESCRIPTOR_FIELDS:
+def validate_catalog_component(component, component_id):
+    require(COMPONENT_ID.fullmatch(component_id) and len(component_id) <= 80, f"Invalid component ID: {component_id}")
+    for key in CATALOG_FIELDS:
         if key not in {"defaultEnabled", "target"}:
-            require(isinstance(descriptor.get(key), str) and descriptor[key].strip(), f"{component_id}: missing {key}")
-    require(descriptor["format"] == "memoria-native" and descriptor["delivery"] == "download",
+            require(isinstance(component.get(key), str) and component[key].strip(), f"{component_id}: missing {key}")
+    require(component["format"] == "memoria-native" and component["delivery"] == "download",
             f"{component_id}: expected a downloadable native mod")
-    require(descriptor.get("defaultEnabled") is True, f"{component_id}: defaultEnabled must be true")
-    validate_path(descriptor["runtimePackageId"])
-    require(descriptor["groupId"] == "Memoria" and descriptor["runtimePackageId"].startswith("Memoria/")
-            and descriptor["runtimePackageId"].count("/") == 1, f"{component_id}: runtime package must be a direct child of Memoria")
-    validate_target(descriptor.get("target"))
+    require(component.get("defaultEnabled") is True, f"{component_id}: defaultEnabled must be true")
+    validate_path(component["runtimePackageId"])
+    require(component["groupId"] == "Memoria" and component["runtimePackageId"].startswith("Memoria/")
+            and component["runtimePackageId"].count("/") == 1, f"{component_id}: runtime package must be a direct child of Memoria")
+    validate_target(component.get("target"))
+
+
+def entry_mode(path):
+    info = path.lstat()
+    require(not stat.S_ISLNK(info.st_mode) and not (getattr(info, "st_file_attributes", 0) & stat.FILE_ATTRIBUTE_REPARSE_POINT),
+            f"Symbolic links and reparse points are forbidden: {path}")
+    return info.st_mode
 
 
 def read_descriptor(folder):
-    require(folder.is_dir() and not folder.is_symlink(), f"Bad component folder: {folder}")
+    require(stat.S_ISDIR(entry_mode(folder)), f"Bad component folder: {folder}")
     path = folder / "mod.json"
-    require(path.is_file() and not path.is_symlink(), f"Missing regular mod.json in {folder}")
+    require((path.exists() or path.is_symlink()) and stat.S_ISREG(entry_mode(path)), f"Missing regular mod.json in {folder}")
     descriptor = read_json(path)
-    validate_descriptor(descriptor, folder.name)
-    require(set(descriptor) <= set(DESCRIPTOR_FIELDS) | {"version", "engineVersionRange", "releaseNotes"},
-            f"{folder.name}: unexpected authoring fields")
-    if "version" in descriptor:
-        version_key(descriptor["version"])
-    if "engineVersionRange" in descriptor:
-        engine_range(descriptor["engineVersionRange"])
-    require(isinstance(descriptor.get("releaseNotes", ""), str), f"{folder.name}: releaseNotes must be text")
+    require(isinstance(descriptor, dict) and set(descriptor) == DESCRIPTOR_FIELDS,
+            f"{path}: descriptor must declare id, name, package and description")
+    component_id = descriptor["id"]
+    require(isinstance(component_id, str) and len(component_id) <= 80 and COMPONENT_ID.fullmatch(component_id),
+            f"{path}: invalid descriptor ID")
+    validate_path(component_id)
+    require(isinstance(descriptor["name"], str) and descriptor["name"].strip(), f"{path}: name must be text")
+    require(descriptor["package"] == "Memoria", f"{path}: official package must be Memoria")
+    descriptions = descriptor["description"]
+    require(isinstance(descriptions, dict) and "en" in descriptions
+            and all(re.fullmatch(r"[a-z]{2}", key) and isinstance(value, str) and value.strip() for key, value in descriptions.items()),
+            f"{path}: description must contain nonempty text keyed by two-letter language codes, including en")
     return descriptor
+
+
+def catalog_metadata(descriptor):
+    component_id = descriptor["id"]
+    return {
+        "id": component_id, "groupId": descriptor["package"], "runtimePackageId": f"Memoria/{component_id}",
+        "settingsKey": component_id, "name": descriptor["name"], "description": descriptor["description"]["en"],
+        "category": "Items", "format": "memoria-native", "delivery": "download", "defaultEnabled": True,
+        "target": {"game": "FFVIII", "editions": ["Classic"], "languages": ["*"]},
+    }
+
+
+def read_release_configuration(root):
+    path = root / RELEASE_CONFIG
+    if not path.exists() and not path.is_symlink():
+        return {}
+    require(stat.S_ISREG(entry_mode(path)), f"Invalid release configuration: {path}")
+    configuration = read_json(path)
+    require(isinstance(configuration, dict), "Release configuration must be keyed by descriptor ID")
+    for component_id, release in configuration.items():
+        require(COMPONENT_ID.fullmatch(component_id) and isinstance(release, dict)
+                and set(release) <= {"version", "engineVersionRange", "releaseNotes"}, f"Invalid release configuration for {component_id}")
+        if "version" in release:
+            version_key(release["version"])
+        if "engineVersionRange" in release:
+            engine_range(release["engineVersionRange"])
+        require(isinstance(release.get("releaseNotes", ""), str), f"{component_id}: releaseNotes must be text")
+    return configuration
 
 
 def digest_stream(stream, limit=None):
@@ -145,52 +183,75 @@ def file_digest(path):
 
 
 def payload_files(folder):
-    payload = folder / "payload"
-    require(payload.is_dir() and not payload.is_symlink(), f"Missing regular payload/ in {folder}")
     known_paths = set()
     files = {}
-    for path in sorted(payload.rglob("*")):
-        name = path.relative_to(payload).as_posix()
-        validate_path(name)
-        require("mod.ini" not in name.casefold().split("/"), f"Player-owned mod.ini is forbidden in the payload: {name}")
-        require(name.casefold() not in known_paths, f"Case-colliding payload entry: {name}")
-        known_paths.add(name.casefold())
-        mode = path.lstat().st_mode
-        if stat.S_ISDIR(mode):
+    notice = None
+    pending = [folder]
+    while pending:
+        for path in sorted(pending.pop().iterdir()):
+            relative = path.relative_to(folder)
+            name = relative.as_posix()
+            validate_path(name)
+            require("mod.ini" not in name.casefold().split("/"), f"Player-owned mod.ini is forbidden in the payload: {name}")
+            require(name.casefold() not in known_paths, f"Case-colliding payload entry: {name}")
+            known_paths.add(name.casefold())
+            mode = entry_mode(path)
+            namespace = relative.parts[0]
+            if namespace.casefold() == "items":
+                require(namespace == "items" and (name != "items" or stat.S_ISDIR(mode)), f"Use the exact items/ directory: {name}")
+            if name == "NOTICE.md":
+                require(stat.S_ISREG(mode), f"Invalid notice in {folder}")
+                notice = path
+                continue
+            if stat.S_ISDIR(mode):
+                pending.append(path)
+                continue
+            require(stat.S_ISREG(mode) and path.suffix.lower() not in UNSUPPORTED_PAYLOAD_TYPES,
+                    f"Unsupported payload entry: {name}")
+            files[name] = path
+    require("mod.json" in files, f"Missing exact-case mod.json in {folder}")
+    return files, notice
+
+
+def resolve_image(document, image):
+    require(isinstance(image, str), f"{document}: image must be a resource path")
+    parts = [] if image.startswith("/") else document.split("/")[:-1]
+    for part in image.removeprefix("/").split("/"):
+        if part == ".":
             continue
-        require(stat.S_ISREG(mode) and path.suffix.lower() not in UNSUPPORTED_PAYLOAD_TYPES,
-                f"Unsupported payload entry: {name}")
-        files[name] = path
-    require(files, f"Empty payload in {folder}")
-    return files
+        if part == "..":
+            require(parts, f"{document}: image path escapes the package: {image}")
+            parts.pop()
+        else:
+            validate_path(part)
+            parts.append(part)
+    return "/".join(parts)
 
 
-def validate_book_artwork(paths):
-    mapping_path = next((name for name in paths if name.casefold() == BOOK_ARTWORK_PATH), None)
-    if mapping_path is None:
-        return
-    require(mapping_path == BOOK_ARTWORK_PATH, f"Use the exact path {BOOK_ARTWORK_PATH}: {mapping_path}")
-    try:
-        mapping = json.loads(paths[mapping_path].read_text(encoding="utf-8"), object_pairs_hook=unique_object)
-    except ValueError as error:
-        raise ValueError(f"{mapping_path}: invalid UTF-8 JSON: {error}") from error
-    require(isinstance(mapping, dict) and set(mapping) == {"schemaVersion", "items"},
-            f"{mapping_path}: expected schemaVersion and items")
-    require(type(mapping["schemaVersion"]) is int and mapping["schemaVersion"] == 1,
-            f"{mapping_path}: unsupported schemaVersion")
-    require(isinstance(mapping["items"], list), f"{mapping_path}: items must be an array")
+def validate_items(paths):
     item_ids = set()
-    for item in mapping["items"]:
-        require(isinstance(item, dict) and set(item) == {"itemId", "image"},
-                f"{mapping_path}: every item must declare itemId and image")
-        item_id = item["itemId"]
-        require(type(item_id) is int and 0 <= item_id <= 255, f"{mapping_path}: itemId must be an integer from 0 through 255")
-        require(item_id not in item_ids, f"{mapping_path}: duplicate itemId: {item_id}")
+    for name, path in sorted(paths.items()):
+        if not name.startswith("items/") or not name.lower().endswith(".json"):
+            continue
+        try:
+            item = read_json(path)
+        except ValueError as error:
+            raise ValueError(f"{name}: invalid UTF-8 JSON: {error}") from error
+        require(isinstance(item, dict) and "id" in item and {"type", "use"} & item.keys() and item.keys() <= {"id", "type", "use"},
+                f"{name}: expected id and at least one of type and use")
+        item_id = item["id"]
+        require(type(item_id) is int and 0 <= item_id <= 255, f"{name}: id must be an integer from 0 through 255")
+        require(item_id not in item_ids, f"{name}: duplicate item ID: {item_id}")
         item_ids.add(item_id)
-        image = item["image"]
-        validate_path(image)
-        require(image.lower().endswith(".png") and image in paths,
-                f"{mapping_path}: image must name an exact-case PNG path in this payload: {image}")
+        if "type" in item:
+            require(item["type"] == "Magazine", f"{name}: unsupported item type")
+        if "use" in item:
+            use = item["use"]
+            require(isinstance(use, dict) and set(use) == {"action", "image"} and use["action"] == "ShowImage",
+                    f"{name}: expected a ShowImage action with an image path")
+            image = resolve_image(name, use["image"])
+            require(image.lower().endswith(".png") and image in paths,
+                    f"{name}: image must name an exact-case PNG path in this package: {use['image']}")
 
 
 def archive_entry(name, size):
@@ -219,24 +280,23 @@ def validate_archive(path, manifest, notice_size):
         return sum(item.file_size for item in archive.infolist())
 
 
-def build(folder, output, descriptor, version, minimum, repository=REPOSITORY):
+def build(folder, output, descriptor, version, minimum, repository=REPOSITORY, release_notes=""):
     version_key(version)
     engine_range(minimum)
-    paths = payload_files(folder)
-    validate_book_artwork(paths)
+    paths, notice = payload_files(folder)
+    validate_items(paths)
+    component = catalog_metadata(descriptor)
     inventory = []
     for name, path in sorted(paths.items()):
         size, digest = file_digest(path)
         inventory.append({"path": name, "size": size, "sha256": digest, "mutable": False})
     manifest = {
         "schemaVersion": 1, "sourceId": SOURCE_ID, "componentId": descriptor["id"],
-        "runtimePackageId": descriptor["runtimePackageId"], "version": version, "engineVersionRange": minimum,
-        "target": descriptor["target"], "files": inventory,
+        "runtimePackageId": component["runtimePackageId"], "version": version, "engineVersionRange": minimum,
+        "target": component["target"], "files": inventory,
     }
     manifest_data = json_bytes(manifest)
-    notice = folder / "NOTICE.md"
-    require(not notice.is_symlink() and (not notice.exists() or notice.is_file()), f"Invalid notice in {folder}")
-    notice_size = notice.stat().st_size if notice.exists() else None
+    notice_size = notice.stat().st_size if notice is not None else None
     total_size = len(manifest_data) + sum(item["size"] for item in inventory) + (notice_size or 0)
     require(0 < total_size < MAX_ASSET_SIZE, f"{folder.name}: archive must fit the GitHub Release per-asset limit")
     output.mkdir(parents=True, exist_ok=True)
@@ -253,10 +313,9 @@ def build(folder, output, descriptor, version, minimum, repository=REPOSITORY):
     size, digest = file_digest(archive_path)
     require(0 < size < MAX_ASSET_SIZE, f"{archive_path.name}: archive must be smaller than 2 GiB")
     tag = f"{descriptor['id']}-v{version}"
-    component = {key: descriptor[key] for key in DESCRIPTOR_FIELDS}
     component["latest"] = {
         "version": version, "engineVersionRange": minimum, "releaseTag": tag,
-        "releaseNotes": descriptor.get("releaseNotes", "").strip(),
+        "releaseNotes": release_notes.strip(),
         "artifact": {
             "url": f"https://github.com/{repository}/releases/download/{tag}/{archive_path.name}",
             "size": size, "unpackedSize": unpacked_size, "sha256": digest,
@@ -273,9 +332,10 @@ def main():
     parser.add_argument("--engine-version-range", help="Build with a specific resolved engine requirement")
     args = parser.parse_args()
     descriptor = read_descriptor(args.folder)
-    version = args.version or descriptor.get("version", "1.0.0")
-    minimum = args.engine_version_range or descriptor.get("engineVersionRange") or latest_engine_range()
-    archive, component = build(args.folder, args.output, descriptor, version, minimum)
+    release = read_release_configuration(Path(__file__).resolve().parent.parent).get(descriptor["id"], {})
+    version = args.version or release.get("version", "1.0.0")
+    minimum = args.engine_version_range or release.get("engineVersionRange") or latest_engine_range()
+    archive, component = build(args.folder, args.output, descriptor, version, minimum, release_notes=release.get("releaseNotes", ""))
     metadata = archive.with_suffix(".catalog-entry.json")
     metadata.write_bytes(json_bytes(component))
     print(f"Built {archive} and {metadata}")

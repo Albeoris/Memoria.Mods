@@ -6,6 +6,7 @@ import json
 import os
 from pathlib import Path
 import re
+import stat
 import subprocess
 from tempfile import TemporaryDirectory
 import time
@@ -13,8 +14,9 @@ from urllib.error import HTTPError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
-from build import (COMPONENT_ID, REPOSITORY, SOURCE_ID, build, digest_stream, engine_range, json_bytes, latest_engine_range,
-                   read_descriptor, read_json, require, unique_object, validate_descriptor, version_key)
+from build import (RELEASE_CONFIG, REPOSITORY, SOURCE_ID, build, catalog_metadata, digest_stream, engine_range, entry_mode, json_bytes,
+                   latest_engine_range, read_descriptor, read_json, read_release_configuration, require, unique_object,
+                   validate_catalog_component, version_key)
 
 
 CATALOG_BRANCH = "catalog"
@@ -149,7 +151,7 @@ def read_catalog(folder, repository):
     validate_unique(catalog["components"])
     for component in catalog["components"]:
         component_id = component["id"]
-        validate_descriptor(component, component_id)
+        validate_catalog_component(component, component_id)
         latest = component["latest"]
         version = latest["version"]
         version_key(version)
@@ -283,22 +285,44 @@ def report_publication(source, component, catalog):
                       "sha256": artifact["sha256"]}), flush=True)
 
 
+def validate_identity_transition(current, metadata, minimum):
+    fields = ("runtimePackageId", "settingsKey", "groupId")
+    old = tuple(current[key] for key in fields)
+    new = tuple(metadata[key] for key in fields)
+    if old == new:
+        return
+    require(metadata["id"] == "girl-next-door" and old == ("Memoria/Girl Next Door", "Girl Next Door", "Memoria")
+            and new == ("Memoria/girl-next-door", "girl-next-door", "Memoria") and minimum == "[0.8.11,)",
+            f"{metadata['id']}: cannot change stable runtime package, settings key or group")
+
+
 def publish(root, host, resolve_minimum=latest_engine_range):
     require(not git(root, "status", "--porcelain"), "Publication requires a clean committed source checkout")
-    require(not git(root, "ls-files", "--others", "--ignored", "--exclude-standard", "--", "mods/"),
-            "Publication cannot include ignored files in mod source folders")
+    require(not git(root, "ls-files", "--others", "--ignored", "--exclude-standard", "--", "mods/", RELEASE_CONFIG),
+            "Publication cannot include ignored files in mod sources or release configuration")
     source = git(root, "rev-parse", "HEAD")
-    folders = sorted((root / "mods").iterdir())
+    mods = root / "mods"
+    require(stat.S_ISDIR(entry_mode(mods)), "Expected a regular mods/ directory")
+    folders = sorted(mods.iterdir())
     descriptors = [read_descriptor(folder) for folder in folders]
-    validate_unique(descriptors)
+    components = [catalog_metadata(descriptor) for descriptor in descriptors]
+    validate_unique(components)
+    configuration = read_release_configuration(root)
+    component_ids = {entry["id"] for entry in components}
+    require(configuration.keys() <= component_ids, "Release configuration references an unknown component ID")
     with TemporaryDirectory(prefix="memoria-mods-") as temporary, checkout_catalog(root, Path(temporary)) as catalog_folder:
         catalog = read_catalog(catalog_folder, host.repository)
         existing = {entry["id"]: entry for entry in catalog["components"]}
-        require(existing.keys() <= {entry["id"] for entry in descriptors}, "A cataloged component folder was removed or renamed")
+        require(existing.keys() <= component_ids, "A cataloged component ID was removed or changed")
         releases = host.releases()
-        for folder, descriptor in zip(folders, descriptors):
+        for folder, descriptor, metadata in zip(folders, descriptors, components):
             component_id = descriptor["id"]
-            tree = git(root, "rev-parse", f"HEAD:mods/{component_id}")
+            tree = git(root, "rev-parse", f"HEAD:mods/{folder.name}")
+            release_configuration = configuration.get(component_id, {})
+            configured_minimum = release_configuration.get("engineVersionRange")
+            if release_configuration:
+                # Keep release metadata in the publication identity without rebuilding other mods.
+                tree = git(root, "hash-object", "--stdin", stdin=json.dumps([tree, release_configuration], sort_keys=True))
             available = component_releases(releases, component_id)
             current = existing.get(component_id)
             current_version = current["latest"]["version"] if current else None
@@ -310,8 +334,7 @@ def publish(root, host, resolve_minimum=latest_engine_range):
                         and current_identity["engineVersionRange"] == latest["engineVersionRange"],
                         f"Catalog references a mismatched release for {component_id}")
                 verify_release(current_release, f"{component_id}-{current_version}.zip", latest["artifact"])
-                for key in ("runtimePackageId", "settingsKey", "groupId"):
-                    require(current[key] == descriptor[key], f"{component_id}: cannot change stable {key}")
+                validate_identity_transition(current, metadata, configured_minimum)
                 if current_identity["tree"] == tree:
                     if len(available) > 1:
                         host.verify_artifact(latest["artifact"])
@@ -325,17 +348,19 @@ def publish(root, host, resolve_minimum=latest_engine_range):
                 version = max(matched, key=version_key)
                 release, identity = available[version]
                 minimum = identity["engineVersionRange"]
+                require(configured_minimum is None or minimum == configured_minimum, f"{component_id}: candidate engine range differs from configuration")
                 origin = identity["sourceCommit"]
             else:
-                version = select_version(available, descriptor.get("version"))
+                version = select_version(available, release_configuration.get("version"))
                 release, identity = None, None
                 origin = source
                 tag = f"{component_id}-v{version}"
                 require(not git(root, "ls-remote", "origin", f"refs/tags/{tag}"), f"Tag {tag} already exists without a managed release")
-                minimum = descriptor.get("engineVersionRange")
+                minimum = configured_minimum
                 if minimum is None:
                     minimum = current["latest"]["engineVersionRange"] if current else resolve_minimum()
-            archive, component = build(folder, Path(temporary), descriptor, version, minimum, host.repository)
+            archive, component = build(folder, Path(temporary), descriptor, version, minimum, host.repository,
+                                       release_configuration.get("releaseNotes", ""))
             artifact = component["latest"]["artifact"]
             expected = {"componentId": component_id, "version": version, "tree": tree, "sourceCommit": origin,
                         "engineVersionRange": minimum, "sha256": artifact["sha256"]}
