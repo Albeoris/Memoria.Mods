@@ -4,6 +4,16 @@ Browse and install these mods from the Mods menu in [Memoria FFVIII](https://git
 
 Meltdown uses the same two-file status definition as the bundled mod and requires Memoria FFVIII 0.8.12 or later. It adjusts the Vitality and Spirit reductions of Vit0 regardless of how the status was applied. Downloading it replaces the bundled copy while preserving the mod's settings.
 
+[Boost Damage Limit](mods/boost-damage-limit/gameplay/gf-rules.json) requires Memoria FFVIII 0.8.15 or later. Boost costs 200 AP. A GF can exceed the 9,999 summon damage limit after learning Boost.
+
+## Modding reference
+
+- [Package setup and testing](docs/modding.md)
+- [Gameplay, battles and inventory](docs/modding-gameplay.md)
+- [Fields, lighting, textures and models](docs/modding-visuals.md)
+- [Localization, fonts and encoding](docs/modding-localization.md)
+- [Junction, FFNx, Tonberry and Demaster compatibility](docs/modding-compatibility.md)
+
 For engine extension points and built-in packages, follow [Designing reusable modding mechanisms](docs/designing-modding-mechanisms.md).
 
 ## Publishing

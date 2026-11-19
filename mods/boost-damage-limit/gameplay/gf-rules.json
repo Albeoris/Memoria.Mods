@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "defaultSummonDamageLimit": 9999,
+  "abilities": [
+    {
+      "id": 91,
+      "apCost": 200,
+      "description": {
+        "en": "Boost damage during summoning and remove this GF's summon damage limit.",
+        "fr": "Augmente les dégâts pendant l'invocation et lève la limite de dégâts d'invocation de cette G-Force.",
+        "de": "Verstärkt den Schaden beim Beschwören und hebt die Schadensgrenze für die Beschwörung dieser G.F. auf.",
+        "es": "Aumenta el daño durante la invocación y elimina el límite de daño de invocación de este G.F.",
+        "it": "Aumenta i danni durante l'evocazione e rimuove il limite ai danni di evocazione di questo G.F.",
+        "ja": "召喚中にダメージを増やし、このG.F.の召喚ダメージ上限を解除します。",
+        "ru": "Усиливает урон во время призыва и снимает ограничение урона от призыва этого стража."
+      },
+      "summonDamageLimit": "unlimited"
+    }
+  ]
+}

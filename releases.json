@@ -6,5 +6,9 @@
   "memoria-meltdown": {
     "engineVersionRange": "[0.8.12,)",
     "releaseNotes": "Define configurable Vitality and Spirit reductions on Vit0 itself, for every source of the status. Includes localized slider descriptions."
+  },
+  "memoria-boost-damage-limit": {
+    "engineVersionRange": "[0.8.15,)",
+    "releaseNotes": "Boost costs 200 AP and has a localized description. FFVIII summons are limited to 9,999 damage until their GF learns Boost."
   }
 }
