@@ -1,9 +1,42 @@
 {
   "schemaVersion": 1,
   "sourceId": "memoria-official",
-  "revision": 6,
-  "publishedAt": "2026-11-17T03:00:42Z",
+  "revision": 7,
+  "publishedAt": "2026-11-19T21:18:45Z",
   "components": [
+    {
+      "id": "memoria-boost-damage-limit",
+      "groupId": "Memoria",
+      "runtimePackageId": "Memoria/memoria-boost-damage-limit",
+      "settingsKey": "memoria-boost-damage-limit",
+      "name": "Boost Damage Limit",
+      "description": "Makes Boost cost 200 AP. A GF that learns Boost can exceed 9,999 damage when summoned.",
+      "category": "Memoria",
+      "format": "memoria-native",
+      "delivery": "download",
+      "defaultEnabled": true,
+      "target": {
+        "game": "FFVIII",
+        "editions": [
+          "Classic"
+        ],
+        "languages": [
+          "*"
+        ]
+      },
+      "latest": {
+        "version": "1.0.0",
+        "engineVersionRange": "[0.8.15,)",
+        "releaseTag": "memoria-boost-damage-limit-v1.0.0",
+        "releaseNotes": "Boost costs 200 AP and has a localized description. FFVIII summons are limited to 9,999 damage until their GF learns Boost.",
+        "artifact": {
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/memoria-boost-damage-limit-v1.0.0/memoria-boost-damage-limit-1.0.0.zip",
+          "size": 3166,
+          "unpackedSize": 2790,
+          "sha256": "906e7b73ad9429a8d46f56991667daec10132d9dbc24b7c0c4c8623d6a98523c"
+        }
+      }
+    },
     {
       "id": "memoria-girl-next-door",
       "groupId": "Memoria",
