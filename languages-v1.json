@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sourceId": "memoria-official",
+  "revision": 1,
+  "publishedAt": "2026-11-25T01:03:15Z",
+  "components": [],
+  "dependencies": [
+    {
+      "id": "russian-ffrtt-opening",
+      "groupId": "Memoria",
+      "runtimePackageId": "Memoria/russian-ffrtt-opening",
+      "settingsKey": "russian-ffrtt-opening",
+      "name": "FFRTT Opening Movie",
+      "description": "Adapted opening movie and camera for FFRTT.\n\nOpening video credits: AxlRose (Discord: axlrose) made the original upscale and 30 FPS version. Camera from Tsunamod Cinema-RF.",
+      "category": "Localization",
+      "format": "memoria-native",
+      "delivery": "download",
+      "defaultEnabled": false,
+      "target": {
+        "game": "FFVIII",
+        "editions": [
+          "Classic",
+          "Remastered"
+        ],
+        "languages": [
+          "en"
+        ]
+      },
+      "nativeVariants": [
+        {
+          "edition": "Classic",
+          "language": "en"
+        },
+        {
+          "edition": "Remastered",
+          "language": "en"
+        }
+      ],
+      "latest": {
+        "version": "1.0.0",
+        "engineVersionRange": "[0.8.16,)",
+        "releaseTag": "russian-ffrtt-opening-v1.0.0",
+        "releaseNotes": "Adapted FFRTT opening movie and matching camera.",
+        "artifact": {
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-opening-v1.0.0/russian-ffrtt-opening-1.0.0.zip",
+          "size": 179818689,
+          "unpackedSize": 180031263,
+          "sha256": "c75d6575712c404199a8fd47692785066c3d859b31e3525382998f9ac03b2e07"
+        }
+      }
+    }
+  ]
+}
