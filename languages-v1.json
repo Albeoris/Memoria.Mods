@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceId": "memoria-official",
-  "revision": 3,
-  "publishedAt": "2026-11-25T02:11:51Z",
+  "revision": 4,
+  "publishedAt": "2026-11-25T11:08:01Z",
   "components": [
     {
       "id": "russian-ffrtt",
@@ -43,15 +43,15 @@
         }
       ],
       "latest": {
-        "version": "3.20.1",
-        "engineVersionRange": "[0.8.17,)",
-        "releaseTag": "russian-ffrtt-v3.20.1",
-        "releaseNotes": "Adds Russian text for the title screen and the language menu, including download and installation progress. Requires the adapted opening movie and its matching camera.",
+        "version": "3.20.2",
+        "engineVersionRange": "[0.9.13,)",
+        "releaseTag": "russian-ffrtt-v3.20.2",
+        "releaseNotes": "Corrects speaker names, dialogue punctuation, line breaks and choice text in the FFRTT Russian translation. Memoria 0.9.13 adds native icon support for the world-map draw point prompt. Uses the existing opening movie and camera package.",
         "artifact": {
-          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-v3.20.1/russian-ffrtt-3.20.1.zip",
-          "size": 3363438,
-          "unpackedSize": 16496169,
-          "sha256": "1c9cffab8fc23acb3efbb86287041afb21025b24a2b1ab01278f4b9b4e51f4f5"
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-v3.20.2/russian-ffrtt-3.20.2.zip",
+          "size": 3360978,
+          "unpackedSize": 16541590,
+          "sha256": "bba12fb12170d4a1eee092ab9f056a8f82a55162593962d2ef424b10f0bd2cae"
         }
       },
       "dependencies": [
