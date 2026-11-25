@@ -26,7 +26,7 @@
         }
       },
       "$en_efbig1_0003": {
-        "Target": "{X10Y150}Zell{Line}Твою мать!..{Line} Мы позволили им уйти!{End}",
+        "Target": "{X10Y150}{Char Zell}{Line}«Твою мать!..{Line} Мы позволили им уйти!»{End}",
         "Source Text SHA256": "E4B7790A56DF1D6CE60891483513852C13A275B0DD6A894EF4381736D53E4F66",
         "sourceContext": {
           "Source MSD SHA256": "35564EE1892C7ABFC271D8E5D99FE0387BB1C9A9F1823AA8B607FE92F2E7A20A",
@@ -34,7 +34,7 @@
         }
       },
       "$en_efbig1_0004": {
-        "Target": "{X61Y10}Zell{Line}Я думаю, сейчас нам лучше вернуться назад.{End}",
+        "Target": "{X61Y10}{Char Zell}{Line}«Я думаю, сейчас нам лучше вернуться назад».{End}",
         "Source Text SHA256": "D8E6B7AB85181FF24AE7C68CDDA5D57BEAFA48860D09DD4B7E7FD1E7F79B17E5",
         "sourceContext": {
           "Source MSD SHA256": "35564EE1892C7ABFC271D8E5D99FE0387BB1C9A9F1823AA8B607FE92F2E7A20A",
@@ -42,7 +42,7 @@
         }
       },
       "$en_efbig1_0005": {
-        "Target": "{X10Y40}Селфи{Line}«Ой, что же будет?..{Line}Что-нибудь грандиозное?»{End}",
+        "Target": "{X10Y40}{Char Selphie}{Line}«Ой, что же будет?..{Line}Что-нибудь грандиозное?»{End}",
         "Source Text SHA256": "82A119336A5D1C43C4035E0DB14ACBB1FA04EE5747F04C9AF1BC3C173F62ED67",
         "sourceContext": {
           "Source MSD SHA256": "35564EE1892C7ABFC271D8E5D99FE0387BB1C9A9F1823AA8B607FE92F2E7A20A",
@@ -50,7 +50,7 @@
         }
       },
       "$en_efbig1_0006": {
-        "Target": "{X10Y40}Квистис{Line}«У меня нехорошее предчувствие».{End}",
+        "Target": "{X10Y40}{Char Quistis}{Line}«У меня нехорошее предчувствие».{End}",
         "Source Text SHA256": "D09192841429A3654E447A6A703082D71A7FFB81C3429D90AA934C193CA44EB3",
         "sourceContext": {
           "Source MSD SHA256": "35564EE1892C7ABFC271D8E5D99FE0387BB1C9A9F1823AA8B607FE92F2E7A20A",
@@ -58,7 +58,7 @@
         }
       },
       "$en_efbig1_0007": {
-        "Target": "{X10Y40}Ирвин{Line}«Уж не знаю, как вам,{Line}а мне всё это не нравится».{End}",
+        "Target": "{X10Y40}{Char Irvine}{Line}«Уж не знаю, как вам,{Line}а мне всё это не нравится».{End}",
         "Source Text SHA256": "2D461827DA443EAED6D804A90948AF3651229100C65740F6B46D28A128145B70",
         "sourceContext": {
           "Source MSD SHA256": "35564EE1892C7ABFC271D8E5D99FE0387BB1C9A9F1823AA8B607FE92F2E7A20A",
@@ -66,7 +66,7 @@
         }
       },
       "$en_efbig1_0008": {
-        "Target": "{X10Y10}Edea{Line}Лунный Плач...{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Лунный Плач...»{End}",
         "Source Text SHA256": "478B63993B76FD9F88C02030806FBA3BF1CD844A5D42F16AEAAC0CB1AE2A7739",
         "sourceContext": {
           "Source MSD SHA256": "35564EE1892C7ABFC271D8E5D99FE0387BB1C9A9F1823AA8B607FE92F2E7A20A",
@@ -74,7 +74,7 @@
         }
       },
       "$en_efbig1_0009": {
-        "Target": "{X177Y30}Зелл{Line}«Пойдём обратно».{End}",
+        "Target": "{X177Y30}{Char Zell}{Line}«Пойдём обратно».{End}",
         "Source Text SHA256": "5BB7528B0FAB1DAEE6810012395EA3293B6CAFCAED4468812B8F8F52EA449D22",
         "sourceContext": {
           "Source MSD SHA256": "35564EE1892C7ABFC271D8E5D99FE0387BB1C9A9F1823AA8B607FE92F2E7A20A",

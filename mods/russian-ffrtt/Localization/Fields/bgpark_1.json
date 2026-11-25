@@ -42,7 +42,7 @@
         }
       },
       "$en_bgpark_1_0005": {
-        "Target": "{X8Y15}Квистис{Line}«А чья?»{End}",
+        "Target": "{X8Y15}{Char Quistis}{Line}«А чья?»{End}",
         "Source Text SHA256": "E751B50BC6915F5DA5317B30C8AC1AAF514D4EAD0AF1D0825F6F5959689C45E9",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgpark_1_0009": {
-        "Target": "{X40Y15}{Char Squall}{Line}Сэр!{End}",
+        "Target": "{X40Y15}{Char Squall}{Line}«Сэр!»{End}",
         "Source Text SHA256": "6FA28AFE35E8DF50366CB18A7589DCB093468D9126B21802EEEE2B14BEB8277A",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgpark_1_0010": {
-        "Target": "{X40Y15}{Char Squall}{Line}Какого?..{End}",
+        "Target": "{X40Y15}{Char Squall}{Line}«Какого?..»{End}",
         "Source Text SHA256": "B3998EC686B1C19BCA90A82B67D77054BB3A2C3C4FC6A25180DE0BD1563BD9F2",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgpark_1_0011": {
-        "Target": "{X150Y8}Это была голограмма.{Line} Круто, да?{End}",
+        "Target": "{X150Y8}«Это была голограмма.{Line} Круто, да?»{End}",
         "Source Text SHA256": "14DC2D695DF909E9F4FD33ED733F4A1A3ED0561EF7C51D8C823787764AEB00B5",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgpark_1_0012": {
-        "Target": "{X200Y8}Здесь{Line} директора нет.{End}",
+        "Target": "{X200Y8}«Здесь{Line} директора нет».{End}",
         "Source Text SHA256": "F4A3B2054A40445F2B1ACA55BD39BAF85402E71D667F5CE1CAA07B32D27D770C",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bgpark_1_0013": {
-        "Target": "{X150Y8}Не сдавайся, ты обязательно его найдёшь.{End}",
+        "Target": "{X150Y8}«Не сдавайся, ты обязательно его найдёшь».{End}",
         "Source Text SHA256": "96E053B4B151D7B3946763C14FD48046DEFB06E708765795BA6DF61ED17C6B7F",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bgpark_1_0014": {
-        "Target": "{X150Y8}Держи.{Line} Вдруг пригодится.{End}",
+        "Target": "{X150Y8}«Держи.{Line} Вдруг пригодится».{End}",
         "Source Text SHA256": "599D1CDB6F190E850FA7E50EB34B4CC3199C53EB468C1FEE4263CEC7AC7C0077",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bgpark_1_0016": {
-        "Target": "{X160Y8}{Char Squall}{Line}Просто автостоянка. Ничего особенного.{End}",
+        "Target": "{X160Y8}{Char Squall}{Line}«Просто автостоянка. Ничего особенного».{End}",
         "Source Text SHA256": "4B218DEE44E3B95F7CDE80B60C5482ACEAE42B29DDB5B4527999F93F2A15C44F",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bgpark_1_0017": {
-        "Target": "{X8Y8}{Char Rinoa}{Line}”...{Line} ...Это всё?“{End}",
+        "Target": "{X8Y8}{Char Rinoa}{Line}«...{Line} ...Это всё?»{End}",
         "Source Text SHA256": "1B71BB2874FD52BE2B1D1084422192C1331AD8987381096D813D85E93EAE3081",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bgpark_1_0018": {
-        "Target": "{X160Y8}{Char Squall}{Line}Да.{End}",
+        "Target": "{X160Y8}{Char Squall}{Line}«Да».{End}",
         "Source Text SHA256": "642399477C7B19878A0123AB15A5746E3F086E4690690FD865F73783FDC770C1",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bgpark_1_0019": {
-        "Target": "{X8Y8}{Char Rinoa}{Line}...Ладно.{Line} Пойдём.{End}",
+        "Target": "{X8Y8}{Char Rinoa}{Line}«...Ладно.{Line} Пойдём».{End}",
         "Source Text SHA256": "26AF755F30A5F169D791F0433E539CC618DBB33198A65F083B11467E94CD3182",
         "sourceContext": {
           "Source MSD SHA256": "8DA9A1C03EFBC1CB2C7516E5DBED236B1B5EE73CDDF28EB5E3D04A18B938B6C5",

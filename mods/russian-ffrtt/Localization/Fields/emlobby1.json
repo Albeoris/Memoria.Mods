@@ -10,7 +10,7 @@
         }
       },
       "$en_emlobby1_0001": {
-        "Target": "{X150Y40F1L2B1C2}Кажется, мы должны этим воспользоваться.{Line}Сесть{Line}Не садиться{End}",
+        "Target": "{X150Y40F1L2B1C2}«Кажется, мы должны этим воспользоваться».{Line}Сесть{Line}Не садиться{End}",
         "Source Text SHA256": "18F68DBE4825FA776FBD395E112320AC42235F1B95C59FBF0CB49D33D30C28A5",
         "sourceContext": {
           "Source MSD SHA256": "BCA9F19AFFC6A9054850712CCF8761FA7F2127D08D8CCCB9E32CB5B4D3741638",
@@ -26,7 +26,7 @@
         }
       },
       "$en_emlobby1_0003": {
-        "Target": "{X100Y50}Зелл{Line}ЧЁРТ! Не успеем!{End}",
+        "Target": "{X100Y50}{Char Zell}{Line}«ЧЁРТ! Не успеем!»{End}",
         "Source Text SHA256": "84ED47C1DC25A2C9BB6575F54857CFFD36951E144E12F4E12719DDF2F095F07C",
         "sourceContext": {
           "Source MSD SHA256": "BCA9F19AFFC6A9054850712CCF8761FA7F2127D08D8CCCB9E32CB5B4D3741638",
@@ -50,7 +50,7 @@
         }
       },
       "$en_emlobby1_0006": {
-        "Target": "{X10Y50}Кое-как заперли вход,{Line}чтобы монстры не пролезли, но...{End}",
+        "Target": "{X10Y50}«Кое-как заперли вход,{Line}чтобы монстры не пролезли, но...»{End}",
         "Source Text SHA256": "0E9FD92DD6C68C628391DF9E91F4E0A9CD9FE6A78993407C8326C471ECC86D50",
         "sourceContext": {
           "Source MSD SHA256": "BCA9F19AFFC6A9054850712CCF8761FA7F2127D08D8CCCB9E32CB5B4D3741638",

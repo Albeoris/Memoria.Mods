@@ -10,7 +10,7 @@
         }
       },
       "$en_gfmin2_0001": {
-        "Target": "{X10Y12}Прошло весьма немного времени с тех{Line} пор как ты оправился от своих ранений.{End}",
+        "Target": "{X10Y12}«Прошло весьма немного времени с тех{Line} пор как ты оправился от своих ранений».{End}",
         "Source Text SHA256": "73A1D1EB91C50584CE41E5D43DBC8AF085E6E72C975821D1D15527C4961A7439",
         "sourceContext": {
           "Source MSD SHA256": "16BDBFAA400307216BFE6F0EF00D5B5A6B44F4D60A1C3035166C19109AE3AF0C",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gfmin2_0002": {
-        "Target": "{X160Y12}Laguna{Line}Благодаря каждому в городе!{End}",
+        "Target": "{X160Y12}{Char Laguna}{Line}«Благодаря каждому в городе!»{End}",
         "Source Text SHA256": "3E766A5025B3652B709C951D04D5A1DE38DFD25693F5917E6D1601F1E44D3513",
         "sourceContext": {
           "Source MSD SHA256": "16BDBFAA400307216BFE6F0EF00D5B5A6B44F4D60A1C3035166C19109AE3AF0C",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gfmin2_0003": {
-        "Target": "{X10Y12}Наверное, для такого молодого юноши,{Line} как вы, здесь слишком скучно.{Next}Может быть, вам пора вернуться{Line} в Делинг?{End}",
+        "Target": "{X10Y12}«Наверное, для такого молодого юноши,{Line} как вы, здесь слишком скучно».{Next}«Может быть, вам пора вернуться{Line} в Делинг?»{End}",
         "Source Text SHA256": "0870F0BFF8318A2EFE57D3427ADF3C8B44429DB4F5E9FFDF4471320808E18ACF",
         "sourceContext": {
           "Source MSD SHA256": "16BDBFAA400307216BFE6F0EF00D5B5A6B44F4D60A1C3035166C19109AE3AF0C",

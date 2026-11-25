@@ -2,7 +2,7 @@
   "Fields": {
     "bcsaka_1": {
       "$en_bcsaka_1_0000": {
-        "Target": "{X10Y60}Большой проказник{Line}“......”",
+        "Target": "{X10Y60}Большой проказник{Line}«......»",
         "Source Text SHA256": "752DE117FD6F11483641BEBE012C38F34EF1EE9567D57C909ABEDE8029F06367",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -10,7 +10,7 @@
         }
       },
       "$en_bcsaka_1_0001": {
-        "Target": "{X150Y150}“Аааай!”",
+        "Target": "{X150Y150}«Аааай!»",
         "Source Text SHA256": "AD69E4679CCC6F9BB5DF46DB0EF405ADBF6CAC4F4C00A0888745715545EB3B75",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bcsaka_1_0002": {
-        "Target": "{X10Y10}“ОН ОПЯТЬ!..”",
+        "Target": "{X10Y10}«ОН ОПЯТЬ!..»",
         "Source Text SHA256": "FF953CC9D46D3C0DD992678BD0F82E6E14096CDC756FF0E3A2E22655598E8D73",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bcsaka_1_0003": {
-        "Target": "{X10Y10}“Ненавижу! Он постоянно{Line} надо мной издевается!..”",
+        "Target": "{X10Y10}«Ненавижу! Он постоянно{Line} надо мной издевается!..»",
         "Source Text SHA256": "088B0B1E5C70020CE0E438480A8EB06117BC992C721D7E1CA6DC2AE3A22B38CC",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bcsaka_1_0004": {
-        "Target": "{X150Y10}Владелец отеля{Line}”Малышка, ты в порядке?{Line} Тебе не больно?“",
+        "Target": "{X150Y10}Владелец отеля{Line}«Малышка, ты в порядке?{Line} Тебе не больно?»",
         "Source Text SHA256": "25969697B1B9994FE0C1F6F928754B713B34AB4486308401B0CF089CD33765D7",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bcsaka_1_0005": {
-        "Target": "{X130Y10}Владелец отеля{Line}“Пусть только попадётся мне,{Line} маленький паршивец!”",
+        "Target": "{X130Y10}Владелец отеля{Line}«Пусть только попадётся мне,{Line} маленький паршивец!»",
         "Source Text SHA256": "485917F3309BC4F170A56C6D71B9216190483617047F971F965B8D3606446705",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bcsaka_1_0006": {
-        "Target": "{X130Y10}“Ребёнок он или нет,{Line} никто не смеет обижать{Line} мою дочь!”",
+        "Target": "{X130Y10}«Ребёнок он или нет,{Line} никто не смеет обижать{Line} мою дочь!»",
         "Source Text SHA256": "9546FAF125EB5B76F7F44FA101DFD4BB21F25EA844AF7A0CF15657E472D3204A",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bcsaka_1_0007": {
-        "Target": "{X130Y10}Хозяин гостиницы{Line}Зелл!{Line}Тебя это тоже касается!{End}",
+        "Target": "{X130Y10}Хозяин гостиницы{Line}«Зелл!{Line}Тебя это тоже касается!»{End}",
         "Source Text SHA256": "D35195288DB283CD40D1000F0047972F5719714FDD3A72475F8F6885A0C5318E",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bcsaka_1_0008": {
-        "Target": "{X20Y60}Зелл{Line}А?!{Pause 64}{Line}Почему меня?!{End}",
+        "Target": "{X20Y60}{Char Zell}{Line}«А?!{Pause 64}{Line}Почему меня?!»{End}",
         "Source Text SHA256": "DA6BD3C9ACEB5180973F759F5C576BBEC8F417FC83831A01B22C0435F3A4F33A",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bcsaka_1_0009": {
-        "Target": "{X130Y10}Хозяин гостиницы{Line}Ты ведь тоже из тех, кто задирает{Line}и дразнит человека, который ему нравится, да?{End}",
+        "Target": "{X130Y10}Хозяин гостиницы{Line}«Ты ведь тоже из тех, кто задирает{Line}и дразнит человека, который ему нравится, да?»{End}",
         "Source Text SHA256": "498D9D3089AAA8BF6A2F4DC764B71C3B5033BC696EC086481364DD819E179216",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bcsaka_1_0010": {
-        "Target": "{X130Y10}Только не перегибай палку!{Line}А то пожалеешь.{End}",
+        "Target": "{X130Y10}«Только не перегибай палку!{Line}А то пожалеешь».{End}",
         "Source Text SHA256": "D0A994A83163CDC0F82A81CF1F69E626353F94BFE629469E5E430FE86D1DD771",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bcsaka_1_0011": {
-        "Target": "{X50Y30}Ирвин{Line}А-ха-ха-ха!{Line}Сам так делал{Line}давным-давно!{End}",
+        "Target": "{X50Y30}{Char Irvine}{Line}«А-ха-ха-ха!{Line}Сам так делал{Line}давным-давно!»{End}",
         "Source Text SHA256": "19179C1974E3255D3530E02A244AD26F0525D6714595AA8A1572A8AB17BD2BAC",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bcsaka_1_0012": {
-        "Target": "{X50Y30}Ирвин{Line}Ведь так, Зелл?{End}",
+        "Target": "{X50Y30}{Char Irvine}{Line}«Ведь так, Зелл?»{End}",
         "Source Text SHA256": "AF0ED4BBB58EE612AEA12E8C5C369EFD2650D1D8FACA55BAE7E07630BA27EB1C",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bcsaka_1_0013": {
-        "Target": "{X20Y60}Зелл{Line}Д-да!{Line}Так и есть!{End}",
+        "Target": "{X20Y60}{Char Zell}{Line}«Д-да!{Line}Так и есть!»{End}",
         "Source Text SHA256": "4A0744EB21B4315B75ADA9FA38E99E19502BFADF751D34B319081F03004664C0",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bcsaka_1_0014": {
-        "Target": "{X150Y10}Почти десять лет прошло{Line}с тех пор, как я взял гостиницу...{Line}Столько путников здесь перебывало.{End}",
+        "Target": "{X150Y10}«Почти десять лет прошло{Line}с тех пор, как я взял гостиницу...{Line}Столько путников здесь перебывало».{End}",
         "Source Text SHA256": "224A27D188A4927366FD2E922C7DF11F153F91BC90FE28E29619C3BB9C8B9DFE",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bcsaka_1_0015": {
-        "Target": "{X150Y10}Пора и о себе{Line}подумать.{Line}А не съездить ли нам в отпуск всей семьёй?!{End}",
+        "Target": "{X150Y10}«Пора и о себе{Line}подумать.{Line}А не съездить ли нам в отпуск всей семьёй?!»{End}",
         "Source Text SHA256": "B46A2B2DB820C22AEB04AEBC5A7547DAE16FA3B5BA99A74D0112CD2797E0A67D",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bcsaka_1_0016": {
-        "Target": "{X10Y10}“В следующий раз я нарисую{Line} эту рыбу!”",
+        "Target": "{X10Y10}«В следующий раз я нарисую{Line} эту рыбу!»",
         "Source Text SHA256": "50E60A5CE2C5B07FBC0FFB7A760FD1F48DBFC468A9D71119FA391F0943904B47",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bcsaka_1_0017": {
-        "Target": "{X10Y10}“Папа сказал, что купит{Line} мне много синих мелков!”",
+        "Target": "{X10Y10}«Папа сказал, что купит{Line} мне много синих мелков!»",
         "Source Text SHA256": "43C139176BE305DC56855F684C2FBE0A7B8650206AAFE19D634207A66F24CAE1",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bcsaka_1_0018": {
-        "Target": "{X10Y10}”......“{End}",
+        "Target": "{X10Y10}«......»{End}",
         "Source Text SHA256": "F0823C38F9E230193A95DBFD9B26DFF0A4FF20EE5F9765976E2D47A5EC64ED28",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bcsaka_1_0019": {
-        "Target": "{X150Y10}Владелец отеля{Line}“Морской бриз...”{Next}“Весь город полнится{Line} ароматами моря...”",
+        "Target": "{X150Y10}Владелец отеля{Line}«Морской бриз...»{Next}«Весь город полнится{Line} ароматами моря...»",
         "Source Text SHA256": "4FAAEBB819B3F95ACA1F594F1C477F85AD45DB97B138E65B71DFB2F67857B15E",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bcsaka_1_0020": {
-        "Target": "{X150Y10}“Вот почему ржавеет моя машина!{Line} И эта вывеска скоро отвалится...”",
+        "Target": "{X150Y10}«Вот почему ржавеет моя машина!{Line} И эта вывеска скоро отвалится...»",
         "Source Text SHA256": "04930B230E0D4E9021A753A7F0DDC3401192390DB1E1530264C76A82DB005581",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -170,7 +170,7 @@
         }
       },
       "$en_bcsaka_1_0021": {
-        "Target": "{X150Y10}Владелец отеля{Line}“«Баламба отель стоит вам посетить,{Line} здесь морской бриз голову освежит...»”{Next}“Ну как, сгодится для рекламы?..”",
+        "Target": "{X150Y10}Владелец отеля{Line}«„Баламба отель стоит вам посетить,{Line} здесь морской бриз голову освежит...“»{Next}«Ну как, сгодится для рекламы?...»",
         "Source Text SHA256": "2519D1B9AB95B6C039C81582B3AB0E94404433C39A2166448FF3B975E6424FFC",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -178,7 +178,7 @@
         }
       },
       "$en_bcsaka_1_0022": {
-        "Target": "{X150Y10}“Да вам и за миллион лет{Line} ничего лучше не придумать.”",
+        "Target": "{X150Y10}«Да вам и за миллион лет{Line} ничего лучше не придумать».",
         "Source Text SHA256": "2CEFA4DC5DA5FAF0E4BD8EAB53B8C09CE632CE055EA15EC0E946853DAFC75251",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -186,7 +186,7 @@
         }
       },
       "$en_bcsaka_1_0023": {
-        "Target": "{X10Y160}Zell{Line}Ну и{Line} бред. У меня даже голова закружилась.{End}",
+        "Target": "{X10Y160}{Char Zell}{Line}«Ну и{Line} бред. У меня даже голова закружилась».{End}",
         "Source Text SHA256": "616D6B12B7A6C7020D3A7DEF04F37C70586B198E6C2C6F55C0A72F445AE78F68",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -194,7 +194,7 @@
         }
       },
       "$en_bcsaka_1_0024": {
-        "Target": "{X150Y10}Владелец отеля{Line}“Закружилась...{Line} Точно! Закружилась!”",
+        "Target": "{X150Y10}Владелец отеля{Line}«Закружилась...{Line} Точно! Закружилась!»",
         "Source Text SHA256": "91E76C2370F1E16CCEB6A7D1FC02BC6CE5F7F7C12E6CF5E6527864E2B7638F43",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -202,7 +202,7 @@
         }
       },
       "$en_bcsaka_1_0025": {
-        "Target": "{X150Y10}Владелец отеля{Line}“«Здесь морской бриз голову вскружит...»”",
+        "Target": "{X150Y10}Владелец отеля{Line}«„Здесь морской бриз голову вскружит...“»",
         "Source Text SHA256": "4854EFEAF49EA86FFB29703B9E891B01965118CDD107D626F10A29B23E3E4108",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -210,7 +210,7 @@
         }
       },
       "$en_bcsaka_1_0026": {
-        "Target": "{X150Y10}Владелец отеля{Line}“Прости, но мне нельзя играть.{Line} Жена меня прибьет...”",
+        "Target": "{X150Y10}Владелец отеля{Line}«Прости, но мне нельзя играть.{Line} Жена меня прибьет...»",
         "Source Text SHA256": "FDBCCB092F29C49D5EB253BC5D2D9FEFA9C41BC6B1F37808930B6A61093CB175",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -218,7 +218,7 @@
         }
       },
       "$en_bcsaka_1_0027": {
-        "Target": "{X150Y10F1L2B1C2}“Ребята, вы играете в карты?”{Line}Да{Line}Нет",
+        "Target": "{X150Y10F1L2B1C2}«Ребята, вы играете в карты?»{Line}Да{Line}Нет",
         "Source Text SHA256": "F18BC53AF831C7E0A6F3EEF78270F939E61E3F0D40A565CC6EABA16E012461C2",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -226,7 +226,7 @@
         }
       },
       "$en_bcsaka_1_0028": {
-        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Баламба и нашим.{End}",
+        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Баламба и нашим».{End}",
         "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -234,7 +234,7 @@
         }
       },
       "$en_bcsaka_1_0029": {
-        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим.{End}",
+        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим».{End}",
         "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -242,7 +242,7 @@
         }
       },
       "$en_bcsaka_1_0030": {
-        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Трабии и нашим.{End}",
+        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Трабии и нашим».{End}",
         "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -250,7 +250,7 @@
         }
       },
       "$en_bcsaka_1_0031": {
-        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Центры и нашим.{End}",
+        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Центры и нашим».{End}",
         "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -258,7 +258,7 @@
         }
       },
       "$en_bcsaka_1_0032": {
-        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Доллета и нашим.{End}",
+        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Доллета и нашим».{End}",
         "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -266,7 +266,7 @@
         }
       },
       "$en_bcsaka_1_0033": {
-        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}ГР и нашим.{End}",
+        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}ГР и нашим».{End}",
         "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -274,7 +274,7 @@
         }
       },
       "$en_bcsaka_1_0034": {
-        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Луны и нашим.{End}",
+        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Луны и нашим».{End}",
         "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -282,7 +282,7 @@
         }
       },
       "$en_bcsaka_1_0035": {
-        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Эстара и нашим.{End}",
+        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас не встретишь.{Line}Давай сыграем по правилам{Line}Эстара и нашим».{End}",
         "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -538,7 +538,7 @@
         }
       },
       "$en_bcsaka_1_0053": {
-        "Target": "Баламб{End}",
+        "Target": "«Баламб»{End}",
         "Source Text SHA256": "871A0300D8AA38AE603035A5A5F60C8DA8ED46B229104983658126ACFB69FDED",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -554,7 +554,7 @@
         }
       },
       "$en_bcsaka_1_0055": {
-        "Target": "Трабия{End}",
+        "Target": "«Трабия»{End}",
         "Source Text SHA256": "12CF51F7E397AB3FB8CCB6CA25520A415813E46D417FD46E28FC16B14C8C64C3",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -562,7 +562,7 @@
         }
       },
       "$en_bcsaka_1_0056": {
-        "Target": "Центра{End}",
+        "Target": "«Центра»{End}",
         "Source Text SHA256": "D4184566D64E8547C54109BF91374B12DACE77F43C4D706DCC0146531F4993E7",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -570,7 +570,7 @@
         }
       },
       "$en_bcsaka_1_0057": {
-        "Target": "Доллет{End}",
+        "Target": "«Доллет»{End}",
         "Source Text SHA256": "46773D3A69B492298060ECD52D98A38E46845EF2A5D2FFA1FABF6A83B0A722EC",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -594,7 +594,7 @@
         }
       },
       "$en_bcsaka_1_0060": {
-        "Target": "Эстар{End}",
+        "Target": "«Эстар»{End}",
         "Source Text SHA256": "58400EFBC3A84DCEE059DA50B57791E00C52344C9E7B9880ED4B38461DBE3746",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",
@@ -602,7 +602,7 @@
         }
       },
       "$en_bcsaka_1_0061": {
-        "Target": "Без дополнительных правил{End}",
+        "Target": "«Без дополнительных правил»{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "9CE08BE64F0912243654E96DEF406694F501BFF807E0AD3284BED7155A1CAFF5",

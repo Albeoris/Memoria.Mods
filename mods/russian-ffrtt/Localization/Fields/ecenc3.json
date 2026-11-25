@@ -2,7 +2,7 @@
   "Fields": {
     "ecenc3": {
       "$en_ecenc3_0000": {
-        "Target": "Зелл{Line}«Это наш последний шанс!»{End}",
+        "Target": "{Char Zell}{Line}«Это наш последний шанс!»{End}",
         "Source Text SHA256": "0BCDDEE1E3DDD3887F5786B68020B86428C23DF58AE200C96D0F4C0A233D4513",
         "sourceContext": {
           "Source MSD SHA256": "340ABBA0F6A58EDF32B0E4B9CD2CBA2F1CB6650FB2874B22E4454FDD0137180F",
@@ -10,7 +10,7 @@
         }
       },
       "$en_ecenc3_0000_ctx_4029545a518da83b": {
-        "Target": "{X150Y50}Зелл{Line}«Это наш последний шанс!»{End}",
+        "Target": "{X150Y50}{Char Zell}{Line}«Это наш последний шанс!»{End}",
         "Source Text SHA256": "0BCDDEE1E3DDD3887F5786B68020B86428C23DF58AE200C96D0F4C0A233D4513",
         "sourceContext": {
           "Source MSD SHA256": "340ABBA0F6A58EDF32B0E4B9CD2CBA2F1CB6650FB2874B22E4454FDD0137180F",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ecenc3_0000_ctx_5791147b20524a28": {
-        "Target": "{X50Y50}Зелл{Line}«Это наш последний шанс!»{End}",
+        "Target": "{X50Y50}{Char Zell}{Line}«Это наш последний шанс!»{End}",
         "Source Text SHA256": "0BCDDEE1E3DDD3887F5786B68020B86428C23DF58AE200C96D0F4C0A233D4513",
         "sourceContext": {
           "Source MSD SHA256": "340ABBA0F6A58EDF32B0E4B9CD2CBA2F1CB6650FB2874B22E4454FDD0137180F",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ecenc3_0000_ctx_e24642f1333f0850": {
-        "Target": "{X100Y50}Зелл{Line}«Это наш последний шанс!»{End}",
+        "Target": "{X100Y50}{Char Zell}{Line}«Это наш последний шанс!»{End}",
         "Source Text SHA256": "0BCDDEE1E3DDD3887F5786B68020B86428C23DF58AE200C96D0F4C0A233D4513",
         "sourceContext": {
           "Source MSD SHA256": "340ABBA0F6A58EDF32B0E4B9CD2CBA2F1CB6650FB2874B22E4454FDD0137180F",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ecenc3_0001": {
-        "Target": "{X150Y50}Зелл{Line}«Вперёд!»{End}",
+        "Target": "{X150Y50}{Char Zell}{Line}«Вперёд!»{End}",
         "Source Text SHA256": "82502B841FEFE7FFC3BB90CCF29C2A6ACED4B2F633DA669D72AEF6EA1F582A5A",
         "sourceContext": {
           "Source MSD SHA256": "340ABBA0F6A58EDF32B0E4B9CD2CBA2F1CB6650FB2874B22E4454FDD0137180F",

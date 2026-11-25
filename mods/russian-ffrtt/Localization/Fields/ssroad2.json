@@ -26,7 +26,7 @@
         }
       },
       "$en_ssroad2_0003": {
-        "Target": "{X10Y10}Сотрудник{Line}Опасности повсюду.{Line}Мало просто избавиться от них{Line}или держать их подальше.{Next}Их нужно изолировать и держать{Line}под контролем. Так заведено в Эстаре.{End}",
+        "Target": "{X10Y10}Сотрудник{Line}«Опасности повсюду.{Line}Мало просто избавиться от них{Line}или держать их подальше.{Next}Их нужно изолировать и держать{Line}под контролем. Так заведено в Эстаре».{End}",
         "Source Text SHA256": "E26BFD24A5484759C2691B51FA6E22731E9BCFE6319D9B478FFE3242726009ED",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ssroad2_0004": {
-        "Target": "{X10Y10}Исследователь{Line}Собственно, эту станцию{Line}и построили, чтобы{Line}наблюдать за Адель.{Next}Мы запечатали её и держим{Line}там, где притяжение Луны{Line}уравновешивает притяжение планеты.{End}",
+        "Target": "{X10Y10}Исследователь{Line}«Собственно, эту станцию{Line}и построили, чтобы{Line}наблюдать за Адель.{Next}Мы запечатали её и держим{Line}там, где притяжение Луны{Line}уравновешивает притяжение планеты».{End}",
         "Source Text SHA256": "5560C31DE76FD8B62EE4EAAEAC72B853F4C6812117B2200C7E226D693A6CE650",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ssroad2_0005": {
-        "Target": "{X10Y10}Сотрудник{Line}В Эстаре лучшие технологии изоляции.{Next}Печать сдерживает её силу{Line}и не даёт никому извне{Line}установить с ней связь.{End}",
+        "Target": "{X10Y10}Сотрудник{Line}«В Эстаре лучшие технологии изоляции.{Next}Печать сдерживает её силу{Line}и не даёт никому извне{Line}установить с ней связь».{End}",
         "Source Text SHA256": "13C861FD7D0973FED7F261CF1E204E11BB34A1C23BEE268909D93A630883B87A",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ssroad2_0006": {
-        "Target": "{X10Y10}Сотрудник{Line}Мы сменяемся каждые полгода,{Line}так что шесть месяцев в году{Line}я живу здесь с одним экипажем.{Next}Мы ни на секунду{Line}не можем спустить с неё глаз.{Next}Если Адель пробудится,{Line}Эстар снова погрузится в ужас,{Line}как семнадцать лет назад.{End}",
+        "Target": "{X10Y10}Сотрудник{Line}«Мы сменяемся каждые полгода,{Line}так что шесть месяцев в году{Line}я живу здесь с одним экипажем.{Next}Мы ни на секунду{Line}не можем спустить с неё глаз.{Next}Если Адель пробудится,{Line}Эстар снова погрузится в ужас,{Line}как семнадцать лет назад».{End}",
         "Source Text SHA256": "A90D27C7B5FDA81013CAB72E2600E462DB34167876FF9292B334E469032A9EA8",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ssroad2_0007": {
-        "Target": "{X10Y10}Эллона{Line}Ты уже был в центре управления?{Next}Пойдём, я покажу тебе Луну.{Line}Она такая огромная и красивая.{End}",
+        "Target": "{X10Y10}Эллона{Line}«Ты уже был в центре управления?{Next}Пойдём, я покажу тебе Луну.{Line}Она такая огромная и красивая».{End}",
         "Source Text SHA256": "3FD744DA487C194DE5F7C66CBC3558E49885F9551EE15F6371752E0A5F111838",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ssroad2_0008": {
-        "Target": "{X177Y20}{Char Squall}{Line}Что происходит?{End}",
+        "Target": "{X177Y20}{Char Squall}{Line}«Что происходит?»{End}",
         "Source Text SHA256": "52FDA1B5250A2E7802F09C58DF97DB370F777B5689D3BBA023C5ED2D84E6D6B8",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ssroad2_0011": {
-        "Target": "{X229Y20}{Char Squall}{Line}Медблок...{Line}{Char Rinoa}?{End}",
+        "Target": "{X229Y20}{Char Squall}{Line}«Медблок...{Line}{Char Rinoa}?»{End}",
         "Source Text SHA256": "83392A7DDE268FC091D113CD425BDE9C2895F540FEDFC8B8E3754FD001910B68",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ssroad2_0012": {
-        "Target": "{X181Y20}{Char Squall}{Line}Пойду проверю!{End}",
+        "Target": "{X181Y20}{Char Squall}{Line}«Пойду проверю!»{End}",
         "Source Text SHA256": "1268C5D2B0BF9E04834A6E97CF1208032BB8DE45C9F2F8755B39124F1B2E4F60",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ssroad2_0013": {
-        "Target": "{X69Y20}{Char Squall}{Line}Дело плохо. Эллона,{Line}лучше подожди в центре управления.{End}",
+        "Target": "{X69Y20}{Char Squall}{Line}«Дело плохо. Эллона,{Line}лучше подожди в центре управления».{End}",
         "Source Text SHA256": "959E72C1F83B05565E5776C79EFB45158D8ABE444FCD98912735341D7CB7DF62",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ssroad2_0014": {
-        "Target": "{X130Y10}Эллона{Line}Хорошо. Только будь осторожен, ладно?{End}",
+        "Target": "{X130Y10}Эллона{Line}«Хорошо. Только будь осторожен, ладно?»{End}",
         "Source Text SHA256": "5495A8CE0B4578C473B3512AFD104CA705A112568774C9B22AE54DD5EECEFA66",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ssroad2_0015": {
-        "Target": "{X144Y160}{Char Squall}{Line}Ирвин,{Line}присмотри за Эллоной.{End}",
+        "Target": "{X144Y160}{Char Squall}{Line}«Ирвин,{Line}присмотри за Эллоной».{End}",
         "Source Text SHA256": "9FD01088FAC556EE797505D8AF57435F83A76554BC397947DD102FB51F14531D",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ssroad2_0016": {
-        "Target": "{X160Y160}{Char Squall}{Line}Сельфи,{Line}присмотри за Эллоной.{End}",
+        "Target": "{X160Y160}{Char Squall}{Line}«Сельфи,{Line}присмотри за Эллоной».{End}",
         "Source Text SHA256": "065F58990C37B88346FB0F9AEAF02280ACAE0E996A825BAAB1FC29A2CD3757C6",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ssroad2_0017": {
-        "Target": "{X116Y160}{Char Squall}{Line}Квистис,{Line}пожалуйста, присмотри за Эллоной.{End}",
+        "Target": "{X116Y160}{Char Squall}{Line}«Квистис,{Line}пожалуйста, присмотри за Эллоной».{End}",
         "Source Text SHA256": "C17439C4F3AD5383E1E4E39A20B9505EC61C123BDC65D0B6FD2A3A9B1CCE86C3",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ssroad2_0018": {
-        "Target": "{X10Y170}Ирвин{Line}Хорошо.{End}",
+        "Target": "{X10Y170}{Char Irvine}{Line}«Хорошо».{End}",
         "Source Text SHA256": "193E2D2C3236E06AB2DDB1B1F8100AB120F404E47209817D47F09A33E6C80E86",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ssroad2_0019": {
-        "Target": "{X170Y10}Сельфи{Line}Ладно!{End}",
+        "Target": "{X170Y10}{Char Selphie}{Line}«Ладно!»{End}",
         "Source Text SHA256": "CD3E5437B85EBC760D8457EAD0EA513AEFC3C6A0557EB72A4B6AC69F76B41903",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ssroad2_0020": {
-        "Target": "{X170Y10}Квистис{Line}Хорошо.{End}",
+        "Target": "{X170Y10}{Char Quistis}{Line}«Хорошо».{End}",
         "Source Text SHA256": "F034F80BB0AA21A7A5B8EB959C7D7B72252AAAADC261488EB63604C140332E0C",
         "sourceContext": {
           "Source MSD SHA256": "CE6C1B34B245474C8B6C5A77B9F851145328E3686A68060F9F515FF8E001A48C",

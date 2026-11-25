@@ -2,7 +2,7 @@
   "Fields": {
     "tggara1": {
       "$en_tggara1_0000": {
-        "Target": "{X80Y150}Мы перенесли раненых в машину.{Line} Я? Нет, я{Line} не ранен.{End}",
+        "Target": "{X80Y150}«Мы перенесли раненых в машину.{Line} Я? Нет, я{Line} не ранен».{End}",
         "Source Text SHA256": "08ACB5AEE8477E28F2D4C84ABF1B41B517F7AE67F56854BC71CC3A91B9CCDE6D",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -10,7 +10,7 @@
         }
       },
       "$en_tggara1_0001": {
-        "Target": "{X80Y150}Просто плохо{Line} себя чувствую. Я устал за всеми ухаживать.{End}",
+        "Target": "{X80Y150}«Просто плохо{Line} себя чувствую. Я устал за всеми ухаживать».{End}",
         "Source Text SHA256": "9D80135D3E14C297948DEE66D8ECE242A492DE00074AC9D2402AB806DCECDF25",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -18,7 +18,7 @@
         }
       },
       "$en_tggara1_0002": {
-        "Target": "{X80Y150}Это...{Line} Король Тонберри!{End}",
+        "Target": "{X80Y150}«Это...{Line} Король Тонберри!»{End}",
         "Source Text SHA256": "C7123BE7E7982B010538317F0244F5197EBAE42A671A26A81497561838C13AFF",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -26,7 +26,7 @@
         }
       },
       "$en_tggara1_0003": {
-        "Target": "{X80Y150}Получи!{Line} Призываю ЗС! {Pause 80}Блахрр...{End}",
+        "Target": "{X80Y150}«Получи!{Line} Призываю ЗС! {Pause 80}Блахрр...»{End}",
         "Source Text SHA256": "05D8337BE8D9C89D2C6EBCC63F235B19C6106479FD2DC06F7AC2D2DBC226BC88",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -34,7 +34,7 @@
         }
       },
       "$en_tggara1_0004": {
-        "Target": "{X80Y150}Сельфи!{End}",
+        "Target": "{X80Y150}«Сельфи!»{End}",
         "Source Text SHA256": "F81844C511A2F619502C31ABF094558335602D59CDC79292745F445ADD446179",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -42,7 +42,7 @@
         }
       },
       "$en_tggara1_0005": {
-        "Target": "{X30Y150}Boy{Line}Сельфи, прости! Сможешь{Line} ли ты простить нас?{End}",
+        "Target": "{X30Y150}Мальчик{Line}«Сельфи, прости! Сможешь{Line} ли ты простить нас?»{End}",
         "Source Text SHA256": "990F4ABB6597740EA14332D6D99B6D7CCAD50E659F7FB040855BC61E53ECC0DE",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -50,7 +50,7 @@
         }
       },
       "$en_tggara1_0006": {
-        "Target": "{X80Y10}Selphie{Line}Что? За{Line} что? Почему вы извиняетесь?{End}",
+        "Target": "{X80Y10}{Char Selphie}{Line}«Что? За{Line} что? Почему вы извиняетесь?»{End}",
         "Source Text SHA256": "B902DA37D501C4F632B0E6FDCA9B4975EFB248A2C7DBBDF65825E0BCE5933B3E",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -58,7 +58,7 @@
         }
       },
       "$en_tggara1_0007": {
-        "Target": "{X30Y150}Тот плюшевый мишка, которого{Line} ты дала мне...{Line} Я не смог его спасти!{End}",
+        "Target": "{X30Y150}«Тот плюшевый мишка, которого{Line} ты дала мне...{Line} Я не смог его спасти!»{End}",
         "Source Text SHA256": "0EF9F9EDC63CC5D9EAB6066E43149FF4B25CCA220EE09EB685CF144248E98DC8",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -66,7 +66,7 @@
         }
       },
       "$en_tggara1_0008": {
-        "Target": "{X80Y150}Girl{Line}Я слышу как он плачет...{Line} Ему одиноко!{End}",
+        "Target": "{X80Y150}Девочка{Line}«Я слышу как он плачет...{Line} Ему одиноко!»{End}",
         "Source Text SHA256": "CDB662C13207CA78FEE99152388AA93A0EDF415FBA12EE4E5D9D71BAA938A4D6",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -74,7 +74,7 @@
         }
       },
       "$en_tggara1_0009": {
-        "Target": "{X80Y10}Selphie{Line}Мой плюшевый мишка намного сильнее,{Line} чем вы думаете!{End}",
+        "Target": "{X80Y10}{Char Selphie}{Line}«Мой плюшевый мишка намного сильнее,{Line} чем вы думаете!»{End}",
         "Source Text SHA256": "6BFC0B05D5B1C529190D1B5577381816C1F91D5D858F6A684C63E6652079E183",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -82,7 +82,7 @@
         }
       },
       "$en_tggara1_0010": {
-        "Target": "{X80Y10}Пока вы в безопасности,{Line} мистер Мишка будет счастлив.{End}",
+        "Target": "{X80Y10}«Пока вы в безопасности,{Line} мистер Мишка будет счастлив».{End}",
         "Source Text SHA256": "81FB6988A7CFA564F29A2B0B61C16A18516FA992C93F1DE77B734B25497B4166",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -90,7 +90,7 @@
         }
       },
       "$en_tggara1_0011": {
-        "Target": "{X80Y10}Selphie{Line}Эээй! Я его{Pause 48}{Line} слышу! Мистер Мишка тайно наблюдает за вами.{End}",
+        "Target": "{X80Y10}{Char Selphie}{Line}«Эээй! Я его{Pause 48}{Line} слышу! Мистер Мишка тайно наблюдает за вами».{End}",
         "Source Text SHA256": "D49B85D5D0C47056EC3F03ADFB422291F987D012A67A9312DCEDF7E8D7B932BD",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -98,7 +98,7 @@
         }
       },
       "$en_tggara1_0012": {
-        "Target": "{X80Y10}Selphie{Line}Так что ведите себя хорошо и не печальтесь!{Line} Просто помните, что мистер Мишка следит за вами!{End}",
+        "Target": "{X80Y10}{Char Selphie}{Line}«Так что ведите себя хорошо и не печальтесь!{Line} Просто помните, что мистер Мишка следит за вами!»{End}",
         "Source Text SHA256": "B0AA0405F0F25289C6323086C88993737CC27E4716605357B0A0F17DD6EC7285",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -106,7 +106,7 @@
         }
       },
       "$en_tggara1_0013": {
-        "Target": "{X80Y150}Girl{Line}Хорошо.{Line} Я... Я обещаю вести себя хорошо!{Next}Скажи мистеру Мишке, что я не{Line} буду печалиться или плакать, хорошо?{End}",
+        "Target": "{X80Y150}Девочка{Line}«Хорошо.{Line} Я... Я обещаю вести себя хорошо!»{Next}«Скажи мистеру Мишке, что я не{Line} буду печалиться или плакать, хорошо?»{End}",
         "Source Text SHA256": "CAB6D30F9CB136831558AE2B79247922FACCF747C69A606EAAC09F60BEC85D5C",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -114,7 +114,7 @@
         }
       },
       "$en_tggara1_0014": {
-        "Target": "{X30Y150}Boy{Line}Спасибо, Сельфи!{End}",
+        "Target": "{X30Y150}Мальчик{Line}«Спасибо, Сельфи!»{End}",
         "Source Text SHA256": "2D5634A93E13187CB7D2D78CFC5B787EFAAD212F1318CBACB45261A6DB964F9D",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -122,7 +122,7 @@
         }
       },
       "$en_tggara1_0015": {
-        "Target": "{X80Y150}Selphie{Line}Простите. Я приду через{Line} минуту. Подождите на баскетбольной площадке, ладно?{End}",
+        "Target": "{X80Y150}{Char Selphie}{Line}«Простите. Я приду через{Line} минуту. Подождите на баскетбольной площадке, ладно?»{End}",
         "Source Text SHA256": "E36C3DCE8F4D5C0E4E1CD84D8DB0B6E8C52A119D0D7E8B191DDADF12E7ACA0A3",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -130,7 +130,7 @@
         }
       },
       "$en_tggara1_0016": {
-        "Target": "{X100Y10}Trabian Female Student{Line}Просыпайся!{Line} ПРОСЫПАЙСЯ, сказала!{End}",
+        "Target": "{X100Y10}Студентка Трабии{Line}«Просыпайся!{Line} ПРОСЫПАЙСЯ, сказала!»{End}",
         "Source Text SHA256": "E3B938ACCE434B28845E780BB93DDAF5919CBC9E15120DBE8D6AB5D3C4351ADA",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -138,7 +138,7 @@
         }
       },
       "$en_tggara1_0017": {
-        "Target": "{X100Y10}Ты сегодня в патруле!{Line} Ты же записался, разве нет?!{End}",
+        "Target": "{X100Y10}«Ты сегодня в патруле!{Line} Ты же записался, разве нет?!»{End}",
         "Source Text SHA256": "5F182EC88A45885869511F8057A7B9C9201CA04AB03E5E065F8583E1BFE03383",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -146,7 +146,7 @@
         }
       },
       "$en_tggara1_0018": {
-        "Target": "{X80Y150}Trabian Male Student{Line}{Pause 48}Э...{Pause 40}{Pause 64}{Line} гх... О нет... Ничья не получилась...{End}",
+        "Target": "{X80Y150}Студент Трабии{Line}{Pause 48}«Э...{Pause 40}{Pause 64}{Line} гх... О нет... Ничья не получилась...»{End}",
         "Source Text SHA256": "4ACB646B6039B504D97F5AB442B0DF64CB0B446E0E04AE8B68F34756794EAEB4",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -154,7 +154,7 @@
         }
       },
       "$en_tggara1_0019": {
-        "Target": "{X100Y10}Trabian Female Student{Line}Вместо того, чтобы драться во сне,{Line} почему бы тебе не делать{Line} этого в реальности!{End}",
+        "Target": "{X100Y10}Студентка Трабии{Line}«Вместо того, чтобы драться во сне,{Line} почему бы тебе не делать{Line} этого в реальности!»{End}",
         "Source Text SHA256": "459F5767BC636D0F1E7F8E060BB8444C5C431D57B1A6E13710C1A65CDDDF6C1D",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -162,7 +162,7 @@
         }
       },
       "$en_tggara1_0020": {
-        "Target": "{X100Y10}Давай, подъём!{Line} Я сказала ПОДЪЁМ!!!{End}",
+        "Target": "{X100Y10}«Давай, подъём!{Line} Я сказала ПОДЪЁМ!!!»{End}",
         "Source Text SHA256": "AD0FB2B9BB2DEFA27CB8944617FB9938ABD50436B99304941920B1482FDFD152",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -170,7 +170,7 @@
         }
       },
       "$en_tggara1_0021": {
-        "Target": "{X100Y10}Trabian Female Student{Line}Это вы сказали,{Line} что мы должны защищать Трабию.{End}",
+        "Target": "{X100Y10}Студентка Трабии{Line}«Это вы сказали,{Line} что мы должны защищать Трабию».{End}",
         "Source Text SHA256": "4E753D084C6FC27D6DC56E9823325B2E0A96B7B89CFE3B586E0850C10A54AD0E",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -514,7 +514,7 @@
         }
       },
       "$en_tggara1_0050": {
-        "Target": "Баламб{End}",
+        "Target": "«Баламб»{End}",
         "Source Text SHA256": "871A0300D8AA38AE603035A5A5F60C8DA8ED46B229104983658126ACFB69FDED",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -530,7 +530,7 @@
         }
       },
       "$en_tggara1_0052": {
-        "Target": "Трабия{End}",
+        "Target": "«Трабия»{End}",
         "Source Text SHA256": "12CF51F7E397AB3FB8CCB6CA25520A415813E46D417FD46E28FC16B14C8C64C3",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -538,7 +538,7 @@
         }
       },
       "$en_tggara1_0053": {
-        "Target": "Центра{End}",
+        "Target": "«Центра»{End}",
         "Source Text SHA256": "D4184566D64E8547C54109BF91374B12DACE77F43C4D706DCC0146531F4993E7",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -546,7 +546,7 @@
         }
       },
       "$en_tggara1_0054": {
-        "Target": "Доллет{End}",
+        "Target": "«Доллет»{End}",
         "Source Text SHA256": "46773D3A69B492298060ECD52D98A38E46845EF2A5D2FFA1FABF6A83B0A722EC",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -570,7 +570,7 @@
         }
       },
       "$en_tggara1_0057": {
-        "Target": "Эстар{End}",
+        "Target": "«Эстар»{End}",
         "Source Text SHA256": "58400EFBC3A84DCEE059DA50B57791E00C52344C9E7B9880ED4B38461DBE3746",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",
@@ -578,7 +578,7 @@
         }
       },
       "$en_tggara1_0058": {
-        "Target": "Без дополнительных правил{End}",
+        "Target": "«Без дополнительных правил»{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "50D4319521BF4A31D1A6F859744C4607C065A515D4218945518F4046A3251A72",

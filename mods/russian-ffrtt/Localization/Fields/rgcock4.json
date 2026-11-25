@@ -26,7 +26,7 @@
         }
       },
       "$en_rgcock4_0003": {
-        "Target": "Zell{Line}А вот{Line} и мы! Пробиваемся внутрь!{End}",
+        "Target": "{Char Zell}{Line}«А вот{Line} и мы! Пробиваемся внутрь!»{End}",
         "Source Text SHA256": "6815A11E5084AE653BAC547B2FAE623568B114AC7F583195EF097B1A995E46E1",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -34,7 +34,7 @@
         }
       },
       "$en_rgcock4_0003_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Зелл{Line}А вот{Line} и мы! Пробиваемся внутрь!{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«А вот{Line} и мы! Пробиваемся внутрь!»{End}",
         "Source Text SHA256": "6815A11E5084AE653BAC547B2FAE623568B114AC7F583195EF097B1A995E46E1",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -42,7 +42,7 @@
         }
       },
       "$en_rgcock4_0003_ctx_9ac41f1d5a32a8c0": {
-        "Target": "{X100Y10}Зелл{Line}А вот{Line} и мы! Пробиваемся внутрь!{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}«А вот{Line} и мы! Пробиваемся внутрь!»{End}",
         "Source Text SHA256": "6815A11E5084AE653BAC547B2FAE623568B114AC7F583195EF097B1A995E46E1",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -50,7 +50,7 @@
         }
       },
       "$en_rgcock4_0003_ctx_f23c128e60f05ee3": {
-        "Target": "{X161Y10}Зелл{Line}А вот{Line} и мы! Пробиваемся внутрь!{End}",
+        "Target": "{X161Y10}{Char Zell}{Line}«А вот{Line} и мы! Пробиваемся внутрь!»{End}",
         "Source Text SHA256": "6815A11E5084AE653BAC547B2FAE623568B114AC7F583195EF097B1A995E46E1",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -58,7 +58,7 @@
         }
       },
       "$en_rgcock4_0004": {
-        "Target": "Quistis{Line}Интересно, сможем ли мы пробраться.{End}",
+        "Target": "{Char Quistis}{Line}«Интересно, сможем ли мы пробраться».{End}",
         "Source Text SHA256": "6EDEF949ACAACCFA0202F37568864F022F8AF576EDED55682B6E5AE277848C59",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -66,7 +66,7 @@
         }
       },
       "$en_rgcock4_0004_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Квистис{Line}Интересно, сможем ли мы пробраться.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Интересно, сможем ли мы пробраться».{End}",
         "Source Text SHA256": "6EDEF949ACAACCFA0202F37568864F022F8AF576EDED55682B6E5AE277848C59",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -74,7 +74,7 @@
         }
       },
       "$en_rgcock4_0004_ctx_a8f34b069fa254a1": {
-        "Target": "{X89Y10}Квистис{Line}Интересно, сможем ли мы пробраться.{End}",
+        "Target": "{X89Y10}{Char Quistis}{Line}«Интересно, сможем ли мы пробраться».{End}",
         "Source Text SHA256": "6EDEF949ACAACCFA0202F37568864F022F8AF576EDED55682B6E5AE277848C59",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -82,7 +82,7 @@
         }
       },
       "$en_rgcock4_0005": {
-        "Target": "{X80Y150}Irvine{Line}А, не беспокойся{Line} об этом.{End}",
+        "Target": "{X80Y150}{Char Irvine}{Line}«А, не беспокойся{Line} об этом».{End}",
         "Source Text SHA256": "6BC19236FD0D6D546D52EA157BE8BC89D68745AE4A9D5120F1E494540F2A4D5D",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -90,7 +90,7 @@
         }
       },
       "$en_rgcock4_0006": {
-        "Target": "Quistis{Line}Пулемёты и главная{Line} пушка готовы?{End}",
+        "Target": "{Char Quistis}{Line}«Пулемёты и главная{Line} пушка готовы?»{End}",
         "Source Text SHA256": "B0500026C51167F16087836FD23A6E78094AC256DF9EA53453A82591CAFA7F4E",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -98,7 +98,7 @@
         }
       },
       "$en_rgcock4_0006_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Квистис{Line}Пулемёты и главная{Line} пушка готовы?{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Пулемёты и главная{Line} пушка готовы?»{End}",
         "Source Text SHA256": "B0500026C51167F16087836FD23A6E78094AC256DF9EA53453A82591CAFA7F4E",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -106,7 +106,7 @@
         }
       },
       "$en_rgcock4_0006_ctx_bab37040ba3de5b9": {
-        "Target": "{X128Y10}Квистис{Line}Пулемёты и главная{Line} пушка готовы?{End}",
+        "Target": "{X128Y10}{Char Quistis}{Line}«Пулемёты и главная{Line} пушка готовы?»{End}",
         "Source Text SHA256": "B0500026C51167F16087836FD23A6E78094AC256DF9EA53453A82591CAFA7F4E",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -114,7 +114,7 @@
         }
       },
       "$en_rgcock4_0007": {
-        "Target": "Selphie{Line}Готовы!{End}",
+        "Target": "{Char Selphie}{Line}«Готовы!»{End}",
         "Source Text SHA256": "38479F7E906655C77AA939142FD30F3F1309011C817561A295CB78B297DDC252",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -122,7 +122,7 @@
         }
       },
       "$en_rgcock4_0007_ctx_3e79bd47c6821fd3": {
-        "Target": "{X80Y10}Сельфи{Line}Готовы!{End}",
+        "Target": "{X80Y10}{Char Selphie}{Line}«Готовы!»{End}",
         "Source Text SHA256": "38479F7E906655C77AA939142FD30F3F1309011C817561A295CB78B297DDC252",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -130,7 +130,7 @@
         }
       },
       "$en_rgcock4_0007_ctx_cb92afb5d272a295": {
-        "Target": "{X225Y10}Сельфи{Line}Готовы!{End}",
+        "Target": "{X225Y10}{Char Selphie}{Line}«Готовы!»{End}",
         "Source Text SHA256": "38479F7E906655C77AA939142FD30F3F1309011C817561A295CB78B297DDC252",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -138,7 +138,7 @@
         }
       },
       "$en_rgcock4_0008": {
-        "Target": "Selphie{Line}Будем палить как чокнутые,{Line} проделаем большую дыру, БАБАХ!{End}",
+        "Target": "{Char Selphie}{Line}«Будем палить как чокнутые,{Line} проделаем большую дыру, БАБАХ!»{End}",
         "Source Text SHA256": "2075BC30E37C449B8CC337038E777056E6F63707D59C4302B1CE5C9554C1C897",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -146,7 +146,7 @@
         }
       },
       "$en_rgcock4_0008_ctx_8fa474f114aa44a3": {
-        "Target": "{X60Y10}Сельфи{Line}Будем палить как чокнутые,{Line} проделаем большую дыру, БАБАХ!{End}",
+        "Target": "{X60Y10}{Char Selphie}{Line}«Будем палить как чокнутые,{Line} проделаем большую дыру, БАБАХ!»{End}",
         "Source Text SHA256": "2075BC30E37C449B8CC337038E777056E6F63707D59C4302B1CE5C9554C1C897",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -154,7 +154,7 @@
         }
       },
       "$en_rgcock4_0008_ctx_ef958ef732776037": {
-        "Target": "{X113Y10}Сельфи{Line}Будем палить как чокнутые,{Line} проделаем большую дыру, БАБАХ!{End}",
+        "Target": "{X113Y10}{Char Selphie}{Line}«Будем палить как чокнутые,{Line} проделаем большую дыру, БАБАХ!»{End}",
         "Source Text SHA256": "2075BC30E37C449B8CC337038E777056E6F63707D59C4302B1CE5C9554C1C897",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -162,7 +162,7 @@
         }
       },
       "$en_rgcock4_0009": {
-        "Target": "{X233Y10}Irvine{Line}Барьеры!{End}",
+        "Target": "{X233Y10}{Char Irvine}{Line}«Барьеры!»{End}",
         "Source Text SHA256": "BA456A6CBEFC601B8EC4B18C2878970AA97417F0033603D77AEEC99F50E83A61",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",
@@ -170,7 +170,7 @@
         }
       },
       "$en_rgcock4_0010": {
-        "Target": "{X30Y150}Selphie{Line}ВУУ-ХУУУ!!!{End}",
+        "Target": "{X30Y150}{Char Selphie}{Line}«ВУУ-ХУУУ!!!»{End}",
         "Source Text SHA256": "932D0B8CA771753B0D24BB06264F35C334C89C4DFC65AA19BE94588817331D39",
         "sourceContext": {
           "Source MSD SHA256": "0FC98EF82261987510134E4C4522DE0BDC2BCCDCBE46E833A0311F0251DE2E11",

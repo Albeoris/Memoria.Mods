@@ -2,7 +2,7 @@
   "Fields": {
     "ebroad11": {
       "$en_ebroad11_0000": {
-        "Target": "{X20Y20}Laguna{Line}Хм?..{Line} Рычаг этого люка ослаблен...{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Хм?..{Line} Рычаг этого люка ослаблен...»{End}",
         "Source Text SHA256": "331CAC6F6C1821F55AF8D48772D7F1F1C505447F286851C01A1C9E5EB642C64D",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -10,7 +10,7 @@
         }
       },
       "$en_ebroad11_0001": {
-        "Target": "{X20Y20}Laguna{Line}”......!!!{Pause 48}{Line} Я понял!“{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«......!!!{Pause 48}{Line} Я понял!»{End}",
         "Source Text SHA256": "6F9CE8A75CF3F8C50A498A5FA4C48EF1B5035C5DB5F1C9113910E77539BC2607",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ebroad11_0002": {
-        "Target": "{X20Y20}Laguna{Line}Если мы{Line} используем его, то{Line} сможем избавиться от преследователей!{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Если мы{Line} используем его, то{Line} сможем избавиться от преследователей!»{End}",
         "Source Text SHA256": "7C848B9397E2DC711A1C9E73C5B4233D53757E59E4EE8D72282D2A9781C78819",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ebroad11_0003": {
-        "Target": "{X20Y150}Kiros{Line}О чём ты говоришь?{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«О чём ты говоришь?»{End}",
         "Source Text SHA256": "AA72B790661053EC02D00916693EBFD890F9F542B3B83FCDB46B5D03E98F5F6B",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ebroad11_0004": {
-        "Target": "{X150Y20}Ward{Line}Полагаю, о чём-то глупом.{End}",
+        "Target": "{X150Y20}{Char Ward}{Line}«Полагаю, о чём-то глупом».{End}",
         "Source Text SHA256": "FF75220709C24CA6B3E1AF69AF2EE3567EAE2108F304D6EF6BDF9D218B756772",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ebroad11_0005": {
-        "Target": "{X20Y20}Laguna{Line}Парни...{Line} Вам лучше взять свои слова{Next}назад. Говорят, тот кто смеётся над гением,{Line} в конце концов плачет.{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Парни...{Line} Вам лучше взять свои слова{Next}назад. Говорят, тот кто смеётся над гением,{Line} в конце концов плачет».{End}",
         "Source Text SHA256": "A4AD8539EFA900ECC0313A0A48DCE128FE2AE8AE3065A314451E48A42FF55C49",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ebroad11_0006": {
-        "Target": "{X20Y150}Кирос{Line}«?»{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«?»{End}",
         "Source Text SHA256": "0D251A0EA529E8B67B6C09005598DFEA9F1FC3774141594018B2D7677EEB163D",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ebroad11_0007": {
-        "Target": "{X150Y20}Ward{Line}...Ну и кто{Line} здесь... гений?!{End}",
+        "Target": "{X150Y20}{Char Ward}{Line}«...Ну и кто{Line} здесь... гений?!»{End}",
         "Source Text SHA256": "A306B7995A2DE245519D369E795F148D9EAC3E6D3AB7D797707BD501722156F2",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ebroad11_0008": {
-        "Target": "{X20Y20}Laguna{Line}Ааа! {Pause 48}Лучше{Next}молчи!{Line} В любом случае, рычаг этого{Next}люка сломан.{Line} Но если мы ослабим его сильнее...{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Ааа! {Pause 48}Лучше{Next}молчи!{Line} В любом случае, рычаг этого{Next}люка сломан.{Line} Но если мы ослабим его сильнее...»{End}",
         "Source Text SHA256": "DEC3C9F5DA26C722D6A179DC213A44B831CE4779BDE328065DB992A41EA61733",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ebroad11_0009": {
-        "Target": "{X20Y150}Kiros{Line}Когда они придут за{Line} нами с этой стороны...{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«Когда они придут за{Line} нами с этой стороны...»{End}",
         "Source Text SHA256": "CA5FD1542426FF21C808295AF15520AC29F1647941B17006E4DF8656B34C4924",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ebroad11_0010": {
-        "Target": "{X20Y20}Laguna{Line}ДА!{Next}Тыыы угадал!{Line} Они пройдут здесь, ничего{Line} не подозревая. А{Next}затем с криком \u0022ААА\u0022{Line} упадут вниз.{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«ДА!»{Next}«Тыыы угадал!{Line} Они пройдут здесь, ничего{Line} не подозревая. А{Next}затем с криком \"ААА\"{Line} упадут вниз».{End}",
         "Source Text SHA256": "1674238F9E6ED8AC8C45B825ACF761BCEFC70665CE3DB05AAD486BC64F378E17",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ebroad11_0011": {
-        "Target": "{X20Y20}Laguna{Line}Должен признать... я и вправду гений.{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Должен признать... я и вправду гений».{End}",
         "Source Text SHA256": "9DDC5007B5D601956C42F9EC438821A845B930916EA38F7DCE36ACB4CB48D619",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ebroad11_0012": {
-        "Target": "{X150Y20}Ward{Line}{Next}Ха.{Line} ...Можно подумать, эстарцы попадутся в такую ловушку.{End}",
+        "Target": "{X150Y20}{Char Ward}{Line}«Ха».{Next}«...Можно подумать, эстарцы{Line} попадутся в такую ловушку».{End}",
         "Source Text SHA256": "AD30F203C3506A7F90B918B103E614421E5888F847198CE28BB06AFC5A90FA1C",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ebroad11_0013": {
-        "Target": "{X20Y20}Laguna{Line}Мы не узнаем, пока не попробуем.{Line} Ведь, кто не рискует, тот не пьёт шампанское.{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Мы не узнаем, пока не попробуем.{Line} Ведь, кто не рискует, тот не пьёт шампанское».{End}",
         "Source Text SHA256": "BD677A652E703D63CDF595FA37677B52A7F3AFD9153405912D11CEF74D232DB3",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ebroad11_0014": {
-        "Target": "{X20Y20}Laguna{Line}В общем...{Pause 48}{Line} Я собираюсь сделать это.{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«В общем...{Pause 48}{Line} Я собираюсь сделать это».{End}",
         "Source Text SHA256": "A09C99B06A4C9200C5A31D6847BAF46C1868DB6037AB0E617B809A04B502B498",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ebroad11_0015": {
-        "Target": "{X20Y20}Laguna{Line}Запомните, если мы испортим рычаг, мы{Line} не сможем вернуться обратно.{Line} Было бы{Next}глупо, попасться в{Line} собственную ловушку...{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Запомните, если мы испортим рычаг, мы{Line} не сможем вернуться обратно.{Line} Было бы{Next}глупо, попасться в{Line} собственную ловушку...»{End}",
         "Source Text SHA256": "8094EA01101272D15EAC72D9302D77F65E436CE1782E192269514B77F9D238B0",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ebroad11_0016": {
-        "Target": "{X150Y20F2L3B2C3}Laguna{Line}Ослабляем Не трогаем{Line}Tamper with it{Line}Leave it alone{End}",
+        "Target": "{X150Y20F2L3B2C3}{Char Laguna}{Line}«Ну что, попробуем...»{Line}Ослабить рычаг{Line}Не трогать{End}",
         "Source Text SHA256": "21427BC7B7E35346777D1D8D66E6AFBA631A2B80F5D08F9A6F517622406F0C45",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ebroad11_0017": {
-        "Target": "{X20Y20}Laguna{Line}Ну-ка,{Line} парни, отойдите...{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Ну-ка,{Line} парни, отойдите...»{End}",
         "Source Text SHA256": "2E5E4B27B51876AA9E39B826ACB3B2E546ADD6AF1A91498896992DD608825290",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ebroad11_0018": {
-        "Target": "{X20Y20}Laguna{Line}Вот и всё.{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Вот и всё».{End}",
         "Source Text SHA256": "FB304ED716EFBCB2EB3FFD9D0058F9FC496E43B408435D6019FE1C21D5981E4E",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ebroad11_0019": {
-        "Target": "{X20Y20}Лагуна{Line}«А-а, ну...»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«А-а, ну...»{End}",
         "Source Text SHA256": "65BF291F0D071A19F6D631583DEF7C233620CC57AE060517D039BC5FDB75C5DF",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ebroad11_0020": {
-        "Target": "{X20Y20}Лагуна{Line}«Минутку...{Line} Может, этот рычаг тоже?..»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Минутку...{Line} Может, этот рычаг тоже?..»{End}",
         "Source Text SHA256": "5280F02863DBD2B84C3749D5A815664790ED78ED6542203F2D01D052B2C1D31C",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ebroad11_0021": {
-        "Target": "{X150Y20}Вард{Line}«...Ты собираешься{Line} сам угодить в свою ловушку?»{End}",
+        "Target": "{X150Y20}{Char Ward}{Line}«...Ты собираешься{Line} сам угодить в свою ловушку?»{End}",
         "Source Text SHA256": "B0AA7D23E62CFE40FE0E6BC5B9E657B2FAB6531147F8042946CF3A9D0AEDD23D",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -178,7 +178,7 @@
         }
       },
       "$en_ebroad11_0022": {
-        "Target": "{X20Y20}Лагуна{Line}«......?»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«......?»{End}",
         "Source Text SHA256": "6A633B6F1A4890DECD803EA357F92ADED221E3F097A1794BB48608AF7FF0AB95",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ebroad11_0023": {
-        "Target": "{X20Y150}Кирос{Line}«Там и так тупик.»{Next}«Ты всё равно хочешь перекрыть{Line} ловушкой путь, по которому мы пришли?»{Next}«Вообще-то... Даже если поднять рычаг...{Pause 48}{Line} Толку не будет.»{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«Там и так тупик».{Next}«Ты всё равно хочешь перекрыть{Line} ловушкой путь, по которому мы пришли?»{Next}«Вообще-то... Даже если поднять рычаг...{Pause 48}{Line} Толку не будет».{End}",
         "Source Text SHA256": "DDAED02AD81121DAA7535EE06D8DCF98D7BA7C623EC62337350576D1ED59E012",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -194,7 +194,7 @@
         }
       },
       "$en_ebroad11_0024": {
-        "Target": "{X20Y20}Лагуна{Line}«А-а-а...{Pause 48} Понял.»{Next}«Ну...{Pause 48} Как раз вовремя...{Pause 48} Наверное?{Line} Э-э,{Pause 48} вы поняли, о чём я...»{Next}«Этот рычаг тоже болтается,{Line} вот я и подумал...{Pause 48} не будем его трогать.»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«А-а-а...{Pause 48} Понял».{Next}«Ну...{Pause 48} Как раз вовремя...{Pause 48} Наверное?{Line} Э-э,{Pause 48} вы поняли, о чём я...»{Next}«Этот рычаг тоже болтается,{Line} вот я и подумал...{Pause 48} не будем его трогать».{End}",
         "Source Text SHA256": "93A75F9968DB533DE49FDFC6D3F67800BCCC990153492370E284971D6F06CC2C",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -202,7 +202,7 @@
         }
       },
       "$en_ebroad11_0025": {
-        "Target": "{X150Y20}Вард{Line}«Ага... Ну да...»{End}",
+        "Target": "{X150Y20}{Char Ward}{Line}«Ага... Ну да...»{End}",
         "Source Text SHA256": "70313743021D3098797F25D2C312B233A24B61B5A4D2A45E9583FDB927F0A888",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -210,7 +210,7 @@
         }
       },
       "$en_ebroad11_0026": {
-        "Target": "{X20Y20}Лагуна{Line}«Что?!»{Next}«Вы мне не верите?{Line} Ну вы и даёте!»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Что?!»{Next}«Вы мне не верите?{Line} Ну вы и даёте!»{End}",
         "Source Text SHA256": "985B9299D574F047E3996DB18FD937DA48ECBAD596AD2AC12C5A3AA9C2DC95E3",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -218,7 +218,7 @@
         }
       },
       "$en_ebroad11_0027": {
-        "Target": "{X20Y150}Кирос{Line}«......»{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«......»{End}",
         "Source Text SHA256": "EF4F85054143DA699AFD1935E2ADF653566DCE33DC412376FE6B82F424E63493",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -226,7 +226,7 @@
         }
       },
       "$en_ebroad11_0028": {
-        "Target": "{X20Y20}Лагуна{Line}«Этот рычаг...{Line} Он не двигается, потому что...{Pause 48}{Line} что-то застряло?»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Этот рычаг...{Line} Он не двигается, потому что...{Pause 48}{Line} что-то застряло?»{End}",
         "Source Text SHA256": "5B5BE66D4D99138D54DA465899FBF507EBDCE2F7F1C3BD2B6860E1454EE2540D",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",

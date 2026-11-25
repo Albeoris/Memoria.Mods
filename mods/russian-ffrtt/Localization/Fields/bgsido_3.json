@@ -2,7 +2,7 @@
   "Fields": {
     "bgsido_3": {
       "$en_bgsido_3_0000": {
-        "Target": "{X50Y150}{Char Squall}{Line}Мы летим?!{End}",
+        "Target": "{X50Y150}{Char Squall}{Line}«Мы летим?!»{End}",
         "Source Text SHA256": "F169FC231182158E4AC0D1F7D83BD014CC1661D4A55EB8FFF0F25170D3E7F3BE",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -10,7 +10,7 @@
         }
       },
       "$en_bgsido_3_0001": {
-        "Target": "{X180Y200}Headmaster Cid{Line}Ясно...{Line} Так вот в чём секрет...{End}",
+        "Target": "{X180Y200}Директор Сид{Line}«Ясно...{Line} Так вот в чём секрет...»{End}",
         "Source Text SHA256": "5C4B0610AE4055CC4742A32B878A045D6EEE9078372DBA3E63439BD63A42F4DC",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bgsido_3_0004": {
-        "Target": "{X50Y150}Headmaster Cid{Line}Я беспокоюсь за остальных студентов. Ты не мог{Line} бы спуститься их проверить?{End}",
+        "Target": "{X50Y150}Директор Сид{Line}«Я беспокоюсь за остальных студентов. Ты не мог{Line} бы спуститься их проверить?»{End}",
         "Source Text SHA256": "DF95926D85D0A55301CCD93FD165F0E037E066980FA12B524CCBCEDE11768B38",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgsido_3_0006": {
-        "Target": "Quistis{Line}”Ну же, {Char Squall}, пойдём, посмотрим.“{End}",
+        "Target": "{Char Quistis}{Line}«Ну же, {Char Squall}, пойдём, посмотрим».{End}",
         "Source Text SHA256": "132C3E2D28789C66D8FDD2749709CA998CD4EE55B53ED4A6285D0D363DC9B7EC",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgsido_3_0006_ctx_3e79bd47c6821fd3": {
-        "Target": "{X80Y10}Квистис{Line}«Ну же, {Char Squall}, пойдём посмотрим».{End}",
+        "Target": "{X80Y10}{Char Quistis}{Line}«Ну же, {Char Squall}, пойдём посмотрим».{End}",
         "Source Text SHA256": "132C3E2D28789C66D8FDD2749709CA998CD4EE55B53ED4A6285D0D363DC9B7EC",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgsido_3_0006_ctx_8fa474f114aa44a3": {
-        "Target": "{X60Y10}Квистис{Line}«Ну же, {Char Squall}, пойдём посмотрим».{End}",
+        "Target": "{X60Y10}{Char Quistis}{Line}«Ну же, {Char Squall}, пойдём посмотрим».{End}",
         "Source Text SHA256": "132C3E2D28789C66D8FDD2749709CA998CD4EE55B53ED4A6285D0D363DC9B7EC",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgsido_3_0007": {
-        "Target": "{Char Rinoa}{Line}Давай, {Char Squall}, пошли.{End}",
+        "Target": "{Char Rinoa}{Line}«Давай, {Char Squall}, пошли».{End}",
         "Source Text SHA256": "DE85411CCD9BA2B404647D2B86FFB6C19A379463980FEFDF59AEBF7D4D30230F",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgsido_3_0007_ctx_3e79bd47c6821fd3": {
-        "Target": "{X80Y10}{Char Rinoa}{Line}Давай, {Char Squall}, пошли.{End}",
+        "Target": "{X80Y10}{Char Rinoa}{Line}«Давай, {Char Squall}, пошли».{End}",
         "Source Text SHA256": "DE85411CCD9BA2B404647D2B86FFB6C19A379463980FEFDF59AEBF7D4D30230F",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bgsido_3_0007_ctx_8fa474f114aa44a3": {
-        "Target": "{X60Y10}{Char Rinoa}{Line}Давай, {Char Squall}, пошли.{End}",
+        "Target": "{X60Y10}{Char Rinoa}{Line}«Давай, {Char Squall}, пошли».{End}",
         "Source Text SHA256": "DE85411CCD9BA2B404647D2B86FFB6C19A379463980FEFDF59AEBF7D4D30230F",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bgsido_3_0008": {
-        "Target": "Irvine{Line}”Да, пойдём, посмотрим что там, {Char Squall}..“{End}",
+        "Target": "{Char Irvine}{Line}«Да, пойдём, посмотрим что там, {Char Squall}..»{End}",
         "Source Text SHA256": "24921B26AA974038B343FD5E10FD80FFB2B33A048C3B37DA19BD8F13CC102A62",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bgsido_3_0008_ctx_3e79bd47c6821fd3": {
-        "Target": "{X80Y10}Ирвин{Line}«Да, пойдём посмотрим, что там, {Char Squall}».{End}",
+        "Target": "{X80Y10}{Char Irvine}{Line}«Да, пойдём посмотрим, что там, {Char Squall}».{End}",
         "Source Text SHA256": "24921B26AA974038B343FD5E10FD80FFB2B33A048C3B37DA19BD8F13CC102A62",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bgsido_3_0008_ctx_8fa474f114aa44a3": {
-        "Target": "{X60Y10}Ирвин{Line}«Да, пойдём посмотрим, что там, {Char Squall}».{End}",
+        "Target": "{X60Y10}{Char Irvine}{Line}«Да, пойдём посмотрим, что там, {Char Squall}».{End}",
         "Source Text SHA256": "24921B26AA974038B343FD5E10FD80FFB2B33A048C3B37DA19BD8F13CC102A62",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bgsido_3_0009": {
-        "Target": "Zell{Line}”Пошли, посмотрим что там, {Char Squall}!“{End}",
+        "Target": "{Char Zell}{Line}«Пошли, посмотрим что там, {Char Squall}!»{End}",
         "Source Text SHA256": "F293B7FFDEA7797DCB57884B8F8B06B0C2B45737D2D4488D5DE0C85D9E9BD4C9",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bgsido_3_0009_ctx_3e79bd47c6821fd3": {
-        "Target": "{X80Y10}Зелл{Line}«Пошли посмотрим, что там, {Char Squall}!»{End}",
+        "Target": "{X80Y10}{Char Zell}{Line}«Пошли посмотрим, что там, {Char Squall}!»{End}",
         "Source Text SHA256": "F293B7FFDEA7797DCB57884B8F8B06B0C2B45737D2D4488D5DE0C85D9E9BD4C9",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bgsido_3_0009_ctx_8fa474f114aa44a3": {
-        "Target": "{X60Y10}Зелл{Line}«Пошли посмотрим, что там, {Char Squall}!»{End}",
+        "Target": "{X60Y10}{Char Zell}{Line}«Пошли посмотрим, что там, {Char Squall}!»{End}",
         "Source Text SHA256": "F293B7FFDEA7797DCB57884B8F8B06B0C2B45737D2D4488D5DE0C85D9E9BD4C9",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bgsido_3_0010": {
-        "Target": "Quistis{Line}Невероятно.{End}",
+        "Target": "{Char Quistis}{Line}«Невероятно».{End}",
         "Source Text SHA256": "E2F982F20843FF66F87E84BE347F8DD9D9303FF97180538009F4285181472EE1",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -170,7 +170,7 @@
         }
       },
       "$en_bgsido_3_0010_ctx_3e79bd47c6821fd3": {
-        "Target": "{X80Y10}Квистис{Line}Невероятно.{End}",
+        "Target": "{X80Y10}{Char Quistis}{Line}«Невероятно».{End}",
         "Source Text SHA256": "E2F982F20843FF66F87E84BE347F8DD9D9303FF97180538009F4285181472EE1",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -178,7 +178,7 @@
         }
       },
       "$en_bgsido_3_0010_ctx_fb1a73630574e980": {
-        "Target": "{X60Y50}Квистис{Line}Невероятно.{End}",
+        "Target": "{X60Y50}{Char Quistis}{Line}«Невероятно».{End}",
         "Source Text SHA256": "E2F982F20843FF66F87E84BE347F8DD9D9303FF97180538009F4285181472EE1",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -186,7 +186,7 @@
         }
       },
       "$en_bgsido_3_0011": {
-        "Target": "{Char Rinoa}{Line}...Ух ты!{End}",
+        "Target": "{Char Rinoa}{Line}«...Ух ты!»{End}",
         "Source Text SHA256": "4F456C16619568B86FAC142292BF088447B6786F14B9C4A31B26D8575045C44F",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -194,7 +194,7 @@
         }
       },
       "$en_bgsido_3_0011_ctx_3e79bd47c6821fd3": {
-        "Target": "{X80Y10}{Char Rinoa}{Line}...Ух ты!{End}",
+        "Target": "{X80Y10}{Char Rinoa}{Line}«...Ух ты!»{End}",
         "Source Text SHA256": "4F456C16619568B86FAC142292BF088447B6786F14B9C4A31B26D8575045C44F",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -202,7 +202,7 @@
         }
       },
       "$en_bgsido_3_0011_ctx_fb1a73630574e980": {
-        "Target": "{X60Y50}{Char Rinoa}{Line}...Ух ты!{End}",
+        "Target": "{X60Y50}{Char Rinoa}{Line}«...Ух ты!»{End}",
         "Source Text SHA256": "4F456C16619568B86FAC142292BF088447B6786F14B9C4A31B26D8575045C44F",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -210,7 +210,7 @@
         }
       },
       "$en_bgsido_3_0012": {
-        "Target": "Irvine{Line}...Поразительно...{End}",
+        "Target": "{Char Irvine}{Line}«...Поразительно...»{End}",
         "Source Text SHA256": "D8BFCD1EFBE9AC9098248B6AD10207DB8FCAA66B835EFA8A3961F9AA3AB6BCDE",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -218,7 +218,7 @@
         }
       },
       "$en_bgsido_3_0012_ctx_3e79bd47c6821fd3": {
-        "Target": "{X80Y10}Ирвин{Line}...Поразительно...{End}",
+        "Target": "{X80Y10}{Char Irvine}{Line}«...Поразительно...»{End}",
         "Source Text SHA256": "D8BFCD1EFBE9AC9098248B6AD10207DB8FCAA66B835EFA8A3961F9AA3AB6BCDE",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -226,7 +226,7 @@
         }
       },
       "$en_bgsido_3_0012_ctx_fb1a73630574e980": {
-        "Target": "{X60Y50}Ирвин{Line}...Поразительно...{End}",
+        "Target": "{X60Y50}{Char Irvine}{Line}«...Поразительно...»{End}",
         "Source Text SHA256": "D8BFCD1EFBE9AC9098248B6AD10207DB8FCAA66B835EFA8A3961F9AA3AB6BCDE",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -234,7 +234,7 @@
         }
       },
       "$en_bgsido_3_0013": {
-        "Target": "Zell{Line}Чувак!.. Это потрясающе!{End}",
+        "Target": "{Char Zell}{Line}«Чувак!.. Это потрясающе!»{End}",
         "Source Text SHA256": "45240493C0996BB75698503F21E06C2010CB986D0CE00C5F56A800561CAC1548",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -242,7 +242,7 @@
         }
       },
       "$en_bgsido_3_0013_ctx_3e79bd47c6821fd3": {
-        "Target": "{X80Y10}Зелл{Line}Чувак!.. Это потрясающе!{End}",
+        "Target": "{X80Y10}{Char Zell}{Line}«Чувак!.. Это потрясающе!»{End}",
         "Source Text SHA256": "45240493C0996BB75698503F21E06C2010CB986D0CE00C5F56A800561CAC1548",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -250,7 +250,7 @@
         }
       },
       "$en_bgsido_3_0013_ctx_fb1a73630574e980": {
-        "Target": "{X60Y50}Зелл{Line}Чувак!.. Это потрясающе!{End}",
+        "Target": "{X60Y50}{Char Zell}{Line}«Чувак!.. Это потрясающе!»{End}",
         "Source Text SHA256": "45240493C0996BB75698503F21E06C2010CB986D0CE00C5F56A800561CAC1548",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -258,7 +258,7 @@
         }
       },
       "$en_bgsido_3_0014": {
-        "Target": "{X200Y80}Квистис{Line}«Они приближаются!!!»{End}",
+        "Target": "{X200Y80}{Char Quistis}{Line}«Они приближаются!!!»{End}",
         "Source Text SHA256": "281FB3A45FF21F171EC7B231156ADC46AFD34FCC8C3A1CE5209465154D2DA54B",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -266,7 +266,7 @@
         }
       },
       "$en_bgsido_3_0015": {
-        "Target": "{X200Y80}{Char Rinoa}{Line}НЕТ!!!{End}",
+        "Target": "{X200Y80}{Char Rinoa}{Line}«НЕТ!!!»{End}",
         "Source Text SHA256": "DFEE72512B5093486ED192805FF8D78130E830FE274572D8EA1B5729979E5FA2",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -274,7 +274,7 @@
         }
       },
       "$en_bgsido_3_0016": {
-        "Target": "{X200Y80}Irvine{Line}Не может быть!!!{End}",
+        "Target": "{X200Y80}{Char Irvine}{Line}«Не может быть!!!»{End}",
         "Source Text SHA256": "53340DB41E7F7076CB2B562CB9DBA3129FE8701A2E6E5DC5D23625EDAF98D578",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -282,7 +282,7 @@
         }
       },
       "$en_bgsido_3_0017": {
-        "Target": "{X200Y80}Зелл{Line}«А-А-А!!!»{End}",
+        "Target": "{X200Y80}{Char Zell}{Line}«А-А-А!!!»{End}",
         "Source Text SHA256": "D31877EFB548689091A465CD91AA07558F3D11B5B31211B818EA18D6C6515E93",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",
@@ -290,7 +290,7 @@
         }
       },
       "$en_bgsido_3_0018": {
-        "Target": "{X80Y10}{Char Squall}{Line}Ракеты!!!{End}",
+        "Target": "{X80Y10}{Char Squall}{Line}«Ракеты!!!»{End}",
         "Source Text SHA256": "DD03BCD965952EE340CA67DA48666AACAE9BDF80EEC4CB6FFFE59DB1B138C7B0",
         "sourceContext": {
           "Source MSD SHA256": "86752BBEEEA21F42A97C3F0B4C99D30E662C5CAB5F0EF316A4F57787ACBBB18C",

@@ -2,7 +2,7 @@
   "Fields": {
     "tiagit5": {
       "$en_tiagit5_0000": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Сперва рассмотрим модель.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Сперва рассмотрим модель».{End}",
         "Source Text SHA256": "281B5E6667C104E73EFC6442F63822EAC46B0C165B1779B52FFC25F0624FE2EB",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -10,7 +10,7 @@
         }
       },
       "$en_tiagit5_0001": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Жёлтый поезд вверху – это наша «база».{Line}{Color Yellow}{Color White}Сейчас мы едем в нём.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Жёлтый поезд вверху – это наша „база“.{Line}{Color Yellow}{Color White}Сейчас мы едем в нём».{End}",
         "Source Text SHA256": "7C3B6AEFFDBF5F62A1CC647DD5BA4B3707A9FC7C79D6441E4BCDDA705F847320",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -42,7 +42,7 @@
         }
       },
       "$en_tiagit5_0003": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Прямо перед ним{Color Blue}«модель вагона».{Color White}{Line} Мы сделали её точной копией президентского вагона.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Прямо перед ним{Color Blue}„модель вагона“.{Color White}{Line} Мы сделали её точной копией президентского вагона».{End}",
         "Source Text SHA256": "B0875298F6143BC1678CD5257CBCB104A49DB5812105B8D85667DCC2CF4CEFDB",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -82,7 +82,7 @@
         }
       },
       "$en_tiagit5_0005": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}В составе их поезда три вагона. Впереди {Line}{Color Green}идёт «локомотив»,{Color White}за которым следует{Color Green}«1-й эскорт».{Color White}’.“{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«В составе их поезда три вагона. Впереди {Line}{Color Green}идёт „локомотив“,{Color White}за которым следует{Color Green}„1-й эскорт“.{Color White}’».{End}",
         "Source Text SHA256": "933BAC88B75707927D127441EEA70693447BCE511219D85A600CB1187B9BD349",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -122,7 +122,7 @@
         }
       },
       "$en_tiagit5_0008": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Красный вагон –{Color Red}это «вагон президента».{Color White}{Line} Делинг должен быть внутри.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Красный вагон –{Color Red}это „вагон президента“.{Color White}{Line} Делинг должен быть внутри».{End}",
         "Source Text SHA256": "6707EA93C033E0DA053EDE2128FEB9AE396A53401BBCF18724C56D4E96436EDC",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -154,7 +154,7 @@
         }
       },
       "$en_tiagit5_0010": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Последний вагон -{Color Green}это «2-й эскорт».{Color White}{Line} Мы начнём операцию, как только до него доберёмся.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Последний вагон -{Color Green}это „2-й эскорт“.{Color White}{Line} Мы начнём операцию, как только до него доберёмся».{End}",
         "Source Text SHA256": "22EB5F22DE02A40A9788D5C8D40CB5039B234455C7F5AECEDAD87FFB807EF83A",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -170,7 +170,7 @@
         }
       },
       "$en_tiagit5_0012": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Наша главная цель - захват президента путём присоединения{Line} его вагона к нашей{Color Yellow}«базе».{Color White}{Next}Это значит, что нам нужно будет{Line}{Color Blue}подменить их{Color White}«президентский вагон»{Color Red}нашей «моделью». Чтобы{Color White}{Next}выполнить эту операцию, мы воспользуемся двумя стрелочными{Line} переводами, расположенными на пути в Тимбер. Так,{Next}теперь подробнее о нашем плане.{Line} Он состоит из семи этапов.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Наша главная цель - захват президента путём присоединения{Line} его вагона к нашей{Color Yellow}„базе“.{Color White}{Next}Это значит, что нам нужно будет{Line}{Color Blue}подменить их{Color White}„президентский вагон“{Color Red}нашей „моделью“. Чтобы{Color White}{Next}выполнить эту операцию, мы воспользуемся двумя стрелочными{Line} переводами, расположенными на пути в Тимбер. Так,{Next}теперь подробнее о нашем плане.{Line} Он состоит из семи этапов».{End}",
         "Source Text SHA256": "C68C87060D5E38745E7999F084C7595E27A96A035E7BE6DCF8FBCD7E473CF5A5",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -186,7 +186,7 @@
         }
       },
       "$en_tiagit5_0014": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Прыгнув с нашей «модели{Color Green}вагона», мы{Color White}{Line} попадём на крышу{Color Blue}«2-го эскорта».{Color White}’.“{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Прыгнув с нашей „модели{Color Green}вагона“, мы{Color White}{Line} попадём на крышу{Color Blue}„2-го эскорта“.{Color White}’».{End}",
         "Source Text SHA256": "C8979E10C3062AD44E5FEDCEE69233EEF6E787F0E7F0123C06B8B775507C6E11",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -202,7 +202,7 @@
         }
       },
       "$en_tiagit5_0016": {
-        "Target": "{X20Y120}Watts{Line}{Color Green}Вагон «2-го{Color White}эскорта» единственный, в{Line} который встроены датчики, сэр.{End}",
+        "Target": "{X20Y120}Уоттс{Line}«{Color Green}Вагон „2-го{Color White}эскорта“ единственный, в{Line} который встроены датчики, сэр».{End}",
         "Source Text SHA256": "415323F955FAB553818DAE0B0489D29F2D6F5783E73E6A566024A1ABF4925E25",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -210,7 +210,7 @@
         }
       },
       "$en_tiagit5_0017": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}На борту находится офицер-техник.{Pause 80}{Line} Я расскажу о датчиках позднее.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«На борту находится офицер-техник.{Pause 80}{Line} Я расскажу о датчиках позднее».{End}",
         "Source Text SHA256": "6AC9038812BD9510AECBC41C1D9DDB1E04AE1BC91C5248A16AC95C41862BD66C",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -234,7 +234,7 @@
         }
       },
       "$en_tiagit5_0020": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Мы можем спокойно пройти{Line}{Color Red}к «президентскому{Color White}вагону» по крыше.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Мы можем спокойно пройти{Line}{Color Red}к „президентскому{Color White}вагону“ по крыше».{End}",
         "Source Text SHA256": "3B7D2D70F55ED132902E3B0D0C5DC8750B231762789406C250FB105FB0F82547",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -242,7 +242,7 @@
         }
       },
       "$en_tiagit5_0021": {
-        "Target": "{X15Y130}Zone{Line}Делинг не терпит окружения своих охранников и наличия рядом{Line} с собой каких-либо датчиков, поэтому в его вагоне нет{Line} ни тех, ни других.{End}",
+        "Target": "{X15Y130}Зон{Line}«Делинг не терпит окружения своих охранников и наличия рядом{Line} с собой каких-либо датчиков, поэтому в его вагоне нет{Line} ни тех, ни других».{End}",
         "Source Text SHA256": "D71FA9F41B5638B85CE3F78810027309538C4E107B01C9A2963F8EC61BF7385F",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -258,7 +258,7 @@
         }
       },
       "$en_tiagit5_0023": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Мы должны закончить отцепление{Line} вагонов до первой стрелки.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Мы должны закончить отцепление{Line} вагонов до первой стрелки».{End}",
         "Source Text SHA256": "8A5550C1F873DA495D9C675B551BEFF60167C0C596DDD507A3CEDA1C85EC8742",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -266,7 +266,7 @@
         }
       },
       "$en_tiagit5_0024": {
-        "Target": "{X180Y100}Selphie{Line}БУМ!..{Line} Игра окончена, верно?{End}",
+        "Target": "{X180Y100}{Char Selphie}{Line}«БУМ!..{Line} Игра окончена, верно?»{End}",
         "Source Text SHA256": "256401C020132CFDA77526E02C9A2B4D86656E7428FB1D9967179AE03A58E349",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -274,7 +274,7 @@
         }
       },
       "$en_tiagit5_0025": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}...Да.{Line} Так что нам придётся двигаться быстро.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«...Да.{Line} Так что нам придётся двигаться быстро».{End}",
         "Source Text SHA256": "22978A77F5188C595A75D0F00794BF925BBD45C95A4551FFCB4F402523ABA30A",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -282,7 +282,7 @@
         }
       },
       "$en_tiagit5_0026": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Я поясню процесс отцепления потом.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Я поясню процесс отцепления потом».{End}",
         "Source Text SHA256": "5FDA53930AEDC4329D0D4E84F7ABDCD8BEC1FF9341D8A5CEBF112AE8B2D31FE6",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -306,7 +306,7 @@
         }
       },
       "$en_tiagit5_0029": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}После того, как{Next}вагон{Color Blue}будет{Color White}отцеплен...{Line} ‘{Color Yellow}Мы{Color White}заведём{Next}внутрь «модель вагона» и нашу «базу».{Line} На этом этапе, наш поезд и их будут связаны и будут двигаться вместе.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«После того, как{Next}вагон{Color Blue}будет{Color White}отцеплен...{Line} ‘{Color Yellow}Мы{Color White}заведём{Next}внутрь „модель вагона“ и нашу „базу“.{Line} На этом этапе, наш поезд и их будут связаны и будут двигаться вместе».{End}",
         "Source Text SHA256": "31CA6A965EEBA6D68271FBBBF8E264243C1140E240EA177A83C1040E28461048",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -322,7 +322,7 @@
         }
       },
       "$en_tiagit5_0031": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Это последнее отцепление. Процесс,{Line} вероятно, будет схож с первым.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Это последнее отцепление. Процесс,{Line} вероятно, будет схож с первым».{End}",
         "Source Text SHA256": "B3C6E8437442EE6E34719FFBB0A76B5BA997B769E8FB6D5A14EB03A2B9C9FE96",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -338,7 +338,7 @@
         }
       },
       "$en_tiagit5_0033": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Если всё пройдёт хорошо, мы сможем уйти{Line} с{Color Red}«президентским вагоном». Затем{Color White}{Next}мы вернёмся в наш{Line} вагон и приготовимся к{Line} встрече с Делингом.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Если всё пройдёт хорошо, мы сможем уйти{Line} с{Color Red}„президентским вагоном“. Затем{Color White}{Next}мы вернёмся в наш{Line} вагон и приготовимся к{Line} встрече с Делингом».{End}",
         "Source Text SHA256": "47C91FE7E48FA933F378720A012AE6B443ABC210B9D95BA7A7AA9DA3AEC5CBA6",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -354,7 +354,7 @@
         }
       },
       "$en_tiagit5_0035": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}У нас ровно 5 минут{Line} на то, чтобы выполнить 7 процедур.{Next}В случае провала, наш поезд столкнётся с{Line} их на поворотном пункте и всё будет{Line} кончено. Не забывайте об этом.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«У нас ровно 5 минут{Line} на то, чтобы выполнить 7 процедур».{Next}«В случае провала, наш поезд столкнётся с{Line} их на поворотном пункте и всё будет{Line} кончено. Не забывайте об этом».{End}",
         "Source Text SHA256": "6FB0F343B20A466FEE97F734E77F0837D34D848E8DB6694469B2F08C02DA8093",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -362,7 +362,7 @@
         }
       },
       "$en_tiagit5_0036": {
-        "Target": "{X150Y150}Zell{Line}5 минут?..{Line} А вы уверены, что этого достаточно?{End}",
+        "Target": "{X150Y150}{Char Zell}{Line}«5 минут?..{Line} А вы уверены, что этого достаточно?»{End}",
         "Source Text SHA256": "1FFB6FDA07FF4CF0F0D6C1EA03A26758787AF5A0C60AFBC07BDB8C506C6A49F4",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -370,7 +370,7 @@
         }
       },
       "$en_tiagit5_0037": {
-        "Target": "{X20Y130}Zone{Line}Согласно проведённому нами моделированию, выполнение{Line} операции должно занять всего 3 минуты.{Line} Для сидов ведь это пустяки?{End}",
+        "Target": "{X20Y130}Зон{Line}«Согласно проведённому нами моделированию, выполнение{Line} операции должно занять всего 3 минуты.{Line} Для сидов ведь это пустяки?»{End}",
         "Source Text SHA256": "3D8929812119674FD304F32B2D3BB5EC6EA427E7C54D6770B18CC048E3A8183A",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -378,7 +378,7 @@
         }
       },
       "$en_tiagit5_0038": {
-        "Target": "{X150Y20}Selphie{Line}Конечно, тут и дурак справится!{End}",
+        "Target": "{X150Y20}{Char Selphie}{Line}«Конечно, тут и дурак справится!»{End}",
         "Source Text SHA256": "F65C611EF68C3A26F0644214B81FA471BB8FF28BC92FFF4BE4D18444496BF335",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -394,7 +394,7 @@
         }
       },
       "$en_tiagit5_0040": {
-        "Target": "{X15Y15}{Char Rinoa}{Line}Хорошо, теперь поговорим о том, как{Line} обойти датчики на{Color Green}«2-ом эскорте»...{Color White}{Line}{Pause 48}Давай, Уоттс.{End}",
+        "Target": "{X15Y15}{Char Rinoa}{Line}«Хорошо, теперь поговорим о том, как{Line} обойти датчики на{Color Green}„2-ом эскорте“...{Color White}{Line}{Pause 48}Давай, Уоттс».{End}",
         "Source Text SHA256": "AB3ADAE39DD2FDC0A168C18AC0CE0361955148FD3989839DFEDD26BDB907E47C",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -402,7 +402,7 @@
         }
       },
       "$en_tiagit5_0041": {
-        "Target": "{X15Y150}Watts{Line}У охранников есть «звуковой»{Pause 80}{Line} и «температурный датчик», сэр.{End}",
+        "Target": "{X15Y150}Уоттс{Line}«У охранников есть „звуковой“{Pause 80}{Line} и „температурный датчик“, сэр».{End}",
         "Source Text SHA256": "5B820B38C0F9C6D6F8FF0BF46D82FF8048088EE1B5CA50C402758CC556AD9AD4",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -410,7 +410,7 @@
         }
       },
       "$en_tiagit5_0042": {
-        "Target": "{X15Y150}Watts{Line}Любой звук задействует «звуковой{Color Blue}датчик» поэтому{Color White}{Line} передвигайтесь очень тихо, сэр!{End}",
+        "Target": "{X15Y150}Уоттс{Line}«Любой звук задействует „звуковой{Color Blue}датчик“ поэтому{Color White}{Line} передвигайтесь очень тихо, сэр!»{End}",
         "Source Text SHA256": "AD0F7AD7EF8729F4BD8B2DF3E3801E0DE289210C13D0E6F6730067FC10ACFE1C",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -418,7 +418,7 @@
         }
       },
       "$en_tiagit5_0043": {
-        "Target": "{X15Y150}Watts{Line}Этот {Color Blue}{Color White} датчик у охранника в синем.{End}",
+        "Target": "{X15Y150}Уоттс{Line}«Этот {Color Blue}{Color White} датчик у охранника в синем».{End}",
         "Source Text SHA256": "AB873B61297B52454155571F296581A15BDC14FF32BA4FE6BB1969A9B67C1742",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -426,7 +426,7 @@
         }
       },
       "$en_tiagit5_0044": {
-        "Target": "{X15Y150}Watts{Line}«Температурный{Color Red}датчик» сработает,{Color White}если вы будете{Line} оставаться неподвижными, сэр!{End}",
+        "Target": "{X15Y150}Уоттс{Line}«„Температурный{Color Red}датчик“ сработает,{Color White}если вы будете{Line} оставаться неподвижными, сэр!»{End}",
         "Source Text SHA256": "91DBD5FB7A22985B4786093C99C6F5CC52CFEF8E255E799807265572E6846452",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -434,7 +434,7 @@
         }
       },
       "$en_tiagit5_0045": {
-        "Target": "{X15Y150}Watts{Line}Его носит {Color Red}{Color White} охранник в красном.{End}",
+        "Target": "{X15Y150}Уоттс{Line}«Его носит {Color Red}{Color White} охранник в красном».{End}",
         "Source Text SHA256": "F1A250DEFBBA76F242586D6DBE2C31612EB4E48E0830A6FE9683EA3C0195AA54",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -450,7 +450,7 @@
         }
       },
       "$en_tiagit5_0047": {
-        "Target": "{X15Y150}Watts{Line}Радиус действия этих датчиков равен ширине одного{Line} окна.Так что не{Line} спускайте глаз с окна внизу, сэр.{End}",
+        "Target": "{X15Y150}Уоттс{Line}«Радиус действия этих датчиков равен ширине одного{Line} окна.Так что не{Line} спускайте глаз с окна внизу, сэр».{End}",
         "Source Text SHA256": "0FBD53BEFF8A5B0A8BE228D34591F397F544258E52A7983D07050836B3663C04",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -458,7 +458,7 @@
         }
       },
       "$en_tiagit5_0048": {
-        "Target": "{X150Y15}Zell{Line}{Pause 48}{Line} ...Так как именно их обходить?{End}",
+        "Target": "{X150Y15}{Char Zell}{Line}{Pause 48}{Line} «...Так как именно их обходить?»{End}",
         "Source Text SHA256": "5D695CE4A495B9F5CCE8DAF2E9339A7505026B6AB0122C73E35C75BA4113392F",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -466,7 +466,7 @@
         }
       },
       "$en_tiagit5_0049": {
-        "Target": "{X15Y150}Watts{Line}Эмм... в общем, бежать или стоять, в{Line} зависимости какой под тобой охранник.{End}",
+        "Target": "{X15Y150}Уоттс{Line}«Эмм... в общем, бежать или стоять, в{Line} зависимости какой под тобой охранник».{End}",
         "Source Text SHA256": "AACE1B0BCF4937C336B471909913BB440147CDC202FD71806AC7B1D2EAACBE50",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -482,7 +482,7 @@
         }
       },
       "$en_tiagit5_0051": {
-        "Target": "{X15Y15}{Char Rinoa}{Line}Это всё, что касается датчиков.{End}",
+        "Target": "{X15Y15}{Char Rinoa}{Line}«Это всё, что касается датчиков».{End}",
         "Source Text SHA256": "072E0008341698BDE0DC1BA0CDCA996F6396EB108619BFA8B9F3C9786BBB913E",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -490,7 +490,7 @@
         }
       },
       "$en_tiagit5_0052": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Дальше, поговорим о том, как отцепить{Line} вагоны эскорта.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Дальше, поговорим о том, как отцепить{Line} вагоны эскорта».{End}",
         "Source Text SHA256": "5D5DA661B541317C2A1D2176530A5F9753BE53048968C753102D17C1A144925C",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -498,7 +498,7 @@
         }
       },
       "$en_tiagit5_0053": {
-        "Target": "{X150Y20}Selphie{Line}{Next}Вопрос!..{Line} Как отцепить вагоны с движущегося поезда?{End}",
+        "Target": "{X150Y20}{Char Selphie}{Line}«Вопрос!..»{Next}«Как отцепить вагоны{Line} с движущегося поезда?»{End}",
         "Source Text SHA256": "E13018AF07ED1BE4B0F9F926B144A9C0F8DF42CBC389C3A2753B2F6D8850DB5E",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -506,7 +506,7 @@
         }
       },
       "$en_tiagit5_0054": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Эм... мы не можем{Line} отцепить вагоны вручную.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Эм... мы не можем{Line} отцепить вагоны вручную».{End}",
         "Source Text SHA256": "7148BCE68579658C53E0BFFF0596C5D5A1E067C040563C8CE241914B9F5982F0",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -514,7 +514,7 @@
         }
       },
       "$en_tiagit5_0055": {
-        "Target": "{X15Y15}Zone{Line}Вместо этого, нам придётся взломать{Line} систему управления, которая отвечает за{Next}отцепление. Если мы ненадолго отключим цепь{Line} соединения, вагон автоматически отцепится.{Line} Чтобы её{Next}отключить, мы должны{Line} ввести несколько кодов.{End}",
+        "Target": "{X15Y15}Зон{Line}«Вместо этого, нам придётся взломать{Line} систему управления, которая отвечает за{Next}отцепление. Если мы ненадолго отключим цепь{Line} соединения, вагон автоматически отцепится.{Line} Чтобы её{Next}отключить, мы должны{Line} ввести несколько кодов».{End}",
         "Source Text SHA256": "298EC63C518FE2200B8FFCD6DCF1BFE3059C55A85F978A152B01F1327E72E578",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -522,7 +522,7 @@
         }
       },
       "$en_tiagit5_0056": {
-        "Target": "{X20Y100}Watts{Line}...А коды у нас есть. Они у{Line}{Char Rinoa} , сэр!{End}",
+        "Target": "{X20Y100}Уоттс{Line}«...А коды у нас есть. Они у{Line}{Char Rinoa}, сэр!»{End}",
         "Source Text SHA256": "593BCDB70A380B6D34350A373EAF611280E9809F586BFC1C9C8D09060F27EA23",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -530,7 +530,7 @@
         }
       },
       "$en_tiagit5_0057": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Я буду отвечать за{Line} передачу кодов {Char Squall}{Next}у. {Char Squall}, ты спустишься на{Line} сторону поезда, используя трос, и введёшь{Line} коды в{Next}систему.{Line} Теперь слушай внимательно.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Я буду отвечать за{Line} передачу кодов {Char Squall}{Next}у. {Char Squall}, ты спустишься на{Line} сторону поезда, используя трос, и введёшь{Line} коды в{Next}систему.{Line} Теперь слушай внимательно».{End}",
         "Source Text SHA256": "C4D7923F925C3D4DB77F1580696D540A27A65CFF0BED2399DACC54AB9BE488A4",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -546,7 +546,7 @@
         }
       },
       "$en_tiagit5_0059": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Каждый код состоит из цифр от одного до четырёх{Line} и содержит четыре цифры, например, 2341. Но на{Next}панели цифр не будет. Вместо них будут{Line} четыре кнопки. То есть, если я передам{Line}{Key Cross}{Key Triangle}{Key Circle}{Key Square}{Next}тебе код 3125, ты должен будешь последовательно нажать Квадрат,{Line} Круг, {Key Square}{Pause 80}{Key Circle}{Pause 80}{Key Cross}{Pause 80}{Key Triangle}{Pause 80}Крест{Line} и Треугольник.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Каждый код состоит из цифр от одного до четырёх{Line} и содержит четыре цифры, например, 2341. Но на{Next}панели цифр не будет. Вместо них будут{Line} четыре кнопки. То есть, если я передам{Line}{Key Cross}{Key Triangle}{Key Circle}{Key Square}{Next}тебе код 3125, ты должен будешь последовательно нажать Квадрат,{Line} Круг, {Key Square}{Pause 80}{Key Circle}{Pause 80}{Key Cross}{Pause 80}{Key Triangle}{Pause 80}Крест{Line} и Треугольник».{End}",
         "Source Text SHA256": "75954CD3720F936649D75784EBE40D204DC2DED565F6BB0F888FFDEFB1E5EFF3",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -554,7 +554,7 @@
         }
       },
       "$en_tiagit5_0060": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Тебе придётся вводить коды быстро и точно.{Line} У тебя {Color Yellow}будет около{Color White} 5 секунд на{Next}ввод каждого кода. В противном случае{Line} код изменится, а предыдущие записи станут недействительными.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Тебе придётся вводить коды быстро и точно.{Line} У тебя {Color Yellow}будет около{Color White} 5 секунд на{Next}ввод каждого кода. В противном случае{Line} код изменится, а предыдущие записи станут недействительными».{End}",
         "Source Text SHA256": "F0AF2FFFF8B85AD8FE7036799A93FF955AF10A35740F65F8B6C8991B8D758D3E",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -562,7 +562,7 @@
         }
       },
       "$en_tiagit5_0061": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Как уже было сказано, мы должны ввести{Line} все коды, чтобы отключить соединение. После того{Next}как мы отцепим вагоны, нам нужно{Line} дождаться пока другие члены нашей{Line} группы переведут стрелку на путях.{Next}Запомните, на проведение операции у нас{Line} есть всего 5 минут! Убедитесь, что готовы{Line} прежде, чем начинать.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Как уже было сказано, мы должны ввести{Line} все коды, чтобы отключить соединение. После того{Next}как мы отцепим вагоны, нам нужно{Line} дождаться пока другие члены нашей{Line} группы переведут стрелку на путях.{Next}Запомните, на проведение операции у нас{Line} есть всего 5 минут! Убедитесь, что готовы{Line} прежде, чем начинать».{End}",
         "Source Text SHA256": "2A8628E3F943A0CB1ADC7DC7B328A2DC5EFC0F761925ECA0D4857EC9865133C9",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -570,7 +570,7 @@
         }
       },
       "$en_tiagit5_0062": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Теперь попрактикуемся{Next}{Color Yellow}вводить{Color White} коды.{Line} Введи без ошибок 3 кода и, пожалуй, хватит. Если захочешь закончить тренировку, зажми L1. {Key L1}.“{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Теперь попрактикуемся{Next}{Color Yellow}вводить{Color White} коды.{Line} Введи без ошибок 3 кода и, пожалуй, хватит. Если захочешь закончить тренировку, зажми L1. {Key L1}».{End}",
         "Source Text SHA256": "2F8044CE8803F8AD36B96731CCBD1D6207995C51E9915E65F1DA1F59C7966B04",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -578,7 +578,7 @@
         }
       },
       "$en_tiagit5_0063": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Запомнил? Во{Next}время операции у тебя будет лишь несколько{Line} минут до того, как поезд достигнет развилки.{Line} Не забывай этого.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Запомнил? Во{Next}время операции у тебя будет лишь несколько{Line} минут до того, как поезд достигнет развилки.{Line} Не забывай этого».{End}",
         "Source Text SHA256": "887AB13F22A9A736377F93414DC2AD867871D5A137255C4FF78832F83F3BE8B6",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -586,7 +586,7 @@
         }
       },
       "$en_tiagit5_0064": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}На этом всё.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«На этом всё».{End}",
         "Source Text SHA256": "F7B0C43E9ED762D27BBEC13089B47E6DB67E29594516B8953E58CB862BEA2A2F",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -602,7 +602,7 @@
         }
       },
       "$en_tiagit5_0066": {
-        "Target": "{X150Y20}Selphie{Line}Кстати... эта модель сделана хорошо, а{Line} вот президентский вагон выглядит немного потрёпанным...{Pause 80}{Line} Почему так?{End}",
+        "Target": "{X150Y20}{Char Selphie}{Line}«Кстати... эта модель сделана хорошо, а{Line} вот президентский вагон выглядит немного потрёпанным...{Pause 80}{Line} Почему так?»{End}",
         "Source Text SHA256": "75070FA49FA7DAAA7C1497760C24F89BDA84942C53B7F1ECD5F86F838793E941",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -610,7 +610,7 @@
         }
       },
       "$en_tiagit5_0067": {
-        "Target": "{X20Y80}Watts{Line}Да, {Char Rinoa} сделала{Line} его. Вот почему. Всё остальное мы{Line} купили в сувенирном магазине.{End}",
+        "Target": "{X20Y80}Уоттс{Line}«Да, {Char Rinoa} сделала{Line} его. Вот почему. Всё остальное мы{Line} купили в сувенирном магазине».{End}",
         "Source Text SHA256": "5D6EDB8CF4F7BEB8811DE59E17DBC0C3ABC7095305C2891FBA9B44E451EA53A6",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -618,7 +618,7 @@
         }
       },
       "$en_tiagit5_0068": {
-        "Target": "{X150Y130}Zell{Line}{Line} Ох... я думал, его сделал{Line} какой-то ребёнок. И разрисовано паршиво.{End}",
+        "Target": "{X150Y130}{Char Zell}{Line}{Line} «Ох... я думал, его сделал{Line} какой-то ребёнок. И разрисовано паршиво».{End}",
         "Source Text SHA256": "6AB81F43ADA25823AA26019F7EC5EA201B168F45C1EA9059331842DFF2D493F8",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -634,7 +634,7 @@
         }
       },
       "$en_tiagit5_0070": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Ох, заткнись! Я намеренно сделала его таким.{Line} Он выражает мою{Next}ненависть к Делингу.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Ох, заткнись! Я намеренно сделала его таким.{Line} Он выражает мою{Next}ненависть к Делингу».{End}",
         "Source Text SHA256": "8E5AB7420B9F3DB79FA20EC64E59EC3ACABB68D4ED9F89B6F73E71AA66902429",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -642,7 +642,7 @@
         }
       },
       "$en_tiagit5_0071": {
-        "Target": "{X150Y150}Zell{Line}Что? Ненависть?.. Тогда понятно...{End}",
+        "Target": "{X150Y150}{Char Zell}{Line}«Что? Ненависть?.. Тогда понятно...»{End}",
         "Source Text SHA256": "6658E17B51B5D1A894D4BBB3659B319F2817DF3EE8C770D93D8E857ECC3FDDD7",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -650,7 +650,7 @@
         }
       },
       "$en_tiagit5_0072": {
-        "Target": "{X150Y20}Selphie{Line}Это одна из...{Pause 80}самых безобразных вещей, которые{Line} я видела в своей жизни. Должно{Line} быть, ты и вправду его ненавидишь.{End}",
+        "Target": "{X150Y20}{Char Selphie}{Line}«Это одна из...{Pause 80}самых безобразных вещей, которые{Line} я видела в своей жизни. Должно{Line} быть, ты и вправду его ненавидишь».{End}",
         "Source Text SHA256": "8602F6BBBC791A2CAD8E52D5C11262E4707AFFFC5B1B1531A885DDBC2CAA3451",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -666,7 +666,7 @@
         }
       },
       "$en_tiagit5_0074": {
-        "Target": "{X20Y130}{Char Rinoa}{Line}Ну что, все{Line} высказались?! Хорош трепаться,{Line} давайте делом займёмся!{End}",
+        "Target": "{X20Y130}{Char Rinoa}{Line}«Ну что, все{Line} высказались?! Хорош трепаться,{Line} давайте делом займёмся!»{End}",
         "Source Text SHA256": "8691DCA55C698FE6D710E804DBBFBFB283B64FB81C809C2114208D9F7DDC7298",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -674,7 +674,7 @@
         }
       },
       "$en_tiagit5_0075": {
-        "Target": "{X150Y20}Selphie{Line}Как-то всё слишком сложно...{End}",
+        "Target": "{X150Y20}{Char Selphie}{Line}«Как-то всё слишком сложно...»{End}",
         "Source Text SHA256": "DD2F715867580B3025AFEBAF148CFE61DA2EE039E5AEA7E6CEC0787D360DA00C",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -682,7 +682,7 @@
         }
       },
       "$en_tiagit5_0076": {
-        "Target": "{X150Y20}Selphie{Line}О! А как вам такая идея?{End}",
+        "Target": "{X150Y20}{Char Selphie}{Line}«О! А как вам такая идея?»{End}",
         "Source Text SHA256": "40A28DC78B95A42B4627CE7BD628E9F136E732CF651E79512E68AA550EC8FF55",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -690,7 +690,7 @@
         }
       },
       "$en_tiagit5_0077": {
-        "Target": "{X150Y20}Selphie{Line}Давайте столкнём президентский вагон с рельс. Ну, знаете,{Line} ударим по нему большим бревном или ещё чем-нибудь. А сами{Next}будем сидеть где-нибудь и смотреть как он горит{Line} и разбивается! Ммм... Как вам мой план?{End}",
+        "Target": "{X150Y20}{Char Selphie}{Line}«Давайте столкнём президентский вагон с рельс. Ну, знаете,{Line} ударим по нему большим бревном или ещё чем-нибудь. А сами{Next}будем сидеть где-нибудь и смотреть как он горит{Line} и разбивается! Ммм... Как вам мой план?»{End}",
         "Source Text SHA256": "E5693CDBE105BC90D89575DCC4BA51EB9EEDBE652F26515C95160AC6CAD37BB0",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -698,7 +698,7 @@
         }
       },
       "$en_tiagit5_0078": {
-        "Target": "{X150Y150}Зелл{Line}«…»{End}",
+        "Target": "{X150Y150}{Char Zell}{Line}«…»{End}",
         "Source Text SHA256": "F868131E0ADE83A2A74C21874EBEC20C07BC0D92AC61E5D2CA3D345BF38B3D18",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -714,7 +714,7 @@
         }
       },
       "$en_tiagit5_0080": {
-        "Target": "{Char Squall}{Line}”......“{End}",
+        "Target": "{Char Squall}{Line}«......»{End}",
         "Source Text SHA256": "9ED13FD6ECD4A2C449A5BA80270FDAD29DCD9433342982D687F6261EBFBC2096",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -722,7 +722,7 @@
         }
       },
       "$en_tiagit5_0081": {
-        "Target": "{X150Y150}Zell{Line}А какой смысл убивать{Line} его перед похищением?{End}",
+        "Target": "{X150Y150}{Char Zell}{Line}«А какой смысл убивать{Line} его перед похищением?»{End}",
         "Source Text SHA256": "77565D41C4CD59304B5359252D396ADED4054AF230A56DBFC4A87B12EA912D46",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",
@@ -730,7 +730,7 @@
         }
       },
       "$en_tiagit5_0082": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Ладно.{Line} На этом всё.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Ладно.{Line} На этом всё».{End}",
         "Source Text SHA256": "6AE11E5711CBBCECD6F257CFFA547A02D276740C195D412BAA224A6AB49D9084",
         "sourceContext": {
           "Source MSD SHA256": "B42C02EE5A1BBDD2E8C9EBEFBDE76B9BB89711DA9D55C9F88CEE9B216F79F7DE",

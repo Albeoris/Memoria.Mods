@@ -10,7 +10,7 @@
         }
       },
       "$en_ehenter1_0001": {
-        "Target": "{X160Y18}Сестрёнка...{Line} Элли...{End}",
+        "Target": "{X160Y18}«Сестрёнка...{Line} Элли...»{End}",
         "Source Text SHA256": "934B13DC8AEF2C6109835C3E4CDF011FC9A5575271A420AD92476BBD41C33095",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ehenter1_0002": {
-        "Target": "{X160Y18}Irvine{Line}Ну это... я вот что хотел сказать.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Ну это... я вот что хотел сказать».{End}",
         "Source Text SHA256": "B481DCD3E6357A1434B9BB8074D53F8B37A482D61272E7A9ABB52C372250F421",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ehenter1_0003": {
-        "Target": "{X160Y18}Irvine{Line}Посмотрим... Ах, да.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Посмотрим... Ах, да».{End}",
         "Source Text SHA256": "9D7AB85B42B241A3EC6694F9578A307BD002C0747DE4B1A62A7D3AA90F62E8D6",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ehenter1_0004": {
-        "Target": "{X160Y18}Irvine{Line}Я понимаю, о чём говорит{Line}{Char Rinoa}.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Я понимаю, о чём говорит{Line}{Char Rinoa}».{End}",
         "Source Text SHA256": "2CB1F05585A3B9D8D54A244285D713F6EDA4C763446DF1077BD7B77B6C83B558",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ehenter1_0005": {
-        "Target": "{X160Y18}Irvine{Line}Я понимаю, но я всё равно буду драться.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Я понимаю, но я всё равно буду драться».{End}",
         "Source Text SHA256": "6F32D064631AA5905690845CB7B2A4B5696EEE81FCA9FB9AC207F6D942EE143A",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ehenter1_0006": {
-        "Target": "{X160Y18}Irvine{Line}Я хочу остаться{Line} верным всему, за что боролся.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Я хочу остаться{Line} верным всему, за что боролся».{End}",
         "Source Text SHA256": "BADC600C5681E2DE8195CCE0F431D6F643BF7B79A952A1E3975F8855A4293836",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ehenter1_0007": {
-        "Target": "{X160Y18}Irvine{Line}Я уверен, что каждый думает так же.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Я уверен, что каждый думает так же».{End}",
         "Source Text SHA256": "6C557F047001734BC016A9E44BE2ABFF5E654E5E4BF3FCAFFD50E812466609DD",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ehenter1_0008": {
-        "Target": "{X160Y18}Irvine{Line}Поэтому думаю для всех будет лучше знать,{Line} что нам придётся столкнуться с Матроной.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Поэтому думаю для всех будет лучше знать,{Line} что нам придётся столкнуться с Матроной».{End}",
         "Source Text SHA256": "9AEA53824770BC3930DA92CDB9AE5F421A7C41CA4D3F036BF0C61942317B5C97",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ehenter1_0009": {
-        "Target": "{X160Y18}Irvine{Line}Все вы уже слышали.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Все вы уже слышали».{End}",
         "Source Text SHA256": "99C8BAF9B2B9CA95ED46C13180F8AB54BADFFC383B9590B833949B45D4F0C459",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ehenter1_0010": {
-        "Target": "{X160Y18}Irvine{Line}Что у жизни бесконечные возможности.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Что у жизни бесконечные возможности».{End}",
         "Source Text SHA256": "82F6BDF5E5DE19875BF8E9E37A3E22699F4EBCC004A92DDE454EBC11EC1A612A",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ehenter1_0011": {
-        "Target": "{X160Y18}Irvine{Line}Я нисколько{Next}в это не верю.{Line} Вариантов у меня было немного. Иногда он у тебя всего один.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Я нисколько{Next}в это не верю.{Line} Вариантов у меня было немного. Иногда он у тебя всего один».{End}",
         "Source Text SHA256": "575D68BD2786D5866A99384DE3345F7ED8C7134D58FCDDA5961A24A92950E3E6",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ehenter1_0012": {
-        "Target": "{X160Y18}Irvine{Line}Ограниченные возможности, с которыми я столкнулся,{Line} и принятые мною решения{Line} привели меня сюда.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Ограниченные возможности, с которыми я столкнулся,{Line} и принятые мною решения{Line} привели меня сюда».{End}",
         "Source Text SHA256": "E4134BDE3502D735510C6CA0C0B99873D428FB28DB3F7839EDA8FB70B0C02955",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ehenter1_0013": {
-        "Target": "{X160Y18}Irvine{Line}Поэтому я ценю{Next}выбранный мною путь...{Line} Я хочу верить, что ДОЛЖЕН БЫЛ выбрать этот путь.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Поэтому я ценю{Next}выбранный мною путь...{Line} Я хочу верить, что ДОЛЖЕН БЫЛ выбрать этот путь».{End}",
         "Source Text SHA256": "216E2A8114237ABA4E515071B95CAFA4C86FC67B714733F2654D9F50ED921283",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ehenter1_0014": {
-        "Target": "{X160Y18}Irvine{Line}Знаю, наш противник Матрона, которую{Line} мы все так любим.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Знаю, наш противник Матрона, которую{Line} мы все так любим».{End}",
         "Source Text SHA256": "452E18FFABD135BD9E445635246B88EC59C02B77288CC886DD960B7C1A5FBFF3",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ehenter1_0015": {
-        "Target": "{X160Y18}Irvine{Line}За счёт ЗС мы можем утратить{Line} кое-что очень важное.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«За счёт ЗС мы можем утратить{Line} кое-что очень важное».{End}",
         "Source Text SHA256": "73CB58BB28FEF28300DEDF9EC9776901A529F5219E02A898E9CDAB343012E6CC",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ehenter1_0016": {
-        "Target": "{X160Y18}Irvine{Line}Но я не против.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Но я не против».{End}",
         "Source Text SHA256": "D6E5C97D6F9C962B8BC1C7AC262C505FB8627FEC6A35A44B03FD4475CA3534E6",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ehenter1_0017": {
-        "Target": "{X160Y18}Irvine{Line}Я же не на волнах{Line} судьбы сюда доплыл.{Next}Я здесь потому, что{Line} сделал выбор.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Я же не на волнах{Line} судьбы сюда доплыл».{Next}«Я здесь потому, что{Line} сделал выбор».{End}",
         "Source Text SHA256": "5281DD53CA67746BF1E12ED36C41AFF3B0B0523E475AFDE0CE1203340645576F",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ehenter1_0018": {
-        "Target": "{X160Y18}Irvine{Line}А что ещё важнее...{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«А что ещё важнее...»{End}",
         "Source Text SHA256": "47AC6DA479D421D4C9528D1C664C21625ABFB4E06064D9A3CA6140591B6276A6",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ehenter1_0019": {
-        "Target": "{X160Y18}Irvine{Line}Мы все выросли вместе.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Мы все выросли вместе».{End}",
         "Source Text SHA256": "568AA4BB225AE71CA0D0AEEF14592C35AB501002B62FA34DBCB04F0CDA40ACD8",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ehenter1_0020": {
-        "Target": "{X160Y18}Irvine{Line}Но в силу различных{Line} обстоятельств нас разлучили.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Но в силу различных{Line} обстоятельств нас разлучили».{End}",
         "Source Text SHA256": "CCAAB81EE6F68AE92FF79FC42784D1C952EF9C882F17167DB791895652429309",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ehenter1_0021": {
-        "Target": "{X160Y18}Irvine{Line}Будучи{Line} детьми, вы не могли ничего{Next}сделать... Других путей не было...{Line} Я только плакал.{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Будучи{Line} детьми, вы не могли ничего{Next}сделать... Других путей не было...{Line} Я только плакал».{End}",
         "Source Text SHA256": "3F1D7A7AEDD565FBFC22104C78B3E4F4F8A2A12DF932B57EDE53AFE355626C4A",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",
@@ -178,7 +178,7 @@
         }
       },
       "$en_ehenter1_0022": {
-        "Target": "{X160Y18}Irvine{Line}Но...{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}«Но...»{End}",
         "Source Text SHA256": "31FCE45862616AF1FE0C6CF3A5B6C0C9A83349E7A5838C919AC8F22B8A8F8DC3",
         "sourceContext": {
           "Source MSD SHA256": "D11EA160194AF0918A26A08F09BA9273B37815AB7451D661A82A71A0DEB50952",

@@ -2,7 +2,7 @@
   "Fields": {
     "esview1": {
       "$en_esview1_0000": {
-        "Target": "{X12Y12}Security Guard{Line}Добро пожаловать «Лунные Врата».{End}",
+        "Target": "{X12Y12}Охранник{Line}«Добро пожаловать „Лунные Врата“».{End}",
         "Source Text SHA256": "44EDE93354B39DC082E18AE5C02090B7F430E2270D46DE7A4BF8D05A2E4D043B",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -10,7 +10,7 @@
         }
       },
       "$en_esview1_0001": {
-        "Target": "{X12Y12}Security Guard{Line}Наш персонал ждёт вас{Line} внутри комплекса.{End}",
+        "Target": "{X12Y12}Охранник{Line}«Наш персонал ждёт вас{Line} внутри комплекса».{End}",
         "Source Text SHA256": "6D99BDC5C1EDB902B951F4B358BDC2C66E742BE0CD11A213277878DBE86D968E",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -34,7 +34,7 @@
         }
       },
       "$en_esview1_0004": {
-        "Target": "{X40Y60}Zell{Line}Это что ещё за{Line} чертовщина?! Оно огромно!{End}",
+        "Target": "{X40Y60}{Char Zell}{Line}«Это что ещё за{Line} чертовщина?! Оно огромно!»{End}",
         "Source Text SHA256": "22F6BDA9F35AF7229FE567910CFB2F0FBD34B6E47F18D19FB28448BA2BDD5411",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -42,7 +42,7 @@
         }
       },
       "$en_esview1_0005": {
-        "Target": "{X12Y12}Selphie{Line}Минутку, [город] {Color Blue}в{Color White} той стороне?{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Минутку, [город] {Color Blue}в{Color White} той стороне?»{End}",
         "Source Text SHA256": "82002382516E5ACC7B62C3587E85D4F1977FCF33C115869C2182864C0539127F",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -50,7 +50,7 @@
         }
       },
       "$en_esview1_0006": {
-        "Target": "{X40Y40}Квистис{Line}«Кажется, {Color Blue}〖город〗{Color White} вон там».{End}",
+        "Target": "{X40Y40}{Char Quistis}{Line}«Кажется, {Color Blue}〖город〗{Color White} вон там».{End}",
         "Source Text SHA256": "80A4821654EEB413E6995D201AAD1FDFA6CD4AD74D7FA6829C506E82BD589624",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -58,7 +58,7 @@
         }
       },
       "$en_esview1_0007": {
-        "Target": "{X40Y12}Ирвин{Line}«Слушайте, {Color Blue}〖город〗{Color White} ведь в той стороне?»{End}",
+        "Target": "{X40Y12}{Char Irvine}{Line}«Слушайте, {Color Blue}〖город〗{Color White} ведь в той стороне?»{End}",
         "Source Text SHA256": "CFB0553D632FF8A9AB019FD4D6E3ADF0F1BCBB83675B391C1AADB7830BD0F464",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -66,7 +66,7 @@
         }
       },
       "$en_esview1_0008": {
-        "Target": "{X12Y12}Selphie{Line}Ой-ой!{Line}{Color Blue}Доктор Одайн{Color White} может быть{Line} в опасности!{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Ой-ой!{Line}{Color Blue}Доктор Одайн{Color White} может быть{Line} в опасности!»{End}",
         "Source Text SHA256": "5C3B289BF5C273B07CB6916126AE3D93DCB1CCA392FE9A3A8C6CF12F4BA001FB",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -74,7 +74,7 @@
         }
       },
       "$en_esview1_0009": {
-        "Target": "{X40Y40}Квистис{Line}«{Color Blue}Доктор Одайн{Color White}! Он может быть в опасности!»{End}",
+        "Target": "{X40Y40}{Char Quistis}{Line}«{Color Blue}Доктор Одайн{Color White}! Он может быть в опасности!»{End}",
         "Source Text SHA256": "68358C2F003F07B348BEB10DA5D08F276D1FF05DC9E39236014D80089097C751",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -82,7 +82,7 @@
         }
       },
       "$en_esview1_0010": {
-        "Target": "{X40Y12}Ирвин{Line}«Значит, этот, как его... {Color Blue}доктор Одайн{Color White}{Line}может быть в беде».{End}",
+        "Target": "{X40Y12}{Char Irvine}{Line}«Значит, этот, как его... {Color Blue}доктор Одайн{Color White}{Line}может быть в беде».{End}",
         "Source Text SHA256": "24FA75B4D7C66E3EBD7F8437DABE10B488C0A7A218D00D79B630A654BE16B540",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -90,7 +90,7 @@
         }
       },
       "$en_esview1_0011": {
-        "Target": "{X80Y20}Edea{Line}Зелл, нам стоит немедленно{Line} отправиться {Color Blue}в{Color White} [город].{Next}{Color Blue}Может Доктор{Color White} Одайн{Line} знает, что происходит.{End}",
+        "Target": "{X80Y20}{Char Edea}{Line}«Зелл, нам стоит немедленно{Line} отправиться {Color Blue}в{Color White} [город].»{Next}{Color Blue}«Может Доктор{Color White} Одайн{Line} знает, что происходит».{End}",
         "Source Text SHA256": "8E5F04349BE8FF0BC9A7627CD4598C001DE1E2AFA2D8D5C83C9443795E069F73",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -98,7 +98,7 @@
         }
       },
       "$en_esview1_0012": {
-        "Target": "{X40Y60}Zell{Line}Хорошо! Кто с{Line} нами?!{End}",
+        "Target": "{X40Y60}{Char Zell}{Line}«Хорошо! Кто с{Line} нами?!»{End}",
         "Source Text SHA256": "EB833C04871DB038670088616E06FCD5CBAA5D966239EFF0923D02CE536F7C7B",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -106,7 +106,7 @@
         }
       },
       "$en_esview1_0013": {
-        "Target": "{X12Y12}Охранник{Line}В карты? Ни за что!{Line}Мы же на дежурстве.{End}",
+        "Target": "{X12Y12}Охранник{Line}«В карты? Ни за что!{Line}Мы же на дежурстве».{End}",
         "Source Text SHA256": "1AC06A360991193F79288A3F402995D633A57478AC3CA2C4B4267747732C2FDC",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -114,7 +114,7 @@
         }
       },
       "$en_esview1_0014": {
-        "Target": "{X12Y12F2L3B2C2}Охранник{Line}Ну... очень уж хочется?{Line}Да{Line}Нет{End}",
+        "Target": "{X12Y12F2L3B2C2}Охранник{Line}«Ну... очень уж хочется?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "70951D219192168DB8B35477FDC7682708F00A2A40ABFC68F2569C422C250684",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -146,7 +146,7 @@
         }
       },
       "$en_esview1_0018": {
-        "Target": "{X12Y12}Охранник{Line}Что? Уже не хочешь играть?{Next}Ну и ладно. Мне всё равно нужно дежурить.{Line}Хм, скоро уже перерыв.{End}",
+        "Target": "{X12Y12}Охранник{Line}«Что? Уже не хочешь играть?»{Next}«Ну и ладно. Мне всё равно нужно дежурить.{Line}Хм, скоро уже перерыв».{End}",
         "Source Text SHA256": "3E21E1110EA9310082BB46231EBFB77D692F684DA4B37C86C7B83154C9634470",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -154,7 +154,7 @@
         }
       },
       "$en_esview1_0019": {
-        "Target": "{X10Y10}Security Guard{Line}По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим, согласны?{End}",
+        "Target": "{X10Y10}Охранник{Line}«По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим, согласны?»{End}",
         "Source Text SHA256": "AA06888E8C4E73CA10525ECD9187363B5CC048D59705E1BE44F22542256CAF95",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -162,7 +162,7 @@
         }
       },
       "$en_esview1_0020": {
-        "Target": "{X10Y10}Security Guard{Line}По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим, согласны?{End}",
+        "Target": "{X10Y10}Охранник{Line}«По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим, согласны?»{End}",
         "Source Text SHA256": "DE910A0B4BB7A4762B921EA405C35FA473EADD8818A0B9F3012F9E4C1FC65CA4",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -170,7 +170,7 @@
         }
       },
       "$en_esview1_0021": {
-        "Target": "{X10Y10}Security Guard{Line}По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим, согласны?{End}",
+        "Target": "{X10Y10}Охранник{Line}«По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим, согласны?»{End}",
         "Source Text SHA256": "1852A80AE0DE5F31218971A783ACA00B9965C3DC8B3655E85F9266BA2B2D11FF",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -178,7 +178,7 @@
         }
       },
       "$en_esview1_0022": {
-        "Target": "{X10Y10}Security Guard{Line}По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Центры и по нашим, согласны?{End}",
+        "Target": "{X10Y10}Охранник{Line}«По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Центры и по нашим, согласны?»{End}",
         "Source Text SHA256": "CA05A714AE8CE15D9A9C9A5889BD57745F625CA9E025E34F12940F36ECEECFCD",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -186,7 +186,7 @@
         }
       },
       "$en_esview1_0023": {
-        "Target": "{X10Y10}Security Guard{Line}По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим, согласны?{End}",
+        "Target": "{X10Y10}Охранник{Line}«По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим, согласны?»{End}",
         "Source Text SHA256": "C584AF111ACF1D238D33C234B3E36DCA56A2ECCACEF1D068C48054C1E118B69B",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -194,7 +194,7 @@
         }
       },
       "$en_esview1_0024": {
-        "Target": "{X10Y10}Security Guard{Line}По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим, согласны?{End}",
+        "Target": "{X10Y10}Охранник{Line}«По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим, согласны?»{End}",
         "Source Text SHA256": "FFA8648FDBD79C45A8803A4ED09F166226E28C64EB099B6A83350819A6BA9CB3",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -202,7 +202,7 @@
         }
       },
       "$en_esview1_0025": {
-        "Target": "{X10Y10}Security Guard{Line}По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим, согласны?{End}",
+        "Target": "{X10Y10}Охранник{Line}«По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим, согласны?»{End}",
         "Source Text SHA256": "5637904E77AB57956F773973AF0EC6C8AD9549BF0C6E2C06599EB6A80D4E83BE",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -210,7 +210,7 @@
         }
       },
       "$en_esview1_0026": {
-        "Target": "{X10Y10}Security Guard{Line}По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим, согласны?{End}",
+        "Target": "{X10Y10}Охранник{Line}«По-моему, таких правил{Line}здесь нет.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим, согласны?»{End}",
         "Source Text SHA256": "2283B6193DD5C0349200751811E9691DD1FF2F7266D387DE8F0E172CCDDF8833",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -466,7 +466,7 @@
         }
       },
       "$en_esview1_0044": {
-        "Target": "{X10Y10}Охранник{Line}Да ладно!{Line}Зря я, выходит, с поста ушёл!{Line}Ну и ну... Сыграем как-нибудь,{Line}когда у тебя будет побольше карт.{End}",
+        "Target": "{X10Y10}Охранник{Line}«Да ладно!{Line}Зря я, выходит, с поста ушёл!{Line}Ну и ну... Сыграем как-нибудь,{Line}когда у тебя будет побольше карт».{End}",
         "Source Text SHA256": "8E8D7961B1AB26EE11EDD1514AB20CEB2D7E56842CC4F814FBD9FA0B8B11540E",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -474,7 +474,7 @@
         }
       },
       "$en_esview1_0045": {
-        "Target": "{X120Y12}Охранник{Line}Эй, неплохо.{Line}В следующий раз я тебя обыграю.{End}",
+        "Target": "{X120Y12}Охранник{Line}«Эй, неплохо.{Line}В следующий раз я тебя обыграю».{End}",
         "Source Text SHA256": "FD91F131FEC16A2CA57EF4BEAA3549959896FAFB25CA66EEB51659DF1B49A7FB",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -482,7 +482,7 @@
         }
       },
       "$en_esview1_0046": {
-        "Target": "{X120Y12}Охранник{Line}А я неплох, правда?{Line}Здорово сыграли.{Line}Можешь обращаться в любое время.{End}",
+        "Target": "{X120Y12}Охранник{Line}«А я неплох, правда?{Line}Здорово сыграли.{Line}Можешь обращаться в любое время».{End}",
         "Source Text SHA256": "C9942F8C0CCE56907F9A3AEBE0E3137FBE594E30B1F5F8BDFD2516B332B0EF23",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",
@@ -490,7 +490,7 @@
         }
       },
       "$en_esview1_0047": {
-        "Target": "{X120Y12}Охранник{Line}Хорошая партия.{Line}В следующий раз решим, кто сильнее.{End}",
+        "Target": "{X120Y12}Охранник{Line}«Хорошая партия.{Line}В следующий раз решим, кто сильнее».{End}",
         "Source Text SHA256": "BE74ACF8F7C22BCAEC26FF66E5727A71256CCE49536F2EBF07C81D0758C3EBD3",
         "sourceContext": {
           "Source MSD SHA256": "5CAFF5D4FE5D71192EAFB29CD86B273D33AE00DADA582A12408AAFBCA535E675",

@@ -2,7 +2,7 @@
   "Fields": {
     "edlabo1a": {
       "$en_edlabo1a_0000": {
-        "Target": "{X61Y80}По указаниям Одайна{Line}мы воспользовались пультом{Line}и сдвинули Кристальную колонну.{End}{End}",
+        "Target": "{X61Y80}По указаниям Одайна{Line}мы воспользовались пультом{Line}и сдвинули Кристальную колонну.{End}",
         "Source Text SHA256": "F9040E5AB3DC0B24F9D798E62D05BC032550900DA44E4B4A6DF609F61AED218B",
         "sourceContext": {
           "Source MSD SHA256": "C227F65F075E634C282ED735696F5FAF8A4DC9E98F799DB51903C1CBBF2B4585",
@@ -18,7 +18,7 @@
         }
       },
       "$en_edlabo1a_0002": {
-        "Target": "{X15Y15}Laguna{Line}Ого!{End}{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Ого!»{End}",
         "Source Text SHA256": "474E13FA96CACC3E90857EA914DCBF0562B150C733269EE4CC9C35751051D738",
         "sourceContext": {
           "Source MSD SHA256": "C227F65F075E634C282ED735696F5FAF8A4DC9E98F799DB51903C1CBBF2B4585",
@@ -26,7 +26,7 @@
         }
       },
       "$en_edlabo1a_0003": {
-        "Target": "{X26Y92}Всё прошло гладко. Но{Pause 80}... нас раскрыли.{Next}Мы собрались на последний бой,{Line}чтобы выманить Адель.{End}{End}",
+        "Target": "{X26Y92}Всё прошло гладко. Но{Pause 80}... нас раскрыли.{Next}Мы собрались на последний бой,{Line}чтобы выманить Адель.{End}",
         "Source Text SHA256": "56B9A0FFD8D661396C2B55A05DE3A8219904A67D2012B2090FA999443BF7BEDF",
         "sourceContext": {
           "Source MSD SHA256": "C227F65F075E634C282ED735696F5FAF8A4DC9E98F799DB51903C1CBBF2B4585",

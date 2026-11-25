@@ -10,7 +10,7 @@
         }
       },
       "$en_test12_0001": {
-        "Target": "Зелл: «Что ты делаешь?!»",
+        "Target": "{Char Zell}: «Что ты делаешь?!»",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -34,7 +34,7 @@
         }
       },
       "$en_test12_0004": {
-        "Target": "Зелл: «Ты же нахлебник, так что ничего не поделаешь».",
+        "Target": "{Char Zell}: «Ты же нахлебник, так что ничего не поделаешь».",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -90,7 +90,7 @@
         }
       },
       "$en_test12_0011": {
-        "Target": "Риноа{Line}«Не надо, Скволл.{Line} Если Зелл начнёт рассказывать о дедушке,{Line} это запросто затянется на целый час!»{End}",
+        "Target": "{Char Rinoa}{Line}«Не надо, Скволл.{Line} Если Зелл начнёт рассказывать о дедушке,{Line} это запросто затянется на целый час!»{End}",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -106,7 +106,7 @@
         }
       },
       "$en_test12_0013": {
-        "Target": "Сайфер: «Кстати, гостей пригласил, а чаю даже не предложишь?»",
+        "Target": "{Char Seifer}: «Кстати, гостей пригласил, а чаю даже не предложишь?»",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -114,7 +114,7 @@
         }
       },
       "$en_test12_0014": {
-        "Target": "Зелл{Line}«Вы же сами{Line} ко мне заявились!»{End}",
+        "Target": "{Char Zell}{Line}«Вы же сами{Line} ко мне заявились!»{End}",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",

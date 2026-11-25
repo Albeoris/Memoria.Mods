@@ -10,7 +10,7 @@
         }
       },
       "$en_bgmon_6_0001": {
-        "Target": "{X8Y8}”{Char Squall}!!!“{End}",
+        "Target": "{X8Y8}«{Char Squall}!!!»{End}",
         "Source Text SHA256": "756878EBA2C1C1BDAEEE11E9F15849F892FB97637B8F8FAB310B38226CABC4DE",
         "sourceContext": {
           "Source MSD SHA256": "EBD9D5630FADE550FFD75BC70C047C4063015B7B62DC4BBC6F323FA86CDC50D3",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bgmon_6_0002": {
-        "Target": "{X8Y8}”{Char Squall}! Квистис?“{End}",
+        "Target": "{X8Y8}«{Char Squall}! Квистис?»{End}",
         "Source Text SHA256": "A77604C5B96E19D2705EDB6EC7C64F2382902C3D3C389B4B23A449C1F93BF493",
         "sourceContext": {
           "Source MSD SHA256": "EBD9D5630FADE550FFD75BC70C047C4063015B7B62DC4BBC6F323FA86CDC50D3",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bgmon_6_0003": {
-        "Target": "{X8Y8}“Здесь небезопасно.{Line} Пожалуйста, пойдём.”",
+        "Target": "{X8Y8}«Здесь небезопасно.{Line} Пожалуйста, пойдём».",
         "Source Text SHA256": "578E746CB6FA927A1F94CB47ED5DD07268B1A5F1BCCFA821D473F5BB8F7435A1",
         "sourceContext": {
           "Source MSD SHA256": "EBD9D5630FADE550FFD75BC70C047C4063015B7B62DC4BBC6F323FA86CDC50D3",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgmon_6_0004": {
-        "Target": "{X8Y8}“Хорошо...”",
+        "Target": "{X8Y8}«Хорошо...»",
         "Source Text SHA256": "C6E7B342F5211959229664C6E75A5F2FEAC57788CDD9F2ACCF851E733E70A00F",
         "sourceContext": {
           "Source MSD SHA256": "EBD9D5630FADE550FFD75BC70C047C4063015B7B62DC4BBC6F323FA86CDC50D3",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bgmon_6_0006": {
-        "Target": "{X8Y8}Quistis{Line}Кто это был?..{End}",
+        "Target": "{X8Y8}{Char Quistis}{Line}«Кто это был?..»{End}",
         "Source Text SHA256": "EAA96B5B52B29733CEA8C5CC53FDF0E52D006611871AC72597D6AF3445E27E13",
         "sourceContext": {
           "Source MSD SHA256": "EBD9D5630FADE550FFD75BC70C047C4063015B7B62DC4BBC6F323FA86CDC50D3",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgmon_6_0011": {
-        "Target": "{X100Y30}Ааа!{End}",
+        "Target": "{X100Y30}«Ааа!»{End}",
         "Source Text SHA256": "46096E3DBE222D29EDE182943B880F909547BDEF1F76FBA5D699CEA1671CEE41",
         "sourceContext": {
           "Source MSD SHA256": "EBD9D5630FADE550FFD75BC70C047C4063015B7B62DC4BBC6F323FA86CDC50D3",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgmon_6_0012": {
-        "Target": "{X160Y15}Не зря же я каждый{Line} день тренируюсь. Давай!{End}",
+        "Target": "{X160Y15}«Не зря же я каждый{Line} день тренируюсь. Давай!»{End}",
         "Source Text SHA256": "3377C95E15C06FCC00EC88035FBEDA38991E5D2D98E529957173DAFF67C7F52F",
         "sourceContext": {
           "Source MSD SHA256": "EBD9D5630FADE550FFD75BC70C047C4063015B7B62DC4BBC6F323FA86CDC50D3",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bgmon_6_0013": {
-        "Target": "{X100Y20}Ах ты маленький!..{End}",
+        "Target": "{X100Y20}«Ах ты маленький!..»{End}",
         "Source Text SHA256": "8CBFB729F9B90E5DE4C6B2AC7C9697372CFBEF69074F1F5437F49F921B4DABD5",
         "sourceContext": {
           "Source MSD SHA256": "EBD9D5630FADE550FFD75BC70C047C4063015B7B62DC4BBC6F323FA86CDC50D3",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bgmon_6_0015": {
-        "Target": "{X8Y8}{Char Squall}{Line}Сначала тебе придётся{Line} сразиться со мной!{End}",
+        "Target": "{X8Y8}{Char Squall}{Line}«Сначала тебе придётся{Line} сразиться со мной!»{End}",
         "Source Text SHA256": "60E94F90763A1D836D7D360791FD181F4382D557786D265347325930CFF56203",
         "sourceContext": {
           "Source MSD SHA256": "EBD9D5630FADE550FFD75BC70C047C4063015B7B62DC4BBC6F323FA86CDC50D3",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bgmon_6_0016": {
-        "Target": "{X35Y8}Garden Faculty{Line}А вот и сиды! Пора умирать!{End}",
+        "Target": "{X35Y8}Преподаватель Сада{Line}«А вот и сиды! Пора умирать!»{End}",
         "Source Text SHA256": "08EF6C843CCAC23D06BF6E3710B3CE75486A8A90754CE11F8446D84EA46F2027",
         "sourceContext": {
           "Source MSD SHA256": "EBD9D5630FADE550FFD75BC70C047C4063015B7B62DC4BBC6F323FA86CDC50D3",

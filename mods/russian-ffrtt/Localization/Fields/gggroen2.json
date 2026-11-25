@@ -34,7 +34,7 @@
         }
       },
       "$en_gggroen2_0004": {
-        "Target": "Вам нельзя здесь находиться.{End}",
+        "Target": "«Вам нельзя здесь находиться».{End}",
         "Source Text SHA256": "29EBCE0C471FE0BDDA04C10879201DB3C00B9E1131767599AB2194D8E284719D",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gggroen2_0004_ctx_57b39af8516c76f5": {
-        "Target": "{X84Y10}Вам нельзя здесь находиться.{End}",
+        "Target": "{X84Y10}«Вам нельзя здесь находиться».{End}",
         "Source Text SHA256": "29EBCE0C471FE0BDDA04C10879201DB3C00B9E1131767599AB2194D8E284719D",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gggroen2_0004_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Вам нельзя здесь находиться.{End}",
+        "Target": "{X10Y10}«Вам нельзя здесь находиться».{End}",
         "Source Text SHA256": "29EBCE0C471FE0BDDA04C10879201DB3C00B9E1131767599AB2194D8E284719D",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gggroen2_0005": {
-        "Target": "”Посетители должны ждать на{Line} [2-м {Color Blue}этаже, в приёмной].{Color White}.“{End}",
+        "Target": "«Посетители должны ждать на{Line} [2-м {Color Blue}этаже, в приёмной].{Color White}.»{End}",
         "Source Text SHA256": "EB4150B86C02EC8CB31201217393A6E3A068169F58D1466E3E5D64A9031B301F",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gggroen2_0005_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Посетители должны ждать на{Line} [2-м {Color Blue}этаже, в приёмной].{Color White}{End}",
+        "Target": "{X10Y10}«Посетители должны ждать на{Line} [2-м {Color Blue}этаже, в приёмной].»{Color White}{End}",
         "Source Text SHA256": "EB4150B86C02EC8CB31201217393A6E3A068169F58D1466E3E5D64A9031B301F",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gggroen2_0005_ctx_c68608b2ad12f12e": {
-        "Target": "{X114Y10}Посетители должны ждать на{Line} [2-м {Color Blue}этаже, в приёмной].{Color White}{End}",
+        "Target": "{X114Y10}«Посетители должны ждать на{Line} [2-м {Color Blue}этаже, в приёмной].»{Color White}{End}",
         "Source Text SHA256": "EB4150B86C02EC8CB31201217393A6E3A068169F58D1466E3E5D64A9031B301F",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gggroen2_0006": {
-        "Target": "{X252Y40}Selphie{Line}”{Char Rinoa}!!“{End}",
+        "Target": "{X252Y40}{Char Selphie}{Line}«{Char Rinoa}!!»{End}",
         "Source Text SHA256": "C3271FD81C075C2420B9C39AC1EAB6818B1BCD7FC01577D4D8E46A648CFEF323",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gggroen2_0007": {
-        "Target": "{X80Y20}Zell{Line}Ты здесь!{End}",
+        "Target": "{X80Y20}{Char Zell}{Line}«Ты здесь!»{End}",
         "Source Text SHA256": "1AB6AF3D70FDFA78CCD8F2748420E8D7E682BC0287E28D8481A51591E880E0D2",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gggroen2_0008": {
-        "Target": "{X10Y30}Quistis{Line}Ты в порядке?{End}",
+        "Target": "{X10Y30}{Char Quistis}{Line}«Ты в порядке?»{End}",
         "Source Text SHA256": "21AB8227753A9268B6379ED33563325683363721189091A2FAEF031F0F9FA00B",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gggroen2_0009": {
-        "Target": "{X24Y10}Irvine{Line}Волшебница должна быть где-то здесь.{End}",
+        "Target": "{X24Y10}{Char Irvine}{Line}«Волшебница должна быть где-то здесь».{End}",
         "Source Text SHA256": "0D010D562B0ECA71ABEE0AD6FE34D320BA87F255E61D1ECFC4BFB23103707BC4",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gggroen2_0011": {
-        "Target": "{X93Y10}{Char Squall}{Line}Забудьте о прошлом! Теперь{Line} она — наш враг!{Line} Не задумывайтесь ни на секунду.{End}",
+        "Target": "{X93Y10}{Char Squall}{Line}«Забудьте о прошлом! Теперь{Line} она — наш враг!{Line} Не задумывайтесь ни на секунду».{End}",
         "Source Text SHA256": "CB6663F1ABB0CF72992B738213A9C0CC11FF97F22C2BFAF92BE5C8D8E0B2663C",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gggroen2_0012": {
-        "Target": "{X28Y10}{Char Squall}{Line}Так нам её не победить. Я, например,{Line} не смогу.{End}",
+        "Target": "{X28Y10}{Char Squall}{Line}«Так нам её не победить. Я, например,{Line} не смогу».{End}",
         "Source Text SHA256": "07E8291E2B56949414830DF177FCDEED67CF2278A87FE4D8AFCED0DEE0C3F315",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gggroen2_0013": {
-        "Target": "{X110Y10}{Char Squall}{Line}Она выбрала борьбу и стала{Line} нашим врагом. Мы{Next}выбрали атаковать в ответ. У{Line} нас нет выбора.{Line} По крайней мере, я так думаю.{End}",
+        "Target": "{X110Y10}{Char Squall}{Line}«Она выбрала борьбу и стала{Line} нашим врагом. Мы{Next}выбрали атаковать в ответ. У{Line} нас нет выбора.{Line} По крайней мере, я так думаю».{End}",
         "Source Text SHA256": "EC518D9006D6550C1068722BD6D9862780C55D59BF15B130EBA3E01693A1AD1D",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gggroen2_0015": {
-        "Target": "{X135Y10}Мы и так далеко{Line} зашли. Полагаю, здесь всё{Line} ясно и без слов.{End}",
+        "Target": "{X135Y10}«Мы и так далеко{Line} зашли. Полагаю, здесь всё{Line} ясно и без слов».{End}",
         "Source Text SHA256": "AE7D03AFDF9268AB2EDF945F4E8908BB70FCB612D29C2DC79A355700230BFC7C",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gggroen2_0016": {
-        "Target": "{X10Y150}{Char Rinoa}{Line}”Мы всё ещё слушаем.“{Next}”{Char Squall}, мы хотим знать,{Line} что ты чувствуешь.“{End}",
+        "Target": "{X10Y150}{Char Rinoa}{Line}«Мы всё ещё слушаем».{Next}«{Char Squall}, мы хотим знать,{Line} что ты чувствуешь».{End}",
         "Source Text SHA256": "0A955A3096583805C70E142F7C6279B7D17F00DFB39448C133F849316F8BE602",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -170,7 +170,7 @@
         }
       },
       "$en_gggroen2_0017": {
-        "Target": "{X113Y10}{Char Squall}{Line}Об этом я расскажу{Line} вам потом... Когда все мы выберемся отсюда.{End}",
+        "Target": "{X113Y10}{Char Squall}{Line}«Об этом я расскажу{Line} вам потом... Когда все мы выберемся отсюда».{End}",
         "Source Text SHA256": "0D16C571E570A327D936574196A0F7A74963151BC5D65CEAB4C1C51344109DA9",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",
@@ -178,7 +178,7 @@
         }
       },
       "$en_gggroen2_0018": {
-        "Target": "{X170Y20}{Char Squall}{Line}Пошли.{End}",
+        "Target": "{X170Y20}{Char Squall}{Line}«Пошли».{End}",
         "Source Text SHA256": "DC2D784576BFDF4E1C760DFC1BC3771236FD1A3EB4BF119296020761C8D0C994",
         "sourceContext": {
           "Source MSD SHA256": "0D4B51779E387C57E66EEDF753C51381FF1F8611C30F2DDBFA74E9B4F89EDA6C",

@@ -10,7 +10,7 @@
         }
       },
       "$en_rgroad21_0001": {
-        "Target": "{X59Y8}Jack{Line}Эй! Хочешь передохнуть?{Line} Могу поиграть с тобой немного.{End}",
+        "Target": "{X59Y8}Валет{Line}«Эй! Хочешь передохнуть?{Line} Могу поиграть с тобой немного».{End}",
         "Source Text SHA256": "D6FCF26674704DDBCF1E516964310DA0B3E775CEC0BA6C8CF9FFB7485850C63A",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -18,7 +18,7 @@
         }
       },
       "$en_rgroad21_0002": {
-        "Target": "{X31Y8}Jack{Line}Силы волшебницы ужасны... Какие все же мы,{Line} люди, слабые... Но{Next}когда я вижу вас, ребята, в{Line} действии, у меня возникает чувство,{Line} что всё получится...{End}",
+        "Target": "{X31Y8}Валет{Line}«Силы волшебницы ужасны... Какие все же мы,{Line} люди, слабые... Но{Next}когда я вижу вас, ребята, в{Line} действии, у меня возникает чувство,{Line} что всё получится...»{End}",
         "Source Text SHA256": "8881FD85618AAAC181410F12FA2A410BD91EF98C975B28A65EBA39C236FC2351",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -26,7 +26,7 @@
         }
       },
       "$en_rgroad21_0003": {
-        "Target": "{X84Y8F2L3B2C3}Jack{Line}Отлично! Давай сыграем!{Line}Да{Line}Нет{End}",
+        "Target": "{X84Y8F2L3B2C3}Валет{Line}«Отлично! Давай сыграем!»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "032BE3402B7797686E1AE2B9AD4527C8EE1CC1162445AD9A1881B9B259F32AB9",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -34,7 +34,7 @@
         }
       },
       "$en_rgroad21_0004": {
-        "Target": "{X100Y8}Jack{Line}Погоди-ка...{End}",
+        "Target": "{X100Y8}Валет{Line}«Погоди-ка...»{End}",
         "Source Text SHA256": "AC35A631C0058F0B8B9400AE60F37DA90C80A28A2D7DE627A6001D164AB111F4",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -42,7 +42,7 @@
         }
       },
       "$en_rgroad21_0005": {
-        "Target": "{X70Y8}Jack{Line}Хорошо, вот мои карты.{End}",
+        "Target": "{X70Y8}Валет{Line}«Хорошо, вот мои карты».{End}",
         "Source Text SHA256": "C6059FCC786B41959A2F25B1756ECE289A52C250FBE2921CF1551943ABC95D4B",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -50,7 +50,7 @@
         }
       },
       "$en_rgroad21_0006": {
-        "Target": "{X84Y8}Джек{Line}{Char Squall}, для игры нужно{Line}хотя бы пять карт.{End}",
+        "Target": "{X84Y8}Джек{Line}«{Char Squall}, для игры нужно{Line}хотя бы пять карт».{End}",
         "Source Text SHA256": "01BB89CF0E3E3F7737DC9FE1C5FB3900B47C7A1C9AC32B35222A0FE3D21BF05C",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -58,7 +58,7 @@
         }
       },
       "$en_rgroad21_0007": {
-        "Target": "{X10Y10}Джек{Line}А, раньше вы играли по правилам Баламба...{Line}Ладно, давай и их добавим.{End}",
+        "Target": "{X10Y10}Джек{Line}«А, раньше вы играли по правилам Баламба...{Line}Ладно, давай и их добавим».{End}",
         "Source Text SHA256": "6EA38E2376ED2EF988B12B9A5BAF255E84FDEDCA11C0D6D2A272BEA44A57F15E",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -66,7 +66,7 @@
         }
       },
       "$en_rgroad21_0008": {
-        "Target": "{X10Y10}Джек{Line}А, раньше вы играли по правилам Галбадии...{Line}Ладно, давай и их добавим.{End}",
+        "Target": "{X10Y10}Джек{Line}«А, раньше вы играли по правилам Галбадии...{Line}Ладно, давай и их добавим».{End}",
         "Source Text SHA256": "2E8E0B4F0CE1ACAAFFA84AAFBA6573EFF126FA1A7AA8F7F79B2A163C76EA31EF",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -74,7 +74,7 @@
         }
       },
       "$en_rgroad21_0009": {
-        "Target": "{X10Y10}А, раньше вы играли по правилам Трабии...{Line}Ладно, давай и их добавим.{End}",
+        "Target": "{X10Y10}«А, раньше вы играли по правилам Трабии...{Line}Ладно, давай и их добавим».{End}",
         "Source Text SHA256": "D4E404CAD8576C32F2ABB6142384166E277265D521EA6719683C659F7108342A",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -82,7 +82,7 @@
         }
       },
       "$en_rgroad21_0010": {
-        "Target": "{X10Y10}А, раньше вы играли по правилам Центры...{Line}Ладно, давай и их добавим.{End}",
+        "Target": "{X10Y10}«А, раньше вы играли по правилам Центры...{Line}Ладно, давай и их добавим».{End}",
         "Source Text SHA256": "8F544408A2136AE51E89C023564B8D8BDB5FD851BFEFCD019E3CB86365A2CFAA",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -90,7 +90,7 @@
         }
       },
       "$en_rgroad21_0011": {
-        "Target": "{X10Y10}А, раньше вы играли по правилам Доллета...{Line}Ладно, давай и их добавим.{End}",
+        "Target": "{X10Y10}«А, раньше вы играли по правилам Доллета...{Line}Ладно, давай и их добавим».{End}",
         "Source Text SHA256": "F730B4C90465AC27C79D6CE42AA517C208C9730E1B1B39C9F6BE75D229430060",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -98,7 +98,7 @@
         }
       },
       "$en_rgroad21_0012": {
-        "Target": "{X10Y10}А, раньше вы играли по правилам ГР...{Line}Ладно, давай и их добавим.{End}",
+        "Target": "{X10Y10}«А, раньше вы играли по правилам ГР...{Line}Ладно, давай и их добавим».{End}",
         "Source Text SHA256": "A868DAB131EE9F45ADC4ECCC5AA48EF429322824954190AA36EE5DF282CC9BCD",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -106,7 +106,7 @@
         }
       },
       "$en_rgroad21_0013": {
-        "Target": "{X10Y10}А, раньше вы играли по правилам Лунного региона...{Line}Ладно, давай и их добавим.{End}",
+        "Target": "{X10Y10}«А, раньше вы играли по правилам Лунного региона...{Line}Ладно, давай и их добавим».{End}",
         "Source Text SHA256": "3AE41C22ED4A3F9FD51922520B3481863E5CE9DA234A42D8DB2901C0E9FBEBD9",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -114,7 +114,7 @@
         }
       },
       "$en_rgroad21_0014": {
-        "Target": "{X10Y10}А, раньше вы играли по правилам Эстара...{Line}Ладно, давай и их добавим.{End}",
+        "Target": "{X10Y10}«А, раньше вы играли по правилам Эстара...{Line}Ладно, давай и их добавим».{End}",
         "Source Text SHA256": "B143C5DB2CA2223EDC2BAEB052EF88AFFD35B6559E5AE1189229BDFC0F96B30A",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -122,7 +122,7 @@
         }
       },
       "$en_rgroad21_0015": {
-        "Target": "Джек{Line}Ладно, принимаю правило {Color Blue}«В открытую»{Color White}.{End}",
+        "Target": "Джек{Line}«Ладно, принимаю правило {Color Blue}„В открытую“{Color White}».{End}",
         "Source Text SHA256": "880DCC03E9136E440F7730E31FA811D2DEA0F408A3E4C1BEACDCBF479ED7D579",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -130,7 +130,7 @@
         }
       },
       "$en_rgroad21_0015_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«В открытую»{Color White}.{End}",
+        "Target": "{X10Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„В открытую“{Color White}».{End}",
         "Source Text SHA256": "880DCC03E9136E440F7730E31FA811D2DEA0F408A3E4C1BEACDCBF479ED7D579",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -138,7 +138,7 @@
         }
       },
       "$en_rgroad21_0015_ctx_b19dfbe888d1755b": {
-        "Target": "{X40Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«В открытую»{Color White}.{End}",
+        "Target": "{X40Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„В открытую“{Color White}».{End}",
         "Source Text SHA256": "880DCC03E9136E440F7730E31FA811D2DEA0F408A3E4C1BEACDCBF479ED7D579",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -146,7 +146,7 @@
         }
       },
       "$en_rgroad21_0016": {
-        "Target": "Джек{Line}Ладно, принимаю правило {Color Blue}«Одинаковые»{Color White}.{End}",
+        "Target": "Джек{Line}«Ладно, принимаю правило {Color Blue}„Одинаковые“{Color White}».{End}",
         "Source Text SHA256": "CF8D76BF9D77CAAD9D6FB27FFC54687721145EC68A9A5E2D51D3AE892A01C1C7",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -154,7 +154,7 @@
         }
       },
       "$en_rgroad21_0016_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Одинаковые»{Color White}.{End}",
+        "Target": "{X10Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Одинаковые“{Color White}».{End}",
         "Source Text SHA256": "CF8D76BF9D77CAAD9D6FB27FFC54687721145EC68A9A5E2D51D3AE892A01C1C7",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -162,7 +162,7 @@
         }
       },
       "$en_rgroad21_0016_ctx_96b0bb4c548f22ba": {
-        "Target": "{X38Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Одинаковые»{Color White}.{End}",
+        "Target": "{X38Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Одинаковые“{Color White}».{End}",
         "Source Text SHA256": "CF8D76BF9D77CAAD9D6FB27FFC54687721145EC68A9A5E2D51D3AE892A01C1C7",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -170,7 +170,7 @@
         }
       },
       "$en_rgroad21_0017": {
-        "Target": "Джек{Line}Ладно, принимаю правило {Color Blue}«Сложение»{Color White}.{End}",
+        "Target": "Джек{Line}«Ладно, принимаю правило {Color Blue}„Сложение“{Color White}».{End}",
         "Source Text SHA256": "CE0BE1AE54C0091990C31CCF30DD43191DAC67B20850CBCDDB5493D07E9C6E17",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -178,7 +178,7 @@
         }
       },
       "$en_rgroad21_0017_ctx_2206e05ce4778d04": {
-        "Target": "{X42Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Сложение»{Color White}.{End}",
+        "Target": "{X42Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Сложение“{Color White}».{End}",
         "Source Text SHA256": "CE0BE1AE54C0091990C31CCF30DD43191DAC67B20850CBCDDB5493D07E9C6E17",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -186,7 +186,7 @@
         }
       },
       "$en_rgroad21_0017_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Сложение»{Color White}.{End}",
+        "Target": "{X10Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Сложение“{Color White}».{End}",
         "Source Text SHA256": "CE0BE1AE54C0091990C31CCF30DD43191DAC67B20850CBCDDB5493D07E9C6E17",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -194,7 +194,7 @@
         }
       },
       "$en_rgroad21_0018": {
-        "Target": "Джек{Line}Ладно, принимаю правило {Color Blue}«Случайные»{Color White}.{End}",
+        "Target": "Джек{Line}«Ладно, принимаю правило {Color Blue}„Случайные“{Color White}».{End}",
         "Source Text SHA256": "C1CC2E78A49E7631E82031503F06041DAA569329DF19B91E4C000712FE650527",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -202,7 +202,7 @@
         }
       },
       "$en_rgroad21_0018_ctx_2fb1ab590f71854a": {
-        "Target": "{X31Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Случайные»{Color White}.{End}",
+        "Target": "{X31Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Случайные“{Color White}».{End}",
         "Source Text SHA256": "C1CC2E78A49E7631E82031503F06041DAA569329DF19B91E4C000712FE650527",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -210,7 +210,7 @@
         }
       },
       "$en_rgroad21_0018_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Случайные»{Color White}.{End}",
+        "Target": "{X10Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Случайные“{Color White}».{End}",
         "Source Text SHA256": "C1CC2E78A49E7631E82031503F06041DAA569329DF19B91E4C000712FE650527",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -218,7 +218,7 @@
         }
       },
       "$en_rgroad21_0019": {
-        "Target": "Джек{Line}Ладно, принимаю правило {Color Blue}«Внезапная смерть»{Color White}.{End}",
+        "Target": "Джек{Line}«Ладно, принимаю правило {Color Blue}„Внезапная смерть“{Color White}».{End}",
         "Source Text SHA256": "900D4B53A0B3D921B3B4C25CC0F4A29B8AAE4E6F5A29F82FA754A39B9F6908E0",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -226,7 +226,7 @@
         }
       },
       "$en_rgroad21_0019_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Внезапная смерть»{Color White}.{End}",
+        "Target": "{X10Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Внезапная смерть“{Color White}».{End}",
         "Source Text SHA256": "900D4B53A0B3D921B3B4C25CC0F4A29B8AAE4E6F5A29F82FA754A39B9F6908E0",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -234,7 +234,7 @@
         }
       },
       "$en_rgroad21_0019_ctx_e6cfca2b9c8d7d32": {
-        "Target": "{X12Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Внезапная смерть»{Color White}.{End}",
+        "Target": "{X12Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Внезапная смерть“{Color White}».{End}",
         "Source Text SHA256": "900D4B53A0B3D921B3B4C25CC0F4A29B8AAE4E6F5A29F82FA754A39B9F6908E0",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -250,7 +250,7 @@
         }
       },
       "$en_rgroad21_0021": {
-        "Target": "Джек{Line}Ладно, принимаю правило {Color Blue}«Та же стена»{Color White}.{End}",
+        "Target": "Джек{Line}«Ладно, принимаю правило {Color Blue}„Та же стена“{Color White}».{End}",
         "Source Text SHA256": "F8D0F2816BAD337C5B49CB223ED10E720FE3D07BEF4F4681F11AB19F00414BDB",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -258,7 +258,7 @@
         }
       },
       "$en_rgroad21_0021_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Та же стена»{Color White}.{End}",
+        "Target": "{X10Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Та же стена“{Color White}».{End}",
         "Source Text SHA256": "F8D0F2816BAD337C5B49CB223ED10E720FE3D07BEF4F4681F11AB19F00414BDB",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -266,7 +266,7 @@
         }
       },
       "$en_rgroad21_0021_ctx_eaca32e9ad59b757": {
-        "Target": "{X24Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Та же стена»{Color White}.{End}",
+        "Target": "{X24Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Та же стена“{Color White}».{End}",
         "Source Text SHA256": "F8D0F2816BAD337C5B49CB223ED10E720FE3D07BEF4F4681F11AB19F00414BDB",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -274,7 +274,7 @@
         }
       },
       "$en_rgroad21_0022": {
-        "Target": "Джек{Line}Ладно, принимаю правило {Color Blue}«Стихийное поле»{Color White}.{End}",
+        "Target": "Джек{Line}«Ладно, принимаю правило {Color Blue}„Стихийное поле“{Color White}».{End}",
         "Source Text SHA256": "EEFF7C14716A8B279591836B9ED33F3A9F1DCEDF828573AF6B5AFE24AE963B81",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -282,7 +282,7 @@
         }
       },
       "$en_rgroad21_0022_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Стихийное поле»{Color White}.{End}",
+        "Target": "{X10Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Стихийное поле“{Color White}».{End}",
         "Source Text SHA256": "EEFF7C14716A8B279591836B9ED33F3A9F1DCEDF828573AF6B5AFE24AE963B81",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -290,7 +290,7 @@
         }
       },
       "$en_rgroad21_0022_ctx_eb3196a1b015e111": {
-        "Target": "{X25Y10}Джек{Line}Ладно, принимаю правило {Color Blue}«Стихийное поле»{Color White}.{End}",
+        "Target": "{X25Y10}Джек{Line}«Ладно, принимаю правило {Color Blue}„Стихийное поле“{Color White}».{End}",
         "Source Text SHA256": "EEFF7C14716A8B279591836B9ED33F3A9F1DCEDF828573AF6B5AFE24AE963B81",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -298,7 +298,7 @@
         }
       },
       "$en_rgroad21_0023": {
-        "Target": "{X45Y10}Джек{Line}Хм... Правило {Color Blue}«В открытую»{Color White} не принимаю.{End}",
+        "Target": "{X45Y10}Джек{Line}«Хм... Правило {Color Blue}„В открытую“{Color White} не принимаю».{End}",
         "Source Text SHA256": "B43C39768DE4A94E8BC950187029A8DC803B8ADE3CBA2440CF1BDDBFF8D4A300",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -306,7 +306,7 @@
         }
       },
       "$en_rgroad21_0024": {
-        "Target": "{X43Y10}Джек{Line}Хм... Правило {Color Blue}«Одинаковые»{Color White} не принимаю.{End}",
+        "Target": "{X43Y10}Джек{Line}«Хм... Правило {Color Blue}„Одинаковые“{Color White} не принимаю».{End}",
         "Source Text SHA256": "231890AB32550EF44597E7891908649936DACDFB862D42917E8FB2E02D63D1AD",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -314,7 +314,7 @@
         }
       },
       "$en_rgroad21_0025": {
-        "Target": "{X47Y10}Джек{Line}Хм... Правило {Color Blue}«Сложение»{Color White} не принимаю.{End}",
+        "Target": "{X47Y10}Джек{Line}«Хм... Правило {Color Blue}„Сложение“{Color White} не принимаю».{End}",
         "Source Text SHA256": "746ACB636603345B223527A3FEE5310B7237C8C00C9ABB52A99B7FFE8818F4B6",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -322,7 +322,7 @@
         }
       },
       "$en_rgroad21_0026": {
-        "Target": "{X36Y10}Джек{Line}Хм... Правило {Color Blue}«Случайные»{Color White} не принимаю.{End}",
+        "Target": "{X36Y10}Джек{Line}«Хм... Правило {Color Blue}„Случайные“{Color White} не принимаю».{End}",
         "Source Text SHA256": "697EED28F748F6C39DE76AA5BC1BFB87673915E4E9070FCC8FE89A532E099FED",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -330,7 +330,7 @@
         }
       },
       "$en_rgroad21_0027": {
-        "Target": "{X17Y10}Джек{Line}Хм... Правило {Color Blue}«Внезапная смерть»{Color White} не принимаю.{End}",
+        "Target": "{X17Y10}Джек{Line}«Хм... Правило {Color Blue}„Внезапная смерть“{Color White} не принимаю».{End}",
         "Source Text SHA256": "486023B159F42A7BF6595A8E7EDC0120932A3CFA1D2750BF5147C7CC84209D1A",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -346,7 +346,7 @@
         }
       },
       "$en_rgroad21_0029": {
-        "Target": "{X29Y10}Джек{Line}Хм... Правило {Color Blue}«Та же стена»{Color White} не принимаю.{End}",
+        "Target": "{X29Y10}Джек{Line}«Хм... Правило {Color Blue}„Та же стена“{Color White} не принимаю».{End}",
         "Source Text SHA256": "97EE33B5DD3676D6B55D38DCA7250C00EE8BF5B344EF9108B8A0A5DFBEA80045",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -354,7 +354,7 @@
         }
       },
       "$en_rgroad21_0030": {
-        "Target": "{X30Y10}Джек{Line}Хм... Правило {Color Blue}«Стихийное поле»{Color White} не принимаю.{End}",
+        "Target": "{X30Y10}Джек{Line}«Хм... Правило {Color Blue}„Стихийное поле“{Color White} не принимаю».{End}",
         "Source Text SHA256": "BBE3C8FA8BA1E5B25152DBFAA0D126B142D1559CC228887C035E7300EF583CE1",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -362,7 +362,7 @@
         }
       },
       "$en_rgroad21_0031": {
-        "Target": "Баламб{End}",
+        "Target": "«Баламб»{End}",
         "Source Text SHA256": "588E5A0C901DA9573BBFBCBC7DFC0417D41958591E7B88A88BE8260A8E72379B",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -378,7 +378,7 @@
         }
       },
       "$en_rgroad21_0033": {
-        "Target": "Трабия{End}",
+        "Target": "«Трабия»{End}",
         "Source Text SHA256": "F6AD33B6D709C41DF449BD5FFB8E0DE328B2BA50FE0976CC8D226CAD719E3C55",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -386,7 +386,7 @@
         }
       },
       "$en_rgroad21_0034": {
-        "Target": "Центра{End}",
+        "Target": "«Центра»{End}",
         "Source Text SHA256": "CF88B33D26A1274D2E43EFA6F5EB9FC39F62B83DE681E3D4D1C0DA4C44AED747",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -394,7 +394,7 @@
         }
       },
       "$en_rgroad21_0035": {
-        "Target": "Доллет{End}",
+        "Target": "«Доллет»{End}",
         "Source Text SHA256": "B0ABB598561F8B0A690C33A749348FF34C27B05031641DC0A66285D736143E59",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -418,7 +418,7 @@
         }
       },
       "$en_rgroad21_0038": {
-        "Target": "Эстар{End}",
+        "Target": "«Эстар»{End}",
         "Source Text SHA256": "FDFFD6B74CF8BA356D3DEF39577EB22D67E187554B864637C9ABCECA5C0789B3",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",
@@ -426,7 +426,7 @@
         }
       },
       "$en_rgroad21_0039": {
-        "Target": "Без дополнительных правил{End}",
+        "Target": "«Без дополнительных правил»{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "949947A7AAB9AAB8912F0D0A740CFE05A7B27A1B8C506B9C63F2E75B22FC1CC4",

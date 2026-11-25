@@ -26,7 +26,7 @@
         }
       },
       "$en_bghall1a_0003": {
-        "Target": "{X60Y40}Xu{Line}”{Char Squall}! Они проходят{Line} через {Color Blue}[главные ворота]!{Color White}!“{End}",
+        "Target": "{X60Y40}Сю{Line}«{Char Squall}! Они проходят{Line} через {Color Blue}[главные ворота]!{Color White}!»{End}",
         "Source Text SHA256": "90478C0FF66643DE4DE700544E99770FAF9ADDA6371BCDD48D6357802D2EB5B0",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bghall1a_0004": {
-        "Target": "{X26Y10}Nida{Line}”{Char Squall}! Отправляйся {Color Blue}в [аудиторию{Color White}{Line} на 2 этаже]. Враг заходит сверху.“{End}",
+        "Target": "{X26Y10}Нида{Line}«{Char Squall}! Отправляйся {Color Blue}в [аудиторию{Color White}{Line} на 2 этаже]. Враг заходит сверху».{End}",
         "Source Text SHA256": "3BF97D828D2AE1406E22AA956FFCB3CEA9C31993A82CE9661DE2619AA0B574FC",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bghall1a_0005": {
-        "Target": "{X50Y130}{Char Squall}{Line}Идём в [аудиторию{Line}{Color Blue}на 2 этаже].{Color White}Пошли!{End}",
+        "Target": "{X50Y130}{Char Squall}{Line}«Идём в [аудиторию{Line}{Color Blue}на 2 этаже].{Color White}Пошли!»{End}",
         "Source Text SHA256": "CD244984C4C006E41A4F13CC28943AE42EE663F99AF23C741B07792F2194FD72",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bghall1a_0006": {
-        "Target": "{X50Y10}Но я хочу, чтобы вы меня выслушали...{Line} У нас всё ещё есть шанс на{Line} победу, и мне нужна ваша помощь.{End}",
+        "Target": "{X50Y10}«Но я хочу, чтобы вы меня выслушали...{Line} У нас всё ещё есть шанс на{Line} победу, и мне нужна ваша помощь».{End}",
         "Source Text SHA256": "994469FFE49ADF059E63DD0002533A320720E2C2D3225E7968C8E5CB67D5D885",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bghall1a_0007": {
-        "Target": "{X35Y10}Сейчас начнётся наше последнее сражение.{Line} Мы атакуем их прежде, чем{Line} они снова войдут.{End}",
+        "Target": "{X35Y10}«Сейчас начнётся наше последнее сражение.{Line} Мы атакуем их прежде, чем{Line} они снова войдут».{End}",
         "Source Text SHA256": "C538F228E5F062D37276527F5A021292A5F32F64EEA810C9DE8D360195553503",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bghall1a_0008": {
-        "Target": "{X10Y10}Forward Defense Personnel{Line}Удачи, {Char Squall}{Line} . Мы всё время будем рядом.{End}",
+        "Target": "{X10Y10}Боец передовой обороны{Line}«Удачи, {Char Squall}.{Line}Мы всё время будем рядом».{End}",
         "Source Text SHA256": "04481B05BBCAFF7D5C9201D7BA54A51C67DED80A59B4E0B369DCD0706C5E5D02",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bghall1a_0009": {
-        "Target": "{X10Y10}Forward Defense Captain{Line}Мы{Next}готовы, сэр.{Line} Под вашим предводительством наш боевой дух высок.{End}",
+        "Target": "{X10Y10}Капитан передовой обороны{Line}«Мы{Next}готовы, сэр.{Line} Под вашим предводительством наш боевой дух высок».{End}",
         "Source Text SHA256": "53EAAAE2556A9CFA08F349CB727FC90F1751A8FF4292C7AF025D623E997AA00D",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bghall1a_0010": {
-        "Target": "{X10Y10}Quad Reserve Personnel{Line}Вы будете во главе отряда{Line} на [площади], {Color Blue}верно?{Color White}Я{Next}скоро там{Line} буду. Удачи!{End}",
+        "Target": "{X10Y10}Боец резерва у площади{Line}«Вы будете во главе отряда{Line} на [площади], {Color Blue}верно?{Color White} Я{Next}скоро там{Line} буду. Удачи!»{End}",
         "Source Text SHA256": "98F797C15B7CCD80C38882847ACD5A6B535E84B4C81254E05D8F3F985F0A67D2",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bghall1a_0011": {
-        "Target": "{X10Y10}Messenger{Line}Я чрезвычайно рад служить в вашем отряде.{End}",
+        "Target": "{X10Y10}Посыльный{Line}«Я чрезвычайно рад служить в вашем отряде».{End}",
         "Source Text SHA256": "4F7107C546FD4EA3E532165F56C25978641BB16C4C46047FEA3BFCF7FFFB763D",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",

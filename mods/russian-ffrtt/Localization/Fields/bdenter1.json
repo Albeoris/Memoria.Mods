@@ -26,7 +26,7 @@
         }
       },
       "$en_bdenter1_0003": {
-        "Target": "{X10Y10}“Задача: захватить низшего стража.{Line} Требуется поддержка сида.{Line} Ты готов?”",
+        "Target": "{X10Y10}«Задача: захватить низшего стража.{Line} Требуется поддержка сида.{Line} Ты готов?»",
         "Source Text SHA256": "120AB14140A89E047BD2261B2F9E8AC99D2E12E1E01340ABEC0E7863F2FE7071",
         "sourceContext": {
           "Source MSD SHA256": "5FA43C1B14FE895274C1913A5BBB7E7F724CAB3B5D9D85B69BAC7E0B9055F533",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bdenter1_0005": {
-        "Target": "{X217Y10}{Char Squall}{Line}“Я готов.”",
+        "Target": "{X217Y10}{Char Squall}{Line}«Я готов».",
         "Source Text SHA256": "4FCC4A3454F8EC08F5F765CC95EA2D41B6C2D4E55272EC884E493569BF6407FF",
         "sourceContext": {
           "Source MSD SHA256": "5FA43C1B14FE895274C1913A5BBB7E7F724CAB3B5D9D85B69BAC7E0B9055F533",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bdenter1_0006": {
-        "Target": "{X184Y10}Quistis{Line}Я – его поддержка.{End}",
+        "Target": "{X184Y10}{Char Quistis}{Line}«Я – его поддержка».{End}",
         "Source Text SHA256": "26B017305A666EE262FB40F916AF61C10FEB23CC88660F673B64642DD46D3012",
         "sourceContext": {
           "Source MSD SHA256": "5FA43C1B14FE895274C1913A5BBB7E7F724CAB3B5D9D85B69BAC7E0B9055F533",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bdenter1_0007": {
-        "Target": "{X174Y10}Quistis{Line}Инструктор номер 14,{Line} Квистис Трип.{End}",
+        "Target": "{X174Y10}{Char Quistis}{Line}«Инструктор номер 14,{Line} Квистис Трип».{End}",
         "Source Text SHA256": "0A1670C0419F1F3CAD85658C5835AB277A7F4E8343DABF8544514158B3673538",
         "sourceContext": {
           "Source MSD SHA256": "5FA43C1B14FE895274C1913A5BBB7E7F724CAB3B5D9D85B69BAC7E0B9055F533",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bdenter1_0008": {
-        "Target": "{X10Y10}“Сообщи, сколько времени тебе{Line} требуется для выполнения задачи.{Line} Но не усложняй себе жизнь,{Line} если не уверен, в собтвенных силах.”",
+        "Target": "{X10Y10}«Сообщи, сколько времени тебе{Line} требуется для выполнения задачи.{Line} Но не усложняй себе жизнь,{Line} если не уверен, в собтвенных силах».",
         "Source Text SHA256": "EE84A024F5630CA482602082043C3940FF3EC8EAA38D2D287705C200847F8C20",
         "sourceContext": {
           "Source MSD SHA256": "5FA43C1B14FE895274C1913A5BBB7E7F724CAB3B5D9D85B69BAC7E0B9055F533",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bdenter1_0010": {
-        "Target": "{X10Y10}“Очень хорошо.{Line} Желаю удачи.”",
+        "Target": "{X10Y10}«Очень хорошо.{Line} Желаю удачи».",
         "Source Text SHA256": "9E86E62C76D7F95C1AB8D10497571D5E1A2731324933D922097D613C35230164",
         "sourceContext": {
           "Source MSD SHA256": "5FA43C1B14FE895274C1913A5BBB7E7F724CAB3B5D9D85B69BAC7E0B9055F533",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bdenter1_0011": {
-        "Target": "«Задание: получить низкоуровневого GF.{Line} Поддержку оказывает боец SeeD.{Line} Осталось {Var 32} мин.»{End}",
+        "Target": "«Задание: получить низкоуровневого GF.{Line} Поддержку оказывает боец SeeD.{Line} Осталось {Var 32} мин».{End}",
         "Source Text SHA256": "A829BB3340CF085D57F9AAB9FD009DC24B9AFB9DC6D956E67EAA4F4937C40B8C",
         "sourceContext": {
           "Source MSD SHA256": "5FA43C1B14FE895274C1913A5BBB7E7F724CAB3B5D9D85B69BAC7E0B9055F533",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bdenter1_0012": {
-        "Target": "{X10Y10F1L2B1C2}“Сдаёшься?”{Line}Да{Line}Нет",
+        "Target": "{X10Y10F1L2B1C2}«Сдаёшься?»{Line}Да{Line}Нет",
         "Source Text SHA256": "F2553C311F2FAEE1A802D142693BFD7CAB4E8E99A66E7D98C0C85C31B02E981F",
         "sourceContext": {
           "Source MSD SHA256": "5FA43C1B14FE895274C1913A5BBB7E7F724CAB3B5D9D85B69BAC7E0B9055F533",

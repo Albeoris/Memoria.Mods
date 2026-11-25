@@ -26,7 +26,7 @@
         }
       },
       "$en_test11_0003": {
-        "Target": "Скволл: «А? О чём ты?»",
+        "Target": "{Char Squall}: «А? О чём ты?»",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "8418A028A2EB6EBCEEC2CEF6E351382F9A6A432EF10A8E31866CAA245D932E0D",
@@ -34,7 +34,7 @@
         }
       },
       "$en_test11_0004": {
-        "Target": "Риноа{Line}«Скволл, разве ты не знаешь?{Line}Тут появилось что-то мягкое и упругое!»{End}",
+        "Target": "{Char Rinoa}{Line}«Скволл, разве ты не знаешь?{Line}Тут появилось что-то мягкое и упругое!»{End}",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "8418A028A2EB6EBCEEC2CEF6E351382F9A6A432EF10A8E31866CAA245D932E0D",
@@ -50,7 +50,7 @@
         }
       },
       "$en_test11_0006": {
-        "Target": "Зелл: «Ну до чего же странный. Не могу устоять перед этой мягкостью».",
+        "Target": "{Char Zell}: «Ну до чего же странный. Не могу устоять перед этой мягкостью».",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "8418A028A2EB6EBCEEC2CEF6E351382F9A6A432EF10A8E31866CAA245D932E0D",

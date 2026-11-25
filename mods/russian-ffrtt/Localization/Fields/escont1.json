@@ -2,7 +2,7 @@
   "Fields": {
     "escont1": {
       "$en_escont1_0000": {
-        "Target": "{X12Y12}Все капсулы на месте. Условия{Line} внутри капсул в норме.{End}",
+        "Target": "{X12Y12}«Все капсулы на месте. Условия{Line} внутри капсул в норме».{End}",
         "Source Text SHA256": "8DA8F6FC73CAEDE9E4E0271F2EBD8E6184B0E765136CFD329E41331CD991AEEA",
         "sourceContext": {
           "Source MSD SHA256": "90FD3267565F7A3525A53291DC39549BFE090C7EA82C7B1D677C1482113AE3AC",
@@ -10,7 +10,7 @@
         }
       },
       "$en_escont1_0001": {
-        "Target": "{X160Y12}Ускорители готовы. Все{Line} системы в норме.{End}",
+        "Target": "{X160Y12}«Ускорители готовы. Все{Line} системы в норме».{End}",
         "Source Text SHA256": "2C91E89E6FFAFA5FEA1090B510B17639F992CE056A047D60DF0A10FB069D0F91",
         "sourceContext": {
           "Source MSD SHA256": "90FD3267565F7A3525A53291DC39549BFE090C7EA82C7B1D677C1482113AE3AC",
@@ -18,7 +18,7 @@
         }
       },
       "$en_escont1_0002": {
-        "Target": "{X80Y12}Коррекция погрешности запуска — плюс{Line} 2. Коррекция по орбите —{Line} минус 1. Коррекция завершена.{End}",
+        "Target": "{X80Y12}«Коррекция погрешности запуска — плюс{Line} 2. Коррекция по орбите —{Line} минус 1. Коррекция завершена».{End}",
         "Source Text SHA256": "F613E8AB8E25EAA89B874543D40DA669FB67D7F85FC3715458A9CFBC1FA8E0EA",
         "sourceContext": {
           "Source MSD SHA256": "90FD3267565F7A3525A53291DC39549BFE090C7EA82C7B1D677C1482113AE3AC",
@@ -26,7 +26,7 @@
         }
       },
       "$en_escont1_0003": {
-        "Target": "{X140Y12}Пуск!{End}",
+        "Target": "{X140Y12}«Пуск!»{End}",
         "Source Text SHA256": "6719A0DD92A73A865232778EA9A3D1E61C1E7E015AEC9E1952F06DDA9F82006A",
         "sourceContext": {
           "Source MSD SHA256": "90FD3267565F7A3525A53291DC39549BFE090C7EA82C7B1D677C1482113AE3AC",
@@ -34,7 +34,7 @@
         }
       },
       "$en_escont1_0004": {
-        "Target": "Готово.{End}",
+        "Target": "«Готово».{End}",
         "Source Text SHA256": "20B8834547E8F0657790D42EE7C265E9DCB61781176915087FA601D4FBCE368E",
         "sourceContext": {
           "Source MSD SHA256": "90FD3267565F7A3525A53291DC39549BFE090C7EA82C7B1D677C1482113AE3AC",
@@ -42,7 +42,7 @@
         }
       },
       "$en_escont1_0004_ctx_32a23f89f75ef4f1": {
-        "Target": "{X140Y12}Готово.{End}",
+        "Target": "{X140Y12}«Готово».{End}",
         "Source Text SHA256": "20B8834547E8F0657790D42EE7C265E9DCB61781176915087FA601D4FBCE368E",
         "sourceContext": {
           "Source MSD SHA256": "90FD3267565F7A3525A53291DC39549BFE090C7EA82C7B1D677C1482113AE3AC",
@@ -50,7 +50,7 @@
         }
       },
       "$en_escont1_0004_ctx_5e23b3d971a224c0": {
-        "Target": "{X240Y12}Готово.{End}",
+        "Target": "{X240Y12}«Готово».{End}",
         "Source Text SHA256": "20B8834547E8F0657790D42EE7C265E9DCB61781176915087FA601D4FBCE368E",
         "sourceContext": {
           "Source MSD SHA256": "90FD3267565F7A3525A53291DC39549BFE090C7EA82C7B1D677C1482113AE3AC",
@@ -58,7 +58,7 @@
         }
       },
       "$en_escont1_0004_ctx_946bf576fd7da4fb": {
-        "Target": "{X12Y12}Готово.{End}",
+        "Target": "{X12Y12}«Готово».{End}",
         "Source Text SHA256": "20B8834547E8F0657790D42EE7C265E9DCB61781176915087FA601D4FBCE368E",
         "sourceContext": {
           "Source MSD SHA256": "90FD3267565F7A3525A53291DC39549BFE090C7EA82C7B1D677C1482113AE3AC",

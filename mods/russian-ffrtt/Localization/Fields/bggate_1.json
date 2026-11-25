@@ -2,7 +2,7 @@
   "Fields": {
     "bggate_1": {
       "$en_bggate_1_0000": {
-        "Target": "{X200Y30}Quistis{Line}Посмотрим...{End}",
+        "Target": "{X200Y30}{Char Quistis}{Line}«Посмотрим...»{End}",
         "Source Text SHA256": "1FAF88DD0DFAE40408D94D774FD4CBEE876BCB3BAAF136699D3FE1D71842D20F",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -10,7 +10,7 @@
         }
       },
       "$en_bggate_1_0001": {
-        "Target": "{X200Y0}Quistis{Line}Кажется, было ещё кое-что, что{Line} я должна была объяснить{Line} тебе перед экзаменом...{End}",
+        "Target": "{X200Y0}{Char Quistis}{Line}«Кажется, было ещё кое-что, что{Line} я должна была объяснить{Line} тебе перед экзаменом...»{End}",
         "Source Text SHA256": "DA5B06E88FE7E6E386076C4A2A018F01FDCA4EF2291F610934BF371665A238B4",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bggate_1_0002": {
-        "Target": "{X200Y0}Quistis{Line}Ах, да! Заботься о своих ЗС.{Line} Не забывай за ними присматривать.{End}",
+        "Target": "{X200Y0}{Char Quistis}{Line}«Ах, да! Заботься о своих ЗС.{Line} Не забывай за ними присматривать».{End}",
         "Source Text SHA256": "6B01AC06DB4BCFBA1B0B8B114919A4351DA36E81A208F0B1416D7B40F05B73AE",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bggate_1_0004": {
-        "Target": "{X200Y5}Квистис{Line}«{Char Squall}, ты кое-что{Line} забыл… Своего ЗС».{End}",
+        "Target": "{X200Y5}{Char Quistis}{Line}«{Char Squall}, ты кое-что{Line} забыл… Своего ЗС».{End}",
         "Source Text SHA256": "1D0E2786391D562074A2407B6452E72E21DFE6066D129B07DA7DCC5F614CAFE0",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bggate_1_0005": {
-        "Target": "{X200Y10}Quistis{Line}Перед тем как мы отправимся, мне{Line} нужно тебе кое-что объяснить.{End}",
+        "Target": "{X200Y10}{Char Quistis}{Line}«Перед тем как мы отправимся, мне{Line} нужно тебе кое-что объяснить».{End}",
         "Source Text SHA256": "FDA5CD0266F39D145A40D88E927A7112A3B68DA6DF74828E31205365476A3CD4",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bggate_1_0006": {
-        "Target": "{X200Y10}Quistis{Line}ЗС дают нам силу. Чем сильнее{Line} ЗС, тем сильнее становимся мы.{Next}”...So, ...Так, вот краткое пояснение{Line} по привязке ЗС.{End}",
+        "Target": "{X200Y10}{Char Quistis}{Line}«ЗС дают нам силу. Чем сильнее{Line} ЗС, тем сильнее становимся мы».{Next}«...So, ...Так, вот краткое пояснение{Line} по привязке ЗС.»{End}",
         "Source Text SHA256": "E406CF3E677000D29511AD468440C2FFAE21F7645B9FDCB192F767481E6A0EC9",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bggate_1_0007": {
-        "Target": "{X200Y10}Quistis{Line}”Пока что всё нормально?{Line} Ты всегда можешь всё перепроверить{Line} зайдя {Color Blue}в [Руководство]{Color White} из {Color Blue}[меню].{Color White}.“{End}",
+        "Target": "{X200Y10}{Char Quistis}{Line}«Пока что всё нормально?{Line} Ты всегда можешь всё перепроверить{Line} зайдя {Color Blue}в [Руководство]{Color White} из {Color Blue}[меню]{Color White}».{End}",
         "Source Text SHA256": "E02EA0AAC99F05238E083A78CA7827468F5716985FAC386BC7627D6004A371F9",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bggate_1_0008": {
-        "Target": "{X200Y10}Quistis{Line}Как только мы {Color Blue}придём к [Огненной{Color White}{Line} пещере], я объясню, как привязывать магию.{Next}Используй команду “Извлечь” во время битвы и{Line} запасай магию из своих врагов. Удостоверься, что{Line} у тебя есть немного в запасе!{End}",
+        "Target": "{X200Y10}{Char Quistis}{Line}«Как только мы {Color Blue}придём к [Огненной{Color White}{Line} пещере], я объясню, как привязывать магию».{Next}«Используй команду “Извлечь” во время битвы и{Line} запасай магию из своих врагов. Удостоверься, что{Line} у тебя есть немного в запасе!»{End}",
         "Source Text SHA256": "E16152DB0394950FFDC5D923942E96D3700BAB1D623F77EEC3BBF48862D1DA8F",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bggate_1_0009": {
-        "Target": "{X200Y8}Quistis{Line}Готов идти?{Next}[Огненная {Color Blue}пещера] служит{Color White} местом для проведения испытания.{Line} Она расположена {Color Blue}[на востоке отсюда].{Color White}.“{End}",
+        "Target": "{X200Y8}{Char Quistis}{Line}«Готов идти?»{Next}«[Огненная {Color Blue}пещера] служит{Color White} местом для проведения испытания.{Line} Она расположена {Color Blue}[на востоке отсюда]{Color White}».{End}",
         "Source Text SHA256": "F9B3874A467D06A5E0AF87E6638ABF3C775360163B58F97B4D73D9AB8087944A",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bggate_1_0010": {
-        "Target": "{X200Y8}Квистис{Line}«Хм? Ты что-то забыл?»{Next}«Ладно, подожду тебя{Line} здесь».{End}",
+        "Target": "{X200Y8}{Char Quistis}{Line}«Хм? Ты что-то забыл?»{Next}«Ладно, подожду тебя{Line} здесь».{End}",
         "Source Text SHA256": "5F51645BB3CB3654EDA509443BCE9F336720F1AB7DE7A9E6065ADDD3FF713688",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bggate_1_0011": {
-        "Target": "{X200Y30}Quistis{Line}Молодец.{End}",
+        "Target": "{X200Y30}{Char Quistis}{Line}«Молодец».{End}",
         "Source Text SHA256": "8A21DCAB22D48A2FB177BB71D7507C4E978318808981DFDB3A705CBA33A0FECD",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bggate_1_0012": {
-        "Target": "{X200Y10}Quistis{Line}”Теперь переоденься в свою униформу, собираемся{Line} в [вестибюле на {Color Blue}1-м этаже].{Color White}.“{End}",
+        "Target": "{X200Y10}{Char Quistis}{Line}«Теперь переоденься в свою униформу, собираемся{Line} в [вестибюле на {Color Blue}1-м этаже]{Color White}».{End}",
         "Source Text SHA256": "84610156036751F1F92E1A1031A78525EDC0F34CE4E7F281C6F479F479737356",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bggate_1_0013": {
-        "Target": "{X15Y8}Квистис{Line}«Переоденешься — встречаемся в {Color Blue}〖вестибюле на первом этаже〗{Color White}».{End}",
+        "Target": "{X15Y8}{Char Quistis}{Line}«Переоденешься — встречаемся в {Color Blue}〖вестибюле на первом этаже〗{Color White}».{End}",
         "Source Text SHA256": "CC0C3D8014FD242127D1A871B8B2A363A3F561C85F6F1ABDC47A13402C819775",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bggate_1_0014": {
-        "Target": "{X40Y8}Zell{Line}Эээээээээхх!{End}",
+        "Target": "{X40Y8}{Char Zell}{Line}«Эээээээээхх!»{End}",
         "Source Text SHA256": "193AC63F90BA37241D8E744616D0A68E08A3A884904DDD30BB86AE4B988A4F85",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bggate_1_0015": {
-        "Target": "{X40Y8}Zell{Line}Наконец-то вернулись...{End}",
+        "Target": "{X40Y8}{Char Zell}{Line}«Наконец-то вернулись...»{End}",
         "Source Text SHA256": "97C3A6408BCA2D5D8FAD66DB30F113B1988162DB087199502BA5895259230415",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bggate_1_0016": {
-        "Target": "{X200Y8}Selphie{Line}Серьёзно...{End}",
+        "Target": "{X200Y8}{Char Selphie}{Line}«Серьёзно...»{End}",
         "Source Text SHA256": "CDDA8BCD80ECE4E53D0BCB49D0EDCF769A8FD88FF30CF7F3935064B7DD2FDC72",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bggate_1_0017": {
-        "Target": "{X40Y8}Zell{Line}Что ж, думаю, мы{Line} просто подождём результатов экзамена.{End}",
+        "Target": "{X40Y8}{Char Zell}{Line}«Что ж, думаю, мы{Line} просто подождём результатов экзамена».{End}",
         "Source Text SHA256": "772071288DA846ACCCA8877A4935081025397D0AF77ECE72C8ECBE1FD0750E22",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bggate_1_0018": {
-        "Target": "{X40Y8}Zell{Line}”Пока тогда.{Line} Увидимся, {Char Squall}..“{End}",
+        "Target": "{X40Y8}{Char Zell}{Line}«Пока тогда.{Line} Увидимся, {Char Squall}..»{End}",
         "Source Text SHA256": "200AE0F84D3A3C8D6FAE659C7B268BB695F1DEF0F3994742244387A0B0608238",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bggate_1_0019": {
-        "Target": "{X200Y8}Selphie{Line}Увидимся!{End}",
+        "Target": "{X200Y8}{Char Selphie}{Line}«Увидимся!»{End}",
         "Source Text SHA256": "294802EBA03496B33E920C1EB5E5F3069250925B14B11366128153E09BED99A0",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bggate_1_0020": {
-        "Target": "{X8Y8}Zell{Line}Отлично! Сад цел!{End}",
+        "Target": "{X8Y8}{Char Zell}{Line}«Отлично! Сад цел!»{End}",
         "Source Text SHA256": "7CD7F2C3E89C99A9D7FBB44688DF4DECFC569816EABA730C371597361B00205A",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -178,7 +178,7 @@
         }
       },
       "$en_bggate_1_0022": {
-        "Target": "{X8Y8}Quistis{Line}Кажется, всё в{Line} порядке. Как же я рада.{End}",
+        "Target": "{X8Y8}{Char Quistis}{Line}«Кажется, всё в{Line} порядке. Как же я рада».{End}",
         "Source Text SHA256": "61F3774FBEBD82A39D3A7429560E5E5BC962DFA075EFF0901E4CE2B7133ADE81",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -186,7 +186,7 @@
         }
       },
       "$en_bggate_1_0023": {
-        "Target": "{X8Y8}Ирвин{Line}«Хм. Не похоже, что по Саду ударили».{End}",
+        "Target": "{X8Y8}{Char Irvine}{Line}«Хм. Не похоже, что по Саду ударили».{End}",
         "Source Text SHA256": "4B1CD870780C677B30C21027AB3B8E55D4DA6F7C0965551012F9ABF16FA51EEC",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",
@@ -210,7 +210,7 @@
         }
       },
       "$en_bggate_1_0026": {
-        "Target": "{X30Y8}{Char Squall}{Line}Нужно скорее доложить директору,{Line} идём.{End}",
+        "Target": "{X30Y8}{Char Squall}{Line}«Нужно скорее доложить директору,{Line} идём».{End}",
         "Source Text SHA256": "86B68C20D9F990941B5CBE5952DDB5A03F58570BC86B6FFC222381F3A1C3390F",
         "sourceContext": {
           "Source MSD SHA256": "AB321B755BF9A1E679905B3A29759AF0D924D5F6B917F105AE82BB2D39B5D772",

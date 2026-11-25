@@ -258,7 +258,7 @@
         }
       },
       "$en_bgsido_4_0032": {
-        "Target": "{X10Y160}Ирвин{Line}«Эй, эй, эй, это что такое?{Line} А меня не позвали?»{End}",
+        "Target": "{X10Y160}{Char Irvine}{Line}«Эй, эй, эй, это что такое?{Line} А меня не позвали?»{End}",
         "Source Text SHA256": "4DD9ECA495BF4C476810C53E4A585E963775C6427C4EA9C7E0D546DE8B39D549",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -266,7 +266,7 @@
         }
       },
       "$en_bgsido_4_0033": {
-        "Target": "{X10Y160}Ирвин{Line}«Да ладно тебе, {Char Squall}!..»{End}",
+        "Target": "{X10Y160}{Char Irvine}{Line}«Да ладно тебе, {Char Squall}!..»{End}",
         "Source Text SHA256": "44E4FD58ECF7F4A88C2D47AE461FC53ED9037C195CAFBD5C58BCB75D3F9CC38F",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -282,7 +282,7 @@
         }
       },
       "$en_bgsido_4_0035": {
-        "Target": "{X10Y10}Nida{Line}Смотри!{End}",
+        "Target": "{X10Y10}Нида{Line}«Смотри!»{End}",
         "Source Text SHA256": "287E24B2C335D58E3E7CD2740ADF355DC9E04FD00819AA5916A12A76C67331CE",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -290,7 +290,7 @@
         }
       },
       "$en_bgsido_4_0036": {
-        "Target": "{X10Y10}Nida{Line}Там командует Сейфер. Они{Line} летят прямо на нас!{End}",
+        "Target": "{X10Y10}Нида{Line}«Там командует Сейфер. Они{Line} летят прямо на нас!»{End}",
         "Source Text SHA256": "AADA3C58142EA7C96D73606C3476E5D0E16D7E8399E5B07ED4E2D3F3F7D90E20",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -298,7 +298,7 @@
         }
       },
       "$en_bgsido_4_0037": {
-        "Target": "{X10Y10}{Char Squall}{Line}Продолжай лететь прямо.{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}«Продолжай лететь прямо».{End}",
         "Source Text SHA256": "7EE8C25988CEF4EF3147D84A5D9A05FAF5B09562020482E03C7604F0C8F974E2",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -314,7 +314,7 @@
         }
       },
       "$en_bgsido_4_0039": {
-        "Target": "Зелл{Line}«Вот чёрт! Да они профессионалы!{Line} Всё прибывают на своих мотоциклах».{End}",
+        "Target": "{Char Zell}{Line}«Вот чёрт! Да они профессионалы!{Line} Всё прибывают на своих мотоциклах».{End}",
         "Source Text SHA256": "010B9D0FEFA0F93392C1B311E2AEE0EEDA309A76FBBEE17BC33933D09A635336",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -322,7 +322,7 @@
         }
       },
       "$en_bgsido_4_0040": {
-        "Target": "{Char Squall}{Line}Риноа! ДЕРЖИСЬ!{Line} МЫ СЕЙЧАС ВЕРНЁМСЯ!{End}",
+        "Target": "{Char Squall}{Line}«Риноа! ДЕРЖИСЬ!{Line} МЫ СЕЙЧАС ВЕРНЁМСЯ!»{End}",
         "Source Text SHA256": "89D8281A768E4706B9B1A269AF80E3452710FD736398A1946305525F2CD05A26",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -330,7 +330,7 @@
         }
       },
       "$en_bgsido_4_0041": {
-        "Target": "{X10Y10}Nida{Line}Мы сейчас разобьёмся!!!{End}",
+        "Target": "{X10Y10}Нида{Line}«Мы сейчас разобьёмся!!!»{End}",
         "Source Text SHA256": "41D3EDF78B92294D4AE04DFEB1B0D30648853F038EC40460439C463D29D95FFB",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -338,7 +338,7 @@
         }
       },
       "$en_bgsido_4_0042": {
-        "Target": "{Char Squall}{Line}Уходи вправо!{End}",
+        "Target": "{Char Squall}{Line}«Уходи вправо!»{End}",
         "Source Text SHA256": "C95D0790C4A9E3BA998E5CF4441DAEFDD66E85D8D3993397FF4B62F4361A71D4",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -386,7 +386,7 @@
         }
       },
       "$en_bgsido_4_0048": {
-        "Target": "{X80Y20}”{Pause 128}...{Pause 128}...{Pause 96} ...Послушайте все. Говорит {Char Squall}..“{End}",
+        "Target": "{X80Y20}«{Pause 128}...{Pause 128}...{Pause 96} ...Послушайте все. Говорит {Char Squall}..»{End}",
         "Source Text SHA256": "A000D258B693934646B32038E1F828D9AC70A0B8F360947712CA41669F01D729",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -394,7 +394,7 @@
         }
       },
       "$en_bgsido_4_0049": {
-        "Target": "{X21Y10}Как вы? Вы{Line} все, наверное, так устали после{Line} этих боёв, что и встать не можете.{End}",
+        "Target": "{X21Y10}«Как вы? Вы{Line} все, наверное, так устали после{Line} этих боёв, что и встать не можете».{End}",
         "Source Text SHA256": "A59AEF36F2AA16B8F892B03C97AED35734EB4ED06F397C1620CBA3915C2AD85F",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -402,7 +402,7 @@
         }
       },
       "$en_bgsido_4_0050": {
-        "Target": "{X50Y10}Dr. Kadowaki{Line}Ты молодец.{Line} Это было прекрасно.{End}",
+        "Target": "{X50Y10}Доктор Кадоваки{Line}«Ты молодец.{Line} Это было прекрасно».{End}",
         "Source Text SHA256": "809B620CB41C16BB009E64DBD726B8B1F7251A5B31C562F8D2B342E155170162",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -410,7 +410,7 @@
         }
       },
       "$en_bgsido_4_0051": {
-        "Target": "{X50Y10}Dr. Kadowaki{Line}Хорошо! Давай вломимся к ним!{End}",
+        "Target": "{X50Y10}Доктор Кадоваки{Line}«Хорошо! Давай вломимся к ним!»{End}",
         "Source Text SHA256": "1640AE49AEAA4264831F19626E8CB222A87FA9E5F62C70B61F27E08849FF6BE3",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",
@@ -418,7 +418,7 @@
         }
       },
       "$en_bgsido_4_0052": {
-        "Target": "{X10Y10}Dr. Kadowaki{Line}ООО, ДААА!!!{Line}{Line} Мы внутри!{End}",
+        "Target": "{X10Y10}Доктор Кадоваки{Line}«ООО, ДААА!!!{Line}{Line} Мы внутри!»{End}",
         "Source Text SHA256": "66023671FE91A24F991630CCBD486979D1049C6103085C93F23972BCD1BADCE1",
         "sourceContext": {
           "Source MSD SHA256": "08F5FA6BCCA47CEE73FC7F404A036309E175EBD0795D1B53EB07CA097628CEF1",

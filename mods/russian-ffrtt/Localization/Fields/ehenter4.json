@@ -26,7 +26,7 @@
         }
       },
       "$en_ehenter4_0003": {
-        "Target": "{X90Y10}{Char Rinoa}{Line}”{Char Squall}! Пойдём{Line} домой! Где ты?!“{End}",
+        "Target": "{X90Y10}{Char Rinoa}{Line}«{Char Squall}! Пойдём{Line} домой! Где ты?!»{End}",
         "Source Text SHA256": "9BCC1E4C45AD62338159A71492D4856D76DA62F07C9CD40EA57544BF8123152F",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ehenter4_0005": {
-        "Target": "{X64Y10}”{Char Squall}! Куда ты?!“{End}",
+        "Target": "{X64Y10}«{Char Squall}! Куда ты?!»{End}",
         "Source Text SHA256": "5AF0ABC04FBEBEDC49502D287E0FF128F435750503322542B85BA6A3525057B0",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ehenter4_0006": {
-        "Target": "{X166Y120}Я найду сестру!{End}",
+        "Target": "{X166Y120}«Я найду сестру!»{End}",
         "Source Text SHA256": "EFC375CDC3F6802D6325719CCA8A51D1357657EA4884BD42420E65551F55D906",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ehenter4_0007": {
-        "Target": "{X50Y10}Edea{Line}”{Char Squall}!!“{End}",
+        "Target": "{X50Y10}{Char Edea}{Line}«{Char Squall}!!»{End}",
         "Source Text SHA256": "5ABB036F5382847CAB2887015BF55706597D4BCC6079E257730517A5E319C557",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ehenter4_0009": {
-        "Target": "{X10Y10}Edea{Line}Простите. Вы{Line} паренька здесь не видели?{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Простите. Вы{Line} паренька здесь не видели?»{End}",
         "Source Text SHA256": "0D17D71AFE00280623AC998DD9A72729D00C126A0F8559A4AE17CE86580DC885",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ehenter4_0010": {
-        "Target": "{X111Y10}{Char Squall}{Line}Вам не о чем{Line} волноваться. Паренёк никуда не денется.{End}",
+        "Target": "{X111Y10}{Char Squall}{Line}«Вам не о чем{Line} волноваться. Паренёк никуда не денется».{End}",
         "Source Text SHA256": "60C3D551E329D5D324FC3B1C8405A309AE1D3886E929A03F5B31ACBCAC491F3B",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ehenter4_0011": {
-        "Target": "{X10Y10}Edea{Line}Я тоже так{Line} думаю. Бедняга...{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Я тоже так{Line} думаю. Бедняга...»{End}",
         "Source Text SHA256": "C8EF074670999FCDB09FF05F9A8FFDB9A198708C09D525EED337AE354B53E034",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ehenter4_0012": {
-        "Target": "{X183Y10}{Char Squall}{Line}...Ты жива?!{End}",
+        "Target": "{X183Y10}{Char Squall}{Line}«...Ты жива?!»{End}",
         "Source Text SHA256": "AD922B6BB2F7882CAD069ACF1D65628D45CE50A8366CB5DD715D5D46534B1C1E",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ehenter4_0013": {
-        "Target": "{X10Y10}Sorceress Ultimecia{Line}Я... пока ещё... не могу исчезнуть.{End}",
+        "Target": "{X10Y10}Волшебница Ультимеция{Line}«Я... пока ещё... не могу исчезнуть».{End}",
         "Source Text SHA256": "D23AD758D925159261D6301522E85EA269918373312B84CA3278C2E0B4F3D4CD",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ehenter4_0014": {
-        "Target": "{X10Y30}Edea{Line}...Волшебница?{End}",
+        "Target": "{X10Y30}{Char Edea}{Line}«...Волшебница?»{End}",
         "Source Text SHA256": "53C61954C430EFA23F8D2C90D29DD70A30309BE3E79A4B008B5DC2C5EB0F553C",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ehenter4_0015": {
-        "Target": "{X201Y20}{Char Squall}{Line}Да, Матрона.{End}",
+        "Target": "{X201Y20}{Char Squall}{Line}«Да, Матрона».{End}",
         "Source Text SHA256": "11C681055A2D29FEEE1BC8F1F2D475F73B9B013C432845FB0CF14CD23CE47D5B",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ehenter4_0016": {
-        "Target": "{X141Y20}{Char Squall}{Line}Мы победили её...{End}",
+        "Target": "{X141Y20}{Char Squall}{Line}«Мы победили её...»{End}",
         "Source Text SHA256": "C9420AB5AAC51333839A7407E0B17101169BF6D794FC25819E544F0CE13C415F",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ehenter4_0017": {
-        "Target": "{X155Y20}{Char Squall}{Line}Матрона, отойдите.{End}",
+        "Target": "{X155Y20}{Char Squall}{Line}«Матрона, отойдите».{End}",
         "Source Text SHA256": "D4538F742AA653A684E6B2671F260DBF48A8401C113A2C43C37B37AA42080406",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ehenter4_0018": {
-        "Target": "{X10Y10}Edea{Line}Всё{Line} в порядке. Незачем больше сражаться.{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Всё{Line} в порядке. Незачем больше сражаться».{End}",
         "Source Text SHA256": "E70B02F0C5AF6AA3C8A2999E51142E1795AEB84B05A05233C5842E84D3DCABEF",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ehenter4_0019": {
-        "Target": "{X10Y10}Edea{Line}Эта волшебница всего лишь ищет, кому{Line} передать свою силу.{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Эта волшебница всего лишь ищет, кому{Line} передать свою силу».{End}",
         "Source Text SHA256": "2FC73F2F2484886E5543AAA14B97D8304949C15F4D926C2BC96F2200924C9B7F",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ehenter4_0020": {
-        "Target": "{X10Y10}Edea{Line}Чтобы спокойно умереть, волшебница должна освободиться от всех{Line} своих сил. Я знаю... потому как{Line} я сама одна из них.{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Чтобы спокойно умереть, волшебница должна освободиться от всех{Line} своих сил. Я знаю... потому как{Line} я сама одна из них».{End}",
         "Source Text SHA256": "2A30CB696D96B7F3F6283620540B8E7042B08EB8E326727E83A00DC57503BA34",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ehenter4_0021": {
-        "Target": "{X10Y10}Edea{Line}Я приму силы этой{Line} волшебницы. Я не хочу, чтобы{Line} ею стал кто-то из детей.{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Я приму силы этой{Line} волшебницы. Я не хочу, чтобы{Line} ею стал кто-то из детей».{End}",
         "Source Text SHA256": "FF37CA2FBEF461775B03D126987083DFD590AAA19BB0FE655B12C211DBA16A40",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -178,7 +178,7 @@
         }
       },
       "$en_ehenter4_0022": {
-        "Target": "{X232Y30}{Char Squall}{Line}Матрона!{End}",
+        "Target": "{X232Y30}{Char Squall}{Line}«Матрона!»{End}",
         "Source Text SHA256": "2811949C52CF19893F62D819E32C00613E1145274C3BCABC0FBA3B232AB89492",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ehenter4_0023": {
-        "Target": "{X10Y10}Edea{Line}Это... конец?{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Это... конец?»{End}",
         "Source Text SHA256": "414514D86CAC08E6F698E0F59E1D23CD38684A77D402AD461FFDFD8F9CBE43D3",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -194,7 +194,7 @@
         }
       },
       "$en_ehenter4_0024": {
-        "Target": "{X200Y70}{Char Squall}{Line}…Скорее всего.{End}",
+        "Target": "{X200Y70}{Char Squall}{Line}«…Скорее всего».{End}",
         "Source Text SHA256": "7D8EE01B311486E1C6F8768DB986AFCE9981F177998EA01D23D5E329496E35B4",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -202,7 +202,7 @@
         }
       },
       "$en_ehenter4_0025": {
-        "Target": "{X10Y10}Edea{Line}Ты назвал меня Матроной.{Line} Кто... ты?{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Ты назвал меня Матроной.{Line} Кто... ты?»{End}",
         "Source Text SHA256": "F54595CBA09276498283D6301F231704CB623ED0AF4420DA3A2B507AE09850CF",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -210,7 +210,7 @@
         }
       },
       "$en_ehenter4_0026": {
-        "Target": "{X150Y10}{Char Squall}{Line}Я{Line} - Сид. Сид из сада Баламб.{End}",
+        "Target": "{X150Y10}{Char Squall}{Line}«Я{Line} - Сид. Сид из сада Баламб».{End}",
         "Source Text SHA256": "952E4CA452173FA6A5294C1D4C65BFDCA4961D34DD4DD68F29E173DDAC12F2CD",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -218,7 +218,7 @@
         }
       },
       "$en_ehenter4_0027": {
-        "Target": "{X10Y10}Edea{Line}Сид? Сада?{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Сид? Сада?»{End}",
         "Source Text SHA256": "0BA4BD5183BA70FF11217DAB460F4B6BD7E0EEDE7F5FB60EC0439BA32EF5962E",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -226,7 +226,7 @@
         }
       },
       "$en_ehenter4_0028": {
-        "Target": "{X36Y10}{Char Squall}{Line}Сад и Сид были вашей идеей.{End}",
+        "Target": "{X36Y10}{Char Squall}{Line}«Сад и Сид были вашей идеей».{End}",
         "Source Text SHA256": "9C9C29D91C5131C44D350FBD7E7673A71E2327BF362325138176434C4A31BF89",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -234,7 +234,7 @@
         }
       },
       "$en_ehenter4_0029": {
-        "Target": "{X12Y10}{Char Squall}{Line}Сад готовит{Line} Сидов. Сиды готовятся победить волшебницу.{End}",
+        "Target": "{X12Y10}{Char Squall}{Line}«Сад готовит{Line} Сидов. Сиды готовятся победить волшебницу».{End}",
         "Source Text SHA256": "EBA41A9255D630B35971C18F341DC8509ACC5C3C5AA1C06200D8F185A368DC76",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -242,7 +242,7 @@
         }
       },
       "$en_ehenter4_0030": {
-        "Target": "{X10Y10}Edea{Line}О чём ты?{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«О чём ты?»{End}",
         "Source Text SHA256": "F233B9E5C2369C7C1BA9D656D1531365A8FB56F723BA00E8B02220D953FEE0D7",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -250,7 +250,7 @@
         }
       },
       "$en_ehenter4_0031": {
-        "Target": "{X10Y10}Edea{Line}Ты... тот мальчик из будущего?{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Ты... тот мальчик из будущего?»{End}",
         "Source Text SHA256": "FEDCF45ACAC690597BECC621BBB2820A23866B554782F13357EC5B5CD9CD8284",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -258,7 +258,7 @@
         }
       },
       "$en_ehenter4_0032": {
-        "Target": "{X221Y20}{Char Squall}{Line}...Матрона.{End}",
+        "Target": "{X221Y20}{Char Squall}{Line}«...Матрона.»{End}",
         "Source Text SHA256": "457662E45F71200D934844F7AF69A63576B75CAFDC398EE28C2155D95B04DDB0",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -266,7 +266,7 @@
         }
       },
       "$en_ehenter4_0033": {
-        "Target": "{X10Y10}Edea{Line}Прошу тебя, возвращайся.{Line} Тебе здесь не место.{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Прошу тебя, возвращайся.{Line} Тебе здесь не место».{End}",
         "Source Text SHA256": "F53C5E796A2F6638DD6D7E3D59A0624CE6C69C95EC9EE984F342E583FDA0094E",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -274,7 +274,7 @@
         }
       },
       "$en_ehenter4_0034": {
-        "Target": "{X10Y50}{Char Squall}{Line}...Я не могу найти сестру.{End}",
+        "Target": "{X10Y50}{Char Squall}{Line}«...Я не могу найти сестру».{End}",
         "Source Text SHA256": "A54C95431E0A2C32D1AE004EE10F83561D0D4275AF1B73B76F20A62B73692642",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -282,7 +282,7 @@
         }
       },
       "$en_ehenter4_0035": {
-        "Target": "{X10Y50}{Char Squall}{Line}...Я... совсем один?{End}",
+        "Target": "{X10Y50}{Char Squall}{Line}«...Я... совсем один?»{End}",
         "Source Text SHA256": "A760DA61A9FCCD921F5A6A856E66F44D6D25B8560B7F9C0E5D3CF8BAD63255BE",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -290,7 +290,7 @@
         }
       },
       "$en_ehenter4_0036": {
-        "Target": "{X10Y50}{Char Squall}{Line}Кто он?{End}",
+        "Target": "{X10Y50}{Char Squall}{Line}«Кто он?»{End}",
         "Source Text SHA256": "E178136B9AA4B3AA621AD3C00913B3E24151D1D2BC5D85CEC515252198D2A7B1",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -298,7 +298,7 @@
         }
       },
       "$en_ehenter4_0037": {
-        "Target": "{X135Y10}Edea{Line}Никто. Тебе{Line} не нужно этого знать.{End}",
+        "Target": "{X135Y10}{Char Edea}{Line}«Никто. Тебе{Line} не нужно этого знать».{End}",
         "Source Text SHA256": "504D601A127C0AAD0E1018811F245C5C7BE680377096E1F6BD9C495AF0E90C6C",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -306,7 +306,7 @@
         }
       },
       "$en_ehenter4_0038": {
-        "Target": "{X134Y10}Edea{Line}Единственный {Char Squall} , которому позволено быть здесь,{Line} это ты.{End}",
+        "Target": "{X134Y10}{Char Edea}{Line}«Единственный {Char Squall}, которому позволено быть здесь, —{Line} это ты».{End}",
         "Source Text SHA256": "122DB433E7ECE372CBCCF3CB27887008DD8597129AC142A6D3EA85DECFC9648C",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -314,7 +314,7 @@
         }
       },
       "$en_ehenter4_0039": {
-        "Target": "{X10Y10}Edea{Line}Ты знаешь, куда возвращаться?{Line} Знаешь как?{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Ты знаешь, куда возвращаться?{Line} Знаешь как?»{End}",
         "Source Text SHA256": "5E2A49E9F03851E1B08F1BFEDA830C77698C221451AC65479264BF3FA00CB665",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",
@@ -322,7 +322,7 @@
         }
       },
       "$en_ehenter4_0040": {
-        "Target": "{X10Y10}Edea{Line}Сам справишься?{End}",
+        "Target": "{X10Y10}{Char Edea}{Line}«Сам справишься?»{End}",
         "Source Text SHA256": "890CA0739DE31B98923365C9A0E41041998A388B40F037406B1477F3D957D220",
         "sourceContext": {
           "Source MSD SHA256": "3340B0A5902C4FE1D412E04FD63D097A9DF908846443B3F9BA1BFA9C17469899",

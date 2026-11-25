@@ -10,7 +10,7 @@
         }
       },
       "$en_bgroad_6_0001": {
-        "Target": "{X120Y8}Quistis{Line}”{Char Squall}{Line} , ты о чём-то задумался?“{End}",
+        "Target": "{X120Y8}{Char Quistis}{Line}«{Char Squall},{Line}ты о чём-то задумался?»{End}",
         "Source Text SHA256": "3D7EEA53DCAC5EC9A41744AC97FB9B3DD12FB87137A55F3F01773B05A7540F30",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bgroad_6_0002": {
-        "Target": "{Char Squall}{Line}“Да так...”",
+        "Target": "{Char Squall}{Line}«Да так...»",
         "Source Text SHA256": "2E02AEA7C01CF816AD9641171588CF4947C31899B245A33731D921EB4829135F",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bgroad_6_0003": {
-        "Target": "{X160Y40}Quistis{Line}...Не совсем{End}",
+        "Target": "{X160Y40}{Char Quistis}{Line}«...Не совсем»{End}",
         "Source Text SHA256": "396497BCA385B33ABCEDDB907A00D7ADE00CAED2E5B0249070B23D7EE5448EE8",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgroad_6_0004": {
-        "Target": "{X240Y8}Quistis{Line}Ха-ха-ха!{End}",
+        "Target": "{X240Y8}{Char Quistis}{Line}«Ха-ха-ха!»{End}",
         "Source Text SHA256": "6D4825AEC23E3AF3D401F0DE6EB1F21FA0CBA149731F5075AFE4686C99DE2DC4",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgroad_6_0005": {
-        "Target": "{X8Y8}{Char Squall}{Line}“Я сказал что-то смешное?”",
+        "Target": "{X8Y8}{Char Squall}{Line}«Я сказал что-то смешное?»",
         "Source Text SHA256": "B49B17D847244814AE1B91FD8CD3B77F8E006716D7AC34A529F2B479BA868734",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bgroad_6_0006": {
-        "Target": "{X200Y112}Quistis{Line}Смешного? Смешного? Ничего, я{Line} просто рада.{End}",
+        "Target": "{X200Y112}{Char Quistis}{Line}«Смешного? Смешного? Ничего, я{Line} просто рада».{End}",
         "Source Text SHA256": "A47691CAB041E777AA11CDE849D6D5AB7E9EE61A6FEEF7577F7460B5543722B9",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgroad_6_0007": {
-        "Target": "{X200Y112}Quistis{Line}Похоже, я начинаю понимать{Line} своего студента.{End}",
+        "Target": "{X200Y112}{Char Quistis}{Line}«Похоже, я начинаю понимать{Line} своего студента».{End}",
         "Source Text SHA256": "980C4F0087902DE9785271DCB7B6A6D7D06A386AF4D658B5F461DECBD38817DE",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgroad_6_0008": {
-        "Target": "{X8Y8}{Char Squall}{Line}“Я сложнее, чем вы думаете.”",
+        "Target": "{X8Y8}{Char Squall}{Line}«Я сложнее, чем вы думаете».",
         "Source Text SHA256": "69F1BB6FE0A0B4DB146EB8B9CD81AC3349D7D55F48FB8451F413B09B57BB6722",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgroad_6_0009": {
-        "Target": "{X200Y112}Quistis{Line}Тогда расскажи мне...{End}",
+        "Target": "{X200Y112}{Char Quistis}{Line}«Тогда расскажи мне...»{End}",
         "Source Text SHA256": "FE3A9CDD8D01BBFC03D9BB88A07BB172015055C353180F6701BDF3E60700EBED",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgroad_6_0010": {
-        "Target": "{X200Y112}Quistis{Line}Расскажи мне{Line} побольше о себе.{End}",
+        "Target": "{X200Y112}{Char Quistis}{Line}«Расскажи мне{Line} побольше о себе».{End}",
         "Source Text SHA256": "ABCDC159B17AC9A7AABFEE9EC63B0B39F4F8ECC2742957BCAC617DA59FE905AB",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgroad_6_0011": {
-        "Target": "{Char Squall}{Line}“Это не...”",
+        "Target": "{Char Squall}{Line}«Это не...»",
         "Source Text SHA256": "1D4639EAAF03A10A832C8F855D3F948901BCB5B22742A9420D6D77CC0AAF1A25",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgroad_6_0012": {
-        "Target": "{X125Y200}Quistis{Line}...Дело!{End}",
+        "Target": "{X125Y200}{Char Quistis}{Line}«...Дело!»{End}",
         "Source Text SHA256": "D62FEED448E9D12517C530A5442004186C40E1913256AC6C5F89E9D0306DEEE3",
         "sourceContext": {
           "Source MSD SHA256": "50AB56B226B291CD3FCCB59BBFAC661A3C1E9E801081214F9B94EA945F4323EB",

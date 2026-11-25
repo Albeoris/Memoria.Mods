@@ -2,7 +2,7 @@
   "Fields": {
     "gwroad1": {
       "$en_gwroad1_0000": {
-        "Target": "{X148Y10}Quistis{Line}Теперь мы не так уж{Line} и далеко от сада Гальбадии!{End}",
+        "Target": "{X148Y10}{Char Quistis}{Line}«Теперь мы не так уж{Line} и далеко от сада Гальбадии!»{End}",
         "Source Text SHA256": "F5F614242B8E6A0F460CD35B0D058DBE1F2D08B765FDD759051A250D56156D5C",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gwroad1_0001": {
-        "Target": "{X10Y50}Selphie{Line}Ээй, я тут подумала...{End}",
+        "Target": "{X10Y50}{Char Selphie}{Line}«Ээй, я тут подумала...»{End}",
         "Source Text SHA256": "D252728419CB4FD34BC8AEE7C8C8B8881D4D9C97E2F443E5133718A2C25F9DC6",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gwroad1_0002": {
-        "Target": "{X10Y40}Selphie{Line}Правительство Гальбадии могло{Line} объявить за нас награду.{End}",
+        "Target": "{X10Y40}{Char Selphie}{Line}«Правительство Гальбадии могло{Line} объявить за нас награду».{End}",
         "Source Text SHA256": "B623BB6778AC047776A9A91E1777512D083294050C6B57F6B6E7FE752522AA07",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gwroad1_0003": {
-        "Target": "{X10Y40}Сельфи{Line}«А вдруг нас поймают,{Line} а потом покажут на весь мир?!»{End}",
+        "Target": "{X10Y40}{Char Selphie}{Line}«А вдруг нас поймают,{Line} а потом покажут на весь мир?!»{End}",
         "Source Text SHA256": "1E078B092E632EE65C5E5AB88384C63B642E1894B24FD385A2CD398E25EEFF2C",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gwroad1_0005": {
-        "Target": "{X56Y30}Zell{Line}Что будет, то{Line} будет. Пошли дальше!{End}",
+        "Target": "{X56Y30}{Char Zell}{Line}«Что будет, то{Line} будет. Пошли дальше!»{End}",
         "Source Text SHA256": "D675CF2F7C8E29A2F8B8EE32B50188432679CD484813B12FB09B50069E03C6DD",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gwroad1_0006": {
-        "Target": "{X167Y30}Zell{Line}Я... я так{Line} переживаю за сад.{End}",
+        "Target": "{X167Y30}{Char Zell}{Line}«Я... я так{Line} переживаю за сад».{End}",
         "Source Text SHA256": "C32B4F2DA4839FE5A0D50B2B5A8E9692C13D1EE66A48D71C7A2B879AA32F7C92",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gwroad1_0007": {
-        "Target": "{X94Y30}Zell{Line}Если с ним что-нибудь случится, если президент выместит на{Line} нём злость... Это всё{Next}будет на моей совести! Ведь{Line} это я, кретин, сболтнул, что мы сиды!{End}",
+        "Target": "{X94Y30}{Char Zell}{Line}«Если с ним что-нибудь случится, если президент выместит на{Line} нём злость... Это всё{Next}будет на моей совести! Ведь{Line} это я, кретин, сболтнул, что мы сиды!»{End}",
         "Source Text SHA256": "D7EA51B20E21C50B636C26B9A460EC364434C7F450C6773DE05FC0A64DB7B655",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gwroad1_0008": {
-        "Target": "{X100Y30}Zell{Line}Как думаете, президент выместит свою{Line} злость на академии?{End}",
+        "Target": "{X100Y30}{Char Zell}{Line}«Как думаете, президент выместит свою{Line} злость на академии?»{End}",
         "Source Text SHA256": "9535F146776F348422CFD9C2C879969CB63A80E4FAA6103C2EABA2E71ABFE404",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gwroad1_0009": {
-        "Target": "{X10Y60}{Char Squall}{Line}Возможно.{End}",
+        "Target": "{X10Y60}{Char Squall}{Line}«Возможно».{End}",
         "Source Text SHA256": "BF997D75ABF0638165DE153E1BE6A0A8A55CDC52F06017703C5FBE11A5878C22",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gwroad1_0010": {
-        "Target": "{X140Y50}Zell{Line}...Это лишь мои мысли...{End}",
+        "Target": "{X140Y50}{Char Zell}{Line}«...Это лишь мои мысли...»{End}",
         "Source Text SHA256": "789ADD1DBC17D07352900F02949C946A2B36BB3AA8A8ACB49FD6BF4722532D3F",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gwroad1_0011": {
-        "Target": "{X73Y30}Zell{Line}Н-н-но, в саду Баламба{Line} есть целая куча Сидов!{Next}Они ведь не проиграют гальбадианской{Line} армии, правда?{End}",
+        "Target": "{X73Y30}{Char Zell}{Line}«Н-н-но, в саду Баламба{Line} есть целая куча Сидов!»{Next}«Они ведь не проиграют гальбадианской{Line} армии, правда?»{End}",
         "Source Text SHA256": "5DCF7E17722412B4970BFC84AA74D069301E48057A2A447A951D077C8FFE2106",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gwroad1_0012": {
-        "Target": "{X10Y40}{Char Squall}{Line}Зависит от того, насколько сильна армия.{End}",
+        "Target": "{X10Y40}{Char Squall}{Line}«Зависит от того, насколько сильна армия».{End}",
         "Source Text SHA256": "864D4827DB4229E5B306B2BE3CEF0FA3FB118E2B7F898F5856AE69753BCABAF4",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gwroad1_0013": {
-        "Target": "{X140Y30}Zell{Line}Знаю, но...{End}",
+        "Target": "{X140Y30}{Char Zell}{Line}«Знаю, но...»{End}",
         "Source Text SHA256": "3EC4E925EE8668A21FA95FA9C40729CFCA9535174835C8F28E5DFD48193D4190",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gwroad1_0014": {
-        "Target": "{X150Y10}{Char Rinoa}{Line}О, да ты просто отличный{Line} лидер, не так ли...{End}",
+        "Target": "{X150Y10}{Char Rinoa}{Line}«О, да ты просто отличный{Line} лидер, не так ли...»{End}",
         "Source Text SHA256": "FD2FFA33AE1A5AB9216AF068EC6FA9DD52EDCC95B05A7263ADA3D062B3803F97",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gwroad1_0015": {
-        "Target": "{X150Y10}{Char Rinoa}{Line}Тебе весело, когда ты так{Line} бесчувственно ведёшь себя со своими друзьями?{End}",
+        "Target": "{X150Y10}{Char Rinoa}{Line}«Тебе весело, когда ты так{Line} бесчувственно ведёшь себя со своими друзьями?»{End}",
         "Source Text SHA256": "C4AC2B6B2CBD6E2239F7A285BAD6CEF5BCDC4A7E5B92257795A821C8E6DE520C",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gwroad1_0017": {
-        "Target": "{X150Y10}{Char Rinoa}{Line}Зеллу не хватает твоей поддержки.{End}",
+        "Target": "{X150Y10}{Char Rinoa}{Line}«Зеллу не хватает твоей поддержки».{End}",
         "Source Text SHA256": "05B66F6AC70AB5F8504FA8C1DC90959B1E9E2DF0E8547AD746885239281A4E4A",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gwroad1_0019": {
-        "Target": "{X150Y10}{Char Rinoa}{Line}Любая поддержка{Line} даст...{End}",
+        "Target": "{X150Y10}{Char Rinoa}{Line}«Любая поддержка{Line} даст...»{End}",
         "Source Text SHA256": "99AF77C2821E7B6F11181591FBDE5347DC197961DE5802A96C95BB1A149A9FAD",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -170,7 +170,7 @@
         }
       },
       "$en_gwroad1_0021": {
-        "Target": "{X150Y10}{Char Rinoa}{Line}Разве ты никогда не задумывался о самочувствии{Line} своих друзей? Не интересовался их состоянием?{End}",
+        "Target": "{X150Y10}{Char Rinoa}{Line}«Разве ты никогда не задумывался о самочувствии{Line} своих друзей? Не интересовался их состоянием?»{End}",
         "Source Text SHA256": "4D754160A26C1A7E83778882CB0F72DEB3464A1633DE29EB0AD4A58A6D073332",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -186,7 +186,7 @@
         }
       },
       "$en_gwroad1_0023": {
-        "Target": "{X150Y10}{Char Rinoa}{Line}Разве ты не понимаешь?{End}",
+        "Target": "{X150Y10}{Char Rinoa}{Line}«Разве ты не понимаешь?»{End}",
         "Source Text SHA256": "29F9F8A3088E7F6F527C63A101326F9BD72F3A10A26EEFE3F4071FE31C9C35BE",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -202,7 +202,7 @@
         }
       },
       "$en_gwroad1_0025": {
-        "Target": "{X150Y10}{Char Rinoa}{Line}”Ты вообще слушаешь, {Char Squall}?“{End}",
+        "Target": "{X150Y10}{Char Rinoa}{Line}«Ты вообще слушаешь, {Char Squall}?»{End}",
         "Source Text SHA256": "2468D1E6EFE4F966266DD68F5021E8C1955C9D9753C3CA16149DA4A39B8A872C",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -226,7 +226,7 @@
         }
       },
       "$en_gwroad1_0028": {
-        "Target": "{X246Y20}Quistis{Line}Ах...{End}",
+        "Target": "{X246Y20}{Char Quistis}{Line}«Ах...»{End}",
         "Source Text SHA256": "51C5823EB0D44999EC3C1FC33C229F5B392CF5460790B226176DC16D6033FFF8",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -234,7 +234,7 @@
         }
       },
       "$en_gwroad1_0029": {
-        "Target": "{X10Y10}Selphie{Line}Я... и я, тоже...{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Я... и я, тоже...»{End}",
         "Source Text SHA256": "03A774CF514B5738E48D50CC3CA29A3D9952F85286E53CF280D4A552F879B3DD",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -242,7 +242,7 @@
         }
       },
       "$en_gwroad1_0030": {
-        "Target": "{X160Y90}{Char Rinoa}{Line}Что происходит?!{End}",
+        "Target": "{X160Y90}{Char Rinoa}{Line}«Что происходит?!»{End}",
         "Source Text SHA256": "03F62625FBC93A01CF2A93DEC062AFB1D99EB22E55661166AD98143F6F09F95F",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -250,7 +250,7 @@
         }
       },
       "$en_gwroad1_0031": {
-        "Target": "{X10Y30}Zell{Line}Полагаю...{Line} они отправились в «мир сновидений».{End}",
+        "Target": "{X10Y30}{Char Zell}{Line}«Полагаю...{Line} они отправились в „мир сновидений“».{End}",
         "Source Text SHA256": "6856C47028E5EDE255BCAE3842E5BACC3FE4A8A79A5CC2C24A82D24E2CBC4F80",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -258,7 +258,7 @@
         }
       },
       "$en_gwroad1_0032": {
-        "Target": "{X136Y10}Zell{Line}Снова Лагуна?..{End}",
+        "Target": "{X136Y10}{Char Zell}{Line}«Снова Лагуна?..»{End}",
         "Source Text SHA256": "18299FFB53AA96E2494D6B1FFB7EEB3E85C6BC73B2421B03C584E621EBDE96C0",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -266,7 +266,7 @@
         }
       },
       "$en_gwroad1_0033": {
-        "Target": "{X10Y10}Selphie{Line}У сэра Лагуны БОЛЬШИЕ НЕПРИЯТНОСТИ! Надеюсь, с ним{Line} всё будет в порядке!!!{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«У сэра Лагуны БОЛЬШИЕ НЕПРИЯТНОСТИ! Надеюсь, с ним{Line} всё будет в порядке!!!»{End}",
         "Source Text SHA256": "2EAB827562650A952F8F9A89D6C879908B2E2590D7B9013055C26D0C045A0CBA",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -274,7 +274,7 @@
         }
       },
       "$en_gwroad1_0034": {
-        "Target": "{X21Y10}Quistis{Line}Не похоже, что у вас это впервые. Что{Line} это такое?{End}",
+        "Target": "{X21Y10}{Char Quistis}{Line}«Не похоже, что у вас это впервые. Что{Line} это такое?»{End}",
         "Source Text SHA256": "84434BDB0D6DC2675C30F2B809B849FB90EA9D96D7C1F14522C4E0130BEDED19",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -290,7 +290,7 @@
         }
       },
       "$en_gwroad1_0036": {
-        "Target": "{X10Y40}{Char Squall}{Line}Сейчас не время{Line} обсуждать это происшествие.{End}",
+        "Target": "{X10Y40}{Char Squall}{Line}«Сейчас не время{Line} обсуждать это происшествие».{End}",
         "Source Text SHA256": "48A547EDCEF0DF2CE02984B8F7B45D222201B764BAD0F767FF284873E6F36D0D",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -298,7 +298,7 @@
         }
       },
       "$en_gwroad1_0037": {
-        "Target": "{X10Y40}{Char Squall}{Line}Пора идти дальше.{End}",
+        "Target": "{X10Y40}{Char Squall}{Line}«Пора идти дальше».{End}",
         "Source Text SHA256": "8097FF4BA19E818199132A055CB43B22F2B8D662613EFFE74A6454FFEAF0176C",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -306,7 +306,7 @@
         }
       },
       "$en_gwroad1_0038": {
-        "Target": "{X119Y10}Zell{Line}Да, пошли! Думаю,{Line} мы уже почти на месте.{End}",
+        "Target": "{X119Y10}{Char Zell}{Line}«Да, пошли! Думаю,{Line} мы уже почти на месте».{End}",
         "Source Text SHA256": "B0BC53FA0D83DD78E6BB814BE0DBD13AC1066D58491151B716E32212BDDB693F",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -314,7 +314,7 @@
         }
       },
       "$en_gwroad1_0039": {
-        "Target": "{X130Y30}{Char Rinoa}{Line}Эмм...{Char Squall}{Next}...{Line} Думаю, я могла наговорить лишнего. Прости.{End}",
+        "Target": "{X130Y30}{Char Rinoa}{Line}«Эмм...{Char Squall}{Next}...{Line} Думаю, я могла наговорить лишнего. Прости».{End}",
         "Source Text SHA256": "972642EC69BC6D34F18C250D76779F1F04A2810F535749EEA363F2C48FD1007E",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",

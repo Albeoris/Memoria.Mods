@@ -10,7 +10,7 @@
         }
       },
       "$en_elwall2_0001": {
-        "Target": "{X40Y40}{Char Squall}{Line}...Тут что-то есть.{End}",
+        "Target": "{X40Y40}{Char Squall}{Line}«...Тут что-то есть».{End}",
         "Source Text SHA256": "7FF84F77A58C8866DED9EE0EB52B5BDB264505BE197CCC7CC63632FD7D460145",
         "sourceContext": {
           "Source MSD SHA256": "728512F22BD25F4A7E2C53C1A930F07A7FDBA2B01C06B659CBCCB162B87CC7A5",
@@ -18,7 +18,7 @@
         }
       },
       "$en_elwall2_0002": {
-        "Target": "{X120Y40}Zell{Line}НИФИГА СЕБЕ! Что это, мать его,{Line} такое?! Что-то вроде хода или тоннеля...{End}",
+        "Target": "{X120Y40}{Char Zell}{Line}«НИФИГА СЕБЕ! Что это, мать его,{Line} такое?! Что-то вроде хода или тоннеля...»{End}",
         "Source Text SHA256": "D4D225DD598C63EC65A63FECE73F16092F3F1A12905BD49D315F5F2E17DB31B6",
         "sourceContext": {
           "Source MSD SHA256": "728512F22BD25F4A7E2C53C1A930F07A7FDBA2B01C06B659CBCCB162B87CC7A5",
@@ -26,7 +26,7 @@
         }
       },
       "$en_elwall2_0003": {
-        "Target": "{X120Y40}Сельфи{Line}«О! Класс!{Line} Дыра посреди пустоты».{End}",
+        "Target": "{X120Y40}{Char Selphie}{Line}«О! Класс!{Line} Дыра посреди пустоты».{End}",
         "Source Text SHA256": "0EF6E8975C02A53A32A203630E3D465B4DC43F1D883E9019062DB008498055BA",
         "sourceContext": {
           "Source MSD SHA256": "728512F22BD25F4A7E2C53C1A930F07A7FDBA2B01C06B659CBCCB162B87CC7A5",
@@ -34,7 +34,7 @@
         }
       },
       "$en_elwall2_0004": {
-        "Target": "{X120Y40}Квистис{Line}«Что… это такое? Как может{Line} быть дыра прямо в воздухе?»{End}",
+        "Target": "{X120Y40}{Char Quistis}{Line}«Что… это такое? Как может{Line} быть дыра прямо в воздухе?»{End}",
         "Source Text SHA256": "FC01CFA892A2F5759C711F1E82F8D971B953E16C8CE4C9825A698D01DD7F1C90",
         "sourceContext": {
           "Source MSD SHA256": "728512F22BD25F4A7E2C53C1A930F07A7FDBA2B01C06B659CBCCB162B87CC7A5",
@@ -42,7 +42,7 @@
         }
       },
       "$en_elwall2_0005": {
-        "Target": "{X120Y40}Ирвин{Line}«Странно!{Line} Это туннель или что-то такое?»{End}",
+        "Target": "{X120Y40}{Char Irvine}{Line}«Странно!{Line} Это туннель или что-то такое?»{End}",
         "Source Text SHA256": "376252502C6BACF3B9FA054BC180B4FF2FD3473007E48898AA8B5535B3E5FB3E",
         "sourceContext": {
           "Source MSD SHA256": "728512F22BD25F4A7E2C53C1A930F07A7FDBA2B01C06B659CBCCB162B87CC7A5",
@@ -50,7 +50,7 @@
         }
       },
       "$en_elwall2_0006": {
-        "Target": "{X120Y40}Эдея{Line}«Дыра в воздухе?..»{End}",
+        "Target": "{X120Y40}{Char Edea}{Line}«Дыра в воздухе?..»{End}",
         "Source Text SHA256": "8629BE104AEC3D8550567B1E4106D4C508482860F6748524785BB53738F66568",
         "sourceContext": {
           "Source MSD SHA256": "728512F22BD25F4A7E2C53C1A930F07A7FDBA2B01C06B659CBCCB162B87CC7A5",
@@ -58,7 +58,7 @@
         }
       },
       "$en_elwall2_0007": {
-        "Target": "{X40Y40}{Char Squall}{Line}Похоже, это{Line} единственный путь.{End}",
+        "Target": "{X40Y40}{Char Squall}{Line}«Похоже, это{Line} единственный путь».{End}",
         "Source Text SHA256": "99896B6C6DC03ACE0FEAC3B43F8DBFE2704EAF05DA16278B382A007850DBA78D",
         "sourceContext": {
           "Source MSD SHA256": "728512F22BD25F4A7E2C53C1A930F07A7FDBA2B01C06B659CBCCB162B87CC7A5",

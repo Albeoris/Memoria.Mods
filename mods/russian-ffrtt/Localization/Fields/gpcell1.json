@@ -42,7 +42,7 @@
         }
       },
       "$en_gpcell1_0005": {
-        "Target": "{X90Y20}{Char Squall}{Line}Будь ты проклят, Сейфер!{End}",
+        "Target": "{X90Y20}{Char Squall}{Line}«Будь ты проклят, Сейфер!»{End}",
         "Source Text SHA256": "39E1E595CC850AFC593C9876F00C3DD57CF69B93FEB9F5E410574B821F6F1F7B",
         "sourceContext": {
           "Source MSD SHA256": "C68EE4189AAAFAB691C23B71878B5DA16E62EA62025FDF85C414AD252EE7C29B",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gpcell1_0006": {
-        "Target": "{X8Y8}Seifer{Line}”Ты жалок, {Char Squall}.“{End}",
+        "Target": "{X8Y8}{Char Seifer}{Line}«Ты жалок, {Char Squall}».{End}",
         "Source Text SHA256": "D8AF8BCB1D6A42CB6BF820AC9E67BCD4033E28F61CB32E173FDBD64BFA8B4EEF",
         "sourceContext": {
           "Source MSD SHA256": "C68EE4189AAAFAB691C23B71878B5DA16E62EA62025FDF85C414AD252EE7C29B",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gpcell1_0007": {
-        "Target": "{X8Y8}Seifer{Line}Уведите его!{End}",
+        "Target": "{X8Y8}{Char Seifer}{Line}«Уведите его!»{End}",
         "Source Text SHA256": "0E908B6C64ED2F210D580B181BD87E055BD37FFAC383D5AC501059664CC9DAA0",
         "sourceContext": {
           "Source MSD SHA256": "C68EE4189AAAFAB691C23B71878B5DA16E62EA62025FDF85C414AD252EE7C29B",

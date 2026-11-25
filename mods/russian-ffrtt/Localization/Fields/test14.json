@@ -314,7 +314,7 @@
         }
       },
       "$en_test14_0039": {
-        "Target": "”   {Key Circle} 1{Line} {Key Square} 3  {Key Cross} 2{Line}    {Key Triangle} 4    “{End}",
+        "Target": "   «{Key Circle} 1{Line} {Key Square} 3  {Key Cross} 2{Line}    {Key Triangle} 4    »{End}",
         "Source Text SHA256": "6EA5DEDC6A4FF504CE095DFC85878ECA4F978B8831D9CF2A089995A65E690813",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",
@@ -498,7 +498,7 @@
         }
       },
       "$en_test14_0059": {
-        "Target": "{X80Y80}Квистис{Line}«Не думала,{Line} что он {Color Grey}всерьёз».{End}",
+        "Target": "{X80Y80}{Char Quistis}{Line}«Не думала,{Line} что он {Color Grey}всерьёз».{End}",
         "Source Text SHA256": "C3A2249F8AB4193260DA1950314BE3A43F2B2E9672B7D5C92D42D26152743EBB",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",
@@ -506,7 +506,7 @@
         }
       },
       "$en_test14_0060": {
-        "Target": "Зелл{Line}«Пожалуйста... Не трогай».{End}",
+        "Target": "{Char Zell}{Line}«Пожалуйста... Не трогай».{End}",
         "Source Text SHA256": "DF0DA1C87A2C44554F397B7C6C16FB631A43C06497336339574608AB55906039",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",

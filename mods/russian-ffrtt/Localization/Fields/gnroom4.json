@@ -2,7 +2,7 @@
   "Fields": {
     "gnroom4": {
       "$en_gnroom4_0000": {
-        "Target": "{X12Y150}Sacred{Line}С-С-СНОВА{Next}ВЫ?!{Line} В ПРОШЛЫЙ РАЗ ВЫ{Next}ЛЕГКО ОТДЕЛАЛИСЬ, В ЭТОТ ВСЁ БУДЕТ ИНАЧЕ!{Line} В-В ЭТОТ РАЗ СО МНОЙ БУДЕТ СТАРШИЙ БРАТ! У В-ВАС ЕЩЁ ЕСТЬ ВРЕМЯ УБЕЖАТЬ, ЖАЛКИЕ ЛЮДИШКИ!{End}",
+        "Target": "{X12Y150}Священный{Line}«С-С-СНОВА{Next}ВЫ?!{Line} В ПРОШЛЫЙ РАЗ ВЫ{Next}ЛЕГКО ОТДЕЛАЛИСЬ, В ЭТОТ ВСЁ БУДЕТ ИНАЧЕ!{Line} В-В ЭТОТ РАЗ СО МНОЙ БУДЕТ СТАРШИЙ БРАТ! У В-ВАС ЕЩЁ ЕСТЬ ВРЕМЯ УБЕЖАТЬ, ЖАЛКИЕ ЛЮДИШКИ!»{End}",
         "Source Text SHA256": "8E396173BFB38452B532AA53F483C530B8AA7440E28F4D0165E1744E2CE28B5D",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gnroom4_0001": {
-        "Target": "Зелл{Line}(Ну и болван же он!){End}",
+        "Target": "{Char Zell}{Line}(Ну и болван же он!){End}",
         "Source Text SHA256": "746CB0E70C7820167DC78E6CB0DE03BD1697EABD6323162C5D78A79D07EF423E",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gnroom4_0001_ctx_946bf576fd7da4fb": {
-        "Target": "{X12Y12}Зелл{Line}(Ну и болван же он!){End}",
+        "Target": "{X12Y12}{Char Zell}{Line}(Ну и болван же он!){End}",
         "Source Text SHA256": "746CB0E70C7820167DC78E6CB0DE03BD1697EABD6323162C5D78A79D07EF423E",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gnroom4_0001_ctx_f8bcbfec5b410374": {
-        "Target": "{X100Y12}Зелл{Line}(Ну и болван же он!){End}",
+        "Target": "{X100Y12}{Char Zell}{Line}(Ну и болван же он!){End}",
         "Source Text SHA256": "746CB0E70C7820167DC78E6CB0DE03BD1697EABD6323162C5D78A79D07EF423E",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gnroom4_0002": {
-        "Target": "{X12Y150}Sacred{Line}БРАТ!{End}",
+        "Target": "{X12Y150}Священный{Line}«БРАТ!»{End}",
         "Source Text SHA256": "2275D3FDC97740DCE07324CBAFAC31D41A98A53A9D2A5370B73922722C399FB4",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gnroom4_0003": {
-        "Target": "{X12Y12}Minotaur{Line}да, брат.{End}",
+        "Target": "{X12Y12}Минотавр{Line}«да, брат».{End}",
         "Source Text SHA256": "646ECCF31BB0735ECCF3723E566BF8DEB65A43DED86A3CB5DA908131287B9DCF",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gnroom4_0004": {
-        "Target": "{X12Y150}Sacred{Line}Э-ЭЙ, БРАТ!{Line} ЭТИ ЛЮДИ ВТОРГЛИСЬ В ГРОБНИЦУ!{Next}И-И{Line} ОНИ НАПАЛИ НА МЕНЯ!{End}",
+        "Target": "{X12Y150}Священный{Line}«Э-ЭЙ, БРАТ!{Line} ЭТИ ЛЮДИ ВТОРГЛИСЬ В ГРОБНИЦУ!»{Next}«И-И{Line} ОНИ НАПАЛИ НА МЕНЯ!»{End}",
         "Source Text SHA256": "A9EE66E255E990827CF9E74FE0AEC55F53EF3CF6F24FD8794D9AE9909C46BC81",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gnroom4_0005": {
-        "Target": "{X12Y12}Minotaur{Line}что, правда?.. они напали на тебя?{Line} довольно смело для человека...{End}",
+        "Target": "{X12Y12}Минотавр{Line}«что, правда?.. они напали на тебя?{Line} довольно смело для человека...»{End}",
         "Source Text SHA256": "30FBA4680A0FA2BF6F07348BB35B1394F97AEAA7D2F0842A31CC2FFDAE8372A5",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gnroom4_0006": {
-        "Target": "{X80Y20}Zell{Line}Ха? Этот лилипут - твой старший брат? Ну и сюрприз!{End}",
+        "Target": "{X80Y20}{Char Zell}{Line}«Ха? Этот лилипут - твой старший брат? Ну и сюрприз!»{End}",
         "Source Text SHA256": "9C17A0B920D2307DE1E766A08197CC199BBAC4B9AFC150A3DDA1245214B99B69",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gnroom4_0007": {
-        "Target": "{X80Y20}{Char Rinoa}{Line}Ух ты,{Line}старший-то меньше...{End}",
+        "Target": "{X80Y20}{Char Rinoa}{Line}«Ух ты,{Line}старший-то меньше...»{End}",
         "Source Text SHA256": "66C7E658DF22DDAE00664143BCBCFB9D018B93F21604E5F58FB40C8DE390B352",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gnroom4_0008": {
-        "Target": "{X80Y20}Сельфи{Line}Хи-хи!{Line}Какой милый старший брат!{End}",
+        "Target": "{X80Y20}{Char Selphie}{Line}«Хи-хи!{Line}Какой милый старший брат!»{End}",
         "Source Text SHA256": "98E31FDC5C365A59205477DBCC24EB63DBE1F56F4FC8633BEFDA3A681C603E8F",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gnroom4_0009": {
-        "Target": "{X80Y20}Квистис{Line}...На удивление маленький.{End}",
+        "Target": "{X80Y20}{Char Quistis}{Line}«...На удивление маленький».{End}",
         "Source Text SHA256": "0B178A9DB9BF3ADF5A353E682AFD3AA8E042C956292C30EC54AE2DE7E6E94814",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gnroom4_0010": {
-        "Target": "{X80Y20}Ирвин{Line}А? Этот коротышка?{Line}Вот так сюрприз!{End}",
+        "Target": "{X80Y20}{Char Irvine}{Line}«А? Этот коротышка?{Line}Вот так сюрприз!»{End}",
         "Source Text SHA256": "FC5FA29879064A5DCDD2CF04CF4074282BDC2F6F339326BAC99A3E1CFE7D244F",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gnroom4_0011": {
-        "Target": "{X12Y150}Sacred{Line}Э-ЭЙ,{Line} БРАТ! О-ОНИ ИЗДЕВАЮТСЯ НАД НАМИ!{End}",
+        "Target": "{X12Y150}Священный{Line}«Э-ЭЙ,{Line} БРАТ! О-ОНИ ИЗДЕВАЮТСЯ НАД НАМИ!»{End}",
         "Source Text SHA256": "B33F7EFD90B807B203926562B6C185C8C3A170C6AFBE8368DF9AC34868D6D33D",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gnroom4_0012": {
-        "Target": "{X12Y12}Minotaur{Line}...глупые{Next}маленькие людишки.{Line} ...я научу вас оценивать книгу не только по обложке...{End}",
+        "Target": "{X12Y12}Минотавр{Line}«...глупые{Next}маленькие людишки.{Line} ...я научу вас оценивать книгу не только по обложке...»{End}",
         "Source Text SHA256": "764D41272BF2C10CCFE41BBB35DAEEBBD58506D05AC659DFDB1A6A58CBB3A6F9",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gnroom4_0013": {
-        "Target": "{X27Y20}...Вы обладаете невероятной силой, раз{Line} смогли одолеть братьев. Благодарю.{Next}Теперь я свободен от этого{Line} тесного каменного гроба... …Долгое{Next}время мне не давал{Line} покоя один вопрос. Действительно ли так{Next}важно хоронить тех, кому предстоит{Line} путь на тот свет, после{Next}столь долгого и{Line} утомляющего пути, именуемого жизнью?{End}",
+        "Target": "{X27Y20}«...Вы обладаете невероятной силой, раз{Line} смогли одолеть братьев. Благодарю.{Next}Теперь я свободен от этого{Line} тесного каменного гроба... …Долгое{Next}время мне не давал{Line} покоя один вопрос. Действительно ли так{Next}важно хоронить тех, кому предстоит{Line} путь на тот свет, после{Next}столь долгого и{Line} утомляющего пути, именуемого жизнью?»{End}",
         "Source Text SHA256": "0906DFEF787413BEAD61791CE3A69584DEDD0784F49455DCC339E63EA573A62E",
         "sourceContext": {
           "Source MSD SHA256": "3AB3491F2D894FD8A4FC1B68DF00E139ED1019A1EE4793D3FB33265C694F263E",

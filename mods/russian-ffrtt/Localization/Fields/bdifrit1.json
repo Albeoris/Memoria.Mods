@@ -26,7 +26,7 @@
         }
       },
       "$en_bdifrit1_0003": {
-        "Target": "{X10Y10}Quistis{Line}Хорошо, мы на{Line} месте. Ты готов?{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Хорошо, мы на{Line} месте. Ты готов?»{End}",
         "Source Text SHA256": "DF57916091AE1C4C3215CAEFFE5B1436E24A004194BA7A76A070A22967BEEDA0",
         "sourceContext": {
           "Source MSD SHA256": "5D7B255100A2B8DDC47F47D517590858D3314D31C31D3ECFDD00BF4E094AF68D",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bdifrit1_0004": {
-        "Target": "{X10Y10}Quistis{Line}Ты выглядишь достаточно уверенным.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Ты выглядишь достаточно уверенным».{End}",
         "Source Text SHA256": "5196C494276FB41629EB6CA6DACE92160FA78671C2AB743956990F53A0D23301",
         "sourceContext": {
           "Source MSD SHA256": "5D7B255100A2B8DDC47F47D517590858D3314D31C31D3ECFDD00BF4E094AF68D",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bdifrit1_0005": {
-        "Target": "{X10Y10}Quistis{Line}У нас не так много времени, но{Line} всё же позволь мне кое что тебе объяснить.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«У нас не так много времени, но{Line} всё же позволь мне кое что тебе объяснить».{End}",
         "Source Text SHA256": "2A1A922B3BFB2BB86037B39ACD29968F5B5EEBD009460A3584C4267C9170890C",
         "sourceContext": {
           "Source MSD SHA256": "5D7B255100A2B8DDC47F47D517590858D3314D31C31D3ECFDD00BF4E094AF68D",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bdifrit1_0006": {
-        "Target": "{X10Y10}Quistis{Line}Итак, ты{Next}получил ЗС.{Line} Если ты привяжешь эту ЗС,{Next}ты сможешь использовать способности стихий.{Line} Вот справка по Элементам.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Итак, ты{Next}получил ЗС.{Line} Если ты привяжешь эту ЗС,{Next}ты сможешь использовать способности стихий.{Line} Вот справка по Элементам».{End}",
         "Source Text SHA256": "79C28E24020A50292A3E7E428C533854E147BF3B083C81060FB8C7E6AE34D6CA",
         "sourceContext": {
           "Source MSD SHA256": "5D7B255100A2B8DDC47F47D517590858D3314D31C31D3ECFDD00BF4E094AF68D",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bdifrit1_0007": {
-        "Target": "{X10Y10}Quistis{Line}Здесь полно монстров стихии огня, так{Line} что привяжи Холод к своей стихийной атаке.{Next}Тебе будет легче справиться{Line} с врагами огненной стихии.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Здесь полно монстров стихии огня, так{Line} что привяжи Холод к своей стихийной атаке».{Next}«Тебе будет легче справиться{Line} с врагами огненной стихии».{End}",
         "Source Text SHA256": "B21EF8473AE5F8ECD684C56F843A7ADEE374B54EB8A1DC49368DEA2852572AE2",
         "sourceContext": {
           "Source MSD SHA256": "5D7B255100A2B8DDC47F47D517590858D3314D31C31D3ECFDD00BF4E094AF68D",

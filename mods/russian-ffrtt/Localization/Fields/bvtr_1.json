@@ -2,7 +2,7 @@
   "Fields": {
     "bvtr_1": {
       "$en_bvtr_1_0000": {
-        "Target": "{X10Y10}Zell{Line}Эй, зацени!{Line} Это приватное купе для \u0022Сидов\u0022!..{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Эй, зацени!{Line} Это приватное купе для \"Сидов\"!..»{End}",
         "Source Text SHA256": "D228B8FCB7E58754AEC08E562AEE9DB5E051E52267595503CD43566F655A2DE9",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -10,7 +10,7 @@
         }
       },
       "$en_bvtr_1_0001": {
-        "Target": "{X10Y10}Zell{Line}УХ ТЫ!{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«УХ ТЫ!»{End}",
         "Source Text SHA256": "9B92F2216D0DCF9AFDB4C46F7F10D84A6B59FD7F470F2852BE3DEBBF6168EC56",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bvtr_1_0002": {
-        "Target": "{X10Y10}Zell{Line}ООО, ДААА! ПОТРЯСНО!{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«ООО, ДААА! ПОТРЯСНО!»{End}",
         "Source Text SHA256": "6080778F1D46B75A51A11F822E763E33CC8FABB7588785092F55979FA318DDD1",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bvtr_1_0003": {
-        "Target": "{X150Y10}Selphie{Line}Я люблю поезда. Я обожаю поезда.{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«Я люблю поезда. Я обожаю поезда».{End}",
         "Source Text SHA256": "2BD267E07B0991B3F3B66B67EF16BC974D61B7964EA3C98C1C98EF21BA3CF27C",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bvtr_1_0004": {
-        "Target": "{X150Y10}Selphie{Line}Ой... ты иди, а я ещё здесь постою. Я побуду здесь ещё немного. Я немного постою здесь.{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«Ой... ты иди, а я ещё здесь постою. Я побуду здесь ещё немного. Я немного постою здесь».{End}",
         "Source Text SHA256": "6501BDDE725CFF9C7E5DDE5055E9F502231064B7CAA9293C896BD5D961A8BB72",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bvtr_1_0005": {
-        "Target": "{X150Y10}Сельфи{Line}А... Увидимся внутри.{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«А... Увидимся внутри».{End}",
         "Source Text SHA256": "3462BC31EEBAA47BB582F941A22CE6BFEE514C768DBEF379CE5149DBD5D0CF6E",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bvtr_1_0006": {
-        "Target": "{X150Y10}Selphie{Line}Такой хороший ветерок...{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«Такой хороший ветерок...»{End}",
         "Source Text SHA256": "C9AC9750CB808A7F1E07E2A92D3AEC012F8AEE1248E3606783F25FAA6D77AD95",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bvtr_1_0007": {
-        "Target": "{X150Y10}Selphie{Line}Поезд, поезд, увези нас вдаль,{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«Поезд, поезд, увези нас вдаль,»{End}",
         "Source Text SHA256": "43C33BD392C7E9BE5AEDEB3A79ABE30EE18A5537413BE1BE62519DECCE560FB5",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bvtr_1_0008": {
-        "Target": "{X150Y10}Selphie{Line}В далёкую, далёкую даль.{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«В далёкую, далёкую даль».{End}",
         "Source Text SHA256": "DFEE79C7B87719EC781119A4325CA427CC7CB1AD518C465CEDB41D6FAD247926",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bvtr_1_0009": {
-        "Target": "{X150Y10}Selphie{Line}Отправиться в будущее нам суждено{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«Отправиться в будущее нам суждено»{End}",
         "Source Text SHA256": "DACBB66A4B9013F6F9F487A2DC73BFD234748784888AC2F46163ACED03EB013C",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bvtr_1_0010": {
-        "Target": "{X150Y10}Selphie{Line}И никому неведомо, каким будет оно.{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«И никому неведомо, каким будет оно».{End}",
         "Source Text SHA256": "D898F63E777462D298F96DBB94607EA30D5E88A588438F1A2588F3B40F2A5B53",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bvtr_1_0012": {
-        "Target": "{X130Y30}Irvine{Line}Сельфи... Нам суждено быть вместе!{End}",
+        "Target": "{X130Y30}{Char Irvine}{Line}«Сельфи... Нам суждено быть вместе!»{End}",
         "Source Text SHA256": "C18B57BCEDE5EC04BAA4879A5B82B031723B1542193A4E4FCD232DF2A3A34DDC",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bvtr_1_0013": {
-        "Target": "{X130Y30}Irvine{Line}Ты только что трогательно вздохнула?{End}",
+        "Target": "{X130Y30}{Char Irvine}{Line}«Ты только что трогательно вздохнула?»{End}",
         "Source Text SHA256": "407070CE8D00647CF80428EFED3634524E4D166141780987B5EACBAAA8E73B23",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bvtr_1_0014": {
-        "Target": "{X10Y10}Irvine{Line}Тогда прости, мне нужно идти...{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Тогда прости, мне нужно идти...»{End}",
         "Source Text SHA256": "1A433F8785DB911156165AE79E1F9E4F552B99827699B4E995879C7ACA6DF2C8",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bvtr_1_0015": {
-        "Target": "{X300Y30}Selphie{Line}Д-да, ты прав!..{End}",
+        "Target": "{X300Y30}{Char Selphie}{Line}«Д-да, ты прав!..»{End}",
         "Source Text SHA256": "675F6C2A696D740182527CCC8C27CF1FA380E35F62DA32BA5988C4A304830AFA",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bvtr_1_0016": {
-        "Target": "{X250Y10}Selphie{Line}У меня сердце скачет...{Line} Что это за ощущение?{End}",
+        "Target": "{X250Y10}{Char Selphie}{Line}«У меня сердце скачет...{Line} Что это за ощущение?»{End}",
         "Source Text SHA256": "5EB3DDAA17FCB3AD10329A68D3765C343ADF3B8F334C8554891503981C9BF13D",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bvtr_1_0017": {
-        "Target": "{X20Y10}{Char Squall}{Line}Это важная миссия. Привыкай{Line} справляться с давлением, пока{Line} ещё есть время.{End}",
+        "Target": "{X20Y10}{Char Squall}{Line}«Это важная миссия. Привыкай{Line} справляться с давлением, пока{Line} ещё есть время».{End}",
         "Source Text SHA256": "2DA137E5C95FE242FEB73E1D00D5D673D2A080332C76702C01B5D3F9FB0DCBDC",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bvtr_1_0018": {
-        "Target": "{X250Y25}Selphie{Line}...(вздох){End}",
+        "Target": "{X250Y25}{Char Selphie}{Line}«...(вздох)»{End}",
         "Source Text SHA256": "9234412F6FA849F1A35904C1DEF74BED54C24647B78206B763245EFA4247BC65",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bvtr_1_0019": {
-        "Target": "{X400Y40}Selphie{Line}Н-нет...{End}",
+        "Target": "{X400Y40}{Char Selphie}{Line}«Н-нет...»{End}",
         "Source Text SHA256": "AF88AA9BEF8F23E60AA7DEE1546B6C7734624D582986E2B4EED32C34A51B38F5",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bvtr_1_0020": {
-        "Target": "{X250Y10}Selphie{Line}Ну, сколько ещё до Делинга?{End}",
+        "Target": "{X250Y10}{Char Selphie}{Line}«Ну, сколько ещё до Делинга?»{End}",
         "Source Text SHA256": "CE5408FD263592D61FB86A1DDA4ACE040052D0388559292FBF55F54FE94ABB72",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -170,7 +170,7 @@
         }
       },
       "$en_bvtr_1_0021": {
-        "Target": "Сельфи{Line}«Долго ещё до Гальбадии?»{Line}(Скоро уже будем на месте){Line}(Ещё немного){End}",
+        "Target": "{Char Selphie}{Line}«Долго ещё до Гальбадии?»{Line}(Скоро уже будем на месте){Line}(Ещё немного){End}",
         "Choice Line Map": [],
         "Source Text SHA256": "1E7078540B4204CE4E044F89138DF5668FB5A862AEA66B7C71DA7C1CE9906DF9",
         "sourceContext": {
@@ -179,7 +179,7 @@
         }
       },
       "$en_bvtr_1_0022": {
-        "Target": "{X80Y20}{Char Squall}{Line}Мы почти приехали.{End}",
+        "Target": "{X80Y20}{Char Squall}{Line}«Мы почти приехали».{End}",
         "Source Text SHA256": "2756B088AFCEF6CE5819C9D24836BBD0EC383B5EC807EF93AE79A29327BC51D8",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",

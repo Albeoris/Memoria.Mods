@@ -18,7 +18,7 @@
         }
       },
       "$en_test10_0002": {
-        "Target": "Риноа{Line}«Я бы...{Line} Посоветовала комнату Зелла, наверное?»{End}",
+        "Target": "{Char Rinoa}{Line}«Я бы...{Line} посоветовала комнату Зелла, наверное?»{End}",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -34,7 +34,7 @@
         }
       },
       "$en_test10_0004": {
-        "Target": "Скволл: «А? О чём ты?»",
+        "Target": "{Char Squall}: «А? О чём ты?»",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -42,7 +42,7 @@
         }
       },
       "$en_test10_0005": {
-        "Target": "Риноа{Line}«Скволл, разве ты не знаешь?{Line} Тут появилось что-то мягкое и упругое!»{End}",
+        "Target": "{Char Rinoa}{Line}«Скволл, разве ты не знаешь?{Line} Тут появилось что-то мягкое и упругое!»{End}",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -58,7 +58,7 @@
         }
       },
       "$en_test10_0007": {
-        "Target": "Зелл: «Ну до чего же странный. Не могу устоять перед этой мягкостью».",
+        "Target": "{Char Zell}: «Ну до чего же странный. Не могу устоять перед этой мягкостью».",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -66,7 +66,7 @@
         }
       },
       "$en_test10_0008": {
-        "Target": "Риноа{Line}«Чтобы расслабиться,{Line} лучше и не придумаешь!»{End}",
+        "Target": "Риноа{Line}«Чтобы расслабиться,{Line}лучше и не придумаешь!»{End}",
         "Source Text SHA256": "FDD24A0740EC0D1822C2544FF976E293E6A6EC22B29B6B9CDA8DDE0E5AD5C125",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -74,7 +74,7 @@
         }
       },
       "$en_test10_0009": {
-        "Target": "Зелл{Line}«И эти круглые глазки{Line} тоже такие милые!»{End}",
+        "Target": "Зелл{Line}«И эти круглые глазки{Line}тоже такие милые!»{End}",
         "Source Text SHA256": "E4642D008063F1A316D655B11B58C254B2EE7D7CDA550AD6B166272148CF6086",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -90,7 +90,7 @@
         }
       },
       "$en_test10_0011": {
-        "Target": "Риноа и Зелл{Line}«Да-а-а!{Line} Это же озвучка!»{End}",
+        "Target": "Риноа и Зелл{Line}«Да-а-а!{Line}Это же озвучка!»{End}",
         "Source Text SHA256": "6878B1986CB62E59EEE8E040D706919185455411E5B4FA30A9474EA1A81931DA",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -130,7 +130,7 @@
         }
       },
       "$en_test10_0016": {
-        "Target": "Скволл: «Хе-хе. Эта наивность тебя и погубит».",
+        "Target": "{Char Squall}: «Хе-хе. Эта наивность тебя и погубит».",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -154,7 +154,7 @@
         }
       },
       "$en_test10_0019": {
-        "Target": "«У тебя спина{Line} вся в саже-е-е!{Glyph 206}»{End}",
+        "Target": "«У тебя спина{Line}вся в саже-е-е!{Glyph 206}»{End}",
         "Source Text SHA256": "FE6F2740A1C5EE4D182A2C539FAA415C01D115A465C452BBC2F3F551B7ACE00C",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -178,7 +178,7 @@
         }
       },
       "$en_test10_0022": {
-        "Target": "Скволл: «Даже самым выдающимся талантом я не смогу победить».",
+        "Target": "{Char Squall}: «Даже самым выдающимся талантом я не смогу победить».",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -186,7 +186,7 @@
         }
       },
       "$en_test10_0023": {
-        "Target": "Чиз{Line}«До следующего уровня{Line} осталось ещё 76896543 макка».{End}",
+        "Target": "Чиз{Line}«До следующего уровня{Line}осталось ещё 76896543 макка».{End}",
         "Source Text SHA256": "9DB74AEF133D9393CD958BBB8E6A1928F67C0DB911EF32255D383C7D41717EB9",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -194,7 +194,7 @@
         }
       },
       "$en_test10_0024": {
-        "Target": "Скволл{Line}«1. Валюта — гилы, верно?{Glyph 207}{Line} 2. Уступи за 70000000 любви.{Line} 3. Я расплачусь телом.{Line} Ну уж нет!{Glyph 206}»{End}",
+        "Target": "Скволл{Line}«1. Валюта — гилы, верно?{Glyph 207}{Line} 2. Уступи за 70000000 любви.{Line} 3. Я расплачусь телом.{Line}Ну уж нет!{Glyph 206}»{End}",
         "Source Text SHA256": "AC48217CA3E1408ADB01E867C61ACAA2A954FD889591E7388783FF3F74C32EB1",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",
@@ -218,7 +218,7 @@
         }
       },
       "$en_test10_0027": {
-        "Target": "Господин Икс{Line}«Хорошо.{Line} Объясню попроще».{End}",
+        "Target": "Господин Икс{Line}«Хорошо.{Line}Объясню попроще».{End}",
         "Source Text SHA256": "B4E2BEDBABE9099144AF0FE8AC230654CF987BA8F328DFF252211A537A173278",
         "sourceContext": {
           "Source MSD SHA256": "9FF509454861881F555AEF759F4C42CB9F428E021D4F6C706250DAA541F91012",

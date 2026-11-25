@@ -2,7 +2,7 @@
   "Fields": {
     "tggrave1": {
       "$en_tggrave1_0000": {
-        "Target": "{X10Y10}Сельфи{Line}«…{Pause 80}…{Pause 80}{Line} Я…{Pause 80} Я это сделала, ребята…!»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«…{Pause 80}…{Pause 80}{Line} Я…{Pause 80} Я это сделала, ребята…!»{End}",
         "Source Text SHA256": "F1C4F283FCC40999D04B9BE596C9CF9C4607AEA06F52ACBFF47F680C7C83F987",
         "sourceContext": {
           "Source MSD SHA256": "CA247DC11C99B67D6A826E4463624B279E3C9361458FF3A7D54A0C320AD7CDD9",
@@ -42,7 +42,7 @@
         }
       },
       "$en_tggrave1_0005": {
-        "Target": "{X10Y10}”...{Pause 80}...{Pause 80}...{Pause 80}...“{End}",
+        "Target": "{X10Y10}«...{Pause 80}...{Pause 80}...{Pause 80}...»{End}",
         "Source Text SHA256": "D2D8779A0A02BB578AECA5D40566D6CAF54A477DEAC5F7EF0CBABEE2BEACDCC5",
         "sourceContext": {
           "Source MSD SHA256": "CA247DC11C99B67D6A826E4463624B279E3C9361458FF3A7D54A0C320AD7CDD9",
@@ -66,7 +66,7 @@
         }
       },
       "$en_tggrave1_0008": {
-        "Target": "{X10Y10}...Мы с моей{Line} девушкой всё время встречались здесь.{Next}В такие дни, когда было очень{Line} холодно, я давал ей свою куртку...{End}",
+        "Target": "{X10Y10}«...Мы с моей{Line} девушкой всё время встречались здесь».{Next}«В такие дни, когда было очень{Line} холодно, я давал ей свою куртку...»{End}",
         "Source Text SHA256": "49CBDCB47E944F3A34EECA0F5031AE46B744DB8FC6F24007E95EE7B192083036",
         "sourceContext": {
           "Source MSD SHA256": "CA247DC11C99B67D6A826E4463624B279E3C9361458FF3A7D54A0C320AD7CDD9",
@@ -74,7 +74,7 @@
         }
       },
       "$en_tggrave1_0009": {
-        "Target": "{X10Y10}Теперь это всё в прошлом... И я{Line} ничего не могу с этим поделать.{End}",
+        "Target": "{X10Y10}«Теперь это всё в прошлом... И я{Line} ничего не могу с этим поделать».{End}",
         "Source Text SHA256": "E52A1ACC42EF0C7862A27B83FA8C6C1469C96876B2DC71C732BFA0367EB41FA2",
         "sourceContext": {
           "Source MSD SHA256": "CA247DC11C99B67D6A826E4463624B279E3C9361458FF3A7D54A0C320AD7CDD9",
@@ -82,7 +82,7 @@
         }
       },
       "$en_tggrave1_0010": {
-        "Target": "{X10Y10}Её больше нет...{Pause 88}{Line} Я должен держаться.{End}",
+        "Target": "{X10Y10}«Её больше нет...{Pause 88}{Line} Я должен держаться».{End}",
         "Source Text SHA256": "BFC1A83FFF34AF6CAE9FECD56EF8DDC1B0AAA255A873F7D862B6D651F6C29B6C",
         "sourceContext": {
           "Source MSD SHA256": "CA247DC11C99B67D6A826E4463624B279E3C9361458FF3A7D54A0C320AD7CDD9",

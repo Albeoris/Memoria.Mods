@@ -2,7 +2,7 @@
   "Fields": {
     "gpbigin1": {
       "$en_gpbigin1_0000": {
-        "Target": "Selphie{Line}Вот незадача!{End}",
+        "Target": "{Char Selphie}{Line}«Вот незадача!»{End}",
         "Source Text SHA256": "74127FA992F5329F623F487676F98489D164070EF65505B6A0EE63F9D74CD27D",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gpbigin1_0001": {
-        "Target": "{X60Y45}Selphie{Line}\u0022Какого одуванчика?!{Line} Что это был за грохот?\u0022{End}",
+        "Target": "{X60Y45}{Char Selphie}{Line}«Какого одуванчика?!{Line} Что это был за грохот?»{End}",
         "Source Text SHA256": "154EE40639C0A53B5BEE5B1CE959FB7F120AA04C4A1ED3D0E0542DD23ED78A6B",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gpbigin1_0003": {
-        "Target": "{X300Y40}Mean Guy{Line}Слышите, как пытают{Line} вашего друга?{End}",
+        "Target": "{X300Y40}Грубиян{Line}«Слышите, как пытают{Line} вашего друга?»{End}",
         "Source Text SHA256": "74F1CA7282E7BE9EE5C18033F463CCFE90E2D8508D6CD31EF274820E18CCC7C2",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gpbigin1_0004": {
-        "Target": "{X50Y40}Zell{Line}Чё{Line} ты сказал?!{End}",
+        "Target": "{X50Y40}{Char Zell}{Line}«Чё{Line} ты сказал?!»{End}",
         "Source Text SHA256": "6611B9D1904169E660A5A734D7195209044351A75DC307E455CCE2D3DDD00958",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gpbigin1_0005": {
-        "Target": "{X300Y40}Mean Guy{Line}Заткнись!!!{End}",
+        "Target": "{X300Y40}Грубиян{Line}«Заткнись!!!»{End}",
         "Source Text SHA256": "8565F62635AA829F576012139B80F4344D99657809370C4A2F90796CCFEE09F0",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gpbigin1_0006": {
-        "Target": "{X300Y40}Mean Guy{Line}Шутить со мной вздумал?!{End}",
+        "Target": "{X300Y40}Грубиян{Line}«Шутить со мной вздумал?!»{End}",
         "Source Text SHA256": "8E4AB81E8FD7EE7076A779A80057019CBC5759A91AC1A7B5B00BE4B4D7BF8A6B",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gpbigin1_0007": {
-        "Target": "{X300Y40}Mean Guy{Line}Напомнить тебе, кто{Line} здесь главный?!{End}",
+        "Target": "{X300Y40}Грубиян{Line}«Напомнить тебе, кто{Line} здесь главный?!»{End}",
         "Source Text SHA256": "50E8A73337DE96CB6276C81C4EA8AF8040F4751487B2356C62569B884BDBE66B",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gpbigin1_0008": {
-        "Target": "{X300Y40}Mean Guy{Line}Я задал тебе вопрос!{End}",
+        "Target": "{X300Y40}Грубиян{Line}«Я задал тебе вопрос!»{End}",
         "Source Text SHA256": "A8B1E341AFBDF33CBB11F876F7F417B295F68025B9575CD181AA6D7226FBDFFE",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gpbigin1_0009": {
-        "Target": "{X160Y40}{Char Rinoa}{Line}Прекратите!!!{End}",
+        "Target": "{X160Y40}{Char Rinoa}{Line}«Прекратите!!!»{End}",
         "Source Text SHA256": "408490F8ABCE0283C8341FF66E1CA12A7749F375E1845135E3E1428477E05E35",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gpbigin1_0010": {
-        "Target": "{X140Y40}Mean Guy{Line}Ах, да, чуть не забыл.{End}",
+        "Target": "{X140Y40}Грубиян{Line}«Ах, да, чуть не забыл».{End}",
         "Source Text SHA256": "6B667555071C75AAA785DF4E3AEB044E6B8303E2CD80A0AFDBF181FE9353E871",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gpbigin1_0011": {
-        "Target": "{X140Y40}Mean Guy{Line}Среди вас есть{Line}{Char Rinoa} Хартилли?{End}",
+        "Target": "{X140Y40}Грубиян{Line}«Среди вас есть{Line}{Char Rinoa} Хартилли?»{End}",
         "Source Text SHA256": "09A4FD44B29BD55259CC5514F619661F401F42226B84EF27363339FC1FFB863B",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gpbigin1_0012": {
-        "Target": "{X160Y40}{Char Rinoa}{Line}”Я {Char Rinoa}..“{End}",
+        "Target": "{X160Y40}{Char Rinoa}{Line}«Я {Char Rinoa}..»{End}",
         "Source Text SHA256": "F448986532D95C16487C1D8B3D8D0BC10F73B6DC2206CF7C6858A16716769C58",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gpbigin1_0013": {
-        "Target": "{X140Y40}Mean Guy{Line}Отлично.{Line} Иди сюда.{End}",
+        "Target": "{X140Y40}Грубиян{Line}«Отлично.{Line} Иди сюда».{End}",
         "Source Text SHA256": "284B2A3A8DAA229C91B301C44D1FCFD93BCC7CB34EB3F594DAAC4122F368273E",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gpbigin1_0014": {
-        "Target": "{X50Y40}Zell{Line}Что ты собрался делать с{Line}{Char Rinoa}, сволочь?!{End}",
+        "Target": "{X50Y40}{Char Zell}{Line}«Что ты собрался делать с{Line}{Char Rinoa}, сволочь?!»{End}",
         "Source Text SHA256": "4D6C2B818F6FA2200539070442D9E6BBFD7B35201B6B5ED523B8138990FCEA78",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gpbigin1_0015": {
-        "Target": "{X15Y40}Quistis{Line}Да прекратите же, наконец!!!{End}",
+        "Target": "{X15Y40}{Char Quistis}{Line}«Да прекратите же, наконец!!!»{End}",
         "Source Text SHA256": "09C378272A5ABD8A83464AD2F82370DDDEE6AF4E5554552CBF6F3D5AEE75E79B",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gpbigin1_0016": {
-        "Target": "{X160Y40}{Char Rinoa}{Line}Перестаньте. Я пойду.{End}",
+        "Target": "{X160Y40}{Char Rinoa}{Line}«Перестаньте. Я пойду».{End}",
         "Source Text SHA256": "F037BB6A6ACE77F2E6FB577690D4BF7357A2F151CC64D9C315FE3C40CC59DCE0",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gpbigin1_0017": {
-        "Target": "{X15Y40}Quistis{Line}”{Char Rinoa}...“{End}",
+        "Target": "{X15Y40}{Char Quistis}{Line}«{Char Rinoa}...»{End}",
         "Source Text SHA256": "2DE77F540EFF7C47C97390D2EB6F1AE4EC0F86378B41177818BD801BBFAEE936",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gpbigin1_0018": {
-        "Target": "{X180Y40}{Char Rinoa}{Line}Со мной всё будет в порядке.{End}",
+        "Target": "{X180Y40}{Char Rinoa}{Line}«Со мной всё будет в порядке».{End}",
         "Source Text SHA256": "259BC52371B26DD1217EDAEB379FBBB741E3A544BF4CF2CB9A2F82F5B4800466",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gpbigin1_0019": {
-        "Target": "{X180Y40}{Char Rinoa}{Line}Пойдёмте.{End}",
+        "Target": "{X180Y40}{Char Rinoa}{Line}«Пойдёмте».{End}",
         "Source Text SHA256": "863165718DC97FEAC110769F6F8735DFFE53E730BBBC3ED60082A17F22B50753",
         "sourceContext": {
           "Source MSD SHA256": "3C7CE82BDB57CEBDAF8690DF0232C17EE05EB12C58E0C5B38D3D7970552194E1",

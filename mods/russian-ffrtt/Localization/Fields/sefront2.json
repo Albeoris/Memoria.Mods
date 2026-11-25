@@ -2,7 +2,7 @@
   "Fields": {
     "sefront2": {
       "$en_sefront2_0000": {
-        "Target": "{X150Y150}(Я не{Line} разговариваю с незнакомцами.){End}",
+        "Target": "{X150Y150}«(Я не{Line} разговариваю с незнакомцами.)»{End}",
         "Source Text SHA256": "466D7AD8E70D4A5C3699CC11BF8A24910AF6189DF695A824CEEF1055894740F9",
         "sourceContext": {
           "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
@@ -10,7 +10,7 @@
         }
       },
       "$en_sefront2_0001": {
-        "Target": "{X150Y150}(Эм, лидер приказал мне{Line} не говорить об Эллоне.){End}",
+        "Target": "{X150Y150}«(Эм, лидер приказал мне{Line} не говорить об Эллоне.)»{End}",
         "Source Text SHA256": "B65854399D3E04B19BCF076BC1ED3B5F12874AD59130AE606BD0D0BCB354E321",
         "sourceContext": {
           "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
@@ -34,7 +34,7 @@
         }
       },
       "$en_sefront2_0004": {
-        "Target": "{X150Y150}White SeeD{Line}{Next}Прошу...{Pause 48}{Line} Мне вам нечего. Мне очень жаль.{End}",
+        "Target": "{X150Y150}Белый SeeD{Line}«Прошу...»{Next}«Мне вам нечего.{Pause 48}{Line} Мне очень жаль».{End}",
         "Source Text SHA256": "032CA07DA9D04020A511FBE23A5DC5200B1209C4E337858A32E1A658AADAE074",
         "sourceContext": {
           "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
@@ -42,7 +42,7 @@
         }
       },
       "$en_sefront2_0005": {
-        "Target": "{X150Y150}White SeeD{Line}После того как Эдея ушла,{Line} лидер взял на себя всю ношу.{End}",
+        "Target": "{X150Y150}Белый SeeD{Line}«После того как Эдея ушла,{Line} лидер взял на себя всю ношу».{End}",
         "Source Text SHA256": "4FE2D96B0001FC5BD7FEB405D6775D6B72A286BD02518C689281F293ECFA9834",
         "sourceContext": {
           "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
@@ -50,7 +50,7 @@
         }
       },
       "$en_sefront2_0006": {
-        "Target": "{X150Y150}White SeeD{Line}Если он не хочет об этом говорить, что{Line} ж - мы тоже.{End}",
+        "Target": "{X150Y150}Белый SeeD{Line}«Если он не хочет об этом говорить, что{Line} ж - мы тоже».{End}",
         "Source Text SHA256": "8B81957DA37C0B710E7CA70402EE4FB96A7B9A7B407D57C53A99C2E50FF4643A",
         "sourceContext": {
           "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",

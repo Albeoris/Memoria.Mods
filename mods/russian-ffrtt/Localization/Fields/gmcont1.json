@@ -2,7 +2,7 @@
   "Fields": {
     "gmcont1": {
       "$en_gmcont1_0000": {
-        "Target": "{X160Y140}Soldier{Line}Все системы работают, сэр!{End}",
+        "Target": "{X160Y140}Солдат{Line}«Все системы работают, сэр!»{End}",
         "Source Text SHA256": "CA8D0BE601CE25D4484FA0CEE6A596430789C265F689EA8B47025393BDC6EA00",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gmcont1_0001": {
-        "Target": "{X12Y140}Soldier{Line}Всё готово, сэр!{End}",
+        "Target": "{X12Y140}Солдат{Line}«Всё готово, сэр!»{End}",
         "Source Text SHA256": "52819B2EEF61DF84C1BE9560CF0C209045F3D9DA7D5FE1D4A9959B436794DCB1",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gmcont1_0002": {
-        "Target": "{X12Y145}Officer{Line}Мы слегка отставали от{Line} графика, но всё-таки{Next}уложились в назначенное{Line} время. Подготовиться к завершающей стадии запуска.{End}",
+        "Target": "{X12Y145}Офицер{Line}«Мы слегка отставали от{Line} графика, но всё-таки{Next}уложились в назначенное{Line} время. Подготовиться к завершающей стадии запуска».{End}",
         "Source Text SHA256": "89ED2508966B772B883505BCC4AA0775206C7FFFB0CDEBB949FB900A29616CD3",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gmcont1_0003": {
-        "Target": "Soldier{Line}Есть!{End}",
+        "Target": "Солдат{Line}«Есть!»{End}",
         "Source Text SHA256": "7EC5F4F7A97997AC92CC65425BE81ACFD7F0A5B6C240E2CE7009BE48D3222177",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gmcont1_0003_ctx_2a6d542a31a697ff": {
-        "Target": "{X12Y140}Soldier{Line}Есть!{End}",
+        "Target": "{X12Y140}Солдат{Line}«Есть!»{End}",
         "Source Text SHA256": "7EC5F4F7A97997AC92CC65425BE81ACFD7F0A5B6C240E2CE7009BE48D3222177",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gmcont1_0003_ctx_7914a64b3b67b968": {
-        "Target": "{X200Y140}Soldier{Line}Есть!{End}",
+        "Target": "{X200Y140}Солдат{Line}«Есть!»{End}",
         "Source Text SHA256": "7EC5F4F7A97997AC92CC65425BE81ACFD7F0A5B6C240E2CE7009BE48D3222177",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gmcont1_0004": {
-        "Target": "{X12Y12}Внимание персоналу базы!{Line} Подготовка к{Line} запуску завершена.{Next}Всем занять{Line} свои места.{End}",
+        "Target": "{X12Y12}«Внимание персоналу базы!{Line} Подготовка к{Line} запуску завершена».{Next}«Всем занять{Line} свои места».{End}",
         "Source Text SHA256": "80E4BA0D316D7F63866E711E5BDC10323D6913CE842D735F6BF99D59CCC0D5C2",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gmcont1_0005": {
-        "Target": "{X160Y140}Officer{Line}А?{End}",
+        "Target": "{X160Y140}Офицер{Line}«А?»{End}",
         "Source Text SHA256": "E3C39868378CB70A4E90F0DE444313A8680156EF9DA812616E5D65513687AC6C",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gmcont1_0006": {
-        "Target": "{X160Y140}Officer{Line}Что вы{Line} здесь делаете?!{End}",
+        "Target": "{X160Y140}Офицер{Line}«Что вы{Line} здесь делаете?!»{End}",
         "Source Text SHA256": "9FE33285C13A98DE4C938022C58B7ABE16961163E55998B7CE66E4C46BA21FC1",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gmcont1_0007": {
-        "Target": "{X12Y150}Selphie{Line}Мы пришли сообщить{Line} координаты цели!{End}",
+        "Target": "{X12Y150}{Char Selphie}{Line}«Мы пришли сообщить{Line} координаты цели!»{End}",
         "Source Text SHA256": "3BBD98F170BCD9828BFCF76F18F698C05AD3B5A7E09B041C04FFA9C39F357AA6",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gmcont1_0008": {
-        "Target": "{X160Y140}Officer{Line}Ааа... Замерли!{Next}{Next}Стоять, не двигаться! Медленно отойти к стене, шлемы снять!{End}",
+        "Target": "{X160Y140}Офицер{Line}«Ааа... Замерли!»{Next}{Next}«Стоять, не двигаться! Медленно отойти к стене, шлемы снять!»{End}",
         "Source Text SHA256": "A3A35E14CD9FDE1820F9EAF305B5930EBA172962F71561A8ECA6497F00FB378C",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gmcont1_0009": {
-        "Target": "{X160Y140}Officer{Line}Одно неверное движение – стреляю без{Line} предупреждения! Шпионы, твою мать!{End}",
+        "Target": "{X160Y140}Офицер{Line}«Одно неверное движение – стреляю без{Line} предупреждения! Шпионы, твою мать!»{End}",
         "Source Text SHA256": "C281A1D9C7193C1512172F0CF582B4F3E7EB56490FA5243BC32E07F6C715D7EC",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gmcont1_0010": {
-        "Target": "{X160Y140}Officer{Line}Даже воинское{Next}приветствие нормально отдать{Line} не могут!{End}",
+        "Target": "{X160Y140}Офицер{Line}«Даже воинское{Next}приветствие нормально отдать{Line} не могут!»{End}",
         "Source Text SHA256": "C1A8C31CAF6853FA0E8AB16D2BB6D2C63CDA29F0F3770D3B54ED4EC8705FB75B",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gmcont1_0013": {
-        "Target": "{X160Y140}Officer{Line}Что вы делаете?!{End}",
+        "Target": "{X160Y140}Офицер{Line}«Что вы делаете?!»{End}",
         "Source Text SHA256": "BFFF949B90A73FFC31CCF0306E209E77861A016F52E3B26BC936F1ED3586B61B",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gmcont1_0014": {
-        "Target": "{X160Y140}Officer{Line}Ааааа!{End}",
+        "Target": "{X160Y140}Офицер{Line}«Ааааа!»{End}",
         "Source Text SHA256": "985C67559A76A07169B24E39713CE1A71840007BD88DA7A283E40336BAE6E279",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gmcont1_0015": {
-        "Target": "{X12Y12}Selphie{Line}ТА-ДА!{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«ТА-ДА!»{End}",
         "Source Text SHA256": "B08A50C5C9F54F8406C4F3C212100609AA70B89FA03E7213B4D3438DA3C6DCA2",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gmcont1_0016": {
-        "Target": "{X12Y12}Фууух, наконец-то.{Line} Эта военная униформа{Line} чешется и воняет!{End}",
+        "Target": "{X12Y12}«Фууух, наконец-то.{Line} Эта военная униформа{Line} чешется и воняет!»{End}",
         "Source Text SHA256": "E9E23F093B45A6B1BC6EFCFDAB5858B5216CC9B07451A69B53B662A431F77D04",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gmcont1_0017": {
-        "Target": "Officer{Line}Вам это с рук не сойдёт!{End}",
+        "Target": "Офицер{Line}«Вам это с рук не сойдёт!»{End}",
         "Source Text SHA256": "C199616288173444884EA48E9262EE7531F0830F220045662D71B4B03784F6E0",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gmcont1_0018": {
-        "Target": "{X160Y140}Officer{Line}Хотите подраться? Да, пожалуйста!{End}",
+        "Target": "{X160Y140}Офицер{Line}«Хотите подраться? Да, пожалуйста!»{End}",
         "Source Text SHA256": "E0191DF9A5CBF07B5BE95EEFDD16FE68B49430C3EB5CB6981BA9CDFC25296634",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -170,7 +170,7 @@
         }
       },
       "$en_gmcont1_0019": {
-        "Target": "{X160Y140}Officer{Line}Как у вас наглости хватило, помешать запуску ракет?!{End}",
+        "Target": "{X160Y140}Офицер{Line}«Как у вас наглости хватило, помешать запуску ракет?!»{End}",
         "Source Text SHA256": "F88894B8EC7B268E3CEA175EF17DEC9A53D97FDBE540A410B10596D4A769EFD2",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -186,7 +186,7 @@
         }
       },
       "$en_gmcont1_0021": {
-        "Target": "{X12Y12}Selphie{Line}Мы{Next}не допустим{Line} запуска ракет!{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Мы{Next}не допустим{Line} запуска ракет!»{End}",
         "Source Text SHA256": "5272B8C48B21A9A614A19BEC6C1A3FEA271BB1D80702FAF5154FA286B404F3AA",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -194,7 +194,7 @@
         }
       },
       "$en_gmcont1_0022": {
-        "Target": "Officer{Line}Живыми вы отсюда не выйдете!{End}",
+        "Target": "Офицер{Line}«Живыми вы отсюда не выйдете!»{End}",
         "Source Text SHA256": "F6CA757B761C6372B32C703F6D21C7233805F2E1E7A76DAEF386FC7788AD6FC9",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -202,7 +202,7 @@
         }
       },
       "$en_gmcont1_0023": {
-        "Target": "{X12Y140}Selphie{Line}Отлично!{Line} Давайте остановим ракеты, взорвём к чертям{Line} базу, и свалим отсюда!{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}«Отлично!{Line} Давайте остановим ракеты, взорвём к чертям{Line} базу, и свалим отсюда!»{End}",
         "Source Text SHA256": "AC6FA39CE684FC6A2BD8CF2C71A804E4A370F8D8C9EAB56EFFA94AC4443F424C",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -210,7 +210,7 @@
         }
       },
       "$en_gmcont1_0024": {
-        "Target": "{X12Y12}Zell{Line}Отсюда мы сможем{Line} остановить запуск ракеты.{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«Отсюда мы сможем{Line} остановить запуск ракеты».{End}",
         "Source Text SHA256": "6009EEE2179F4DFC0EE5D39801642F334EA0AA4AFEF5D11CE723E2B81C08F2B2",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -218,7 +218,7 @@
         }
       },
       "$en_gmcont1_0025": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}Похоже, это пультовая.{Line} Может, отсюда можно остановить ракеты.{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}«Похоже, это пультовая.{Line} Может, отсюда можно остановить ракеты».{End}",
         "Source Text SHA256": "23CAA85527EFAB0A76A126BA441050D842D53AA568556C27796627294671E41E",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -226,7 +226,7 @@
         }
       },
       "$en_gmcont1_0026": {
-        "Target": "{X12Y12}Quistis{Line}Пусковой механизм должен быть{Line} на какой-то из этих панелей.{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Пусковой механизм должен быть{Line} на какой-то из этих панелей».{End}",
         "Source Text SHA256": "0F55A4BB7295C438C1A46C47EA03C60CB80B480967423BC9213AC77B3F241611",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -234,7 +234,7 @@
         }
       },
       "$en_gmcont1_0027": {
-        "Target": "{X12Y12}Irvine{Line}Обычная пультовая...{Line} Все панели как на подбор.{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}«Обычная пультовая...{Line} Все панели как на подбор».{End}",
         "Source Text SHA256": "52FF6797245443921C82278A32F3860162C3E06C3399E63ED0AA4725CD3516DE",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -242,7 +242,7 @@
         }
       },
       "$en_gmcont1_0028": {
-        "Target": "{X140Y160}Zell{Line}Давайте разделимся и поищем.{End}",
+        "Target": "{X140Y160}{Char Zell}{Line}«Давайте разделимся и поищем».{End}",
         "Source Text SHA256": "9B2344D67A9467AA8BD7456F5801AC70D8156530B87E5CF9AD04F8AD671E16F9",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -250,7 +250,7 @@
         }
       },
       "$en_gmcont1_0029": {
-        "Target": "{X140Y160}{Char Rinoa}{Line}Думаю, нам следует разделиться и поискать.{End}",
+        "Target": "{X140Y160}{Char Rinoa}{Line}«Думаю, нам следует разделиться и поискать».{End}",
         "Source Text SHA256": "BCBCAEDEFFF8E19FD5ABAEEE815BEB5D65CC22EE173A752A6BD80B7B49D63E15",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -258,7 +258,7 @@
         }
       },
       "$en_gmcont1_0030": {
-        "Target": "{X140Y160}Quistis{Line}Разделимся и осмотрим панели.{End}",
+        "Target": "{X140Y160}{Char Quistis}{Line}«Разделимся и осмотрим панели».{End}",
         "Source Text SHA256": "DF4D247CDB75D9B70971C38D9758A9E53CA339C4904F1ABFF0E74729853ABAD2",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -266,7 +266,7 @@
         }
       },
       "$en_gmcont1_0031": {
-        "Target": "{X140Y160}Irvine{Line}Ну, это... давайте разделимся и начнём искать.{End}",
+        "Target": "{X140Y160}{Char Irvine}{Line}«Ну, это... давайте разделимся и начнём искать».{End}",
         "Source Text SHA256": "821F00122C7A7E5EB1D7D9C0B724BFE365B5B18A00CFC130F655D09A31708832",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -274,7 +274,7 @@
         }
       },
       "$en_gmcont1_0032": {
-        "Target": "{X12Y140}Selphie{Line}Хмм...{Next}{Next}Не думаю, что это он.{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}«Хмм...»{Next}{Next}«Не думаю, что это он».{End}",
         "Source Text SHA256": "7C813673C6C6BEEA776BF68E4D0834EAECE5B53BE7F8D1976FE5226FF392E441",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -282,7 +282,7 @@
         }
       },
       "$en_gmcont1_0033": {
-        "Target": "{X12Y140}Selphie{Line}Посмотрим... Эээй!{Next}{Next}Я нашла её!{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}«Посмотрим... Эээй!»{Next}{Next}«Я нашла её!»{End}",
         "Source Text SHA256": "689ED915C4442C0185B237D0DEC347BA394BE8691BD881863514796857A1716D",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -290,7 +290,7 @@
         }
       },
       "$en_gmcont1_0034": {
-        "Target": "{X12Y140}Selphie{Line}Нажмите это, затем это...{Next}{Next}{Next}Готово! Я закончила!{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}«Нажмите это, затем это...»{Next}{Next}{Next}«Готово! Я закончила!»{End}",
         "Source Text SHA256": "78CD1FE3805CE8486B70A9089B06D21212C70926FB60AB0A0E263D0804433536",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -298,7 +298,7 @@
         }
       },
       "$en_gmcont1_0035": {
-        "Target": "{X12Y140}Selphie{Line}Вуу-хуу!{Line} Теперь осталось лишь{Line} найти механизм самоуничтожения!{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}«Вуу-хуу!{Line} Теперь осталось лишь{Line} найти механизм самоуничтожения!»{End}",
         "Source Text SHA256": "4519D8DF645771502354A64C9695A9BF17CF5735CA3C3EA76450A05359460461",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -306,7 +306,7 @@
         }
       },
       "$en_gmcont1_0036": {
-        "Target": "{X160Y140}Zell{Line}Ух...{Line} Похоже, и эта не та...{End}",
+        "Target": "{X160Y140}{Char Zell}{Line}«Ух...{Line} Похоже, и эта не та...»{End}",
         "Source Text SHA256": "F1ACC007718D993AA16D64854341424830C4492034091650CE1C9BC4C0E2E597",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -314,7 +314,7 @@
         }
       },
       "$en_gmcont1_0037": {
-        "Target": "{X160Y140}Zell{Line}Осталась одна.{End}",
+        "Target": "{X160Y140}{Char Zell}{Line}«Осталась одна».{End}",
         "Source Text SHA256": "62CDE5FF6E151125A2BAA68C283AA023D3C79DCB6622CECADC19002D8189F6AF",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -322,7 +322,7 @@
         }
       },
       "$en_gmcont1_0038": {
-        "Target": "{X12Y12}Selphie{Line}...Значит...{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«...Значит...»{End}",
         "Source Text SHA256": "2D0158476334F9B2041780F69D29EB7181D24E62F1A8A0F56DF03078A7ED3BA3",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -330,7 +330,7 @@
         }
       },
       "$en_gmcont1_0039": {
-        "Target": "{X160Y140}Zell{Line}Зацените! Я нашел его!{End}",
+        "Target": "{X160Y140}{Char Zell}{Line}«Зацените! Я нашел его!»{End}",
         "Source Text SHA256": "6E06355123D97DC174B0E18DCA296E6B4F1B0941C2BF2C046E8B9125973B4C0A",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -338,7 +338,7 @@
         }
       },
       "$en_gmcont1_0040": {
-        "Target": "{X160Y140}Zell{Line}”............“{Next}”............“{Next}ООО ДААА! Я запустил его!{End}",
+        "Target": "{X160Y140}{Char Zell}{Line}«............{Next}............{Next}ООО ДААА! Я запустил его!»{End}",
         "Source Text SHA256": "B4E06FD076ED875A0F7E85B2459A8A96EDFEDA900F369F284429B78DA7E3F66A",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -346,7 +346,7 @@
         }
       },
       "$en_gmcont1_0041": {
-        "Target": "{X120Y140}Zell{Line}Но механизм самоуничтожения,{Line} похоже, не здесь.{End}",
+        "Target": "{X120Y140}{Char Zell}{Line}«Но механизм самоуничтожения,{Line} похоже, не здесь».{End}",
         "Source Text SHA256": "981109D8BFA656AE71BA5248DD34C08C444CE7EC046723DA396E4DF8F5F682B5",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -354,7 +354,7 @@
         }
       },
       "$en_gmcont1_0042": {
-        "Target": "{X160Y140}{Char Rinoa}{Line}Вряд ли это она...{End}",
+        "Target": "{X160Y140}{Char Rinoa}{Line}«Вряд ли это она...»{End}",
         "Source Text SHA256": "9B3AAAAC8CB736AFFF75DFF1B18D22021DCD5DF794DA7202E521F195898F6FC5",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -362,7 +362,7 @@
         }
       },
       "$en_gmcont1_0043": {
-        "Target": "{X160Y140}{Char Rinoa}{Line}Хм, понятно...{End}",
+        "Target": "{X160Y140}{Char Rinoa}{Line}«Хм, понятно...»{End}",
         "Source Text SHA256": "19736480A50FC3ACD5FB0D32ACFE434748087314AD1B0B83AC8A44EC4CD60489",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -370,7 +370,7 @@
         }
       },
       "$en_gmcont1_0044": {
-        "Target": "{X160Y140}{Char Rinoa}{Line}Так, это она?{Line} ...Ну да, точно!{End}",
+        "Target": "{X160Y140}{Char Rinoa}{Line}«Так, это она?{Line} ...Ну да, точно!»{End}",
         "Source Text SHA256": "A675B4A9DC1199DEFD5AD92AD635EEAF316FB2A98ED8A4F090E65DE0ED28FB39",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -378,7 +378,7 @@
         }
       },
       "$en_gmcont1_0045": {
-        "Target": "{X160Y140}{Char Rinoa}{Line}............{Next}............{Next}Я остановила ракеты!{Line} Теперь всё в порядке!{End}",
+        "Target": "{X160Y140}{Char Rinoa}{Line}«............{Next}............{Next}Я остановила ракеты!{Line} Теперь всё в порядке!»{End}",
         "Source Text SHA256": "926C69AF23BD5684E5C6C6A5C2FE77FB1E8EA5582313A459CA25251C2F88013E",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -386,7 +386,7 @@
         }
       },
       "$en_gmcont1_0046": {
-        "Target": "{X120Y140}{Char Rinoa}{Line}Не, похоже, что программа самоуничтожения{Line} запускается из этой комнаты.{End}",
+        "Target": "{X120Y140}{Char Rinoa}{Line}«Не, похоже, что программа самоуничтожения{Line} запускается из этой комнаты».{End}",
         "Source Text SHA256": "79509D3188C562084C9AE9A7A1DCC6CBD22A644ACEF96422D082EE7FB5B31BB3",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -394,7 +394,7 @@
         }
       },
       "$en_gmcont1_0047": {
-        "Target": "{X160Y140}Quistis{Line}Похоже, эта тоже не та...{End}",
+        "Target": "{X160Y140}{Char Quistis}{Line}«Похоже, эта тоже не та...»{End}",
         "Source Text SHA256": "8ECC6776D07818E452E8009034F6AC09345C5B0F2982CC5F9DABA02C96CB4A9E",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -402,7 +402,7 @@
         }
       },
       "$en_gmcont1_0048": {
-        "Target": "{X160Y140}Quistis{Line}...Значит...?{End}",
+        "Target": "{X160Y140}{Char Quistis}{Line}«...Значит...?»{End}",
         "Source Text SHA256": "EA8313FB65FF400DABC0CEFE5A3D44BA94189AAB0D5C0E149049F99C80F26815",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -410,7 +410,7 @@
         }
       },
       "$en_gmcont1_0049": {
-        "Target": "{X160Y140}Quistis{Line}Вот она!{End}",
+        "Target": "{X160Y140}{Char Quistis}{Line}«Вот она!»{End}",
         "Source Text SHA256": "F640891E663952D9C4F8427140BC2EE382DB226FA4199DF9F62FAE19AABE5E1A",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -418,7 +418,7 @@
         }
       },
       "$en_gmcont1_0050": {
-        "Target": "{X160Y140}Quistis{Line}............{Next}............{Next}Мы остановили ракеты.{Line} Пока мы в безопасности.{End}",
+        "Target": "{X160Y140}{Char Quistis}{Line}«............{Next}............{Next}Мы остановили ракеты.{Line} Пока мы в безопасности».{End}",
         "Source Text SHA256": "AF017CDCD326C600D8E0B64C8420A95A3DB7ED1647F1BE269840CEB6AC4F4D5C",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -426,7 +426,7 @@
         }
       },
       "$en_gmcont1_0051": {
-        "Target": "{X120Y140}Quistis{Line}Но механизм самоуничтожения{Line} базы, похоже, не здесь...{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}«Но механизм самоуничтожения{Line} базы, похоже, не здесь...»{End}",
         "Source Text SHA256": "9CFEF18356ACD5FB9539A29FB938F5A74E3C5E0A52E5976E21A279E932E25B65",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -434,7 +434,7 @@
         }
       },
       "$en_gmcont1_0052": {
-        "Target": "{X160Y140}Irvine{Line}Ага! Вот она!{End}",
+        "Target": "{X160Y140}{Char Irvine}{Line}«Ага! Вот она!»{End}",
         "Source Text SHA256": "55C284606B92AF8F89B98CB09603E917F3018372DE221856382688AD2CE3261C",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -442,7 +442,7 @@
         }
       },
       "$en_gmcont1_0053": {
-        "Target": "{X160Y140}Irvine{Line}...Вот блин...{Line} Сомневаюсь, что это она.{End}",
+        "Target": "{X160Y140}{Char Irvine}{Line}«...Вот блин...{Line} Сомневаюсь, что это она».{End}",
         "Source Text SHA256": "9BA2BE9B2427C7B00E186F99E9497AADE00843B6EC0C9271B6E0EF92F8E63C5C",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -450,7 +450,7 @@
         }
       },
       "$en_gmcont1_0054": {
-        "Target": "{X12Y12}Selphie{Line}............{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«............»{End}",
         "Source Text SHA256": "541781C21016CC0C96AE4F8535ACD5F0EBCC73DD5726933BB3AE4EEC67E0BE35",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -458,7 +458,7 @@
         }
       },
       "$en_gmcont1_0055": {
-        "Target": "{X160Y140}Irvine{Line}Осталась всего одна...{End}",
+        "Target": "{X160Y140}{Char Irvine}{Line}«Осталась всего одна...»{End}",
         "Source Text SHA256": "6AC74E2D5DB9108D61C479FF2CB614480EEF16B0A1BF7862E64625EC8FC69197",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -466,7 +466,7 @@
         }
       },
       "$en_gmcont1_0056": {
-        "Target": "{X160Y140}Irvine{Line}Погодите... Кажется, нашёл!{Line} Точно в цель!{End}",
+        "Target": "{X160Y140}{Char Irvine}{Line}«Погодите... Кажется, нашёл!{Line} Точно в цель!»{End}",
         "Source Text SHA256": "7D5643F2EEEFC671B0DF9B4BCA8356BAFCCDF00674B5938BBC0215E92C2A99AF",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -474,7 +474,7 @@
         }
       },
       "$en_gmcont1_0057": {
-        "Target": "{X160Y140}Irvine{Line}............{Next}............{Next}Готово!{Line} Вот это я удачно попал!{End}",
+        "Target": "{X160Y140}{Char Irvine}{Line}«............{Next}............{Next}Готово!{Line} Вот это я удачно попал!»{End}",
         "Source Text SHA256": "4C38B8EE93F649D3ADADAE1FD137511B07FD12D8E8B700EE865BF7F1CD8EC1BF",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -482,7 +482,7 @@
         }
       },
       "$en_gmcont1_0058": {
-        "Target": "{X120Y140}Irvine{Line}Ну вот...{Line} Механизм самоуничтожения{Line} явно не здесь...{End}",
+        "Target": "{X120Y140}{Char Irvine}{Line}«Ну вот...{Line} Механизм самоуничтожения{Line} явно не здесь...»{End}",
         "Source Text SHA256": "0CDD4A19AE28D5943187FADC8870D4F8964CB0858DD23B29E0F9BF32EC065F87",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -490,7 +490,7 @@
         }
       },
       "$en_gmcont1_0059": {
-        "Target": "{X12Y140}Zell{Line}Эй, ты куда?!{Line} Мы же ещё не всё обыскали!{End}",
+        "Target": "{X12Y140}{Char Zell}{Line}«Эй, ты куда?!{Line} Мы же ещё не всё обыскали!»{End}",
         "Source Text SHA256": "C7D6760A0C9F6030CA0D8D1BFB148C88CFEDBF34E97E3448287F7DAE61593CCC",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -498,7 +498,7 @@
         }
       },
       "$en_gmcont1_0060": {
-        "Target": "{X12Y140}{Char Rinoa}{Line}Ты куда?!{Line} Мы ещё не закончили искать!{End}",
+        "Target": "{X12Y140}{Char Rinoa}{Line}«Ты куда?!{Line} Мы ещё не закончили искать!»{End}",
         "Source Text SHA256": "9A32A1F04249B01F0D8ADDFCAF8BE5383D8103FDEE4F52DF045E7973EA187618",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -506,7 +506,7 @@
         }
       },
       "$en_gmcont1_0061": {
-        "Target": "{X12Y140}Quistis{Line}Сельфи, ты куда?{Line} Мы ещё даже не начали искать!{End}",
+        "Target": "{X12Y140}{Char Quistis}{Line}«Сельфи, ты куда?{Line} Мы ещё даже не начали искать!»{End}",
         "Source Text SHA256": "007C2FCDAA4C356131D5E8878474CE7D6B11C6D43C036527002CC587E5A076C9",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -514,7 +514,7 @@
         }
       },
       "$en_gmcont1_0062": {
-        "Target": "{X12Y140}Irvine{Line}Эээ... Ты куда? Мы{Line} же ещё не закончили искать.{End}",
+        "Target": "{X12Y140}{Char Irvine}{Line}«Эээ... Ты куда? Мы{Line} же ещё не закончили искать».{End}",
         "Source Text SHA256": "AEF14F79F72782038FC46D82065A41A328163472FDFD000F0954CBBC7AEE797A",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -522,7 +522,7 @@
         }
       },
       "$en_gmcont1_0063": {
-        "Target": "{X12Y12}............{End}",
+        "Target": "{X12Y12}«............»{End}",
         "Source Text SHA256": "D954178BD0AA0B87B65C0687E767FB4EB2F868E79184455AAB422DE9C9DE55AB",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -530,7 +530,7 @@
         }
       },
       "$en_gmcont1_0064": {
-        "Target": "{X12Y12}Soldier{Line}Хе-хе-хе... Это{Line} ещё не конец...{End}",
+        "Target": "{X12Y12}Солдат{Line}«Хе-хе-хе... Это{Line} ещё не конец...»{End}",
         "Source Text SHA256": "5A7DD86E106358DA290050113CA0454E3FB3F830C85701D6EAD85FEE45583C58",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",

@@ -2,7 +2,7 @@
   "Fields": {
     "etsta1": {
       "$en_etsta1_0000": {
-        "Target": "{X50Y10}Quistis{Line}”Опаздываешь, {Char Squall}.“{End}",
+        "Target": "{X50Y10}{Char Quistis}{Line}«Опаздываешь, {Char Squall}».{End}",
         "Source Text SHA256": "BB467D6282ABBAEF1880E907B6D2CE1C4EAB09DDAF4B67D55B87FE33F315154E",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -10,7 +10,7 @@
         }
       },
       "$en_etsta1_0001": {
-        "Target": "{X100Y50}Zell{Line}А принцесса ещё спит?{End}",
+        "Target": "{X100Y50}{Char Zell}{Line}«А принцесса ещё спит?»{End}",
         "Source Text SHA256": "6A6560E07E97ECCFADE673349C40EF104F6B3721DEB024B96AE211960A32F489",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -18,7 +18,7 @@
         }
       },
       "$en_etsta1_0002": {
-        "Target": "{X50Y10}Quistis{Line}Может она проснулась{Line} бы от поцелуя принца.{End}",
+        "Target": "{X50Y10}{Char Quistis}{Line}«Может она проснулась{Line} бы от поцелуя принца».{End}",
         "Source Text SHA256": "F2A2DF0DA196BA1C71A2F6B06A8A4A5E0E22FAB076D0D72119A426EFDEAC8191",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -26,7 +26,7 @@
         }
       },
       "$en_etsta1_0003": {
-        "Target": "{X50Y10}{Char Squall}{Line}И вы за этим сюда пришли?{Line} Чтобы посмеяться надо мной?{End}",
+        "Target": "{X50Y10}{Char Squall}{Line}«И вы за этим сюда пришли?{Line} Чтобы посмеяться надо мной?»{End}",
         "Source Text SHA256": "63401D00742CCB35FD35054106DC39E3CA69809039F72D6B950C9F0D8556F1BB",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -34,7 +34,7 @@
         }
       },
       "$en_etsta1_0004": {
-        "Target": "{X50Y10}Quistis{Line}Ты идёшь в Эстар, верно? Мы{Line} идём с тобой.{End}",
+        "Target": "{X50Y10}{Char Quistis}{Line}«Ты идёшь в Эстар, верно? Мы{Line} идём с тобой».{End}",
         "Source Text SHA256": "2CD14C96DFD430589C43622D8B733F212C37D5ABBD5676F53A99139F8430D6DB",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -42,7 +42,7 @@
         }
       },
       "$en_etsta1_0005": {
-        "Target": "{X100Y50}Zell{Line}Мы сопровождаем Эдею.{End}",
+        "Target": "{X100Y50}{Char Zell}{Line}«Мы сопровождаем Эдею».{End}",
         "Source Text SHA256": "A87B4AD8022AEFDE7A1A6688D106F2DECBEA3805F6B5891E66B1639A28EDFADD",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -50,7 +50,7 @@
         }
       },
       "$en_etsta1_0006": {
-        "Target": "{X50Y10}Sorceress Edea{Line}”Отправимся же в путь, {Char Squall}..“{End}",
+        "Target": "{X50Y10}Волшебница Эдея{Line}«Отправимся же в путь, {Char Squall}..»{End}",
         "Source Text SHA256": "12DC1FE21E0309DF2E78CEEE53D2C8232C372818601E5E95AA80D3439046BBD3",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -58,7 +58,7 @@
         }
       },
       "$en_etsta1_0007": {
-        "Target": "{X50Y10}Sorceress Edea{Line}Мы отправимся как только будем готовы.{End}",
+        "Target": "{X50Y10}Волшебница Эдея{Line}«Мы отправимся как только будем готовы».{End}",
         "Source Text SHA256": "FA5EC8844C39DB53B6007E0FF9AB43BCAF488E4242919C7BB6AC0EF6CF34DE5D",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -66,7 +66,7 @@
         }
       },
       "$en_etsta1_0008": {
-        "Target": "{X50Y10}{Char Squall}{Line}А у вас-то что за дело в Эстаре?{End}",
+        "Target": "{X50Y10}{Char Squall}{Line}«А у вас-то что за дело в Эстаре?»{End}",
         "Source Text SHA256": "EF3798257F8DA2206373E7ABA757A415FE2E9CBB04CB726909F7E93CCBAE2D55",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -74,7 +74,7 @@
         }
       },
       "$en_etsta1_0009": {
-        "Target": "{X50Y10}Sorceress Edea{Line}Я должна увидеться с доктором Одайном.{End}",
+        "Target": "{X50Y10}Волшебница Эдея{Line}«Я должна увидеться с доктором Одайном».{End}",
         "Source Text SHA256": "8FB824EA320CA4B9D00BDE46A467E3410AAF2C8854C340FD4B47424A2204667C",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -82,7 +82,7 @@
         }
       },
       "$en_etsta1_0010": {
-        "Target": "{X50Y10}Zell{Line}Доктор{Line} Одайн. Знакомое имя, да?{End}",
+        "Target": "{X50Y10}{Char Zell}{Line}«Доктор{Line} Одайн. Знакомое имя, да?»{End}",
         "Source Text SHA256": "012C61C197F7B45C1E52F69BD3C97946CEB2F4846327D230EA25105FA75E5368",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -98,7 +98,7 @@
         }
       },
       "$en_etsta1_0012": {
-        "Target": "{X50Y10}{Char Squall}{Line}Я помню, но...{Line} зачем он вам нужен?{End}",
+        "Target": "{X50Y10}{Char Squall}{Line}«Я помню, но...{Line} зачем он вам нужен?»{End}",
         "Source Text SHA256": "B45D92CD9FA7EF1E53461950BC9CB6870AA4AD2922642C4A1E32374AF3538A16",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -106,7 +106,7 @@
         }
       },
       "$en_etsta1_0013": {
-        "Target": "{X50Y10}{Char Squall}{Line}Расскажи мне.{End}",
+        "Target": "{X50Y10}{Char Squall}{Line}«Расскажи мне».{End}",
         "Source Text SHA256": "25F9EAF9439EE83A406B873905E16625FE5307C707AB3D312D13F66E23947FC4",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -114,7 +114,7 @@
         }
       },
       "$en_etsta1_0014": {
-        "Target": "{X50Y10}Zell{Line}Ты ведь знаешь известную марку «Одайн», верно?{Line} Это всё работа доктора Одайна.{End}",
+        "Target": "{X50Y10}{Char Zell}{Line}«Ты ведь знаешь известную марку „Одайн“, верно?{Line} Это всё работа доктора Одайна».{End}",
         "Source Text SHA256": "E86E71DB60114932AACF7AE0E639113E1B13EE818EBC5854F3389F8A9801FA0B",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -122,7 +122,7 @@
         }
       },
       "$en_etsta1_0015": {
-        "Target": "{X50Y10}Zell{Line}Когда речь заходит о знаниях, касающихся{Line} волшебниц, он — просто ас...{End}",
+        "Target": "{X50Y10}{Char Zell}{Line}«Когда речь заходит о знаниях, касающихся{Line} волшебниц, он — просто ас...»{End}",
         "Source Text SHA256": "46634A303B812DABFD801A01D09D71CB2992CF91C2A2B3DF4D55523A91B57E35",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -130,7 +130,7 @@
         }
       },
       "$en_etsta1_0016": {
-        "Target": "{X50Y10}{Char Squall}{Line}...Спасибо.{Line} Итак, зачем вам нужен этот доктор?{End}",
+        "Target": "{X50Y10}{Char Squall}{Line}«...Спасибо.{Line} Итак, зачем вам нужен этот доктор?»{End}",
         "Source Text SHA256": "1004A9FC6470ECB31BF02D4670D35A12645F67F2F3234C8578032AF5FEDA4B34",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -138,7 +138,7 @@
         }
       },
       "$en_etsta1_0017": {
-        "Target": "{X50Y10}{Char Squall}{Line}... Зачем он вам?{End}",
+        "Target": "{X50Y10}{Char Squall}{Line}«... Зачем он вам?»{End}",
         "Source Text SHA256": "9D571D9267E1C8F918EF29227DF53AF7E4F99B81FBAA41D059A1C9BB36D6B626",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -146,7 +146,7 @@
         }
       },
       "$en_etsta1_0018": {
-        "Target": "{X50Y10}Sorceress Edea{Line}Волшебница Ультимеция всё ещё жива.{Line} Она может завладеть моим телом{Line} в любое{Next}время. Если это{Line} произойдёт... я снова буду тираном.{End}",
+        "Target": "{X50Y10}Волшебница Эдея{Line}«Волшебница Ультимеция всё ещё жива.{Line} Она может завладеть моим телом{Line} в любое{Next}время. Если это{Line} произойдёт... я снова буду тираном».{End}",
         "Source Text SHA256": "B50A67104DFF28E06A72EFB8859B79E89BA0FAE8199809784E5D4518CAC2C13E",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -154,7 +154,7 @@
         }
       },
       "$en_etsta1_0019": {
-        "Target": "{X50Y10}Sorceress Edea{Line}Также я ценю своё{Line} здоровье. Я хочу защитить{Next}себя. Я бы{Line} хотела избавиться от силы{Line} волшебницы, если это возможно.{End}",
+        "Target": "{X50Y10}Волшебница Эдея{Line}«Также я ценю своё{Line} здоровье. Я хочу защитить{Next}себя. Я бы{Line} хотела избавиться от силы{Line} волшебницы, если это возможно».{End}",
         "Source Text SHA256": "8A2EF6CED7FD0B181C94F89ED8BAC0AB7E0AFEE748A9C863C54A849867EEF020",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -162,7 +162,7 @@
         }
       },
       "$en_etsta1_0020": {
-        "Target": "{X50Y10}Sorceress Edea{Line}Возможно, доктор Одайн знает способ. Может{Next}быть, он сможет меня спасти.{End}",
+        "Target": "{X50Y10}Волшебница Эдея{Line}«Возможно, доктор Одайн знает способ. Может{Next}быть, он сможет меня спасти».{End}",
         "Source Text SHA256": "BEF49E9E19F7F8478ABE5D8F31160B4C82E4F7901374275B9A2B120EFD8756B9",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -170,7 +170,7 @@
         }
       },
       "$en_etsta1_0021": {
-        "Target": "{X50Y10}{Char Squall}{Line}...Я понял.{Line} Тогда идем в Эстар.{End}",
+        "Target": "{X50Y10}{Char Squall}{Line}«...Я понял.{Line} Тогда идем в Эстар».{End}",
         "Source Text SHA256": "B5E4F9C73E3FD39A4FF324F9E7162E7BB3A35D9821D7FA29E734D380A169AEC1",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -178,7 +178,7 @@
         }
       },
       "$en_etsta1_0022": {
-        "Target": "{X50Y10}Selphie{Line}”Как оно, {Char Squall}?“{End}",
+        "Target": "{X50Y10}{Char Selphie}{Line}«Как оно, {Char Squall}?»{End}",
         "Source Text SHA256": "F77D21F15444463351F10DAD53C15DEA3610A87A07C490862317E82F44073DDD",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -186,7 +186,7 @@
         }
       },
       "$en_etsta1_0023": {
-        "Target": "{X50Y10}Selphie{Line}{Char Rinoa} всё ещё спит?{End}",
+        "Target": "{X50Y10}{Char Selphie}{Line}«{Char Rinoa} всё ещё спит?»{End}",
         "Source Text SHA256": "A6DD096F931A5FA0228CD2CEDD570119C93905968FCE9DCACAA70B16AD63F30B",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -194,7 +194,7 @@
         }
       },
       "$en_etsta1_0024": {
-        "Target": "{X50Y10}Selphie{Line}Тсс... Тсс...Тсс... ({Line}{Char Rinoa}такая лапочка, когда спит).{End}",
+        "Target": "{X50Y10}{Char Selphie}{Line}«Тсс... Тсс... Тсс...{Line} ({Char Rinoa} такая лапочка, когда спит.)»{End}",
         "Source Text SHA256": "F9E73D136800DEF9E600F68C1C2B4D69559D1E71EDD6A8B676D00E528F8588E6",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -202,7 +202,7 @@
         }
       },
       "$en_etsta1_0025": {
-        "Target": "{X50Y10}{Char Squall}{Line}Не об этом речь. Ну так{Line} что? Мы сможем добраться до Эстара?{End}",
+        "Target": "{X50Y10}{Char Squall}{Line}«Не об этом речь. Ну так{Line} что? Мы сможем добраться до Эстара?»{End}",
         "Source Text SHA256": "E8AA10353344F630129EB41C819EE73B1EEFEA9B9535092D6B7D58C96BDD781B",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -210,7 +210,7 @@
         }
       },
       "$en_etsta1_0026": {
-        "Target": "{X50Y10}Selphie{Line}Ууу! Ты что, краснеешь?!{End}",
+        "Target": "{X50Y10}{Char Selphie}{Line}«Ууу! Ты что, краснеешь?!»{End}",
         "Source Text SHA256": "6EC397B56985037FC18CBE38903BBCD2E125B20E172E35423EDAA73C2E0DC588",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -218,7 +218,7 @@
         }
       },
       "$en_etsta1_0027": {
-        "Target": "{X150Y10}Irvine{Line}Сельфи, не зли {Char Squall} а...{End}",
+        "Target": "{X150Y10}{Char Irvine}{Line}«Сельфи, не зли {Char Squall} а...»{End}",
         "Source Text SHA256": "F5442FB0583222EC3B5C062D4EE8DF08177B04B4CBFD156BEB34A32E4C104D12",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -226,7 +226,7 @@
         }
       },
       "$en_etsta1_0028": {
-        "Target": "{X100Y10}Irvine{Line}Эстар на этом континенте, верно? Должно{Line} быть, он огромный... Не{Next}знаю почему, но{Line} похоже он очень хорошо спрятан.{End}",
+        "Target": "{X100Y10}{Char Irvine}{Line}«Эстар на этом континенте, верно? Должно{Line} быть, он огромный... Не{Next}знаю почему, но{Line} похоже он очень хорошо спрятан».{End}",
         "Source Text SHA256": "A1DC72ED12375EBD88950D4BD28BD59451382AECCCBE2738864D3F9A270D6D18",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -234,7 +234,7 @@
         }
       },
       "$en_etsta1_0029": {
-        "Target": "{X50Y10}Selphie{Line}На севере и юге ничего не нашли... Тогда{Line} давайте двинем дальше {Color Blue}на{Color White} [восток]!{End}",
+        "Target": "{X50Y10}{Char Selphie}{Line}«На севере и юге ничего не нашли... Тогда{Line} давайте двинем дальше {Color Blue}на{Color White} [восток]!»{End}",
         "Source Text SHA256": "68296D1686FAEE69A8631AE19F830DDBA5725EDAE201327B4E8A24D05473D5A4",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -242,7 +242,7 @@
         }
       },
       "$en_etsta1_0030": {
-        "Target": "Селфи{Line}«Эге-гей!!!»{End}",
+        "Target": "{Char Selphie}{Line}«Эге-гей!!!»{End}",
         "Source Text SHA256": "91A672CD7B0384E02B67FFC9A3078577710F98B7084FDFE43ED545F8CA36B2AD",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -250,7 +250,7 @@
         }
       },
       "$en_etsta1_0031": {
-        "Target": "{X150Y150}Zell{Line}Эй, они вернулись.{End}",
+        "Target": "{X150Y150}{Char Zell}{Line}«Эй, они вернулись».{End}",
         "Source Text SHA256": "CE47F0BED796009E1B76535F8FD6D3B99E1B3A3E213BB6F76BCDEBFAC75F1AB2",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -258,7 +258,7 @@
         }
       },
       "$en_etsta1_0032": {
-        "Target": "{X50Y10}Quistis{Line}Они должны были разведать дорогу.{End}",
+        "Target": "{X50Y10}{Char Quistis}{Line}«Они должны были разведать дорогу».{End}",
         "Source Text SHA256": "42A6534019ABE3FACE39EF2CBFE475BCE8A78979164B3BB97BF893C3468891D1",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -266,7 +266,7 @@
         }
       },
       "$en_etsta1_0033": {
-        "Target": "{X100Y50}Quistis{Line}Мы тоже планируем пойти в Эстар.{End}",
+        "Target": "{X100Y50}{Char Quistis}{Line}«Мы тоже планируем пойти в Эстар».{End}",
         "Source Text SHA256": "B3F9AA0648FDD39E251B1ADB5E7EA48B5285559C4302A922F813CBBE3A287BFE",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
@@ -274,7 +274,7 @@
         }
       },
       "$en_etsta1_0034": {
-        "Target": "{X150Y50}Zell{Line}Мы сопровождаем Эдею.{End}",
+        "Target": "{X150Y50}{Char Zell}{Line}«Мы сопровождаем Эдею».{End}",
         "Source Text SHA256": "A87B4AD8022AEFDE7A1A6688D106F2DECBEA3805F6B5891E66B1639A28EDFADD",
         "sourceContext": {
           "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",

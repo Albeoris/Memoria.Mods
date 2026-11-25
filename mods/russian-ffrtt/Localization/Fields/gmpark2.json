@@ -2,7 +2,7 @@
   "Fields": {
     "gmpark2": {
       "$en_gmpark2_0000": {
-        "Target": "{X160Y140}Captain{Line}Вы не уйдёте отсюда живыми!{Line} Это{Next}оскорбит Эдею!{Line} А я не{Next}хочу испытывать на себе её гнев!{End}",
+        "Target": "{X160Y140}Капитан{Line}«Вы не уйдёте отсюда живыми!{Line} Это{Next}оскорбит Эдею!{Line} А я не{Next}хочу испытывать на себе её гнев!»{End}",
         "Source Text SHA256": "507648FFC5B7B5463D0A5E54E13808B103B6F4ACC90EE3BCDE44AC108DCD2E48",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gmpark2_0001": {
-        "Target": "{X160Y140}Captain{Line}Все готовы?!{End}",
+        "Target": "{X160Y140}Капитан{Line}«Все готовы?!»{End}",
         "Source Text SHA256": "DD1EF0B8C08327F5995D503F4EFB14EB565BD93502CC4299A318DA1B5C5D48FA",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gmpark2_0002": {
-        "Target": "Driver{Line}Да, сэр!{End}",
+        "Target": "Водила{Line}«Да, сэр!»{End}",
         "Source Text SHA256": "7F97A4037E40A2398019A7F3C6131CC864C284D9F1BC6A2544892D96A6ED7D40",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gmpark2_0002_ctx_946bf576fd7da4fb": {
-        "Target": "{X12Y12}Driver{Line}Так точно!{End}",
+        "Target": "{X12Y12}Водила{Line}«Так точно!»{End}",
         "Source Text SHA256": "7F97A4037E40A2398019A7F3C6131CC864C284D9F1BC6A2544892D96A6ED7D40",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gmpark2_0002_ctx_de0ea87e0fbd3ce0": {
-        "Target": "{X200Y12}Driver{Line}Так точно!{End}",
+        "Target": "{X200Y12}Водила{Line}«Так точно!»{End}",
         "Source Text SHA256": "7F97A4037E40A2398019A7F3C6131CC864C284D9F1BC6A2544892D96A6ED7D40",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gmpark2_0003": {
-        "Target": "Gunner{Line}Да, сэр!{End}",
+        "Target": "Стрелок{Line}«Да, сэр!»{End}",
         "Source Text SHA256": "B39AA64BCDF5162940FB56E103B5198540AC5A1A7C3232FD14BC994CE9A4301B",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gmpark2_0004": {
-        "Target": "{X160Y140}Captain{Line}Отлично, поехали!{End}",
+        "Target": "{X160Y140}Капитан{Line}«Отлично, поехали!»{End}",
         "Source Text SHA256": "DA3F0F951A36390396C5504F2D03177C36FAC168F26D8AD4EF4954B2AD295C52",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gmpark2_0006": {
-        "Target": "{X12Y12}(({Char Squall} , теперь вся надежда{Line} только на тебя.){End}",
+        "Target": "{X12Y12}({Char Squall}, теперь вся надежда{Line} только на тебя.){End}",
         "Source Text SHA256": "7253D2C22D21AD5B61CB3DB74DC50AE66031B666F1D8B9ED84C2D52AC6AD4838",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gmpark2_0011": {
-        "Target": "{X160Y12}Quistis{Line}Смерть{Next}подкралась незаметно.{Line} Я думала, конец будет более драматичным...{End}",
+        "Target": "{X160Y12}{Char Quistis}{Line}«Смерть{Next}подкралась незаметно.{Line} Я думала, конец будет более драматичным...»{End}",
         "Source Text SHA256": "F0CAB0493A7218459FDE66F3F96D153D69200087A107084C4CF2DEF257FA9F0A",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gmpark2_0012": {
-        "Target": "{X160Y12}Irvine{Line}...Короткая же вышла жизнь.{Next}Как приехали, так и чуял...{Line} И всё же...{End}",
+        "Target": "{X160Y12}{Char Irvine}{Line}«...Короткая же вышла жизнь».{Next}«Как приехали, так и чуял...{Line} И всё же...»{End}",
         "Source Text SHA256": "5ADF4D8B32FD3394BB730BC4CC1D66FB49E89CCB7635C74A6DE8C6E7D7647E46",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gmpark2_0013": {
-        "Target": "{X160Y12}{Char Rinoa}{Line}Я не хочу умирать!{Line} Столько всего ещё хочется успеть!{End}",
+        "Target": "{X160Y12}{Char Rinoa}{Line}«Я не хочу умирать!{Line} Столько всего ещё хочется успеть!»{End}",
         "Source Text SHA256": "183A855D46234D780B69085D306C95A0B37CC075E850FF69E0B57A201C33E748",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gmpark2_0014": {
-        "Target": "{X160Y12}Zell{Line}Я всегда думал о том,{Line} когда настанет этот день.{Next}Моя жизнь была полна сражений... И{Line} вроде я уже готов к смерти...{End}",
+        "Target": "{X160Y12}{Char Zell}{Line}«Я всегда думал о том,{Line} когда настанет этот день».{Next}«Моя жизнь была полна сражений... И{Line} вроде я уже готов к смерти...»{End}",
         "Source Text SHA256": "0A7A9B3A33D4374C320382B9818540BD4CFEA134F2C8FB18692407DD17C6B1F1",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gmpark2_0015": {
-        "Target": "{X160Y12}Zell{Line}Но когда я думаю о том, что мне предстоит умереть прямо сейчас...{End}",
+        "Target": "{X160Y12}{Char Zell}{Line}«Но когда я думаю о том, что мне предстоит умереть прямо сейчас...»{End}",
         "Source Text SHA256": "683C09076E0A64C88B9E42E6DDB4575B77D7AA7F778C690D3200AE11E942F140",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gmpark2_0016": {
-        "Target": "{X160Y12}Zell{Line}Чёрт, это меня бесит!{End}",
+        "Target": "{X160Y12}{Char Zell}{Line}«Чёрт, это меня бесит!»{End}",
         "Source Text SHA256": "7A8C5052ED03603A8074F82963A95928EDD91B9E62134623DCA741080B996657",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gmpark2_0017": {
-        "Target": "{X12Y12}Quistis{Line}{Char Squall}... Почему ты выбрал нас?{Line} Неужели он знал,{Line} чем всё кончится?{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«{Char Squall}... Почему ты выбрал нас?{Line} Неужели он знал,{Line} чем всё кончится?»{End}",
         "Source Text SHA256": "44DF173F6E3E1B11514CACA3CB2E5AFE6AB87F0F7D1BD8FC9DE2AE85891524E2",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gmpark2_0018": {
-        "Target": "{X12Y12}Irvine{Line}”{Char Squall}... Он не доверял мне. Неужели{Line} он определил меня в эту команду, потому что знал, что{Line} всё закончится именно так?!“{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}«{Char Squall}... Он не доверял мне. Неужели{Line} он определил меня в эту команду, потому что знал, что{Line} всё закончится именно так?!»{End}",
         "Source Text SHA256": "98979D00428BC3517EEAE053BAFFFCF988FBC980A291988D0EB56EFCA5E257F6",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -170,7 +170,7 @@
         }
       },
       "$en_gmpark2_0019": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}”...Неужели ты настолько ненавидел меня, {Char Squall}, что назначил именно{Line} в эту команду?“{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}«...Неужели ты настолько ненавидел меня, {Char Squall}, что назначил именно{Line} в эту команду?»{End}",
         "Source Text SHA256": "E6DF3D084956136B8A33B307AC43EA3CEE967F8B3A725FE35359B81DE643EC3B",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -178,7 +178,7 @@
         }
       },
       "$en_gmpark2_0020": {
-        "Target": "{X12Y12}Zell{Line}{Char Squall}... Он меня, наверное, терпеть не мог.{Line} Вот и отправил с вами.{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«{Char Squall}... Он меня, наверное, терпеть не мог.{Line} Вот и отправил с вами».{End}",
         "Source Text SHA256": "287D10453B9A74D4616CD65C8AF588DFABBF6587098C00595E2336D33B79F076",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -218,7 +218,7 @@
         }
       },
       "$en_gmpark2_0025": {
-        "Target": "{X12Y12}Selphie{Line}{Char Squall}... Ребята...{Line} Простите... Мы не справились...{Next}Координаты цели...{Line} Мы их не изменили... Конец...{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«{Char Squall}... Ребята...{Line} Простите... Мы не справились...»{Next}«Координаты цели...{Line} Мы их не изменили... Конец...»{End}",
         "Source Text SHA256": "6598510F0082412328DC07AF0509889E94C88A03BACDC1FFC7DFA49663CF058D",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",

@@ -2,7 +2,7 @@
   "Fields": {
     "bgmast_3": {
       "$en_bgmast_3_0000": {
-        "Target": "{X10Y10}Квистис{Line}«Что стало с Хозяином?»{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Что стало с Хозяином?»{End}",
         "Source Text SHA256": "45FD67958DCB0F6A3C166B27DF745B095474D0937A6137BC586A2C902406A84E",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -10,7 +10,7 @@
         }
       },
       "$en_bgmast_3_0001": {
-        "Target": "{X10Y10}Zell{Line}Что это, мать вашу, сейчас было?{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Что это, мать вашу, сейчас было?»{End}",
         "Source Text SHA256": "A3E8C7984A8FAF852856C5EE8CC3F87B26E740683EEBC5CE7EEDE7AA371D20D2",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bgmast_3_0002": {
-        "Target": "{X10Y10}Irvine{Line}Ребят, может, объясните что сейчас произошло?{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Ребят, может, объясните что сейчас произошло?»{End}",
         "Source Text SHA256": "058337650D2A5EC913E813718A71C7D89490AEFC9D2F569689D9D6822B67B95B",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgmast_3_0004": {
-        "Target": "{X10Y10}{Char Squall}{Line}Да ничего{Line} особенного.{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}«Да ничего{Line} особенного».{End}",
         "Source Text SHA256": "8CE77C477FE3C117B7D5A244D948AFBB57AB6DB91BCC8BEB1999FDA00A778B88",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgmast_3_0005": {
-        "Target": "{X10Y10}Квистис{Line}«Как ты можешь быть таким беспечным?{Line} Это серьёзно».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Как ты можешь быть таким беспечным?{Line} Это серьёзно».{End}",
         "Source Text SHA256": "5C012925C26A993CBBB3B27B43529C33FC323272B87FB03B45874ADE4B00758F",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bgmast_3_0006": {
-        "Target": "{X10Y10}Зелл{Line}«В смысле, забудь?!{Line} Ты видел, что сейчас было!»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«В смысле, забудь?!{Line} Ты видел, что сейчас было!»{End}",
         "Source Text SHA256": "2764EF2C2C7AD19A8D4C55C932CE635F6C094D9806922B29D35630D78BD6038C",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgmast_3_0007": {
-        "Target": "{X10Y10}Ирвин{Line}«Не делай такое невозмутимое лицо.{Line} Дело серьёзное».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Не делай такое невозмутимое лицо.{Line} Дело серьёзное».{End}",
         "Source Text SHA256": "13BF69DA9A2E41A19FF47A852070757CA5EEBD1FF5D1C4FA86119940BA364242",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgmast_3_0009": {
-        "Target": "{X50Y80}{Char Squall}{Line}Какой смысл сейчас говорить об этом?! Мы{Line} ведь понятия не имеем, что происходит!{End}",
+        "Target": "{X50Y80}{Char Squall}{Line}«Какой смысл сейчас говорить об этом?! Мы{Line} ведь понятия не имеем, что происходит!»{End}",
         "Source Text SHA256": "68148FF802F96146FA74C08DE10DA59BD51B4641DCF38F58AA3D1707EE7054B5",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgmast_3_0012": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}”{Char Squall}......“{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«{Char Squall}......»{End}",
         "Source Text SHA256": "12734AA7B1167EB7F512EE16C7E9BDD33AACC8BDAD6432AEAFBD4DDA8DAD43DA",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bgmast_3_0013": {
-        "Target": "{X10Y10}Зелл{Line}«…Ага. Пожалуй,{Line} ты прав».{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«…Ага. Пожалуй,{Line} ты прав».{End}",
         "Source Text SHA256": "5249A699B353178D2EC1CB2FA7E28809F5868954F6F0A8BFEC4C488C73F731D5",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bgmast_3_0014": {
-        "Target": "{X10Y10}Зелл{Line}«Пойдём поговорим с директором.{Line} Он наверняка знает, что происходит».{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Пойдём поговорим с директором.{Line} Он наверняка знает, что происходит».{End}",
         "Source Text SHA256": "18B6F7AC8926833800D49BB139503399D1124D608A8C4150EBAB10096C10BB93",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bgmast_3_0015": {
-        "Target": "{X10Y10}Quistis{Line}...Ну...{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«...Ну...»{End}",
         "Source Text SHA256": "C0250C9ECEA9EE07E84E087275521F6017B162160DF22CA78B07DB2374087A94",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bgmast_3_0016": {
-        "Target": "{X10Y10}Может, директор нам{Line} всё разъяснит?{End}",
+        "Target": "{X10Y10}«Может, директор нам{Line} всё разъяснит?»{End}",
         "Source Text SHA256": "4004F7242CFFBBA4EBDD034E93A15F0EC15DD931D46C54C675FF1D8ADF13B006",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bgmast_3_0017": {
-        "Target": "{X10Y10}Ирвин{Line}«…Итак…»{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«…Итак…»{End}",
         "Source Text SHA256": "533A950EEA9784796D31C44D90AE2213E0C7E168FDC2BECF5E85585D8C7913A8",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bgmast_3_0018": {
-        "Target": "{X10Y10}Ирвин{Line}«Слушай, почему бы тебе не поговорить{Line} с вашим директором?{Line} Он ведь наверняка всё знает».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Слушай, почему бы тебе не поговорить{Line} с вашим директором?{Line} Он ведь наверняка всё знает».{End}",
         "Source Text SHA256": "DFC6B5F986E2A2E6B169836483CBF375C83038509F55E67D798715A20661CFE2",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -522,7 +522,7 @@
         }
       },
       "$en_bgmast_3_0051": {
-        "Target": "Баламб{End}",
+        "Target": "«Баламб»{End}",
         "Source Text SHA256": "871A0300D8AA38AE603035A5A5F60C8DA8ED46B229104983658126ACFB69FDED",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -538,7 +538,7 @@
         }
       },
       "$en_bgmast_3_0053": {
-        "Target": "Трабия{End}",
+        "Target": "«Трабия»{End}",
         "Source Text SHA256": "12CF51F7E397AB3FB8CCB6CA25520A415813E46D417FD46E28FC16B14C8C64C3",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -546,7 +546,7 @@
         }
       },
       "$en_bgmast_3_0054": {
-        "Target": "Центра{End}",
+        "Target": "«Центра»{End}",
         "Source Text SHA256": "D4184566D64E8547C54109BF91374B12DACE77F43C4D706DCC0146531F4993E7",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -554,7 +554,7 @@
         }
       },
       "$en_bgmast_3_0055": {
-        "Target": "Доллет{End}",
+        "Target": "«Доллет»{End}",
         "Source Text SHA256": "46773D3A69B492298060ECD52D98A38E46845EF2A5D2FFA1FABF6A83B0A722EC",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -578,7 +578,7 @@
         }
       },
       "$en_bgmast_3_0058": {
-        "Target": "Эстар{End}",
+        "Target": "«Эстар»{End}",
         "Source Text SHA256": "58400EFBC3A84DCEE059DA50B57791E00C52344C9E7B9880ED4B38461DBE3746",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",
@@ -586,7 +586,7 @@
         }
       },
       "$en_bgmast_3_0059": {
-        "Target": "Без дополнительных правил{End}",
+        "Target": "«Без дополнительных правил»{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "BA2985D4A9E1274EF23B7EAAB24EC1E07B6E5D8BA39FBD86D5E7E0C8C910C5C1",

@@ -10,7 +10,7 @@
         }
       },
       "$en_timania5_0001": {
-        "Target": "{X160Y120F2L3B2C1}”Привет. Что я могу{Line} сделать для тебя, дорогуша?“{Line}(Мы хотим осмотреться){Line}(Ничего, спасибо){End}",
+        "Target": "{X160Y120F2L3B2C1}«Привет. Что я могу{Line} сделать для тебя, дорогуша?»{Line}(Мы хотим осмотреться){Line}(Ничего, спасибо){End}",
         "Source Text SHA256": "89AD646E4CC2C290ED1875FC5E2E024611833799A4A78D8AC14384735CE7228F",
         "sourceContext": {
           "Source MSD SHA256": "B300377F1DE9818C0BF348F61D959BB7A562CA027244F0AD2CC091514C0F02D2",
@@ -18,7 +18,7 @@
         }
       },
       "$en_timania5_0002": {
-        "Target": "{X10Y12}{Char Squall}{Line}Мы просто хотим осмотреться.{End}",
+        "Target": "{X10Y12}{Char Squall}{Line}«Мы просто хотим осмотреться».{End}",
         "Source Text SHA256": "6D8AA08D9B1AB52897C36505ABA9368C7AD50FED493CF7FEEADF69630782FFD4",
         "sourceContext": {
           "Source MSD SHA256": "B300377F1DE9818C0BF348F61D959BB7A562CA027244F0AD2CC091514C0F02D2",
@@ -26,7 +26,7 @@
         }
       },
       "$en_timania5_0003": {
-        "Target": "{X160Y120}А,{Line} хорошо. Давайте.{End}",
+        "Target": "{X160Y120}«А,{Line} хорошо. Давайте».{End}",
         "Source Text SHA256": "28939AF6200EFE0C10397DAFE77E0A7F76E8F8305C439DEC505D3ED555E48AB8",
         "sourceContext": {
           "Source MSD SHA256": "B300377F1DE9818C0BF348F61D959BB7A562CA027244F0AD2CC091514C0F02D2",
@@ -34,7 +34,7 @@
         }
       },
       "$en_timania5_0004": {
-        "Target": "{X10Y12}{Char Squall}{Line}Ничего.{End}",
+        "Target": "{X10Y12}{Char Squall}{Line}«Ничего».{End}",
         "Source Text SHA256": "D194D860F528AF95DDC8AA9B7EB6951D8CE57B5A43BABCCDF820698C0E98CD46",
         "sourceContext": {
           "Source MSD SHA256": "B300377F1DE9818C0BF348F61D959BB7A562CA027244F0AD2CC091514C0F02D2",
@@ -42,7 +42,7 @@
         }
       },
       "$en_timania5_0005": {
-        "Target": "{X160Y120}Ооо, тихоня. Мне это{Line} нравится. Ладно, я оставлю вас{Line} в покое, так что можете осмотреться.{End}",
+        "Target": "{X160Y120}«Ооо, тихоня. Мне это{Line} нравится. Ладно, я оставлю вас{Line} в покое, так что можете осмотреться».{End}",
         "Source Text SHA256": "985C38541C60788608DDC0D573E162DFB15BE3E2471B8962613046B4C5BCE1F0",
         "sourceContext": {
           "Source MSD SHA256": "B300377F1DE9818C0BF348F61D959BB7A562CA027244F0AD2CC091514C0F02D2",
@@ -50,7 +50,7 @@
         }
       },
       "$en_timania5_0006": {
-        "Target": "{X160Y120}Симпатичным парням вроде тебя всегда{Line} рады. Осматривайся сколько захочешь.{End}",
+        "Target": "{X160Y120}«Симпатичным парням вроде тебя всегда{Line} рады. Осматривайся сколько захочешь».{End}",
         "Source Text SHA256": "03074E1C2196A5C9DA6B60C70416B88A985519AB31F4659121736F1C5E5CBB8C",
         "sourceContext": {
           "Source MSD SHA256": "B300377F1DE9818C0BF348F61D959BB7A562CA027244F0AD2CC091514C0F02D2",
@@ -66,7 +66,7 @@
         }
       },
       "$en_timania5_0008": {
-        "Target": "{X160Y120}Заходите ещё.{End}",
+        "Target": "{X160Y120}«Заходите ещё».{End}",
         "Source Text SHA256": "148F41D30B7FE453071FA2E95AB1267B501E36FE72A4C5ECBD5329A1EB8981E4",
         "sourceContext": {
           "Source MSD SHA256": "B300377F1DE9818C0BF348F61D959BB7A562CA027244F0AD2CC091514C0F02D2",
@@ -74,7 +74,7 @@
         }
       },
       "$en_timania5_0009": {
-        "Target": "{X12Y12}Editor{Line}Эй, ребята!{End}",
+        "Target": "{X12Y12}Редактор{Line}«Эй, ребята!»{End}",
         "Source Text SHA256": "605D5E7B9783E2E469724DAC3E4271CB1487E95D3EA915845C7FBD3D845A0402",
         "sourceContext": {
           "Source MSD SHA256": "B300377F1DE9818C0BF348F61D959BB7A562CA027244F0AD2CC091514C0F02D2",
@@ -82,7 +82,7 @@
         }
       },
       "$en_timania5_0010": {
-        "Target": "{X12Y12}Editor{Line}Мой вам совет! Вы всё ещё{Line} молоды! Не дайте жизни пройти впустую!{End}",
+        "Target": "{X12Y12}Редактор{Line}«Мой вам совет! Вы всё ещё{Line} молоды! Не дайте жизни пройти впустую!»{End}",
         "Source Text SHA256": "9AB5E8BD227E9EFF912E2B17CC9FA64A8E528E536A3DE56BAFAEED0E377F2D6B",
         "sourceContext": {
           "Source MSD SHA256": "B300377F1DE9818C0BF348F61D959BB7A562CA027244F0AD2CC091514C0F02D2",

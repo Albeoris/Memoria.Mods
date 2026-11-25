@@ -18,7 +18,7 @@
         }
       },
       "$en_bghall_2_0002": {
-        "Target": "{X44Y8}Сад выглядит таким пустым.{Line} Стольких людей не стало...{End}",
+        "Target": "{X44Y8}«Сад выглядит таким пустым.{Line} Стольких людей не стало...»{End}",
         "Source Text SHA256": "FBD9D5C64B2C1FD3DC04CB3E2ACFAE01CEDC5D35D92EFB34F1E6E930800128B9",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bghall_2_0020": {
-        "Target": "{X93Y8}Эй...{Line} Всё и правда закончилось?{End}",
+        "Target": "{X93Y8}«Эй...{Line} Всё и правда закончилось?»{End}",
         "Source Text SHA256": "58D6AE4A717B7C2128636FAAAD313EFB9B116C9619DC4216360E538B0EE0D62A",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -186,7 +186,7 @@
         }
       },
       "$en_bghall_2_0023": {
-        "Target": "{X129Y40}Внутренний двор{End}",
+        "Target": "{X129Y40}«Внутренний двор»{End}",
         "Source Text SHA256": "30B1549CA03E477D66BDA1C6B289A3A0E9C7F2531326C11A03216DEA985FA021",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -194,7 +194,7 @@
         }
       },
       "$en_bghall_2_0024": {
-        "Target": "{X115Y130}Медпункт{End}",
+        "Target": "{X115Y130}«Медпункт»{End}",
         "Source Text SHA256": "347FDA0F8EA761C28BBC6A1306B3CC3B7D2438F147B30B89954EE50156FE1759",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -202,7 +202,7 @@
         }
       },
       "$en_bghall_2_0025": {
-        "Target": "Преподаватель{Line}“В ночные часы все помещения закрыты,{Line} за исключение тернировочного центра.”{Next}“Вернись в общежитие.”",
+        "Target": "Преподаватель{Line}«В ночные часы все помещения закрыты,{Line} за исключение тернировочного центра».{Next}«Вернись в общежитие».",
         "Source Text SHA256": "650AA0EC8F98E5650B424D03609EACB4E2BCB74C3191FD20F8333141D633FA99",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -210,7 +210,7 @@
         }
       },
       "$en_bghall_2_0025_ctx_a531aa081f502301": {
-        "Target": "{X33Y112}Преподаватель{Line}“В ночные часы все помещения закрыты,{Line} за исключение тернировочного центра.”{Next}“Вернись в общежитие.”",
+        "Target": "{X33Y112}Преподаватель{Line}«В ночные часы все помещения закрыты,{Line} за исключение тернировочного центра».{Next}«Вернись в общежитие».",
         "Source Text SHA256": "650AA0EC8F98E5650B424D03609EACB4E2BCB74C3191FD20F8333141D633FA99",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -218,7 +218,7 @@
         }
       },
       "$en_bghall_2_0025_ctx_fa18b34ca4149528": {
-        "Target": "{X33Y8}Преподаватель{Line}“В ночные часы все помещения закрыты,{Line} за исключение тернировочного центра.”{Next}“Вернись в общежитие.”",
+        "Target": "{X33Y8}Преподаватель{Line}«В ночные часы все помещения закрыты,{Line} за исключение тернировочного центра».{Next}«Вернись в общежитие».",
         "Source Text SHA256": "650AA0EC8F98E5650B424D03609EACB4E2BCB74C3191FD20F8333141D633FA99",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -226,7 +226,7 @@
         }
       },
       "$en_bghall_2_0026": {
-        "Target": "{X68Y10F1L2B1C2}Эй, сыграешь со мной в карты?{Line}Да{Line}Нет{End}",
+        "Target": "{X68Y10F1L2B1C2}«Эй, сыграешь со мной в карты?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "3A7772B1AEB41730E25F0AC8C5C735997826F78E6134AB94B31B6BFBBC9ACFC7",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -706,7 +706,7 @@
         }
       },
       "$en_bghall_2_0072": {
-        "Target": "Баламб{End}",
+        "Target": "«Баламб»{End}",
         "Source Text SHA256": "588E5A0C901DA9573BBFBCBC7DFC0417D41958591E7B88A88BE8260A8E72379B",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -722,7 +722,7 @@
         }
       },
       "$en_bghall_2_0074": {
-        "Target": "Трабия{End}",
+        "Target": "«Трабия»{End}",
         "Source Text SHA256": "F6AD33B6D709C41DF449BD5FFB8E0DE328B2BA50FE0976CC8D226CAD719E3C55",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -730,7 +730,7 @@
         }
       },
       "$en_bghall_2_0075": {
-        "Target": "Центра{End}",
+        "Target": "«Центра»{End}",
         "Source Text SHA256": "CF88B33D26A1274D2E43EFA6F5EB9FC39F62B83DE681E3D4D1C0DA4C44AED747",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -738,7 +738,7 @@
         }
       },
       "$en_bghall_2_0076": {
-        "Target": "Доллет{End}",
+        "Target": "«Доллет»{End}",
         "Source Text SHA256": "B0ABB598561F8B0A690C33A749348FF34C27B05031641DC0A66285D736143E59",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -762,7 +762,7 @@
         }
       },
       "$en_bghall_2_0079": {
-        "Target": "Эстар{End}",
+        "Target": "«Эстар»{End}",
         "Source Text SHA256": "FDFFD6B74CF8BA356D3DEF39577EB22D67E187554B864637C9ABCECA5C0789B3",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",
@@ -770,7 +770,7 @@
         }
       },
       "$en_bghall_2_0080": {
-        "Target": "Без дополнительных правил{End}",
+        "Target": "«Без дополнительных правил»{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "830C1184CADD42CFB99C03D3D2354836FE00CC861A5B1D5272C130C6A733B7F3",

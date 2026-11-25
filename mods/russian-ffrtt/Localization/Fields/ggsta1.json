@@ -2,7 +2,7 @@
   "Fields": {
     "ggsta1": {
       "$en_ggsta1_0000": {
-        "Target": "{X56Y10F3L4B3C4}Station Staff{Line}Билет до Делинга стоит 3 000{Line} гилей. Будете брать? Да Нет{Line}Yes{Line}No{End}",
+        "Target": "{X56Y10F3L4B3C4}Работник станции{Line}«Билет до Делинга стоит 3 000{Line} гилей. Будете брать? Да Нет»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "43E0A7F6FE808DBFA3B39AF7CFA4B35F1C07C80C549F08A0DACF6679574591E7",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ggsta1_0004": {
-        "Target": "{X172Y160}Male Student{Line}Блин, это отстой...{End}",
+        "Target": "{X172Y160}Студент{Line}«Блин, это отстой...»{End}",
         "Source Text SHA256": "6D4CD2B9599BAED93106B27F88AD61AEFB60B19C8C24808C28FF92F0A68DC4C8",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ggsta1_0005": {
-        "Target": "{X100Y160}Female Student{Line}Что именно?{End}",
+        "Target": "{X100Y160}Студентка{Line}«Что именно?»{End}",
         "Source Text SHA256": "73EA756A6954E33DB1BAF4FA7C69E7BD367924411043F9173B6BC6B69C2499EF",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ggsta1_0006": {
-        "Target": "{X126Y160}Male Student{Line}Ну, понимаешь, война.{Line} Можно сказать, что вся{Line} страна сходит с ума.{End}",
+        "Target": "{X126Y160}Студент{Line}«Ну, понимаешь, война.{Line} Можно сказать, что вся{Line} страна сходит с ума».{End}",
         "Source Text SHA256": "81B4AF1BACAEEE4F1D85FC68623471CC6284287CA9D0B6FF81D9BA0F3913D4D1",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ggsta1_0007": {
-        "Target": "{X130Y160}Male Student{Line}Да ещё и волшебница.{End}",
+        "Target": "{X130Y160}Студент{Line}«Да ещё и волшебница».{End}",
         "Source Text SHA256": "4249565D615CD4523D8326205A69DFEB54A9955672804947220D1FE86CF29B6A",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ggsta1_0008": {
-        "Target": "{X100Y160}Female Student{Line}Так это типа будет повторение войны{Line} с волшебницей, которую мы изучали?{End}",
+        "Target": "{X100Y160}Студентка{Line}«Так это типа будет повторение войны{Line} с волшебницей, которую мы изучали?»{End}",
         "Source Text SHA256": "1CFDB4786D914A17EE352316DD38AB1E2DA2FEC5AA3FE30A084363B9D9121B46",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ggsta1_0009": {
-        "Target": "{X143Y160}Male Student{Line}Ну, есть ещё кое-что.{Line} Это ужасно, скажу я тебе...{End}",
+        "Target": "{X143Y160}Студент{Line}«Ну, есть ещё кое-что.{Line} Это ужасно, скажу я тебе...»{End}",
         "Source Text SHA256": "A89C836A6FB23F628339DB99C74BB4F4D64C8C9E213F03BA4EB5870B158935BB",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ggsta1_0010": {
-        "Target": "{X100Y160}Female Student{Line}Не может БЫТЬ! Ты серьёзно?!{End}",
+        "Target": "{X100Y160}Студентка{Line}«Не может БЫТЬ! Ты серьёзно?!»{End}",
         "Source Text SHA256": "27E72CB06975B1EA4D08C43CD965244251CBCB7AB243FF9A6D5FE70903169059",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ggsta1_0011": {
-        "Target": "{X96Y160}Male Student{Line}Да, она хочет сделать{Line} этот сад своей базой.{End}",
+        "Target": "{X96Y160}Студент{Line}«Да, она хочет сделать{Line} этот сад своей базой».{End}",
         "Source Text SHA256": "1AC2777E332DCFB5E4B4C95D85ED8EECCFB5991FC96930C80522A335269886BC",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ggsta1_0012": {
-        "Target": "{X100Y160}Female Student{Line}Волшебница?! Своей базой?!{End}",
+        "Target": "{X100Y160}Студентка{Line}«Волшебница?! Своей базой?!»{End}",
         "Source Text SHA256": "56BB7D7C6EB1C6A8C4BBF27D77082C7D14EC65571F41F6042DC7715091EA02C8",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ggsta1_0013": {
-        "Target": "{X68Y160}Male Student{Line}Знаешь, что будет потом?{End}",
+        "Target": "{X68Y160}Студент{Line}«Знаешь, что будет потом?»{End}",
         "Source Text SHA256": "012F3F37CE9A78A77D16310AB4E30E260BEA11874D5F850CB672095AA775FA67",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ggsta1_0014": {
-        "Target": "{X72Y160}Male Student{Line}Сад будет захвачен, а нас{Line} всех убьют, порубят, уберут...{End}",
+        "Target": "{X72Y160}Студент{Line}«Сад будет захвачен, а нас{Line} всех убьют, порубят, уберут...»{End}",
         "Source Text SHA256": "64B72DEA53EF9E27BDC0C403C46DA5AFA5544CE912BDC78E995BAFC5C63A0914",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ggsta1_0015": {
-        "Target": "Female Student{Line}Это страаашно! Я{Line} еду домой!{End}",
+        "Target": "Студентка{Line}«Это страаашно! Я{Line} еду домой!»{End}",
         "Source Text SHA256": "FE004FA68AA3B0D2BBE429711DE1D362028F299D719E69136C3B4D5E96C7BAD1",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ggsta1_0015_ctx_3cd72e74d2300e01": {
-        "Target": "{X100Y160}Студентка{Line}Это страаашно! Я{Line} еду домой!{End}",
+        "Target": "{X100Y160}Студентка{Line}«Это страаашно! Я{Line} еду домой!»{End}",
         "Source Text SHA256": "FE004FA68AA3B0D2BBE429711DE1D362028F299D719E69136C3B4D5E96C7BAD1",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ggsta1_0015_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Студентка{Line}Это страаашно! Я{Line} еду домой!{End}",
+        "Target": "{X10Y10}Студентка{Line}«Это страаашно! Я{Line} еду домой!»{End}",
         "Source Text SHA256": "FE004FA68AA3B0D2BBE429711DE1D362028F299D719E69136C3B4D5E96C7BAD1",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ggsta1_0016": {
-        "Target": "{X10Y10}Male Student{Line}Очень страшнооо!{End}",
+        "Target": "{X10Y10}Студент{Line}«Очень страшнооо!»{End}",
         "Source Text SHA256": "B2FBA87AA96F414046A823EDA4F8346BDAF1E9A4ED79E42FEDDB2105C9589AD8",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ggsta1_0017": {
-        "Target": "{X157Y60}Ну что, ребят, заскочим{Line} туда, где обычно?{End}",
+        "Target": "{X157Y60}«Ну что, ребят, заскочим{Line} туда, где обычно?»{End}",
         "Source Text SHA256": "E84257054E4326DD502DCD6FEB026104CA7F4F81FCA17D4D6BF28CC16E87AFB6",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ggsta1_0018": {
-        "Target": "{X10Y30}Это куда?{End}",
+        "Target": "{X10Y30}«Это куда?»{End}",
         "Source Text SHA256": "4F0420C63019C87E0A3735E38E7D44243A84744457AF4EE09339C689AB624ECE",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ggsta1_0019": {
-        "Target": "{X107Y60}Торговый центр в Делинге.{End}",
+        "Target": "{X107Y60}«Торговый центр в Делинге».{End}",
         "Source Text SHA256": "C76ECE374641E55430132094F64107B07C208E1658F3F9BA751EF1C0ABB01778",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -178,7 +178,7 @@
         }
       },
       "$en_ggsta1_0020": {
-        "Target": "{X100Y10}Только не{Line} я! Мне ещё домашнюю работу делать.{End}",
+        "Target": "{X100Y10}«Только не{Line} я! Мне ещё домашнюю работу делать».{End}",
         "Source Text SHA256": "4F08403298B2AE6F12376F1319E1677991A519431B32C5B6285410947C7C0650",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ggsta1_0021": {
-        "Target": "{X117Y60}Давай, всего лишь на минутку.{End}",
+        "Target": "{X117Y60}«Давай, всего лишь на минутку».{End}",
         "Source Text SHA256": "849416E155CF1D788BC707C55D0C670DB001EEC4805F6E794F9BA1EC9E5D8FDD",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -194,7 +194,7 @@
         }
       },
       "$en_ggsta1_0022": {
-        "Target": "{X100Y10}Это вам, ребята, хорошо.{Line} Вы живёте совсем близко.{Line} А мне приходится делать две пересадки!{End}",
+        "Target": "{X100Y10}«Это вам, ребята, хорошо.{Line} Вы живёте совсем близко.{Line} А мне приходится делать две пересадки!»{End}",
         "Source Text SHA256": "C71AB3DCAFD431DE5F1BA519B7CC8B8CCAAAE64571BDE36064950F5A3DD688AD",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -202,7 +202,7 @@
         }
       },
       "$en_ggsta1_0023": {
-        "Target": "{X10Y30}Так получи уже права, наконец!{End}",
+        "Target": "{X10Y30}«Так получи уже права, наконец!»{End}",
         "Source Text SHA256": "3CE6B402B169CF45DB875384B0DB8D476866B1910A92DF1E1A9AF215363935FF",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",
@@ -210,7 +210,7 @@
         }
       },
       "$en_ggsta1_0024": {
-        "Target": "{X100Y10}Понимаешь, мой папа{Line} усложняет мне жизнь.{End}",
+        "Target": "{X100Y10}«Понимаешь, мой папа{Line} усложняет мне жизнь».{End}",
         "Source Text SHA256": "CA9A83272AD2517485D1BB24E991C925076701F8A61F9D0D20B1312F76B39148",
         "sourceContext": {
           "Source MSD SHA256": "1D132E4204E38BD0118C96A2B56E7A07E597B23A241E591B3DFECEE7284C5109",

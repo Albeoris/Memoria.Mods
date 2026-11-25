@@ -2,7 +2,7 @@
   "Fields": {
     "fhtown24": {
       "$en_fhtown24_0000": {
-        "Target": "{X20Y20}Selphie{Line}”{Char Squall}!!!!!!“{End}",
+        "Target": "{X20Y20}{Char Selphie}{Line}«{Char Squall}!!!!!!»{End}",
         "Source Text SHA256": "053224A95FB205EBB1C5CA21C2DFAC314EE4DD42109BDD7E40192154630A941E",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -18,7 +18,7 @@
         }
       },
       "$en_fhtown24_0002": {
-        "Target": "{X12Y12}{Char Squall}{Line}Сельфи...{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Сельфи...»{End}",
         "Source Text SHA256": "69EAFE8F91289817881D8A7C6872C6FED615701F5ECE167B47C14D52AD16306A",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -26,7 +26,7 @@
         }
       },
       "$en_fhtown24_0003": {
-        "Target": "{X12Y12}{Char Squall}{Line}Зелл, {Char Rinoa}.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Зелл, {Char Rinoa}.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "0C19BD272BB3C341F64A3E937EA3368556AF1D2DDEFF094EFAF3EA7BDE651A26",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -34,7 +34,7 @@
         }
       },
       "$en_fhtown24_0004": {
-        "Target": "{X12Y12}{Char Squall}{Line}Зелл, Квистис.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Зелл, Квистис.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "FDEBD7DE92F05A48B5F936D6CFBF781E2C75078A103FEC5DCC334F210D9074C6",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -42,7 +42,7 @@
         }
       },
       "$en_fhtown24_0005": {
-        "Target": "{X12Y12}{Char Squall}{Line}Зелл, Ирвин.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Зелл, Ирвин.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "929A41F4D160ABB72DFE628941A079478A81A806A229ED742F86F012ED22D860",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -50,7 +50,7 @@
         }
       },
       "$en_fhtown24_0006": {
-        "Target": "{X12Y12}{Char Squall}{Line}{Char Rinoa}, Зелл.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«{Char Rinoa}, Зелл.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "05C1A45EDCE0C171D3633452A6360B2519B9055847C509CAC3C6B46EF343C397",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -58,7 +58,7 @@
         }
       },
       "$en_fhtown24_0007": {
-        "Target": "{X12Y12}{Char Squall}{Line}{Char Rinoa}, Квистис.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«{Char Rinoa}, Квистис.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "68EA12EC707413FD336031B39A9D4FF128426EFC90C05EEB146EB38A2ED57D23",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -66,7 +66,7 @@
         }
       },
       "$en_fhtown24_0008": {
-        "Target": "{X12Y12}{Char Squall}{Line}{Char Rinoa}, Ирвин.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«{Char Rinoa}, Ирвин.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "995206A722EC17B7DF0F7CE56D41F950EE99FDE9EF5519D9888B84DCB9AC3584",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -74,7 +74,7 @@
         }
       },
       "$en_fhtown24_0009": {
-        "Target": "{X12Y12}{Char Squall}{Line}Квистис, Зелл.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Квистис, Зелл.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "2A1ECAA9AD53708640D5699314CD985745D48AD7BE4A42BC356820629DC938B8",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -82,7 +82,7 @@
         }
       },
       "$en_fhtown24_0010": {
-        "Target": "{X12Y12}{Char Squall}{Line}Квистис, {Char Rinoa}.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Квистис, {Char Rinoa}.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "5914ECD8F847B8DCA5CB97AF60D43EBDBD08AEF00E989A79F9381B43554ABEB9",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -90,7 +90,7 @@
         }
       },
       "$en_fhtown24_0011": {
-        "Target": "{X12Y12}{Char Squall}{Line}Квистис, Ирвин.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Квистис, Ирвин.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "63ADC2F8919985BF6D04FE322D7D2EC515DE92C8B15B2531824C63986281AB98",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -98,7 +98,7 @@
         }
       },
       "$en_fhtown24_0012": {
-        "Target": "{X12Y12}{Char Squall}{Line}Ирвин, Зелл.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Ирвин, Зелл.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "44DADF9AFEDC6DB2122A83E43B2E4F4747ED09D6D3E0D5A64C319BBEE24E0F74",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -106,7 +106,7 @@
         }
       },
       "$en_fhtown24_0013": {
-        "Target": "{X12Y12}{Char Squall}{Line}Ирвин, {Char Rinoa}.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Ирвин, {Char Rinoa}.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "83AB1FB101FF7FC7A4DCA82FA92675740B7A9521C3F13F5983CD42972209EF5B",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -114,7 +114,7 @@
         }
       },
       "$en_fhtown24_0014": {
-        "Target": "{X12Y12}{Char Squall}{Line}Ирвин, Квистис.{Line}Как же я рад вас видеть.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Ирвин, Квистис.{Line}Как же я рад вас видеть».{End}",
         "Source Text SHA256": "98F7CB06857F7621037F06031BD8FB00376707C3FFCB2BB037980C1DC50BEBAB",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -122,7 +122,7 @@
         }
       },
       "$en_fhtown24_0015": {
-        "Target": "{X160Y12}{Char Rinoa}{Line}Сад уцелел?!{End}",
+        "Target": "{X160Y12}{Char Rinoa}{Line}«Сад уцелел?!»{End}",
         "Source Text SHA256": "7D5EBED0B906471DFEFFB70ED9FE0D30EB140D3B43EA76D8BC105667A7FA1215",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -130,7 +130,7 @@
         }
       },
       "$en_fhtown24_0016": {
-        "Target": "{X160Y12}Zell{Line}И {Char Squall}{Line} мы рады, с садом-то что?{End}",
+        "Target": "{X160Y12}{Char Zell}{Line}«И {Char Squall}{Line} мы рады, с садом-то что?»{End}",
         "Source Text SHA256": "64BEC2925770B1314B9C6C720E1A185E81ADC5D1AF49DF1DE686C293C8E3DC69",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -138,7 +138,7 @@
         }
       },
       "$en_fhtown24_0017": {
-        "Target": "{X160Y12}Квистис{Line}{Char Squall}, с Садом всё в порядке?!{End}",
+        "Target": "{X160Y12}{Char Quistis}{Line}«{Char Squall}, с Садом всё в порядке?!»{End}",
         "Source Text SHA256": "7BB595A8CC548078E4F9862685475FBB89911562D45A56064BE2074E63220C55",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -146,7 +146,7 @@
         }
       },
       "$en_fhtown24_0018": {
-        "Target": "{X160Y12}Ирвин{Line}Слушай, что случилось с Садом?{End}",
+        "Target": "{X160Y12}{Char Irvine}{Line}«Слушай, что случилось с Садом?»{End}",
         "Source Text SHA256": "F2B88B85715E074409593C4C1740430BDCFF299C68ED05906ACB0E25C984A7A7",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -162,7 +162,7 @@
         }
       },
       "$en_fhtown24_0020": {
-        "Target": "{X20Y20}{Char Squall}{Line}Сад в безопасности.{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Сад в безопасности».{End}",
         "Source Text SHA256": "C084DB7F00DAD097BF639921C9B1E9875FB8951ADC8C5E7BAE4C8F46FF7DFFB3",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -170,7 +170,7 @@
         }
       },
       "$en_fhtown24_0021": {
-        "Target": "{X12Y40}Selphie{Line}Правда?!!! Вуу-хуу!!!{End}",
+        "Target": "{X12Y40}{Char Selphie}{Line}«Правда?!!! Вуу-хуу!!!»{End}",
         "Source Text SHA256": "8E453FD2FDA0FE332DA34BED3B8D3084CDDD195A351DEBEC8973F5D54F6DBF2D",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -178,7 +178,7 @@
         }
       },
       "$en_fhtown24_0022": {
-        "Target": "{X20Y20}{Char Squall}{Line}Ребят, что с{Line} вами было?{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Ребят, что с{Line} вами было?»{End}",
         "Source Text SHA256": "72C9BF60D5132A58582996BDB7DF8D24743ACCDA2B1E21306E96586788288375",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -186,7 +186,7 @@
         }
       },
       "$en_fhtown24_0023": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}{Char Squall}, может,{Line}поговорим об этом потом?{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}«{Char Squall}, может,{Line}поговорим об этом потом?»{End}",
         "Source Text SHA256": "2BF2BEE5FE9BF903330E2C276AB7AECE60D047F9FF7B454B64339F584D407510",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -194,7 +194,7 @@
         }
       },
       "$en_fhtown24_0024": {
-        "Target": "{X12Y12}Зелл{Line}Эй, давай потом об этом.{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«Эй, давай потом об этом».{End}",
         "Source Text SHA256": "5448B1B3768217ECA8258F3F867A394663F8A28683BCAE1CB95918D3E9B7C9BD",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -202,7 +202,7 @@
         }
       },
       "$en_fhtown24_0025": {
-        "Target": "{X12Y12}Quistis{Line}”{Char Squall}, давай оставим это{Line} на потом.“{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«{Char Squall}, давай оставим это{Line} на потом».{End}",
         "Source Text SHA256": "F00D5D718A884145B61514F5EDEA3821DC77B652DF74E79B1A9CF0586F4D56F3",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -210,7 +210,7 @@
         }
       },
       "$en_fhtown24_0026": {
-        "Target": "{X12Y12}Irvine{Line}Эй, давайте поговорим об этом потом.{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}«Эй, давайте поговорим об этом потом».{End}",
         "Source Text SHA256": "1131470E3D2C722FA0AC64B2F8F64BF47CCF7FA92294EF7B516126BC69EAA3F7",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -226,7 +226,7 @@
         }
       },
       "$en_fhtown24_0028": {
-        "Target": "{X20Y20}{Char Squall}{Line}Зелл, {Char Rinoa}, почему{Line} бы вам не{Next}отвести их обратно{Line} в Сад?{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Зелл, {Char Rinoa}, почему{Line} бы вам не{Next}отвести их обратно{Line} в Сад?»{End}",
         "Source Text SHA256": "B20F4D76CED7F87F74A8494E375D3F2CA52A33A369B092EB157C037D835307E9",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -234,7 +234,7 @@
         }
       },
       "$en_fhtown24_0029": {
-        "Target": "{X20Y20}Зелл, Квистис,{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«Зелл, Квистис,{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "6DA59067F4AC98231491C38C370AB05E01FC856D6853AC961CB27166ADFF8E85",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -242,7 +242,7 @@
         }
       },
       "$en_fhtown24_0030": {
-        "Target": "{X20Y20}Зелл, Ирвин,{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«Зелл, Ирвин,{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "BDFA2D7DA5BFAD5812340216291A4D2F15DC4F2EBE80E4EA740E9A5BC82F3A5D",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -250,7 +250,7 @@
         }
       },
       "$en_fhtown24_0031": {
-        "Target": "{X20Y20}{Char Rinoa}, Зелл,{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«{Char Rinoa}, Зелл,{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "264F6ED0D8024F7846E6D53D1C9D1D3FA4DE338FF5E89F57ED554FAE452317A0",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -258,7 +258,7 @@
         }
       },
       "$en_fhtown24_0032": {
-        "Target": "{X20Y20}{Char Rinoa}, Квистис,{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«{Char Rinoa}, Квистис,{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "2AE31956BE07233EA15D591E72B9312CA8BF11C481DC33E31C5F2E06711CB27E",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -266,7 +266,7 @@
         }
       },
       "$en_fhtown24_0033": {
-        "Target": "{X20Y20}{Char Rinoa}, Ирвин,{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«{Char Rinoa}, Ирвин,{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "DCD18A82E2AD701C657867999C6F8C902B6F56C30E831C5E2ED6D72691A33756",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -274,7 +274,7 @@
         }
       },
       "$en_fhtown24_0034": {
-        "Target": "{X20Y20}Квистис, Зелл,{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«Квистис, Зелл,{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "A7700C70E358F7D2B827297E7A0E4255496C1E33AAB3286F0C6E9D00B5428D94",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -282,7 +282,7 @@
         }
       },
       "$en_fhtown24_0035": {
-        "Target": "{X20Y20}Квистис, {Char Rinoa},{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«Квистис, {Char Rinoa},{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "D0F22FE9D1BB2F4B10919DA0A7101A4152AFE610C25DCE3A7AD6C05F3F4383DA",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -290,7 +290,7 @@
         }
       },
       "$en_fhtown24_0036": {
-        "Target": "{X20Y20}Квистис, Ирвин,{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«Квистис, Ирвин,{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "89C34C22F6C312AC85007182360FB6DC8453C4BA2E03CDA7AD62A0FB94E13BC6",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -298,7 +298,7 @@
         }
       },
       "$en_fhtown24_0037": {
-        "Target": "{X20Y20}Ирвин, Зелл,{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«Ирвин, Зелл,{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "FD207B8CF502363CC74C69882B23160B7B2D1C1DBEA8EB678ADB5246ACAF5AD6",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -306,7 +306,7 @@
         }
       },
       "$en_fhtown24_0038": {
-        "Target": "{X20Y20}Ирвин, {Char Rinoa},{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«Ирвин, {Char Rinoa},{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "BF4CA4255BF5477529012EC8DF7A14DB17B285F9B178D40732EFFD5108169031",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",
@@ -314,7 +314,7 @@
         }
       },
       "$en_fhtown24_0039": {
-        "Target": "{X20Y20}Ирвин, Квистис,{Line}отведите их обратно в Сад, ладно?{Next}Увидимся позже,{Line}мне ещё надо осмотреться.{End}",
+        "Target": "{X20Y20}«Ирвин, Квистис,{Line}отведите их обратно в Сад, ладно?»{Next}«Увидимся позже,{Line}мне ещё надо осмотреться».{End}",
         "Source Text SHA256": "AEA7E571DDCE7A8890E3BBF2FC458D11442A904716522149873D87D727FDBAC1",
         "sourceContext": {
           "Source MSD SHA256": "EBDDE8CF28C1CCE757C718B92FB7E8BBC45C4D4B21D5EF30BD5F95F90CDCF573",

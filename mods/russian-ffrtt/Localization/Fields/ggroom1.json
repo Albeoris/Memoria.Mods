@@ -2,7 +2,7 @@
   "Fields": {
     "ggroom1": {
       "$en_ggroom1_0000": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}Так вот, значит, где{Line} училась Квистис!{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«Так вот, значит, где{Line} училась Квистис!»{End}",
         "Source Text SHA256": "C61817FB46BECB1055CD97965E791D6AF0F780A042FAD910F4E66420E1E53D3B",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -10,7 +10,7 @@
         }
       },
       "$en_ggroom1_0001": {
-        "Target": "{X10Y10}Selphie{Line}Интересно, а у них{Line} здесь тоже есть садовый фестиваль?{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Интересно, а у них{Line} здесь тоже есть садовый фестиваль?»{End}",
         "Source Text SHA256": "EF65B1E9D45ABBEB770F8A6E662BCECCC65A7E2946CAB2E32D31150103AFF1B5",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ggroom1_0002": {
-        "Target": "{X143Y30}Zell{Line}И долго{Line} нам ещё ждать?..{End}",
+        "Target": "{X143Y30}{Char Zell}{Line}«И долго{Line} нам ещё ждать?..»{End}",
         "Source Text SHA256": "1E9153B4F2A9BFA8711FC791D79ACE0D17CC0D74496DD7484AC1F7E91C5456CB",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ggroom1_0003": {
-        "Target": "{X207Y10}{Char Squall}{Line}Как всё прошло?{End}",
+        "Target": "{X207Y10}{Char Squall}{Line}«Как всё прошло?»{End}",
         "Source Text SHA256": "B0AD8DED8E26E91F26B720D928DF0F7E40C961A80E32E35DC953A337ED633162",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ggroom1_0004": {
-        "Target": "{X5Y5}Quistis{Line}Они поняли{Line} нашу ситуацию.{End}",
+        "Target": "{X5Y5}{Char Quistis}{Line}«Они поняли{Line} нашу ситуацию».{End}",
         "Source Text SHA256": "CD4E309AA9AC83BD7810253DD4FB109883E04150FECECDAD9C37BE69C7259D81",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ggroom1_0005": {
-        "Target": "{X10Y10}Quistis{Line}И сад Баламба в безопасности.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«И сад Баламба в безопасности».{End}",
         "Source Text SHA256": "11F1C3BE52A6A1E396CEBFC42A23E7017D2282A0DFF2942735E7B1B4B450220B",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ggroom1_0006": {
-        "Target": "{X10Y10}Quistis{Line}Атака на президента в Тимбере{Line} была классифицирована как независимая акция.{Next}Гальбадианским правительством было сделано{Line} официальное заявление, гласящее, что сад{Line} Баламба не понесёт{Line} никакой ответственности.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Атака на президента в Тимбере{Line} была классифицирована как независимая акция».{Next}«Гальбадианским правительством было сделано{Line} официальное заявление, гласящее, что сад{Line} Баламба не понесёт{Line} никакой ответственности».{End}",
         "Source Text SHA256": "4CA4951E19A55D983851BC8618CCDF0CA03870E038F7C3F782D6ABF03222FDDF",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ggroom1_0007": {
-        "Target": "{X76Y10}Zell{Line}Значит, во всём обвинили Сейфера?{End}",
+        "Target": "{X76Y10}{Char Zell}{Line}«Значит, во всём обвинили Сейфера?»{End}",
         "Source Text SHA256": "5B36FD0FD35529B769C654E223A7DB53A00262729ED426C0C5F3F09BCD86774E",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ggroom1_0008": {
-        "Target": "{X10Y10}Quistis{Line}Суд окончен и{Line} было вынесено решение...{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Суд окончен и{Line} было вынесено решение...»{End}",
         "Source Text SHA256": "7D447227949BC3EE61787EA538A100EB4E4BF4ACD1CD81AA1FC63882EBEA3D7A",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ggroom1_0009": {
-        "Target": "{X159Y10}{Char Rinoa}{Line}...Его казнили?{End}",
+        "Target": "{X159Y10}{Char Rinoa}{Line}«...Его казнили?»{End}",
         "Source Text SHA256": "06F55C95449DDB39452DC01B8ACAE54578C170A6994C65872A189F6A32C436F3",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ggroom1_0010": {
-        "Target": "{X115Y10}{Char Rinoa}{Line}...Конечно. Он{Line} ведь напал на президента.{End}",
+        "Target": "{X115Y10}{Char Rinoa}{Line}«...Конечно. Он{Line} ведь напал на президента».{End}",
         "Source Text SHA256": "083CE9719560F8BC0D33F44470FBEB4D1CD7A35300E1E5E237553EE515D0C55C",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ggroom1_0011": {
-        "Target": "{X143Y156}{Char Rinoa}{Line}Он пожертвовал собой{Line} ради «Лесных сов»...{End}",
+        "Target": "{X143Y156}{Char Rinoa}{Line}«Он пожертвовал собой{Line} ради „Лесных сов“...»{End}",
         "Source Text SHA256": "EC6074C5EE8B862FE4EE997AB5ACF77BF863A135F30D60C0A8A440986DCEDB30",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ggroom1_0012": {
-        "Target": "{X120Y130}Quistis{Line}Ваша группа вовлекла{Line} Сейфера во всё это.{End}",
+        "Target": "{X120Y130}{Char Quistis}{Line}«Ваша группа вовлекла{Line} Сейфера во всё это».{End}",
         "Source Text SHA256": "8E9B638AC8557AF8979E813CDB4AF1F465DF053C965DD788EC340A3F2E11ADA5",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ggroom1_0013": {
-        "Target": "{X10Y10}Quistis{Line}Вы ведь группировка сопротивления, верно?{Line} Вы должны были быть готовы к наихудшему.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Вы ведь группировка сопротивления, верно?{Line} Вы должны были быть готовы к наихудшему».{End}",
         "Source Text SHA256": "55C1E6B4F3789CA75DAD666D8BA2A1118F075035131E94A5C412299D7988D40D",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ggroom1_0014": {
-        "Target": "{X10Y10}Quistis{Line}Я уверена, что Сейфер тоже был готов.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Я уверена, что Сейфер тоже был готов».{End}",
         "Source Text SHA256": "A70683015725EFDE7687C86B32939C61F68C1CCC1AEAAF43D66681DBE1A8EBCD",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ggroom1_0015": {
-        "Target": "{X10Y10}Quistis{Line}Поэтому не надо думать об этом{Line} так, словно Сейфер пожертвовал собой ради вас.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Поэтому не надо думать об этом{Line} так, словно Сейфер пожертвовал собой ради вас».{End}",
         "Source Text SHA256": "D45C34604D1EE00068CC6BCE4B7595A0CDDAF5E3A258A5A8762C26DED81F1044",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ggroom1_0016": {
-        "Target": "{X10Y10}Quistis{Line}Прости. Я не{Line} хотела тебя задеть.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Прости. Я не{Line} хотела тебя задеть».{End}",
         "Source Text SHA256": "77A48A7BFE00DC7DDFC7B67228D3A7F7E90EE9812D6B28E808652A398132A400",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ggroom1_0017": {
-        "Target": "{X162Y10}Zell{Line}Парень мне не нравился,{Line} но казнить?..{End}",
+        "Target": "{X162Y10}{Char Zell}{Line}«Парень мне не нравился,{Line} но казнить?..»{End}",
         "Source Text SHA256": "CF7D5E1ED243D0962B66517AC87D4461ECBF50EBAE31CB429920457085A93A89",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ggroom1_0018": {
-        "Target": "Квистис{Line}«{Char Rinoa}, откуда ты его знаешь?{Line} Вы так близко общались».{End}",
+        "Target": "{Char Quistis}{Line}«{Char Rinoa}, откуда ты его знаешь?{Line} Вы так близко общались».{End}",
         "Source Text SHA256": "50AFE9516DCDC8CCBFC94D86B01B247E3089C19BFC398605C665FCE40DB1E16D",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ggroom1_0019": {
-        "Target": "{X168Y70}{Char Rinoa}{Line}Мне... он очень нравился.{End}",
+        "Target": "{X168Y70}{Char Rinoa}{Line}«Мне... он очень нравился».{End}",
         "Source Text SHA256": "F2F95AF7A3CC15823423242A738DF6AA06430DF4C2736862B5F42184D251524A",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ggroom1_0020": {
-        "Target": "{X121Y70}{Char Rinoa}{Line}Он всегда{Line} был полон уверенности, умён...{End}",
+        "Target": "{X121Y70}{Char Rinoa}{Line}«Он всегда{Line} был полон уверенности, умён...»{End}",
         "Source Text SHA256": "7340C4A1AFFD363AA2389DE24DDF53E483569D32ED8E57FD0B7F31D6C0F6A1A6",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ggroom1_0021": {
-        "Target": "{X64Y70}{Char Rinoa}{Line}Просто поговорив с ним, я{Line} чувствовала, будто бы мне под силу всё на свете.{End}",
+        "Target": "{X64Y70}{Char Rinoa}{Line}«Просто поговорив с ним, я{Line} чувствовала, будто бы мне под силу всё на свете».{End}",
         "Source Text SHA256": "D10BC9127FDA0E5EE5AB1A01F3BC5431368F996731E0E329256F23BAE994C363",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -178,7 +178,7 @@
         }
       },
       "$en_ggroom1_0022": {
-        "Target": "{X160Y10}Selphie{Line}Твой парень?{End}",
+        "Target": "{X160Y10}{Char Selphie}{Line}«Твой парень?»{End}",
         "Source Text SHA256": "9342C25B9131FBC31B3B0EED55CA066DEC191C3706CCAE8555744E7819D36484",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ggroom1_0023": {
-        "Target": "{X140Y158}{Char Rinoa}{Line}Я, по правде говоря, не знаю.{End}",
+        "Target": "{X140Y158}{Char Rinoa}{Line}«Я, по правде говоря, не знаю».{End}",
         "Source Text SHA256": "F6040F6DE31B3F707181CBB707892A7D0829C2528C74E17EBA351D90677BC7BF",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -194,7 +194,7 @@
         }
       },
       "$en_ggroom1_0024": {
-        "Target": "{X157Y10}{Char Rinoa}{Line}{Line} Я... думаю я была влюблена.{End}",
+        "Target": "{X157Y10}{Char Rinoa}{Line}{Line} «Я... думаю я была влюблена».{End}",
         "Source Text SHA256": "ECCDEBCE37BB4F1F72B23CD692D1D75C30D50B7A6F398914AA8B0FDDC40FD012",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -202,7 +202,7 @@
         }
       },
       "$en_ggroom1_0025": {
-        "Target": "{X139Y10}{Char Rinoa}{Line}Интересно, а что чувствовал он?..{End}",
+        "Target": "{X139Y10}{Char Rinoa}{Line}«Интересно, а что чувствовал он?..»{End}",
         "Source Text SHA256": "916E46AC89A78041C7A97311A73B3DA0DE11A9994A77E3CFE39575EBF9040330",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -210,7 +210,7 @@
         }
       },
       "$en_ggroom1_0026": {
-        "Target": "{X10Y10}Selphie{Line}Он всё ещё тебе нравится?{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Он всё ещё тебе нравится?»{End}",
         "Source Text SHA256": "8DF29F64FB1219B6B01861C7A6AF1A00A0308C91C7BC2C32F783A0443E249F52",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -218,7 +218,7 @@
         }
       },
       "$en_ggroom1_0027": {
-        "Target": "{X31Y10}{Char Rinoa}{Line}Если бы не нравился, я не говорила бы об этом.{End}",
+        "Target": "{X31Y10}{Char Rinoa}{Line}«Если бы не нравился, я не говорила бы об этом».{End}",
         "Source Text SHA256": "448E76A5756DE33722BE35431FFBC17B0CC77358A912EBA0F8325AB69F324814",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -226,7 +226,7 @@
         }
       },
       "$en_ggroom1_0028": {
-        "Target": "{X140Y10}Это было прошлым летом...{End}",
+        "Target": "{X140Y10}«Это было прошлым летом...»{End}",
         "Source Text SHA256": "ED31735B62111454C4F7588A64BDBA50CABF05540D364FD921DE85850BCFA378",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -234,7 +234,7 @@
         }
       },
       "$en_ggroom1_0029": {
-        "Target": "{X160Y10}{Char Rinoa}{Line}Мне было{Line} 16. Море нежных воспоминаний...{End}",
+        "Target": "{X160Y10}{Char Rinoa}{Line}«Мне было{Line} 16. Море нежных воспоминаний...»{End}",
         "Source Text SHA256": "6FA8EE518FD2AE56F25B3472DA5E9BFEA5B70A5A14D11371CC4DAFDF672FD854",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -242,7 +242,7 @@
         }
       },
       "$en_ggroom1_0030": {
-        "Target": "{X10Y10}Quistis{Line}У меня нет о{Line} нём хороших воспоминаний.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«У меня нет о{Line} нём хороших воспоминаний».{End}",
         "Source Text SHA256": "268D75302960BC05B9E05E5F050D5085C41F59AC7CFAC350F815C5C567B26E9F",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -250,7 +250,7 @@
         }
       },
       "$en_ggroom1_0031": {
-        "Target": "{X10Y10}Quistis{Line}Я видела проблемных детей, но{Line} он был чересчур проблемным.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Я видела проблемных детей, но{Line} он был чересчур проблемным».{End}",
         "Source Text SHA256": "1A8FDCD9B6044977C7694E5F46106D99A069E48CAD0024855151F55A46609A55",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -258,7 +258,7 @@
         }
       },
       "$en_ggroom1_0032": {
-        "Target": "{X10Y10}Quistis{Line}Хотя, он и не был плохим.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Хотя, он и не был плохим».{End}",
         "Source Text SHA256": "BB559F0EA7F2E8F8956F4C171C7D2900FD3844BC2D3BBDA5E92DD7CF25690950",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -266,7 +266,7 @@
         }
       },
       "$en_ggroom1_0033": {
-        "Target": "{X100Y10}Selphie{Line}Ты очень ненавидел Сейфера, не{Line} так ли, Зелл?!{End}",
+        "Target": "{X100Y10}{Char Selphie}{Line}«Ты очень ненавидел Сейфера, не{Line} так ли, Зелл?!»{End}",
         "Source Text SHA256": "8E5458802A324F9E788805777D8C705FA91C098F2745728A6EF3EE1C485CF778",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -274,7 +274,7 @@
         }
       },
       "$en_ggroom1_0034": {
-        "Target": "{X208Y30}Zell{Line}Да, но...{End}",
+        "Target": "{X208Y30}{Char Zell}{Line}«Да, но...»{End}",
         "Source Text SHA256": "B9444C1B6FD9A7F747B2DE3CCDDA1ED5883E6F0E41D96BAEA7421322FDF929B0",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -282,7 +282,7 @@
         }
       },
       "$en_ggroom1_0035": {
-        "Target": "{X153Y30}Zell{Line}Он был из сада... Он{Line} был одним из нас.{End}",
+        "Target": "{X153Y30}{Char Zell}{Line}«Он был из сада... Он{Line} был одним из нас».{End}",
         "Source Text SHA256": "9D7F0830D28BB47871EB41B989EF40C89ED376DFB4590BEC111866166A3DB9E8",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -290,7 +290,7 @@
         }
       },
       "$en_ggroom1_0036": {
-        "Target": "{X153Y30}Zell{Line}Я{Line} бы отомстил, если мог.{End}",
+        "Target": "{X153Y30}{Char Zell}{Line}«Я{Line} бы отомстил, если мог».{End}",
         "Source Text SHA256": "3A2D319FE845EB1E4273EAB9DF85C9B0C1D70623B8B1EF36256A083CD3923379",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -298,7 +298,7 @@
         }
       },
       "$en_ggroom1_0037": {
-        "Target": "{X10Y10}Quistis{Line}Сейфер... Теперь{Line} он уже никогда не станет сидом.{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Сейфер... Теперь{Line} он уже никогда не станет сидом».{End}",
         "Source Text SHA256": "E79A6B2684B574A0BC199517D8AC31F248DB22CA24E497F94D38A34625F898B3",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -306,7 +306,7 @@
         }
       },
       "$en_ggroom1_0038": {
-        "Target": "{X177Y10}Zell{Line}Этот... ублюдок...{End}",
+        "Target": "{X177Y10}{Char Zell}{Line}«Этот... ублюдок...»{End}",
         "Source Text SHA256": "C1D3821F9651215EFDD4FB984AB46BA266C4BA9E0720932DA236FBD262360646",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -314,7 +314,7 @@
         }
       },
       "$en_ggroom1_0039": {
-        "Target": "{X10Y10}Selphie{Line}Печально как-то...{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Печально как-то...»{End}",
         "Source Text SHA256": "CCDE1CDC06C7CE00875A158D4CC28A2746E3BA6FBE8EE60548496B00254BC33E",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -322,7 +322,7 @@
         }
       },
       "$en_ggroom1_0040": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}”......“{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«......»{End}",
         "Source Text SHA256": "D1D425303390D45D514A204C73ABF173FC9DCC575E39D41024889379AF85E089",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -370,7 +370,7 @@
         }
       },
       "$en_ggroom1_0046": {
-        "Target": "{X10Y10}Quistis{Line}”Что такое, {Char Squall}?“{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Что такое, {Char Squall}?»{End}",
         "Source Text SHA256": "1817422FA92D0BD0B41D56E74758C58F9F8673D642711D26DDB8BBA192ADE37F",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -378,7 +378,7 @@
         }
       },
       "$en_ggroom1_0047": {
-        "Target": "{X10Y10}{Char Squall}{Line}Со мной такого не будет!{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}«Со мной такого не будет!»{End}",
         "Source Text SHA256": "49801EC7542DF2D0D5CAE84FFF4BC06941979714846F6D81553FCF948873F746",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -386,7 +386,7 @@
         }
       },
       "$en_ggroom1_0048": {
-        "Target": "{X227Y40}Zell{Line}Ч-чего?{End}",
+        "Target": "{X227Y40}{Char Zell}{Line}«Ч-чего?»{End}",
         "Source Text SHA256": "100CA7336DDDC7B1100E0AD283DB3FCBCEA176613C8AACF846DA4A09CE52C2A7",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -394,7 +394,7 @@
         }
       },
       "$en_ggroom1_0049": {
-        "Target": "{X10Y10}Selphie{Line}Ты что, СУМАСШЕДШИЙ?!{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Ты что, СУМАСШЕДШИЙ?!»{End}",
         "Source Text SHA256": "7DAD76214AC31D8BCF17831F4E9292371D53D0DC79FCF09815B5C77A19A64397",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -402,7 +402,7 @@
         }
       },
       "$en_ggroom1_0050": {
-        "Target": "{X60Y10}{Char Squall}{Line}Никто не станет говорить{Line} обо мне в прошедшем времени!!!{End}",
+        "Target": "{X60Y10}{Char Squall}{Line}«Никто не станет говорить{Line} обо мне в прошедшем времени!!!»{End}",
         "Source Text SHA256": "8F52BA64E37091681EADF750D37EADF01B5F98F52411D4347758CE4BFE9AAC41",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",
@@ -410,7 +410,7 @@
         }
       },
       "$en_ggroom1_0051": {
-        "Target": "{X10Y10}Квистис{Line}«Скоро должно прозвучать объявление.{Line} Как услышите, встречаемся у главных ворот.{Line} До тех пор свободны».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Скоро должно прозвучать объявление.{Line} Как услышите, встречаемся у главных ворот.{Line} До тех пор свободны».{End}",
         "Source Text SHA256": "8C6CF1A3845F662D90164169CBF09CC06DDF683805D8A51EBB13EEB5D53FE01A",
         "sourceContext": {
           "Source MSD SHA256": "C62D1713F2683CDDCA76648887E7EDAD5A5877E2A750AE56D09743507B06268D",

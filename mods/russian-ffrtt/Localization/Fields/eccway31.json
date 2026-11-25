@@ -10,7 +10,7 @@
         }
       },
       "$en_eccway31_0001": {
-        "Target": "{X100Y10}Зелл{Line}«ЧЁРТ! Не успеем!»{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}«ЧЁРТ! Не успеем!»{End}",
         "Source Text SHA256": "84ED47C1DC25A2C9BB6575F54857CFFD36951E144E12F4E12719DDF2F095F07C",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",
@@ -26,7 +26,7 @@
         }
       },
       "$en_eccway31_0003": {
-        "Target": "{X10Y50}Рики...{End}",
+        "Target": "{X10Y50}«Рики...»{End}",
         "Source Text SHA256": "67BE6BDCAA847918D05A9C4D13DE117D8FC8E44FD5032484D02D293D5367D95E",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",
@@ -58,7 +58,7 @@
         }
       },
       "$en_eccway31_0007": {
-        "Target": "{X150Y50}Говорю вам, пешее патрулирование утомляет.{End}",
+        "Target": "{X150Y50}«Говорю вам, пешее патрулирование утомляет».{End}",
         "Source Text SHA256": "67CC97854BE82BA2BA90ECE6FCAFA9102995C9BBB39A02138823C680ED3931D4",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",
@@ -82,7 +82,7 @@
         }
       },
       "$en_eccway31_0010": {
-        "Target": "{X10Y10}Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим.{End}",
+        "Target": "{X10Y10}«Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим».{End}",
         "Source Text SHA256": "FCB299045FAEB95AFBBB1304704DBB96FD921D50BBE37AC4D2A069DAC849CD8E",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",
@@ -90,7 +90,7 @@
         }
       },
       "$en_eccway31_0011": {
-        "Target": "{X10Y10}Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим.{End}",
+        "Target": "{X10Y10}«Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим».{End}",
         "Source Text SHA256": "C3E1E7D6CBC819A694C34F3F5A98A4BF2E451BCF4B18028FF94C1097AE8BB0B2",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",
@@ -98,7 +98,7 @@
         }
       },
       "$en_eccway31_0012": {
-        "Target": "{X10Y10}Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим.{End}",
+        "Target": "{X10Y10}«Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим».{End}",
         "Source Text SHA256": "C96D0DD430323AFCA76BA42BF63000D8FC3F9300C4F83AD76DEA891626D522FD",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",
@@ -106,7 +106,7 @@
         }
       },
       "$en_eccway31_0013": {
-        "Target": "{X10Y10}Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Центры и по нашим.{End}",
+        "Target": "{X10Y10}«Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Центры и по нашим».{End}",
         "Source Text SHA256": "EDD82EBA52815E5356D20909CE42F46BBE473250C61367C9624A869DCEF2E784",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",
@@ -114,7 +114,7 @@
         }
       },
       "$en_eccway31_0014": {
-        "Target": "{X10Y10}Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим.{End}",
+        "Target": "{X10Y10}«Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим».{End}",
         "Source Text SHA256": "D057115F08B875432E332D9CC9ECD663994DB62560148284A32E83C552202D32",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",
@@ -122,7 +122,7 @@
         }
       },
       "$en_eccway31_0015": {
-        "Target": "{X10Y10}Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
+        "Target": "{X10Y10}«Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим».{End}",
         "Source Text SHA256": "839502F7B542E21A1E31D15697B4DC930FF03CB746048E9FBA20A16AACA1C1B4",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",
@@ -130,7 +130,7 @@
         }
       },
       "$en_eccway31_0016": {
-        "Target": "{X10Y10}Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим.{End}",
+        "Target": "{X10Y10}«Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим».{End}",
         "Source Text SHA256": "BEAC1FA832ACAC0563DD5BE2F8848E381941AD9C3983308002AEC4FBB01DCE2C",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",
@@ -138,7 +138,7 @@
         }
       },
       "$en_eccway31_0017": {
-        "Target": "{X10Y10}Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим.{End}",
+        "Target": "{X10Y10}«Полагаю, такого правила{Line}у нас не существует.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим».{End}",
         "Source Text SHA256": "2E499038517463D232905542BB52653C96D01EDB4F4F51A740E0F9B21892D91D",
         "sourceContext": {
           "Source MSD SHA256": "5BA9CAC065F0249A16F80D8209D761F48C84AFFD250093F0D387363F0E4BC1F9",

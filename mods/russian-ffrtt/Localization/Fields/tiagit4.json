@@ -2,7 +2,7 @@
   "Fields": {
     "tiagit4": {
       "$en_tiagit4_0000": {
-        "Target": "{X20Y20}Ты{Pause 48} ведь{Pause 80}{Line} тот парень!.. С{Next}вечеринки...{Pause 48}Значит... ты{Pause 48}{Line} теперь сид?!{End}",
+        "Target": "{X20Y20}«Ты{Pause 48} ведь{Pause 80}{Line} тот парень!.. С{Next}вечеринки...{Pause 48}Значит... ты{Pause 48}{Line} теперь сид?!»{End}",
         "Source Text SHA256": "503E46131BE9418F75D266159D4249475C3939C843A59B25F923F5631CEE3831",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -10,7 +10,7 @@
         }
       },
       "$en_tiagit4_0001": {
-        "Target": "{X150Y150}{Char Squall}{Line}Я {Char Squall}, лидер отряда.{Line} Со мной ещё двое.{End}",
+        "Target": "{X150Y150}{Char Squall}{Line}«Я {Char Squall}, лидер отряда.{Line} Со мной ещё двое».{End}",
         "Source Text SHA256": "23441772FC6255C9CBAAF45186AACF4705C50160DEB50849B06C18737C38D397",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -18,7 +18,7 @@
         }
       },
       "$en_tiagit4_0002": {
-        "Target": "{X20Y20}ДААААА!{Line} Сиды здесь!{End}",
+        "Target": "{X20Y20}«ДААААА!{Line} Сиды здесь!»{End}",
         "Source Text SHA256": "7484C79343FAE98EC4C6AAB1EDE52308056C228CDC9885E1FC8E5E75F569E366",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -26,7 +26,7 @@
         }
       },
       "$en_tiagit4_0003": {
-        "Target": "{X20Y20}{Char Squall}{Line}Полегче.{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Полегче».{End}",
         "Source Text SHA256": "DB73E6F3D102D733F0AB29C24E6F1147715300D72A28952B6BC244E23C2B8589",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -34,7 +34,7 @@
         }
       },
       "$en_tiagit4_0004": {
-        "Target": "{X150Y20}Просто, я{Next}так счастлива!{Line} Я всё время посылала запросы в сад, но ответа не было...{End}",
+        "Target": "{X150Y20}«Просто, я{Next}так счастлива!{Line} Я всё время посылала запросы в сад, но ответа не было...»{End}",
         "Source Text SHA256": "3A54E239928927FC76D8419B6A81D8490C05FC2D0532575DE1902FEE5EF352BD",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -42,7 +42,7 @@
         }
       },
       "$en_tiagit4_0005": {
-        "Target": "{X150Y20}Я так рада, что смогла{Line} поговорить с Сидом лично.{End}",
+        "Target": "{X150Y20}«Я так рада, что смогла{Line} поговорить с Сидом лично».{End}",
         "Source Text SHA256": "9B715AED3AD4D67557C78968D5C5A2F84F9087B29FCB9D9DBF2F92B26AAD04F1",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -50,7 +50,7 @@
         }
       },
       "$en_tiagit4_0006": {
-        "Target": "{X20Y20}{Char Squall}{Line}{Next}А...{Line} Так значит, на вечеринке ты планировала встретиться с директором?{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«А...»{Next}«Так значит, на вечеринке{Line} ты планировала встретиться с директором?»{End}",
         "Source Text SHA256": "B34A982F39FDD621C89AE9C4E58C82B09805ADAFD58357EF7A8A685D47C652D8",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -58,7 +58,7 @@
         }
       },
       "$en_tiagit4_0007": {
-        "Target": "{X150Y20}Ты знаешь Сейфера?{End}",
+        "Target": "{X150Y20}«Ты знаешь Сейфера?»{End}",
         "Source Text SHA256": "853ABE5DC466A49151B88C983006838C6702D8B81F5DABA268CCBC277DB4A5B4",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -66,7 +66,7 @@
         }
       },
       "$en_tiagit4_0008": {
-        "Target": "{X20Y20}{Char Squall}{Line}...Да.{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«...Да.»{End}",
         "Source Text SHA256": "CA42A38A0686294128F208AD93977AEE73A3FAEAF4BCDEEE8BC44D02A4D4AE80",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -74,7 +74,7 @@
         }
       },
       "$en_tiagit4_0009": {
-        "Target": "{X150Y20}Это он{Line} представил меня Сиду.{End}",
+        "Target": "{X150Y20}«Это он{Line} представил меня Сиду».{End}",
         "Source Text SHA256": "FF46D0C392C2C79B17266A555D53872832384DD39F39EBDB89D13E36EA76F642",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -82,7 +82,7 @@
         }
       },
       "$en_tiagit4_0010": {
-        "Target": "{X150Y20}Директор такой хороший человек!{End}",
+        "Target": "{X150Y20}«Директор такой хороший человек!»{End}",
         "Source Text SHA256": "1360101F86AE41DE8BFFCEBB38D59565AC7E71BD0D0BE4F6AFF550B4F00AE9AC",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -90,7 +90,7 @@
         }
       },
       "$en_tiagit4_0011": {
-        "Target": "{X150Y20}Я и не думала, что сиды прийдут{Line} на помощь такой маленькой группе, как мы.{Next}Но после того, как я разъяснила ему нашу{Line} ситуацию, он сразу же согласился помочь!{End}",
+        "Target": "{X150Y20}«Я и не думала, что сиды прийдут{Line} на помощь такой маленькой группе, как мы».{Next}«Но после того, как я разъяснила ему нашу{Line} ситуацию, он сразу же согласился помочь!»{End}",
         "Source Text SHA256": "E0F1313C94A4D202B557D60F32C6A37C162050F93A7769C224CEADA44F52D5B9",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -98,7 +98,7 @@
         }
       },
       "$en_tiagit4_0012": {
-        "Target": "{X150Y20}Теперь, когда вы{Line} здесь, мы сможем осуществить{Line} любые планы!{End}",
+        "Target": "{X150Y20}«Теперь, когда вы{Line} здесь, мы сможем осуществить{Line} любые планы!»{End}",
         "Source Text SHA256": "E7E3F1645C3398DD17EBB1B5D83B9B81036844D58C1625290B70B48D5F565B83",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -106,7 +106,7 @@
         }
       },
       "$en_tiagit4_0013": {
-        "Target": "{X50Y150}Да?{End}",
+        "Target": "{X50Y150}«Да?»{End}",
         "Source Text SHA256": "C94A397B045E3B38C8E760EFFCEA91110C12147F55B5A410882606A3406001EF",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -114,7 +114,7 @@
         }
       },
       "$en_tiagit4_0014": {
-        "Target": "{X20Y20}{Char Squall}{Line}Я вернусь к остальным.{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Я вернусь к остальным».{End}",
         "Source Text SHA256": "7DA9741A63DB3F33A9AA477119A9B0C52471CA88D277509FD439695434EF0EE5",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -122,7 +122,7 @@
         }
       },
       "$en_tiagit4_0015": {
-        "Target": "{X50Y150}Хорошо, пошли!{End}",
+        "Target": "{X50Y150}«Хорошо, пошли!»{End}",
         "Source Text SHA256": "23A16A120E5D006DE94B92679D783B9FBE17820A027176639AC0FE1A9B2FD5FA",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -130,7 +130,7 @@
         }
       },
       "$en_tiagit4_0016": {
-        "Target": "{X150Y160}Эмм, {Char Squall}{Line} . А «он» здесь?{End}",
+        "Target": "{X150Y160}«Эмм, {Char Squall}.{Line}А „он“ здесь?»{End}",
         "Source Text SHA256": "0DD31F4FAC74FAF1150B34807F2295BCD5599F9C256641E629CB72C52C962F6D",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -146,7 +146,7 @@
         }
       },
       "$en_tiagit4_0018": {
-        "Target": "{X180Y180}Сейфер.{End}",
+        "Target": "{X180Y180}«Сейфер».{End}",
         "Source Text SHA256": "1E027F1D47CF76295E9ED974A3B32E1168960EFEA9F22D3202F683389B2BD934",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -154,7 +154,7 @@
         }
       },
       "$en_tiagit4_0019": {
-        "Target": "{X20Y150}{Char Squall}{Line}”......{Line} ...Нет, он не Сид.“{End}",
+        "Target": "{X20Y150}{Char Squall}{Line}«......{Line} ...Нет, он не Сид».{End}",
         "Source Text SHA256": "6D83D26373877D517EC4BEE81115F97117EF7C306CFF773B9A516ADD5F22E45E",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -162,7 +162,7 @@
         }
       },
       "$en_tiagit4_0020": {
-        "Target": "{X180Y180}...Аа.{End}",
+        "Target": "{X180Y180}«...Аа.»{End}",
         "Source Text SHA256": "D05333F2E9225AE3EDA1CE6E32498A83C6C6481B8D66661655A24E4DFFB0480F",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -170,7 +170,7 @@
         }
       },
       "$en_tiagit4_0021": {
-        "Target": "{X150Y180}Ах да, меня зовут...{End}",
+        "Target": "{X150Y180}«Ах да, меня зовут...»{End}",
         "Source Text SHA256": "C58F3E4FDCA412FD249497A02A5940449BF189E14C79A7604F3D2F3E85381778",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -178,7 +178,7 @@
         }
       },
       "$en_tiagit4_0022": {
-        "Target": "{X150Y170}{Char Rinoa}{Line}”Очень приятно познакомиться с тобой, {Char Squall}..“{End}",
+        "Target": "{X150Y170}{Char Rinoa}{Line}«Очень приятно познакомиться с тобой, {Char Squall}..»{End}",
         "Source Text SHA256": "FD6089375E94AD754985D686A38EA0C0EB2CAD4652C546CFE268DC19A0AF6DB3",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -186,7 +186,7 @@
         }
       },
       "$en_tiagit4_0023": {
-        "Target": "{X150Y150}{Char Rinoa}{Line}Сиды и{Line} правда неплохо танцуют.{End}",
+        "Target": "{X150Y150}{Char Rinoa}{Line}«Сиды и{Line} правда неплохо танцуют».{End}",
         "Source Text SHA256": "3DBE11AFC96CBB03910E8D7FC4DD0FC5D47A4C5C3F7AC3E090DD92176FC83295",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -194,7 +194,7 @@
         }
       },
       "$en_tiagit4_0024": {
-        "Target": "{X20Y160}{Char Squall}{Line}Незаметное спланированное сближение на танцевальной{Line} вечеринке... Нам{Next}могут дать задания, требующие{Line} такого вида ухищрений. Сиды{Line} должны обладать различными навыками.{End}",
+        "Target": "{X20Y160}{Char Squall}{Line}«Незаметное спланированное сближение на танцевальной{Line} вечеринке... Нам{Next}могут дать задания, требующие{Line} такого вида ухищрений. Сиды{Line} должны обладать различными навыками».{End}",
         "Source Text SHA256": "D3099664E16856C5EA188F26EC6B616B575E527A2A3C9D387B5C08CF8ED8F103",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -202,7 +202,7 @@
         }
       },
       "$en_tiagit4_0025": {
-        "Target": "{X150Y150}{Char Rinoa}{Line}Ох...{Line} это связано с работой.{End}",
+        "Target": "{X150Y150}{Char Rinoa}{Line}«Ох...{Line} это связано с работой».{End}",
         "Source Text SHA256": "13FA7B908D39FF52500D242F924D441A158CA3EABF744A105A87CEA6B491173D",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -210,7 +210,7 @@
         }
       },
       "$en_tiagit4_0026": {
-        "Target": "{X150Y170}{Char Rinoa}{Line}Как жаль...{End}",
+        "Target": "{X150Y170}{Char Rinoa}{Line}«Как жаль...»{End}",
         "Source Text SHA256": "2DF53C04252C196BD2B752403575750B8ACFE39078185E1A6986AEF976B48D12",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -226,7 +226,7 @@
         }
       },
       "$en_tiagit4_0028": {
-        "Target": "{X180Y10}{Char Rinoa}{Line}Вот, позволь представить тебе.{End}",
+        "Target": "{X180Y10}{Char Rinoa}{Line}«Вот, позволь представить тебе».{End}",
         "Source Text SHA256": "BAC9F873C569C0A15064BAFEA679A12C77D32910A43F8CDE427062315C314700",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -234,7 +234,7 @@
         }
       },
       "$en_tiagit4_0029": {
-        "Target": "{X180Y10}{Char Rinoa}{Line}Это мой напарник...{End}",
+        "Target": "{X180Y10}{Char Rinoa}{Line}«Это мой напарник...»{End}",
         "Source Text SHA256": "76FAC512FC3AF87AE6BA986884D16D0591B7DFD5857B0DF10C03CC68F1435DA2",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -242,7 +242,7 @@
         }
       },
       "$en_tiagit4_0030": {
-        "Target": "{X180Y10}{Char Rinoa}{Line}”{Char Angelo2} действительно умён! Вот,{Line} дай-ка я расскажу тебе...“{End}",
+        "Target": "{X180Y10}{Char Rinoa}{Line}«{Char Angelo2} действительно умён! Вот,{Line} дай-ка я расскажу тебе...»{End}",
         "Source Text SHA256": "92A3E6AB8C0622327559D12EBC0BD14EB1323B6F89E234CC636C2F7C123520E8",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -250,7 +250,7 @@
         }
       },
       "$en_tiagit4_0031": {
-        "Target": "{X180Y10}{Char Rinoa}{Line}Правда, он умница?{End}",
+        "Target": "{X180Y10}{Char Rinoa}{Line}«Правда, он умница?»{End}",
         "Source Text SHA256": "2FE43636E0C0961DED9E31B31CC1B4C2A027E290F33646CF5AC7C28A6755DF22",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -258,7 +258,7 @@
         }
       },
       "$en_tiagit4_0032": {
-        "Target": "{X15Y10}{Char Rinoa}{Line}”А теперь мне пора заняться важными делами.{Line} Анджело, веди себя хорошо. {Char Angelo2}.“{End}",
+        "Target": "{X15Y10}{Char Rinoa}{Line}«А теперь мне пора заняться важными делами.{Line} Анджело, веди себя хорошо. {Char Angelo2}».{End}",
         "Source Text SHA256": "8223AE081F9E0DDCF99F5E19813E07EA8B0103EE39504A38480FE3C00AED9751",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -266,7 +266,7 @@
         }
       },
       "$en_tiagit4_0033": {
-        "Target": "{X15Y15}{Char Rinoa}{Line}Ладно, встретимся в каюте для брифинга.{End}",
+        "Target": "{X15Y15}{Char Rinoa}{Line}«Ладно, встретимся в каюте для брифинга».{End}",
         "Source Text SHA256": "C2E81EC306185F227518FE10B5C11370B9C083148E3AEEC48F445C5DFCCC8C26",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",

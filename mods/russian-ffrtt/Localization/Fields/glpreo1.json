@@ -34,7 +34,7 @@
         }
       },
       "$en_glpreo1_0004": {
-        "Target": "{X148Y90}{Char Rinoa}{Line}Я не сид, но...{End}",
+        "Target": "{X148Y90}{Char Rinoa}{Line}«Я не сид, но...»{End}",
         "Source Text SHA256": "F1A4A69F8B5F48A1D9B92E3AE91DE93C038C0C6E636D19073F7CBEE69511A124",
         "sourceContext": {
           "Source MSD SHA256": "1045148E277EFD688C7487152248A06D952B8DB705BA31029CAD1EFF393C75DB",
@@ -42,7 +42,7 @@
         }
       },
       "$en_glpreo1_0005": {
-        "Target": "{X189Y20}{Char Rinoa}{Line}Я могу это сделать...{End}",
+        "Target": "{X189Y20}{Char Rinoa}{Line}«Я могу это сделать...»{End}",
         "Source Text SHA256": "1C3610E4A3303EE293384E8D3A1707CD9FC6D57BCF10B8A71D5B61456FE598FD",
         "sourceContext": {
           "Source MSD SHA256": "1045148E277EFD688C7487152248A06D952B8DB705BA31029CAD1EFF393C75DB",
@@ -50,7 +50,7 @@
         }
       },
       "$en_glpreo1_0006": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}Для меня это не какая-то там игра.{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«Для меня это не какая-то там игра».{End}",
         "Source Text SHA256": "BDC9F712B32C8D5AE5A8E3FB2730436B8F496E9B5EC600950E32D4896A27ED29",
         "sourceContext": {
           "Source MSD SHA256": "1045148E277EFD688C7487152248A06D952B8DB705BA31029CAD1EFF393C75DB",
@@ -58,7 +58,7 @@
         }
       },
       "$en_glpreo1_0007": {
-        "Target": "{X10Y10}Ирвин{Line}«Похоже, это вход в канализацию.{Line} К нашему заданию это отношения не имеет».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Похоже, это вход в канализацию.{Line} К нашему заданию это отношения не имеет».{End}",
         "Source Text SHA256": "F37D71D89C2904837514DE9396DAF7E9BE3E7EBA147CF7999C9E12BBE37DC792",
         "sourceContext": {
           "Source MSD SHA256": "1045148E277EFD688C7487152248A06D952B8DB705BA31029CAD1EFF393C75DB",
@@ -66,7 +66,7 @@
         }
       },
       "$en_glpreo1_0008": {
-        "Target": "{X10Y10F2L3B2C3}Ирвин{Line}«Всё равно хочешь спуститься?»{Line}Спуститься{Line}Остаться{End}",
+        "Target": "{X10Y10F2L3B2C3}{Char Irvine}{Line}«Всё равно хочешь спуститься?»{Line}Спуститься{Line}Остаться{End}",
         "Source Text SHA256": "EE4B736C8E47E25E68DB70A1B979716528B893FAF977DAC363BCEE6D548B0D76",
         "sourceContext": {
           "Source MSD SHA256": "1045148E277EFD688C7487152248A06D952B8DB705BA31029CAD1EFF393C75DB",

@@ -2,7 +2,7 @@
   "Fields": {
     "gmtika4": {
       "$en_gmtika4_0000": {
-        "Target": "{X12Y140}Soldier{Line}Эй, вы не могли бы нам{Line} помочь? Электричество отключилось и нам нужна помощь.{End}",
+        "Target": "{X12Y140}Солдат{Line}«Эй, вы не могли бы нам{Line} помочь? Электричество отключилось и нам нужна помощь».{End}",
         "Source Text SHA256": "85DAD04F872A78DD39A35036BD4CAC4A878969A17D9DC0327A8FF50B38FFA776",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gmtika4_0001": {
-        "Target": "{X160Y140}Guard{Line}Эээ, ладно...{End}",
+        "Target": "{X160Y140}Охранник{Line}«Эээ, ладно...»{End}",
         "Source Text SHA256": "81F4FE252650467FA3C0AA050D805D6C383F66A9947BB81A64299FF5A2C20602",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gmtika4_0002": {
-        "Target": "{X160Y140}Guard{Line}Пошли.{End}",
+        "Target": "{X160Y140}Охранник{Line}«Пошли».{End}",
         "Source Text SHA256": "233B1BEB1009CD93EA3AC8464F02AA1CFD1AD9776CF04612B1589571BB53AC1E",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gmtika4_0003": {
-        "Target": "Selphie{Line}Интересно, что там...?{End}",
+        "Target": "{Char Selphie}{Line}«Интересно, что там...?»{End}",
         "Source Text SHA256": "506A643556DAE75BAB1908CF9F5EA9B1B73EB4896D737F41F778A108B2440043",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gmtika4_0004": {
-        "Target": "Guard{Line}Сюда вход запрещён.{End}",
+        "Target": "Охранник{Line}«Сюда вход запрещён».{End}",
         "Source Text SHA256": "3C9BD5ACC95D18267A302088829B9830AB8B43910DAFBB8BA5CED650170D62BC",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gmtika4_0004_ctx_14d6911e81c95998": {
-        "Target": "{X12Y160}Guard{Line}Сюда вход запрещён.{End}",
+        "Target": "{X12Y160}Охранник{Line}«Сюда вход запрещён».{End}",
         "Source Text SHA256": "3C9BD5ACC95D18267A302088829B9830AB8B43910DAFBB8BA5CED650170D62BC",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gmtika4_0004_ctx_946bf576fd7da4fb": {
-        "Target": "{X12Y12}Guard{Line}Сюда вход запрещён.{End}",
+        "Target": "{X12Y12}Охранник{Line}«Сюда вход запрещён».{End}",
         "Source Text SHA256": "3C9BD5ACC95D18267A302088829B9830AB8B43910DAFBB8BA5CED650170D62BC",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gmtika4_0005": {
-        "Target": "{X12Y160}Guard{Line}Эй! Не трогай!{End}",
+        "Target": "{X12Y160}Охранник{Line}«Эй! Не трогай!»{End}",
         "Source Text SHA256": "DC3510E3E3BB12FB4D925A54D1A221836ADE4E670879069D522B3AEEA89E4781",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gmtika4_0006": {
-        "Target": "{X12Y12}Relief Guard{Line}Сюда вход запрещён.{End}",
+        "Target": "{X12Y12}Сменный охранник{Line}«Сюда вход запрещён».{End}",
         "Source Text SHA256": "C82F7C7146A584582B7A4267352709AC5AC605B6CACCF78E80B4906D5D7FCD1A",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gmtika4_0007": {
-        "Target": "{X12Y12}Relief Guard{Line}Сюда вход запрещён.{Line} Вам нельзя наверх.{End}",
+        "Target": "{X12Y12}Сменный охранник{Line}«Сюда вход запрещён.{Line} Вам нельзя наверх».{End}",
         "Source Text SHA256": "3DF48806C748D8D9FAC80D5EC5054C927D5BECE7011B533B5E4C64EA6B1EAFED",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gmtika4_0008": {
-        "Target": "{X12Y150}Selphie{Line}Но мы пришли сообщить{Line} данные о координатах ракеты!{End}",
+        "Target": "{X12Y150}{Char Selphie}{Line}«Но мы пришли сообщить{Line} данные о координатах ракеты!»{End}",
         "Source Text SHA256": "548C656236C08B48C63587005E494AD41E1187A191DCC9854D51D0B00973E01A",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gmtika4_0009": {
-        "Target": "{X12Y12}Relief Guard{Line}О, очень{Line} хорошо. Проходите.{End}",
+        "Target": "{X12Y12}Сменный охранник{Line}«О, очень{Line} хорошо. Проходите».{End}",
         "Source Text SHA256": "BBBD2987C5625024D503E9A7DB7F107D076B9996CA96149EBB166C357B7282D0",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gmtika4_0010": {
-        "Target": "{X12Y12}Relief Guard{Line}Не припомню, чтобы видел{Line} на базе этого хилого парнишку.{End}",
+        "Target": "{X12Y12}Сменный охранник{Line}«Не припомню, чтобы видел{Line} на базе этого хилого парнишку».{End}",
         "Source Text SHA256": "2533CFFA812D2371356B2B885AD56D0DF969727F6C2BBF57503C24750EB523CB",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gmtika4_0011": {
-        "Target": "{X12Y140}Guard{Line}За этой дверью находятся{Line} ракетные установки.{End}",
+        "Target": "{X12Y140}Охранник{Line}«За этой дверью находятся{Line} ракетные установки».{End}",
         "Source Text SHA256": "CD376078A9630CAE49828228C599141969A6F379E5B33021890804E0622993D4",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gmtika4_0012": {
-        "Target": "{X12Y140}Wounded Soldier{Line}...В{Pause 48}... Вы{Pause 48} не{Line} остановите... ракеты...{Next}Аварийная дверь... уже{Line} заперта{Pause 48}...{Pause 48}... И вы{Line} туда...{Pause 48} не войдёте{Pause 48}...{Pause 48}...{Next}Вам бы{Pause 48}...{Pause 48}... убраться...{Line} Иначе{Pause 48}...{Pause 48}... взлетите... на воздух{Pause 48}...{Pause 48}...{End}",
+        "Target": "{X12Y140}Раненый солдат{Line}«...В{Pause 48}... Вы{Pause 48} не{Line} остановите... ракеты...»{Next}«Аварийная дверь... уже{Line} заперта{Pause 48}...{Pause 48}... И вы{Line} туда...{Pause 48} не войдёте{Pause 48}...{Pause 48}...»{Next}«Вам бы{Pause 48}...{Pause 48}... убраться...{Line} Иначе{Pause 48}...{Pause 48}... взлетите... на воздух{Pause 48}...{Pause 48}...»{End}",
         "Source Text SHA256": "97B925E146AB268527A240B297FED5A3256B21D29C9423B82CD5C3BF155FABFE",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gmtika4_0013": {
-        "Target": "{X12Y12}Selphie{Line}Мы не можем просто сбежать,{Line} зная, что ракеты запустят...{Next}...Ни за что!{Line} НИ ЗА ЧТО!{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Мы не можем просто сбежать,{Line} зная, что ракеты запустят...{Next}...Ни за что!{Line} НИ ЗА ЧТО!»{End}",
         "Source Text SHA256": "025283A38BBAC88EE2AC9C4A5B047796AD4F82FE0F37095675ECEB049AB440F4",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gmtika4_0014": {
-        "Target": "{X12Y140}Wounded Soldier{Line}Хм{Pause 48}...{Pause 48}...{Line} Почему?{End}",
+        "Target": "{X12Y140}Раненый солдат{Line}«Хм{Pause 48}...{Pause 48}...{Line} Почему?»{End}",
         "Source Text SHA256": "56210F3DE25F309292782EBDAA28B41E3A59B560C559F9D63E5DB38066FF0816",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gmtika4_0015": {
-        "Target": "{X12Y12F2L4B2C4}Selphie{Line}Потому что...{Line}Я делаю это ради друзей!{Line}Это моё задание!{Line}Я делаю это ради всех!{End}",
+        "Target": "{X12Y12F2L4B2C4}{Char Selphie}{Line}«Потому что...»{Line}Я делаю это ради друзей!{Line}Это моё задание!{Line}Я делаю это ради всех!{End}",
         "Source Text SHA256": "F4BD8AB381AFD212DC70F9BB047DD01A210AAE1C2DB838D2E92B42C8DDB2AFFC",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gmtika4_0016": {
-        "Target": "{X12Y12}Selphie{Line}У меня ведь тоже{Line} полно друзей в Баламбе!{Next}Я не могу допустить,{Line} чтобы они все погибли!{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«У меня ведь тоже{Line} полно друзей в Баламбе!»{Next}«Я не могу допустить,{Line} чтобы они все погибли!»{End}",
         "Source Text SHA256": "C8AFFF59CD1969494A2A9C016B5A096627C8B93AFE9450F289575C00DE688F29",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gmtika4_0017": {
-        "Target": "{X12Y12}Selphie{Line}Каким бы трудным или даже{Line} невозможным ни было задание...{Next}Быть SeeD — значит{Line} выполнить задание до конца,{Line} даже если можешь погибнуть!{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Каким бы трудным или даже{Line} невозможным ни было задание...»{Next}«Быть SeeD — значит{Line} выполнить задание до конца,{Line} даже если можешь погибнуть!»{End}",
         "Source Text SHA256": "11714529FA308A216B5AE65598A72F7050CBC826FB673822F26EDA0C1A5D8ED5",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gmtika4_0018": {
-        "Target": "{X12Y12}Selphie{Line}Я сделаю это ради друзей!{Line} Выполню своё задание,{Line} как подобает бойцу SeeD!{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Я сделаю это ради друзей!{Line} Выполню своё задание,{Line} как подобает бойцу SeeD!»{End}",
         "Source Text SHA256": "BA18FC561B2F99BAAC6DD5D16C1F73B2ED7780141049808DA4E46E5C15E0B781",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -170,7 +170,7 @@
         }
       },
       "$en_gmtika4_0019": {
-        "Target": "{X12Y140}Wounded Soldier{Line}Понятно{Pause 48}...{Pause 48}...{Pause 48}{Line} Восхищаюсь вами...{Next}Послушайте{Pause 48}...{Pause 48}...{Pause 48}{Line} Позвольте вам помочь.{Next}Можно{Pause 48}...{Pause 48}...{Pause 48} изменить{Line} координаты цели на том пульте.{Next}Возьмите{Pause 48}...{Pause 48}...{Pause 48} мою карту,{Line} чтобы войти{Pause 48}...{Pause 48}...{Next}Пароль{Pause 48}...{Pause 48}...{Line} {Color Blue}«EDEA»{Color White}{Pause 48}...{Pause 48}...{Next}{Pause 48}...{Pause 48}... Уда-{Line} {Pause 48}...{Pause 48}...{Pause 48}чи{Pause 48}...{Pause 48}...{End}",
+        "Target": "{X12Y140}Раненый солдат{Line}«Понятно{Pause 48}...{Pause 48}...{Pause 48}{Line} Восхищаюсь вами...{Next}Послушайте{Pause 48}...{Pause 48}...{Pause 48}{Line} Позвольте вам помочь.{Next}Можно{Pause 48}...{Pause 48}...{Pause 48} изменить{Line} координаты цели на том пульте.{Next}Возьмите{Pause 48}...{Pause 48}...{Pause 48} мою карту,{Line} чтобы войти{Pause 48}...{Pause 48}...{Next}Пароль{Pause 48}...{Pause 48}...{Line} {Color Blue}„EDEA“{Color White}{Pause 48}...{Pause 48}...{Next}{Pause 48}...{Pause 48}... Уда-{Line} {Pause 48}...{Pause 48}...{Pause 48}чи{Pause 48}...{Pause 48}...»{End}",
         "Source Text SHA256": "BBCBC70AEDDA3A7209015F532B50046A739E87C4E67ADD372781026D9BECFA00",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -178,7 +178,7 @@
         }
       },
       "$en_gmtika4_0020": {
-        "Target": "{X80Y140}Wounded Soldier{Line}............{End}",
+        "Target": "{X80Y140}Раненый солдат{Line}«............»{End}",
         "Source Text SHA256": "498DBF9DAD1B980904316B4B97EB9B796E2D72E16EA7F7F176857EFC87E25DAE",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -194,7 +194,7 @@
         }
       },
       "$en_gmtika4_0022": {
-        "Target": "{X20Y20}Проверка{Line} завершена{End}",
+        "Target": "{X20Y20}«Проверка{Line} завершена»{End}",
         "Source Text SHA256": "D86DBA43718FA971A541FA6F44D3B71EF6868464D41763A97BD9A82D10AE602C",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -202,7 +202,7 @@
         }
       },
       "$en_gmtika4_0023": {
-        "Target": "{X20Y20F2L7B2C2}Введите{Line} пароль.{Line}A{Line}B{Line}C{Line}D{Line}E{Line}F{End}",
+        "Target": "{X20Y20F2L7B2C2}«Введите{Line} пароль».{Line}A{Line}B{Line}C{Line}D{Line}E{Line}F{End}",
         "Source Text SHA256": "F63D830B7B77501DCCDCE886B0FE589E4DB82C90EFC7D6795A5A31FEFBAA0EF1",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -210,7 +210,7 @@
         }
       },
       "$en_gmtika4_0024": {
-        "Target": "{X20Y20}Номер карты XT-225W{Line} Доступ разрешён.{Line} Система готова...{End}",
+        "Target": "{X20Y20}«Номер карты XT-225W{Line} Доступ разрешён.{Line} Система готова...»{End}",
         "Source Text SHA256": "D0F688961427C95C5B0A3DC0FE95991F151D255E452C5F4049AA5979C664FEBC",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",
@@ -218,7 +218,7 @@
         }
       },
       "$en_gmtika4_0025": {
-        "Target": "{X20Y20}Неверный пароль.{Line} Попробуйте ещё раз.{End}",
+        "Target": "{X20Y20}«Неверный пароль.{Line} Попробуйте ещё раз».{End}",
         "Source Text SHA256": "DD96BB9755AB3908883A074B011649D7E06F273070A5443D479835A1428C0562",
         "sourceContext": {
           "Source MSD SHA256": "4546344E496E20A5C445B6EF5F077A1DF914950A20E093FFDE4CBF2CA49CDB17",

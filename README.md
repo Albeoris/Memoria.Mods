@@ -6,7 +6,7 @@ Meltdown uses the same two-file status definition as the bundled mod and require
 
 [Boost Damage Limit](mods/boost-damage-limit/gameplay/gf-rules.json) requires Memoria FFVIII 0.8.15 or later. Boost costs 200 AP. A GF can exceed the 9,999 summon damage limit after learning Boost.
 
-[FFRTT Russian 3.20](mods/russian-ffrtt) is available through Language with English game resources on Classic and Remastered. It requires Memoria FFVIII 0.8.16 or later. Its adapted opening video and camera install as a required companion package.
+[FFRTT Russian 3.20.2](mods/russian-ffrtt) is available through Language with English game resources on Classic and Remastered. It requires Memoria FFVIII 0.9.13 or later. Its adapted opening video and camera install as a required companion package.
 
 ## Modding reference
 

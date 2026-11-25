@@ -10,7 +10,7 @@
         }
       },
       "$en_ehenter2_0001": {
-        "Target": "{X12Y12}Edea{Line}”{Char Squall}!!“{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«{Char Squall}!!»{End}",
         "Source Text SHA256": "5ABB036F5382847CAB2887015BF55706597D4BCC6079E257730517A5E319C557",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ehenter2_0002": {
-        "Target": "{X12Y12}Edea{Line}Я должна сказать тебе кое-что. Это{Line} касается меня...{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«Я должна сказать тебе кое-что. Это{Line} касается меня...»{End}",
         "Source Text SHA256": "9BC8D6F937785A8F4565D3BC5223F091F4B9F51746D5C6937576290E7CE30439",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ehenter2_0003": {
-        "Target": "{X12Y12}Edea{Line}Да... Думаю, это было 13 лет тому{Line} назад... Именно тогда началась моя история.{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«Да... Думаю, это было 13 лет тому{Line} назад... Именно тогда началась моя история».{End}",
         "Source Text SHA256": "30248F107CB0CFD8B90292D4DAF861B48C591B65B97AA794B333C7A78B7BD218",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ehenter2_0004": {
-        "Target": "{X12Y12}Edea{Line}В первый раз я стала волшебницей, когда была{Line} ещё ребёнком. И снова... 13 лет назад.{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«В первый раз я стала волшебницей, когда была{Line} ещё ребёнком. И снова... 13 лет назад».{End}",
         "Source Text SHA256": "2AD69A3EBB7C971E86164E55DD2C8A28EA7EB447B39FDF508465C6F0D444692B",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ehenter2_0005": {
-        "Target": "{X12Y12}Edea{Line}В тот день... прямо здесь, я встретила волшебницу при смерти.{Line} Я получила её{Next}силу по собственному желанию.{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«В тот день... прямо здесь, я встретила волшебницу при смерти.{Line} Я получила её{Next}силу по собственному желанию».{End}",
         "Source Text SHA256": "8E504914858388EBB99BA2BDA996C8D5198E0D72E738D60AFADF68D415A8BBDE",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ehenter2_0006": {
-        "Target": "{X12Y12}Edea{Line}Для моих детей эта волшебница{Line} была страшным существом. Я{Next}не могла позволить ей заполучить их.{Line} Но... как оказалось, это и{Line} было началом моей мучительной истории.{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«Для моих детей эта волшебница{Line} была страшным существом. Я{Next}не могла позволить ей заполучить их.{Line} Но... как оказалось, это и{Line} было началом моей мучительной истории».{End}",
         "Source Text SHA256": "DDF25897394BA37F63755B643A97B7E0DC1E8AE1DA8DB0B46EBD6E1755CEBFAB",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ehenter2_0007": {
-        "Target": "{X12Y12}Edea{Line}И в эту самую минуту, моей горестной{Line} истории настал конец. Теперь я понимаю, что{Line} всё заканчивается, каким бы мучительным оно ни было.{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«И в эту самую минуту, моей горестной{Line} истории настал конец. Теперь я понимаю, что{Line} всё заканчивается, каким бы мучительным оно ни было».{End}",
         "Source Text SHA256": "CCD2B760F3192651DB0847BE26805CDE676B325EF795D68083A4D73168E0E290",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ehenter2_0008": {
-        "Target": "{X12Y12}Edea{Line}”И поэтому...{Char Squall}…?“{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«И поэтому...{Char Squall}…?»{End}",
         "Source Text SHA256": "3E0316AA5196EF0DE2A06D9CFB5848B26B0E0D871916AA95406EEC3A4F379E3C",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ehenter2_0009": {
-        "Target": "{X12Y12}Edea{Line}Ты должен сражаться до конца! Даже если{Line} это обернётся трагедией для других!{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«Ты должен сражаться до конца! Даже если{Line} это обернётся трагедией для других!»{End}",
         "Source Text SHA256": "44AD26AAC75679F06221EF34A4DC4DC7F4084C5D795E5402DE00C487C58E693C",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ehenter2_0010": {
-        "Target": "{X12Y12}Edea{Line}”......{Char Squall}{Next}.{Line} Ты всегда со слезами на глазах искал Элону...{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«......{Char Squall}».{Next}{Line} «Ты всегда со слезами на глазах искал Элону...»{End}",
         "Source Text SHA256": "9CE249A4D45A2E96913DCBDE547F0DADCA21FDC68DD97F58C6B7E9CF1B439CBE",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ehenter2_0011": {
-        "Target": "{X12Y12}Edea{Line}”А теперь... иди, {Char Squall}..“{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«А теперь... иди, {Char Squall}..»{End}",
         "Source Text SHA256": "4FCC0996DB26C4597BDEDE0F749A0A57F6A0F28E9046AE41CC2152CD5010DE28",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ehenter2_0012": {
-        "Target": "{X12Y12}Quistis{Line}...Мне неприятно её видеть.{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«...Мне неприятно её видеть».{End}",
         "Source Text SHA256": "D0BA7DB0EE312F1F7E60CBC82381EBE7A55A40261B6462705BACDD31FA1CA27F",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ehenter2_0013": {
-        "Target": "{X12Y12}Selphie{Line}Я пойду за тобой, {Char Squall}{Line} . Хорошо?{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Я пойду за тобой, {Char Squall}.{Line}Хорошо?»{End}",
         "Source Text SHA256": "ADA7E19D5024D407B354899C7146D76ECE173F35FFACDEC8F645E6E944C6CD42",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ehenter2_0014": {
-        "Target": "{X12Y12}Zell{Line}Мы встречаемся с Матроной...{Line} Б-блин, я волнуюсь.{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«Мы встречаемся с Матроной...{Line} Б-блин, я волнуюсь».{End}",
         "Source Text SHA256": "071FBFA18E6CAA7D3082008A0BF2F408E94E7560BC6BA531640B0DD091AE387F",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ehenter2_0015": {
-        "Target": "{X12Y12}Irvine{Line}Нам хочется задать{Line} Матроне столько вопросов...{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}«Нам хочется задать{Line} Матроне столько вопросов...»{End}",
         "Source Text SHA256": "6EC9A0FD8B1BE4A97E92AFFB1D9198AFAE9A89BEAF4CE0893A73214E3B5B304D",
         "sourceContext": {
           "Source MSD SHA256": "F6141FBF6540F7E998B930653B6F02D343FAD5CFAFAE5A6495400B283647A455",

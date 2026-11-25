@@ -2,7 +2,7 @@
   "Fields": {
     "ebexit2": {
       "$en_ebexit2_0000": {
-        "Target": "{X150Y20F1L2B1C2}(Хм...Что это?..) Поднять Оставить{Line}Pick it up{Line}Leave it{End}",
+        "Target": "{X150Y20F1L2B1C2}(Хм... Что это?..){Line}Поднять{Line}Оставить{End}",
         "Source Text SHA256": "1CCB27B8C42B0CDE06EAA1376F5466D4953921EF855F1240845D679B82EC5BB1",
         "sourceContext": {
           "Source MSD SHA256": "4D0AF75C7EF03DC222FCD63B6D2F35A2BE5476592C20F041CFFF7B7D53D9BE36",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ebexit2_0003": {
-        "Target": "{X150Y20}Laguna{Line}”......!{Pause 80}{Line} !.. У... У меня{Pause 80}{Line} дыра в заднем кармане!!!“{End}",
+        "Target": "{X150Y20}{Char Laguna}{Line}«......!{Pause 80}{Line} !.. У... У меня{Pause 80}{Line} дыра в заднем кармане!!!»{End}",
         "Source Text SHA256": "3BEF0F59D81C9EFA915FEB1597A09F3231DB4D25FBFF0A7AA5F80821DC975957",
         "sourceContext": {
           "Source MSD SHA256": "4D0AF75C7EF03DC222FCD63B6D2F35A2BE5476592C20F041CFFF7B7D53D9BE36",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ebexit2_0005": {
-        "Target": "{X150Y20}А... а...{Pause 80}{Line} апчхи!{End}",
+        "Target": "{X150Y20}«А... а...{Pause 80}{Line} апчхи!»{End}",
         "Source Text SHA256": "8FD8BE847501452F21424F45540ACCEA9C9822CE7405E1474666F11400D738BA",
         "sourceContext": {
           "Source MSD SHA256": "4D0AF75C7EF03DC222FCD63B6D2F35A2BE5476592C20F041CFFF7B7D53D9BE36",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ebexit2_0006": {
-        "Target": "{X150Y20}Laguna{Line}Только не снова!{End}",
+        "Target": "{X150Y20}{Char Laguna}{Line}«Только не снова!»{End}",
         "Source Text SHA256": "B2C2A6841CBF5AF8A702F08BA04B0047CA4D388FA05858E95786139DFD7E0AAE",
         "sourceContext": {
           "Source MSD SHA256": "4D0AF75C7EF03DC222FCD63B6D2F35A2BE5476592C20F041CFFF7B7D53D9BE36",

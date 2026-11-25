@@ -2,7 +2,7 @@
   "Fields": {
     "fhtown21": {
       "$en_fhtown21_0000": {
-        "Target": "{X200Y0}Townsman{Line}Ааа, я так хочу похудеть!{End}",
+        "Target": "{X200Y0}Горожанин{Line}«Ааа, я так хочу похудеть!»{End}",
         "Source Text SHA256": "DA48CA476BE9A6CB5BCCB5E38850620AE7D9970A9892B1D7ACC10EEE397D6DCC",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -10,7 +10,7 @@
         }
       },
       "$en_fhtown21_0001": {
-        "Target": "{X200Y0}Горожанин{Line}Фух... Столько уже прошёл.{Line}Теперь не отступлю.{End}",
+        "Target": "{X200Y0}Горожанин{Line}«Фух... Столько уже прошёл.{Line}Теперь не отступлю».{End}",
         "Source Text SHA256": "93C570E8B4CDB2158333B5582E8866947E30075070DF49F89C1A945A7D39BEA6",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -18,7 +18,7 @@
         }
       },
       "$en_fhtown21_0002": {
-        "Target": "{X0Y0}Kid{Line}Хороша погодка, да? Хочешь{Line} сыграть в карты?{End}",
+        "Target": "{X0Y0}Мальчишка{Line}Хороша погодка, да? Хочешь{Line} сыграть в карты?{End}",
         "Source Text SHA256": "5FF610163FC29611063A9984972F6842DBFC65A80A8D069CA6F148E6AD19DB95",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -34,7 +34,7 @@
         }
       },
       "$en_fhtown21_0004": {
-        "Target": "{X48Y20F1L2B1C2}Хочешь сыграть в карты?{Line}Да{Line}Нет{End}",
+        "Target": "{X48Y20F1L2B1C2}«Хочешь сыграть в карты?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "083A326437B178AAF726639A2ADD5F9F94D1BBFB15AA18DE81F4749F897E2BC1",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -42,7 +42,7 @@
         }
       },
       "$en_fhtown21_0005": {
-        "Target": "{X10Y10}Мальчишка{Line}Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Баламба и нашим, ладно?{End}",
+        "Target": "{X10Y10}Мальчишка{Line}«Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Баламба и нашим, ладно?»{End}",
         "Source Text SHA256": "5C38DD006F4CAD2347E501D94B581C9517D6750A794A48EEE1DFB21A62D635D6",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -50,7 +50,7 @@
         }
       },
       "$en_fhtown21_0006": {
-        "Target": "{X10Y10}Мальчишка{Line}Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Гальбадии и нашим, ладно?{End}",
+        "Target": "{X10Y10}Мальчишка{Line}«Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Гальбадии и нашим, ладно?»{End}",
         "Source Text SHA256": "24240F4FCB5F50D41D1E3C88DAD3C9C72054A5DE58E8C2ABB8C96D46C12717E7",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -58,7 +58,7 @@
         }
       },
       "$en_fhtown21_0007": {
-        "Target": "{X10Y10}Мальчишка{Line}Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Трабии и нашим, ладно?{End}",
+        "Target": "{X10Y10}Мальчишка{Line}«Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Трабии и нашим, ладно?»{End}",
         "Source Text SHA256": "AC2C87DC7278E3BEC1AF0605CE86A83807818E17848CCCB3C0ABA69399AF5E16",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -66,7 +66,7 @@
         }
       },
       "$en_fhtown21_0008": {
-        "Target": "{X10Y10}Мальчишка{Line}Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Центры и нашим, ладно?{End}",
+        "Target": "{X10Y10}Мальчишка{Line}«Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Центры и нашим, ладно?»{End}",
         "Source Text SHA256": "FFBF87D5B23BB43B14B6A172A66123ACD3B239A292210617B61D8F240FF26A0A",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -74,7 +74,7 @@
         }
       },
       "$en_fhtown21_0009": {
-        "Target": "{X10Y10}Мальчишка{Line}Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Доллета и нашим, ладно?{End}",
+        "Target": "{X10Y10}Мальчишка{Line}«Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Доллета и нашим, ладно?»{End}",
         "Source Text SHA256": "A5C1D29929BCB5879D98AB2D734E63BC66741618303730C8666D81D40BA1489C",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -82,7 +82,7 @@
         }
       },
       "$en_fhtown21_0010": {
-        "Target": "{X10Y10}Мальчишка{Line}Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}ГР и нашим, ладно?{End}",
+        "Target": "{X10Y10}Мальчишка{Line}«Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}ГР и нашим, ладно?»{End}",
         "Source Text SHA256": "7ED93F3FB7FA83A35CB5996E845173D4FD42085F464E0211F2AB0E25EDA41E05",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -90,7 +90,7 @@
         }
       },
       "$en_fhtown21_0011": {
-        "Target": "{X10Y10}Мальчишка{Line}Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Луны и нашим, ладно?{End}",
+        "Target": "{X10Y10}Мальчишка{Line}«Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Луны и нашим, ладно?»{End}",
         "Source Text SHA256": "D49FB670999FB54DBF2CD034AD33B8799E53A895ECA27715205668EEF84B33DD",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -98,7 +98,7 @@
         }
       },
       "$en_fhtown21_0012": {
-        "Target": "{X10Y10}Мальчишка{Line}Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Эстара и нашим, ладно?{End}",
+        "Target": "{X10Y10}Мальчишка{Line}«Эй, я таких правил{Line}никогда не слышал.{Line}Сыграем по правилам{Line}Эстара и нашим, ладно?»{End}",
         "Source Text SHA256": "4D03BE76117EBB1D88B59485802AB8E5824D7F8C7802F251A83CF7B54CEAB6E1",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -354,7 +354,7 @@
         }
       },
       "$en_fhtown21_0030": {
-        "Target": "{X20Y20}Мальчишка{Line}Ура!!!{Pause 96} Вот это да, выигрываю{Line}как заведённый. Мне уже{Line}все карты не унести.{End}",
+        "Target": "{X20Y20}Мальчишка{Line}«Ура!!!{Pause 96} Вот это да, выигрываю{Line}как заведённый. Мне уже{Line}все карты не унести».{End}",
         "Source Text SHA256": "C2D4F558F8BEEFCF3A890D1D342D91FF8CC0F5CA8F98C39EFC1B13872ACE0B17",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -362,7 +362,7 @@
         }
       },
       "$en_fhtown21_0031": {
-        "Target": "{X20Y20}Мальчишка{Line}Сыграем ещё как-нибудь.{Line}Я тут часто бываю.{End}",
+        "Target": "{X20Y20}Мальчишка{Line}«Сыграем ещё как-нибудь.{Line}Я тут часто бываю».{End}",
         "Source Text SHA256": "8B3468855B76AAA58EEE1C724482FE4C6B5BF62DD7B042BDE78D32B422344A69",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -370,7 +370,7 @@
         }
       },
       "$en_fhtown21_0032": {
-        "Target": "{X20Y20}Мальчишка{Line}Ничья. Ну ладно.{End}",
+        "Target": "{X20Y20}Мальчишка{Line}«Ничья. Ну ладно».{End}",
         "Source Text SHA256": "E2E80E9348C3A79EC911C28F6226DB2ED8848F26EACF46DC3C3AA298093656E4",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -378,7 +378,7 @@
         }
       },
       "$en_fhtown21_0033": {
-        "Target": "{X20Y20}Kid{Line}Вот чёрт. Уж {Pause 96}в следующий раз я точно не проиграю.{End}",
+        "Target": "{X20Y20}Мальчишка{Line}«Вот чёрт. Уж {Pause 96}в следующий раз я точно не проиграю».{End}",
         "Source Text SHA256": "68E29B60C6764B95A280D3B3224C50093C5055CBE06E51BF32B74F65A171C07E",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -394,7 +394,7 @@
         }
       },
       "$en_fhtown21_0035": {
-        "Target": "{X20Y20}Мальчишка{Line}Ну, в другой раз опять сыграем, ладно?{End}",
+        "Target": "{X20Y20}Мальчишка{Line}«Ну, в другой раз опять сыграем, ладно?»{End}",
         "Source Text SHA256": "9DD0B2F9EB40617765C953FA9A8587F7ADD56E3F8B9201E72D752904926A597A",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -402,7 +402,7 @@
         }
       },
       "$en_fhtown21_0036": {
-        "Target": "{X0Y0}Girl{Line}Здравствуйте.{Line} Хороший денёк, да?{End}",
+        "Target": "{X0Y0}Девочка{Line}«Здравствуйте.{Line} Хороший денёк, да?»{End}",
         "Source Text SHA256": "52198BD3C8A5C25580158E60A2CFEECFEC49B911B8DA3C57F07D004B68EE1248",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",
@@ -410,7 +410,7 @@
         }
       },
       "$en_fhtown21_0037": {
-        "Target": "{X0Y0}Girl{Line}Милый котёнок, да?{End}",
+        "Target": "{X0Y0}Девочка{Line}«Милый котёнок, да?»{End}",
         "Source Text SHA256": "0E84B89013E1A5722F5DD9C6D78AAD004227E825BF9476F773A2D5A7551783CC",
         "sourceContext": {
           "Source MSD SHA256": "BE449EF3264F8604801A3A79B645C882BBB89237363B354310378ED0C484DC64",

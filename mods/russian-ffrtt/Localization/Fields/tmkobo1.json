@@ -34,7 +34,7 @@
         }
       },
       "$en_tmkobo1_0004": {
-        "Target": "{X100Y30}Лагуна{Line}«О! А здесь я ещё не был.{Line} Здорово. Прямо как я себе представлял».{End}",
+        "Target": "{X100Y30}{Char Laguna}{Line}«О! А здесь я ещё не был.{Line} Здорово. Прямо как я себе представлял».{End}",
         "Source Text SHA256": "4BFE0970A24663EADDDD64CB64F34E26191B3005F6DCE76B116C0FC9F09CF971",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -42,7 +42,7 @@
         }
       },
       "$en_tmkobo1_0005": {
-        "Target": "{X100Y30}Лагуна{Line}«Старейшина, спасибо за всё.{Line} Я перед вами в большом долгу».{End}",
+        "Target": "{X100Y30}{Char Laguna}{Line}«Старейшина, спасибо за всё.{Line} Я перед вами в большом долгу».{End}",
         "Source Text SHA256": "D5EDA6DF5F9D11EDC3EC7BDD41B111623731A16DF7F57665629939396114EFF9",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -58,7 +58,7 @@
         }
       },
       "$en_tmkobo1_0007": {
-        "Target": "{X100Y30}Лагуна{Line}«О, привет! Ага, ага…{Line} Ну что, выучил какие-нибудь слова?»{End}",
+        "Target": "{X100Y30}{Char Laguna}{Line}«О, привет! Ага, ага…{Line} Ну что, выучил какие-нибудь слова?»{End}",
         "Source Text SHA256": "74F5967EAE07BF865BD868C4EEC35C05A9436E94FD9EA88723CD69547AF55340",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -74,7 +74,7 @@
         }
       },
       "$en_tmkobo1_0009": {
-        "Target": "{X100Y30}Лагуна{Line}«Да ты что… И это всё?!{Line} После всего, чему я тебя учил?»{End}",
+        "Target": "{X100Y30}{Char Laguna}{Line}«Да ты что… И это всё?!{Line} После всего, чему я тебя учил?»{End}",
         "Source Text SHA256": "6B5767F8B1398712F40FD6C5EA900CEA8FAFA38BC3C3F9E24631B57449484237",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -90,7 +90,7 @@
         }
       },
       "$en_tmkobo1_0011": {
-        "Target": "{X100Y30}Лагуна{Line}«А здесь-то что не так?»{End}",
+        "Target": "{X100Y30}{Char Laguna}{Line}«А здесь-то что не так?»{End}",
         "Source Text SHA256": "A1FB944AAF2007021287AF6727937C69032C1125A6F87163D1C4F8B018B8743C",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -114,7 +114,7 @@
         }
       },
       "$en_tmkobo1_0014": {
-        "Target": "{X100Y30}Лагуна{Line}«Эм… Даже не знаю, что сказать».{End}",
+        "Target": "{X100Y30}{Char Laguna}{Line}«Эм… Даже не знаю, что сказать».{End}",
         "Source Text SHA256": "2D4A62435BCA9A64F14C94D527CE751E9C672A7BBADBCAEA9471746C606EBB2A",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -146,7 +146,7 @@
         }
       },
       "$en_tmkobo1_0018": {
-        "Target": "{X100Y30}Лагуна{Line}«Что? Хочешь, чтобы я их остановил?»{End}",
+        "Target": "{X100Y30}{Char Laguna}{Line}«Что? Хочешь, чтобы я их остановил?»{End}",
         "Source Text SHA256": "69146624CF4FF202568838FD65F70FC2C1F584F82A338376BE07AAAB8CDDCE86",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -154,7 +154,7 @@
         }
       },
       "$en_tmkobo1_0019": {
-        "Target": "{X100Y30}Лагуна{Line}«Да ну, сами разберутся. А?{Line} Да не хочу я. Мой долг?{Line} Ладно, ладно, хорошо».{End}",
+        "Target": "{X100Y30}{Char Laguna}{Line}«Да ну, сами разберутся. А?{Line} Да не хочу я. Мой долг?{Line} Ладно, ладно, хорошо».{End}",
         "Source Text SHA256": "52C0432797F3527B4CFF15A2A2D3BF4AA7FF71562C8F5661B5B5388CEAE2513C",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -162,7 +162,7 @@
         }
       },
       "$en_tmkobo1_0020": {
-        "Target": "{X50Y30}Лагуна{Line}«Эй, ребята…{Line} Ну давайте жить дружно, а?»{End}",
+        "Target": "{X50Y30}{Char Laguna}{Line}«Эй, ребята…{Line} Ну давайте жить дружно, а?»{End}",
         "Source Text SHA256": "A949B8773B9A8E41B98B961E732272DFE7CCDFE48B29E9D967EDDB5FE661EBE4",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -170,7 +170,7 @@
         }
       },
       "$en_tmkobo1_0021": {
-        "Target": "{X50Y30}Лагуна{Line}«РЕБЯТА! Хватит уже!»{End}",
+        "Target": "{X50Y30}{Char Laguna}{Line}«РЕБЯТА! Хватит уже!»{End}",
         "Source Text SHA256": "1B46EC99AAE787EA65FA689D8D6F5BFFA368631817D7B281B2135D8828F818F9",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -178,7 +178,7 @@
         }
       },
       "$en_tmkobo1_0022": {
-        "Target": "{X50Y30}Лагуна{Line}«Тьфу, ладно. Перехожу к плану Б».{End}",
+        "Target": "{X50Y30}{Char Laguna}{Line}«Тьфу, ладно. Перехожу к плану Б».{End}",
         "Source Text SHA256": "746DE3516885B056AE9A7AC82B8ACB6890D7B3F5E405573AA522F06E1E7536C4",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -186,7 +186,7 @@
         }
       },
       "$en_tmkobo1_0023": {
-        "Target": "{X50Y30}Лагуна{Line}«Перестаньте, пожалуйста. Умоляю. Ради меня».{End}",
+        "Target": "{X50Y30}{Char Laguna}{Line}«Перестаньте, пожалуйста. Умоляю. Ради меня».{End}",
         "Source Text SHA256": "81EDE9CF227E35F49FED0F54242206D6A91C8DBD24FC39B97CAA1A523A8B1122",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -194,7 +194,7 @@
         }
       },
       "$en_tmkobo1_0024": {
-        "Target": "{X80Y50}Лагуна{Line}«Пожа-а-алуйста!»{End}",
+        "Target": "{X80Y50}{Char Laguna}{Line}«Пожа-а-алуйста!»{End}",
         "Source Text SHA256": "8E29CE84D6E723A82829CE062F0154E2E18B4CC98640874C244E7357749F648C",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -210,7 +210,7 @@
         }
       },
       "$en_tmkobo1_0026": {
-        "Target": "{X50Y30}Лагуна{Line}«Вот и ладно».{End}",
+        "Target": "{X50Y30}{Char Laguna}{Line}«Вот и ладно».{End}",
         "Source Text SHA256": "C1C593D990CD08CCF1AB61EAFB082ED854C8778B072764B4A351D03D5401B509",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -218,7 +218,7 @@
         }
       },
       "$en_tmkobo1_0027": {
-        "Target": "{X50Y30}Лагуна{Line}«Эм… Не знаю. Уверен,{Line} со временем вы сами найдёте ответ».{End}",
+        "Target": "{X50Y30}{Char Laguna}{Line}«Эм… Не знаю. Уверен,{Line} со временем вы сами найдёте ответ».{End}",
         "Source Text SHA256": "18AD4FB3251520985C54B8D37171D6FBD1B26E03F9793583323BB95A52DE60D2",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -226,7 +226,7 @@
         }
       },
       "$en_tmkobo1_0028": {
-        "Target": "{X50Y30}Лагуна{Line}«Да и что самое главное?{Line} СЕРДЦЕ, ведь правда?! Сердце!»{Next}«Если у тебя нет сердца,{Line} всё равно, где ты живёшь.{Line} Сердце сближает людей».{End}",
+        "Target": "{X50Y30}{Char Laguna}{Line}«Да и что самое главное?{Line} СЕРДЦЕ, ведь правда?! Сердце!»{Next}«Если у тебя нет сердца,{Line} всё равно, где ты живёшь.{Line} Сердце сближает людей».{End}",
         "Source Text SHA256": "064BF7763F1ECECF8595E0155C60CEEAE92BE9AF16D93B2FCC137DD5628B8515",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -234,7 +234,7 @@
         }
       },
       "$en_tmkobo1_0029": {
-        "Target": "{X50Y30}Лагуна{Line}«…По крайней мере, так я где-то читал».{End}",
+        "Target": "{X50Y30}{Char Laguna}{Line}«…По крайней мере, так я где-то читал».{End}",
         "Source Text SHA256": "37A220E15D1DDE792EE34B3CB428D1135C2465BC356484ABF1A33878E6E2EBF5",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -258,7 +258,7 @@
         }
       },
       "$en_tmkobo1_0032": {
-        "Target": "{X50Y30}Лагуна{Line}«Ну же, ребята. У нас ведь{Line} праздник. Улыбайтесь!»{End}",
+        "Target": "{X50Y30}{Char Laguna}{Line}«Ну же, ребята. У нас ведь{Line} праздник. Улыбайтесь!»{End}",
         "Source Text SHA256": "7565009355A3494FF8C034114248F19EDCC5F7191554CF09D57EC607CD3BD7C9",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -266,7 +266,7 @@
         }
       },
       "$en_tmkobo1_0033": {
-        "Target": "{X50Y50}Лагуна{Line}«Шире улыбки… {Color Grey}Ну же, скорее…{Color White}»{End}",
+        "Target": "{X50Y50}{Char Laguna}{Line}«Шире улыбки… {Color Grey}Ну же, скорее…{Color White}»{End}",
         "Source Text SHA256": "8167ED3406169E81852A6597184D908B9017EC17BF14C36656ABCCBE35F8ED37",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -522,7 +522,7 @@
         }
       },
       "$en_tmkobo1_0065": {
-        "Target": "Лагуна{Line}«Эй, ну вы чего? Я только пришёл,{Line} а уже чувствую какое-то напряжение».{End}",
+        "Target": "{Char Laguna}{Line}«Эй, ну вы чего? Я только пришёл,{Line} а уже чувствую какое-то напряжение».{End}",
         "Source Text SHA256": "D625976CD03E5C172F02E10D42639B40EC74C316DB6F8812001F8C314F3D9E4A",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -802,7 +802,7 @@
         }
       },
       "$en_tmkobo1_0100": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим».{End}",
         "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -810,7 +810,7 @@
         }
       },
       "$en_tmkobo1_0101": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим».{End}",
         "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -818,7 +818,7 @@
         }
       },
       "$en_tmkobo1_0102": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим».{End}",
         "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -826,7 +826,7 @@
         }
       },
       "$en_tmkobo1_0103": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим».{End}",
         "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -834,7 +834,7 @@
         }
       },
       "$en_tmkobo1_0104": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим».{End}",
         "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -842,7 +842,7 @@
         }
       },
       "$en_tmkobo1_0105": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим».{End}",
         "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -850,7 +850,7 @@
         }
       },
       "$en_tmkobo1_0106": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим».{End}",
         "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",
@@ -858,7 +858,7 @@
         }
       },
       "$en_tmkobo1_0107": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим».{End}",
         "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
         "sourceContext": {
           "Source MSD SHA256": "5825188E5E5D56805563DA9DB544F0170B2CD0669DF56F90512F23A6F919A107",

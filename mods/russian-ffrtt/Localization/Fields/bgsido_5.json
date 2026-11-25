@@ -18,7 +18,7 @@
         }
       },
       "$en_bgsido_5_0002": {
-        "Target": "{X300Y15}Quistis{Line}Новое задание?{End}",
+        "Target": "{X300Y15}{Char Quistis}{Line}«Новое задание?»{End}",
         "Source Text SHA256": "DCDB39AAAA347DBA6AC92BA8FFD3C0675523C412832D17210AD36636B7F4D14D",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bgsido_5_0003": {
-        "Target": "{X160Y8}Zell{Line}Ну что{Line} там? Идём в город?{End}",
+        "Target": "{X160Y8}{Char Zell}{Line}«Ну что{Line} там? Идём в город?»{End}",
         "Source Text SHA256": "E531D2655D9AE66D413EAE3556E4689995FA633E137250C93CEAB7A5C3908509",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgsido_5_0004": {
-        "Target": "{X8Y8}Irvine{Line}Нам ведь уже можно выйти? Я{Line} тоже хочу пойти.{End}",
+        "Target": "{X8Y8}{Char Irvine}{Line}«Нам ведь уже можно выйти? Я{Line} тоже хочу пойти».{End}",
         "Source Text SHA256": "7228FD75C2FF8CB41A99CD59454C0B26116AD80C062076C1502D62A7410FA5AE",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgsido_5_0005": {
-        "Target": "{X35Y8}{Char Squall}{Line}Мы {Color Blue} сходим на{Color White}{Next}берег [Рыбацкого Горизонта].{Line} Принесём официальное извинение, затем осмотрим город.{End}",
+        "Target": "{X35Y8}{Char Squall}{Line}«Мы {Color Blue} сходим на{Color White}{Next}берег [Рыбацкого Горизонта].{Line} Принесём официальное извинение, затем осмотрим город».{End}",
         "Source Text SHA256": "04DE19EF79069C94A4C95840BB19CAB2A7B87F05B063411CDA3E1F5215972733",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgsido_5_0007": {
-        "Target": "{X300Y8}Квистис{Line}«В Рыбацкий Горизонт ведёт выход {Color Blue}〖на палубу второго этажа〗{Color White}.{Line} Теперь можно ходить через него».{Next}«Путь открыт».{End}",
+        "Target": "{X300Y8}{Char Quistis}{Line}«В Рыбацкий Горизонт ведёт выход {Color Blue}〖на палубу второго этажа〗{Color White}.{Line} Теперь можно ходить через него».{Next}«Путь открыт».{End}",
         "Source Text SHA256": "893E513828AE3D0F55C5EA61D912E0B7218C9506F10E85C73DBA90C725801190",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgsido_5_0008": {
-        "Target": "{X160Y8}Зелл{Line}«Эй, в Рыбацкий Горизонт можно {Color Blue}〖через палубу второго этажа〗{Color White}.{Line} Туда и иди».{Next}«Главные ворота закрыты».{End}",
+        "Target": "{X160Y8}{Char Zell}{Line}«Эй, в Рыбацкий Горизонт можно {Color Blue}〖через палубу второго этажа〗{Color White}.{Line} Туда и иди».{Next}«Главные ворота закрыты».{End}",
         "Source Text SHA256": "F64B101E792288B23D4CBAEB7AAF1F4A22D0F88E99C06F65F4359C4EF3FD7179",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgsido_5_0009": {
-        "Target": "{X8Y8}Ирвин{Line}«В Рыбацкий Горизонт, похоже,{Line} можно пройти через{Line} {Color Blue}〖палубу второго этажа〗{Color White}».{Next}«Я уже проверил».{End}",
+        "Target": "{X8Y8}{Char Irvine}{Line}«В Рыбацкий Горизонт, похоже,{Line} можно пройти через{Line} {Color Blue}〖палубу второго этажа〗{Color White}».{Next}«Я уже проверил».{End}",
         "Source Text SHA256": "04CB16E01F6995E1E88FF9A58A1B89B729EAF155C3D0B37A455E16772EC9953E",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -410,7 +410,7 @@
         }
       },
       "$en_bgsido_5_0037": {
-        "Target": "Баламб{End}",
+        "Target": "«Баламб»{End}",
         "Source Text SHA256": "588E5A0C901DA9573BBFBCBC7DFC0417D41958591E7B88A88BE8260A8E72379B",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -426,7 +426,7 @@
         }
       },
       "$en_bgsido_5_0039": {
-        "Target": "Трабия{End}",
+        "Target": "«Трабия»{End}",
         "Source Text SHA256": "F6AD33B6D709C41DF449BD5FFB8E0DE328B2BA50FE0976CC8D226CAD719E3C55",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -434,7 +434,7 @@
         }
       },
       "$en_bgsido_5_0040": {
-        "Target": "Центра{End}",
+        "Target": "«Центра»{End}",
         "Source Text SHA256": "CF88B33D26A1274D2E43EFA6F5EB9FC39F62B83DE681E3D4D1C0DA4C44AED747",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -442,7 +442,7 @@
         }
       },
       "$en_bgsido_5_0041": {
-        "Target": "Доллет{End}",
+        "Target": "«Доллет»{End}",
         "Source Text SHA256": "B0ABB598561F8B0A690C33A749348FF34C27B05031641DC0A66285D736143E59",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -466,7 +466,7 @@
         }
       },
       "$en_bgsido_5_0044": {
-        "Target": "Эстар{End}",
+        "Target": "«Эстар»{End}",
         "Source Text SHA256": "FDFFD6B74CF8BA356D3DEF39577EB22D67E187554B864637C9ABCECA5C0789B3",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",
@@ -474,7 +474,7 @@
         }
       },
       "$en_bgsido_5_0045": {
-        "Target": "Без дополнительных правил{End}",
+        "Target": "«Без дополнительных правил»{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "7E7877731B8563598E4E4D790EEF800928A8944B195B94CFB3514D9344B68953",

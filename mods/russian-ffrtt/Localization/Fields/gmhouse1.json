@@ -2,7 +2,7 @@
   "Fields": {
     "gmhouse1": {
       "$en_gmhouse1_0000": {
-        "Target": "{X16Y16}Maintenance Soldier{Line}А? Я сейчас{Line} занят. Чего вам?{End}",
+        "Target": "{X16Y16}Солдат ремонтной службы{Line}«А? Я сейчас{Line} занят. Чего вам?»{End}",
         "Source Text SHA256": "61FC88D07F456E7AD9728B4ECB18BD0D93FBCDAA20A2E374966578C1052C93E0",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gmhouse1_0001": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}Ох,{Line} чёрт… Нам{Line} же генераторную проверять!{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Ох,{Line} чёрт… Нам{Line} же генераторную проверять!»{End}",
         "Source Text SHA256": "FE53095FA5051E0D2E89BB6A669ECAE5838354B8067F7F82BD09C402D38CA01A",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gmhouse1_0002": {
-        "Target": "{X16Y16}Maintenance Soldier{Line}О,{Next}уже{Line} пора?{End}",
+        "Target": "{X16Y16}Солдат ремонтной службы{Line}«О,{Next}уже{Line} пора?»{End}",
         "Source Text SHA256": "82FF722AB9A5C8E1DAF5E742FA4DA66D510CC62D4176F728B6F065390DAEA1D2",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gmhouse1_0003": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}Извините, парни,{Line} вы сообщение не передадите? Скажите{Next}парням на {Color Blue}[ракетной установке]{Color White}{Line} начинать без нас.{Line} Мы подойдём позже.{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Извините, парни,{Line} вы сообщение не передадите? Скажите{Next}парням на {Color Blue}[ракетной установке]{Color White}{Line} начинать без нас.{Line} Мы подойдём позже».{End}",
         "Source Text SHA256": "BE089356CD1FCCE6B89FCA7AC66D172C7DBCA099D1AAA58CF0FEDA544034F8E9",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gmhouse1_0004": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}Большое спасибо. Мы{Line} весьма признательны вам за это.{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Большое спасибо. Мы{Line} весьма признательны вам за это».{End}",
         "Source Text SHA256": "22AE55F0DCE067BDE0E72D66EEAAF1412446DC05D556144C176FF3F0BE9DC7B6",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gmhouse1_0005": {
-        "Target": "{X16Y16}Maintenance Soldier{Line}Спасибо.{End}",
+        "Target": "{X16Y16}Солдат ремонтной службы{Line}«Спасибо».{End}",
         "Source Text SHA256": "E5EC2D1C7D25C960FC5F88BC62921AAC9A244E5BEF48BE0B75D83C19E9B81A52",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gmhouse1_0006": {
-        "Target": "{X160Y12}Selphie{Line}Он говорит, что{Line} слишком загружен работой.{End}",
+        "Target": "{X160Y12}{Char Selphie}{Line}«Он говорит, что{Line} слишком загружен работой».{End}",
         "Source Text SHA256": "643433707040AB12022E34A572477A8B61B954939AB50578C44997ECB9DCACC8",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gmhouse1_0007": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}Блин...{Line} Что будем делать?{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Блин...{Line} Что будем делать?»{End}",
         "Source Text SHA256": "C6A0A286294BA975A75033190ACD7B8201AA3F0CEA2E1404029391EEEB11EAEE",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gmhouse1_0008": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}Пойдём к нему или у тебя{Line} есть альтернатива?..{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Пойдём к нему или у тебя{Line} есть альтернатива?..»{End}",
         "Source Text SHA256": "DCE66CF1972768F32AD2D27F775B930DF17747F2FBA98A63D87553CCDD2644E3",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gmhouse1_0009": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}...{Pause 64}...{Pause 64}...{Pause 64}...{Pause 64}...{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«...{Pause 64}...{Pause 64}...{Pause 64}...{Pause 64}...»{End}",
         "Source Text SHA256": "C21559461176BF1D7126A44C2EFCDC418BE28B35668B02291C8608016CCB40EA",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gmhouse1_0010": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}Нет, хотя... Может,{Line} вы сходите вместо нас?{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Нет, хотя... Может,{Line} вы сходите вместо нас?»{End}",
         "Source Text SHA256": "9F74C8D0A02922ED2BBB33AA355A823DB61C4D7A5D3AE27D96E3091ED3F020E4",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gmhouse1_0011": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}Ты что, совсем рехнулся?!{Next}А если об этом узнает командующий?!{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Ты что, совсем рехнулся?!»{Next}«А если об этом узнает командующий?!»{End}",
         "Source Text SHA256": "8CD47CE5A4687AA369193B7C11ECD6DAD8D067854630A3291DFB00DFE64033B1",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gmhouse1_0012": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}Забей,{Next}всё будет нормально.{Line} В любом случае, мы всего лишь ходим и проверяем всё ли на месте и работает ли оно.{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Забей,{Next}всё будет нормально.{Line} В любом случае, мы всего лишь ходим и проверяем всё ли на месте и работает ли оно».{End}",
         "Source Text SHA256": "B78F7EA52495C8C702AF2B06715B0925D928DD3BF64032AB4609D0D6A6A2E7C4",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gmhouse1_0013": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}Надеюсь, ты прав...{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Надеюсь, ты прав...»{End}",
         "Source Text SHA256": "09C1BE8D8FB366036AF9A0179C6CE5268B160046912172EC122F14E219585428",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gmhouse1_0014": {
-        "Target": "{X16Y140}Maintenance Soldier{Line}Ну вот и{Line} порешили. Мы рассчитываем на вас.{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Ну вот и{Line} порешили. Мы рассчитываем на вас».{End}",
         "Source Text SHA256": "793E91510B194925AD5B972183FF753D278CD0A888ABD5BEE69142083F26E13B",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gmhouse1_0015": {
-        "Target": "{X160Y12}Selphie{Line}Есть, сэр!{End}",
+        "Target": "{X160Y12}{Char Selphie}{Line}«Есть, сэр!»{End}",
         "Source Text SHA256": "C9871717B6036E403A4D45180760332E0E87D087EABB9692A2F0639D3066D080",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gmhouse1_0017": {
-        "Target": "{X160Y16}Guard{Line}Вон они! Хватайте их!{End}",
+        "Target": "{X160Y16}Охранник{Line}«Вон они! Хватайте их!»{End}",
         "Source Text SHA256": "90B07AD93096F9D369F5ABDEF2C5EA93D98AA6D19BF91D7B9C3BBFC92DA24BB2",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gmhouse1_0018": {
-        "Target": "{X40Y20}Selphie{Line}Они нас разоблачили.{Line} С этим уже ничего не поделаешь.{Next}Покажем, на что{Line} мы способны!{End}",
+        "Target": "{X40Y20}{Char Selphie}{Line}«Они нас разоблачили.{Line} С этим уже ничего не поделаешь».{Next}«Покажем, на что{Line} мы способны!»{End}",
         "Source Text SHA256": "865312DCD7B211B7DBC3AC5A42A23237330C2F34FFC3B768B431AC1B5B07FBF0",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",

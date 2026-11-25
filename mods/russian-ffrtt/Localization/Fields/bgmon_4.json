@@ -10,7 +10,7 @@
         }
       },
       "$en_bgmon_4_0001": {
-        "Target": "{X40Y165}“Кто-нибудь, помогите!!!”",
+        "Target": "{X40Y165}«Кто-нибудь, помогите!!!»",
         "Source Text SHA256": "697FC72EC978872D78031315DCA4554F735EB444227598A32E6150FA7A059162",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bgmon_4_0002": {
-        "Target": "{X30Y8}Квистис{Line}«Идём, {Char Squall}!»{End}",
+        "Target": "{X30Y8}{Char Quistis}{Line}«Идём, {Char Squall}!»{End}",
         "Source Text SHA256": "9454CF847657FC35604EF79BD93A3EC83DAC88A1422726FDBDD2EE2F551DD2B9",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgmon_4_0004": {
-        "Target": "{X88Y8}Вы {Char Squall},{Line} да? Я наслышан о вас.{End}",
+        "Target": "{X88Y8}«Вы {Char Squall},{Line} да? Я наслышан о вас».{End}",
         "Source Text SHA256": "25300F336A8B5D3FF0AA005281872E28AC9676F08C907C8A0A8E0809712EA91C",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgmon_4_0005": {
-        "Target": "{X61Y8}Хотите чего-нибудь? Не{Line} бесплатно, конечно.{End}",
+        "Target": "{X61Y8}«Хотите чего-нибудь? Не{Line} бесплатно, конечно».{End}",
         "Source Text SHA256": "3B182746906DCA3F9770CBEF9F8EE7044FA93C3A857EAEBC0341F5DC43E7A32F",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgmon_4_0009": {
-        "Target": "{X67Y8}Может,{Line} и{Next}{Next}со{Line} мной{Next}{Line}{Next}проведёшь{Line} партеечку?{End}",
+        "Target": "{X67Y8}«Может,{Line} и»{Next}{Next}«со{Line} мной»{Next}{Line}{Next}«проведёшь{Line} партеечку?»{End}",
         "Source Text SHA256": "BF2D145B73F2EAB24E5A9517B1F9AEEDF6C1643D26C01B2709F388FABAB078E2",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgmon_4_0010": {
-        "Target": "{X106Y8F2L3B2C3}Joker{Line}”Сыграем?“{Line}Да{Line}Нет{End}",
+        "Target": "{X106Y8F2L3B2C3}Джокер{Line}«Сыграем?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "77CE61532C1C218F62DD8B9E2D5F803933388C33466CBF7E979F1FC6C091B69F",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -402,7 +402,7 @@
         }
       },
       "$en_bgmon_4_0036": {
-        "Target": "Баламб{End}",
+        "Target": "«Баламб»{End}",
         "Source Text SHA256": "588E5A0C901DA9573BBFBCBC7DFC0417D41958591E7B88A88BE8260A8E72379B",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -418,7 +418,7 @@
         }
       },
       "$en_bgmon_4_0038": {
-        "Target": "Трабия{End}",
+        "Target": "«Трабия»{End}",
         "Source Text SHA256": "F6AD33B6D709C41DF449BD5FFB8E0DE328B2BA50FE0976CC8D226CAD719E3C55",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -426,7 +426,7 @@
         }
       },
       "$en_bgmon_4_0039": {
-        "Target": "Центра{End}",
+        "Target": "«Центра»{End}",
         "Source Text SHA256": "CF88B33D26A1274D2E43EFA6F5EB9FC39F62B83DE681E3D4D1C0DA4C44AED747",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -434,7 +434,7 @@
         }
       },
       "$en_bgmon_4_0040": {
-        "Target": "Доллет{End}",
+        "Target": "«Доллет»{End}",
         "Source Text SHA256": "B0ABB598561F8B0A690C33A749348FF34C27B05031641DC0A66285D736143E59",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -458,7 +458,7 @@
         }
       },
       "$en_bgmon_4_0043": {
-        "Target": "Эстар{End}",
+        "Target": "«Эстар»{End}",
         "Source Text SHA256": "FDFFD6B74CF8BA356D3DEF39577EB22D67E187554B864637C9ABCECA5C0789B3",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -466,7 +466,7 @@
         }
       },
       "$en_bgmon_4_0044": {
-        "Target": "Без дополнительных правил{End}",
+        "Target": "«Без дополнительных правил»{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",

@@ -26,7 +26,7 @@
         }
       },
       "$en_bg2f_21_0003": {
-        "Target": "{X10Y10}MG Junior Classman{Line}Сэр!{Line} Вот, воспользуйтесь этим!{End}",
+        "Target": "{X10Y10}Младшекурсник МГ{Line}«Сэр!{Line} Вот, воспользуйтесь этим!»{End}",
         "Source Text SHA256": "1DF242F0D4C1858BE72622829C09EDD28B34A257AAE1E39C2099ACB6132306CB",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bg2f_21_0005": {
-        "Target": "{X10Y10}MG Junior Classman{Line}Я помогаю раздавать вещи{Line} нашим войскам, сэр. Пойду{Line} раздам снадобья ударному отряду.{End}",
+        "Target": "{X10Y10}Младшекурсник МГ{Line}«Я помогаю раздавать вещи{Line} нашим войскам, сэр. Пойду{Line} раздам снадобья ударному отряду».{End}",
         "Source Text SHA256": "05435598F134986489C4013FE595D11A2D3AF88130EBF65569D92AE3C80E8AF2",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bg2f_21_0006": {
-        "Target": "{X32Y10}{Char Squall}{Line}Вы должны быть в аудитории.{End}",
+        "Target": "{X32Y10}{Char Squall}{Line}«Вы должны быть в аудитории».{End}",
         "Source Text SHA256": "F1007A3E6BDF19DD95619A1AAA349865F139BAA547C95FA89EA09ED220AF16F7",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bg2f_21_0007": {
-        "Target": "{X150Y90}Provisions Staff{Line}Я опоздал! Опоздал!{End}",
+        "Target": "{X150Y90}Снабженец{Line}«Я опоздал! Опоздал!»{End}",
         "Source Text SHA256": "7FBB2AAA3E3D8C79D33A61E362CA597A7444DAC07451A491766803EC5024B8C5",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bg2f_21_0008": {
-        "Target": "{X10Y10}{Char Squall}{Line}По прибытию на места сделайте доклад.{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}«По прибытию на места сделайте доклад».{End}",
         "Source Text SHA256": "04E817C3B25A59A38B7AF44BED01CE9E52295274DF03E486B4B1FA9D3B09D8A8",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bg2f_21_0009": {
-        "Target": "Да, сэр!{End}",
+        "Target": "«Да, сэр!»{End}",
         "Source Text SHA256": "1349ABB8E2613F0B9E9DC34D6F107C6B39955D93A755CCDE9E11A921CB499CD4",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bg2f_21_0009_ctx_8d40cd6b9af3d0d5": {
-        "Target": "{X50Y100}Да, сэр!{End}",
+        "Target": "{X50Y100}«Да, сэр!»{End}",
         "Source Text SHA256": "1349ABB8E2613F0B9E9DC34D6F107C6B39955D93A755CCDE9E11A921CB499CD4",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bg2f_21_0009_ctx_df70ea33d5cc3dea": {
-        "Target": "{X10Y70}Да, сэр!{End}",
+        "Target": "{X10Y70}«Да, сэр!»{End}",
         "Source Text SHA256": "1349ABB8E2613F0B9E9DC34D6F107C6B39955D93A755CCDE9E11A921CB499CD4",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bg2f_21_0010": {
-        "Target": "{X10Y90}Junior Classman{Line}Больно,{Line} больно!{End}",
+        "Target": "{X10Y90}Младшекурсник{Line}«Больно,{Line} больно!»{End}",
         "Source Text SHA256": "48ABAAF024C09C1401F2A22F2AED12073BD52FD14099820B4511D5311179B63C",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bg2f_21_0011": {
-        "Target": "{X150Y90}Female Student (ID #16){Line}Вы целы? Поверить{Next}не могу, что они это{Line} сделали. Эй парень, ты цел?{End}",
+        "Target": "{X150Y90}Студентка (ID № 16){Line}«Вы целы? Поверить{Next}не могу, что они это{Line} сделали. Эй парень, ты цел?»{End}",
         "Source Text SHA256": "BE41B7F3E31F79A30A97BC6A1724966E25FBAB906A990A5AADB4177850725764",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bg2f_21_0012": {
-        "Target": "{X36Y10}Поэтому один лишь раз, я хочу,{Line} чтобы вы, ребята, выложились на{Line} полную! Ради себя и меня!{End}",
+        "Target": "{X36Y10}«Поэтому один лишь раз, я хочу,{Line} чтобы вы, ребята, выложились на{Line} полную! Ради себя и меня!»{End}",
         "Source Text SHA256": "9D5B2493CDEABC2ADD15CE21E76FE200FF1BA25DC46DB9E9691A7242954C6F79",
         "sourceContext": {
           "Source MSD SHA256": "5CF900D9B217AB0813CADE6892C7120B959F6296CF7C150DF5576F14E57E7E98",

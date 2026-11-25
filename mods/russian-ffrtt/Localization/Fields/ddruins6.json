@@ -74,7 +74,7 @@
         }
       },
       "$en_ddruins6_0009": {
-        "Target": "Квистис{Line}«Столько средств вложили в эту станцию...{Line} Здесь наверняка что-то есть.»{End}",
+        "Target": "{Char Quistis}{Line}«Столько средств вложили в эту станцию...{Line} Здесь наверняка что-то есть».{End}",
         "Source Text SHA256": "832608CD8EDB673D9C57BAD995329C2B893D9925C7A17D811974485E413DEAC4",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ddruins6_0009_ctx_0d24373bced8f971": {
-        "Target": "{X20Y30}Квистис{Line}«Столько средств вложили в эту станцию...{Line} Здесь наверняка что-то есть.»{End}",
+        "Target": "{X20Y30}{Char Quistis}{Line}«Столько средств вложили в эту станцию...{Line} Здесь наверняка что-то есть».{End}",
         "Source Text SHA256": "832608CD8EDB673D9C57BAD995329C2B893D9925C7A17D811974485E413DEAC4",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ddruins6_0009_ctx_5791147b20524a28": {
-        "Target": "{X50Y50}Квистис{Line}«Столько средств вложили в эту станцию...{Line} Здесь наверняка что-то есть.»{End}",
+        "Target": "{X50Y50}{Char Quistis}{Line}«Столько средств вложили в эту станцию...{Line} Здесь наверняка что-то есть».{End}",
         "Source Text SHA256": "832608CD8EDB673D9C57BAD995329C2B893D9925C7A17D811974485E413DEAC4",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ddruins6_0010": {
-        "Target": "Ирвин{Line}«Так... нам что, вытаскивать эту штуку?»{End}",
+        "Target": "{Char Irvine}{Line}«Так... нам что, вытаскивать эту штуку?»{End}",
         "Source Text SHA256": "758AFDED623C281FAC373F58A6EE9F81EBAC72328C0DA51C5976606636FAF920",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ddruins6_0010_ctx_0d24373bced8f971": {
-        "Target": "{X20Y30}Ирвин{Line}«Так... нам что, вытаскивать эту штуку?»{End}",
+        "Target": "{X20Y30}{Char Irvine}{Line}«Так... нам что, вытаскивать эту штуку?»{End}",
         "Source Text SHA256": "758AFDED623C281FAC373F58A6EE9F81EBAC72328C0DA51C5976606636FAF920",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ddruins6_0010_ctx_5791147b20524a28": {
-        "Target": "{X50Y50}Ирвин{Line}«Так... нам что, вытаскивать эту штуку?»{End}",
+        "Target": "{X50Y50}{Char Irvine}{Line}«Так... нам что, вытаскивать эту штуку?»{End}",
         "Source Text SHA256": "758AFDED623C281FAC373F58A6EE9F81EBAC72328C0DA51C5976606636FAF920",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ddruins6_0012": {
-        "Target": "Селфи{Line}«Раз уж мы забрались так далеко,{Line} там точно сокровище!»{End}",
+        "Target": "{Char Selphie}{Line}«Раз уж мы забрались так далеко,{Line} там точно сокровище!»{End}",
         "Source Text SHA256": "047D1848819E6969124EACAE31822A1FBDCB1E94DDA29CBFA55BDD368AA7ABEF",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ddruins6_0012_ctx_0d24373bced8f971": {
-        "Target": "{X20Y30}Селфи{Line}«Раз уж мы забрались так далеко,{Line} там точно сокровище!»{End}",
+        "Target": "{X20Y30}{Char Selphie}{Line}«Раз уж мы забрались так далеко,{Line} там точно сокровище!»{End}",
         "Source Text SHA256": "047D1848819E6969124EACAE31822A1FBDCB1E94DDA29CBFA55BDD368AA7ABEF",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ddruins6_0012_ctx_5791147b20524a28": {
-        "Target": "{X50Y50}Селфи{Line}«Раз уж мы забрались так далеко,{Line} там точно сокровище!»{End}",
+        "Target": "{X50Y50}{Char Selphie}{Line}«Раз уж мы забрались так далеко,{Line} там точно сокровище!»{End}",
         "Source Text SHA256": "047D1848819E6969124EACAE31822A1FBDCB1E94DDA29CBFA55BDD368AA7ABEF",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ddruins6_0013": {
-        "Target": "Зелл{Line}«Не терпится узнать, что будет!»{End}",
+        "Target": "{Char Zell}{Line}«Не терпится узнать, что будет!»{End}",
         "Source Text SHA256": "7F77E8FFB79DF9720F506C2AA6D342CA998EB3AD84688FD8428AF8CFE74D9519",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -178,7 +178,7 @@
         }
       },
       "$en_ddruins6_0013_ctx_0d24373bced8f971": {
-        "Target": "{X20Y30}Зелл{Line}«Не терпится узнать, что будет!»{End}",
+        "Target": "{X20Y30}{Char Zell}{Line}«Не терпится узнать, что будет!»{End}",
         "Source Text SHA256": "7F77E8FFB79DF9720F506C2AA6D342CA998EB3AD84688FD8428AF8CFE74D9519",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ddruins6_0013_ctx_5791147b20524a28": {
-        "Target": "{X50Y50}Зелл{Line}«Не терпится узнать, что будет!»{End}",
+        "Target": "{X50Y50}{Char Zell}{Line}«Не терпится узнать, что будет!»{End}",
         "Source Text SHA256": "7F77E8FFB79DF9720F506C2AA6D342CA998EB3AD84688FD8428AF8CFE74D9519",
         "sourceContext": {
           "Source MSD SHA256": "BE58221559D0288DFDEAC74FC4036D51BD37A7647C9805A4A6997F126980CB0D",

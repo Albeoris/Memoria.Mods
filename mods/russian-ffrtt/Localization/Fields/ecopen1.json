@@ -2,7 +2,7 @@
   "Fields": {
     "ecopen1": {
       "$en_ecopen1_0000": {
-        "Target": "{X100Y10}Зелл{Line}ЧЁРТ! Не успеем!{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}«ЧЁРТ! Не успеем!»{End}",
         "Source Text SHA256": "84ED47C1DC25A2C9BB6575F54857CFFD36951E144E12F4E12719DDF2F095F07C",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -10,7 +10,7 @@
         }
       },
       "$en_ecopen1_0001": {
-        "Target": "{X50Y10}Palace Sentry{Line}Эта сторона называется ПРАВОЙ. Если пожелаете{Line} выбраться из города, держитесь ПРАВОЙ{Line} СТОРОНЫ. Вы сможете быстро{Next}добраться ко входу в город, если{Line} поедете на лифте. Вы направляетесь{Line} к [Лунным Вратам]? {Color Blue}Следуйте от{Color White}{Line} города в сторону востока.{End}",
+        "Target": "{X50Y10}Дворцовый страж{Line}«Эта сторона называется ПРАВОЙ. Если пожелаете{Line} выбраться из города, держитесь ПРАВОЙ{Line} СТОРОНЫ. Вы сможете быстро{Next}добраться ко входу в город, если{Line} поедете на лифте. Вы направляетесь{Line} к [Лунным Вратам]? {Color Blue}Следуйте от{Color White}{Line} города в сторону востока».{End}",
         "Source Text SHA256": "9382176F7A7928BA13F80E91460E19D37510BE3272774FCF988682C3D9AA0156",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ecopen1_0002": {
-        "Target": "{X50Y10}Palace Sentry{Line}Отсюда до Лунных Врат далеко, поэтому я{Line} бы посоветовал вам взять машину напрокат.{End}",
+        "Target": "{X50Y10}Дворцовый страж{Line}«Отсюда до Лунных Врат далеко, поэтому я{Line} бы посоветовал вам взять машину напрокат».{End}",
         "Source Text SHA256": "9ED0D55A174CCAE3FE2E6B67AD6DC623C37953B0133C4A28D0583942B6B91264",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ecopen1_0003": {
-        "Target": "{X50Y10}Дворцовый страж{Line}Похоже на ту штуку, которую{Line}изучали в Лунной лаборатории... Она, что ли?{End}",
+        "Target": "{X50Y10}Дворцовый страж{Line}«Похоже на ту штуку, которую{Line}изучали в Лунной лаборатории... Она, что ли?»{End}",
         "Source Text SHA256": "C929C40EBF11243C8E3A7231FE047C47150C2B5A9725AE76B24645CBCD0BEC23",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ecopen1_0004": {
-        "Target": "{X50Y10}Palace Sentry{Line}Центр разделён на две стороны. Эту{Line} сторону называют ЛЕВОЙ. На этой{Next}стороне находится лаборатория доктора Одайна. Чтобы{Line} попасть туда, вы можете сесть на{Line} лифт до Аэродрома Эстара.{End}",
+        "Target": "{X50Y10}Дворцовый страж{Line}«Центр разделён на две стороны. Эту{Line} сторону называют ЛЕВОЙ. На этой{Next}стороне находится лаборатория доктора Одайна. Чтобы{Line} попасть туда, вы можете сесть на{Line} лифт до Аэродрома Эстара».{End}",
         "Source Text SHA256": "1B744FCF1DE8D58FA2EFFB831E50AF3193E79B797D06FE142EB59C5007613E83",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ecopen1_0005": {
-        "Target": "{X50Y10}Palace Sentry{Line}Также предлагаю вам посетить наш торговый центр.{Line} Это возле входа в город.{End}",
+        "Target": "{X50Y10}Дворцовый страж{Line}«Также предлагаю вам посетить наш торговый центр.{Line} Это возле входа в город».{End}",
         "Source Text SHA256": "87D1979DBC34C32C8EDBF96A5810F28189A885CA299A7F94DD063DEBFCE596B3",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ecopen1_0006": {
-        "Target": "{X50Y10}Palace Sentry{Line}С нами всё будет хорошо?{End}",
+        "Target": "{X50Y10}Дворцовый страж{Line}«С нами всё будет хорошо?»{End}",
         "Source Text SHA256": "6F96C6C7419C5137F345CFBBC7371F58EE424490AFF250BA568263A6D5EDD514",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ecopen1_0007": {
-        "Target": "{X50Y10}Дворцовый страж{Line}Вы опоздали!{End}",
+        "Target": "{X50Y10}Дворцовый страж{Line}«Вы опоздали!»{End}",
         "Source Text SHA256": "E9F31A9FEE1E9F130A8867869046228A7EA8786ADC6FCBF821484EA9FC3CEEB4",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ecopen1_0008": {
-        "Target": "{X50Y50}Дворцовый страж{Line}Гальбадийцы оцепили район.{Line}К этой штуке даже не подойти.{End}",
+        "Target": "{X50Y50}Дворцовый страж{Line}«Гальбадийцы оцепили район.{Line}К этой штуке даже не подойти».{End}",
         "Source Text SHA256": "4D7F9D42D9EAC33EB1775E8E5229505A63B5112E0ADFCD7006876A6DCCA8A51A",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ecopen1_0009": {
-        "Target": "{X51Y10}...Что же это{Line} такое? Что случится?{End}",
+        "Target": "{X51Y10}«...Что же это{Line} такое? Что случится?»{End}",
         "Source Text SHA256": "E3E27DABF7E5ADC063DF5440BDAA6232522D0FCC0F06B36BEF98F95866D51FB1",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ecopen1_0010": {
-        "Target": "{X30Y10}Я пришла сюда узнать, что происходит, но{Line} здесь никого нет.{End}",
+        "Target": "{X30Y10}«Я пришла сюда узнать, что происходит, но{Line} здесь никого нет».{End}",
         "Source Text SHA256": "098B8DAFDC7C08C24EA2A6EA5CF2251A2082B3B0C5DA6CFCE7B6FCC24BE6D05B",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ecopen1_0011": {
-        "Target": "{X150Y50}Эта машина... Она выглядела необычно.{End}",
+        "Target": "{X150Y50}«Эта машина... Она выглядела необычно».{End}",
         "Source Text SHA256": "4D48843163A883C5632498763FB09B49777AA5754BD4EFB7D9590D2574C40728",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ecopen1_0012": {
-        "Target": "{X100Y50}Ух, когда у нас в{Line} последний раз были nehbcns?..{End}",
+        "Target": "{X100Y50}«Ух, когда у нас в{Line} последний раз были nehbcns?..»{End}",
         "Source Text SHA256": "312C2926A8FB7135799A7809CE49FC4E398EF11BDE1C5243BE346CBF7021E8FE",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ecopen1_0013": {
-        "Target": "{X150Y50}Что этот сумасшедший доктор задумал на этот раз?{End}",
+        "Target": "{X150Y50}«Что этот сумасшедший доктор задумал на этот раз?»{End}",
         "Source Text SHA256": "C926B10E5FD531CBC46A60E1C443B7F8CFD062B6177C7FB5F0A455AF2AF9E8F0",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ecopen1_0014": {
-        "Target": "{X100Y50}Не знаю... хмм...{End}",
+        "Target": "{X100Y50}«Не знаю... хмм...»{End}",
         "Source Text SHA256": "F6780E2A33D210F94EF7D6940F1534A31A0EECEB9E12E06011CAAE346394A24D",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ecopen1_0015": {
-        "Target": "{X128Y10}Что?!{End}",
+        "Target": "{X128Y10}«Что?!»{End}",
         "Source Text SHA256": "B5769E283A5A300F8EF5B9DC15706D3A0C54F625FF953DF56BC149AC26A669CF",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ecopen1_0016": {
-        "Target": "{X36Y10}Достопримечательности? Вообще-то вы уже{Line} побывали во дворце, значит, вы{Line} здесь по какой-то важной причине.{End}",
+        "Target": "{X36Y10}«Достопримечательности? Вообще-то вы уже{Line} побывали во дворце, значит, вы{Line} здесь по какой-то важной причине».{End}",
         "Source Text SHA256": "ED9E1DA1FF81FF742C1910184F8D63E6A8883DE1B60F824BA3D617C5E102A3F9",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ecopen1_0023": {
-        "Target": "{X10Y10F1L2B1C2}Сыграть в карты? Я же на службе... хотя, какая разница?{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}«Сыграть в карты? Я же на службе... хотя, какая разница?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "305CD983147A66B39173468E0A524B63E639D9C77626EC2DAB0090593B1A5BA7",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -194,7 +194,7 @@
         }
       },
       "$en_ecopen1_0024": {
-        "Target": "{X50Y10F2L3B2C3}”Я ещё никогда не играла в{Line} карты с иностранцем. Я так волнуюсь. Готовы?“{Line}Да{Line}Нет{End}",
+        "Target": "{X50Y10F2L3B2C3}«Я ещё никогда не играла в{Line} карты с иностранцем. Я так волнуюсь. Готовы?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "BE301D10D8E292B89D395A7F314BA97D8A0D7E05147C960185881DD642E1FF9E",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -202,7 +202,7 @@
         }
       },
       "$en_ecopen1_0025": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим».{End}",
         "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -210,7 +210,7 @@
         }
       },
       "$en_ecopen1_0026": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим».{End}",
         "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -218,7 +218,7 @@
         }
       },
       "$en_ecopen1_0027": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим».{End}",
         "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -226,7 +226,7 @@
         }
       },
       "$en_ecopen1_0028": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим».{End}",
         "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -234,7 +234,7 @@
         }
       },
       "$en_ecopen1_0029": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим».{End}",
         "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -242,7 +242,7 @@
         }
       },
       "$en_ecopen1_0030": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим».{End}",
         "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -250,7 +250,7 @@
         }
       },
       "$en_ecopen1_0031": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим».{End}",
         "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",
@@ -258,7 +258,7 @@
         }
       },
       "$en_ecopen1_0032": {
-        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим.{End}",
+        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим».{End}",
         "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
         "sourceContext": {
           "Source MSD SHA256": "7DCB010FE0E4EB98255B7C8FBAEF58CAB9D9F94D919C8EE74273AD695BE51AA3",

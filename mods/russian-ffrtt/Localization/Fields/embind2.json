@@ -10,7 +10,7 @@
         }
       },
       "$en_embind2_0001": {
-        "Target": "{X10Y50}Ellone{Line}Дядя Лагуна!{End}",
+        "Target": "{X10Y50}Эллона{Line}«Дядя Лагуна!»{End}",
         "Source Text SHA256": "BF835B695929AC1506016A8460C4253580C2DE12FDC9696023AF2EC66B3DC514",
         "sourceContext": {
           "Source MSD SHA256": "C614996C9F507A6692B1762ECC8D4FD8A704F6FFADA582B2241EECD3E2CBABE4",
@@ -18,7 +18,7 @@
         }
       },
       "$en_embind2_0002": {
-        "Target": "{X150Y50}Laguna{Line}Эллона!!!{End}",
+        "Target": "{X150Y50}{Char Laguna}{Line}«Эллона!!!»{End}",
         "Source Text SHA256": "708CE3E94B8B31FEB02C0C1FC0CC439AE32AC53E9E6DC32F05F7ACDACC9DBE6B",
         "sourceContext": {
           "Source MSD SHA256": "C614996C9F507A6692B1762ECC8D4FD8A704F6FFADA582B2241EECD3E2CBABE4",
@@ -26,7 +26,7 @@
         }
       },
       "$en_embind2_0003": {
-        "Target": "{X100Y50}Laguna{Line}Видишь... Я же сказал, что приду за тобой...{End}",
+        "Target": "{X100Y50}{Char Laguna}{Line}«Видишь... Я же сказал, что приду за тобой...»{End}",
         "Source Text SHA256": "ADCFE1F940B632FE97B1EB9581478F342B8D184E6E167C6DC8DE9C4079929B3F",
         "sourceContext": {
           "Source MSD SHA256": "C614996C9F507A6692B1762ECC8D4FD8A704F6FFADA582B2241EECD3E2CBABE4",
@@ -34,7 +34,7 @@
         }
       },
       "$en_embind2_0004": {
-        "Target": "{X100Y10}Laguna{Line}Прости, что запоздал, но...{End}",
+        "Target": "{X100Y10}{Char Laguna}{Line}«Прости, что запоздал, но...»{End}",
         "Source Text SHA256": "EA534E1DA7ACF5BA29A03F2D2F11FCAA4197A484BBE04E77BE012E1A3824010D",
         "sourceContext": {
           "Source MSD SHA256": "C614996C9F507A6692B1762ECC8D4FD8A704F6FFADA582B2241EECD3E2CBABE4",
@@ -42,7 +42,7 @@
         }
       },
       "$en_embind2_0005": {
-        "Target": "Лагуна{Line}«Я же говорил...»{End}",
+        "Target": "{Char Laguna}{Line}«Я же говорил...»{End}",
         "Source Text SHA256": "74368992933EFB8545B3BD48248844930102EA1D98AF2399009048535F441248",
         "sourceContext": {
           "Source MSD SHA256": "C614996C9F507A6692B1762ECC8D4FD8A704F6FFADA582B2241EECD3E2CBABE4",

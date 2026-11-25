@@ -26,7 +26,7 @@
         }
       },
       "$en_rgcock5_0003": {
-        "Target": "{X10Y10F2L3B2C3}Zell{Line}Готовы идти?{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F2L3B2C3}{Char Zell}{Line}«Готовы идти?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "8256D9A471A806D0E642F539A00AD36B7F3D182752257A9FD0595525B67FAE65",
         "sourceContext": {
           "Source MSD SHA256": "4D4FD1E8A075C877BD05368D5C3C1BC1FCFD59E88128CDD5AC56E11B9184774B",
@@ -34,7 +34,7 @@
         }
       },
       "$en_rgcock5_0004": {
-        "Target": "{X10Y10F2L3B2C3}Селфи{Line}«Готовы взлетать?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F2L3B2C3}{Char Selphie}{Line}«Готовы взлетать?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "4FA8C5A19E516CA95637A1A9388A5651C9CD01B6191E87115467D5ADF8FD9BAA",
         "sourceContext": {
           "Source MSD SHA256": "4D4FD1E8A075C877BD05368D5C3C1BC1FCFD59E88128CDD5AC56E11B9184774B",
@@ -42,7 +42,7 @@
         }
       },
       "$en_rgcock5_0005": {
-        "Target": "{X10Y10F2L3B2C3}Квистис{Line}«Готовы отправляться?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F2L3B2C3}{Char Quistis}{Line}«Готовы отправляться?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "73C7807CC48106B6A562BAAD6703344E5F0B126419E5E2FC04CC265CE10B9FC6",
         "sourceContext": {
           "Source MSD SHA256": "4D4FD1E8A075C877BD05368D5C3C1BC1FCFD59E88128CDD5AC56E11B9184774B",
@@ -50,7 +50,7 @@
         }
       },
       "$en_rgcock5_0006": {
-        "Target": "{X10Y10}Zell{Line}Пошли.{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Пошли».{End}",
         "Source Text SHA256": "089FCC63EE5A6AC4DB0A183503A0CBC1E19C712A851D57802C03138C294052CD",
         "sourceContext": {
           "Source MSD SHA256": "4D4FD1E8A075C877BD05368D5C3C1BC1FCFD59E88128CDD5AC56E11B9184774B",
@@ -58,7 +58,7 @@
         }
       },
       "$en_rgcock5_0007": {
-        "Target": "{X10Y10}Irvine{Line}Ну и бардак мы тут натворили.{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Ну и бардак мы тут натворили».{End}",
         "Source Text SHA256": "CB4C25ECA397E9062D734A2309A13068CFE412700E0549465ED6844AD0929D5E",
         "sourceContext": {
           "Source MSD SHA256": "4D4FD1E8A075C877BD05368D5C3C1BC1FCFD59E88128CDD5AC56E11B9184774B",
@@ -74,7 +74,7 @@
         }
       },
       "$en_rgcock5_0009": {
-        "Target": "{X10Y10}Селфи{Line}«Да это ещё цветочки.{Line}Самое веселье впереди, правда, ребята?»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Да это ещё цветочки.{Line}Самое веселье впереди, правда, ребята?»{End}",
         "Source Text SHA256": "B4CD0DAA8DA20A45B5BFC26CE956615EFCF4963203C6C741FC431C195AC51C20",
         "sourceContext": {
           "Source MSD SHA256": "4D4FD1E8A075C877BD05368D5C3C1BC1FCFD59E88128CDD5AC56E11B9184774B",
@@ -82,7 +82,7 @@
         }
       },
       "$en_rgcock5_0010": {
-        "Target": "{X10Y10}Квистис{Line}«Пора».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Пора».{End}",
         "Source Text SHA256": "11CBEA4EB9BBD61A4106F28AA5E163BE7DE7C3BB8B0A57097C446938D22644EA",
         "sourceContext": {
           "Source MSD SHA256": "4D4FD1E8A075C877BD05368D5C3C1BC1FCFD59E88128CDD5AC56E11B9184774B",

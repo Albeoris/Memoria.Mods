@@ -26,7 +26,7 @@
         }
       },
       "$en_fhedge1_0003": {
-        "Target": "{X105Y10}Вон там {Color Blue}находится [дом мэра].{Color White}{Line} Видите его?{End}",
+        "Target": "{X105Y10}«Вон там {Color Blue}находится [дом мэра].{Color White}{Line} Видите его?»{End}",
         "Source Text SHA256": "41807136958BCD2B98D7D78F5A1E64BCA982078ABA1E41712E0FBCB96FD33BE3",
         "sourceContext": {
           "Source MSD SHA256": "1808CC3B726644C2D44F699ECC3CA0A3450E27B6DC69D7142B4E6B5F30785AEA",
@@ -34,7 +34,7 @@
         }
       },
       "$en_fhedge1_0004": {
-        "Target": "{X249Y10}Flo{Line}Постойте!{End}",
+        "Target": "{X249Y10}Фло{Line}«Постойте!»{End}",
         "Source Text SHA256": "F751C3C824BC0291C778630D6709E6C8AC91B3781725558226296731C3F54AEA",
         "sourceContext": {
           "Source MSD SHA256": "1808CC3B726644C2D44F699ECC3CA0A3450E27B6DC69D7142B4E6B5F30785AEA",
@@ -42,7 +42,7 @@
         }
       },
       "$en_fhedge1_0005": {
-        "Target": "{X32Y10}Фло{Line}Гальбадийцы пришли из-за вас,{Line}так ведь? Они за вами охотятся.{End}",
+        "Target": "{X32Y10}Фло{Line}«Гальбадийцы пришли из-за вас,{Line}так ведь? Они за вами охотятся».{End}",
         "Source Text SHA256": "6E98DE2F815A6BF5E4C23011DC92FA2A0A5371337132C432EE49FC835D558D2C",
         "sourceContext": {
           "Source MSD SHA256": "1808CC3B726644C2D44F699ECC3CA0A3450E27B6DC69D7142B4E6B5F30785AEA",
@@ -58,7 +58,7 @@
         }
       },
       "$en_fhedge1_0007": {
-        "Target": "{X62Y10}Flo{Line}Они здесь по вашей вине! Вам с{Line} ними и разбираться!{End}",
+        "Target": "{X62Y10}Фло{Line}«Они здесь по вашей вине! Вам с{Line} ними и разбираться!»{End}",
         "Source Text SHA256": "E33BF453A6BCA0040CA5518B80675CE3CBB565B7456D5FD9CF1556869D40242B",
         "sourceContext": {
           "Source MSD SHA256": "1808CC3B726644C2D44F699ECC3CA0A3450E27B6DC69D7142B4E6B5F30785AEA",
@@ -74,7 +74,7 @@
         }
       },
       "$en_fhedge1_0009": {
-        "Target": "{X38Y10}Mayor Dobe{Line}Нам нельзя на них полагаться. Они{Line} не смогут ничего сделать без драки.{End}",
+        "Target": "{X38Y10}Мэр Доуб{Line}«Нам нельзя на них полагаться. Они{Line} не смогут ничего сделать без драки».{End}",
         "Source Text SHA256": "46442497615D26A08CAE92944FCC9D58744AB26E671EA66BD3724FBF211EA895",
         "sourceContext": {
           "Source MSD SHA256": "1808CC3B726644C2D44F699ECC3CA0A3450E27B6DC69D7142B4E6B5F30785AEA",
@@ -90,7 +90,7 @@
         }
       },
       "$en_fhedge1_0011": {
-        "Target": "{X161Y40}Мэр Доуб{Line}Пойду поговорю с ними.{End}",
+        "Target": "{X161Y40}Мэр Доуб{Line}«Пойду поговорю с ними».{End}",
         "Source Text SHA256": "3D766E3480BDF1CFED781143264910974F9C1A1C85EF44978586A11484050FF7",
         "sourceContext": {
           "Source MSD SHA256": "1808CC3B726644C2D44F699ECC3CA0A3450E27B6DC69D7142B4E6B5F30785AEA",

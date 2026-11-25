@@ -10,7 +10,7 @@
         }
       },
       "$en_ebinlow1_0001": {
-        "Target": "{X85Y60}Зелл{Line}«...Это что за чертовщина?!»{End}",
+        "Target": "{X85Y60}{Char Zell}{Line}«...Это что за чертовщина?!»{End}",
         "Source Text SHA256": "C921F1C8196CC4078061758E48633CFD71A8C7B73AE1C306CAAA6331F3828FF9",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ebinlow1_0002": {
-        "Target": "{X53Y60}Зелл{Line}«Ладно, некогда тут раздумывать...»{End}",
+        "Target": "{X53Y60}{Char Zell}{Line}«Ладно, некогда тут раздумывать...»{End}",
         "Source Text SHA256": "EBF249BD7A90CE106382D1BD73D3DBB292C4ACC998FCADAF5237C8C84174CD23",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ebinlow1_0003": {
-        "Target": "{X105Y60}Зелл{Line}«Вперёд!!!»{End}",
+        "Target": "{X105Y60}{Char Zell}{Line}«Вперёд!!!»{End}",
         "Source Text SHA256": "8DE222307CDE64574CF5B54F344360A89796D09935F45A8BBF4382ED2BAB4913",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ebinlow1_0004": {
-        "Target": "{X116Y8}Зелл{Line}«А-а-аргх!!!»{End}",
+        "Target": "{X116Y8}{Char Zell}{Line}«А-а-аргх!!!»{End}",
         "Source Text SHA256": "0775C62277246D24EB4B1ECCA55DD924029777833D3CF7D5EAE8991217254078",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ebinlow1_0005": {
-        "Target": "{X56Y2}Зелл{Line}«Т-тело... Не могу пошевелиться?!»{End}",
+        "Target": "{X56Y2}{Char Zell}{Line}«Т-тело... Не могу пошевелиться?!»{End}",
         "Source Text SHA256": "A6F9B25F350A3016B1B52920623B51D6EA638457B3AD374E94806F5D6FFECC76",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ebinlow1_0006": {
-        "Target": "{X101Y8}Зелл{Line}«А-а-аргх......»{End}",
+        "Target": "{X101Y8}{Char Zell}{Line}«А-а-аргх......»{End}",
         "Source Text SHA256": "E1683D3EBDE385840E6C289CF45C4FE70EF1C378A3023B6FEED82B7EB8C3F163",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ebinlow1_0007": {
-        "Target": "Квистис{Line}«А-а-а-а!!!»{End}",
+        "Target": "{Char Quistis}{Line}«А-а-а-а!!!»{End}",
         "Source Text SHA256": "31483B3D2320DD0A0DC5818B093E2946CD5A27BAF008AEA27C6A1A4E86D6CF88",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ebinlow1_0007_ctx_35f5f4948d59efde": {
-        "Target": "{X40Y30}Квистис{Line}«А-а-а-а!!!»{End}",
+        "Target": "{X40Y30}{Char Quistis}{Line}«А-а-а-а!!!»{End}",
         "Source Text SHA256": "31483B3D2320DD0A0DC5818B093E2946CD5A27BAF008AEA27C6A1A4E86D6CF88",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ebinlow1_0007_ctx_401fbb231ad07283": {
-        "Target": "{X180Y30}Квистис{Line}«А-а-а-а!!!»{End}",
+        "Target": "{X180Y30}{Char Quistis}{Line}«А-а-а-а!!!»{End}",
         "Source Text SHA256": "31483B3D2320DD0A0DC5818B093E2946CD5A27BAF008AEA27C6A1A4E86D6CF88",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ebinlow1_0008": {
-        "Target": "Селфи{Line}«Не-е-е-ет!!!»{End}",
+        "Target": "{Char Selphie}{Line}«Не-е-е-ет!!!»{End}",
         "Source Text SHA256": "1C568C757C0FDD9B393661F1A3460F5687436DFD076DD75F809826D2A80F902D",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ebinlow1_0008_ctx_35f5f4948d59efde": {
-        "Target": "{X40Y30}Селфи{Line}«Не-е-е-ет!!!»{End}",
+        "Target": "{X40Y30}{Char Selphie}{Line}«Не-е-е-ет!!!»{End}",
         "Source Text SHA256": "1C568C757C0FDD9B393661F1A3460F5687436DFD076DD75F809826D2A80F902D",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ebinlow1_0008_ctx_401fbb231ad07283": {
-        "Target": "{X180Y30}Селфи{Line}«Не-е-е-ет!!!»{End}",
+        "Target": "{X180Y30}{Char Selphie}{Line}«Не-е-е-ет!!!»{End}",
         "Source Text SHA256": "1C568C757C0FDD9B393661F1A3460F5687436DFD076DD75F809826D2A80F902D",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ebinlow1_0009": {
-        "Target": "Ирвин{Line}«А-А-А-А!»{End}",
+        "Target": "{Char Irvine}{Line}«А-А-А-А!»{End}",
         "Source Text SHA256": "BC8E1E00A4F7B1CC471A749D32BDC7D5927CD83D22B1733DDE52B1DA95C2DBE8",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ebinlow1_0009_ctx_35f5f4948d59efde": {
-        "Target": "{X40Y30}Ирвин{Line}«А-А-А-А!»{End}",
+        "Target": "{X40Y30}{Char Irvine}{Line}«А-А-А-А!»{End}",
         "Source Text SHA256": "BC8E1E00A4F7B1CC471A749D32BDC7D5927CD83D22B1733DDE52B1DA95C2DBE8",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ebinlow1_0009_ctx_401fbb231ad07283": {
-        "Target": "{X180Y30}Ирвин{Line}«А-А-А-А!»{End}",
+        "Target": "{X180Y30}{Char Irvine}{Line}«А-А-А-А!»{End}",
         "Source Text SHA256": "BC8E1E00A4F7B1CC471A749D32BDC7D5927CD83D22B1733DDE52B1DA95C2DBE8",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ebinlow1_0010": {
-        "Target": "Эдея{Line}«Ух!!!»{End}",
+        "Target": "{Char Edea}{Line}«Ух!!!»{End}",
         "Source Text SHA256": "DF0D0E03B31223E5C4879216D88A7F0490B38F4ED6B24515A96DA84B1A76FAA5",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ebinlow1_0010_ctx_35f5f4948d59efde": {
-        "Target": "{X40Y30}Эдея{Line}«Ух!!!»{End}",
+        "Target": "{X40Y30}{Char Edea}{Line}«Ух!!!»{End}",
         "Source Text SHA256": "DF0D0E03B31223E5C4879216D88A7F0490B38F4ED6B24515A96DA84B1A76FAA5",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ebinlow1_0010_ctx_401fbb231ad07283": {
-        "Target": "{X180Y30}Эдея{Line}«Ух!!!»{End}",
+        "Target": "{X180Y30}{Char Edea}{Line}«Ух!!!»{End}",
         "Source Text SHA256": "DF0D0E03B31223E5C4879216D88A7F0490B38F4ED6B24515A96DA84B1A76FAA5",
         "sourceContext": {
           "Source MSD SHA256": "61B454778FF0CF06154730057EAA3E0A4BA51EEB3C24D51310A595830E5F17E3",

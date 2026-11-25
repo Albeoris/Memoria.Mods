@@ -58,7 +58,7 @@
         }
       },
       "$en_ecenter2_0007": {
-        "Target": "{X10Y50}Зелл{Line}«Не срабатывает!»{End}",
+        "Target": "{X10Y50}{Char Zell}{Line}«Не срабатывает!»{End}",
         "Source Text SHA256": "10BE7784689C32A0175AE53CA0FDBCAD1A8E13D2AEC58F24E63D9E9010F7F339",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ecenter2_0008": {
-        "Target": "{X100Y10}Зелл{Line}«ЧЁРТ! Не успеем!»{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}«ЧЁРТ! Не успеем!»{End}",
         "Source Text SHA256": "84ED47C1DC25A2C9BB6575F54857CFFD36951E144E12F4E12719DDF2F095F07C",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",

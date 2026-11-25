@@ -2,7 +2,7 @@
   "Fields": {
     "cdfield1": {
       "$en_cdfield1_0000": {
-        "Target": "{X150Y150}Ward{Line}Кирос, ты уверен, что это то место?{End}",
+        "Target": "{X150Y150}{Char Ward}{Line}«Кирос, ты уверен, что это то место?»{End}",
         "Source Text SHA256": "403ABCF3544C24DC0FB20F96958DA22210BE14D6ABB17A533114F87906791477",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -10,7 +10,7 @@
         }
       },
       "$en_cdfield1_0001": {
-        "Target": "{X20Y150}Kiros{Line}Абсолютно.{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«Абсолютно».{End}",
         "Source Text SHA256": "989E952B8E27968C98E2E169F188BE2F876230B70BF477CD582453B0A28DCCA1",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -18,7 +18,7 @@
         }
       },
       "$en_cdfield1_0002": {
-        "Target": "{X150Y150}Ward{Line}Не хотел бы я патрулировать не{Line} то место как в прошлый раз.{End}",
+        "Target": "{X150Y150}{Char Ward}{Line}«Не хотел бы я патрулировать не{Line} то место как в прошлый раз».{End}",
         "Source Text SHA256": "41C4E4569DE55B3E4610C60A3323687ADB3F42F77EFE051E5D9FCDEE076C7657",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -26,7 +26,7 @@
         }
       },
       "$en_cdfield1_0003": {
-        "Target": "{X150Y150}Laguna{Line}Ох, простите...{Line} Это не то место.{End}",
+        "Target": "{X150Y150}{Char Laguna}{Line}«Ох, простите...{Line} Это не то место».{End}",
         "Source Text SHA256": "2CCF5E2E35804C51560E42B0A8F5A77E12DEB2BEBF0592077B4853AD0AE76A71",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -34,7 +34,7 @@
         }
       },
       "$en_cdfield1_0004": {
-        "Target": "{X20Y150}Kiros{Line}Да оно{Line} это. Пошли, командир.{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«Да оно{Line} это. Пошли, командир».{End}",
         "Source Text SHA256": "7451FB4C643891A1EAE7E4AC7EF63E551000630C403EB811AC886A6C37383256",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -42,7 +42,7 @@
         }
       },
       "$en_cdfield1_0005": {
-        "Target": "{X15Y15}Лагуна{Line}«?»{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«?»{End}",
         "Source Text SHA256": "8620FEA17034D088E2A7FA63ADC786B3D95F0F6DF3A0D19A371728809A890DDD",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -50,7 +50,7 @@
         }
       },
       "$en_cdfield1_0006": {
-        "Target": "{X15Y15}Laguna{Line}Я взял с собой не ту карту.{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Я взял с собой не ту карту».{End}",
         "Source Text SHA256": "A36592445F7783826516C11022DDBE2163BFEE4979761D5E7FBD405336A438DD",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -58,7 +58,7 @@
         }
       },
       "$en_cdfield1_0007": {
-        "Target": "{X15Y130F2L3B2C3}Laguna{Line}”Так или иначе, у меня плохое предчувствие...“{Line}Не, просто воображение разыгралось{Line}Да, плохое предчувствие...{End}",
+        "Target": "{X15Y130F2L3B2C3}{Char Laguna}{Line}«Так или иначе, у меня плохое предчувствие...»{Line}Не, просто воображение разыгралось{Line}Да, плохое предчувствие...{End}",
         "Source Text SHA256": "AC6A3053FF8E4524FAFFF1CD24EBF1CA78D28EF75BEB73FBBAB1F2C8A25F56BC",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -66,7 +66,7 @@
         }
       },
       "$en_cdfield1_0008": {
-        "Target": "{X15Y15}Laguna{Line}А, нормально...{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«А, нормально...»{End}",
         "Source Text SHA256": "CCE511C1756C1F70C65915AB57437C5F8A3D7373277481C88F7C22F0B7383FFA",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -74,7 +74,7 @@
         }
       },
       "$en_cdfield1_0009": {
-        "Target": "{X15Y15}Laguna{Line}Проверьте экипировку, парни.{Line} Что ж, мы{Next}при исполнении... Давайте{Line} пойдём и{Line} посмотрим что там.{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Проверьте экипировку, парни.{Line} Что ж, мы{Next}при исполнении... Давайте{Line} пойдём и{Line} посмотрим что там».{End}",
         "Source Text SHA256": "B183F59381755446C6610D9C74D1DE4F5E37F8866402E23AF8E10E25D4EF6854",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -82,7 +82,7 @@
         }
       },
       "$en_cdfield1_0010": {
-        "Target": "{X15Y15}Laguna{Line}Серьёзно, у меня ПЛОХОООЕ{Line} предчувствие!.. Здесь творится что-то{Next}подозрительное! Знаете, как{Line} старики говорят... Неизвестное случается...{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Серьёзно, у меня ПЛОХОООЕ{Line} предчувствие!.. Здесь творится что-то{Next}подозрительное! Знаете, как{Line} старики говорят... Неизвестное случается...»{End}",
         "Source Text SHA256": "11DFD3148EF5B933C6F3D3E87D9F8444C549387DB28D99C9C3F2417B3CE596E1",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -90,7 +90,7 @@
         }
       },
       "$en_cdfield1_0011": {
-        "Target": "{X20Y150}Kiros{Line}Ты хотел сказать... «неожиданное», верно?{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«Ты хотел сказать... „неожиданное“, верно?»{End}",
         "Source Text SHA256": "0297E4C9030D8627AD2C13C8D67D7171DD63E6416BF03403BA747E542C1CA018",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -98,7 +98,7 @@
         }
       },
       "$en_cdfield1_0012": {
-        "Target": "{X150Y150}Ward{Line}Ты угадал только частицу \u0022не\u0022.{End}",
+        "Target": "{X150Y150}{Char Ward}{Line}«Ты угадал только частицу \"не».{End}",
         "Source Text SHA256": "870B5210904CFC8FD59E5D04BEB20C3C22E600157AF1CED33FA65CF7AF9CFB4B",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",
@@ -106,7 +106,7 @@
         }
       },
       "$en_cdfield1_0013": {
-        "Target": "{X15Y15}Laguna{Line}Ах,{Next}заткнитесь! Хватит болтать, лучше{Line} экипировку проверьте. А{Next}теперь, выдвигаемся!{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Ах,{Next}заткнитесь! Хватит болтать, лучше{Line} экипировку проверьте. А{Next}теперь, выдвигаемся!»{End}",
         "Source Text SHA256": "41D11C532730D43CE6BBEEDE82CDB2157221E4F1F536C7AE715E8A22CBC0477B",
         "sourceContext": {
           "Source MSD SHA256": "774A3EB21E1B4D4CC418A5A1FE16E700147D1177F2932079844101B170647A5A",

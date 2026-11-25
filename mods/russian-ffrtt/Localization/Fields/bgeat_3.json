@@ -2,7 +2,7 @@
   "Fields": {
     "bgeat_3": {
       "$en_bgeat_3_0000": {
-        "Target": "{X100Y140}Zell{Line}”Кольцо {Char Squall}а? Я{Line} не знаю, где он его купил.“{End}",
+        "Target": "{X100Y140}{Char Zell}{Line}«Кольцо {Char Squall}а? Я{Line} не знаю, где он его купил».{End}",
         "Source Text SHA256": "E817879762A70E9976CF0DF49C678F6B06208DF7C8A8377A7B8C38EB111CBE0B",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -10,7 +10,7 @@
         }
       },
       "$en_bgeat_3_0001": {
-        "Target": "{X30Y140}{Char Rinoa}{Line}Я хочу себе{Line} такое же. Классно смотрится, а?{End}",
+        "Target": "{X30Y140}{Char Rinoa}{Line}«Я хочу себе{Line} такое же. Классно смотрится, а?»{End}",
         "Source Text SHA256": "0C99A3C364409BD6F6E905EDB759FC9C152DE71AC360726A26ADB070F6BC1D15",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bgeat_3_0002": {
-        "Target": "{X100Y140}Zell{Line}Ты о том, на{Line} котором выгравирован непонятный монстр?{End}",
+        "Target": "{X100Y140}{Char Zell}{Line}«Ты о том, на{Line} котором выгравирован непонятный монстр?»{End}",
         "Source Text SHA256": "45DE91DA12CF3D5FF02F29A11E18A469D96C44A60275573AFDCE407C92CFD11B",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bgeat_3_0003": {
-        "Target": "{X30Y140}{Char Rinoa}{Line}ДА!{End}",
+        "Target": "{X30Y140}{Char Rinoa}{Line}«ДА!»{End}",
         "Source Text SHA256": "E8B6D256292575D1D578411695F2876A9B19E36E55674B3E99C8B77A19FE63CB",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgeat_3_0004": {
-        "Target": "{X100Y140}Zell{Line}Хорошо, что если я сделаю тебе такое?{Line} У меня вроде неплохо получаются такие штуки.{End}",
+        "Target": "{X100Y140}{Char Zell}{Line}«Хорошо, что если я сделаю тебе такое?{Line} У меня вроде неплохо получаются такие штуки».{End}",
         "Source Text SHA256": "2DF77FFE66F1E3CABF267D97C74B7F66B1DBA78B4EE77FB33DBDECAEAD8F1302",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgeat_3_0005": {
-        "Target": "{X30Y140}{Char Rinoa}{Line}Правда?! Конечно,{Line} хорошо!!!{End}",
+        "Target": "{X30Y140}{Char Rinoa}{Line}«Правда?! Конечно,{Line} хорошо!!!»{End}",
         "Source Text SHA256": "F7890740726D4A7FA18F2F8A5C46A1BD18C1909731DA32F9027A91F9B7D46311",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bgeat_3_0006": {
-        "Target": "{X100Y140}Zell{Line}Давай заставим {Char Squall} а показать себя.{End}",
+        "Target": "{X100Y140}{Char Zell}{Line}«Давай заставим {Char Squall} а показать себя».{End}",
         "Source Text SHA256": "12C2FB06722D5CF83AADD9E8BA8A2A9891F50A38350CD720D7B75BA05A1C6560",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgeat_3_0007": {
-        "Target": "{X12Y160}{Char Rinoa}{Line}...Нам нельзя этого делать.{End}",
+        "Target": "{X12Y160}{Char Rinoa}{Line}«...Нам нельзя этого делать».{End}",
         "Source Text SHA256": "28952C8B6A256195EDE128CCBA253717328BDCCC9F98A349A4F791B6F37F6BD3",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgeat_3_0008": {
-        "Target": "{X100Y140}Zell{Line}Почему?{End}",
+        "Target": "{X100Y140}{Char Zell}{Line}«Почему?»{End}",
         "Source Text SHA256": "C1E4E6DB8CF3F0A6F1F9EF7C759CF81D6161D8689C73AF13015689F3D665067B",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgeat_3_0009": {
-        "Target": "{X12Y160}{Char Rinoa}{Line}...Я стесняюсь.{End}",
+        "Target": "{X12Y160}{Char Rinoa}{Line}«...Я стесняюсь».{End}",
         "Source Text SHA256": "8B3079D2648192D9986DE89C140BC35F0CA9E547DC9A7F6DA37B78119566C99D",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgeat_3_0010": {
-        "Target": "{X100Y140}Zell{Line}Чего-чего?{End}",
+        "Target": "{X100Y140}{Char Zell}{Line}«Чего-чего?»{End}",
         "Source Text SHA256": "1AFD25546B8862D3833FA02B291583ACF3715AB44FDCB04566814C0E5948D4D1",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgeat_3_0011": {
-        "Target": "{X100Y140}Zell{Line}Ааа...{End}",
+        "Target": "{X100Y140}{Char Zell}{Line}«Ааа...»{End}",
         "Source Text SHA256": "53D21F7FC41AD1FC5431825AED283D35751305D33AE18FDC738ECA52B77C8F31",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgeat_3_0012": {
-        "Target": "{X12Y160}{Char Rinoa}{Line}Да нет! Это не то, о чём ты подумал!{End}",
+        "Target": "{X12Y160}{Char Rinoa}{Line}«Да нет! Это не то, о чём ты подумал!»{End}",
         "Source Text SHA256": "CE36C07B2162C6BE482F94226691CB65C5E6093169B323475D096D871B54DDB8",
         "sourceContext": {
           "Source MSD SHA256": "F0400F421D902567CF7D6B3EE86D531F6CD0E3DF58F2CC31A78172A3E3BC4082",

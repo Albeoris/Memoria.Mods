@@ -26,7 +26,7 @@
         }
       },
       "$en_ggview2_0003": {
-        "Target": "{X10Y10}Irvine{Line}Ну что?{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Ну что?»{End}",
         "Source Text SHA256": "14EBD5E1A140ED5E0D712069B3EB27845C6F653CA66AACCBD2D93D8EBBA7198B",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ggview2_0006": {
-        "Target": "{X162Y20}{Char Squall}{Line}Приятного времяпрепровождения...{End}",
+        "Target": "{X162Y20}{Char Squall}{Line}«Приятного времяпрепровождения...»{End}",
         "Source Text SHA256": "9D1211011421236F45B3A89003D7569BB0E0EF3F1720A8416FB693990E6F7736",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ggview2_0007": {
-        "Target": "{X10Y10}Selphie{Line}Это сарказм?!{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Это сарказм?!»{End}",
         "Source Text SHA256": "B47D84B7BCB4F9A4D62DDC8EEAF6070822DCB44D7473A738B3531D8ACEDAA288",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ggview2_0008": {
-        "Target": "{X10Y10}Sephie{Line}Ты ведь шутишь, да? Что{Next}ж, ну и ладно! Мы{Line} ХОРОШО проведём время! Мы очень хорошо проведём.{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Ты ведь шутишь, да? Что{Next}ж, ну и ладно! Мы{Line} ХОРОШО проведём время! Мы очень хорошо проведём».{End}",
         "Source Text SHA256": "29C8BE89656D5D26A9AC86ED7C583DDD6530B8BA319FFD9B654E52FB61995207",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ggview2_0010": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}Давайте, мистер Киннис, пошли!{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«Давайте, мистер Киннис, пошли!»{End}",
         "Source Text SHA256": "4EDEEA38BF639DDE29EC07644BF224B6A9F36E46DFB808693BB1E6C70C951643",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ggview2_0012": {
-        "Target": "{X10Y10}Irvine{Line}Зови меня{Next}просто Ирвин.{Line} Я весьма везучий парень. Под руку с двумя прекрасными девушками!{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Зови меня{Next}просто Ирвин.{Line} Я весьма везучий парень. Под руку с двумя прекрасными девушками!»{End}",
         "Source Text SHA256": "4993F8316CFE45156952F6F9A0AE84227F1E1E5EBF1A34FFFF12FCE7BE398B35",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ggview2_0013": {
-        "Target": "{X10Y10}Selphie{Line}Ирви Киннипууух! Я{Line} сделаю тебя очень счастливым!{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Ирви Киннипууух! Я{Line} сделаю тебя очень счастливым!»{End}",
         "Source Text SHA256": "1AE26FD1678A806B6E9CCAA1D8E3EFD8972F74509392B52D56C77C6E5AE296D2",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ggview2_0015": {
-        "Target": "{X162Y30}Quistis{Line}По-моему меня сейчас стошнит...{End}",
+        "Target": "{X162Y30}{Char Quistis}{Line}«По-моему меня сейчас стошнит...»{End}",
         "Source Text SHA256": "1A4436107BC0AB6D9561ECEFBF4425C5FE1BA5DEED42763223EF5DEE444C718D",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ggview2_0016": {
-        "Target": "{X188Y10}Zell{Line}Ирвин Киннис...{Line} Неудачник!..{End}",
+        "Target": "{X188Y10}{Char Zell}{Line}«Ирвин Киннис...{Line} Неудачник!..»{End}",
         "Source Text SHA256": "535844258A10FFEB0082787C4CAADF87D4114F5B4EF1C34780A71527B9B29EB6",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ggview2_0017": {
-        "Target": "{X152Y30}Quistis{Line}”Давай, {Char Squall}. Пошли!“{End}",
+        "Target": "{X152Y30}{Char Quistis}{Line}«Давай, {Char Squall}. Пошли!»{End}",
         "Source Text SHA256": "75ABEBD756F9336C145D5FA6C59E864D6331F3C9649C45E7308B46014AFC4467",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ggview2_0019": {
-        "Target": "{X10Y10}Zell{Line}”{Char Squall}Нам надо{Next}добраться туда раньше них!{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«{Char Squall}, нам надо{Next}добраться туда раньше них!»{End}",
         "Source Text SHA256": "34E886C4D1CE52B835BF127D46C5ED7E94B7020B760506AD63E8BAF872FDD2F9",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ggview2_0021": {
-        "Target": "{X218Y10}{Char Squall}{Line}Я распределю группы.{End}",
+        "Target": "{X218Y10}{Char Squall}{Line}«Я распределю группы».{End}",
         "Source Text SHA256": "8538CDE7E6A5E89D5C2B7FEE99FB66DA9A55A86F944885F78C9A12C0B355C7D2",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -194,7 +194,7 @@
         }
       },
       "$en_ggview2_0022": {
-        "Target": "{X240Y10}{Char Squall}{Line}Порядок.{End}",
+        "Target": "{X240Y10}{Char Squall}{Line}«Порядок».{End}",
         "Source Text SHA256": "4989C8427EFB094E6F345A7417D4EE0904A7D4D397176FE9AADA408F741F37ED",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -202,7 +202,7 @@
         }
       },
       "$en_ggview2_0023": {
-        "Target": "{X10Y10}Irvine{Line}Что?!{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Что?!»{End}",
         "Source Text SHA256": "0113DC862233599BAD459CBE44F3736C64398D6808636BEE822DE38BEDF51B17",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -210,7 +210,7 @@
         }
       },
       "$en_ggview2_0024": {
-        "Target": "{X10Y10}Irvine{Line}Ты это серьёзно?..{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Ты это серьёзно?..»{End}",
         "Source Text SHA256": "E7BAC43266F01DDEFE0702E00A19F635EEE7474F5D1EB45EFA6B11CD6C171512",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -218,7 +218,7 @@
         }
       },
       "$en_ggview2_0025": {
-        "Target": "{X104Y10}{Char Squall}{Line}Я сбалансировал группу.{End}",
+        "Target": "{X104Y10}{Char Squall}{Line}«Я сбалансировал группу».{End}",
         "Source Text SHA256": "8A1507E5BA11EFC7E89D6CE848EC4CCA33C4FFF83158E7F19C050581FBB13EEB",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -226,7 +226,7 @@
         }
       },
       "$en_ggview2_0026": {
-        "Target": "{X10Y10}Зелл{Line}«Хочешь, чтобы я{Line} с этим типом разобрался, да?»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Хочешь, чтобы я{Line} с этим типом разобрался, да?»{End}",
         "Source Text SHA256": "87B3D3B944714625C71B9C84B16C3757212F2FC7A7BB595ADEBCE657FE19F286",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -234,7 +234,7 @@
         }
       },
       "$en_ggview2_0027": {
-        "Target": "{X10Y10}Зелл{Line}«Я научу тебя, как себя ведут Сиды!»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Я научу тебя, как себя ведут Сиды!»{End}",
         "Source Text SHA256": "2CBEC80F78E59B89E46DD0D56667E87B42FFB8270FDC90A493D54095C29E3035",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -242,7 +242,7 @@
         }
       },
       "$en_ggview2_0028": {
-        "Target": "{X10Y10}Ирвин{Line}«Ну, бывай, не зевай!»{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Ну, бывай, не зевай!»{End}",
         "Source Text SHA256": "9A1F7E95ADF403C02A2AEFA553F65C749A163931E63CBEA927D4F6C3AAC68385",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -250,7 +250,7 @@
         }
       },
       "$en_ggview2_0029": {
-        "Target": "{X10Y10}Зелл{Line}«ЭЙ!»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«ЭЙ!»{End}",
         "Source Text SHA256": "EB7A15FAE18418DD4810E29F77F5676589E01BB968C679B289AB0868B56D7525",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",
@@ -258,7 +258,7 @@
         }
       },
       "$en_ggview2_0030": {
-        "Target": "{X10Y10}Ирвин{Line}«Отличный выбор, господин командир».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«Отличный выбор, господин командир».{End}",
         "Source Text SHA256": "A9E624160CF19596DA8079856777C06244BA664ED0CC0B262CACE58156AFA91D",
         "sourceContext": {
           "Source MSD SHA256": "39E5923618C7FA1621A05609E5FD2F950D1564A77F97A0F6DB6E87306EB8E64B",

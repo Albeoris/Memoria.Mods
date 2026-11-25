@@ -26,7 +26,7 @@
         }
       },
       "$en_ggwitch2_0003": {
-        "Target": "{X10Y10}Seifer{Line}О, не стоило, ребята... Я собирался{Line} навестить вас в своём старом доме.{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«О, не стоило, ребята... Я собирался{Line} навестить вас в своём старом доме».{End}",
         "Source Text SHA256": "1E0654F50BEC9B5B2BA331864EFC9F895E3B0FD5099E8912C3A9BA1C50D29016",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ggwitch2_0004": {
-        "Target": "{X229Y40}{Char Squall}{Line}Заткнись.{End}",
+        "Target": "{X229Y40}{Char Squall}{Line}«Заткнись».{End}",
         "Source Text SHA256": "D7062C33E3D47FFC05BAB3286D3D716402543EF661A5C6CCD1DA499C7E6200BE",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ggwitch2_0005": {
-        "Target": "{X10Y10}Seifer{Line}Вы, ребята, пришли драться с Матроной? После{Line} всего, что она для нас сделала?{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Вы, ребята, пришли драться с Матроной? После{Line} всего, что она для нас сделала?»{End}",
         "Source Text SHA256": "8A3C7A5E7A086F621E9A62E805AC3039D1DEE61D64F489461407DDCF1887C2C2",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ggwitch2_0006": {
-        "Target": "{X10Y10}Seifer{Line}”{Char Rinoa}, а ты что здесь{Line} делаешь? Тоже будешь со мной драться?{Line} Перестань, вспомни, как год назад мы...“{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«{Char Rinoa}, а ты что здесь{Line} делаешь? Тоже будешь со мной драться?{Line} Перестань, вспомни, как год назад мы...»{End}",
         "Source Text SHA256": "D776AFA2864BE2F47C4EF4C18AAE46D8E17CE6085B087D87F5E28EBA6A79724B",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ggwitch2_0007": {
-        "Target": "{X233Y50}{Char Rinoa}{Line}Перестань!{End}",
+        "Target": "{X233Y50}{Char Rinoa}{Line}«Перестань!»{End}",
         "Source Text SHA256": "B913C0A4ABA899F71A4EA6F4889D4C5E647D83D716545F6532E48B27D27B74A5",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ggwitch2_0008": {
-        "Target": "{X10Y10}Seifer{Line}Инструктор Трип, Для вас я всё ещё один из{Line} ваших любимых студентов, не так ли?{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Инструктор Трип, Для вас я всё ещё один из{Line} ваших любимых студентов, не так ли?»{End}",
         "Source Text SHA256": "6873A65AB0FD4C988E0A48570A7C44A2CB5585CB429D01876CE22F9F765B7139",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ggwitch2_0009": {
-        "Target": "{X198Y30}Quistis{Line}Больше нет.{End}",
+        "Target": "{X198Y30}{Char Quistis}{Line}«Больше нет».{End}",
         "Source Text SHA256": "C97F7D31D15E2D4F20DE1795E8FA45D5B5D03F15011331453860AB788AA69318",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ggwitch2_0010": {
-        "Target": "{X10Y10}Seifer{Line}Сельфи, верно? Как бы я хотел, чтобы у{Line} нас было больше времени, чтобы узнать друг друга.{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Сельфи, верно? Как бы я хотел, чтобы у{Line} нас было больше времени, чтобы узнать друг друга».{End}",
         "Source Text SHA256": "BF2F1E134971A15FFCBC636F28C1DE4927648C7EE03A623A7D1EBAD3D16AFF8D",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ggwitch2_0011": {
-        "Target": "{X112Y30}Selphie{Line}Не-а. Ты не в моём вкусе.{End}",
+        "Target": "{X112Y30}{Char Selphie}{Line}«Не-а. Ты не в моём вкусе».{End}",
         "Source Text SHA256": "96B3DA6B7C5F656E18441D52B4C2B7670D709659619FCDCD78CA79EAE3116830",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ggwitch2_0012": {
-        "Target": "{X10Y10}Seifer{Line}Эй, трус. Между{Line} нами столько всякого случилось, а?{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Эй, трус. Между{Line} нами столько всякого случилось, а?»{End}",
         "Source Text SHA256": "75ECACEEC98AF7E937006B28BFD57CCFAC0815CC532799B418275D955B7DCCDD",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ggwitch2_0013": {
-        "Target": "{X101Y30}Zell{Line}Да! Умираю, как рассчитаться хочется!{End}",
+        "Target": "{X101Y30}{Char Zell}{Line}«Да! Умираю, как рассчитаться хочется!»{End}",
         "Source Text SHA256": "D7C615E761BBA49ECD1209D50142639C650B19E303321FA1D615750BDFF64B79",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ggwitch2_0014": {
-        "Target": "{X10Y10}Seifer{Line}Эй, ты, студент Гальбадии,{Line} иди-ка сюда.{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Эй, ты, студент Гальбадии,{Line} иди-ка сюда».{End}",
         "Source Text SHA256": "AA165C68BE276411C468310AAC8F0A970F6012842398B102BF631BD932950DE6",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ggwitch2_0015": {
-        "Target": "{X79Y30}Irvine{Line}Спасибо, мне и здесь хорошо.{End}",
+        "Target": "{X79Y30}{Char Irvine}{Line}«Спасибо, мне и здесь хорошо».{End}",
         "Source Text SHA256": "A04A7AB16ED28A2002BA750228D5BD9C73DB50D56397C4BF1DB5722E59675B26",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ggwitch2_0016": {
-        "Target": "{X192Y20}{Char Squall}{Line}Слишком поздно,{Line} Сейфер.{Next}Ты нам мозги{Line} не запудришь.{End}",
+        "Target": "{X192Y20}{Char Squall}{Line}«Слишком поздно,{Line} Сейфер».{Next}«Ты нам мозги{Line} не запудришь».{End}",
         "Source Text SHA256": "14570FA9E35D6D154ECC571B8B8F13E643B45331C0818998FE78FAA8C8E8ED9E",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ggwitch2_0017": {
-        "Target": "{X74Y20}{Char Squall}{Line}Для нас, ты всего лишь очередной{Line} враг, как и те монстры.{End}",
+        "Target": "{X74Y20}{Char Squall}{Line}«Для нас, ты всего лишь очередной{Line} враг, как и те монстры».{End}",
         "Source Text SHA256": "D0F529A23A2DE5CF4F27BFFE7098A53B9626BCC2ECEA02B38FBA2BDB6FFAA737",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ggwitch2_0018": {
-        "Target": "{X10Y10}Seifer{Line}Ты сравниваешь МЕНЯ с{Line} одним из них?{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Ты сравниваешь МЕНЯ с{Line} одним из них?»{End}",
         "Source Text SHA256": "C5F3745B867F0905D3352979A4433955425F2783D1DC79FCF4D009F952558270",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ggwitch2_0019": {
-        "Target": "{X10Y10}Seifer{Line}Я не{Line} чудовище. Я рыцарь волшебницы.{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Я не{Line} чудовище. Я рыцарь волшебницы».{End}",
         "Source Text SHA256": "20ED100D18D21C744D3C1D1B38F4CDBE29C939241866E8E8FBB6285C30B108F0",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ggwitch2_0020": {
-        "Target": "{X10Y10}Seifer{Line}Вы на{Line} себя поглядите. Нападаете кучкой.{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Вы на{Line} себя поглядите. Нападаете кучкой».{End}",
         "Source Text SHA256": "4D4E052B47FE19A07731EE98EB4EEFEED6A9F09F22EDB79376AA1C37C1383066",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ggwitch2_0021": {
-        "Target": "{X10Y10}Seifer{Line}Это вы, ребята, монстры.{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Это вы, ребята, монстры».{End}",
         "Source Text SHA256": "EB6BD3F92625FE53CB2354F81D1D54D505D1B5DC5AF0D02AB5C5E86E2F67F570",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ggwitch2_0023": {
-        "Target": "{X164Y10}Seifer{Line}Вам её{Line} не одолеть.{End}",
+        "Target": "{X164Y10}{Char Seifer}{Line}«Вам её{Line} не одолеть».{End}",
         "Source Text SHA256": "B324CB7A939428C972EA78ABACE4B5C60F984B51C937FB20936BA05EBFEFE75B",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",
@@ -194,7 +194,7 @@
         }
       },
       "$en_ggwitch2_0024": {
-        "Target": "{X10Y10}Sorceress Edea{Line}Жалкий ребёнок.{End}",
+        "Target": "{X10Y10}Волшебница Эдея{Line}«Жалкий ребёнок».{End}",
         "Source Text SHA256": "49BD3EA2B9ACEF2003BF7A291053AC4F575BC2C6048956074687958C0D437BBD",
         "sourceContext": {
           "Source MSD SHA256": "81DD2D51A45544DBAFBAD981ECB693FD6DF3FBDA135382BA5425EABF91C8F27A",

@@ -2,7 +2,7 @@
   "Fields": {
     "cdfield3": {
       "$en_cdfield3_0000": {
-        "Target": "{X20Y20}Лагуна{Line}«О-о-о-АЙ!»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«О-о-о-АЙ!»{End}",
         "Source Text SHA256": "1E1DF4A46899B6E012E4DB052786664D0C0B7FFE530886F19B60681D8DB6B6D5",
         "sourceContext": {
           "Source MSD SHA256": "05EDD0114004D4E5EF9CD44B9DBD16A1B34DF2239056B2BA72544EF4E74A6827",
@@ -10,7 +10,7 @@
         }
       },
       "$en_cdfield3_0001": {
-        "Target": "{X150Y20}Вард{Line}«Что такое?»{End}",
+        "Target": "{X150Y20}{Char Ward}{Line}«Что такое?»{End}",
         "Source Text SHA256": "FCEFFDB53317A1FACCBFC8B9506C7ED643AAF85E7A509B68974C6297AB00B439",
         "sourceContext": {
           "Source MSD SHA256": "05EDD0114004D4E5EF9CD44B9DBD16A1B34DF2239056B2BA72544EF4E74A6827",
@@ -18,7 +18,7 @@
         }
       },
       "$en_cdfield3_0002": {
-        "Target": "{X20Y20}Лагуна{Line}«У меня... ногу... свело!!!»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«У меня... ногу... свело!!!»{End}",
         "Source Text SHA256": "7CE8ACB5C43E0094568CE1832AAA4E6D85EEEF5AD55E277493110D4192FF42ED",
         "sourceContext": {
           "Source MSD SHA256": "05EDD0114004D4E5EF9CD44B9DBD16A1B34DF2239056B2BA72544EF4E74A6827",
@@ -26,7 +26,7 @@
         }
       },
       "$en_cdfield3_0003": {
-        "Target": "{X20Y150}Кирос{Line}«......»{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«......»{End}",
         "Source Text SHA256": "EF4F85054143DA699AFD1935E2ADF653566DCE33DC412376FE6B82F424E63493",
         "sourceContext": {
           "Source MSD SHA256": "05EDD0114004D4E5EF9CD44B9DBD16A1B34DF2239056B2BA72544EF4E74A6827",
@@ -34,7 +34,7 @@
         }
       },
       "$en_cdfield3_0004": {
-        "Target": "{X20Y20}Лагуна{Line}«Фух...{Line}Отпустило!»{Next}«Совсем я форму потерял.{Line}Нужно разминаться перед нагрузкой...»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Фух...{Line}Отпустило!»{Next}«Совсем я форму потерял.{Line}Нужно разминаться перед нагрузкой...»{End}",
         "Source Text SHA256": "F22F962884AC951FD33C7E4D92CFF50E92FB7C7C975C87EE6A421B8ABE5B7142",
         "sourceContext": {
           "Source MSD SHA256": "05EDD0114004D4E5EF9CD44B9DBD16A1B34DF2239056B2BA72544EF4E74A6827",
@@ -42,7 +42,7 @@
         }
       },
       "$en_cdfield3_0005": {
-        "Target": "{X150Y20}Вард{Line}«Та последняя драка{Line}на разминку не тянет».{End}",
+        "Target": "{X150Y20}{Char Ward}{Line}«Та последняя драка{Line}на разминку не тянет».{End}",
         "Source Text SHA256": "7CF8862016A8AA239B03E09D4FAAB65AC107BDA11BA2E5922656453BFB603015",
         "sourceContext": {
           "Source MSD SHA256": "05EDD0114004D4E5EF9CD44B9DBD16A1B34DF2239056B2BA72544EF4E74A6827",
@@ -50,7 +50,7 @@
         }
       },
       "$en_cdfield3_0006": {
-        "Target": "{X20Y20}Лагуна{Line}«...Что?{Line}Ты что-то сказал?»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«...Что?{Line}Ты что-то сказал?»{End}",
         "Source Text SHA256": "AE2A1AA1500EE29542DD6830786F29F884334F0DF1AE21CAD9A059865711D0EA",
         "sourceContext": {
           "Source MSD SHA256": "05EDD0114004D4E5EF9CD44B9DBD16A1B34DF2239056B2BA72544EF4E74A6827",
@@ -58,7 +58,7 @@
         }
       },
       "$en_cdfield3_0007": {
-        "Target": "{X20Y150}Кирос{Line}«...{Pause 80}Да нет».{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«...{Pause 80}Да нет».{End}",
         "Source Text SHA256": "3400F5B0598BC8F84F034BA7CAE447437F35616AB0C2651D5C41465ECEAA2733",
         "sourceContext": {
           "Source MSD SHA256": "05EDD0114004D4E5EF9CD44B9DBD16A1B34DF2239056B2BA72544EF4E74A6827",

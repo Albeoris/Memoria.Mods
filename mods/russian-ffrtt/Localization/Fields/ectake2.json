@@ -2,7 +2,7 @@
   "Fields": {
     "ectake2": {
       "$en_ectake2_0000": {
-        "Target": "Зелл{Line}«Ух, ну и громадина!»{End}",
+        "Target": "{Char Zell}{Line}«Ух, ну и громадина!»{End}",
         "Source Text SHA256": "E9A538610B00164F8CE2755961392035C177B7A21052FDF21354A9F9B83BD551",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -10,7 +10,7 @@
         }
       },
       "$en_ectake2_0000_ctx_1b48b67e5419ac7c": {
-        "Target": "{X72Y50}Зелл{Line}«Ух, ну и громадина!»{End}",
+        "Target": "{X72Y50}{Char Zell}{Line}«Ух, ну и громадина!»{End}",
         "Source Text SHA256": "E9A538610B00164F8CE2755961392035C177B7A21052FDF21354A9F9B83BD551",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ectake2_0000_ctx_a00f5a13698a0621": {
-        "Target": "{X10Y150}Зелл{Line}«Ух, ну и громадина!»{End}",
+        "Target": "{X10Y150}{Char Zell}{Line}«Ух, ну и громадина!»{End}",
         "Source Text SHA256": "E9A538610B00164F8CE2755961392035C177B7A21052FDF21354A9F9B83BD551",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ectake2_0001": {
-        "Target": "Сельфи{Line}«Ого!.. Хочу здесь жить!»{End}",
+        "Target": "{Char Selphie}{Line}«Ого!.. Хочу здесь жить!»{End}",
         "Source Text SHA256": "E3367E857EAB525F9526C9E22016A8CC328902C512EDE7BCE1730899A60C0AC9",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ectake2_0001_ctx_2773a910614d2abf": {
-        "Target": "{X65Y50}Сельфи{Line}«Ого!.. Хочу здесь жить!»{End}",
+        "Target": "{X65Y50}{Char Selphie}{Line}«Ого!.. Хочу здесь жить!»{End}",
         "Source Text SHA256": "E3367E857EAB525F9526C9E22016A8CC328902C512EDE7BCE1730899A60C0AC9",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ectake2_0001_ctx_a00f5a13698a0621": {
-        "Target": "{X10Y150}Сельфи{Line}«Ого!.. Хочу здесь жить!»{End}",
+        "Target": "{X10Y150}{Char Selphie}{Line}«Ого!.. Хочу здесь жить!»{End}",
         "Source Text SHA256": "E3367E857EAB525F9526C9E22016A8CC328902C512EDE7BCE1730899A60C0AC9",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ectake2_0002": {
-        "Target": "Эдея{Line}«Поразительно…»{End}",
+        "Target": "{Char Edea}{Line}«Поразительно…»{End}",
         "Source Text SHA256": "3BCF105671A7AD5BDD78EA5CD691AF9292730DF919391CA6B142630DC0D86158",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ectake2_0002_ctx_a00f5a13698a0621": {
-        "Target": "{X10Y150}Эдея{Line}«Поразительно…»{End}",
+        "Target": "{X10Y150}{Char Edea}{Line}«Поразительно…»{End}",
         "Source Text SHA256": "3BCF105671A7AD5BDD78EA5CD691AF9292730DF919391CA6B142630DC0D86158",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ectake2_0002_ctx_cf05000f1c45cbf2": {
-        "Target": "{X54Y50}Эдея{Line}«Поразительно…»{End}",
+        "Target": "{X54Y50}{Char Edea}{Line}«Поразительно…»{End}",
         "Source Text SHA256": "3BCF105671A7AD5BDD78EA5CD691AF9292730DF919391CA6B142630DC0D86158",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ectake2_0003": {
-        "Target": "Irvine{Line}Блин, и долго нам ещё ехать?..{End}",
+        "Target": "{Char Irvine}{Line}«Блин, и долго нам ещё ехать?..»{End}",
         "Source Text SHA256": "324998CAA3D07926D5376BDFD2BAE9EA5FAA400C427A218C024F86496EDD84FB",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ectake2_0003_ctx_a00f5a13698a0621": {
-        "Target": "{X10Y150}Ирвайн{Line}«Да сколько ещё идти?..»{End}",
+        "Target": "{X10Y150}{Char Irvine}{Line}«Да сколько ещё идти?..»{End}",
         "Source Text SHA256": "324998CAA3D07926D5376BDFD2BAE9EA5FAA400C427A218C024F86496EDD84FB",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ectake2_0003_ctx_cf05000f1c45cbf2": {
-        "Target": "{X54Y50}Ирвин{Line}Блин, и долго нам ещё ехать?..{End}",
+        "Target": "{X54Y50}{Char Irvine}{Line}«Блин, и долго нам ещё ехать?..»{End}",
         "Source Text SHA256": "324998CAA3D07926D5376BDFD2BAE9EA5FAA400C427A218C024F86496EDD84FB",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ectake2_0004": {
-        "Target": "Квистис{Line}«Как же здесь просторно…»{End}",
+        "Target": "{Char Quistis}{Line}«Как же здесь просторно…»{End}",
         "Source Text SHA256": "2FFB14AB4B0EDDBC9E2C2EF2013EAE9297449B12B3A14064E883753BBD881D7A",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ectake2_0004_ctx_536979d6f7c85d2f": {
-        "Target": "{X102Y50}Квистис{Line}«Как же здесь просторно…»{End}",
+        "Target": "{X102Y50}{Char Quistis}{Line}«Как же здесь просторно…»{End}",
         "Source Text SHA256": "2FFB14AB4B0EDDBC9E2C2EF2013EAE9297449B12B3A14064E883753BBD881D7A",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ectake2_0004_ctx_a00f5a13698a0621": {
-        "Target": "{X10Y150}Квистис{Line}«Как же здесь просторно…»{End}",
+        "Target": "{X10Y150}{Char Quistis}{Line}«Как же здесь просторно…»{End}",
         "Source Text SHA256": "2FFB14AB4B0EDDBC9E2C2EF2013EAE9297449B12B3A14064E883753BBD881D7A",
         "sourceContext": {
           "Source MSD SHA256": "8165A04BA296BC043D53913C4E062A571957EC9D71D1B27A9DBEE1CC879CCBEF",

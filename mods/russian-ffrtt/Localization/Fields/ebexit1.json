@@ -26,7 +26,7 @@
         }
       },
       "$en_ebexit1_0003": {
-        "Target": "{X150Y20}Лагуна{Line}«......!{Pause 80}{Line} Д-дырка{Pause 80}{Line} в заднем кармане!!!»{End}",
+        "Target": "{X150Y20}{Char Laguna}{Line}«......!{Pause 80}{Line} Д-дырка{Pause 80}{Line} в заднем кармане!!!»{End}",
         "Source Text SHA256": "3BEF0F59D81C9EFA915FEB1597A09F3231DB4D25FBFF0A7AA5F80821DC975957",
         "sourceContext": {
           "Source MSD SHA256": "A354C2BF52ADA79416F096ADF8E7E2C68E8F77887088FDC22C40A9DBC4C634A5",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ebexit1_0005": {
-        "Target": "{X150Y20}Лагуна{Line}«А... А-а-а...{Pause 80}{Line} АПЧХИ!»{End}",
+        "Target": "{X150Y20}{Char Laguna}{Line}«А... А-а-а...{Pause 80}{Line} АПЧХИ!»{End}",
         "Source Text SHA256": "9829062F76ABAF08460EDE0B79F834C1888FBA566773AF8098E00DA43B4A4800",
         "sourceContext": {
           "Source MSD SHA256": "A354C2BF52ADA79416F096ADF8E7E2C68E8F77887088FDC22C40A9DBC4C634A5",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ebexit1_0006": {
-        "Target": "{X150Y20}Лагуна{Line}«НЕ-Е-ЕТ!!!{Line} Опять?!»{End}",
+        "Target": "{X150Y20}{Char Laguna}{Line}«НЕ-Е-ЕТ!!!{Line} Опять?!»{End}",
         "Source Text SHA256": "60504DB4BB20D506F5093B65D5B3D4B193B78F9970A1081BF14D1222478EE7F0",
         "sourceContext": {
           "Source MSD SHA256": "A354C2BF52ADA79416F096ADF8E7E2C68E8F77887088FDC22C40A9DBC4C634A5",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ebexit1_0009": {
-        "Target": "{X150Y20}Лагуна{Line}«Ну и ладно...{Line} Дешевле дармового ничего нет.»{End}",
+        "Target": "{X150Y20}{Char Laguna}{Line}«Ну и ладно...{Line} Дешевле дармового ничего нет».{End}",
         "Source Text SHA256": "2C3110E2C9AF288DA579C5AA5E5194682B497E9737E290C581CF1573633D42F1",
         "sourceContext": {
           "Source MSD SHA256": "A354C2BF52ADA79416F096ADF8E7E2C68E8F77887088FDC22C40A9DBC4C634A5",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ebexit1_0010": {
-        "Target": "{X20Y150}Кирос{Line}«Дешевле...»{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}«Дешевле...»{End}",
         "Source Text SHA256": "6778C46C078B6DE150C1D97FA28D44B661D6132F9216293155259F0722204068",
         "sourceContext": {
           "Source MSD SHA256": "A354C2BF52ADA79416F096ADF8E7E2C68E8F77887088FDC22C40A9DBC4C634A5",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ebexit1_0011": {
-        "Target": "{X180Y150}Вард{Line}«...Дармового?»{End}",
+        "Target": "{X180Y150}{Char Ward}{Line}«...Дармового?»{End}",
         "Source Text SHA256": "08F614B1ED8C999050CB5D8EBD1111CAFAA0AABA75D357A076CA3D544A256198",
         "sourceContext": {
           "Source MSD SHA256": "A354C2BF52ADA79416F096ADF8E7E2C68E8F77887088FDC22C40A9DBC4C634A5",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ebexit1_0012": {
-        "Target": "{X150Y20}Лагуна{Line}«...Что?{Line} Я что-то не то сказал?{Line} Ладно... Пошли.»{End}",
+        "Target": "{X150Y20}{Char Laguna}{Line}«...Что?{Line} Я что-то не то сказал?{Line} Ладно... Пошли».{End}",
         "Source Text SHA256": "61FEBA2CB50F7EF2450F52AED1A914E0A5DD1644CFFDC2F7586675A52C47A32F",
         "sourceContext": {
           "Source MSD SHA256": "A354C2BF52ADA79416F096ADF8E7E2C68E8F77887088FDC22C40A9DBC4C634A5",

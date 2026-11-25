@@ -2,7 +2,7 @@
   "Fields": {
     "efpod1a": {
       "$en_efpod1a_0000": {
-        "Target": "{X150Y15}Adel{Line}Думали, я поведусь на эту уловку?{End}",
+        "Target": "{X150Y15}Адель{Line}«Думали, я поведусь на эту уловку?»{End}",
         "Source Text SHA256": "53BE7BA29FCAA67BE2717B50AD2EB25A30F19CF47F350EB262B45214B859D21C",
         "sourceContext": {
           "Source MSD SHA256": "4C125E9D79F6FD313EBADEEAD3AE77B2400DA7624B66200F11DE62E521155608",
@@ -18,7 +18,7 @@
         }
       },
       "$en_efpod1a_0002": {
-        "Target": "{X15Y15}Laguna{Line}Да...{Next}Конечно.{Pause 48}{Line} Мои планы... всегда...{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Да...»{Next}«Конечно.{Pause 48}{Line} Мои планы... всегда...»{End}",
         "Source Text SHA256": "29270120A87023D2B85962FE984E939A78F4978D7DE2553843CD8FE78C6DB430",
         "sourceContext": {
           "Source MSD SHA256": "4C125E9D79F6FD313EBADEEAD3AE77B2400DA7624B66200F11DE62E521155608",
@@ -26,7 +26,7 @@
         }
       },
       "$en_efpod1a_0003": {
-        "Target": "{X15Y15}Laguna{Line}Идеальны!!!{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Идеальны!!!»{End}",
         "Source Text SHA256": "D9BACC528BB2FF0D6BF51BE1B02204546305CE9D40665DE22B4FC2BA831C0CD4",
         "sourceContext": {
           "Source MSD SHA256": "4C125E9D79F6FD313EBADEEAD3AE77B2400DA7624B66200F11DE62E521155608",
@@ -34,7 +34,7 @@
         }
       },
       "$en_efpod1a_0004": {
-        "Target": "{X15Y15}Laguna{Line}Кирос, Вард!{Line} Давайте!!!{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Кирос, Вард!{Line} Давайте!!!»{End}",
         "Source Text SHA256": "D2BB73FF7247435A1DB52F4027AB8E512A8D14A8CBB387F567803D0604300630",
         "sourceContext": {
           "Source MSD SHA256": "4C125E9D79F6FD313EBADEEAD3AE77B2400DA7624B66200F11DE62E521155608",
@@ -42,7 +42,7 @@
         }
       },
       "$en_efpod1a_0005": {
-        "Target": "{X15Y15}Laguna{Line}Ха-ха-ха! Как два пальца!{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Ха-ха-ха! Как два пальца!»{End}",
         "Source Text SHA256": "C6B75F1C0E562CCF5C9F63245C9FC46C3CE9F11CBC7CEF52286CE8928DA9FADB",
         "sourceContext": {
           "Source MSD SHA256": "4C125E9D79F6FD313EBADEEAD3AE77B2400DA7624B66200F11DE62E521155608",

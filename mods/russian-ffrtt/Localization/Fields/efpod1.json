@@ -2,7 +2,7 @@
   "Fields": {
     "efpod1": {
       "$en_efpod1_0000": {
-        "Target": "{X20Y140}{Char Squall}{Line}”{Char Rinoa}, держись!{Line} Сейчас я тебя вытащу!“{End}",
+        "Target": "{X20Y140}{Char Squall}{Line}«{Char Rinoa}, держись!{Line} Сейчас я тебя вытащу!»{End}",
         "Source Text SHA256": "9FFEF438CAB48E11634C47CDAE985E979734AB8EF8D1420B0EE1ED85B85E8645",
         "sourceContext": {
           "Source MSD SHA256": "6B7A76C4FEF4058811AC03B93318A3FB29E09D35C4895EA476FC282A628183EA",
@@ -10,7 +10,7 @@
         }
       },
       "$en_efpod1_0001": {
-        "Target": "{X20Y140}{Char Squall}{Line}Что же мне сделать?! Ну же!{End}",
+        "Target": "{X20Y140}{Char Squall}{Line}«Что же мне сделать?! Ну же!»{End}",
         "Source Text SHA256": "42D15B4ABEA201892499D90AE60E61765A2DE73F348F7905E3116D7B2B49034F",
         "sourceContext": {
           "Source MSD SHA256": "6B7A76C4FEF4058811AC03B93318A3FB29E09D35C4895EA476FC282A628183EA",
@@ -18,7 +18,7 @@
         }
       },
       "$en_efpod1_0002": {
-        "Target": "{X120Y20}{Char Rinoa}{Line}”Не надо {Char Squall}! Я ведь волшебница.“{End}",
+        "Target": "{X120Y20}{Char Rinoa}{Line}«Не надо {Char Squall}! Я ведь волшебница».{End}",
         "Source Text SHA256": "7119E8BDE0418568058A66A90EB1668EF115C80819F4B2FEB73D1F7C5B7015CD",
         "sourceContext": {
           "Source MSD SHA256": "6B7A76C4FEF4058811AC03B93318A3FB29E09D35C4895EA476FC282A628183EA",
@@ -26,7 +26,7 @@
         }
       },
       "$en_efpod1_0003": {
-        "Target": "{X20Y140}{Char Squall}{Line}Мне плевать.{End}",
+        "Target": "{X20Y140}{Char Squall}{Line}«Мне плевать».{End}",
         "Source Text SHA256": "B5B8F5F659A88A14812B92E8E3D76A2C824FA2B3D21167F079975F0923C4C746",
         "sourceContext": {
           "Source MSD SHA256": "6B7A76C4FEF4058811AC03B93318A3FB29E09D35C4895EA476FC282A628183EA",
@@ -34,7 +34,7 @@
         }
       },
       "$en_efpod1_0004": {
-        "Target": "{X12Y12}Эдея{Line}«{Char Squall}! {Char Rinoa}!»{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«{Char Squall}! {Char Rinoa}!»{End}",
         "Source Text SHA256": "098BFC6B9D78E1A7A6C1C25F46E87B40286F53E75352FCF3A4ECEABBC4FEB168",
         "sourceContext": {
           "Source MSD SHA256": "6B7A76C4FEF4058811AC03B93318A3FB29E09D35C4895EA476FC282A628183EA",
@@ -42,7 +42,7 @@
         }
       },
       "$en_efpod1_0005": {
-        "Target": "{X12Y12}Quistis{Line}”{Char Rinoa}! {Char Squall}!!“{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«{Char Rinoa}! {Char Squall}!!»{End}",
         "Source Text SHA256": "2653FBCF3A291433D37D0ABC715B31041806E09EBF0D6BDC7ADEAAE36DA8B595",
         "sourceContext": {
           "Source MSD SHA256": "6B7A76C4FEF4058811AC03B93318A3FB29E09D35C4895EA476FC282A628183EA",
@@ -50,7 +50,7 @@
         }
       },
       "$en_efpod1_0006": {
-        "Target": "{X12Y12}Irvine{Line}”{Char Squall}! {Char Rinoa}!!“{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}«{Char Squall}! {Char Rinoa}!!»{End}",
         "Source Text SHA256": "C1FD5653901321D04F28DDC2A621A004F5090D22F07E5EF876CBF254AE8D78C5",
         "sourceContext": {
           "Source MSD SHA256": "6B7A76C4FEF4058811AC03B93318A3FB29E09D35C4895EA476FC282A628183EA",
@@ -58,7 +58,7 @@
         }
       },
       "$en_efpod1_0007": {
-        "Target": "{X12Y12}Selphie{Line}”{Char Rinoa}! {Char Squall}!!“{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«{Char Rinoa}! {Char Squall}!!»{End}",
         "Source Text SHA256": "DB99B5D97EEB8099EA84019013D24DE4F1E865746A58182F469C9001D4DB1EF6",
         "sourceContext": {
           "Source MSD SHA256": "6B7A76C4FEF4058811AC03B93318A3FB29E09D35C4895EA476FC282A628183EA",
@@ -66,7 +66,7 @@
         }
       },
       "$en_efpod1_0008": {
-        "Target": "{X12Y12}Зелл{Line}«{Char Squall}! {Char Rinoa}!»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«{Char Squall}! {Char Rinoa}!»{End}",
         "Source Text SHA256": "D73B60380E8CAA49537B0DCAECEF0E1483E337910179FD3369C9B28A6782492A",
         "sourceContext": {
           "Source MSD SHA256": "6B7A76C4FEF4058811AC03B93318A3FB29E09D35C4895EA476FC282A628183EA",
@@ -74,7 +74,7 @@
         }
       },
       "$en_efpod1_0009": {
-        "Target": "{X20Y140}{Char Squall}{Line}Пошли.{End}",
+        "Target": "{X20Y140}{Char Squall}{Line}«Пошли».{End}",
         "Source Text SHA256": "DC2D784576BFDF4E1C760DFC1BC3771236FD1A3EB4BF119296020761C8D0C994",
         "sourceContext": {
           "Source MSD SHA256": "6B7A76C4FEF4058811AC03B93318A3FB29E09D35C4895EA476FC282A628183EA",

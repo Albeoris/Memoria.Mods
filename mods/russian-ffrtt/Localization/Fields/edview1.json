@@ -2,7 +2,7 @@
   "Fields": {
     "edview1": {
       "$en_edview1_0000": {
-        "Target": "{X20Y20}Laguna{Line}Эй!{Line} Ты что, ждал меня?{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Эй!{Line} Ты что, ждал меня?»{End}",
         "Source Text SHA256": "924785658721881FFAB3E4E47AA6D2BC8CC589855378770E064DA73112CC91DA",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -10,7 +10,7 @@
         }
       },
       "$en_edview1_0001": {
-        "Target": "{X15Y120}Гррр... Гррр...{End}{End}",
+        "Target": "{X15Y120}«Гррр... Гррр...»{End}",
         "Source Text SHA256": "7786BF7192390284EC3AE337F20F6A2030F791FF350C8AF693BF5F91AF4A7FFE",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -18,7 +18,7 @@
         }
       },
       "$en_edview1_0002": {
-        "Target": "{X20Y20}Laguna{Line}Не унывай! Смотри,{Line} чтобы тебя снова не поймали!{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Не унывай! Смотри,{Line} чтобы тебя снова не поймали!»{End}",
         "Source Text SHA256": "62A26405E4E179DCC5E296CFFA9ECD0F1DC42DDF24745C9D2173244931BC8F78",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -26,7 +26,7 @@
         }
       },
       "$en_edview1_0003": {
-        "Target": "{X20Y20}Ну{Next}что{Line} ж... Наверное,{Next}ему лучше уйти...{Line} свободным.{Pause 48}{End}{End}",
+        "Target": "{X20Y20}Ну{Next}что{Line} ж... Наверное,{Next}ему лучше уйти...{Line} свободным.{Pause 48}{End}",
         "Source Text SHA256": "BA3BEC7C0E03DA9D3462DC67A8FD67B0499B9E55383BB2F06C253D0766C5B222",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -34,7 +34,7 @@
         }
       },
       "$en_edview1_0004": {
-        "Target": "{X20Y20}Laguna{Line}”!“{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«!»{End}",
         "Source Text SHA256": "2B1820D54098DAAFFEA8DBFE143C1B417353DB0A99ADCBE692E6648238BD37A0",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -42,7 +42,7 @@
         }
       },
       "$en_edview1_0005": {
-        "Target": "{X150Y15}Всё {Pause 48}в{Line} порядке... Он тоже член «Сопротивления{Next}Адель». Он ассистент доктора Одайна. Вся{Line} данные из лаборатории поступает от него.{End}{End}",
+        "Target": "{X150Y15}«Всё {Pause 48}в{Line} порядке... Он тоже член „Сопротивления{Next}Адель“. Он ассистент доктора Одайна. Вся{Line} данные из лаборатории поступает от него».{End}",
         "Source Text SHA256": "D7A9E3FA098397769C9A6E53F306A10E22015D62CE4897042E8F4C54A198A088",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -50,7 +50,7 @@
         }
       },
       "$en_edview1_0006": {
-        "Target": "{X15Y50}Doctor’s Assistant{Line}Это тот новичок?{Line} Добро пожаловать в нашу{Next}группу. Ты порядочно наделал шума там внизу... Так{Pause 48}{Line}{Pause 48}что сейчас как раз самое{Line} время покинуть эту лабораторию.{End}{End}",
+        "Target": "{X15Y50}Ассистент доктора{Line}«Это тот новичок?{Line} Добро пожаловать в нашу{Next}группу. Ты порядочно наделал шума там внизу... Так{Pause 48}{Line}{Pause 48}что сейчас как раз самое{Line} время покинуть эту лабораторию».{End}",
         "Source Text SHA256": "01E4856721896034507D37B6CB199C0FCCDF3068C96758AB606DFA16686488F3",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -58,7 +58,7 @@
         }
       },
       "$en_edview1_0007": {
-        "Target": "{X150Y15}С доктором что-то случилось? Или{Line} Адель перестала финансировать его лабораторию?{End}{End}",
+        "Target": "{X150Y15}«С доктором что-то случилось? Или{Line} Адель перестала финансировать его лабораторию?»{End}",
         "Source Text SHA256": "617C70A7DF0DE18CD20BCE83473D47AA77FEB1E5C922F42C2E64696ED5A9403A",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -66,7 +66,7 @@
         }
       },
       "$en_edview1_0008": {
-        "Target": "{X15Y50}Doctor’s Assistant{Line}Нет, всё дело в Одайне.{Line} Он... {Pause 48}Он снова взялся за своё.{End}{End}",
+        "Target": "{X15Y50}Ассистент доктора{Line}«Нет, всё дело в Одайне.{Line} Он... {Pause 48}Он снова взялся за своё».{End}",
         "Source Text SHA256": "9A3D8C02D3577381EFFFA0806BD1049DA659FA92B9AFE64840891C3E88AD24CB",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -74,7 +74,7 @@
         }
       },
       "$en_edview1_0009": {
-        "Target": "{X15Y50}Doctor’s Assistant{Line}Он нашёл себе новую игрушку, которой он увлёкся больше, чем Безумной Пандорой...{Line} Какого-то ребёнка по{Pause 48}{Next}имени Эллона.{End}{End}",
+        "Target": "{X15Y50}Ассистент доктора{Line}«Он нашёл себе новую игрушку, которой он увлёкся больше, чем Безумной Пандорой...{Line} Какого-то ребёнка по{Pause 48}{Next}имени Эллона».{End}",
         "Source Text SHA256": "3B984DA0F4A273557A92F71C6758708FA64EC015CE9E9EF0A41BA234583DACBD",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -82,7 +82,7 @@
         }
       },
       "$en_edview1_0010": {
-        "Target": "{X20Y20}Laguna{Line}Эллона?!{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Эллона?!»{End}",
         "Source Text SHA256": "9E4AE39E8AE2BFD1460109984CD8501BEE5FEE72E96AEC27DB914C2B09982655",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -90,7 +90,7 @@
         }
       },
       "$en_edview1_0011": {
-        "Target": "{X150Y15}Вы знаете её?{End}{End}",
+        "Target": "{X150Y15}«Вы знаете её?»{End}",
         "Source Text SHA256": "973D9486C5FFFC98528634CE5E78E862FBCF6861601E6501844BF72880283918",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -98,7 +98,7 @@
         }
       },
       "$en_edview1_0012": {
-        "Target": "{X20Y80}Kiros{Line}Знаем ли {Pause 48}мы?.. Вообще-то{Line} мы здесь только из-за неё.{End}{End}",
+        "Target": "{X20Y80}{Char Kiros}{Line}«Знаем ли {Pause 48}мы?.. Вообще-то{Line} мы здесь только из-за неё».{End}",
         "Source Text SHA256": "8E47E61A088A510609002638AF87B6AA79221EA6809254C1422D31ACE45776E4",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -106,7 +106,7 @@
         }
       },
       "$en_edview1_0013": {
-        "Target": "{X150Y15}Ward{Line}”...“{End}{End}",
+        "Target": "{X150Y15}{Char Ward}{Line}«...»{End}",
         "Source Text SHA256": "FBAD14F7DBBC059BCE3CD8BCCAA713E1874DA83561C0B5EAA8D8354DADEBCBE8",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -114,7 +114,7 @@
         }
       },
       "$en_edview1_0014": {
-        "Target": "{X20Y20}Laguna{Line}Где она?{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Где она?»{End}",
         "Source Text SHA256": "2E92CD3BABEBD82FAB59701AF14E6FD1E99F85B6887B888E407B966D64B9093A",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -122,7 +122,7 @@
         }
       },
       "$en_edview1_0015": {
-        "Target": "{X20Y20}Laguna{Line}Где Эллона?!{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Где Эллона?!»{End}",
         "Source Text SHA256": "EEE5E47058A631611B0C92CEAA4B6BC958F922362037A3B019214406202B6B9D",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -130,7 +130,7 @@
         }
       },
       "$en_edview1_0016": {
-        "Target": "Doctor’s Assistant{Line}Наверняка доктору{Line} Одайну известно{Pause 48}{Line} её местонахождение.{End}{End}",
+        "Target": "Ассистент доктора{Line}«Наверняка доктору{Line} Одайну известно{Pause 48}{Line} её местонахождение».{End}",
         "Source Text SHA256": "7E63F0DDEA1364E8983778650E648B75106D9CCCB339CFBADB3358B0B700278B",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -138,7 +138,7 @@
         }
       },
       "$en_edview1_0017": {
-        "Target": "{X20Y20}Laguna{Line}Значит, ищём Одайна, так?{Pause 48}{Line} Мы идём обратно!{Next}Спасибо вам за помощь. Вам{Line} лучше подыскать себе местечко поспокойнее. Прощайте!{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Значит, ищём Одайна, так?{Pause 48}{Line} Мы идём обратно!»{Next}«Спасибо вам за помощь. Вам{Line} лучше подыскать себе местечко поспокойнее. Прощайте!»{End}",
         "Source Text SHA256": "F8B5FD6726B366577E567EADCCDE69C276C9716097040DD4D0ED28BE1D57024D",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -146,7 +146,7 @@
         }
       },
       "$en_edview1_0018": {
-        "Target": "{X150Y15}Погодите! Я всё{Line} ещё ваш должник!{End}{End}",
+        "Target": "{X150Y15}«Погодите! Я всё{Line} ещё ваш должник!»{End}",
         "Source Text SHA256": "F01327C7227A6EE34EB39C565719422AE260DAE165259847C9E27C514C6BD044",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -154,7 +154,7 @@
         }
       },
       "$en_edview1_0019": {
-        "Target": "{X15Y50}Если вы ищете эту девочку, Эллону,{Line} вам наверняка понадобится помощь.{Next}Противостоять целому Эстару... и Адель всего{Line} лишь втроём будет{Next}непросто. Но мы можем вам помочь.{Line} Мы предоставим вам всю необходимую информацию.{End}{End}",
+        "Target": "{X15Y50}«Если вы ищете эту девочку, Эллону,{Line} вам наверняка понадобится помощь».{Next}«Противостоять целому Эстару... и Адель всего{Line} лишь втроём будет{Next}непросто. Но мы можем вам помочь.{Line} Мы предоставим вам всю необходимую информацию».{End}",
         "Source Text SHA256": "6CBE62873CD00CDC2542433AD8EF4062579E14DC92983473F8F0627BFBC39443",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -162,7 +162,7 @@
         }
       },
       "$en_edview1_0020": {
-        "Target": "{X20Y80}Kiros{Line}Неплохая идея... Нам{Pause 48}{Line} ничего не известно об Эстаре. Я бы{Next}не хотел снова пройти через{Line} всё это.{Line} Уверен - Вард думает так же.{End}{End}",
+        "Target": "{X20Y80}{Char Kiros}{Line}«Неплохая идея... Нам{Pause 48}{Line} ничего не известно об Эстаре. Я бы{Next}не хотел снова пройти через{Line} всё это.{Line} Уверен - Вард думает так же».{End}",
         "Source Text SHA256": "CE36DD04BBD392058B949914D0956F04C21747AB1C44D1A38B3FD5278641563B",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -170,7 +170,7 @@
         }
       },
       "$en_edview1_0021": {
-        "Target": "{X20Y20}Laguna{Line}Что?..{Pause 48}{Pause 48}Хмм... Хорошо,{Next}по рукам! Мы принимаем{Pause 48}{Line} вашу помощь.{Next}Взамен, мы вам поможем{Pause 48}с вашим «Анти-Азель»{Line} или как-его-там.{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Что?..{Pause 48}{Pause 48}Хмм... Хорошо,{Next}по рукам! Мы принимаем{Pause 48}{Line} вашу помощь».{Next}«Взамен, мы вам поможем{Pause 48}с вашим „Анти-Азель“{Line} или как-его-там».{End}",
         "Source Text SHA256": "537A7823323D2EB5C276E0618617CE56FB1FDD86D19F71BAC52B08B5838CE120",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -178,7 +178,7 @@
         }
       },
       "$en_edview1_0022": {
-        "Target": "{X20Y80}Kiros{Line}{Next}«АДЕЛЬ».{Line} Слушай внимательнее, потому что{Next}это уже начинает порядком надоедать...{Line} ...так сказал бы Вард. Разве ты не видишь это по его глазам?{End}{End}",
+        "Target": "{X20Y80}{Char Kiros}{Line}«„АДЕЛЬ“».{Next}«Слушай внимательнее, потому что{Line} это уже начинает порядком надоедать...»{Next}«...так сказал бы Вард. Разве ты{Line} не видишь это по его глазам?»{End}",
         "Source Text SHA256": "A0A44CD172CFE35D6D4415B9A8AE9463B0B257E768B73F3C23E702E198BD81A1",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -186,7 +186,7 @@
         }
       },
       "$en_edview1_0023": {
-        "Target": "{X20Y20}Laguna{Line}Да, конечно, я{Line} всегда это вижу! Но...{Next}какая разница?! Я ведь{Line} говорю с чувством, от чистого сердца! Это{Line} важнее всего. Да... Точно! Звучит глупо, но... ты мне нравишься!{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Да, конечно, я{Line} всегда это вижу! Но...{Next}какая разница?! Я ведь{Line} говорю с чувством, от чистого сердца! Это{Line} важнее всего. Да... Точно! Звучит глупо, но... ты мне нравишься!»{End}",
         "Source Text SHA256": "8B30C93640EE1F32E51050A96FED71F5D2F17A70906667F42FEBD9CB883C25AE",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -194,7 +194,7 @@
         }
       },
       "$en_edview1_0024": {
-        "Target": "{X150Y15}Я очень{Line} хочу, чтобы{Pause 48}ты{Next}был нашим{Line} лидером...{End}{End}",
+        "Target": "{X150Y15}«Я очень{Line} хочу, чтобы{Pause 48}ты{Next}был нашим{Line} лидером...»{End}",
         "Source Text SHA256": "4369C00FF3A1D4EF52CB4D5215207CE8003C0EAC2E98E61C8E02AEE5880F8D82",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -202,7 +202,7 @@
         }
       },
       "$en_edview1_0025": {
-        "Target": "{X20Y20}Laguna{Line}Предоставьте это мне! Как только мы{Line} найдём Эллону, я приму{Next}это предложение! Ну что ж, нанесу-ка я визит{Line} Одайну. Ждите здесь!{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Предоставьте это мне! Как только мы{Line} найдём Эллону, я приму{Next}это предложение! Ну что ж, нанесу-ка я визит{Line} Одайну. Ждите здесь!»{End}",
         "Source Text SHA256": "6FAF3F0A4A7FF3B180CD0FE329F41251C392D9BB66CD50EDEEBDFBFB829ABAD6",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -210,7 +210,7 @@
         }
       },
       "$en_edview1_0026": {
-        "Target": "{X100Y20}Чёрт, опять{Pause 48}{Line} я за своё!{Line} И почему я{Next}никогда не думаю,{Line} прежде чем сказать?{End}{End}",
+        "Target": "{X100Y20}Чёрт, опять{Pause 48}{Line} я за своё!{Line} И почему я{Next}никогда не думаю,{Line} прежде чем сказать?{End}",
         "Source Text SHA256": "B78758DE3CB6E463EC3BF452F01167A5348078447594D2440605EEF1EEDE4BE6",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -218,7 +218,7 @@
         }
       },
       "$en_edview1_0027": {
-        "Target": "{X150Y15}Эта девочка, Эллона...{Pause 48}{Line} Она вам так дорога?{End}{End}",
+        "Target": "{X150Y15}«Эта девочка, Эллона...{Pause 48}{Line} Она вам так дорога?»{End}",
         "Source Text SHA256": "022BE1A586C442C29A21CD7A1F100967F4C2F2D7D2DF68E5EA429DFE026DA781",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -226,7 +226,7 @@
         }
       },
       "$en_edview1_0028": {
-        "Target": "{X20Y20}Laguna{Line}А?{Line} Да, что-то вроде того.{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«А?{Line} Да, что-то вроде того».{End}",
         "Source Text SHA256": "F9D9ED33DB1F2892BCA40216CA7CBEA2BD32C5E93A3C3AA9B6D33869057E0EE9",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -234,7 +234,7 @@
         }
       },
       "$en_edview1_0029": {
-        "Target": "{X20Y80}Kiros{Line}Лагуна...{Next}Перестань... Она{Pause 48}{Line} же{Line} тебе как дочь.{End}{End}",
+        "Target": "{X20Y80}{Char Kiros}{Line}«Лагуна...»{Next}«Перестань... Она{Pause 48}{Line} же{Line} тебе как дочь».{End}",
         "Source Text SHA256": "BD627C49EA3B27290815F7F2C1D084DC58BB3987BAFD2220DADFA17997AF16EA",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -242,7 +242,7 @@
         }
       },
       "$en_edview1_0030": {
-        "Target": "{X20Y20}Laguna{Line}Может она и маленькая,{Next}но Элли всё же «леди».{Line} Представь, как бы она разозлилась, если бы она услышала,{Next}что я говорю о ней как о ребёнке.{Line} Вот я и говорю «дорогой мне человек» из уважения... и страха.{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Может она и маленькая,{Next}но Элли всё же „леди“.{Line} Представь, как бы она разозлилась, если бы она услышала,{Next}что я говорю о ней как о ребёнке.{Line} Вот я и говорю „дорогой мне человек“ из уважения... и страха».{End}",
         "Source Text SHA256": "DFA765F7960FAF3D8BCA135E59CA6C3D4E9C79C88FCCE99CF3987A8F7EDF48BE",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -250,7 +250,7 @@
         }
       },
       "$en_edview1_0031": {
-        "Target": "{X20Y80}Kiros{Line}Понятно... {Pause 48}Наверное, ты прав.{Line} Глупо её огорчать.{End}{End}",
+        "Target": "{X20Y80}{Char Kiros}{Line}«Понятно... {Pause 48}Наверное, ты прав.{Line} Глупо её огорчать».{End}",
         "Source Text SHA256": "1644459B1AFB7D381E68DE850C44424FEDD021743EC046BCFF119C6FA3D29B13",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -258,7 +258,7 @@
         }
       },
       "$en_edview1_0032": {
-        "Target": "{X20Y20}{Next}Точно.{Line} Помнишь тот случай с джемом?{End}{End}",
+        "Target": "{X20Y20}{Next}«Точно.{Line} Помнишь тот случай с джемом?»{End}",
         "Source Text SHA256": "2B19049BD4D358D13C0F63B45B3ED9104A50FB8C1DFC88ED6AD70BE064FAAC63",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -266,7 +266,7 @@
         }
       },
       "$en_edview1_0033": {
-        "Target": "{X20Y80}Kiros{Line}{Next}Да...{Line} Она обиделась и налила тебе фруктового джема в ботинки. Ты чуть не расплакался!{End}{End}",
+        "Target": "{X20Y80}{Char Kiros}{Line}«Да...»{Next}«Она обиделась и налила тебе{Line} фруктового джема в ботинки. Ты чуть не расплакался!»{End}",
         "Source Text SHA256": "F98AE36CCC944F7AF6641B5EFDF6C46FFB0C4976F8C761574718C97AF8F55067",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -274,7 +274,7 @@
         }
       },
       "$en_edview1_0034": {
-        "Target": "{X20Y20}Laguna{Line}Ух!{Pause 48} У меня мурашки только от{Line} одной мысли об этом.{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Ух!{Pause 48} У меня мурашки только от{Line} одной мысли об этом».{End}",
         "Source Text SHA256": "BB389BD05CD71AF9D85981E24135C86DE507B0CDB4B2E4E3EA4EED4C79ADBA80",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -282,7 +282,7 @@
         }
       },
       "$en_edview1_0035": {
-        "Target": "{X150Y15}Похоже, что она скверный ребёнок...{Pause 48}{Line} эээ, то есть, храбрая девочка.{End}{End}",
+        "Target": "{X150Y15}«Похоже, что она скверный ребёнок...{Pause 48}{Line} эээ, то есть, храбрая девочка».{End}",
         "Source Text SHA256": "E282990814F7239B43F1E4AAF7A3ABED5365709315C374D80B32BC918670765A",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -290,7 +290,7 @@
         }
       },
       "$en_edview1_0036": {
-        "Target": "{X150Y15}Лучше прийти к ней на{Pause 48}{Line} помощь, пока она не разозлилась.{End}{End}",
+        "Target": "{X150Y15}«Лучше прийти к ней на{Pause 48}{Line} помощь, пока она не разозлилась».{End}",
         "Source Text SHA256": "C66456F42F85F3DD9F224162B524B2FF19099960EF7E9255649E958439B4462B",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -298,7 +298,7 @@
         }
       },
       "$en_edview1_0037": {
-        "Target": "{X15Y50}Doctor’s Assistant{Line}Доктору Одайну наверняка известно{Line} её местоположение.{End}{End}",
+        "Target": "{X15Y50}Ассистент доктора{Line}«Доктору Одайну наверняка известно{Line} её местоположение».{End}",
         "Source Text SHA256": "1DDC6724D2026D058797D0C32C5CDFE0FD548A1357201CB2F78E3608586FE287",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -306,7 +306,7 @@
         }
       },
       "$en_edview1_0038": {
-        "Target": "{X15Y50}Если его нет в {Color Blue}〖лаборатории〗{Color White},{Pause 48}{Line}может, он спустился {Color Blue}〖вниз〗{Color White}.{End}{End}",
+        "Target": "{X15Y50}«Если его нет в {Color Blue}〖лаборатории〗{Color White},{Pause 48}{Line}может, он спустился {Color Blue}〖вниз〗{Color White}.»{End}",
         "Source Text SHA256": "346C8CB3F598B9A557B65F61EFF0171DBC57207777C3999E6DF5540B3D5F2A19",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -314,7 +314,7 @@
         }
       },
       "$en_edview1_0039": {
-        "Target": "{X20Y20}Laguna{Line}Эй, стойте!{Line} Скажите мне куда!{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Эй, стойте!{Line} Скажите мне куда!»{End}",
         "Source Text SHA256": "DC66F477FE57596B35FA3DA0A932342BB481BC1CC5E620FDAD81BF9DB3DE886A",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -322,7 +322,7 @@
         }
       },
       "$en_edview1_0040": {
-        "Target": "{X150Y15}Doc Odine{Line}”......{Pause 48}...В [Лабоватовию «О»]!{End}{End}",
+        "Target": "{X150Y15}Доктор Одайн{Line}«......{Pause 48}...В [Лабоватовию „О“]!»{End}",
         "Source Text SHA256": "93AA9032EF724AF2BB0188E4483825927F3BBAD8C7C6B8B44ED510825C8A10C6",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -330,7 +330,7 @@
         }
       },
       "$en_edview1_0041": {
-        "Target": "{X150Y15}Doc Odine{Line}Эллона там.{End}{End}",
+        "Target": "{X150Y15}Доктор Одайн{Line}«Эллона там».{End}",
         "Source Text SHA256": "E86C14BF071D592C3910E5A01B5062C8D23F46E0254B284262AD16F9FEB4E231",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -346,7 +346,7 @@
         }
       },
       "$en_edview1_0043": {
-        "Target": "{X15Y50}Doctor’s Assistant{Line}Чтобы туда попасть, пройдите вот сюда...{Pause 48}{Line} потом вон туда... и затем{Pause 48} сюда.{End}{End}",
+        "Target": "{X15Y50}Ассистент доктора{Line}«Чтобы туда попасть, пройдите вот сюда...{Pause 48}{Line} потом вон туда... и затем{Pause 48} сюда».{End}",
         "Source Text SHA256": "882602E1A76C567A95A066E65D9E134BC62E46FCCC92D79EEF930F49057A8C3F",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -354,7 +354,7 @@
         }
       },
       "$en_edview1_0044": {
-        "Target": "{X20Y20}Laguna{Line}Ясно... {Pause 48}Я не понял ни слова.{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Ясно... {Pause 48}Я не понял ни слова».{End}",
         "Source Text SHA256": "3FCBD1108716AC224DEB08260F44B5C0345C57507127A2DA0C3BDC13BB2D375A",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -362,7 +362,7 @@
         }
       },
       "$en_edview1_0045": {
-        "Target": "{X20Y20}Laguna{Line}Кирос! {Pause 48}Сейчас твоя очередь!{End}{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Кирос! {Pause 48}Сейчас твоя очередь!»{End}",
         "Source Text SHA256": "9F9D6FAE9861FF3925904ED08D8984A2C79A221F8F960047BAC2B531AC0C23CA",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -370,7 +370,7 @@
         }
       },
       "$en_edview1_0046": {
-        "Target": "{X15Y50}Doctor’s Assistant{Line}Мы присоединимся к вам, как только сможем. А пока что - удачи!{Line} Прошу вас,{Next}будьте осторожны.{End}{End}",
+        "Target": "{X15Y50}Ассистент доктора{Line}«Мы присоединимся к вам, как только сможем. А пока что - удачи!{Line} Прошу вас,{Next}будьте осторожны».{End}",
         "Source Text SHA256": "8F7442267EDC026FD6F54153E9A5DBA2C3AD183F46110A1BB2191C95C37CC426",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -378,7 +378,7 @@
         }
       },
       "$en_edview1_0047": {
-        "Target": "{X63Y8}〖Точка сохранения〗{Line} Открой меню и выбери{Line}[Сохранить].{End}{End}",
+        "Target": "{X63Y8}〖Точка сохранения〗{Line} Открой меню и выбери{Line}[Сохранить].{End}",
         "Source Text SHA256": "A5D94869AB351B31D46424F97F1789439B93AD79DCF6E37FE8C5FB94657D18BE",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",

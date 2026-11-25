@@ -10,7 +10,7 @@
         }
       },
       "$en_gflain2_0001": {
-        "Target": "{X10Y12}Kiros{Line}(...Что?){End}",
+        "Target": "{X10Y12}{Char Kiros}{Line}«(...Что?)»{End}",
         "Source Text SHA256": "43BD3AE55CF42FD737EA23FF3F77B1C92A6031B617BFAD299CE625B159D33F09",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gflain2_0002": {
-        "Target": "{X10Y20}Laguna{Line}(Женский разговор...{Line} Давай позже зайдём.){End}",
+        "Target": "{X10Y20}{Char Laguna}{Line}«(Женский разговор...{Line} Давай позже зайдём.)»{End}",
         "Source Text SHA256": "C291418C4B2A10077F4CA03601BB3C9E2E30A0F659C31FB25F627777EF678DF1",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gflain2_0003": {
-        "Target": "{X10Y20}Laguna{Line}(Пошли!){End}",
+        "Target": "{X10Y20}{Char Laguna}{Line}«(Пошли!)»{End}",
         "Source Text SHA256": "FEAFE0CA21BDFF13F8A65C0783958A8957CB6B61F2E2E7D5D571865AC588BD51",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gflain2_0004": {
-        "Target": "{X10Y12}Kiros{Line}(Думаю, нам{Line} стоит подслушать.){End}",
+        "Target": "{X10Y12}{Char Kiros}{Line}«(Думаю, нам{Line} стоит подслушать.)»{End}",
         "Source Text SHA256": "BE635467D858E6C7C02D6857BBCC6C9D8D0F93882FAAA47C56C981A408BA43D1",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gflain2_0005": {
-        "Target": "{X10Y12}Ellone{Line}Лейн...{Line} Лазве ты не собилаешься выйти замуж за дядю Лагуну?{End}",
+        "Target": "{X10Y12}Эллона{Line}«Лейн...{Line} Лазве ты не собилаешься выйти замуж за дядю Лагуну?»{End}",
         "Source Text SHA256": "776F0AB871D12F179079F6FF31C419E16C6510992FC2CDA9CB283761B30B6905",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gflain2_0006": {
-        "Target": "{X12Y12}Raine{Line}За такого парня?{End}",
+        "Target": "{X12Y12}Рейн{Line}«За такого парня?»{End}",
         "Source Text SHA256": "6F5B42FC6DDDEB68894448E7B496696F3C40BC29A6F61E0CD6F33D61EC981C86",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gflain2_0007": {
-        "Target": "{X160Y160}Raine{Line}Когда его принесли{Line} сюда, он рыдал, как ребёнок! Мне{Line} пришлось выхаживать его одной.{End}",
+        "Target": "{X160Y160}Рейн{Line}«Когда его принесли{Line} сюда, он рыдал, как ребёнок! Мне{Line} пришлось выхаживать его одной».{End}",
         "Source Text SHA256": "2067EFA155DC000FFC01BFC48060C8927C347433436B2FB7189F9F24B718080F",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gflain2_0008": {
-        "Target": "{X12Y12}У него ужасно грубая{Line} манера речи! А ещё эти{Line} фантазии о карьере журналиста…{End}",
+        "Target": "{X12Y12}«У него ужасно грубая{Line} манера речи! А ещё эти{Line} фантазии о карьере журналиста…»{End}",
         "Source Text SHA256": "F0343BB3D60FFF6FA26E05F54193A1A78FAAE2F522E1F3A8F8516590AD6A50D0",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gflain2_0009": {
-        "Target": "{X120Y48}Он никогда не бывает серьёзен,{Line} вечно увиливает от вопросов.{End}",
+        "Target": "{X120Y48}«Он никогда не бывает серьёзен,{Line} вечно увиливает от вопросов».{End}",
         "Source Text SHA256": "8FAFA0B2982B7B983A3026D9A03C3BC202F55472D7274C46BF65962BF6BC6860",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gflain2_0010": {
-        "Target": "{X160Y100}К тому же храпит{Line} и разговаривает во сне!..{End}",
+        "Target": "{X160Y100}«К тому же храпит{Line} и разговаривает во сне!..»{End}",
         "Source Text SHA256": "A2F458F91803826F0AE722C6DD5D0F3B99E43E174A52F78CA0270F2E3A0859C4",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gflain2_0011": {
-        "Target": "{X10Y12}Ellone{Line}Но он очень холоший!{Line} Он очень, очень мне нлавится!{End}",
+        "Target": "{X10Y12}Эллона{Line}«Но он очень холоший!{Line} Он очень, очень мне нлавится!»{End}",
         "Source Text SHA256": "98440A60B9554C11898C2C3CAF12953E9952F19061F5B9F908648156027D3E0B",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gflain2_0012": {
-        "Target": "{X10Y12}Ellone{Line}Лейн, дядя Лагуна и{Line} Элли должны быть вместе!{End}",
+        "Target": "{X10Y12}Эллона{Line}«Лейн, дядя Лагуна и{Line} Элли должны быть вместе!»{End}",
         "Source Text SHA256": "F221FA8B5F13A9CFC1C097E578CD2B3F87B823729A5549B5DC669CE4E8427278",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gflain2_0013": {
-        "Target": "{X160Y12}Raine{Line}Знаешь…{End}",
+        "Target": "{X160Y12}Рейн{Line}«Знаешь…»{End}",
         "Source Text SHA256": "78065E42D78EB1C3463AECA2E530B4864A8402D0939288D5BFD7AED823EDBD84",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gflain2_0014": {
-        "Target": "{X160Y12}Raine{Line}Мне кажется, на самом деле он хочет{Line} путешествовать по миру. Мне кажется, он{Next}не сможет жить в нашем тихом провинциальном городке.{Line} Ему хочется путешествовать, и однажды желание окажется{Line} сильнее него. Понимаешь, есть такие люди…{End}",
+        "Target": "{X160Y12}Рейн{Line}«Мне кажется, на самом деле он хочет{Line} путешествовать по миру. Мне кажется, он{Next}не сможет жить в нашем тихом провинциальном городке.{Line} Ему хочется путешествовать, и однажды желание окажется{Line} сильнее него. Понимаешь, есть такие люди…»{End}",
         "Source Text SHA256": "85957AD0C0C99FFA221E97871333986E33217B6DB50AC5CC6E55C7B96F5023AB",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gflain2_0015": {
-        "Target": "{X160Y12}Raine{Line}Ох, как же меня это раздражает!{End}",
+        "Target": "{X160Y12}Рейн{Line}«Ох, как же меня это раздражает!»{End}",
         "Source Text SHA256": "395A4D602CDD832CF8DDD7995EB85B29C66225854705C3A9EAC411710995B224",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gflain2_0016": {
-        "Target": "{X10Y12}Ellone{Line}...Он тебе не нлавится?{End}",
+        "Target": "{X10Y12}Эллона{Line}«...Он тебе не нлавится?»{End}",
         "Source Text SHA256": "2E3B7B29BAF79A57FE8D0CC57D4EA19269857F65B165B45E8302D17FBB75AAD7",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gflain2_0017": {
-        "Target": "{X160Y12}Raine{Line}...Я чувствую то же, что и ты, Эллона.{End}",
+        "Target": "{X160Y12}Рейн{Line}«...Я чувствую то же, что и ты, Эллона».{End}",
         "Source Text SHA256": "FF50476DD21E79CBF67E2E9BA44EE29E413CC8F155A107839A2C2DCC05E8D690",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gflain2_0018": {
-        "Target": "{X160Y12}Raine{Line}Ой!{End}",
+        "Target": "{X160Y12}Рейн{Line}«Ой!»{End}",
         "Source Text SHA256": "3CD2602C602E49B5DB5EE6971A1967A7A322D2ECCB45E109818870DD86D1545C",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gflain2_0019": {
-        "Target": "{X10Y20}Laguna{Line}(уффф... фууух...){Next}Я очень спешил!{End}",
+        "Target": "{X10Y20}{Char Laguna}{Line}«(уффф... фууух...)»{Next}«Я очень спешил!»{End}",
         "Source Text SHA256": "FD29DC0543D00ACD67C65326E0074DF7CBF5722C3660CA12B19F1373B0C15AE1",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gflain2_0020": {
-        "Target": "{X160Y90}Ellone{Line}Да! Ты велнулся!{End}",
+        "Target": "{X160Y90}Эллона{Line}«Да! Ты велнулся!»{End}",
         "Source Text SHA256": "920E8D91657503D45B6F14E6E67AFBA2598F825A23EA3F84BFC97DDCD92692DE",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -178,7 +178,7 @@
         }
       },
       "$en_gflain2_0022": {
-        "Target": "{X10Y20}Laguna{Line}Вот мой доклад о сегодняшнем{Line} патрулировании и истреблении монстров!{End}",
+        "Target": "{X10Y20}{Char Laguna}{Line}«Вот мой доклад о сегодняшнем{Line} патрулировании и истреблении монстров!»{End}",
         "Source Text SHA256": "E3543965D56F21CA561FBF53934F0B073F78405076212E9E78012C8A0D557CD2",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -186,7 +186,7 @@
         }
       },
       "$en_gflain2_0023": {
-        "Target": "{X10Y20}Laguna{Line}Включая Бучубучу и Бунбунов, которых,{Line} помощник командира Эллона, так ненавидит...{End}",
+        "Target": "{X10Y20}{Char Laguna}{Line}«Включая Бучубучу и Бунбунов, которых,{Line} помощник командира Эллона, так ненавидит...»{End}",
         "Source Text SHA256": "CDF4EEBA5480DE0731CE142ADB62902D1CAC3783637FE159D8F18426403FD0FD",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -194,7 +194,7 @@
         }
       },
       "$en_gflain2_0024": {
-        "Target": "Лагуна{Line}«Ой, прости!{Line} Я сегодня ещё ни одного монстра не убил».{End}",
+        "Target": "{Char Laguna}{Line}«Ой, прости!{Line} Я сегодня ещё ни одного монстра не убил».{End}",
         "Source Text SHA256": "0360A40FF81868596271CC324045F953CDEB6CF7E59A01AB5D9F0617F7292F95",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -202,7 +202,7 @@
         }
       },
       "$en_gflain2_0025": {
-        "Target": "{X10Y20}Laguna{Line}Я истребил {Var 32} монстра(ов)!{End}",
+        "Target": "{X10Y20}{Char Laguna}{Line}«Я истребил {Var 32} монстра(ов)!»{End}",
         "Source Text SHA256": "A43FC5EBA8B6AA385C094FC41C3BF8016E582F82AF035BF40425165FF1D5FC80",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -210,7 +210,7 @@
         }
       },
       "$en_gflain2_0026": {
-        "Target": "{X160Y12}Raine{Line}Отлично! Спасибо.{End}",
+        "Target": "{X160Y12}Рейн{Line}«Отлично! Спасибо».{End}",
         "Source Text SHA256": "653076196D628AD429FA0ABAA6292C3B4119E18CFC0C65FA4DD1DE175B652CDD",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -218,7 +218,7 @@
         }
       },
       "$en_gflain2_0027": {
-        "Target": "{X160Y12}Raine{Line}Может, поедим, пока вы{Line} не начали следующее патрулирование?{End}",
+        "Target": "{X160Y12}Рейн{Line}«Может, поедим, пока вы{Line} не начали следующее патрулирование?»{End}",
         "Source Text SHA256": "B6CD23A3D830BBCCDF616CD4B0FE6112235936FC16BA3A1AFAE64A6D31964396",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -226,7 +226,7 @@
         }
       },
       "$en_gflain2_0028": {
-        "Target": "{X160Y12}Raine{Line}Я позову, когда всё будет готово.{Line} А пока {Color Blue}подождите у{Color White}{Next}себя [дома]. Похоже, ты весьма{Line} устал. Тебе следует немного вздремнуть.{End}",
+        "Target": "{X160Y12}Рейн{Line}«Я позову, когда всё будет готово.{Line} А пока {Color Blue}подождите у{Color White}{Next}себя [дома]. Похоже, ты весьма{Line} устал. Тебе следует немного вздремнуть».{End}",
         "Source Text SHA256": "248C762558BA3675B38A9A4E556777BDB6FBF6ACB55E3B95E236E14C7A9022B4",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -234,7 +234,7 @@
         }
       },
       "$en_gflain2_0029": {
-        "Target": "{X160Y12}Ellone{Line}Давайте поедим, давайте поедим!{Line} Давайте поедим все вместе!{End}",
+        "Target": "{X160Y12}Эллона{Line}«Давайте поедим, давайте поедим!{Line} Давайте поедим все вместе!»{End}",
         "Source Text SHA256": "1C512D7C7EA043BE3E384462B89B03F207179E36A06B6388A2871BEB407A4ABB",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -242,7 +242,7 @@
         }
       },
       "$en_gflain2_0030": {
-        "Target": "{X160Y12}Ellone{Line}Вы ведь тоже плисоединитесь к нам, да, мистел Килос?!{End}",
+        "Target": "{X160Y12}Эллона{Line}«Вы ведь тоже плисоединитесь к нам, да, мистел Килос?!»{End}",
         "Source Text SHA256": "65BA24497A32AA90C59026E8C95D8B7140FA7090C26393CEC5FA55950B969220",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -250,7 +250,7 @@
         }
       },
       "$en_gflain2_0031": {
-        "Target": "{X160Y12}Ellone{Line}Значит, у нас я с Лейн{Line} и дядя Лагуна с мистелом Килосом!{End}",
+        "Target": "{X160Y12}Эллона{Line}«Значит, у нас я с Лейн{Line} и дядя Лагуна с мистелом Килосом!»{End}",
         "Source Text SHA256": "07C2D505118B80BBA8E0AC73CAEFBD73E2E344672D0F32061B06FBCCD8831F2B",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -274,7 +274,7 @@
         }
       },
       "$en_gflain2_0034": {
-        "Target": "Лагуна{Line}«Спасибо, Элли!»{Next}«Ободряющие слова помощницы{Line} командира Элли придают мне сил!»{End}",
+        "Target": "{Char Laguna}{Line}«Спасибо, Элли!»{Next}«Ободряющие слова помощницы{Line} командира Элли придают мне сил!»{End}",
         "Source Text SHA256": "2D2942DCF6C0F2A60FCE1FB6BDB0938B21782FE1823344C043CA52BF6166B416",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -290,7 +290,7 @@
         }
       },
       "$en_gflain2_0036": {
-        "Target": "{X160Y12}Ellone{Line}Доложи командилу!{End}",
+        "Target": "{X160Y12}Эллона{Line}«Доложи командилу!»{End}",
         "Source Text SHA256": "1A69D265BFE14B3204E677007E0F618F298F7B5554824FE9F2922144F6EF371B",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -314,7 +314,7 @@
         }
       },
       "$en_gflain2_0039": {
-        "Target": "Кирос{Line}«У тебя долги?»{End}",
+        "Target": "{Char Kiros}{Line}«У тебя долги?»{End}",
         "Source Text SHA256": "1858FC0C6F03C26DF0EE7CB2BBE7A6FAEFFAAC76862E471DF491086DE058C8FD",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -354,7 +354,7 @@
         }
       },
       "$en_gflain2_0044": {
-        "Target": "{X10Y12}Кирос{Line}«...У тебя долги?»{End}",
+        "Target": "{X10Y12}{Char Kiros}{Line}«...У тебя долги?»{End}",
         "Source Text SHA256": "DBD29FB7FFFE5D66DD13D81EFE4F34811B2A16698995B5C47CF1861F002241BA",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -370,7 +370,7 @@
         }
       },
       "$en_gflain2_0046": {
-        "Target": "{X10Y12}Кирос{Line}«Понятно».{End}",
+        "Target": "{X10Y12}{Char Kiros}{Line}«Понятно».{End}",
         "Source Text SHA256": "41F0AB1BFEF2F85DB45A53B8A6A07898BDF5DC68E8B4A5A50428634EE428977C",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -378,7 +378,7 @@
         }
       },
       "$en_gflain2_0047": {
-        "Target": "{X10Y12}Кирос{Line}«Лагуна?»{Next}«Разве ты не говорил,{Line} что хочешь отплатить за доброту?»{End}",
+        "Target": "{X10Y12}{Char Kiros}{Line}«Лагуна?»{Next}«Разве ты не говорил,{Line} что хочешь отплатить за доброту?»{End}",
         "Source Text SHA256": "4474C158271380750FB60DDF5D4B678C2AEDDF049C7844BC2384EBA2E5F588E2",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -386,7 +386,7 @@
         }
       },
       "$en_gflain2_0048": {
-        "Target": "{X10Y20}Лагуна{Line}«Ну, это с какой{Line} стороны посмотреть».{End}",
+        "Target": "{X10Y20}{Char Laguna}{Line}«Ну, это с какой{Line} стороны посмотреть».{End}",
         "Source Text SHA256": "4D5F0175256089623D0D935E12B5DA79922715A7CE4EFC633F980846CA318A01",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -394,7 +394,7 @@
         }
       },
       "$en_gflain2_0049": {
-        "Target": "{X10Y20}Лагуна{Line}«Для меня это способ{Line} отплатить за доброту».{End}",
+        "Target": "{X10Y20}{Char Laguna}{Line}«Для меня это способ{Line} отплатить за доброту».{End}",
         "Source Text SHA256": "A8B5EEAD2562986DCA6C049A5EA50C39996B098431090606B204715A75656D2E",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",
@@ -402,7 +402,7 @@
         }
       },
       "$en_gflain2_0050": {
-        "Target": "{X10Y12}Кирос{Line}«Отплатить за доброту и вернуть долг —{Line} разные вещи. Очень разные.{Line} Вообще-то совершенно разные!»{End}",
+        "Target": "{X10Y12}{Char Kiros}{Line}«Отплатить за доброту и вернуть долг —{Line} разные вещи. Очень разные.{Line} Вообще-то совершенно разные!»{End}",
         "Source Text SHA256": "0612B655892901A93093A9962CE6F8EC9E1619E14EE1B0B595418653E1F80064",
         "sourceContext": {
           "Source MSD SHA256": "42FBD933080958598AF6A179881C757A543FEEFD9F9AD697A1F973BBBB5B9978",

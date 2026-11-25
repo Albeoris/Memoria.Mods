@@ -2,7 +2,7 @@
   "Fields": {
     "dosea_2": {
       "$en_dosea_2_0000": {
-        "Target": "{X10Y150}Seifer{Line}Выдвигаемся.{End}",
+        "Target": "{X10Y150}{Char Seifer}{Line}«Выдвигаемся».{End}",
         "Source Text SHA256": "BEA30443A012FF491B00E4DDEB9C8C6CE5692A95B4C0ABA79AAD7188B4CAC333",
         "sourceContext": {
           "Source MSD SHA256": "56065605DE76EA37D8C6354A882587AE8D7F8803E611E41CB22795E20EA1A327",
@@ -10,7 +10,7 @@
         }
       },
       "$en_dosea_2_0001": {
-        "Target": "{X150Y150}Quistis{Line}”Хорошо, вы обеспечиваете{Line} безопасность {Color Blue}[Центральной площади]!{Color White}!“{End}",
+        "Target": "{X150Y150}{Char Quistis}{Line}«Хорошо, вы обеспечиваете{Line} безопасность {Color Blue}[Центральной площади]!{Color White}!»{End}",
         "Source Text SHA256": "1B5C64AE52937E9948B38771D038064D61E5AB72B1F7E76FA50988775094FF2B",
         "sourceContext": {
           "Source MSD SHA256": "56065605DE76EA37D8C6354A882587AE8D7F8803E611E41CB22795E20EA1A327",
@@ -18,7 +18,7 @@
         }
       },
       "$en_dosea_2_0002": {
-        "Target": "{X150Y150}Quistis{Line}Перед тем, {Color Yellow}как вступать{Color White}{Line} в битву, проверьте привязку ЗС!{End}",
+        "Target": "{X150Y150}{Char Quistis}{Line}«Перед тем, {Color Yellow}как вступать{Color White}{Line} в битву, проверьте привязку ЗС!»{End}",
         "Source Text SHA256": "F074347E915674A8B0A87449D1D106259E715B68F8A83F871D940880EBEFFE8B",
         "sourceContext": {
           "Source MSD SHA256": "56065605DE76EA37D8C6354A882587AE8D7F8803E611E41CB22795E20EA1A327",
@@ -26,7 +26,7 @@
         }
       },
       "$en_dosea_2_0003": {
-        "Target": "{X150Y150}Квистис{Line}«Что вы здесь делаете?!{Line} Живо на свой пост!»{End}",
+        "Target": "{X150Y150}{Char Quistis}{Line}«Что вы здесь делаете?!{Line} Живо на свой пост!»{End}",
         "Source Text SHA256": "4DD120CB855394A764E7BC287151E3BDB83AD87D042EC19C363320C394B079AD",
         "sourceContext": {
           "Source MSD SHA256": "56065605DE76EA37D8C6354A882587AE8D7F8803E611E41CB22795E20EA1A327",
@@ -34,7 +34,7 @@
         }
       },
       "$en_dosea_2_0004": {
-        "Target": "{X150Y150}Квистис{Line}«Быстро!»{End}",
+        "Target": "{X150Y150}{Char Quistis}{Line}«Быстро!»{End}",
         "Source Text SHA256": "CFFEAD3324E75659DA1D9AE876D9163C9B9B85CAB46B3D073D489B4B93A61799",
         "sourceContext": {
           "Source MSD SHA256": "56065605DE76EA37D8C6354A882587AE8D7F8803E611E41CB22795E20EA1A327",
@@ -42,7 +42,7 @@
         }
       },
       "$en_dosea_2_0005": {
-        "Target": "{X10Y10}Зелл{Line}«Ну и кто это сломал?»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Ну и кто это сломал?»{End}",
         "Source Text SHA256": "427B84E3BFA3288C54EC281E5831F8782A2B47DFF1BF599D4BC021CC591C42C2",
         "sourceContext": {
           "Source MSD SHA256": "56065605DE76EA37D8C6354A882587AE8D7F8803E611E41CB22795E20EA1A327",
@@ -58,7 +58,7 @@
         }
       },
       "$en_dosea_2_0007": {
-        "Target": "{X150Y150}Сельфи{Line}«…?»{End}",
+        "Target": "{X150Y150}{Char Selphie}{Line}«…?»{End}",
         "Source Text SHA256": "E08F9C2A321D680E332BD5D9D4A4C176F72DAF079BEDE47B535382E03E87269A",
         "sourceContext": {
           "Source MSD SHA256": "56065605DE76EA37D8C6354A882587AE8D7F8803E611E41CB22795E20EA1A327",

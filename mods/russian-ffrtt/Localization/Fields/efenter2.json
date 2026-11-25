@@ -2,7 +2,7 @@
   "Fields": {
     "efenter2": {
       "$en_efenter2_0000": {
-        "Target": "{X40Y160}”...“{End}",
+        "Target": "{X40Y160}«...»{End}",
         "Source Text SHA256": "C6EA13D8C445339C39A94EAF3C24167236B86AC3AB4416A4F14E2D61988C42FC",
         "sourceContext": {
           "Source MSD SHA256": "93478384E85271A95F9D0EBA9CF5EC63931C5856FCC5A771A8F90857A1A84E79",
@@ -26,7 +26,7 @@
         }
       },
       "$en_efenter2_0003": {
-        "Target": "Sentry{Line}Вход на эту{Line} территорию воспрещён.{End}",
+        "Target": "Часовой{Line}«Вход на эту{Line} территорию воспрещён».{End}",
         "Source Text SHA256": "B3917EC661B1914CF260203AD0D164835C40A82173B9A88F5709FD1367AEDBAC",
         "sourceContext": {
           "Source MSD SHA256": "93478384E85271A95F9D0EBA9CF5EC63931C5856FCC5A771A8F90857A1A84E79",
@@ -50,7 +50,7 @@
         }
       },
       "$en_efenter2_0004": {
-        "Target": "{X55Y120}Sentry{Line}Хотите попрощаться с вашим другом?{End}",
+        "Target": "{X55Y120}Часовой{Line}«Хотите попрощаться с вашим другом?»{End}",
         "Source Text SHA256": "72F09F582F3F6EF8FE898EADF40B0FD6DC0ADC572D450AE361A7643916F28EC4",
         "sourceContext": {
           "Source MSD SHA256": "93478384E85271A95F9D0EBA9CF5EC63931C5856FCC5A771A8F90857A1A84E79",
@@ -58,7 +58,7 @@
         }
       },
       "$en_efenter2_0005": {
-        "Target": "{X12Y120}Sentry{Line}Я сделаю для вас исключение. Проходите.{End}",
+        "Target": "{X12Y120}Часовой{Line}«Я сделаю для вас исключение. Проходите».{End}",
         "Source Text SHA256": "6695F8D307F0DAA1EDD1CD879B76CD0BC3D0EBBEA65879B1DB1D9B8358B16601",
         "sourceContext": {
           "Source MSD SHA256": "93478384E85271A95F9D0EBA9CF5EC63931C5856FCC5A771A8F90857A1A84E79",

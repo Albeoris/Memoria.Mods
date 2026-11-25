@@ -26,7 +26,7 @@
         }
       },
       "$en_ebcont1_0001": {
-        "Target": "{X8Y30}{Char Squall}{Line}Мы пришли за Эллоной.{End}",
+        "Target": "{X8Y30}{Char Squall}{Line}«Мы пришли за Эллоной».{End}",
         "Source Text SHA256": "4276AA150574BE1DC17F217AF059C950491BF48A3D5965B7A93F081BDD69BCA5",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ebcont1_0002": {
-        "Target": "{X160Y15}Seifer{Line}Похоже, у нас гости.{Line} Покажите им нашу гостеприимность.{End}",
+        "Target": "{X160Y15}{Char Seifer}{Line}«Похоже, у нас гости.{Line} Покажите им нашу гостеприимность».{End}",
         "Source Text SHA256": "CB50B813B4882A54BFD74AABC98E00508401EAED3FDF654E9A31925F01290B7B",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ebcont1_0003": {
-        "Target": "{X300Y80}Fujin{Line}РАЙДЗИН, СТОЙ!{End}",
+        "Target": "{X300Y80}Фудзин{Line}«РАЙДЗИН, СТОЙ!»{End}",
         "Source Text SHA256": "BB05C0E3DE9FD5350CD30A2A845596B0BB31748768F2C888E5310BF047F84F1E",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ebcont1_0004": {
-        "Target": "{X160Y15}Seifer{Line}В чём дело?{End}",
+        "Target": "{X160Y15}{Char Seifer}{Line}«В чём дело?»{End}",
         "Source Text SHA256": "FE34C57C754F4A414708A1C52EEEECC2E6005B55E6071744DF9A92AFAE145D3A",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ebcont1_0005": {
-        "Target": "{X60Y40}Raijin{Line}С нас хватит, знаешь ли...{End}",
+        "Target": "{X60Y40}Райдзин{Line}«С нас хватит, знаешь ли...»{End}",
         "Source Text SHA256": "D7085F81C9D122E5D0224424A88D55809F14FA6EC68900C538CBBCEC1BEED18E",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ebcont1_0006": {
-        "Target": "{X300Y80}Fujin{Line}ИДИ.{End}",
+        "Target": "{X300Y80}Фудзин{Line}«ИДИ.»{End}",
         "Source Text SHA256": "72017D6E67ACC4EF4E166381857D37CC791F0E0AEFDD2239F78313046DB44314",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ebcont1_0007": {
-        "Target": "{X8Y30}{Char Squall}{Line}Жди снаружи.{Line} Лагуна скоро придёт.{End}",
+        "Target": "{X8Y30}{Char Squall}{Line}«Жди снаружи.{Line} Лагуна скоро придёт».{End}",
         "Source Text SHA256": "1BDB3767960208740B43E7AD5BF92BD04819A7B837EFB9ED4DDC9F46C8AE3D02",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ebcont1_0008": {
-        "Target": "{X8Y30}{Char Squall}{Line}Так и будешь продолжать свою{Line} блажь с рыцарством?{End}",
+        "Target": "{X8Y30}{Char Squall}{Line}«Так и будешь продолжать свою{Line} блажь с рыцарством?»{End}",
         "Source Text SHA256": "203F805E40456E41DFC766F8118D77D80F9A0DA96D07E6B09015B914BBD01B0D",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ebcont1_0009": {
-        "Target": "{X160Y40}Seifer{Line}Рыцарь ушёл на покой.{End}",
+        "Target": "{X160Y40}{Char Seifer}{Line}«Рыцарь ушёл на покой».{End}",
         "Source Text SHA256": "D4D59D70DEA29F58CC2B9FCE7F5F112E821755A17DCA0FD3A9FEE7A375B49067",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ebcont1_0010": {
-        "Target": "{X160Y40}Seifer{Line}Полагаю, меня теперь можно{Line} назвать молодым революционером.{End}",
+        "Target": "{X160Y40}{Char Seifer}{Line}«Полагаю, меня теперь можно{Line} назвать молодым революционером».{End}",
         "Source Text SHA256": "6CBC0121ABF15331E7CA2FD43C1479859866E68B3FA82B9FC617B4057B8EE8DE",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ebcont1_0011": {
-        "Target": "{X8Y30}{Char Squall}{Line}И что же, по-твоему, ты делаешь?{End}",
+        "Target": "{X8Y30}{Char Squall}{Line}«И что же, по-твоему, ты делаешь?»{End}",
         "Source Text SHA256": "875D4ABC4A33ED745347F495ED7176513A0D6099588CCD11E5C68E310D553E2F",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ebcont1_0012": {
-        "Target": "{X160Y40}Seifer{Line}Я всегда должен{Line} делать что-то ВАЖНОЕ!{End}",
+        "Target": "{X160Y40}{Char Seifer}{Line}«Я всегда должен{Line} делать что-то ВАЖНОЕ!»{End}",
         "Source Text SHA256": "C74D86184C3E406EBE27A209CC7A24F7DA9C1FC57BD7B19C61DA707FEA739B9A",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ebcont1_0013": {
-        "Target": "{X160Y40}Seifer{Line}Я не хочу{Line} останавливаться. Я буду продолжать!{End}",
+        "Target": "{X160Y40}{Char Seifer}{Line}«Я не хочу{Line} останавливаться. Я буду продолжать!»{End}",
         "Source Text SHA256": "D1CE250E2975543125E73E50093D94AE250E27C14FCEEF276C7562B681597E95",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ebcont1_0014": {
-        "Target": "{X160Y40}Seifer{Line}Я уже так далеко{Line} зашёл... Я доведу дело до конца, до цели!{End}",
+        "Target": "{X160Y40}{Char Seifer}{Line}«Я уже так далеко{Line} зашёл... Я доведу дело до конца, до цели!»{End}",
         "Source Text SHA256": "B683FC6A75A24E0430EFE04D8B2487894E0C7EA778C08C1412809DEC1BEACFBF",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ebcont1_0015": {
-        "Target": "{X160Y40}Seifer{Line}И я не{Line} стану делить её с тобой!{End}",
+        "Target": "{X160Y40}{Char Seifer}{Line}«И я не{Line} стану делить её с тобой!»{End}",
         "Source Text SHA256": "F35FB9418D9F9CF4467AACD5467864CAFF3FC3FA6F743614949739725FDF6939",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ebcont1_0017": {
-        "Target": "{X160Y50}{Char Rinoa}{Line}Сейфер...{End}",
+        "Target": "{X160Y50}{Char Rinoa}{Line}«Сейфер...»{End}",
         "Source Text SHA256": "05AC6B289C51E331B2AFF3B8A3EF30A5A66B1F52D157AEF7EA609629AE28B883",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ebcont1_0018": {
-        "Target": "{X8Y30}Seifer{Line}Ещё{Next}нет!{Line} Это ещё не конец, {Char Squall}!!!!!!“{End}",
+        "Target": "{X8Y30}{Char Seifer}{Line}«Ещё{Next}нет!{Line} Это ещё не конец, {Char Squall}!!!!!!»{End}",
         "Source Text SHA256": "A1F46CAE3402201B59D41336F84AA8D389443856E425FA9115AF6843765B558C",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ebcont1_0019": {
-        "Target": "{X8Y180}{Char Rinoa}{Line}”{Char Squall}!!!!!!“{End}",
+        "Target": "{X8Y180}{Char Rinoa}{Line}«{Char Squall}!!!!!!»{End}",
         "Source Text SHA256": "5BE965A396EF0993C228BAC12C3C2134AFF1E55338044A7DF907DB529370E8A2",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -178,7 +178,7 @@
         }
       },
       "$en_ebcont1_0020": {
-        "Target": "{X160Y50}{Char Squall}{Line}”{Char Rinoa}?!!?“{End}",
+        "Target": "{X160Y50}{Char Squall}{Line}«{Char Rinoa}?!!?»{End}",
         "Source Text SHA256": "2425406F0340977CDFD6C8535ACF4D0DB5E4DDC5BF28D870571953CC34E062C5",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ebcont1_0021": {
-        "Target": "{X8Y30}Зелл{Line}«{Char Squall}!!!{Line} Сейфер схватил {Char Rinoa}!»{End}",
+        "Target": "{X8Y30}{Char Zell}{Line}«{Char Squall}!!!{Line} Сейфер схватил {Char Rinoa}!»{End}",
         "Source Text SHA256": "64BCC9A500CEDD50D51AF099EF7876F3EAA646471D986EE821752E5CAAA40022",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -194,7 +194,7 @@
         }
       },
       "$en_ebcont1_0022": {
-        "Target": "{X8Y30}Quistis{Line}”{Char Squall}{Line} ! С-сейфер забрал {Char Rinoa}!!“{End}",
+        "Target": "{X8Y30}{Char Quistis}{Line}«{Char Squall}!{Line} С-сейфер забрал {Char Rinoa}!!»{End}",
         "Source Text SHA256": "3241724628503D55939BB3675A6FD008FCDBEEF7CAF4FC241C6731D93AA6B318",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -202,7 +202,7 @@
         }
       },
       "$en_ebcont1_0023": {
-        "Target": "{X8Y30}Селфи{Line}«{Char Squall}!!!{Line} Сейфер схватил {Char Rinoa}!»{End}",
+        "Target": "{X8Y30}{Char Selphie}{Line}«{Char Squall}!!!{Line} Сейфер схватил {Char Rinoa}!»{End}",
         "Source Text SHA256": "A69BDA84D855E50B791C6B32FC19CC79C4D2EC58D66CC7BB28A0348F6F2C6511",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -210,7 +210,7 @@
         }
       },
       "$en_ebcont1_0024": {
-        "Target": "Ирвин{Line}«У Сайфера {Char Rinoa}!!!»{End}",
+        "Target": "{Char Irvine}{Line}«У Сайфера {Char Rinoa}!!!»{End}",
         "Source Text SHA256": "4EC1B50BD46E8A02A2C1A5BCA4D007C170EEAFD7F19015301C3DAFA7781B8400",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -218,7 +218,7 @@
         }
       },
       "$en_ebcont1_0025": {
-        "Target": "{X8Y30}Зелл{Line}«П-прости...{Line} {Char Rinoa}... Она и слушать не стала.{Line} Сказала, что будет рядом с тобой, чего бы это ни стоило.»{End}",
+        "Target": "{X8Y30}{Char Zell}{Line}«П-прости...{Line} {Char Rinoa}... Она и слушать не стала.{Line} Сказала, что будет рядом с тобой, чего бы это ни стоило».{End}",
         "Source Text SHA256": "8676918EA1387B9AF93BB5B356281AC213EE46DDAF630475D55AECCB58E80697",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -226,7 +226,7 @@
         }
       },
       "$en_ebcont1_0026": {
-        "Target": "{X8Y30}Квистис{Line}«П-прости.{Line} {Char Rinoa} твердила, что хочет быть{Line} с тобой... Я не смогла её остановить.»{End}",
+        "Target": "{X8Y30}{Char Quistis}{Line}«П-прости.{Line} {Char Rinoa} твердила, что хочет быть{Line} с тобой... Я не смогла её остановить».{End}",
         "Source Text SHA256": "A0043025293CA17895C8613E7F920F4421AB904593295114363877618063FF87",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -234,7 +234,7 @@
         }
       },
       "$en_ebcont1_0027": {
-        "Target": "{X8Y30}Селфи{Line}«Прости...{Line} {Char Rinoa} сказала, что ДОЛЖНА быть с тобой.{Line} Вот она и пришла...»{End}",
+        "Target": "{X8Y30}{Char Selphie}{Line}«Прости...{Line} {Char Rinoa} сказала, что ДОЛЖНА быть с тобой.{Line} Вот она и пришла...»{End}",
         "Source Text SHA256": "9BDCD1408C85FD3696C59874C7BFDA3E2CA1801DF495D362920C3F30DDD3C34E",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -242,7 +242,7 @@
         }
       },
       "$en_ebcont1_0028": {
-        "Target": "Ирвайн{Line}«Ну, {Char Rinoa} так хотела быть рядом с тобой.{Line} Вот я и привёл её...{Line} Прости...»{End}",
+        "Target": "{Char Irvine}{Line}«Ну, {Char Rinoa} так хотела быть рядом с тобой.{Line} Вот я и привёл её...{Line} Прости...»{End}",
         "Source Text SHA256": "BBF126362E8C969403E9B2B11D466274C5DD48ACA13100B4F9CDD646A48CF3F9",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",
@@ -258,7 +258,7 @@
         }
       },
       "$en_ebcont1_0030": {
-        "Target": "{X8Y30}{Char Squall}{Line}Скорее за Сейфером!{End}",
+        "Target": "{X8Y30}{Char Squall}{Line}«Скорее за Сейфером!»{End}",
         "Source Text SHA256": "77F51991FDA8F7AF0651B6F0B6A137B21F6CAD5BBD7EC4BDF1A166C12291358C",
         "sourceContext": {
           "Source MSD SHA256": "98D1FF6CD13DDC7FF9D8DDB6C0882C0F33C629476BE266D17B41274F0D0DFA22",

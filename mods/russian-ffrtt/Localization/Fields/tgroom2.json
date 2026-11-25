@@ -2,7 +2,7 @@
   "Fields": {
     "tgroom2": {
       "$en_tgroom2_0000": {
-        "Target": "{X10Y10}Предоставьте эту малышку{Line} мне... Она у меня живо заработает.{End}",
+        "Target": "{X10Y10}«Предоставьте эту малышку{Line} мне... Она у меня живо заработает».{End}",
         "Source Text SHA256": "50B58CB1285EED1AAE51FCD0ED679A45007F4E790ED4C5DE964106491523D639",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -10,7 +10,7 @@
         }
       },
       "$en_tgroom2_0001": {
-        "Target": "{X10Y10}Мы - техотряд.{End}",
+        "Target": "{X10Y10}«Мы - техотряд».{End}",
         "Source Text SHA256": "7717F2FFE7E8B2A5A932EABDB74BADD4390C13E7BC2C8570E081911658DA8030",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -18,7 +18,7 @@
         }
       },
       "$en_tgroom2_0002": {
-        "Target": "{X100Y10}Эй...{Line} ребята, вы кто такие?{End}",
+        "Target": "{X100Y10}«Эй...{Line} ребята, вы кто такие?»{End}",
         "Source Text SHA256": "554BE40B232ABEB2461E9FF59DF1EAE1791904F4F1E325AABABEE15E49F26D5E",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -26,7 +26,7 @@
         }
       },
       "$en_tgroom2_0003": {
-        "Target": "{X100Y10}Мы — техотряд{Line} Сада Трабия.{End}",
+        "Target": "{X100Y10}«Мы — техотряд{Line} Сада Трабия».{End}",
         "Source Text SHA256": "4A3149D1EF053881695E31869D6CA06F3B39FEF7720A16E9D3721DFADB31192E",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -34,7 +34,7 @@
         }
       },
       "$en_tgroom2_0004": {
-        "Target": "{X100Y10}Мы разбиты на разные отряды,{Line} для оптимального использования наших специальностей.{End}",
+        "Target": "{X100Y10}«Мы разбиты на разные отряды,{Line} для оптимального использования наших специальностей».{End}",
         "Source Text SHA256": "7DE10E9415F5C6D5B210E2CCDBCC1807D4A4DEFFD7BC9873450F014B9035F8FF",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -82,7 +82,7 @@
         }
       },
       "$en_tgroom2_0010": {
-        "Target": "{X10Y10}……{Pause 80}{Line} …{Pause 48}…{Pause 48}!!ВНИМАНИЕ!!…{Pause 48}…{Pause 48}{Line} Банк личных данных{End}",
+        "Target": "{X10Y10}«……{Pause 80}{Line} …{Pause 48}…{Pause 48}!!ВНИМАНИЕ!!…{Pause 48}…{Pause 48}{Line} Банк личных данных»{End}",
         "Source Text SHA256": "FCA5EEA592096599D04965159E092AA4D09199C57FF0DB9DF77427AEDD9C0959",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -106,7 +106,7 @@
         }
       },
       "$en_tgroom2_0013": {
-        "Target": "{X10Y10}Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Баламба и по нашим?{End}",
+        "Target": "{X10Y10}«Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Баламба и по нашим?»{End}",
         "Source Text SHA256": "CDFCDE4A87C4A74008D741263B2D029739B493D0855A1ED71F46FE6920CB775B",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -114,7 +114,7 @@
         }
       },
       "$en_tgroom2_0014": {
-        "Target": "{X10Y10}Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Галбадии и по нашим?{End}",
+        "Target": "{X10Y10}«Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Галбадии и по нашим?»{End}",
         "Source Text SHA256": "CC4C2C06E6A1658BA800E05159E5F45F83E615D12CD7328567C5B8DCCA812CD7",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -122,7 +122,7 @@
         }
       },
       "$en_tgroom2_0015": {
-        "Target": "{X10Y10}Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Трабии и по нашим?{End}",
+        "Target": "{X10Y10}«Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Трабии и по нашим?»{End}",
         "Source Text SHA256": "D37C5D400FA7AEDA311082848D9D4F1A4C487E748D7F5509BED51F96416B5E33",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -130,7 +130,7 @@
         }
       },
       "$en_tgroom2_0016": {
-        "Target": "{X10Y10}Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Центры и по нашим?{End}",
+        "Target": "{X10Y10}«Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Центры и по нашим?»{End}",
         "Source Text SHA256": "14A5D45E5C5E15387B752892E62E799AC29FE7AD3E40AE6A1DAE312D7FA261F9",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -138,7 +138,7 @@
         }
       },
       "$en_tgroom2_0017": {
-        "Target": "{X10Y10}Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Доллета и по нашим?{End}",
+        "Target": "{X10Y10}«Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Доллета и по нашим?»{End}",
         "Source Text SHA256": "9EAF8B2B4DA6A9951BEC671868E16BB97E31EA6A6C347C472297B276558DF429",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -146,7 +146,7 @@
         }
       },
       "$en_tgroom2_0018": {
-        "Target": "{X10Y10}Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Рыбацкого Горизонта и по нашим?{End}",
+        "Target": "{X10Y10}«Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Рыбацкого Горизонта и по нашим?»{End}",
         "Source Text SHA256": "26922C4639927ACD4250997570C9D2A878D02E06D007A2635F5C7EC37450A0C8",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -154,7 +154,7 @@
         }
       },
       "$en_tgroom2_0019": {
-        "Target": "{X10Y10}Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Лунной базы и по нашим?{End}",
+        "Target": "{X10Y10}«Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Лунной базы и по нашим?»{End}",
         "Source Text SHA256": "1B294B8B9DA82DB9989B934B7D53F32B12B4E2FED9EF54B2944B234E7CA3335A",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -162,7 +162,7 @@
         }
       },
       "$en_tgroom2_0020": {
-        "Target": "{X10Y10}Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Эстара и по нашим?{End}",
+        "Target": "{X10Y10}«Конечно, я умею играть{Line}по незнакомым здешним правилам.{Line}Не хотите сыграть по правилам{Line}Эстара и по нашим?»{End}",
         "Source Text SHA256": "204ED339740A49D523EEDCC581942A19BA72E98F247CC1A263AFF487F710C51B",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -418,7 +418,7 @@
         }
       },
       "$en_tgroom2_0038": {
-        "Target": "Баламб{End}",
+        "Target": "«Баламб»{End}",
         "Source Text SHA256": "871A0300D8AA38AE603035A5A5F60C8DA8ED46B229104983658126ACFB69FDED",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -434,7 +434,7 @@
         }
       },
       "$en_tgroom2_0040": {
-        "Target": "Трабия{End}",
+        "Target": "«Трабия»{End}",
         "Source Text SHA256": "12CF51F7E397AB3FB8CCB6CA25520A415813E46D417FD46E28FC16B14C8C64C3",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -442,7 +442,7 @@
         }
       },
       "$en_tgroom2_0041": {
-        "Target": "Центра{End}",
+        "Target": "«Центра»{End}",
         "Source Text SHA256": "D4184566D64E8547C54109BF91374B12DACE77F43C4D706DCC0146531F4993E7",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -450,7 +450,7 @@
         }
       },
       "$en_tgroom2_0042": {
-        "Target": "Доллет{End}",
+        "Target": "«Доллет»{End}",
         "Source Text SHA256": "46773D3A69B492298060ECD52D98A38E46845EF2A5D2FFA1FABF6A83B0A722EC",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -474,7 +474,7 @@
         }
       },
       "$en_tgroom2_0045": {
-        "Target": "Эстар{End}",
+        "Target": "«Эстар»{End}",
         "Source Text SHA256": "58400EFBC3A84DCEE059DA50B57791E00C52344C9E7B9880ED4B38461DBE3746",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",
@@ -482,7 +482,7 @@
         }
       },
       "$en_tgroom2_0046": {
-        "Target": "Без дополнительных правил{End}",
+        "Target": "«Без дополнительных правил»{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "D2634B147875F9B31D0907B223417F8E552F7B1B38C269EE08D95B118395659F",

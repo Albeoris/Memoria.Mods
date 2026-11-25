@@ -26,7 +26,7 @@
         }
       },
       "$en_glrent1_0003": {
-        "Target": "{X10Y10F3L4B3C4}Salesclerk{Line}”Хотите арендовать машину? Всего 3 500 гилей.{Line} В машине вам будет намного безопаснее.“{Line}Взять машину напрокат{Line}Забудь об этом{End}",
+        "Target": "{X10Y10F3L4B3C4}Продавец{Line}«Хотите арендовать машину? Всего 3 500 гилей.{Line} В машине вам будет намного безопаснее».{Line}Взять машину напрокат{Line}Забудь об этом{End}",
         "Source Text SHA256": "9494B6938BC3CE4E24930B9CDACC77F1B4E58750C994BE1DB3E5D325DCEBA7AF",
         "sourceContext": {
           "Source MSD SHA256": "03DB2B4E9AF8CFEB49B326F6745E30C3A64ABB432C6952A0C62D13152F92CD5E",
@@ -34,7 +34,7 @@
         }
       },
       "$en_glrent1_0004": {
-        "Target": "{X10Y10}Продавец{Line}Мы закрыты.{End}",
+        "Target": "{X10Y10}Продавец{Line}«Мы закрыты».{End}",
         "Source Text SHA256": "6873F720E291ECBFC40C816A04C14EAECC1462F398234C7F15440FD5D17D0BFE",
         "sourceContext": {
           "Source MSD SHA256": "03DB2B4E9AF8CFEB49B326F6745E30C3A64ABB432C6952A0C62D13152F92CD5E",
@@ -42,7 +42,7 @@
         }
       },
       "$en_glrent1_0005": {
-        "Target": "{X10Y10}Продавец{Line}У вас не хватает денег.{End}",
+        "Target": "{X10Y10}Продавец{Line}«У вас не хватает денег».{End}",
         "Source Text SHA256": "99164E31640051E65949486152763E5B7909589EBF7711EDE8E74ADECAB55558",
         "sourceContext": {
           "Source MSD SHA256": "03DB2B4E9AF8CFEB49B326F6745E30C3A64ABB432C6952A0C62D13152F92CD5E",
@@ -50,7 +50,7 @@
         }
       },
       "$en_glrent1_0006": {
-        "Target": "{X40Y10}Galbadian Soldier{Line}Великая волшебница Эдея{Line} переместилась в{Line} Сад Гальбадии.{End}",
+        "Target": "{X40Y10}Солдат Гальбадии{Line}«Великая волшебница Эдея{Line} переместилась в{Line} Сад Гальбадии».{End}",
         "Source Text SHA256": "FAC0964F7091D843943E355608DFB10545D657E22703C957CABDBCACB9A58DFC",
         "sourceContext": {
           "Source MSD SHA256": "03DB2B4E9AF8CFEB49B326F6745E30C3A64ABB432C6952A0C62D13152F92CD5E",
@@ -58,7 +58,7 @@
         }
       },
       "$en_glrent1_0007": {
-        "Target": "{X10Y10}Солдат Гальбадии{Line}Теперь, когда Эдеи нет,{Line}нами командует Сейфер Алмаси.{End}",
+        "Target": "{X10Y10}Солдат Гальбадии{Line}«Теперь, когда Эдеи нет,{Line}нами командует Сейфер Алмаси».{End}",
         "Source Text SHA256": "50241886B13ADCD1BA9EC7D33DB26C17E164064424A81DB5B736F88C3DF6ACBF",
         "sourceContext": {
           "Source MSD SHA256": "03DB2B4E9AF8CFEB49B326F6745E30C3A64ABB432C6952A0C62D13152F92CD5E",

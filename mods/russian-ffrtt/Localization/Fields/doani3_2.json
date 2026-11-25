@@ -2,7 +2,7 @@
   "Fields": {
     "doani3_2": {
       "$en_doani3_2_0000": {
-        "Target": "{X150Y20F2L3B2C3}Selphie{Line}Хочешь спуститься?{Line}Спуститься{Line}Остаться{End}",
+        "Target": "{X150Y20F2L3B2C3}{Char Selphie}{Line}«Хочешь спуститься?»{Line}Спуститься{Line}Остаться{End}",
         "Source Text SHA256": "BA20132EA1D97A937A5A4BD9C35D0837F4EDA80339CC647F15AFF21FC6988301",
         "sourceContext": {
           "Source MSD SHA256": "9F739FF006B9EBC1918B8552B1D3A48F1FDDEA4010278C9A5D6D82D5794AA71E",
@@ -10,7 +10,7 @@
         }
       },
       "$en_doani3_2_0001": {
-        "Target": "{X20Y150}Биггз{Line}“......”",
+        "Target": "{X20Y150}Биггз{Line}«......»",
         "Source Text SHA256": "210EF235465C367C5EF52DF77FEDA50CAC28D8FA09B2A3DB09FCA49854D3B5B3",
         "sourceContext": {
           "Source MSD SHA256": "9F739FF006B9EBC1918B8552B1D3A48F1FDDEA4010278C9A5D6D82D5794AA71E",
@@ -18,7 +18,7 @@
         }
       },
       "$en_doani3_2_0002": {
-        "Target": "{X20Y150}Биггз{Line}“Аааааа...”",
+        "Target": "{X20Y150}Биггз{Line}«Аааааа...»",
         "Source Text SHA256": "C305ACB9E4115915B72DBD43F7F9B33B169AE6F33626AC04F11A456D300FECF6",
         "sourceContext": {
           "Source MSD SHA256": "9F739FF006B9EBC1918B8552B1D3A48F1FDDEA4010278C9A5D6D82D5794AA71E",

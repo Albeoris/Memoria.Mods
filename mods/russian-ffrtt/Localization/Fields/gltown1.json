@@ -34,7 +34,7 @@
         }
       },
       "$en_gltown1_0004": {
-        "Target": "{X10Y10}(Сейчас не до автобуса.){End}{End}{End}",
+        "Target": "{X10Y10}(Сейчас не до автобуса.){End}",
         "Source Text SHA256": "9B49E21231BC7522413AFC66868BAE958E44F61FF1C73A68F03A7492155E9D42",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gltown1_0005": {
-        "Target": "{X45Y190}{Color Blue}〖Особняк Каравея〗{Color White} Нажмите {Key Menu}, чтобы выйти.{End}{End}{End}",
+        "Target": "{X45Y190}{Color Blue}〖Особняк Каравея〗{Color White} Нажмите {Key Menu}, чтобы выйти.{End}",
         "Source Text SHA256": "41125AC02F886745F0C944CCDB7EC5E485A47F7303FFBE052B6E48A364B95A95",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gltown1_0006": {
-        "Target": "{X10Y10F2L3B2C3}{Color Blue}〖Вокзал Делинга〗{Color White}.{Line}Сесть в автобус?{Line}Да{Line}Нет{End}{End}{End}",
+        "Target": "{X10Y10F2L3B2C3}{Color Blue}〖Вокзал Делинга〗{Color White}.{Line}Сесть в автобус?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "83AC6939534BECE939EA19D9C18F362BB0868CAA028DEF7CCE9D12E3776BCD98",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gltown1_0007": {
-        "Target": "{X120Y10F2L3B2C3}{Color Blue}〖Резиденция президента〗{Color White}.{Line}Сесть в автобус?{Line}Да{Line}Нет{End}{End}{End}",
+        "Target": "{X120Y10F2L3B2C3}{Color Blue}〖Резиденция президента〗{Color White}.{Line}Сесть в автобус?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "CE2F951BCAC3435A245C8DBB00927364A4408C6F2D55106D7772C732EA9855AD",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gltown1_0008": {
-        "Target": "«Пожалуйста, дождитесь{Line} прибытия автобуса».{End}{End}{End}",
+        "Target": "«Пожалуйста, дождитесь{Line} прибытия автобуса».{End}",
         "Source Text SHA256": "7A42B755A690CBEA402C1CAFF224C03F430844F740EE05FE63569BDE0DD46456",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gltown1_0009": {
-        "Target": "{X10Y10}Дождитесь автобуса до{Line}{Color Blue}〖вокзала Делинга〗{Color White}.{Line}Подойдите ко мне, когда он будет здесь.{End}{End}{End}",
+        "Target": "{X10Y10}«Дождитесь автобуса до{Line}{Color Blue}〖вокзала Делинга〗{Color White}.{Line}Подойдите ко мне, когда он будет здесь».{End}",
         "Source Text SHA256": "3504EB85D99AF013F4E8D1BAEA7F2E2A2151FC34EBEE9C612A680C1A7536F926",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gltown1_0010": {
-        "Target": "{X65Y10}Дождитесь автобуса до{Line}{Color Blue}〖резиденции президента〗{Color White}.{Line}Подойдите ко мне, когда он будет здесь.{End}{End}{End}",
+        "Target": "{X65Y10}«Дождитесь автобуса до{Line}{Color Blue}〖резиденции президента〗{Color White}.{Line}Подойдите ко мне, когда он будет здесь».{End}",
         "Source Text SHA256": "8204CF1B66BFFB368BBC86D931C6BAA17A21079400792905E205C13DC91AC8D9",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gltown1_0011": {
-        "Target": "{X10Y10}Солдат Гальбадии{Line}Проход закрыт{Line}до конца президентской церемонии.{End}{End}{End}",
+        "Target": "{X10Y10}Солдат Гальбадии{Line}«Проход закрыт{Line}до конца президентской церемонии».{End}",
         "Source Text SHA256": "A2D8F61A55E1BA7C23C99DDFABF0E61CF6E5CDDE954D93B140DD36AD57414FB3",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gltown1_0012": {
-        "Target": "{X30Y10}(Карвэй – бывший глава гальбадианской армии... Неужели он{Line} хочет устроить государственный переворот?) (Нет...{Next}не думаю, что он{Line} ушёл в отставку, чтобы свергнуть президента...){End}{End}{End}",
+        "Target": "{X30Y10}(Карвэй – бывший глава гальбадианской армии... Неужели он{Line} хочет устроить государственный переворот?) (Нет...{Next}не думаю, что он{Line} ушёл в отставку, чтобы свергнуть президента...){End}",
         "Source Text SHA256": "E9D3122DC106F312AFB45B7973F691EF57E9A9924059B37C46C7319B7832AFBE",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gltown1_0013": {
-        "Target": "{X10Y10}General Caraway{Line}Она будет проведена в президентском дворце.{End}{End}{End}",
+        "Target": "{X10Y10}Генерал Карвэй{Line}«Она будет проведена в президентском дворце».{End}",
         "Source Text SHA256": "D0BF10BA1221918AAC938EEACE789B1111A8FAC43BD8E3FB6D8AE5F50BEC337F",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gltown1_0014": {
-        "Target": "{X138Y10}Парад волшебницы...{Line}Интересно, как это будет?{End}{End}{End}",
+        "Target": "{X138Y10}«Парад волшебницы...{Line}Интересно, как это будет?»{End}",
         "Source Text SHA256": "8072D7CE85C9844914908AE08DFB39305FE21A26796401A4E81781340D93CE49",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gltown1_0015": {
-        "Target": "{X10Y10}Вот это личность.{End}{End}{End}",
+        "Target": "{X10Y10}«Вот это личность».{End}",
         "Source Text SHA256": "0028EDBA835340D629A7B45686B59D166FD85524C4B5831B078820AA1ACF8CEF",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gltown1_0016": {
-        "Target": "{X54Y144}Irvine{Line}Слушай...{Line} Сиды правда не должны задавать{Line} вопросов о своей миссии?{End}{End}{End}",
+        "Target": "{X54Y144}{Char Irvine}{Line}«Слушай...{Line} Сиды правда не должны задавать{Line} вопросов о своей миссии?»{End}",
         "Source Text SHA256": "C9DA6E018002F037718C60472411D626751B9F9F88ADE987420CFD3E900D898C",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gltown1_0017": {
-        "Target": "{X10Y156}(Иногда мне тоже хочется что-нибудь спросить. Как{Line} вот... сейчас, например.{Line} Но...){End}{End}{End}",
+        "Target": "{X10Y156}(Иногда мне тоже хочется что-нибудь спросить. Как{Line} вот... сейчас, например.{Line} Но...){End}",
         "Source Text SHA256": "723D60B6F281D2754515C535AA271EC940D9618BD9B18801504E062570EE0BC4",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gltown1_0018": {
-        "Target": "{X84Y150}Caraway’s Guard{Line}Поместье генерала Карвэя находится прямо за этими воротами, но...{Line} Я не могу позволить{Next}вам просто так войти.{End}{End}{End}",
+        "Target": "{X84Y150}Охранник Карауэя{Line}«Поместье генерала Карвэя находится прямо за этими воротами, но...{Line} Я не могу позволить{Next}вам просто так войти».{End}",
         "Source Text SHA256": "972FD719EB7E93DFF36F66391516326DFE7E00EB1FA6B70AD8EAA675078A1772",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gltown1_0019": {
-        "Target": "{X10Y10}{Char Squall}{Line}Я уверен, что{Line} он проинформирован о нашем прибытии.{End}{End}{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}«Я уверен, что{Line} он проинформирован о нашем прибытии».{End}",
         "Source Text SHA256": "74177E79A72AA44B4AD237923B07C2F281C54708C34A645B5329C9F3CFEC259D",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gltown1_0020": {
-        "Target": "{X60Y150}Caraway’s Guard{Line}Да,{Next}действительно, но...{Line} Мне было приказано испытать вас, перед тем как впускать.{End}{End}{End}",
+        "Target": "{X60Y150}Охранник Карауэя{Line}«Да,{Next}действительно, но...{Line} Мне было приказано испытать вас, перед тем как впускать».{End}",
         "Source Text SHA256": "0E59AA23C6E20E984F489F91301645045D6A99239468753A24BBCF4385826BF8",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -170,7 +170,7 @@
         }
       },
       "$en_gltown1_0021": {
-        "Target": "{X10Y10}Zell{Line}О чём он, чёрт побери, говорит?!{End}{End}{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«О чём он, чёрт побери, говорит?!»{End}",
         "Source Text SHA256": "CE9F6B853841460EA12DC26BA62B3ABB875B44B497C86DE605684CEB8A38DF4F",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -178,7 +178,7 @@
         }
       },
       "$en_gltown1_0022": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}Он всё ещё так скептично относится к людям.{End}{End}{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«Он всё ещё так скептично относится к людям».{End}",
         "Source Text SHA256": "E1AA1E586C867A5F91B452AE3D8E95A96DE36531CADD816896168B5BDCB43165",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -186,7 +186,7 @@
         }
       },
       "$en_gltown1_0023": {
-        "Target": "{X10Y10}Selphie{Line}Мы сиды, понимаете!{End}{End}{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Мы сиды, понимаете!»{End}",
         "Source Text SHA256": "311C5B62F60DAE021D2AE504782F5BEADCB528FE22648B13E729F33A65385AD0",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -194,7 +194,7 @@
         }
       },
       "$en_gltown1_0024": {
-        "Target": "{X10Y10}Quistis{Line}Заметно...{End}{End}{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Заметно...»{End}",
         "Source Text SHA256": "E2031FE564B7EB776AFF32935C2331D9B905E10B91CB8FFF4A629DE3C3D8FCE9",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -202,7 +202,7 @@
         }
       },
       "$en_gltown1_0025": {
-        "Target": "{X10Y10}{Char Squall}{Line}Проверить наши способности? Что{Line} он хочет, чтобы мы сделали?{End}{End}{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}«Проверить наши способности? Что{Line} он хочет, чтобы мы сделали?»{End}",
         "Source Text SHA256": "CCD6CA6335BBF5A74275501827F312D53ED77ECB89A8173AAD22F97249D03978",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -210,7 +210,7 @@
         }
       },
       "$en_gltown1_0026": {
-        "Target": "{X74Y150}Caraway’s Guard{Line}На {Color Blue}северо-востоке отсюда находится [Гробница{Color White}{Line} неизвестного короля]. Всё, что{Next}вам нужно сделать, это сходить{Line} туда. Это очень просто,{Next}но... Вы должны принести доказательство того, что{Line} вы там были. Кодовый номер.{End}{End}{End}",
+        "Target": "{X74Y150}Охранник Карауэя{Line}«На {Color Blue}северо-востоке отсюда находится [Гробница{Color White}{Line} неизвестного короля]. Всё, что{Next}вам нужно сделать, это сходить{Line} туда. Это очень просто,{Next}но... Вы должны принести доказательство того, что{Line} вы там были. Кодовый номер».{End}",
         "Source Text SHA256": "600469FE357511CAAAAA7898D998E9D40D53C29F9C29D00F4FCD83971054C202",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -218,7 +218,7 @@
         }
       },
       "$en_gltown1_0027": {
-        "Target": "{X10Y10}{Char Squall}{Line}Кодовый номер?{End}{End}{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}«Кодовый номер?»{End}",
         "Source Text SHA256": "33BED8D26B28E8315B10DE1FD9B57900023E87C27821D44232D27FCDE061EC68",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -226,7 +226,7 @@
         }
       },
       "$en_gltown1_0028": {
-        "Target": "{X10Y10}Zell{Line}Мы проделали такой путь ради{Line} какого-то глупого теста на храбрость? Да{Line} за кого он нас принимает?!{End}{End}{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Мы проделали такой путь ради{Line} какого-то глупого теста на храбрость? Да{Line} за кого он нас принимает?!»{End}",
         "Source Text SHA256": "F281C26B9E44C7DDEB4CDE38AA444D61E6836D3A495FE5E5DFDE366B522FBD03",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -234,7 +234,7 @@
         }
       },
       "$en_gltown1_0029": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}Нам столькое пришлось пережить.{Line} И всё ради глупой проверки?{End}{End}{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«Нам столькое пришлось пережить.{Line} И всё ради глупой проверки?»{End}",
         "Source Text SHA256": "58DCFB05B27E8924D9D355888EE2AA6255D19FD55C9CE37F054A7FDC8930AFDB",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -242,7 +242,7 @@
         }
       },
       "$en_gltown1_0030": {
-        "Target": "{X10Y10}Selphie{Line}Вот облом...{End}{End}{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}«Вот облом...»{End}",
         "Source Text SHA256": "6E8AE110516105D1F246176091907C35C6C916FA823723BD92718BEFDAB8187C",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -250,7 +250,7 @@
         }
       },
       "$en_gltown1_0031": {
-        "Target": "{X10Y10}Quistis{Line}Поверить не могу, что{Line} он устраивает нам проверку.{End}{End}{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Поверить не могу, что{Line} он устраивает нам проверку».{End}",
         "Source Text SHA256": "B6F49F4A6DD49CB472CE22ACF3D6BB321D300C9A7DCCCC9A341A8B865589C018",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -258,7 +258,7 @@
         }
       },
       "$en_gltown1_0032": {
-        "Target": "{X46Y150}Caraway’s Guard{Line}Многие студенты вроде вас желают{Line} увидеться с Карвэем. Вчера{Next}был студент из{Line} сада Гальбадии, который{Line} так и не вернулся из{Line}{Color Blue}[Гробницы неизвестного короля].{Color White}.“{End}{End}{End}",
+        "Target": "{X46Y150}Охранник Карауэя{Line}«Многие студенты вроде вас желают{Line} увидеться с Карвэем. Вчера{Next}был студент из{Line} сада Гальбадии, который{Line} так и не вернулся из{Line}{Color Blue}[Гробницы неизвестного короля].{Color White}».{End}",
         "Source Text SHA256": "227655EDDBE2831F2F7A1785D9A448165FC4663AE69CDFADDD7129A01FD1EE0D",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -266,7 +266,7 @@
         }
       },
       "$en_gltown1_0033": {
-        "Target": "{X17Y150}Caraway’s Guard{Line}[Гробница {Color Blue}Неизвестного Короля] расположена на [северо-востоке]{Color White} от{Line} города. Ваше {Color Blue}задание –{Color White} сходить в [Гробницу{Next}Неизвестного Короля], найти следы пропавшего студента, {Color Blue}и вернуться с{Line} его идентификационным номером.{Color White}Ваше задание – посетить гробницу, найти{Line} следы пропавшего студента и вернуться с его идентификационным номером.{End}{End}{End}",
+        "Target": "{X17Y150}Охранник Карауэя{Line}«[Гробница {Color Blue}Неизвестного Короля] расположена на [северо-востоке]{Color White} от{Line} города. Ваше {Color Blue}задание –{Color White} сходить в [Гробницу{Next}Неизвестного Короля], найти следы пропавшего студента, {Color Blue}и вернуться с{Line} его идентификационным номером.{Color White}Ваше задание – посетить гробницу, найти{Line} следы пропавшего студента и вернуться с его идентификационным номером».{End}",
         "Source Text SHA256": "AD9A81525DD70657A87651B6AA6D62AEFC3E3B7113C049A50C561D6723DB5B5A",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -274,7 +274,7 @@
         }
       },
       "$en_gltown1_0034": {
-        "Target": "{X29Y150}Caraway’s Guard{Line}Не рекомендую вам{Line} заходить дальше,{Line} чем нужно. Вы{Next}можете никогда не{Line} вернуться{Line} оттуда живыми.{End}{End}{End}",
+        "Target": "{X29Y150}Охранник Карауэя{Line}«Не рекомендую вам{Line} заходить дальше,{Line} чем нужно. Вы{Next}можете никогда не{Line} вернуться{Line} оттуда живыми».{End}",
         "Source Text SHA256": "2A66B9EA27405442737D12905EC52DF660501E2746E6669AF4D1991898AA4154",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -290,7 +290,7 @@
         }
       },
       "$en_gltown1_0036": {
-        "Target": "{X42Y150}Охрана Каравэя{Line}Пока открыта карта, снова нажмите {Key Triangle},{Line}чтобы выбраться из подземелья.{Line}Только учтите: ваш ранг Сида понизится.{End}{End}{End}",
+        "Target": "{X42Y150}Охрана Каравэя{Line}«Пока открыта карта, снова нажмите {Key Triangle},{Line}чтобы выбраться из подземелья.{Line}Только учтите: ваш ранг Сида понизится».{End}",
         "Source Text SHA256": "C54C65E109108A51249677283D464F5002BD3127C1D4B33AFE810110FC350F00",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -298,7 +298,7 @@
         }
       },
       "$en_gltown1_0037": {
-        "Target": "{X184Y150}Caraway’s Guard{Line}Да, что такое?{End}{End}{End}",
+        "Target": "{X184Y150}Охранник Карауэя{Line}«Да, что такое?»{End}",
         "Source Text SHA256": "32301EC13E78BDCEFD15EA113E1B13CE6C93CBCE7BFDDCB5AA1481003191263E",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -306,7 +306,7 @@
         }
       },
       "$en_gltown1_0038": {
-        "Target": "{X61Y130F0L4B0C4}Готов ответить{Line}Купить подсказку за 3 000 гилей{Line}Купить навигатор за 5 000 гилей{Line}Поговорить{Line}Попросить проводить до окраины города{End}{End}{End}",
+        "Target": "{X61Y130F0L4B0C4}Готов ответить{Line}Купить подсказку за 3 000 гилей{Line}Купить навигатор за 5 000 гилей{Line}Поговорить{Line}Попросить проводить до окраины города{End}",
         "Source Text SHA256": "87E5A459541988171D8F390E26379C393614117E7AF2E764373D65930591ECAD",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -314,7 +314,7 @@
         }
       },
       "$en_gltown1_0039": {
-        "Target": "{X91Y140}Caraway’s Guard{Line}Хорошо, я вас провожу. Кстати,{Line} за пределами города гораздо быстрее{Line} перемещаться на машине, чем пешком.{End}{End}{End}",
+        "Target": "{X91Y140}Охранник Карауэя{Line}«Хорошо, я вас провожу. Кстати,{Line} за пределами города гораздо быстрее{Line} перемещаться на машине, чем пешком».{End}",
         "Source Text SHA256": "9BC944B1162A85222155164559F317C4DE10583A0244421FA6CF521B6A46E412",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -322,7 +322,7 @@
         }
       },
       "$en_gltown1_0040": {
-        "Target": "{X149Y150}Caraway’s Guard{Line}У меня больше нет подсказок.{End}{End}{End}",
+        "Target": "{X149Y150}Охранник Карауэя{Line}«У меня больше нет подсказок».{End}",
         "Source Text SHA256": "06BB4ACDD9945E1EF4E98B335212582E960D63283C11EF1105B843806EFCD66D",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -330,7 +330,7 @@
         }
       },
       "$en_gltown1_0041": {
-        "Target": "Охранник Карауэя{Line}«У меня больше нет карт».{End}{End}{End}",
+        "Target": "Охранник Карауэя{Line}«У меня больше нет карт».{End}",
         "Source Text SHA256": "4FB1B66C64D19A5B75246E3239E6A7E90A996633D2BD2B28EE9D1D8EC0EA034F",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -338,7 +338,7 @@
         }
       },
       "$en_gltown1_0042": {
-        "Target": "{X162Y150}Caraway’s Guard{Line}У меня{Line} больше нет навигаторов.{End}{End}{End}",
+        "Target": "{X162Y150}Охранник Карауэя{Line}«У меня{Line} больше нет навигаторов».{End}",
         "Source Text SHA256": "1C58B1FFF55DE8918CC5A702DB3013AFCA653F22106CC5BA35C174360EC441C6",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -346,7 +346,7 @@
         }
       },
       "$en_gltown1_0043": {
-        "Target": "{X93Y150}Охрана Каравэя{Line}У вас не хватает денег.{End}{End}{End}",
+        "Target": "{X93Y150}Охрана Каравэя{Line}«У вас не хватает денег».{End}",
         "Source Text SHA256": "294BEF729CE70DA8873CE04F903D18F362EFCD9A977FB61FDB22082794A2DD10",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -354,7 +354,7 @@
         }
       },
       "$en_gltown1_0044": {
-        "Target": "{X114Y150}Охрана Каравэя{Line}Без карты толку не будет.{End}{End}{End}",
+        "Target": "{X114Y150}Охрана Каравэя{Line}«Без карты толку не будет».{End}",
         "Source Text SHA256": "A8D294296E5D62AAE7C7515708463B206EF20A3B8A97116BBEF74FEC73A622A9",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -370,7 +370,7 @@
         }
       },
       "$en_gltown1_0046": {
-        "Target": "{X129Y150}Caraway’s Guard{Line}Ваша текущая позиция{Line} обозначена меткой «X».{End}{End}{End}",
+        "Target": "{X129Y150}Охранник Карауэя{Line}«Ваша текущая позиция{Line} обозначена меткой „X“».{End}",
         "Source Text SHA256": "5829D5B66539B94455DCAAEA5F3ADC3A2C566906179A5D73DAE21EDEED8500C3",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -378,7 +378,7 @@
         }
       },
       "$en_gltown1_0047": {
-        "Target": "{X13Y150}Caraway’s Guard{Line}Внутри [Гробницы неизвестного короля] {Color Blue}обитает{Line} ЗС. Если{Color White}вы достаточно уверенны в своих{Line} силах, то можете вызвать{Next}его на поединок. В этом{Line} случае, я рекомендую вам купить{Line} навигатор. Соглашайтесь, не пожалеете.{End}{End}{End}",
+        "Target": "{X13Y150}Охранник Карауэя{Line}«Внутри [Гробницы неизвестного короля] {Color Blue}обитает{Line} ЗС. Если{Color White}вы достаточно уверенны в своих{Line} силах, то можете вызвать{Next}его на поединок. В этом{Line} случае, я рекомендую вам купить{Line} навигатор. Соглашайтесь, не пожалеете».{End}",
         "Source Text SHA256": "DB7910FFB5DC483EF13AF4384A417591C15A0F7996EE517B4CD0C08102EB2022",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -386,7 +386,7 @@
         }
       },
       "$en_gltown1_0048": {
-        "Target": "{X40Y10}Caraway’s Guard{Line}У ЗС из гробницы есть слабость.{Line} Чтобы воспользоваться ею, нужно{Line} «зависнуть» над землёй.{End}{End}{End}",
+        "Target": "{X40Y10}Охранник Карауэя{Line}«У ЗС из гробницы есть слабость.{Line} Чтобы воспользоваться ею, нужно{Line} „зависнуть“ над землёй».{End}",
         "Source Text SHA256": "6654209DDFBD86B8927A57B6F148C3B56787CCF6DAF9486651260E95A3B70687",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -394,7 +394,7 @@
         }
       },
       "$en_gltown1_0049": {
-        "Target": "Охранник Карауэя{Line}«Что ж, каков ваш ответ?»{End}{End}{End}",
+        "Target": "Охранник Карауэя{Line}«Что ж, каков ваш ответ?»{End}",
         "Source Text SHA256": "F426D7575ED19D528F3BD5F6B21E8E3A9C83586343F3FD72EF33AF7D910D00ED",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -402,7 +402,7 @@
         }
       },
       "$en_gltown1_0050": {
-        "Target": "{X10Y10F1L2B1C2}Введите сотни{Line}0{Line}1{End}{End}{End}",
+        "Target": "{X10Y10F1L2B1C2}Введите сотни{Line}0{Line}1{End}",
         "Source Text SHA256": "FE304C294B8CD1EEA7FB75778A65E8C57E42D3BC695ADBDF077A1B814CFBFD53",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -410,7 +410,7 @@
         }
       },
       "$en_gltown1_0051": {
-        "Target": "{X10Y10F1L10B1C10}Введите десятки{Line}0{Line}1{Line}2{Line}3{Line}4{Line}5{Line}6{Line}7{Line}8{Line}9{End}{End}{End}",
+        "Target": "{X10Y10F1L10B1C10}Введите десятки{Line}0{Line}1{Line}2{Line}3{Line}4{Line}5{Line}6{Line}7{Line}8{Line}9{End}",
         "Source Text SHA256": "3F411D3CD621B0D208297BC1A536D65A50040EE319020056C1C912FD97377A7B",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -418,7 +418,7 @@
         }
       },
       "$en_gltown1_0052": {
-        "Target": "{X10Y10F1L10B1C10}Введите единицы{Line}0{Line}1{Line}2{Line}3{Line}4{Line}5{Line}6{Line}7{Line}8{Line}9{End}{End}{End}",
+        "Target": "{X10Y10F1L10B1C10}Введите единицы{Line}0{Line}1{Line}2{Line}3{Line}4{Line}5{Line}6{Line}7{Line}8{Line}9{End}",
         "Source Text SHA256": "CE4CB122ED557D6B7F671CA4F4C5B4986D481861F418464C79FFF1EEC0300094",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -426,7 +426,7 @@
         }
       },
       "$en_gltown1_0053": {
-        "Target": "0{End}{End}{End}",
+        "Target": "0{End}",
         "Source Text SHA256": "5FECEB66FFC86F38D952786C6D696C79C2DBC239DD4E91B46729D73A27FB57E9",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -434,7 +434,7 @@
         }
       },
       "$en_gltown1_0054": {
-        "Target": "1{End}{End}{End}",
+        "Target": "1{End}",
         "Source Text SHA256": "6B86B273FF34FCE19D6B804EFF5A3F5747ADA4EAA22F1D49C01E52DDB7875B4B",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -442,7 +442,7 @@
         }
       },
       "$en_gltown1_0055": {
-        "Target": "2{End}{End}{End}",
+        "Target": "2{End}",
         "Source Text SHA256": "D4735E3A265E16EEE03F59718B9B5D03019C07D8B6C51F90DA3A666EEC13AB35",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -450,7 +450,7 @@
         }
       },
       "$en_gltown1_0056": {
-        "Target": "3{End}{End}{End}",
+        "Target": "3{End}",
         "Source Text SHA256": "4E07408562BEDB8B60CE05C1DECFE3AD16B72230967DE01F640B7E4729B49FCE",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -458,7 +458,7 @@
         }
       },
       "$en_gltown1_0057": {
-        "Target": "4{End}{End}{End}",
+        "Target": "4{End}",
         "Source Text SHA256": "4B227777D4DD1FC61C6F884F48641D02B4D121D3FD328CB08B5531FCACDABF8A",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -466,7 +466,7 @@
         }
       },
       "$en_gltown1_0058": {
-        "Target": "5{End}{End}{End}",
+        "Target": "5{End}",
         "Source Text SHA256": "EF2D127DE37B942BAAD06145E54B0C619A1F22327B2EBBCFBEC78F5564AFE39D",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -474,7 +474,7 @@
         }
       },
       "$en_gltown1_0059": {
-        "Target": "6{End}{End}{End}",
+        "Target": "6{End}",
         "Source Text SHA256": "E7F6C011776E8DB7CD330B54174FD76F7D0216B612387A5FFCFB81E6F0919683",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -482,7 +482,7 @@
         }
       },
       "$en_gltown1_0060": {
-        "Target": "7{End}{End}{End}",
+        "Target": "7{End}",
         "Source Text SHA256": "7902699BE42C8A8E46FBBB4501726517E86B22C56A189F7625A6DA49081B2451",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -490,7 +490,7 @@
         }
       },
       "$en_gltown1_0061": {
-        "Target": "8{End}{End}{End}",
+        "Target": "8{End}",
         "Source Text SHA256": "2C624232CDD221771294DFBB310ACA000A0DF6AC8B66B696D90EF06FDEFB64A3",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -498,7 +498,7 @@
         }
       },
       "$en_gltown1_0062": {
-        "Target": "9{End}{End}{End}",
+        "Target": "9{End}",
         "Source Text SHA256": "19581E27DE7CED00FF1CE50B2047E7A567C76B1CBAEBABE5EF03F7C3017BB5B7",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -506,7 +506,7 @@
         }
       },
       "$en_gltown1_0063": {
-        "Target": "{X200Y10}〖{Var 33}〗{End}{End}{End}",
+        "Target": "{X200Y10}〖{Var 33}〗{End}",
         "Source Text SHA256": "4FE1500EF026B57E90A8B5FBF13CB8DB7261448882383B0685C421D6825F4B58",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -514,7 +514,7 @@
         }
       },
       "$en_gltown1_0064": {
-        "Target": "{X225Y10}〖{Var 34}〗{End}{End}{End}",
+        "Target": "{X225Y10}〖{Var 34}〗{End}",
         "Source Text SHA256": "7B6DE18A4F5B23CB4808E0D8BBB3F3B0F1ED055A91781509CFE2B4EED4E10E75",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -522,7 +522,7 @@
         }
       },
       "$en_gltown1_0065": {
-        "Target": "{X250Y10}〖{Var 35}〗{End}{End}{End}",
+        "Target": "{X250Y10}〖{Var 35}〗{End}",
         "Source Text SHA256": "A3CF921362F06C1064DEE1A2D91A346C04586D13D2B0DE1DE3805B92B7EDEFB0",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -530,7 +530,7 @@
         }
       },
       "$en_gltown1_0066": {
-        "Target": "{X286Y10}‘{Var 32}’{End}{End}{End}",
+        "Target": "{X286Y10}‘{Var 32}’{End}",
         "Source Text SHA256": "3EEFE14B5AD6AB33D03CFE167F5B4FDFD50EBB8A2A20AECC4B4CE359296CA6E0",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -538,7 +538,7 @@
         }
       },
       "$en_gltown1_0067": {
-        "Target": "{X144Y150}Caraway’s Guard{Line}Правильно!{Line} Прошу сюда.{End}{End}{End}",
+        "Target": "{X144Y150}Охранник Карауэя{Line}«Правильно!{Line} Прошу сюда».{End}",
         "Source Text SHA256": "28C03B0920A1CF25CC9B727D358B63A4E24AA7F0CB901016AB82FB4A31539401",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -546,7 +546,7 @@
         }
       },
       "$en_gltown1_0068": {
-        "Target": "{X117Y150}Caraway’s Guard{Line}Эмм...{Line} Вам не следует просто гадать...{End}{End}{End}",
+        "Target": "{X117Y150}Охранник Карауэя{Line}«Эмм...{Line} Вам не следует просто гадать...»{End}",
         "Source Text SHA256": "CE5CB7DC6EF184E536C8B451C66094E88209F9499D365221BCB21B8C92B32A41",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -554,7 +554,7 @@
         }
       },
       "$en_gltown1_0069": {
-        "Target": "«Номер учащегося: {Var 32}»{End}{End}{End}",
+        "Target": "«Номер учащегося: {Var 32}»{End}",
         "Source Text SHA256": "65A15A9997F288013BF40E2E88EC36A801B5BF0058F794EC16E4C5C17104B5F9",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -562,7 +562,7 @@
         }
       },
       "$en_gltown1_0070": {
-        "Target": "{X61Y10}Galbadian Soldier{Line}После прихода к{Line} власти волшебницы генерал Карвэй{Line} был отстранён от выполнения своих{Next}обязанностей. По слухам, он,{Line} возможно, был вовлечён в план покушения.{End}{End}{End}",
+        "Target": "{X61Y10}Солдат Гальбадии{Line}«После прихода к{Line} власти волшебницы генерал Карвэй{Line} был отстранён от выполнения своих{Next}обязанностей. По слухам, он,{Line} возможно, был вовлечён в план покушения».{End}",
         "Source Text SHA256": "C4BFE02298EB68DE1005C163F57A4350953756F803120E6AD0ACD47D93768B3F",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",
@@ -570,7 +570,7 @@
         }
       },
       "$en_gltown1_0071": {
-        "Target": "{X10Y10}Солдат Гальбадии{Line}Похоже, теперь, когда генерала Каравэя{Line}отстранили, командует Сейфер.{End}{End}{End}",
+        "Target": "{X10Y10}Солдат Гальбадии{Line}«Похоже, теперь, когда генерала Каравэя{Line}отстранили, командует Сейфер».{End}",
         "Source Text SHA256": "A8FB6FE1A4C8ED392A05E2669AB76CDE70F1C9BE9955F4B76CFFD812CE185578",
         "sourceContext": {
           "Source MSD SHA256": "9FE9D9BEE8D29312BA34AB6FC348A98BF20B9BA5C817BB9F80916E357B0784B3",

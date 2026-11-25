@@ -18,7 +18,7 @@
         }
       },
       "$en_gdsand3_0002": {
-        "Target": "{X160Y12}{Char Squall}{Line}«Что?»{End}{End}",
+        "Target": "{X160Y12}{Char Squall}{Line}«Что?»{End}",
         "Source Text SHA256": "FEA85421DD39CC3DDD9E26DAD8FE3CFB7D7624CB14F68D18BF8F7BD8BCAB321E",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gdsand3_0003": {
-        "Target": "{X160Y140}Quistis{Line}Волшебница собирается{Line} атаковать сад ракетами!{End}{End}",
+        "Target": "{X160Y140}{Char Quistis}{Line}«Волшебница собирается{Line} атаковать сад ракетами!»{End}",
         "Source Text SHA256": "EE9E20D98C7B31F383C05A652855A26890ECABF0508C796E620A75223E992FCC",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gdsand3_0004": {
-        "Target": "{X12Y160}Selphie{Line}{Char Rinoa}{Line} услышала это от Ирвина!{End}{End}",
+        "Target": "{X12Y160}{Char Selphie}{Line}«{Char Rinoa}{Line} услышала это от Ирвина!»{End}",
         "Source Text SHA256": "B5B9F879298FB65FBAAC98EDAE68349F2045C26572EDF06AE500C1334AAA6A25",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gdsand3_0005": {
-        "Target": "{X160Y12}{Char Squall}{Line}Может и так. Но единственное, что мы{Line} можем сделать – как можно раньше вернуться{Line} в сад, и предупредить студентов.{End}{End}",
+        "Target": "{X160Y12}{Char Squall}{Line}«Может и так. Но единственное, что мы{Line} можем сделать – как можно раньше вернуться{Line} в сад, и предупредить студентов».{End}",
         "Source Text SHA256": "C3B88900AC52EBA55AD192D3CFFAB66423E1BACEC7AF01324F7AD35A750B45E5",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gdsand3_0006": {
-        "Target": "{X160Y12}{Char Squall}{Line}Так что не будем тратить{Line} время – по машинам.{End}{End}",
+        "Target": "{X160Y12}{Char Squall}{Line}«Так что не будем тратить{Line} время – по машинам».{End}",
         "Source Text SHA256": "024FCEED2E0A0D4BD6700A38631E3AC2D61AEC287BAFD4CC919662087573A5CF",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gdsand3_0008": {
-        "Target": "{X160Y140}Ирвин{Line}«Да только… что мы можем сделать?»{End}{End}",
+        "Target": "{X160Y140}{Char Irvine}{Line}«Да только… что мы можем сделать?»{End}",
         "Source Text SHA256": "292882106E9970B405729A44EDE5E9D391AB7C8DE6D6211815FD1ADBCC49D174",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gdsand3_0009": {
-        "Target": "{X12Y12}Selphie{Line}Мы должны помешать запуску! Мы{Line} должны остановить ракеты!{End}{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Мы должны помешать запуску! Мы{Line} должны остановить ракеты!»{End}",
         "Source Text SHA256": "8D2F28EE14DF0B837D634C9FB03CC8E0B3D8C023F3F42714E859BE7663DA43F9",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gdsand3_0010": {
-        "Target": "{X160Y12}Selphie{Line}Я только перевелась из{Line} сада Трабии!{End}{End}",
+        "Target": "{X160Y12}{Char Selphie}{Line}«Я только перевелась из{Line} сада Трабии!»{End}",
         "Source Text SHA256": "329743F9A70ABF51481FE7482B93C7924B1B420368B485642528A539238333B8",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gdsand3_0011": {
-        "Target": "{X160Y12}Selphie{Line}Я не могу просто{Line} сидеть, сложа руки, зная, что он{Line} в опасности!{End}{End}",
+        "Target": "{X160Y12}{Char Selphie}{Line}«Я не могу просто{Line} сидеть, сложа руки, зная, что он{Line} в опасности!»{End}",
         "Source Text SHA256": "3BDE3861CBCD1E7B089E447C7725E78A22F52F50440E069C5DC66FAE2C34CB52",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gdsand3_0012": {
-        "Target": "{X160Y12}Selphie{Line}{Char Squall},{Next}пожалуйста, мы должны их остановить!{Line} Давайте разделимся на две группы. Пока ещё есть время, реши, кто поедет к ракетной базе.{End}{End}",
+        "Target": "{X160Y12}{Char Selphie}{Line}«{Char Squall},{Next}пожалуйста, мы должны их остановить!{Line} Давайте разделимся на две группы. Пока ещё есть время, реши, кто поедет к ракетной базе».{End}",
         "Source Text SHA256": "A416B6C92811ADED3951BFD522BD52548F8FFAFC142894347AA18C3BEE9F3150",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gdsand3_0013": {
-        "Target": "{X160Y12}(Всё так просто… А{Line} если с теми, кого я{Line} выберу, что-нибудь случится?..){End}{End}",
+        "Target": "{X160Y12}(Всё так просто… А{Line} если с теми, кого я{Line} выберу, что-нибудь случится?..){End}",
         "Source Text SHA256": "CB04106E6558622AEABCADA08DEB307146532291CB8FB2A726B9E813AA82CD6A",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gdsand3_0014": {
-        "Target": "{X160Y12}{Char Rinoa}{Line}Давайте проголосуем!{End}{End}",
+        "Target": "{X160Y12}{Char Rinoa}{Line}«Давайте проголосуем!»{End}",
         "Source Text SHA256": "274003AC8AA02FAE7AE30B52C39EF0769153F3ABD0ABB75CF92A723A1C2FD872",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gdsand3_0015": {
-        "Target": "{X160Y12}{Char Rinoa}{Line}”{Char Squall} и те, кого{Line} {Char Squall} выберет, возвращаются в сад Баламба.{Line} Остальные едут на базу и пытаются остановить ракеты.“{Next}”Кто против –{Line} поднимите руку.“{End}{End}",
+        "Target": "{X160Y12}{Char Rinoa}{Line}«{Char Squall} и те, кого{Line} {Char Squall} выберет, возвращаются в сад Баламба.{Line} Остальные едут на базу и пытаются остановить ракеты».{Next}«Кто против –{Line} поднимите руку».{End}",
         "Source Text SHA256": "D318D299FE80A900A6B896E4AD52777A56DAF8AE24DB82554DCAA8E8F32F4242",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gdsand3_0016": {
-        "Target": "{X160Y12}{Char Rinoa}{Line}Мне… мне абсолютно не важно{Line} в какой группе я окажусь.{End}{End}",
+        "Target": "{X160Y12}{Char Rinoa}{Line}«Мне… мне абсолютно не важно{Line} в какой группе я окажусь».{End}",
         "Source Text SHA256": "30BD5BD4E0D5B25374E27F91763BB8B89DD1D22BFCC0EC4E1FB42D3DF50775A3",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gdsand3_0017": {
-        "Target": "{X160Y12}(Но ведь ты посторонняя.){End}{End}",
+        "Target": "{X160Y12}(Но ведь ты посторонняя.){End}",
         "Source Text SHA256": "C5F32989A832CB117613356790F4D454189F3D2751F7E3ACA04EA579564CA01F",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gdsand3_0018": {
-        "Target": "{X160Y12}Quistis{Line}Ты лидер, {Char Squall}{Line} . Решай!{End}{End}",
+        "Target": "{X160Y12}{Char Quistis}{Line}«Ты лидер, {Char Squall}.{Line}Решай!»{End}",
         "Source Text SHA256": "CD2C7AEF170E836F8E629F960B9F77749E75ED30DE8C70BCA0AF13792E482F7E",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gdsand3_0019": {
-        "Target": "{X160Y12}(Лидер?{Line} Я не просил назначать себя лидером.){End}{End}",
+        "Target": "{X160Y12}(Лидер?{Line} Я не просил назначать себя лидером.){End}",
         "Source Text SHA256": "4058EB6D6CAA1EDE1F6AA4825B8743BA4D3A1D4093E16691C1531B287073BE49",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gdsand3_0020": {
-        "Target": "{X160Y160}Irvine{Line}Я... слышал, что сперва они нанесут{Line} удар по Трабии, а затем по Баламбу.{End}{End}",
+        "Target": "{X160Y160}{Char Irvine}{Line}«Я... слышал, что сперва они нанесут{Line} удар по Трабии, а затем по Баламбу».{End}",
         "Source Text SHA256": "33251042F60E2718A5727ADBAB1CB9E6A721FF2DFA4B489E0450BCA26BEAAECF",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -170,7 +170,7 @@
         }
       },
       "$en_gdsand3_0021": {
-        "Target": "{X160Y12}Selphie{Line}Трабия… Простите… я{Line} опоздала… Только бы они{Next}уцелели... Лишь бы все были живы... Ну,{Line} пожалуйста…{End}{End}",
+        "Target": "{X160Y12}{Char Selphie}{Line}«Трабия… Простите… я{Line} опоздала… Только бы они{Next}уцелели... Лишь бы все были живы... Ну,{Line} пожалуйста…»{End}",
         "Source Text SHA256": "855B6F44716608B654676187DDE2969E5EA7FE445E5048B30EADB99CAC28AA7E",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -178,7 +178,7 @@
         }
       },
       "$en_gdsand3_0022": {
-        "Target": "{X160Y12}Selphie{Line}Столько ракет… почему?..{End}{End}",
+        "Target": "{X160Y12}{Char Selphie}{Line}«Столько ракет… почему?..»{End}",
         "Source Text SHA256": "6A18FDD8C166EAD6A9300F83BD1E0F2DD8B5BBA87DDF8B2AD482163961E2C19B",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -186,7 +186,7 @@
         }
       },
       "$en_gdsand3_0023": {
-        "Target": "Сельфи{Line}«{Char Squall}, надо доложить в Баламб!{Line} Кого ты возьмёшь?»{End}{End}",
+        "Target": "{Char Selphie}{Line}«{Char Squall}, надо доложить в Баламб!{Line} Кого ты возьмёшь?»{End}",
         "Source Text SHA256": "B76FF3C373C2862B1ACE6C0E5C6647AF539D51D7D1DC9BA1D210EB6C4477235B",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -194,7 +194,7 @@
         }
       },
       "$en_gdsand3_0023_ctx_946bf576fd7da4fb": {
-        "Target": "{X12Y12}Сельфи{Line}«{Char Squall}, надо доложить в Баламб!{Line} Кого возьмёшь с собой?»{End}{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«{Char Squall}, надо доложить в Баламб!{Line} Кого возьмёшь с собой?»{End}",
         "Source Text SHA256": "B76FF3C373C2862B1ACE6C0E5C6647AF539D51D7D1DC9BA1D210EB6C4477235B",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -202,7 +202,7 @@
         }
       },
       "$en_gdsand3_0023_ctx_b8cc39f32828421f": {
-        "Target": "{X160Y12}Selphie{Line}”{Char Squall}, ты должен немедленно ехать в сад Баламба! Нужно их{Line} предупредить! Решай, кого ты возьмешь с собой!“{End}{End}",
+        "Target": "{X160Y12}{Char Selphie}{Line}«{Char Squall}, ты должен немедленно ехать в сад Баламба! Нужно их{Line} предупредить! Решай, кого ты возьмешь с собой!»{End}",
         "Source Text SHA256": "B76FF3C373C2862B1ACE6C0E5C6647AF539D51D7D1DC9BA1D210EB6C4477235B",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -210,7 +210,7 @@
         }
       },
       "$en_gdsand3_0024": {
-        "Target": "{X160Y12}Zell{Line}”Ну же, {Char Squall}!“{End}{End}",
+        "Target": "{X160Y12}{Char Zell}{Line}«Ну же, {Char Squall}!»{End}",
         "Source Text SHA256": "BB313CF5B91DB704C53CED9FF56D7146F1AE043B51C8ADB1EF9EB31B925F7D90",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -218,7 +218,7 @@
         }
       },
       "$en_gdsand3_0025": {
-        "Target": "{X160Y120}Quistis{Line}”Тебе решать! {Char Squall}!“{End}{End}",
+        "Target": "{X160Y120}{Char Quistis}{Line}«Тебе решать! {Char Squall}!»{End}",
         "Source Text SHA256": "88233909F649DE68E730A8E22E6BCDCC979604401D724F6D47EA58E4AB44003F",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -226,7 +226,7 @@
         }
       },
       "$en_gdsand3_0026": {
-        "Target": "{X160Y12}{Char Rinoa}{Line}”{Char Squall}, обдумай всё хорошенько!“{End}{End}",
+        "Target": "{X160Y12}{Char Rinoa}{Line}«{Char Squall}, обдумай всё хорошенько!»{End}",
         "Source Text SHA256": "32D43FFE783124F172DCFF3F27B40B885E688141027FF6CC196974301A28115E",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -234,7 +234,7 @@
         }
       },
       "$en_gdsand3_0027": {
-        "Target": "{X160Y12}(Они видят во мне лидера... Чёртова ответственность...{Line} Хорошо... Я сделаю выбор.){End}{End}",
+        "Target": "{X160Y12}(Они видят во мне лидера... Чёртова ответственность...{Line} Хорошо... Я сделаю выбор.){End}",
         "Source Text SHA256": "3FB5F879CCA6D1103EB736274BE35122F2570D3249D16BBCDF3C0E5554B37C92",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -242,7 +242,7 @@
         }
       },
       "$en_gdsand3_0028": {
-        "Target": "{X12Y160}Selphie{Line}Я буду в группе, которая проникнет на{Next}ракетную базу!{Line} Я должна быть в ней! Они напали на МОЮ Трабию!{End}{End}",
+        "Target": "{X12Y160}{Char Selphie}{Line}«Я буду в группе, которая проникнет на{Next}ракетную базу!{Line} Я должна быть в ней! Они напали на МОЮ Трабию!»{End}",
         "Source Text SHA256": "6D2791218B68337017AD9FE29A1AEECB76CCF0807ACC237149367CC062FBBF7E",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -250,7 +250,7 @@
         }
       },
       "$en_gdsand3_0029": {
-        "Target": "{X160Y12F3L4B3C3}(Мы возвращаемся в Баламб.{Line} Остальные – на{Line} ракетную базу…){Line}(Сменить состав){Line}(Оставить как есть){End}{End}",
+        "Target": "{X160Y12F3L4B3C3}(Мы возвращаемся в Баламб.{Line} Остальные – на{Line} ракетную базу…){Line}(Сменить состав){Line}(Оставить как есть){End}",
         "Source Text SHA256": "90F503961D6AD032FE6F82D4016965FDEA96425A91A6D61A776733100E7AED77",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -258,7 +258,7 @@
         }
       },
       "$en_gdsand3_0030": {
-        "Target": "{X12Y12}Selphie{Line}”{Char Squall}! Поторопись!!!“{End}{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«{Char Squall}! Поторопись!!!»{End}",
         "Source Text SHA256": "06DA79E8FECC441476443CAFC9671B2408CDFB9617377D1938B56CDC8177801F",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -266,7 +266,7 @@
         }
       },
       "$en_gdsand3_0031": {
-        "Target": "{X160Y12}{Char Squall}{Line}Это задание не похоже на другие.{Line} Это не приказ или запрос{Line} от кого-либо...{End}{End}",
+        "Target": "{X160Y12}{Char Squall}{Line}«Это задание не похоже на другие.{Line} Это не приказ или запрос{Line} от кого-либо...»{End}",
         "Source Text SHA256": "7FFEF9938572AC6337652680F825BCCEDC6282166DED2B1EACABC289AD3A5C5B",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -274,7 +274,7 @@
         }
       },
       "$en_gdsand3_0032": {
-        "Target": "{X160Y12}{Char Squall}{Line}Сельфи, у тебя есть{Line} хоть какой-нибудь план?{End}{End}",
+        "Target": "{X160Y12}{Char Squall}{Line}«Сельфи, у тебя есть{Line} хоть какой-нибудь план?»{End}",
         "Source Text SHA256": "2B72CD3E07F0C72040BAFBA34132DFC43699220B5806F7C8366127F6446C2EBB",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -282,7 +282,7 @@
         }
       },
       "$en_gdsand3_0033": {
-        "Target": "{X12Y12}Selphie{Line}Думаю, если мы поедем на{Line} транспорте гальбадианской армии, то у нас{Line} получится пробраться внутрь базы.{Next}Но... пока что{Line} на этом всё. Остальное{Line} придумаю, когда будем внутри.{End}{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Думаю, если мы поедем на{Line} транспорте гальбадианской армии, то у нас{Line} получится пробраться внутрь базы».{Next}«Но... пока что{Line} на этом всё. Остальное{Line} придумаю, когда будем внутри».{End}",
         "Source Text SHA256": "92F1D6B63861D27C111D3D413EABC0794D668CAD14508961464DA78A4D105913",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -290,7 +290,7 @@
         }
       },
       "$en_gdsand3_0034": {
-        "Target": "{X12Y12}Selphie{Line}Хреновый план, да?{End}{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Хреновый план, да?»{End}",
         "Source Text SHA256": "DC537AC8D85F4A873A005C452F0472BC816A15E15BBE739C1D14D0A7BE9B0C94",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -298,7 +298,7 @@
         }
       },
       "$en_gdsand3_0035": {
-        "Target": "{X12Y12}Selphie{Line}Прости... то есть, спасибо за доверие.{End}{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Прости... то есть, спасибо за доверие».{End}",
         "Source Text SHA256": "C338942FE937D900773506911ABAB5683508E721D8377B556942984CCD0D34EE",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -306,7 +306,7 @@
         }
       },
       "$en_gdsand3_0036": {
-        "Target": "{X12Y12}Selphie{Line}Времени мало! Тебе{Line} лучше поспешить в сад Баламба!{End}{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Времени мало! Тебе{Line} лучше поспешить в сад Баламба!»{End}",
         "Source Text SHA256": "907466789F5FF7A7342EAB79A84FFF3BE6A14A5C696BF60E24A5CE287ECE86B3",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -314,7 +314,7 @@
         }
       },
       "$en_gdsand3_0037": {
-        "Target": "{X160Y12}{Char Squall}{Line}Увидимся там!{End}{End}",
+        "Target": "{X160Y12}{Char Squall}{Line}«Увидимся там!»{End}",
         "Source Text SHA256": "1A1CAB6BB5F15E0EF1F25A6B2B4911A56EE70905A595D529A0CB7DEED29A7DDF",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -322,7 +322,7 @@
         }
       },
       "$en_gdsand3_0038": {
-        "Target": "{X160Y12}Zell{Line}Я сделаю всё, что {Char Squall} ты прикажешь.{End}{End}",
+        "Target": "{X160Y12}{Char Zell}{Line}«Я сделаю всё, что {Char Squall} ты прикажешь».{End}",
         "Source Text SHA256": "1EEE6F0A0B7355F8E821B92EE020DD93665BC87D6EF0547A8CC607C3E241AE92",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -330,7 +330,7 @@
         }
       },
       "$en_gdsand3_0039": {
-        "Target": "{X160Y12}Quistis{Line}Дело не только в Сельфи.{End}{End}",
+        "Target": "{X160Y12}{Char Quistis}{Line}«Дело не только в Сельфи».{End}",
         "Source Text SHA256": "0A86C7F90DB170990AC5608446AD8C11F9D7EC1FC7F152FA678120A3FDC7029A",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -338,7 +338,7 @@
         }
       },
       "$en_gdsand3_0040": {
-        "Target": "{X160Y12}Irvine{Line}Ну, как бы... Я тоже{Line} понимаю, каково Сельфи, но...{End}{End}",
+        "Target": "{X160Y12}{Char Irvine}{Line}«Ну, как бы... Я тоже{Line} понимаю, каково Сельфи, но...»{End}",
         "Source Text SHA256": "BDC8A1AEDA4719E740AD8992A74D9570291FDCD21FDB1E7D84DDE19906F96458",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -346,7 +346,7 @@
         }
       },
       "$en_gdsand3_0041": {
-        "Target": "{X160Y12}{Char Rinoa}{Line}Хм? План ракетной{Line} базы? Это к Сельфи.{End}{End}",
+        "Target": "{X160Y12}{Char Rinoa}{Line}«Хм? План ракетной{Line} базы? Это к Сельфи».{End}",
         "Source Text SHA256": "438A3A9D4A116754439D6BBD8881CE127CF49606AA1A52BF606959A1FE935C8C",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -354,7 +354,7 @@
         }
       },
       "$en_gdsand3_0042": {
-        "Target": "{X160Y12}Zell{Line}Неужели за всем этим стоит волшебница?{End}{End}",
+        "Target": "{X160Y12}{Char Zell}{Line}«Неужели за всем этим стоит волшебница?»{End}",
         "Source Text SHA256": "9687B5DC1BB72D20FEA32CB6C18D41EE47739A6B4CB3AE66850FF83ACF13DB22",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -362,7 +362,7 @@
         }
       },
       "$en_gdsand3_0043": {
-        "Target": "{X160Y12}Quistis{Line}”Решай, {Char Squall}.{Line} Это бремя лидера.“{End}{End}",
+        "Target": "{X160Y12}{Char Quistis}{Line}«Решай, {Char Squall}.{Line} Это бремя лидера».{End}",
         "Source Text SHA256": "73372F3CD1C2FCC35FF5F8FF21412D96672328020EA29EF33F4C76BA66C5A003",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -370,7 +370,7 @@
         }
       },
       "$en_gdsand3_0044": {
-        "Target": "{X160Y12}Irvine{Line}Чёрт... Не могу{Line} сдержать эмоции.{End}{End}",
+        "Target": "{X160Y12}{Char Irvine}{Line}«Чёрт... Не могу{Line} сдержать эмоции».{End}",
         "Source Text SHA256": "6EFF1868C8AA1178A0E3A01C7D27F30C48026EE35BF53BAE2CFF62AA5622B5D9",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",
@@ -378,7 +378,7 @@
         }
       },
       "$en_gdsand3_0045": {
-        "Target": "{X160Y12}{Char Rinoa}{Line}Поговори с Сельфи.{Line} Мы уже готовы.{End}{End}",
+        "Target": "{X160Y12}{Char Rinoa}{Line}«Поговори с Сельфи.{Line} Мы уже готовы».{End}",
         "Source Text SHA256": "7B4B5F7E78E24802419FB083BCA34A8BB6D94037E64409DE9995BF849FD41B69",
         "sourceContext": {
           "Source MSD SHA256": "2BD1517D1C822410D9D4111D18F7690D98ABDBBD7F0AE6008A3A66C822B456ED",

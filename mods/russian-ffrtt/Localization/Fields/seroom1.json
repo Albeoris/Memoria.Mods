@@ -2,7 +2,7 @@
   "Fields": {
     "seroom1": {
       "$en_seroom1_0000": {
-        "Target": "{X20Y20}{Char Squall}{Line}Вот.{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Вот».{End}",
         "Source Text SHA256": "85BDB657901B77C072F9D2B32A42C8DFED0C6EFF116D8AFC7C0C5ECE4CB95D69",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -10,7 +10,7 @@
         }
       },
       "$en_seroom1_0001": {
-        "Target": "{X150Y150}White SeeD Leader{Line}...Это почерк Матроны. Она{Line} и вправду дала тебе его?{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«...Это почерк Матроны. Она{Line} и вправду дала тебе его?»{End}",
         "Source Text SHA256": "24BD19D7FFE95C810D1475804605A09132BF6A8AA63E1DD43119695D50C8588A",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -18,7 +18,7 @@
         }
       },
       "$en_seroom1_0002": {
-        "Target": "{X20Y20}{Char Squall}{Line}Вы, ребята, тоже называете её Матроной, да?{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Вы, ребята, тоже называете её Матроной, да?»{End}",
         "Source Text SHA256": "518CBEC5DE96FCCD0CFF0BDD954CCCB95E19DAD460E8BD8420A1E47C4C20F731",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -26,7 +26,7 @@
         }
       },
       "$en_seroom1_0003": {
-        "Target": "{X150Y150}White SeeD Leader{Line}Да. Ещё с тех пор, когда мы были детьми.{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«Да. Ещё с тех пор, когда мы были детьми».{End}",
         "Source Text SHA256": "30D3BFC1A00B53BE5BE8C0747BF2C0390D3DFD7D822336042FAFA26522A7A1D8",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -34,7 +34,7 @@
         }
       },
       "$en_seroom1_0004": {
-        "Target": "{X20Y20}{Char Squall}{Line}Нас тоже{Next}вырастила Эдея.{Line} Нам было тяжело, но мы{Next}всё же сразились с ней.{Line} К счастью, всё обошлось.{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Нас тоже{Next}вырастила Эдея.{Line} Нам было тяжело, но мы{Next}всё же сразились с ней.{Line} К счастью, всё обошлось».{End}",
         "Source Text SHA256": "803BB0D0CBA865927E8CFA60C8F6937C74B21D4044BE3914D2B16FEFBA16B6AA",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -42,7 +42,7 @@
         }
       },
       "$en_seroom1_0005": {
-        "Target": "{X20Y20}{Char Squall}{Line}Эдея больше не одержима. Она снова стала{Line} собой... стала Матроной, которую мы помним.{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Эдея больше не одержима. Она снова стала{Line} собой... стала Матроной, которую мы помним».{End}",
         "Source Text SHA256": "17DDAE75DC76B18FBF9CB8862C9ECF812D68748AB21DEB351A4464E1BDE8C10E",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -50,7 +50,7 @@
         }
       },
       "$en_seroom1_0006": {
-        "Target": "{X150Y150}White SeeD Leader{Line}”Спасибо, {Char Squall}{Next}.{Line} Мы многим обязаны тебе и Саду Баламб.{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«Спасибо, {Char Squall}.{Next}Мы многим обязаны тебе и Саду Баламб».{End}",
         "Source Text SHA256": "F39D596812D863CA69A59EBED3F206E56BE04012DB8737274232C14E9C2A4CDD",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -58,7 +58,7 @@
         }
       },
       "$en_seroom1_0007": {
-        "Target": "{X20Y20}{Char Squall}{Line}У нас даже приветствие одинаковое.{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«У нас даже приветствие одинаковое».{End}",
         "Source Text SHA256": "1693ACEB8B29C09B119622FCF760460987DD3FCB00D878FACEA83F738F211FAC",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -66,7 +66,7 @@
         }
       },
       "$en_seroom1_0008": {
-        "Target": "{X150Y150}White SeeD Leader{Line}Матрона говорила нам, что оно не менялось{Line} с тех пор, как появился Сид.{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«Матрона говорила нам, что оно не менялось{Line} с тех пор, как появился Сид».{End}",
         "Source Text SHA256": "A3521F5771A000C7022471C417A086EB0E5A7B047ED9FDD8D5C17544B0061FDF",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -82,7 +82,7 @@
         }
       },
       "$en_seroom1_0010": {
-        "Target": "{X150Y150}White SeeD Leader{Line}В письме написано,{Line} что ты ищешь Эллону...{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«В письме написано,{Line} что ты ищешь Эллону...»{End}",
         "Source Text SHA256": "3A33233C47AE58019B7AC41E5575A383BAA2457F009FFDF70A5A71475170F25F",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -90,7 +90,7 @@
         }
       },
       "$en_seroom1_0011": {
-        "Target": "{X150Y150}White SeeD Leader{Line}...Мне жаль.{Line} Эллоны здесь больше нет.{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«...Мне жаль.{Line} Эллоны здесь больше нет».{End}",
         "Source Text SHA256": "7EC00447ACDB99CDBE2363F687721E0AFA5908B8277EB65EFE78B9AD1CAE91C7",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -98,7 +98,7 @@
         }
       },
       "$en_seroom1_0012": {
-        "Target": "{X150Y150}White SeeD Leader{Line}Между ними началось сражение, и{Line} мы оказались в его центре.{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«Между ними началось сражение, и{Line} мы оказались в его центре».{End}",
         "Source Text SHA256": "DFA0EFD1B92E3A44E37EFF78247F692BCD53998730F1F0169B0B2C0EDDC6161B",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -106,7 +106,7 @@
         }
       },
       "$en_seroom1_0013": {
-        "Target": "{X150Y150}White SeeD Leader{Line}И тогда случилось что-то{Line} странное.{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«И тогда случилось что-то{Line} странное».{End}",
         "Source Text SHA256": "53C81DD118349EC224D5CDBAE3D437A6A9A58F320294D01A08123DED82954A95",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -114,7 +114,7 @@
         }
       },
       "$en_seroom1_0014": {
-        "Target": "{X150Y150}White SeeD Leader{Line}После того, как они уплыли,{Line} мы... что ж, это длинная история.{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«После того, как они уплыли,{Line} мы... что ж, это длинная история».{End}",
         "Source Text SHA256": "BFAA4FBFE0145FACFE87A132A3F9DEFFF0813A2BC87CA21730A2BF67738C7FE1",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -122,7 +122,7 @@
         }
       },
       "$en_seroom1_0015": {
-        "Target": "{X150Y150}White SeeD Leader{Line}После того, как наш корабль будет полностью отремонтирован,{Line} мы планируем отправиться в Эстар.{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«После того, как наш корабль будет полностью отремонтирован,{Line} мы планируем отправиться в Эстар».{End}",
         "Source Text SHA256": "41C96D4A4B18888D45C1BB9CDAC95A7002AA21BFD20E4DA4233101A8675FB6D3",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -130,7 +130,7 @@
         }
       },
       "$en_seroom1_0016": {
-        "Target": "{X150Y150}White SeeD Leader{Line}Прости, {Char Squall}{Line} . Мы не смогли защитить её.{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«Прости, {Char Squall}.{Line}Мы не смогли защитить её».{End}",
         "Source Text SHA256": "7DD4FE2F3A6ADB90AB439ECCCCA4D0DD6E0308CD7D1ECBF4ED3FF33449E05B05",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -138,7 +138,7 @@
         }
       },
       "$en_seroom1_0017": {
-        "Target": "{X20Y20}{Char Squall}{Line}Значит, Эллона в Эстаре?{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Значит, Эллона в Эстаре?»{End}",
         "Source Text SHA256": "39CB62E1E214EDAAA4AF35C2C380B18B30BCF6FC0C0E32CE7276AC679D4650AD",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",
@@ -146,7 +146,7 @@
         }
       },
       "$en_seroom1_0018": {
-        "Target": "{X150Y150}White SeeD Leader{Line}Полагаю, что да.{End}",
+        "Target": "{X150Y150}Командир белых SeeD{Line}«Полагаю, что да».{End}",
         "Source Text SHA256": "2F7BD5725F7CF47184C6B8F5C056D828A07EA406BA61A27193A17C8AE4F61D83",
         "sourceContext": {
           "Source MSD SHA256": "7474932451473D2E39332F9DA18EF85C1229D4282368E4F03D4B5E6D72116F78",

@@ -42,7 +42,7 @@
         }
       },
       "$en_ddtower1_0005": {
-        "Target": "{X120Y40}Селфи{Line}«У-ХУ-У-У! ВОТ ЭТО ДА!»{End}",
+        "Target": "{X120Y40}{Char Selphie}{Line}«У-ХУ-У-У! ВОТ ЭТО ДА!»{End}",
         "Source Text SHA256": "000A3DFD413AC86C5E1C985BF2BF68504C45E85976FE4FC47C626B2425D6E3DD",
         "sourceContext": {
           "Source MSD SHA256": "6B905FC2D4C711250BF22AECC291E0CEC7297A9DA945A7FF6A892D3AFAA31F8A",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ddtower1_0007": {
-        "Target": "{X50Y30}Зелл{Line}«Ого!!! Ещё работает!»{End}",
+        "Target": "{X50Y30}{Char Zell}{Line}«Ого!!! Ещё работает!»{End}",
         "Source Text SHA256": "80C34C6C24D517A746DFAEE0D4A910482F43B8F731C14E986D3D801327AB1CA0",
         "sourceContext": {
           "Source MSD SHA256": "6B905FC2D4C711250BF22AECC291E0CEC7297A9DA945A7FF6A892D3AFAA31F8A",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ddtower1_0008": {
-        "Target": "Ирвайн{Line}«То есть... оно работает?»{End}",
+        "Target": "{Char Irvine}{Line}«То есть... оно работает?»{End}",
         "Source Text SHA256": "B8FECEA80FC5A79B1A6E845159E0CA725F17CC5D490B5AEACBD78DBA470FE2EF",
         "sourceContext": {
           "Source MSD SHA256": "6B905FC2D4C711250BF22AECC291E0CEC7297A9DA945A7FF6A892D3AFAA31F8A",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ddtower1_0009": {
-        "Target": "{X50Y30}Квистис{Line}«Ну что, работает?»{End}",
+        "Target": "{X50Y30}{Char Quistis}{Line}«Ну что, работает?»{End}",
         "Source Text SHA256": "CF3342D2689061CA479197138C5B61DA91A0718D6BABDC524C6696641BB38334",
         "sourceContext": {
           "Source MSD SHA256": "6B905FC2D4C711250BF22AECC291E0CEC7297A9DA945A7FF6A892D3AFAA31F8A",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ddtower1_0012": {
-        "Target": "{X50Y30}Зелл{Line}«Тут, похоже, несколько уровней...{Line} Интересно, что там внизу?»{End}",
+        "Target": "{X50Y30}{Char Zell}{Line}«Тут, похоже, несколько уровней...{Line} Интересно, что там внизу?»{End}",
         "Source Text SHA256": "CAB6C6EC18031DEB4D05B5055B506605C993D80B6DAD72F871683BC65450B1C3",
         "sourceContext": {
           "Source MSD SHA256": "6B905FC2D4C711250BF22AECC291E0CEC7297A9DA945A7FF6A892D3AFAA31F8A",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ddtower1_0013": {
-        "Target": "{X50Y30}Зелл{Line}«Эй... Это ещё что за чертовщина?..»{End}",
+        "Target": "{X50Y30}{Char Zell}{Line}«Эй... Это ещё что за чертовщина?..»{End}",
         "Source Text SHA256": "36180C3C760D01B39102D58C6CBDDB2CB264D141F7650DACA1A470BCCC7FD74D",
         "sourceContext": {
           "Source MSD SHA256": "6B905FC2D4C711250BF22AECC291E0CEC7297A9DA945A7FF6A892D3AFAA31F8A",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ddtower1_0014": {
-        "Target": "{X50Y30}Ирвин{Line}«Да уж, с размахом строили...{Line} Интересно, чем они тут занимались?»{End}",
+        "Target": "{X50Y30}{Char Irvine}{Line}«Да уж, с размахом строили...{Line} Интересно, чем они тут занимались?»{End}",
         "Source Text SHA256": "9DD9DC6F1703AE3841AFA8F7EC9AAF80AE2F4CAEE73435EA36550694860E558A",
         "sourceContext": {
           "Source MSD SHA256": "6B905FC2D4C711250BF22AECC291E0CEC7297A9DA945A7FF6A892D3AFAA31F8A",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ddtower1_0015": {
-        "Target": "{X50Y30}Ирвин{Line}«Кстати... а это что такое?»{End}",
+        "Target": "{X50Y30}{Char Irvine}{Line}«Кстати... а это что такое?»{End}",
         "Source Text SHA256": "E5702F128A88F6F99EE8173F09A55F0108D98E3A2930488690185DE9DF59E424",
         "sourceContext": {
           "Source MSD SHA256": "6B905FC2D4C711250BF22AECC291E0CEC7297A9DA945A7FF6A892D3AFAA31F8A",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ddtower1_0017": {
-        "Target": "{X50Y30}Квистис{Line}«Кстати, а что это такое?»{End}",
+        "Target": "{X50Y30}{Char Quistis}{Line}«Кстати, а что это такое?»{End}",
         "Source Text SHA256": "E8DAE3DD996E27643796A4BBF708F6B9CF8C334540BD24A3224EC06F6E302C3E",
         "sourceContext": {
           "Source MSD SHA256": "6B905FC2D4C711250BF22AECC291E0CEC7297A9DA945A7FF6A892D3AFAA31F8A",
@@ -228,7 +228,7 @@
         }
       },
       "$en_ddtower1_0026": {
-        "Target": "{X80Y50}”Экран управления“{End}",
+        "Target": "{X80Y50}«Экран управления»{End}",
         "Source Text SHA256": "5D2A79F1710EF8831A12E8BA09F3C3986AD5485506878BD5ABE8FD62870F02D3",
         "sourceContext": {
           "Source MSD SHA256": "6B905FC2D4C711250BF22AECC291E0CEC7297A9DA945A7FF6A892D3AFAA31F8A",

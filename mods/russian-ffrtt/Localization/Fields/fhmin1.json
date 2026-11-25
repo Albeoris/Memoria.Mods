@@ -2,7 +2,7 @@
   "Fields": {
     "fhmin1": {
       "$en_fhmin1_0000": {
-        "Target": "{X10Y20}{Char Squall}{Line}Мы поговорили с мастером, который{Line}сделал эту Мумбу. У нас проблема.{End}",
+        "Target": "{X10Y20}{Char Squall}{Line}«Мы поговорили с мастером, который{Line}сделал эту Мумбу. У нас проблема».{End}",
         "Source Text SHA256": "067DF55AE372053259AC3E283FF6BB3E7736DF6383DEF411A0BB3EC058213799",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -10,7 +10,7 @@
         }
       },
       "$en_fhmin1_0001": {
-        "Target": "{X150Y10}Механик-умелец{Line}Всё прошло хорошо, да? Само собой.{Line}Он мой брат.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Всё прошло хорошо, да? Само собой.{Line}Он мой брат».{End}",
         "Source Text SHA256": "245567C45D9EF2D691F51C40742F3556AAB0D046A848BA2052B86094DFFEC7AB",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -18,7 +18,7 @@
         }
       },
       "$en_fhmin1_0002": {
-        "Target": "{X150Y10}Механик-умелец{Line}Да какая разница, что будет с миром?{Line}Пока можешь работать с друзьями,{Line}остальное неважно.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Да какая разница, что будет с миром?{Line}Пока можешь работать с друзьями,{Line}остальное неважно».{End}",
         "Source Text SHA256": "F9C5F7A402B931B9FF06CCDBB1B440B86270ADBF14E3C0B3B76641D476D37F1F",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -26,7 +26,7 @@
         }
       },
       "$en_fhmin1_0003": {
-        "Target": "{X150Y10}Механик-умелец{Line}Что случилось?{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Что случилось?»{End}",
         "Source Text SHA256": "90B66E4E688F5EBC53060CB72F4B992173AD104E2022DE2518E9443602523049",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -34,7 +34,7 @@
         }
       },
       "$en_fhmin1_0004": {
-        "Target": "{X150Y10}Механик-умелец{Line}...Хм. У него и так забот хватает.{Line}Но, судя по всему, дело у вас{Line}важное. Ладно, помогу.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«...Хм. У него и так забот хватает.{Line}Но, судя по всему, дело у вас{Line}важное. Ладно, помогу».{End}",
         "Source Text SHA256": "3F385C5A9DB2D998C7E45870247F85A560A633E21C4CA672E853E9F525A19B92",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -42,7 +42,7 @@
         }
       },
       "$en_fhmin1_0005": {
-        "Target": "{X150Y10}Механик-умелец{Line}Так, посмотрим... А, точно!{Line}Возьмите с собой эту Мумбу.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Так, посмотрим... А, точно!{Line}Возьмите с собой эту Мумбу».{End}",
         "Source Text SHA256": "39AEB321F4ECA856EEA30E91E37DA4013AC5F4043FFB9E84C599D13ED9660B8D",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -50,7 +50,7 @@
         }
       },
       "$en_fhmin1_0006": {
-        "Target": "{X150Y10}Механик-умелец{Line}Эта малышка решит вашу{Line}проблему, вот увидите.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Эта малышка решит вашу{Line}проблему, вот увидите».{End}",
         "Source Text SHA256": "3F41D73CA05A5381372B51B2DEEFC23B1A584859EF5180C352EBA5560FBE258C",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -66,7 +66,7 @@
         }
       },
       "$en_fhmin1_0008": {
-        "Target": "{X170Y30}{Char Squall}{Line}Это настоящая Мумба?{End}",
+        "Target": "{X170Y30}{Char Squall}{Line}«Это настоящая Мумба?»{End}",
         "Source Text SHA256": "EA4F79DDF70CE38D688CC080C4C9C8BD911C524AF17E76081CB911945EA98DEF",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -74,7 +74,7 @@
         }
       },
       "$en_fhmin1_0009": {
-        "Target": "{X150Y10}Механик-умелец{Line}Да нет же. Вы были{Line}в деревне Шуми, да? Встречали{Line}парня, сделавшего эту куклу Мумбы?{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Да нет же. Вы были{Line}в деревне Шуми, да? Встречали{Line}парня, сделавшего эту куклу Мумбы?»{End}",
         "Source Text SHA256": "36A579D15C13AAFB9683ED0C6579EBAD28187ECCD4A35DE086D8E7414DF0514D",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -82,7 +82,7 @@
         }
       },
       "$en_fhmin1_0010": {
-        "Target": "{X150Y10}Механик-умелец{Line}Кукла реагирует на тех,{Line}кто побывал в деревне Шуми.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Кукла реагирует на тех,{Line}кто побывал в деревне Шуми».{End}",
         "Source Text SHA256": "76AE1B09CBC40D2D60EB8F2F0C12973DC7552ADA6FE183E3FF866A2B4C8AED4C",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -90,7 +90,7 @@
         }
       },
       "$en_fhmin1_0011": {
-        "Target": "{X10Y10}Ирвин{Line}А, теперь вспомнил. Так это{Line}она отлупила гальбадийского офицера.{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}«А, теперь вспомнил. Так это{Line}она отлупила гальбадийского офицера».{End}",
         "Source Text SHA256": "ADD4AA5D421A31E06B426C197E0D8F1BADD364C2A480761FFCB899004B2274C8",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -98,7 +98,7 @@
         }
       },
       "$en_fhmin1_0012": {
-        "Target": "{X150Y10}Механик-умелец{Line}Ага.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Ага».{End}",
         "Source Text SHA256": "4FCD8A89350F922A6CC02116491FBCECB58320E3B88ABBE9FE1562C3FD8EBC1F",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -106,7 +106,7 @@
         }
       },
       "$en_fhmin1_0013": {
-        "Target": "{X150Y10}Механик-умелец{Line}Высокие технологии, да?{Line}Я и сам мастер неплохой,{Line}но такое мне и не снилось.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Высокие технологии, да?{Line}Я и сам мастер неплохой,{Line}но такое мне и не снилось».{End}",
         "Source Text SHA256": "93E172AA9C479A040F55DB520727DF28AD202FCAFDAC4E51C0247040A2729847",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -114,7 +114,7 @@
         }
       },
       "$en_fhmin1_0014": {
-        "Target": "{X150Y10}Grease Monkey{Line}Это ремонтная мастерская отличается от{Line} других. Что вам починить?{Line} Голову? Личность? Может, дать{Line} вам хороший совет?{End}",
+        "Target": "{X150Y10}Механик{Line}«Это ремонтная мастерская отличается от{Line} других. Что вам починить?{Line} Голову? Личность? Может, дать{Line} вам хороший совет?»{End}",
         "Source Text SHA256": "F5C48312F1669260BEE9634C13F24CCAB6401237A6A3E5AE1A2150EE36199709",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -122,7 +122,7 @@
         }
       },
       "$en_fhmin1_0015": {
-        "Target": "{X150Y10}Механик-умелец{Line}Ну вы им и задали, ребята!{Line}До чего же приятно было смотреть!{Line}Хлам этот потом соберу.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Ну вы им и задали, ребята!{Line}До чего же приятно было смотреть!{Line}Хлам этот потом соберу».{End}",
         "Source Text SHA256": "6A7189768772B1CA05461C22AEEA035FD373AFE083B160200641BFD6D056A7FA",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -130,7 +130,7 @@
         }
       },
       "$en_fhmin1_0016": {
-        "Target": "{X400Y10}Механик-умелец{Line}Загляните в {Color Blue}〖деревню Шуми〗{Color White}, если{Line}случай представится. Место отличное.{End}",
+        "Target": "{X400Y10}Механик-умелец{Line}«Загляните в {Color Blue}〖деревню Шуми〗{Color White}, если{Line}случай представится. Место отличное».{End}",
         "Source Text SHA256": "D5B11F58CCA80C1B4F1D1B493A028648A918697D0A96D34E6E8F810B7F4A21D4",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -138,7 +138,7 @@
         }
       },
       "$en_fhmin1_0017": {
-        "Target": "{X400Y10}Механик-умелец{Line}Все эти штуки у меня{Line}от одного парня из деревни Шуми.{End}",
+        "Target": "{X400Y10}Механик-умелец{Line}«Все эти штуки у меня{Line}от одного парня из деревни Шуми».{End}",
         "Source Text SHA256": "A938EEC9CF2E99FCF42F6CA3F44F0F119C352FC9BBACDF4003577F1B2F95FFB9",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -146,7 +146,7 @@
         }
       },
       "$en_fhmin1_0018": {
-        "Target": "{X400Y10}Механик-умелец{Line}Мы оба мастера, и у нас много{Line}общего, вот и ладим.{End}",
+        "Target": "{X400Y10}Механик-умелец{Line}«Мы оба мастера, и у нас много{Line}общего, вот и ладим».{End}",
         "Source Text SHA256": "811E70F38BE6C7A8BACB3B7FC8F183BFFE5EF2A2B90063C79B9095DD623D0B73",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -154,7 +154,7 @@
         }
       },
       "$en_fhmin1_0019": {
-        "Target": "{X150Y10}Механик-умелец{Line}Тихо тут стало с тех пор, как ушли{Line}солдаты. Может, съездить мне{Line}в {Color Blue}〖деревню Шуми〗{Color White} или ещё куда.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Тихо тут стало с тех пор, как ушли{Line}солдаты. Может, съездить мне{Line}в {Color Blue}〖деревню Шуми〗{Color White} или ещё куда».{End}",
         "Source Text SHA256": "8C46D2A1774661E53D2E2FE867771E8B35B5CEF39610824FAFB674EC5F3F9D2E",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -162,7 +162,7 @@
         }
       },
       "$en_fhmin1_0020": {
-        "Target": "{X150Y10}Механик-умелец{Line}Да... Столько всего творится, а?{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Да... Столько всего творится, а?»{End}",
         "Source Text SHA256": "AD3B4C12F720AFC387F6BD75D226BD6ADFFCDB35396C7765F4D0E85494883A3F",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -170,7 +170,7 @@
         }
       },
       "$en_fhmin1_0021": {
-        "Target": "{X420Y120}Офицер Гальбадии{Line}Да почини уже! Ты хоть это{Line}можешь, болван?!{End}",
+        "Target": "{X420Y120}Офицер Гальбадии{Line}«Да почини уже! Ты хоть это{Line}можешь, болван?!»{End}",
         "Source Text SHA256": "EA9F0646DBB37F27A31B752262D32CD8F435CFFDB06CC11E7D984255EE35DFE9",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -186,7 +186,7 @@
         }
       },
       "$en_fhmin1_0023": {
-        "Target": "{X160Y25}А?!{End}",
+        "Target": "{X160Y25}«А?!»{End}",
         "Source Text SHA256": "B5769E283A5A300F8EF5B9DC15706D3A0C54F625FF953DF56BC149AC26A669CF",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -194,7 +194,7 @@
         }
       },
       "$en_fhmin1_0024": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}Заткнись...{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}«Заткнись...»{End}",
         "Source Text SHA256": "C1609C868C481EA0BF710E5824171580437F5DA16A8ADCB4F096E630A1D8A714",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -202,7 +202,7 @@
         }
       },
       "$en_fhmin1_0025": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}!?{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}«!?»{End}",
         "Source Text SHA256": "34B0F8A883D85099D25E665A196603D0FD63276D099ED43E41FCFE7B1F3CB54E",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -210,7 +210,7 @@
         }
       },
       "$en_fhmin1_0026": {
-        "Target": "{X160Y25}Офицер Гальбадии{Line}Сид!{End}",
+        "Target": "{X160Y25}Офицер Гальбадии{Line}«Сид!»{End}",
         "Source Text SHA256": "5521E673A996AD8F11D6A928E9364D1F5B7F82BE7290E93F2AFC77FAF2328DCF",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -218,7 +218,7 @@
         }
       },
       "$en_fhmin1_0027": {
-        "Target": "{X160Y25}Офицер Гальбадии{Line}А... Это всего лишь ты?{End}",
+        "Target": "{X160Y25}Офицер Гальбадии{Line}«А... Это всего лишь ты?»{End}",
         "Source Text SHA256": "51A2283409D5324F8F0AE15213EC1E282914F4124DF82A8ABDCDD191B3C2E4F2",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -226,7 +226,7 @@
         }
       },
       "$en_fhmin1_0028": {
-        "Target": "{X170Y30}{Char Squall}{Line}...Что ты здесь делаешь?{End}",
+        "Target": "{X170Y30}{Char Squall}{Line}«...Что ты здесь делаешь?»{End}",
         "Source Text SHA256": "0521FD788689BDE3E538A4D50CC82A42B543F271E2DFE5E793138A0609959936",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -234,7 +234,7 @@
         }
       },
       "$en_fhmin1_0029": {
-        "Target": "{X170Y30}Ирвин{Line}Что ты задумал?{End}",
+        "Target": "{X170Y30}{Char Irvine}{Line}«Что ты задумал?»{End}",
         "Source Text SHA256": "4D3DE58E0BB3B4036767906D18E48FA519718A36BE4178EBF391833F060EE85A",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -242,7 +242,7 @@
         }
       },
       "$en_fhmin1_0030": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}...Хе-хе.{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}«...Хе-хе».{End}",
         "Source Text SHA256": "108A47F482C2E485385623B6EBBED0CE454BBFB7D0B3D411D8D07AA0A0039093",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -250,7 +250,7 @@
         }
       },
       "$en_fhmin1_0031": {
-        "Target": "{X50Y5}Офицер Гальбадии{Line}Я прошу его починить{Line}«Броненосец», который вы разнесли.{End}",
+        "Target": "{X50Y5}Офицер Гальбадии{Line}«Я прошу его починить{Line}„Броненосец“, который вы разнесли».{End}",
         "Source Text SHA256": "1A50332BCD0F58C27F833DE1C4B71A764E86DAF2592BB61A00D0F47E42118F41",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -258,7 +258,7 @@
         }
       },
       "$en_fhmin1_0032": {
-        "Target": "{X50Y5}Офицер Гальбадии{Line}Собирался починить «Броненосец»,{Line}но теперь это неважно.{Line}Я с тобой прямо тут разделаюсь.{End}",
+        "Target": "{X50Y5}Офицер Гальбадии{Line}«Собирался починить „Броненосец“,{Line}но теперь это неважно.{Line}Я с тобой прямо тут разделаюсь».{End}",
         "Source Text SHA256": "7E24B651CEDDE53FD7C781BB54FAAB7FC43DE7F12B76FDFD62BC80E54B2AC157",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -274,7 +274,7 @@
         }
       },
       "$en_fhmin1_0034": {
-        "Target": "{X170Y30}Ирвин{Line}(Ох, блин. Он просто в бешенстве.){End}",
+        "Target": "{X170Y30}{Char Irvine}{Line}(Ох, блин. Он просто в бешенстве.){End}",
         "Source Text SHA256": "0A729B88388ABA7C980B173C736D8E782491F686A94374328A80469B2F50C423",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -282,7 +282,7 @@
         }
       },
       "$en_fhmin1_0035": {
-        "Target": "{X170Y30}Ирвин{Line}(...Дело дрянь.){End}",
+        "Target": "{X170Y30}{Char Irvine}{Line}(...Дело дрянь.){End}",
         "Source Text SHA256": "6191A9BB054EA4934DF02CB43576E2AE02AB9730FCD9356AE9FA0F1ABE74B7C0",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -290,7 +290,7 @@
         }
       },
       "$en_fhmin1_0036": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}Хе-хе-хе. Ты труп.{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}«Хе-хе-хе. Ты труп».{End}",
         "Source Text SHA256": "6F9F2DB5E8E9189E46F8718BBE8B74520C8D5324AB10D0CBAB246DB034D5EFB3",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -298,7 +298,7 @@
         }
       },
       "$en_fhmin1_0037": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}Никуда ты не пойдёшь,{Line}пока я тебе шею не сверну.{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}«Никуда ты не пойдёшь,{Line}пока я тебе шею не сверну».{End}",
         "Source Text SHA256": "C3EC6B4FF07EF60228C576AE13000E1F81809141400935DB4F12905A08EE00EA",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -314,7 +314,7 @@
         }
       },
       "$en_fhmin1_0039": {
-        "Target": "{X170Y30}Ирвин{Line}(Похоже, он не шутит...){End}",
+        "Target": "{X170Y30}{Char Irvine}{Line}(Похоже, он не шутит...){End}",
         "Source Text SHA256": "866A8D966BF90F85935FF000BF5C628C4B7D9F8B986A10BB3667EBDDBF36631F",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -330,7 +330,7 @@
         }
       },
       "$en_fhmin1_0041": {
-        "Target": "{X170Y30}Ирвин{Line}(Лучше дать дёру.){End}",
+        "Target": "{X170Y30}{Char Irvine}{Line}(Лучше дать дёру.){End}",
         "Source Text SHA256": "EA4921EEB2EF161193B0034F033C27AF1D4723E73ADC4E3A49B0000EDF3051FD",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -338,7 +338,7 @@
         }
       },
       "$en_fhmin1_0042": {
-        "Target": "{X170Y30}{Char Squall}{Line}Эй, выйдем.{End}",
+        "Target": "{X170Y30}{Char Squall}{Line}«Эй, выйдем».{End}",
         "Source Text SHA256": "842BA92BA026CE9622ECDCF3B289CEF2F6EBBA802B340018E8F4984A29604CE6",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -346,7 +346,7 @@
         }
       },
       "$en_fhmin1_0043": {
-        "Target": "{X170Y30}Ирвин{Line}Что ж, приятно было повидаться!{End}",
+        "Target": "{X170Y30}{Char Irvine}{Line}«Что ж, приятно было повидаться!»{End}",
         "Source Text SHA256": "1536CAC623327138EE4BE3F17F9C0645FF96D8B10C92B1818877923262EFC68D",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -354,7 +354,7 @@
         }
       },
       "$en_fhmin1_0044": {
-        "Target": "{X170Y30}Ирвин{Line}А теперь до свидания!{End}",
+        "Target": "{X170Y30}{Char Irvine}{Line}«А теперь до свидания!»{End}",
         "Source Text SHA256": "C5F472132BE19C96225734AE442A30261FA665B542C6B7137117732C77B2014E",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -362,7 +362,7 @@
         }
       },
       "$en_fhmin1_0045": {
-        "Target": "{X160Y25}Офицер Гальбадии{Line}ЧТО?!..{End}",
+        "Target": "{X160Y25}Офицер Гальбадии{Line}«ЧТО?!...»{End}",
         "Source Text SHA256": "EFEB6EAA4698E09A2CC2B593AC378EF8322395137237E3DB28DA5AD34A5FC523",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -370,7 +370,7 @@
         }
       },
       "$en_fhmin1_0046": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}Ладно, крутой парень!{Line}Сейчас разберёмся!!!{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}«Ладно, крутой парень!{Line}Сейчас разберёмся!!!»{End}",
         "Source Text SHA256": "122DFAE75C8BFB0888306B1246B793A3E083569B31F77BDC381BE625305EF46F",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -378,7 +378,7 @@
         }
       },
       "$en_fhmin1_0047": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}Ты куда это собрался?!{Line}{Color RedBlink}На улицу! Живо!{Color White}{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}«Ты куда это собрался?!{Line}{Color RedBlink}На улицу! Живо!»{Color White}{End}",
         "Source Text SHA256": "DB7B9E349E0AC47ADA830EC36EA9CC09D6C5F657B8169037551E89A9EA62316B",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -386,7 +386,7 @@
         }
       },
       "$en_fhmin1_0048": {
-        "Target": "{X150Y10}Ирвин{Line}Да ну, приятель, отстань.{Line}Я с ног валюсь.{End}",
+        "Target": "{X150Y10}{Char Irvine}{Line}«Да ну, приятель, отстань.{Line}Я с ног валюсь».{End}",
         "Source Text SHA256": "B1209966DCD0FC7B9CCD67A5F23F9FFC9EB0CC01D3AD778F7E8ACE0129C923E2",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -394,7 +394,7 @@
         }
       },
       "$en_fhmin1_0049": {
-        "Target": "{X150Y10}Механик-умелец{Line}Эй, можешь выручить?!{Line}Этот тип от меня не отстаёт!{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Эй, можешь выручить?!{Line}Этот тип от меня не отстаёт!»{End}",
         "Source Text SHA256": "3B1AE04F90022AA18675CBA3533A5B189979176AA08E4C93E788DA0899C7F354",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -402,7 +402,7 @@
         }
       },
       "$en_fhmin1_0050": {
-        "Target": "{X150Y10}Механик-умелец{Line}Ты в порядке будешь?{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Ты в порядке будешь?»{End}",
         "Source Text SHA256": "8863BE5B66F33963ED101C9644AC3141A32AA718F076DB47BA4B16D55F234FC1",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -410,7 +410,7 @@
         }
       },
       "$en_fhmin1_0051": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}{Color Grey}Я тебя не боюсь...{Color White}{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}{Color Grey}«Я тебя не боюсь...»{Color White}{End}",
         "Source Text SHA256": "3F10AC661B72E1217FA4077E3107BF3702D6DB5219764C84382A8C5F4A806494",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -418,7 +418,7 @@
         }
       },
       "$en_fhmin1_0052": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}{Color RedBlink}Я сказал, на улицу!{Color White}{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}{Color RedBlink}«Я сказал, на улицу!»{Color White}{End}",
         "Source Text SHA256": "6DB90202153C342CFFAD8C681DAA5E53D6247D8B94B84136B7F3FD6ACCD3AA73",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -426,7 +426,7 @@
         }
       },
       "$en_fhmin1_0053": {
-        "Target": "{X150Y10}Механик-умелец{Line}...Он удрал через окно.{Line}Сказал, двое на одного — нечестно.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«...Он удрал через окно.{Line}Сказал, двое на одного — нечестно».{End}",
         "Source Text SHA256": "55C90EED2ED08DC59970EE6819FDCF52C52EC3FFD1FCDE2BBD83AD73948365ED",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -434,7 +434,7 @@
         }
       },
       "$en_fhmin1_0054": {
-        "Target": "{X180Y55}Механик-умелец{Line}Спасибо, приятель. Вот, держи.{End}",
+        "Target": "{X180Y55}Механик-умелец{Line}«Спасибо, приятель. Вот, держи».{End}",
         "Source Text SHA256": "59474352259F0A823733DBDA300B79E0B913BC3C879583EA4989B52A9BE6B8CE",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -442,7 +442,7 @@
         }
       },
       "$en_fhmin1_0055": {
-        "Target": "{X180Y55}Механик-умелец{Line}О, у меня кое-что для тебя. Держи.{End}",
+        "Target": "{X180Y55}Механик-умелец{Line}«О, у меня кое-что для тебя. Держи».{End}",
         "Source Text SHA256": "00765C3AB25865B5646366D7EFB1C736F9C8E92B6DF3586D6F184481D112285E",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -450,7 +450,7 @@
         }
       },
       "$en_fhmin1_0056": {
-        "Target": "{X80Y0}Получено: [Дар Феникса]!{End}",
+        "Target": "{X80Y0}«Получено: [Дар Феникса]!»{End}",
         "Source Text SHA256": "DE397C31A5528E61A14482E27F6575907431908B9DAB82CD7E269694C4B6810A",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -458,7 +458,7 @@
         }
       },
       "$en_fhmin1_0057": {
-        "Target": "{X80Y0}Получено: [Перо Феникса]!{End}",
+        "Target": "{X80Y0}«Получено: [Перо Феникса]!»{End}",
         "Source Text SHA256": "D9FED3BAA42E51B81B1E1C541363B5D9659D7F1DB326389FE547B9B4F82DE780",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -466,7 +466,7 @@
         }
       },
       "$en_fhmin1_0058": {
-        "Target": "{X20Y30}Получено: [Скорострельный патрон]!{End}",
+        "Target": "{X20Y30}«Получено: [Скорострельный патрон]!»{End}",
         "Source Text SHA256": "CF4A914B209274A7335E4F88BAB405DD07D18E9A0B4E4BACCF6B0D2422FC2D65",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -474,7 +474,7 @@
         }
       },
       "$en_fhmin1_0059": {
-        "Target": "{X20Y30}Получено: [Бронебойный патрон]!{End}",
+        "Target": "{X20Y30}«Получено: [Бронебойный патрон]!»{End}",
         "Source Text SHA256": "A52E97387696F27DDB0B07D2E26432DA76E1A218CBA3EF9A76E5072D6400E262",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -482,7 +482,7 @@
         }
       },
       "$en_fhmin1_0060": {
-        "Target": "{X20Y30}Получено: [Импульсный патрон]!{End}",
+        "Target": "{X20Y30}«Получено: [Импульсный патрон]!»{End}",
         "Source Text SHA256": "B43356640414CB97A9E862D6A8F0A0476359E4B54297F616C0799B5B15451D94",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -490,7 +490,7 @@
         }
       },
       "$en_fhmin1_0061": {
-        "Target": "{X80Y30}Ирвин{Line}А... Не «Мега», значит...{End}",
+        "Target": "{X80Y30}{Char Irvine}{Line}«А... Не „Мега“, значит...»{End}",
         "Source Text SHA256": "2645F4897F0FA68725387AC1BA0309680BE0A7C2D5ECC8D7FE4BE4BA57412733",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -498,7 +498,7 @@
         }
       },
       "$en_fhmin1_0062": {
-        "Target": "{X150Y10}Механик-умелец{Line}Заглядывай, когда хочешь.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Заглядывай, когда хочешь».{End}",
         "Source Text SHA256": "105D3A9A83E9F7E93D34B1D77CC5BD4B21D5C78802D5E512D5ABD0907DB50168",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -506,7 +506,7 @@
         }
       },
       "$en_fhmin1_0063": {
-        "Target": "{X150Y10}Механик-умелец{Line}Ну, ещё увидимся.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Ну, ещё увидимся».{End}",
         "Source Text SHA256": "53D3B8762278B5299CF0CCCF6A3AD32FF1595B53FB1511AFAF41F0DDD4EA235F",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -522,7 +522,7 @@
         }
       },
       "$en_fhmin1_0065": {
-        "Target": "{X150Y10}Механик-умелец{Line}Да ну, с ним-то хлопот не было.{End}",
+        "Target": "{X150Y10}Механик-умелец{Line}«Да ну, с ним-то хлопот не было».{End}",
         "Source Text SHA256": "C9EAE6225038EB7A5A258F8BAAB7989C15428312556359A08442F5B34961C414",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -530,7 +530,7 @@
         }
       },
       "$en_fhmin1_0066": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}{Color Grey}Ух...{Color White}{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}{Color Grey}«Ух...»{Color White}{End}",
         "Source Text SHA256": "67D4BAB8C1EFD963497D734CAC0E42AD01BD21E9AF8DD2D5504D3F282B188092",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -538,7 +538,7 @@
         }
       },
       "$en_fhmin1_0067": {
-        "Target": "{X50Y20}Офицер Гальбадии{Line}{Color Grey}......{Color White}{End}",
+        "Target": "{X50Y20}Офицер Гальбадии{Line}{Color Grey}«......»{Color White}{End}",
         "Source Text SHA256": "54DC39926C3B6CD2823FF68593EB2420BED8B40D840F96E7E1B88947169C6E71",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -546,7 +546,7 @@
         }
       },
       "$en_fhmin1_0068": {
-        "Target": "{X170Y30}Ирвин{Line}Ничего себе! Как ты его одолел?{End}",
+        "Target": "{X170Y30}{Char Irvine}{Line}«Ничего себе! Как ты его одолел?»{End}",
         "Source Text SHA256": "B4445704A7F6189666E273D0491626E27C13CC5F0F9610F4E437E4740E3564CE",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -554,7 +554,7 @@
         }
       },
       "$en_fhmin1_0069": {
-        "Target": "{X10Y20}Ирвин{Line}А? Ты всё ещё здесь?..{End}",
+        "Target": "{X10Y20}{Char Irvine}{Line}«А? Ты всё ещё здесь?..»{End}",
         "Source Text SHA256": "8380AC04E56AA8B6EFE30D78430295D39C2EFE82FD5E44103837134789761038",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -562,7 +562,7 @@
         }
       },
       "$en_fhmin1_0070": {
-        "Target": "Ирвин{Line}«О? Опять он?..»{End}",
+        "Target": "{Char Irvine}{Line}«О? Опять он?..»{End}",
         "Source Text SHA256": "6573979B320DFA9FC806444F3CA34FD5256DB7E237388A09AC6B7AC0971B8854",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -570,7 +570,7 @@
         }
       },
       "$en_fhmin1_0071": {
-        "Target": "{X10Y30}Ирвин{Line}!?{End}",
+        "Target": "{X10Y30}{Char Irvine}{Line}«!?»{End}",
         "Source Text SHA256": "93DC1F18AA48DBDADD30CAEA5AD7E604DD3CCDBB2587ADA42EA6385C97122864",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -578,7 +578,7 @@
         }
       },
       "$en_fhmin1_0072": {
-        "Target": "{X10Y10F1L2B1C2}Как насчёт игры?{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}«Как насчёт игры?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "3156948016C182524D6AA8516DBB5655E6120A706C3840FEE1B7CC4A7DCDE6FF",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -586,7 +586,7 @@
         }
       },
       "$en_fhmin1_0073": {
-        "Target": "{X10Y10}Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Баламба и нашим.{End}",
+        "Target": "{X10Y10}«Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Баламба и нашим».{End}",
         "Source Text SHA256": "78B4F5E184AE830AB521F4C783096B33ACC99A411ECF98270A6FF1BB4AE86E97",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -594,7 +594,7 @@
         }
       },
       "$en_fhmin1_0074": {
-        "Target": "{X10Y10}Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим.{End}",
+        "Target": "{X10Y10}«Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим».{End}",
         "Source Text SHA256": "38205EC09AB311D47E6393E157DEB7FF000E13DC79DA07FA5874FB5FDE2653CF",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -602,7 +602,7 @@
         }
       },
       "$en_fhmin1_0075": {
-        "Target": "{X10Y10}Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Трабии и нашим.{End}",
+        "Target": "{X10Y10}«Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Трабии и нашим».{End}",
         "Source Text SHA256": "8E8F3662A23FECD12DF8F04A9368E90948B0DCF2A798FF27D4290A109494EFA2",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -610,7 +610,7 @@
         }
       },
       "$en_fhmin1_0076": {
-        "Target": "{X10Y10}Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Центры и нашим.{End}",
+        "Target": "{X10Y10}«Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Центры и нашим».{End}",
         "Source Text SHA256": "D08A70E6B994CB7A8C57636C62E186321A2221E48F605C054C632AAF78A65129",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -618,7 +618,7 @@
         }
       },
       "$en_fhmin1_0077": {
-        "Target": "{X10Y10}Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Доллета и нашим.{End}",
+        "Target": "{X10Y10}«Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Доллета и нашим».{End}",
         "Source Text SHA256": "3927B827EF2EF7E3EB0CC867E55B30CB2E63BAD42E55C2F8E5D2AE1E2C3B7554",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -626,7 +626,7 @@
         }
       },
       "$en_fhmin1_0078": {
-        "Target": "{X10Y10}Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}ГР и нашим.{End}",
+        "Target": "{X10Y10}«Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}ГР и нашим».{End}",
         "Source Text SHA256": "39986A9A05CC38BB0CFD1BEA5B18200F9D679E8078490FCD7D25CF3A9FBD9AF6",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -634,7 +634,7 @@
         }
       },
       "$en_fhmin1_0079": {
-        "Target": "{X10Y10}Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Луны и нашим.{End}",
+        "Target": "{X10Y10}«Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Луны и нашим».{End}",
         "Source Text SHA256": "76525869A1860570E3E345CB1D4C591457FA55C56BA05B4D74D237C4E946353A",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",
@@ -642,7 +642,7 @@
         }
       },
       "$en_fhmin1_0080": {
-        "Target": "{X10Y10}Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Эстара и нашим.{End}",
+        "Target": "{X10Y10}«Эй, я такого{Line}правила не слыхал.{Line}Давай сыграем по правилам{Line}Эстара и нашим».{End}",
         "Source Text SHA256": "EC05896836F03A96247558165A889A73B08BF25B69F03A47C27D5D56E9F48C3E",
         "sourceContext": {
           "Source MSD SHA256": "847CCA46A4C1DD4A9248B8D999EA2FA3350305AD47CF35133E26A81081F64B23",

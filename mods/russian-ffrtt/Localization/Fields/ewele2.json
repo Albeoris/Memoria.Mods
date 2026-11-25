@@ -2,7 +2,7 @@
   "Fields": {
     "ewele2": {
       "$en_ewele2_0000": {
-        "Target": "{X12Y12}Zell{Line}А это что, лифт, что ли?{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«А это что, лифт, что ли?»{End}",
         "Source Text SHA256": "45054D49697F69CED3AC5CEBEFB70C430B15B1EE77AA6F76B3BAAD88A6CDF5C2",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",
@@ -10,7 +10,7 @@
         }
       },
       "$en_ewele2_0001": {
-        "Target": "{X12Y12}Квистис{Line}«Кто всё это построил?»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Кто всё это построил?»{End}",
         "Source Text SHA256": "8CCB95EFD7E343AB1F59F41AD0EE00C433629582461DC6A05CA253FEFD540360",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ewele2_0002": {
-        "Target": "{X12Y12}Селфи{Line}«Куда мы едем?»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Куда мы едем?»{End}",
         "Source Text SHA256": "9FBD869543D8CCB97A6425A8FA9FD563A9978D447839BF520B2CBEF3F3ADE28C",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ewele2_0003": {
-        "Target": "{X12Y12}Ирвин{Line}«Да куда нас эта штука везёт?»{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}«Да куда нас эта штука везёт?»{End}",
         "Source Text SHA256": "4EE78FD8EC2709DF567A4279DF3E308C278F9FC6887611AA075C36CCAA6A2CE4",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ewele2_0004": {
-        "Target": "{X12Y12}Эдея{Line}«Интересно, куда мы направляемся...»{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}«Интересно, куда мы направляемся...»{End}",
         "Source Text SHA256": "C17B6BACDDB33CE30FBB07EBF249D94D48A2A9BCA56FA35BEF2A6A2A00B49129",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ewele2_0005": {
-        "Target": "{X80Y160}Зелл{Line}«С ума сойти!{Line} Где мы, чёрт возьми?!»{End}",
+        "Target": "{X80Y160}{Char Zell}{Line}«С ума сойти!{Line} Где мы, чёрт возьми?!»{End}",
         "Source Text SHA256": "B44133FF2C708738873ABB05C07D2E8DDF9DB6B58A5062EBDCE1A9C589039D0C",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ewele2_0006": {
-        "Target": "{X80Y160}Квистис{Line}«Я совсем потеряла ориентир.»{End}",
+        "Target": "{X80Y160}{Char Quistis}{Line}«Я совсем потеряла ориентир».{End}",
         "Source Text SHA256": "E39BD7646A3A7085ED8092F814129AC90D7086BDF6D0761B38A4D6C540661475",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ewele2_0007": {
-        "Target": "{X80Y160}Селфи{Line}«Вот это странно.»{End}",
+        "Target": "{X80Y160}{Char Selphie}{Line}«Вот это странно».{End}",
         "Source Text SHA256": "C21AF426572F9703BBC83FEDE951ED573F51E56E43C02FA7CF677FB7FB76C4A0",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ewele2_0008": {
-        "Target": "{X80Y160}Irvine{Line}А, блин,{Line} да неважно.{End}",
+        "Target": "{X80Y160}{Char Irvine}{Line}«А, блин,{Line} да неважно».{End}",
         "Source Text SHA256": "B89AA2C027DEDE0E020317A461035719E4D3B040392A6A600DCD0823F1180967",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ewele2_0009": {
-        "Target": "{X80Y160}Эдея{Line}«Даже не представляю...»{End}",
+        "Target": "{X80Y160}{Char Edea}{Line}«Даже не представляю...»{End}",
         "Source Text SHA256": "A2FA35A05107AF5895D409D5A29B434E8911F64B9521D72CA93F411A60A5C733",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ewele2_0011": {
-        "Target": "{X12Y160}{Char Squall}{Line}На попятную идти уже поздно.{End}",
+        "Target": "{X12Y160}{Char Squall}{Line}«На попятную идти уже поздно».{End}",
         "Source Text SHA256": "42CB6E45CCA0A12DA49E60723089019905721423D44F1AEE7379A9A4309F6445",
         "sourceContext": {
           "Source MSD SHA256": "9E9D46F86D5D81DB561C0822C424EF9C57992E2D7CE59D0A3AF4B4C4B96B73C4",

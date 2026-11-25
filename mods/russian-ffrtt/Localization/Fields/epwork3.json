@@ -42,7 +42,7 @@
         }
       },
       "$en_epwork3_0005": {
-        "Target": "{X12Y12}Сельфи{Line}(Это сэр Лагуна... Он самый...{Line}{Char Squall}, что мне делать?!){End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«(Это сэр Лагуна... Он самый...{Line}{Char Squall}, что мне делать?!)»{End}",
         "Source Text SHA256": "18A7BD814975572ABB615BECA272ADF3A1B76BF551BB0CF039F64B4AE668A279",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -90,7 +90,7 @@
         }
       },
       "$en_epwork3_0011": {
-        "Target": "Чего ты так хмуришься?{End}",
+        "Target": "«Чего ты так хмуришься?»{End}",
         "Source Text SHA256": "B25BC07D1FC990B1C244D900011A7F1C7F31D2BA82AE7426D505625A0D5145AE",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -98,7 +98,7 @@
         }
       },
       "$en_epwork3_0012": {
-        "Target": "{X12Y12}{Char Squall}{Line}Извини.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Извини».{End}",
         "Source Text SHA256": "0A9E788F352603DD5A7EB923567537E11DE123D51682EF0787995BC71D840720",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -106,7 +106,7 @@
         }
       },
       "$en_epwork3_0013": {
-        "Target": "Не за что извиняться.{End}",
+        "Target": "«Не за что извиняться».{End}",
         "Source Text SHA256": "853A3CACB6E8185351B68D7E6B5FE8EFFE6E89AD04EED7B49A93F44BB0D45DF8",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -114,7 +114,7 @@
         }
       },
       "$en_epwork3_0014": {
-        "Target": "Просто попробуй{Line}чуть-чуть расслабиться.{End}",
+        "Target": "«Просто попробуй{Line}чуть-чуть расслабиться».{End}",
         "Source Text SHA256": "53FFBF3B968B0624C9C18B354AF36B1379ED530914424E7C923A9AF5260D4A31",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -130,7 +130,7 @@
         }
       },
       "$en_epwork3_0016": {
-        "Target": "{X12Y12}Laguna{Line}Чёрт, ну и серьёзный же у тебя вид.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Чёрт, ну и серьёзный же у тебя вид».{End}",
         "Source Text SHA256": "F56F0A4515C004DA265F7658FFB88CBBD1214A8D4D56EC9527D94FE8FA749DC5",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -138,7 +138,7 @@
         }
       },
       "$en_epwork3_0017": {
-        "Target": "{X12Y12F2L5B2C0}{Char Squall}{Line}Неважно.{Line}Объясните - как победить Ультимецию{Line}Где Эллона?{Line}Расскажите мне о Рейн{Line}Чем вы здесь занимаетесь?{End}",
+        "Target": "{X12Y12F2L5B2C0}{Char Squall}{Line}«Неважно».{Line}Объясните, как победить Ультимецию{Line}Где Эллона?{Line}Расскажите мне о Рейн{Line}Чем вы здесь занимаетесь?{End}",
         "Source Text SHA256": "EC9C56C50F67BC69BAAFE9B0F25C4A4E9BE25CC44CA55A25989D44AB383E8C27",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -146,7 +146,7 @@
         }
       },
       "$en_epwork3_0018": {
-        "Target": "{X12Y12F0L4B0C0}Объясните, как победить Ультимецию{Line}Where’s Ellone?{Line}Tell me about Raine{Line}Чем вы здесь занимаетесь?{Line}Выпустите меня из этой комнаты{End}",
+        "Target": "{X12Y12F0L4B0C0}Объясните, как победить Ультимецию{Line}Где Эллона?{Line}Расскажите мне о Рейн{Line}Чем вы здесь занимаетесь?{Line}Выпустите меня из этой комнаты{End}",
         "Source Text SHA256": "CB224131F9EA38B89549F5B5BAA5901D41C65B52F80E7DCDDE67DE9959916AFE",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -154,7 +154,7 @@
         }
       },
       "$en_epwork3_0019": {
-        "Target": "{X12Y12}Laguna{Line}А, прямо к делу. Прямо{Line} как заядлый Сид.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«А, прямо к делу. Прямо{Line} как заядлый Сид».{End}",
         "Source Text SHA256": "C38A044DD308AEB5110283CDC05AA8BA1FD712EE61ADED43B683BA6756526B11",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -162,7 +162,7 @@
         }
       },
       "$en_epwork3_0020": {
-        "Target": "{X12Y160}Сейчас моя очередь?{End}",
+        "Target": "{X12Y160}«Сейчас моя очередь?»{End}",
         "Source Text SHA256": "96E6882B7D68F443B8598A1BDBFEE30C514A97A2E156BF5B55B7C107EAD39F8C",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -170,7 +170,7 @@
         }
       },
       "$en_epwork3_0021": {
-        "Target": "{X12Y12}Laguna{Line}Да. Давайте коротко{Line} и попроще.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Да. Давайте коротко{Line} и попроще».{End}",
         "Source Text SHA256": "CFEB58080DE5669417CDFBD9A28387EDBCB8326A5485E017E748DE25972BE008",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -178,7 +178,7 @@
         }
       },
       "$en_epwork3_0022": {
-        "Target": "{X12Y12}Doc Odine{Line}Я буду говорить{Line} так, как сам захочу!{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Я буду говорить{Line} так, как сам захочу!»{End}",
         "Source Text SHA256": "28DABC42AC2D39E68050BCEFB43985975D5732F3A7AAA4D3F655E13252076706",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -186,7 +186,7 @@
         }
       },
       "$en_epwork3_0023": {
-        "Target": "{X12Y12}Doc Odine{Line}Эм, Волшебница Эдея рассказала мне обо всём.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Эм, Волшебница Эдея рассказала мне обо всём».{End}",
         "Source Text SHA256": "C630BFB6C12F22177844B51111613BFB79C82AA1E6FAFA148AEA39C644113444",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -194,7 +194,7 @@
         }
       },
       "$en_epwork3_0024": {
-        "Target": "{X12Y12}Doc Odine{Line}Волшебница Ультимеция направляется сюда из будущего, чтобы{Line} завладеть нынешней волшебницей. Это значит, что{Next}она покидает своё тело в будущем{Line} и отправляет сюда лишь своё сознание.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Волшебница Ультимеция направляется сюда из будущего, чтобы{Line} завладеть нынешней волшебницей. Это значит, что{Next}она покидает своё тело в будущем{Line} и отправляет сюда лишь своё сознание».{End}",
         "Source Text SHA256": "F5BED2C05F09A509FC477501C99CF06857907E343034BD851CB09D43FADA0594",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -202,7 +202,7 @@
         }
       },
       "$en_epwork3_0025": {
-        "Target": "{X12Y12}Doc Odine{Line}Вам не{Line} кажется это знакомым?{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Вам не{Line} кажется это знакомым?»{End}",
         "Source Text SHA256": "49866154ED8D6D39E2FFF8A327A0E642307A8AEA120BA88E1F511C3E77F5FCBC",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -210,7 +210,7 @@
         }
       },
       "$en_epwork3_0026": {
-        "Target": "{X12Y12}{Char Squall}{Line}Так же как и Эллона{Line} отправляла наши сознания в прошлое.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Так же, как Эллона{Line} отправляла наши сознания в прошлое».{End}",
         "Source Text SHA256": "6E46D4A932AE1757D46ECAB8572E764D1E6032C5EA5229EF04B529AB7C07D208",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -218,7 +218,7 @@
         }
       },
       "$en_epwork3_0027": {
-        "Target": "{X12Y12}Doc Odine{Line}А ты умён!{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«А ты умён!»{End}",
         "Source Text SHA256": "D044636CCD56BDD5535B9AA870D295DBA26EFC3A1DCE42557A91F564966A728C",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -226,7 +226,7 @@
         }
       },
       "$en_epwork3_0028": {
-        "Target": "{X12Y12}Doc Odine{Line}Сперва я подумал, что кто-то{Line} в будущем с такими же{Line} способностями как у Эллоны отправлял волшебницу{Line} в наше время.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Сперва я подумал, что кто-то{Line} в будущем с такими же{Line} способностями, как у Эллоны, отправлял волшебницу{Line} в наше время».{End}",
         "Source Text SHA256": "B4575CD2DCB38DD9E46B8F9739BC23C66B69C789AA369F4E409D655A49CFF94B",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -234,7 +234,7 @@
         }
       },
       "$en_epwork3_0029": {
-        "Target": "{X12Y12}Doc Odine{Line}Но{Line} нет! Это не так.{Next}Так каким же образом волшебница{Line} приходит в наше время?..{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Но{Line} нет! Это не так».{Next}«Так каким же образом волшебница{Line} приходит в наше время?..»{End}",
         "Source Text SHA256": "D5B946FF27819919119C67FC60C96877DBA966C5E389F2E53FD6849C07B1D542",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -242,7 +242,7 @@
         }
       },
       "$en_epwork3_0030": {
-        "Target": "{X12Y12F2L3B2C0}Doc Odine{Line}Хотите это услышать?{Line}Да{Line}Нет{End}",
+        "Target": "{X12Y12F2L3B2C0}Доктор Одайн{Line}«Хотите это услышать?»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "14902071B886F9A157763965EE0152675C7B49F523DD1792024DFC3D212C6AB7",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -250,7 +250,7 @@
         }
       },
       "$en_epwork3_0031": {
-        "Target": "{X12Y12}Doc Odine{Line}Очень жаль.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Очень жаль».{End}",
         "Source Text SHA256": "3E9169FD5B90D5A7B7982E5E6F22398279070A4F3D924A8B36E8E6C720D27072",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -258,7 +258,7 @@
         }
       },
       "$en_epwork3_0032": {
-        "Target": "{X12Y12}Doc Odine{Line}Эххх!{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Эххх!»{End}",
         "Source Text SHA256": "33DA252381ECC6DE0418A05050752D01925B75158A366F1F1FFC3B682B63B586",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -266,7 +266,7 @@
         }
       },
       "$en_epwork3_0033": {
-        "Target": "{X12Y12}Doc Odine{Line}Я хранил это в тайне, чтобы вас удивить...{Line} Всё дело во мне, Одайне!{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Я хранил это в тайне, чтобы вас удивить...{Line} Всё дело во мне, Одайне!»{End}",
         "Source Text SHA256": "3F80FDE77472FD9B79C1EBD28CE1CD25BAC426B91D288A5B602A9356794EB8AC",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -274,7 +274,7 @@
         }
       },
       "$en_epwork3_0034": {
-        "Target": "{X12Y12}Doc Odine{Line}Давным-давно я исследовал{Line} силу Эллоны.{Next}Я воссоздал порядок{Line} электрических волн, проходящих{Line} в мозгу Эллоны.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Давным-давно я исследовал{Line} силу Эллоны».{Next}«Я воссоздал порядок{Line} электрических волн, проходящих{Line} в мозгу Эллоны».{End}",
         "Source Text SHA256": "5DDB6289D4E8BAB3C39189B71E278916D1F8E384C19ADD6D357416109E9F94E0",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -282,7 +282,7 @@
         }
       },
       "$en_epwork3_0035": {
-        "Target": "{X12Y12}Doc Odine{Line}Когда этот порядок был изучен,{Line} его бстало возможно воссоздать. Может{Next}сейчас это всего лишь игрушка,{Line} но во будущем, где живет{Line} Ультимеция, это полностью рабочая машина!{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Когда этот порядок был изучен,{Line} его стало возможно воссоздать. Может,{Next}сейчас это всего лишь игрушка,{Line} но в будущем, где живет{Line} Ультимеция, это полностью рабочая машина!»{End}",
         "Source Text SHA256": "1C82FD913B9F365EB4BA02C56108E3A17FBF99F223C4DE43B9563E1589146FD0",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -290,7 +290,7 @@
         }
       },
       "$en_epwork3_0036": {
-        "Target": "{X12Y12}Doc Odine{Line}Это значит, что существует{Line} машина, имитирующая силу Эллоны.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Это значит, что существует{Line} машина, имитирующая силу Эллоны».{End}",
         "Source Text SHA256": "55F4214FDD1B2FDBCE5B2761FCF3F7B76EC7FF413A3FB36EFBC4F0D581D63180",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -298,7 +298,7 @@
         }
       },
       "$en_epwork3_0037": {
-        "Target": "{X12Y12}Doc Odine{Line}Это я создал{Line} первую модель этой машины.{Next}Я назвал эту{Line}машину «Объединяющяя машина Эллоны»!{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Это я создал{Line} первую модель этой машины».{Next}«Я назвал эту{Line}машину „Объединяющая машина Эллоны“!»{End}",
         "Source Text SHA256": "DAF122A3B71FC19ED6F58DF14A8270F4295B10BF67C8D16E22C6753D41C29D91",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -306,7 +306,7 @@
         }
       },
       "$en_epwork3_0038": {
-        "Target": "{X12Y12}Doc Odine{Line}Я так рад знать, что моё{Line} изобретение нашло применение в будущем!{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Я так рад знать, что моё{Line} изобретение нашло применение в будущем!»{End}",
         "Source Text SHA256": "09850599EA95E6BECBFE422CC922D3C6771F67D0798D35EAB796412C2FED2D4D",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -314,7 +314,7 @@
         }
       },
       "$en_epwork3_0039": {
-        "Target": "{X12Y12}{Char Squall}{Line}Объединяющяя машина Эллоны.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Объединяющая машина Эллоны».{End}",
         "Source Text SHA256": "8A7263190B942230A7CA5C1F880B5FD5091430ED425B4FCFD0C74FC6E37A9E6A",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -322,7 +322,7 @@
         }
       },
       "$en_epwork3_0040": {
-        "Target": "{X12Y12}Laguna{Line}На этом всё.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«На этом всё».{End}",
         "Source Text SHA256": "87EFF249B66FA8B0F65EA3D4B36645F4BC4335678AA81B32CF245FFA36D6BD88",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -330,7 +330,7 @@
         }
       },
       "$en_epwork3_0041": {
-        "Target": "{X12Y12}{Char Squall}{Line}Значит, волшебница Ультимеция узнала об{Line} Эллоне через эту машину.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Значит, волшебница Ультимеция узнала об{Line} Эллоне через эту машину».{End}",
         "Source Text SHA256": "07EE89E2B617D015620387F05F22780689A60322907A8716C58F358B8C231A9C",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -338,7 +338,7 @@
         }
       },
       "$en_epwork3_0042": {
-        "Target": "{X12Y12}Laguna{Line}И Элли стала целью Ультимеции.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«И Элли стала целью Ультимеции».{End}",
         "Source Text SHA256": "685FD9C59A7C1549A76FC122065657FF01A8614CACFEFCE1599E111858EBFFCB",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -346,7 +346,7 @@
         }
       },
       "$en_epwork3_0043": {
-        "Target": "{X12Y12}{Char Squall}{Line}Это всё из-за тебя!{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Это всё из-за тебя!»{End}",
         "Source Text SHA256": "12C0C35B75BB4979AC93D6744DBA286C935C6B7D26B2614A28B59F20FA0602EE",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -354,7 +354,7 @@
         }
       },
       "$en_epwork3_0044": {
-        "Target": "{X12Y12}Laguna{Line}Нельзя винить Одайна.{Line} Это бесполезно.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Нельзя винить Одайна.{Line} Это бесполезно».{End}",
         "Source Text SHA256": "D2178CDE3326B98B4FB98B2E20CCDE63A7E5238151AA24527F04DB798AE7BEFF",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -362,7 +362,7 @@
         }
       },
       "$en_epwork3_0045": {
-        "Target": "{X12Y12}Doc Odine{Line}Хотите выйти{Line} наружу?! Хотите подраться?!{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Хотите выйти{Line} наружу?! Хотите подраться?!»{End}",
         "Source Text SHA256": "B0CA33774887B2A22B756AD999A152B56AFCA968AF29FFEB4D795F874B6D4ACA",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -370,7 +370,7 @@
         }
       },
       "$en_epwork3_0046": {
-        "Target": "{X12Y12}Doc Odine{Line}Ладно, продолжаем историю!{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Ладно, продолжаем историю!»{End}",
         "Source Text SHA256": "E48490B211D06623AC409A629F6E7952276173134110787B6F005AA232AAE6E8",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -378,7 +378,7 @@
         }
       },
       "$en_epwork3_0047": {
-        "Target": "{X12Y12}Doc Odine{Line}Посмотрим...{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Посмотрим...»{End}",
         "Source Text SHA256": "24016F0928B9BCEBB551ACCCDF432D3468116992FE7B41E3696159D472C2A066",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -386,7 +386,7 @@
         }
       },
       "$en_epwork3_0048": {
-        "Target": "{X12Y12}Doc Odine{Line}Победить Ультимецию можно лишь одним способом - вы{Line} должны убить её в будущем.{Next}Мы ничего не сможем сделать,{Line} пока не окажемся там.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Победить Ультимецию можно лишь одним способом — вы{Line} должны убить её в будущем».{Next}«Мы ничего не сможем сделать,{Line} пока не окажемся там».{End}",
         "Source Text SHA256": "4DDB57F7D4127C4C667C0C879CE0C831DDA2F15F5B65ABEDC41AF13CCFE72C3B",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -394,7 +394,7 @@
         }
       },
       "$en_epwork3_0049": {
-        "Target": "{X12Y12}Doc Odine{Line}При нормальных обстоятельствах попасть{Line} в будущее невозможно.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«При нормальных обстоятельствах попасть{Line} в будущее невозможно».{End}",
         "Source Text SHA256": "19659A85E59FA1CE5E024846C8D7D9CEF85565C215581D8EDA73A7ED3BDD2337",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -402,7 +402,7 @@
         }
       },
       "$en_epwork3_0050": {
-        "Target": "{X12Y12}Doc Odine{Line}Но способ всё же есть!{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Но способ всё же есть!»{End}",
         "Source Text SHA256": "F2657DF636653870BCAC42EEECEC2649A15A441B4821C521812ACBBA64569B96",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -410,7 +410,7 @@
         }
       },
       "$en_epwork3_0051": {
-        "Target": "{X12Y12}Doc Odine{Line}Дело в том, что волшебница{Line} Ультимеция собирается сжать{Next}время. Сжать время с помощью{Line} магии... Что в{Line} этом хорошего для волшебницы?{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Дело в том, что волшебница{Line} Ультимеция собирается сжать{Next}время. Сжать время с помощью{Line} магии... Что в{Line} этом хорошего для волшебницы?»{End}",
         "Source Text SHA256": "C50042D8B7EC5C695585C0479E1FF1886F6FE95B4F34FF82907DA2C5474A6492",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -418,7 +418,7 @@
         }
       },
       "$en_epwork3_0052": {
-        "Target": "{X12Y12}Doc Odine{Line}На это может быть множество причин,{Line} но это не имеет значения.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«На это может быть множество причин,{Line} но это не имеет значения».{End}",
         "Source Text SHA256": "DD7A2E91E1470E2C64889600782EFD32C00EBBAA6717E0FDB247E5D2EE4E3CCE",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -426,7 +426,7 @@
         }
       },
       "$en_epwork3_0053": {
-        "Target": "{X12Y12}Doc Odine{Line}Давайте просто выясним,{Line} что задумала Ультимеция.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Давайте просто выясним,{Line} что задумала Ультимеция».{End}",
         "Source Text SHA256": "D7621D0327F857B213ED3DC8B5CE8214BAEFD0D499516E1506B667BBA2766000",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -434,7 +434,7 @@
         }
       },
       "$en_epwork3_0054": {
-        "Target": "{X12Y12}Doc Odine{Line}Для того, чтобы существовать{Line} в нашем времени, она должна{Line} завладеть телом волшебницы настоящего.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Для того чтобы существовать{Line} в нашем времени, она должна{Line} завладеть телом волшебницы настоящего».{End}",
         "Source Text SHA256": "C58A58896E814BDD9C4280728997E52B282C13DBE165F9ACD4BB1E9E6101A204",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -442,7 +442,7 @@
         }
       },
       "$en_epwork3_0055": {
-        "Target": "{X12Y12}Doc Odine{Line}Но у машины должен быть{Line} предел. Возможно, Ультимеции нужно вернуться ещё{Line} дальше в прошлое, чтобы добиться сжатия времени. Только{Next}Эллона может переместить её ещё{Line} дальше в прошлое. Вот{Line} почему она так отчаянно её ищет.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Но у машины должен быть{Line} предел. Возможно, Ультимеции нужно вернуться ещё{Line} дальше в прошлое, чтобы добиться сжатия времени. Только{Next}Эллона может переместить её ещё{Line} дальше в прошлое. Вот{Line} почему она так отчаянно её ищет».{End}",
         "Source Text SHA256": "23AA277AAE8E5BA809CEBC764D1608299F94D5AF0046C3BA8018A17D1D10CF56",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -450,7 +450,7 @@
         }
       },
       "$en_epwork3_0056": {
-        "Target": "{X12Y12}Doc Odine{Line}Мы должны воспользоваться{Line} этой силой Эллоны.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Мы должны воспользоваться{Line} этой силой Эллоны».{End}",
         "Source Text SHA256": "BB680158D8EF2AEB6941357D99C3701794D185F9B297C7DFDBC9A9F2C28A420A",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -458,7 +458,7 @@
         }
       },
       "$en_epwork3_0057": {
-        "Target": "{X12Y12}Doc Odine{Line}В нашем времени находятся две{Line} волшебницы. Волшебница {Char Rinoa} и волшебница Адель.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«В нашем времени находятся две{Line} волшебницы. Волшебница {Char Rinoa} и волшебница Адель».{End}",
         "Source Text SHA256": "ED2EFF00E1CFD4EDAC8B6E85355E78DEDF85B9D6FF6D9D2D7E40AC919235FB4D",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -466,7 +466,7 @@
         }
       },
       "$en_epwork3_0058": {
-        "Target": "{X12Y12}Doc Odine{Line}Из этих двух, {Line} Адель ещё{Next}не пробудилась. Как только закончится её{Line} пробуждение, Лагуна и я{Next}будем в опасности. Внутри Безумной Пандоры{Line} волшебница Адель вероятно уже почти{Next}пробудилась. Если Адель проснётся, Ультимеция захочет{Line} завладеть ею.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Из этих двух{Line} Адель ещё{Next}не пробудилась. Как только закончится её{Line} пробуждение, Лагуна и я{Next}будем в опасности. Внутри Безумной Пандоры{Line} волшебница Адель, вероятно, уже почти{Next}пробудилась. Если Адель проснётся, Ультимеция захочет{Line} завладеть ею».{End}",
         "Source Text SHA256": "B37311E6AE42F4B64CB81B5096291CDBF9C58DFF155F4CFE8D85107F17E0F5BA",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -474,7 +474,7 @@
         }
       },
       "$en_epwork3_0059": {
-        "Target": "{X12Y12}Doc Odine{Line}Это будет ужасным событием.{Line} Адель – очень сильная волшебница.{Next}Если сознание Адель пересилит сознание{Line} Ультимеции, Адель первым делом уничтожит эту{Line} эпоху.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Это будет ужасным событием.{Line} Адель – очень сильная волшебница».{Next}«Если сознание Адель пересилит сознание{Line} Ультимеции, Адель первым делом уничтожит эту{Line} эпоху».{End}",
         "Source Text SHA256": "3E0BD5A1D6BD93F08AFB90C48D36EC47058FE185253410E8E1061C191700CBBF",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -482,7 +482,7 @@
         }
       },
       "$en_epwork3_0060": {
-        "Target": "{X12Y12}Doc Odine{Line}Поэтому мы должны использовать волшебницу {Char Rinoa}{Line} , чтобы унаследовать силу Ультимеции.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Поэтому мы должны использовать волшебницу {Char Rinoa},{Line}чтобы унаследовать силу Ультимеции».{End}",
         "Source Text SHA256": "42FE5F4504BB4264A3DB31F16881A0B4F0A6700723644E9CBDCC373ABAD33448",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -490,7 +490,7 @@
         }
       },
       "$en_epwork3_0061": {
-        "Target": "{X12Y12}Doc Odine{Line}На этом инструктаж окончен.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«На этом инструктаж окончен».{End}",
         "Source Text SHA256": "9454E0A4AD1DDF3D8DEF1F198F42679D799B7AA6C6E2E119D2BCD1941C948E7F",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -498,7 +498,7 @@
         }
       },
       "$en_epwork3_0062": {
-        "Target": "{X12Y12}Doc Odine{Line}Сперва, отправляйтесь к Безумной Пандоре.{Line} Эллону наверняка держат внутри, поэтому в{Line} первую очередь спасите её.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Сперва отправляйтесь к Безумной Пандоре.{Line} Эллону наверняка держат внутри, поэтому в{Line} первую очередь спасите её».{End}",
         "Source Text SHA256": "DFFB49A7233F6085103744B7D172EE5D52441F86E2F97E0FA4A1E1B065705CDC",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -506,7 +506,7 @@
         }
       },
       "$en_epwork3_0063": {
-        "Target": "{X12Y12}Doc Odine{Line}Потом убейте волшебницу Адель, прежде{Line} чем завершится процесс пробуждения. Тогда{Next}мы останемся с {Char Rinoa}{Line} в качестве единственной волшебницы этой эпохи.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Потом убейте волшебницу Адель, прежде{Line} чем завершится процесс пробуждения. Тогда{Next}мы останемся с {Char Rinoa}{Line} в качестве единственной волшебницы этой эпохи».{End}",
         "Source Text SHA256": "2CA86E6CA70EF501CE858B24FDF1764443EC86547D0F011AAA81F8AF5B077BC6",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -514,7 +514,7 @@
         }
       },
       "$en_epwork3_0064": {
-        "Target": "{X12Y12}Doc Odine{Line}Затем подождём пока{Line} Ультимеция завладеет {Char Rinoa}{Next}. Когда появится Ультимеция,{Line} настанет очередь{Next}Эллоны. Эллона отправит {Char Rinoa} в{Line} прошлое вместе с Ультимецией.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Затем подождём, пока{Line} Ультимеция завладеет {Char Rinoa}».{Next}«Когда появится Ультимеция,{Line} настанет очередь{Next}Эллоны. Эллона отправит {Char Rinoa} в{Line} прошлое вместе с Ультимецией».{End}",
         "Source Text SHA256": "2C95677707A771C135930A9B10198E81C62C9C099848487EE8CB41BA88FB8022",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -522,7 +522,7 @@
         }
       },
       "$en_epwork3_0065": {
-        "Target": "{X12Y12}Doc Odine{Line}Эллоне придётся отправить {Char Rinoa}{Line} и Ультимецию внутрь другой известной{Line} ей волшебницы из прошлого. Эдеи{Next}или{Line} Адель... Решать Эллоне.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Эллоне придётся отправить {Char Rinoa}{Line} и Ультимецию внутрь другой известной{Line} ей волшебницы из прошлого. Эдеи{Next}или{Line} Адель... Решать Эллоне».{End}",
         "Source Text SHA256": "3E61B6D506831AEA5C3A7DB29DF7A40595B14BA2C8C9949F1708EF3BDEC6195B",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -530,7 +530,7 @@
         }
       },
       "$en_epwork3_0066": {
-        "Target": "{X12Y12}Doc Odine{Line}Как только Ультимеция окажется в прошлом,{Line} она применит магию сжатия времени. Здесь{Line} мы будем наблюдать некоторое влияние. Я{Next}не знаю, как это выглядит, но{Line} когда Эллона его ощутит, она отрежет{Line}{Char Rinoa} и Ультимецию от прошлого.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Как только Ультимеция окажется в прошлом,{Line} она применит магию сжатия времени. Здесь{Line} мы будем наблюдать некоторое влияние. Я{Next}не знаю, как это выглядит, но{Line} когда Эллона его ощутит, она отрежет{Line}{Char Rinoa} и Ультимецию от прошлого».{End}",
         "Source Text SHA256": "7EBB4F567A135ABBDAA48BB0F4D6B5E7D742E4E5114AD685CEF1DD203337CDE1",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -538,7 +538,7 @@
         }
       },
       "$en_epwork3_0067": {
-        "Target": "{X12Y12}Doc Odine{Line}”{Char Rinoa} вернётся обратно в этот{Line} мир. Ультимеция также вернётся в{Line} свой.“{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«{Char Rinoa} вернётся обратно в этот{Line} мир. Ультимеция также вернётся в{Line} свой».{End}",
         "Source Text SHA256": "4529638E497B55A95F3D7D75ACA543A38606FADC7B266CE4F40677F8368F7B9D",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -546,7 +546,7 @@
         }
       },
       "$en_epwork3_0068": {
-        "Target": "{X12Y12}Doc Odine{Line}И тогда останется{Line} мир сжатого времени.{Next}Прошлое, настоящее и{Line} будущее будут смешаны воедино.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«И тогда останется{Line} мир сжатого времени».{Next}«Прошлое, настоящее и{Line} будущее будут смешаны воедино».{End}",
         "Source Text SHA256": "743B8B3BDFF58B229A08CF1AE302C14C332A868B4FFC6DE1D76EFFA0342A1DFF",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -554,7 +554,7 @@
         }
       },
       "$en_epwork3_0069": {
-        "Target": "{X12Y12}Doc Odine{Line}Вы будете продвигаться через сжатие{Line} времени к будущему. Когда вы{Next}выберетесь из сжатия времени, то{Line} окажетесь в мире Ультимеции.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«Вы будете продвигаться через сжатие{Line} времени к будущему. Когда вы{Next}выберетесь из сжатия времени, то{Line} окажетесь в мире Ультимеции».{End}",
         "Source Text SHA256": "F87E9AC8528DF82D3356D5FF421AE659F9AC55E6DC93BAA5EF8FBC71DECDAC25",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -562,7 +562,7 @@
         }
       },
       "$en_epwork3_0070": {
-        "Target": "{X12Y12}Doc Odine{Line}После этого всё зависит от вас.{End}",
+        "Target": "{X12Y12}Доктор Одайн{Line}«После этого всё зависит от вас».{End}",
         "Source Text SHA256": "2079DEA3D24FCD706474B7AE95639636F9794A4A823E5B31622AFAF9DB86337A",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -570,7 +570,7 @@
         }
       },
       "$en_epwork3_0071": {
-        "Target": "{X12Y12}Laguna{Line}Что он сделал со своей жизнью, чёрт{Line} подери? Вам что, не интересно?{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Что он сделал со своей жизнью, чёрт{Line} подери? Вам что, не интересно?»{End}",
         "Source Text SHA256": "9C0AE5D41BFCF6EA46DF18A9F0F1134615A25CDFDC43DD6DBB05ACA2939469F8",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -578,7 +578,7 @@
         }
       },
       "$en_epwork3_0072": {
-        "Target": "{X12Y12}Laguna{Line}Когда Эллоне было около двух лет,{Line} в Эстаре была массовая охота на{Next}девочек. Солдаты Эстара пришли в{Line} Уинхилл и родители Элли оказали{Line} сопротивление. Их убили на месте.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Когда Эллоне было около двух лет,{Line} в Эстаре была массовая охота на{Next}девочек. Солдаты Эстара пришли в{Line} Уинхилл, и родители Элли оказали{Line} сопротивление. Их убили на месте».{End}",
         "Source Text SHA256": "3B739BFC7AF1D2E0C0EE6CF4DDFEBC38C4C93B988FAFDA00C983B776532DCD46",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -586,7 +586,7 @@
         }
       },
       "$en_epwork3_0073": {
-        "Target": "{X12Y12}Laguna{Line}Массовая охота проводилась с{Line} целью найти наследницу для правительницы{Line} Эстара, волшебницы Адель.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Массовая охота проводилась с{Line} целью найти наследницу для правительницы{Line} Эстара, волшебницы Адель».{End}",
         "Source Text SHA256": "4E0E2815BFD15D507DA3C59E5F0A315C952BE57E3BE9CFF5D0FB69720FA5D26A",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -594,7 +594,7 @@
         }
       },
       "$en_epwork3_0074": {
-        "Target": "{X12Y12}Laguna{Line}Эллону растила Рейн, жившая по{Line} соседству. Я подружился с ней.{Next}И тогда в Эстаре началась{Line} новая волна охоты за наследницей.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Эллону растила Рейн, жившая по{Line} соседству. Я подружился с ней».{Next}«И тогда в Эстаре началась{Line} новая волна охоты за наследницей».{End}",
         "Source Text SHA256": "6242B7827BA45772BEFEC25E5E444ADA8E4D50EC822FAC6924EEB16827A52EF3",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -602,7 +602,7 @@
         }
       },
       "$en_epwork3_0075": {
-        "Target": "{X12Y12}Laguna{Line}Элли забрали, несмотря на то,{Line} что я был там...{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Элли забрали, несмотря на то,{Line} что я был там...»{End}",
         "Source Text SHA256": "7FF16406A71E10725C7135C884CD59D932FCFAE0892A9A7884BE485CC2A044C2",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -610,7 +610,7 @@
         }
       },
       "$en_epwork3_0076": {
-        "Target": "{X12Y12}Laguna{Line}Это наиболее мучительный период{Line} в моей жизни.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Это наиболее мучительный период{Line} в моей жизни».{End}",
         "Source Text SHA256": "3FB45D7C51D7F96FEEE21F5957700FA967D6F70700D7BF844BE670221D0E492F",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -618,7 +618,7 @@
         }
       },
       "$en_epwork3_0077": {
-        "Target": "{X12Y12}Laguna{Line}Я спас её{Line} и отправил в Уинхилл.{Line} Вскоре после этого Рейн умерла.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Я спас её{Line} и отправил в Уинхилл.{Line} Вскоре после этого Рейн умерла».{End}",
         "Source Text SHA256": "5BDDF21A1EDEC6B1AFA5DE798C6782992D29A6C2643D96F1C7C3A99115323579",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -626,7 +626,7 @@
         }
       },
       "$en_epwork3_0078": {
-        "Target": "{X12Y12}Laguna{Line}И Эллону отправили{Line} прямиком в приют.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«И Эллону отправили{Line} прямиком в приют».{End}",
         "Source Text SHA256": "E60409EB48188B90186E077BED8C7EDC05ED10F4705364E7FEEADDE714A16804",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -634,7 +634,7 @@
         }
       },
       "$en_epwork3_0079": {
-        "Target": "{X12Y12}{Char Squall}{Line}Почему вы не отправились в{Line} Уинхилл вместе с ней?{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Почему вы не отправились в{Line} Уинхилл вместе с ней?»{End}",
         "Source Text SHA256": "29768287B02D7792E81594DAB3A9CD0C8C5162F425B55676CE67004055E00681",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -642,7 +642,7 @@
         }
       },
       "$en_epwork3_0080": {
-        "Target": "{X12Y12}Laguna{Line}Я хотел!{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Я хотел!»{End}",
         "Source Text SHA256": "D46A01049B7A8BED60729C5DEEBDD29B9D75F3736FB16AF517A8A95C045FDE78",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -650,7 +650,7 @@
         }
       },
       "$en_epwork3_0081": {
-        "Target": "{X12Y12}Laguna{Line}Но у меня на то были свои причины.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Но у меня на то были свои причины».{End}",
         "Source Text SHA256": "09E2D47576B479D795E2BFC15D1B61BD8BE7577F3695C139BA10627AFA5F1EE1",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -658,7 +658,7 @@
         }
       },
       "$en_epwork3_0082": {
-        "Target": "{X12Y12}{Char Squall}{Line}Я вырос в том приюте.{Next}Эллона тоже была там,{Line}сколько себя помню.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Я вырос в том приюте».{Next}«Эллона тоже была там,{Line}сколько себя помню».{End}",
         "Source Text SHA256": "C3ECDA317A26DD78D881822FA29A8FBD4E1AE1C33366542273EB99DBD7C4A6ED",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -666,7 +666,7 @@
         }
       },
       "$en_epwork3_0083": {
-        "Target": "{X12Y12}{Char Squall}{Line}Эллона была мне{Line}как сестра.{Next}А потом она{Line}исчезла...{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Эллона была мне{Line}как сестра».{Next}«А потом она{Line}исчезла...»{End}",
         "Source Text SHA256": "46D8BA5B8A4097FE69402AA50A69A39331F7E6E9628B1794D0FADDCA19A622BF",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -674,7 +674,7 @@
         }
       },
       "$en_epwork3_0084": {
-        "Target": "{X12Y12}Laguna{Line}Впоследствии я узнал об{Line} этом, но...{Next}Причиной, по которой Эллоне пришлось{Line} покинуть приют, было то,{Line} что она обладала особой силой.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Впоследствии я узнал об{Line} этом, но...»{Next}«Причиной, по которой Эллоне пришлось{Line} покинуть приют, было то,{Line} что она обладала особой силой».{End}",
         "Source Text SHA256": "B4F9F5943A7C21F377F0E40CEE25C3548BCD09C75610ACAC2EDFEA17A3BB57FD",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -682,7 +682,7 @@
         }
       },
       "$en_epwork3_0085": {
-        "Target": "{X12Y12}Laguna{Line}Доктор Одайн хотел{Line} исследовать особую силу Эллоны.{Line} Он повсюду искал её.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Доктор Одайн хотел{Line} исследовать особую силу Эллоны.{Line} Он повсюду искал её».{End}",
         "Source Text SHA256": "BE77CAF288A57863EDF43B630AD925237E011545DF321F3FD9795C7B779BE4A9",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -690,7 +690,7 @@
         }
       },
       "$en_epwork3_0086": {
-        "Target": "{X12Y12}Laguna{Line}Владельцами приюта были Сид Крамер и его жена Эдея.{Line} Вы знаете{Next}их лучше меня.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Владельцами приюта были Сид Крамер и его жена Эдея.{Line} Вы знаете{Next}их лучше меня».{End}",
         "Source Text SHA256": "30012F62F1EC79F8A1E14CF5E3EDCBD15EF744370EDD59D05920059EF995D620",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -698,7 +698,7 @@
         }
       },
       "$en_epwork3_0087": {
-        "Target": "{X12Y12}Laguna{Line}Крамеры забрали Элли из приюта, чтобы{Line} защитить её. Они подготовили{Next}большой корабль, чтобы пристроить её.{Line} Великодушно с их{Line} стороны, не правда ли?{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Крамеры забрали Элли из приюта, чтобы{Line} защитить её. Они подготовили{Next}большой корабль, чтобы пристроить её.{Line} Великодушно с их{Line} стороны, не правда ли?»{End}",
         "Source Text SHA256": "BAFF243F5640C88D8B02A14EB4D2A4A98D9D6CE70789DD84DE2AE97F5B99E592",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -706,7 +706,7 @@
         }
       },
       "$en_epwork3_0088": {
-        "Target": "{X12Y12}Laguna{Line}Вскоре корабль превратился в ещё{Line} один приют, и Элли стала{Line} присматривать за всеми детьми.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Вскоре корабль превратился в ещё{Line} один приют, и Элли стала{Line} присматривать за всеми детьми».{End}",
         "Source Text SHA256": "A349677CB043DD8BD65AB5F6800A4BB1D145D2AB6562E552361600BB4CB563A6",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -714,7 +714,7 @@
         }
       },
       "$en_epwork3_0089": {
-        "Target": "{X12Y12}Laguna{Line}Она сказала, что её жизнь на{Line} корабле была счастливой, но кто{Next}его знает?.. Не понимаю, как{Line} она могла быть счастливой.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Она сказала, что её жизнь на{Line} корабле была счастливой, но кто{Next}его знает?.. Не понимаю, как{Line} она могла быть счастливой».{End}",
         "Source Text SHA256": "C7C4135CA9040B39795F02F963D53D2B9F6F0F8F6DFF197DE6CF06D6741294BB",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -722,7 +722,7 @@
         }
       },
       "$en_epwork3_0090": {
-        "Target": "{X12Y12}Laguna{Line}Она пробыла на корабле{Line} целых десять лет.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Она пробыла на корабле{Line} целых десять лет».{End}",
         "Source Text SHA256": "09D73D6AC5E261C2ACF765FB6B6C91A551437F687984A73363C35C1FCE358328",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -730,7 +730,7 @@
         }
       },
       "$en_epwork3_0091": {
-        "Target": "{X12Y12}Laguna{Line}Недавно на этот корабль напала Гальбадия.{Line} Их спас корабль Эстара, и{Line} она наконец-то встретилась со мной.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Недавно на этот корабль напала Гальбадия.{Line} Их спас корабль Эстара, и{Line} она наконец-то встретилась со мной».{End}",
         "Source Text SHA256": "990B6400C917585B1C2C59070DA7B002CF12B1E6A8471D92E1E7426169097436",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -738,7 +738,7 @@
         }
       },
       "$en_epwork3_0092": {
-        "Target": "{X12Y12}Laguna{Line}То, что мы её нашли, было самой что ни есть удачей.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«То, что мы её нашли, было самой что ни на есть удачей».{End}",
         "Source Text SHA256": "B1CD0D1EE3A4E0358A4DEC6B637CBBB4D62567CC270141FD6B179AA96BC65631",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -746,7 +746,7 @@
         }
       },
       "$en_epwork3_0093": {
-        "Target": "{X12Y12}Laguna{Line}Я был в космосе в это время. Эллона последовала за мной в космос.{Line} Маленькая Элли{Next}так повзрослела...{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Я был в космосе в это время. Эллона последовала за мной в космос.{Line} Маленькая Элли{Next}так повзрослела...»{End}",
         "Source Text SHA256": "658DC63DDEB6E0A3D9097101D67349F0F1F388A86F9A99C927FE8E831A2D4E7E",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -754,7 +754,7 @@
         }
       },
       "$en_epwork3_0094": {
-        "Target": "{X12Y12}Laguna{Line}Тогда она и рассказала мне всё.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Тогда она и рассказала мне всё».{End}",
         "Source Text SHA256": "780BAFEF6A28DA2ACC6D8BEAA27F3BD67A9D503F8B225DFFD58F6ECB6270C1E2",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -762,7 +762,7 @@
         }
       },
       "$en_epwork3_0095": {
-        "Target": "{X12Y12}{Char Squall}{Line}Она уцелела после прибытия из космоса?{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Она уцелела после прибытия из космоса?»{End}",
         "Source Text SHA256": "F3C033C227C23C0FD3508D10FF57D417C58B47095E1B780A9881D3EA0513A6CF",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -770,7 +770,7 @@
         }
       },
       "$en_epwork3_0096": {
-        "Target": "{X12Y12}Laguna{Line}Наш спасательный отряд{Line} немного опоздал.{Next}Гальбадианцы забрали Эллону в{Line} тюрьму.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Наш спасательный отряд{Line} немного опоздал».{Next}«Гальбадианцы забрали Эллону в{Line} тюрьму».{End}",
         "Source Text SHA256": "D0449A7D6B1311503674B909EE4FF3DE6CC290C52373D91D17E0EEF9BA9D4708",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -778,7 +778,7 @@
         }
       },
       "$en_epwork3_0097": {
-        "Target": "{X12Y12}Laguna{Line}Она внутри Безумной Пандоры.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Она внутри Безумной Пандоры».{End}",
         "Source Text SHA256": "9DAD5C31254D2ED119DE5C064E66C4ED440C42C17149F13BEAE236EB363A19E9",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -786,7 +786,7 @@
         }
       },
       "$en_epwork3_0098": {
-        "Target": "{X12Y12}Laguna{Line}Мы вытащим её. Помогите{Line} нам, ладно?{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Мы вытащим её. Помогите{Line} нам, ладно?»{End}",
         "Source Text SHA256": "874F523B797BB4ECBF6047B17EAE87378DB0357F95A5E66C1601705098AAB5F9",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -794,7 +794,7 @@
         }
       },
       "$en_epwork3_0099": {
-        "Target": "{X12Y12}Laguna{Line}Фуух...{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Фуух...»{End}",
         "Source Text SHA256": "4FA1A4572A933D9DA8650CD3D6D30859072AB749728F5FA5DE39042AEAD1D988",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -802,7 +802,7 @@
         }
       },
       "$en_epwork3_0100": {
-        "Target": "{X12Y12}Laguna{Line}Перенося вас в мой разум, Элли хотела{Line} сказать мне, чтобы я не покидал{Line} Уинхилл, несмотря ни на что. Тогда{Next}я бы остался рядом с Рейн, когда{Line} она была при смерти... Чтобы обнять{Line} её, когда она звала меня.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Перенося вас в мой разум, Элли хотела{Line} сказать мне, чтобы я не покидал{Line} Уинхилл, несмотря ни на что. Тогда{Next}я бы остался рядом с Рейн, когда{Line} она была при смерти... Чтобы обнять{Line} её, когда она звала меня».{End}",
         "Source Text SHA256": "A62EFBDD536BDAFF6B935B1B4B10D22819BDBE6F6F932DC4F35CB60B7962736F",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -810,7 +810,7 @@
         }
       },
       "$en_epwork3_0101": {
-        "Target": "{X12Y12}Laguna{Line}Рассказать о Рейн? Может,{Next}в другой раз.{Line} Нет... Я не могу. Мне слишком тяжело вспоминать это.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Рассказать о Рейн? Может,{Next}в другой раз.{Line} Нет... Я не могу. Мне слишком тяжело вспоминать это».{End}",
         "Source Text SHA256": "FBA545310E24886E34575160FFD741F614858A46CE9DCAAE84E7295397493782",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -818,7 +818,7 @@
         }
       },
       "$en_epwork3_0102": {
-        "Target": "{X160Y12}Kiros{Line}Вы уже здесь.{Line} Почему бы вам не прослушать инструктаж?{End}",
+        "Target": "{X160Y12}{Char Kiros}{Line}«Вы уже здесь.{Line} Почему бы вам не прослушать инструктаж?»{End}",
         "Source Text SHA256": "604D977EC1B300CE8339C03EDCD7DC591785400496F7915BDEAA4ED06D0C6510",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -826,7 +826,7 @@
         }
       },
       "$en_epwork3_0103": {
-        "Target": "{X160Y12}Ward{Line}”...“{End}",
+        "Target": "{X160Y12}{Char Ward}{Line}«...»{End}",
         "Source Text SHA256": "AC0C686162D4D3C75492585AC5C90B54295700B41D8D5C04EF57BF1E066CC031",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -834,7 +834,7 @@
         }
       },
       "$en_epwork3_0104": {
-        "Target": "{X160Y12}Кирос{Line}Он говорит: не спрашивай Лагуну{Line}про Рэйн. Он расплачется.{End}",
+        "Target": "{X160Y12}{Char Kiros}{Line}«Он говорит: не спрашивай Лагуну{Line}про Рейн. Он расплачется».{End}",
         "Source Text SHA256": "5E3C1945D2DA3A5FD816248AB91C3A8DE881A39D0C7375BD8C0149663E0CB5D8",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -842,7 +842,7 @@
         }
       },
       "$en_epwork3_0105": {
-        "Target": "{F2L3B2C0}Kiros{Line}Что?{Line}Выпустите меня из этой комнаты{Line}Какая забавная одежда{End}",
+        "Target": "{F2L3B2C0}{Char Kiros}{Line}«Что?»{Line}Выпустите меня из этой комнаты{Line}Какая забавная одежда{End}",
         "Source Text SHA256": "C61B702EA221A0B3DF468B34EEBE06A967D0B561E6E0072D977824464B9EE3ED",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -850,7 +850,7 @@
         }
       },
       "$en_epwork3_0105_ctx_b8cc39f32828421f": {
-        "Target": "{X160Y12}Кирос{Line}«Что?»{Line}Выпустите меня из этой комнаты{Line}Какая странная одежда{End}",
+        "Target": "{X160Y12}{Char Kiros}{Line}«Что?»{Line}Выпустите меня из этой комнаты{Line}Какая странная одежда{End}",
         "Source Text SHA256": "C61B702EA221A0B3DF468B34EEBE06A967D0B561E6E0072D977824464B9EE3ED",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -858,7 +858,7 @@
         }
       },
       "$en_epwork3_0105_ctx_efae8042fedb9160": {
-        "Target": "{X160Y12F2L3B2C0}Кирос{Line}Что?{Line}Выпустите меня из этой комнаты{Line}Какая забавная одежда{End}",
+        "Target": "{X160Y12F2L3B2C0}{Char Kiros}{Line}«Что?»{Line}Выпустите меня из этой комнаты{Line}Какая забавная одежда{End}",
         "Source Text SHA256": "C61B702EA221A0B3DF468B34EEBE06A967D0B561E6E0072D977824464B9EE3ED",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -866,7 +866,7 @@
         }
       },
       "$en_epwork3_0106": {
-        "Target": "{X160Y12}Kiros{Line}Хочешь примерить?{End}",
+        "Target": "{X160Y12}{Char Kiros}{Line}«Хочешь примерить?»{End}",
         "Source Text SHA256": "58551CCA8DF3DB8845A9241112F900118FCA9C301FBE57506C5DD323010D24B3",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -874,7 +874,7 @@
         }
       },
       "$en_epwork3_0107": {
-        "Target": "{X160Y12}Kiros{Line}Он говорит, что здесь вы сможете ненадолго расслабиться.{End}",
+        "Target": "{X160Y12}{Char Kiros}{Line}«Он говорит, что здесь вы сможете ненадолго расслабиться».{End}",
         "Source Text SHA256": "C2E548C41E13D51F944F0AD17EF845C9EBD6C96B7C7D64C62B9A687488167ED1",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -882,7 +882,7 @@
         }
       },
       "$en_epwork3_0108": {
-        "Target": "{X12Y12}Laguna{Line}Вам ведь известно, чем я{Line} занимался всю свою жизнь, верно?{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Вам ведь известно, чем я{Line} занимался всю свою жизнь, верно?»{End}",
         "Source Text SHA256": "EAFB5C5487BEAFB9105C181F9DA04C482BC3F74E95298E394780D7AC84FAB12A",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -890,7 +890,7 @@
         }
       },
       "$en_epwork3_0109": {
-        "Target": "{X12Y12}{Char Squall}{Line}Вы были глупым гальбадианским солдатом. Мне{Line} совсем не понравились ваши взгляды.{Next}Но я понимаю связь{Line} между вами тремя.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Вы были глупым гальбадианским солдатом. Мне{Line} совсем не понравились ваши взгляды».{Next}«Но я понимаю связь{Line} между вами тремя».{End}",
         "Source Text SHA256": "C35435D942E8EA11F5A4B690C1E1A6766D5079F6DBE851FE7F87E62D1E0B9AD6",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -898,7 +898,7 @@
         }
       },
       "$en_epwork3_0110": {
-        "Target": "{X12Y12}{Char Squall}{Line}Потом вы изменились, после{Line} того как отправились в Уинхилл.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Потом вы изменились после{Line} того, как отправились в Уинхилл».{End}",
         "Source Text SHA256": "CC5A959EEE5E0BC691D366776E4BC450B31C2A0673C4937077015331EB97E0AA",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -906,7 +906,7 @@
         }
       },
       "$en_epwork3_0111": {
-        "Target": "{X12Y12}{Char Squall}{Line}Затем Эллона была похищена Эстаром, и вы{Line} отправились в путешествие. Путешествовали,{Next}чтобы вернуть Эллону. Вы писали статьи{Line} и снимались в фильмах, чтобы свести концы с{Line} концами. Вы пытались найти дорогу в Эстар.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Затем Эллона была похищена Эстаром, и вы{Line} отправились в путешествие. Путешествовали,{Next}чтобы вернуть Эллону. Вы писали статьи{Line} и снимались в фильмах, чтобы свести концы с{Line} концами. Вы пытались найти дорогу в Эстар».{End}",
         "Source Text SHA256": "1DD3932A66B3920359D23CC84DE9C328289E5CD01186EC25EF63C680F4AEC48F",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -914,7 +914,7 @@
         }
       },
       "$en_epwork3_0112": {
-        "Target": "{X12Y12}{Char Squall}{Line}Каким-то образом вам удалось попасть в{Line} Эстар и вы спасли Эллону.{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Каким-то образом вам удалось попасть в{Line} Эстар и спасти Эллону».{End}",
         "Source Text SHA256": "57809B479FA36A292623FBDE2427581ACAD00D57EB0C67A85DFDA3E1E90BED20",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -922,7 +922,7 @@
         }
       },
       "$en_epwork3_0113": {
-        "Target": "{X12Y12}Laguna{Line}Мне много{Line} помогали всё это время.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Мне много{Line} помогали всё это время».{End}",
         "Source Text SHA256": "56CBDBC34207ABBD7040E5F387A7B845413D8CD66C184CBC1D78B2EAD9A4F7B1",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -930,7 +930,7 @@
         }
       },
       "$en_epwork3_0114": {
-        "Target": "{X12Y12}{Char Squall}{Line}Вот чего я не понимаю, так{Line} это... Почему вы - президент?{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}«Вот чего я не понимаю, так{Line} это... Почему вы президент?»{End}",
         "Source Text SHA256": "54DEA3239085E8D5435D378788F8BAE8C86C56BC30A52FE98C7E2973C9BEEC0C",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -938,7 +938,7 @@
         }
       },
       "$en_epwork3_0115": {
-        "Target": "{F3L4B3C0}Laguna{Line}Хотите узнать?{Line} Это длинная история.{Line}(Давайте послушаем){Line}(На неё нет времени){End}",
+        "Target": "{F3L4B3C0}{Char Laguna}{Line}«Хотите узнать?{Line} Это длинная история».{Line}(Давайте послушаем){Line}(На неё нет времени){End}",
         "Source Text SHA256": "3F556871908C2AFF21E6BC974AB808D1C0850A84F4ACF65E9906E89CD6C99754",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -946,7 +946,7 @@
         }
       },
       "$en_epwork3_0115_ctx_946bf576fd7da4fb": {
-        "Target": "{X12Y12}Лагуна{Line}«Хочешь знать?{Line} Это долгая история».{Line}(Рассказывай){Line}(Нет на это времени){End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Хочешь знать?{Line} Это долгая история».{Line}(Рассказывай){Line}(Нет на это времени){End}",
         "Source Text SHA256": "3F556871908C2AFF21E6BC974AB808D1C0850A84F4ACF65E9906E89CD6C99754",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -954,7 +954,7 @@
         }
       },
       "$en_epwork3_0115_ctx_97667b2792fe4081": {
-        "Target": "{X12Y12F3L4B3C0}Лагуна{Line}Хотите узнать?{Line} Это длинная история.{Line}(Давайте послушаем){Line}(На неё нет времени){End}",
+        "Target": "{X12Y12F3L4B3C0}{Char Laguna}{Line}«Хотите узнать?{Line} Это длинная история».{Line}(Давайте послушаем){Line}(На неё нет времени){End}",
         "Source Text SHA256": "3F556871908C2AFF21E6BC974AB808D1C0850A84F4ACF65E9906E89CD6C99754",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -962,7 +962,7 @@
         }
       },
       "$en_epwork3_0116": {
-        "Target": "{X12Y12}Laguna{Line}Хотите послушать? Правда? Хорошо,{Line} я вам расскажу.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Хотите послушать? Правда? Хорошо,{Line} я вам расскажу».{End}",
         "Source Text SHA256": "B7124061E1FBDC8AC0F047852CEC7752131205FF3444AE04AD15F627F6F0CF39",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -970,7 +970,7 @@
         }
       },
       "$en_epwork3_0117": {
-        "Target": "{X12Y12}Laguna{Line}Тогда истории не будет.{Line} Я не могу рассказывать её вкратце.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Тогда истории не будет.{Line} Я не могу рассказывать её вкратце».{End}",
         "Source Text SHA256": "58FA33CAEF0BD2D0F6968D214D4718749FEF6A0F698FD6DF7543C15AF529DE22",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -978,7 +978,7 @@
         }
       },
       "$en_epwork3_0118": {
-        "Target": "{X12Y12}Laguna{Line}Я только отправился{Line} в Эстар спасать Эллону, но на{Line} этом, конечно же, история не заканчивается.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Я только отправился{Line} в Эстар спасать Эллону, но на{Line} этом, конечно же, история не заканчивается».{End}",
         "Source Text SHA256": "656CB188A2A7A99276AE7E53951057590275FD19449F1E19A37F80857A97EAEB",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -986,7 +986,7 @@
         }
       },
       "$en_epwork3_0119": {
-        "Target": "{X12Y12}Laguna{Line}Тогда этой страной правила волшебница Адель,{Line} вместе с Одайном, тогда ещё{Next}бывшим изобретателем. Эллона интересовала их{Line} обоих.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Тогда этой страной правила волшебница Адель,{Line} вместе с Одайном, тогда ещё{Next}бывшим изобретателем. Эллона интересовала их{Line} обоих».{End}",
         "Source Text SHA256": "65261438B444CF8DE6CE964B2F5FB5DC63B4ED1A464A9C8377BC26076E6F5AF2",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -994,7 +994,7 @@
         }
       },
       "$en_epwork3_0120": {
-        "Target": "{X12Y12}Laguna{Line}Мы не смогли{Line} просто собраться и уйти.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Мы не смогли{Line} просто собраться и уйти».{End}",
         "Source Text SHA256": "97EF87680A2661D9852B07F180F49792817CBA6D0D73357141F26CCB7384D0FA",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1002,7 +1002,7 @@
         }
       },
       "$en_epwork3_0121": {
-        "Target": "{X12Y12}Этим оно и закончилось. Но{Next}после этого началась настоящая работа.{End}",
+        "Target": "{X12Y12}«Этим оно и закончилось. Но{Next}после этого началась настоящая работа».{End}",
         "Source Text SHA256": "6343A8A98A834D12ADA92CFC7F6030400B86ACBA1AE6E9E6E94436C4C2267335",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1010,7 +1010,7 @@
         }
       },
       "$en_epwork3_0122": {
-        "Target": "{X12Y12}Laguna{Line}В результате начались ожесточённые споры по{Line} поводу того, кто должен править страной после{Next}Адель. Я и моргнуть не успел,{Line} как из меня сделали героя{Line} революции и в итоге я стал президентом.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«В результате начались ожесточённые споры по{Line} поводу того, кто должен править страной после{Next}Адель. Я и моргнуть не успел,{Line} как из меня сделали героя{Line} революции и в итоге я стал президентом».{End}",
         "Source Text SHA256": "D7C3D70FAA7B134161924D5AA1DDD488A8BDB0587ECF4D832282C408B70A6FED",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1018,7 +1018,7 @@
         }
       },
       "$en_epwork3_0123": {
-        "Target": "{X12Y12}Laguna{Line}Одайн устроил шумиху{Line} из своего желания{Line} исследовать Эллону.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Одайн устроил шумиху{Line} из своего желания{Line} исследовать Эллону».{End}",
         "Source Text SHA256": "97D7C25FB98D5CC8FE22B88FEB2AB75126F7726B3E90AEAA8DDE1AC4679D3026",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1026,7 +1026,7 @@
         }
       },
       "$en_epwork3_0124": {
-        "Target": "{X12Y12}Laguna{Line}Не стоило отправлять{Line} Эллону назад к Рейн.{Next}Рейн умерла и{Line} Элли забрали в приют.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Не стоило отправлять{Line} Эллону назад к Рейн».{Next}«Рейн умерла, и{Line} Элли забрали в приют».{End}",
         "Source Text SHA256": "3C0A9150A619D7F41CD65CB66DA58833DB3E07C57C0DA13AA44284ABC470C2A7",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1034,7 +1034,7 @@
         }
       },
       "$en_epwork3_0125": {
-        "Target": "{X12Y12}Laguna{Line}Если бы я только поехал в Уинхилл{Line} с Элли… Я смог бы в последний{Line} раз увидеться с Рейн.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Если бы я только поехал в Уинхилл{Line} с Элли… Я смог бы в последний{Line} раз увидеться с Рейн».{End}",
         "Source Text SHA256": "E3AC987D8E952E21B15D84BDBCF86CCC89DFE89BB7D24C9D9F46E5A3F1689240",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1042,7 +1042,7 @@
         }
       },
       "$en_epwork3_0126": {
-        "Target": "{X12Y12}Laguna{Line}Рейн умерла. Эллона{Line} исчезла. Моя работа не{Line} отпускала меня ни на{Next}шаг. Меня оставили здесь думать о{Line} том и о сём,{Line} и прежде чем я{Line} узнал это, прошло уже много времени.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Рейн умерла. Эллона{Line} исчезла. Моя работа не{Line} отпускала меня ни на{Next}шаг. Меня оставили здесь думать о{Line} том и о сём,{Line} и прежде чем я{Line} узнал это, прошло уже много времени».{End}",
         "Source Text SHA256": "4615295D06A670DBE91A6C19FB6F767533FCD41BC1AD36CBCCDFFD9DBA1A1F43",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1050,7 +1050,7 @@
         }
       },
       "$en_epwork3_0127": {
-        "Target": "{X12Y12}Laguna{Line}Что ж, кажется это всё.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Что ж, кажется, это всё».{End}",
         "Source Text SHA256": "0158D607C73B48A0416D4C213986D79F5A53D60AA1E56961E7DA14234C3A096E",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1058,7 +1058,7 @@
         }
       },
       "$en_epwork3_0128": {
-        "Target": "{X12Y12}Laguna{Line}Эй, нафига говорить о{Line} прошлом? Давайте лучше поговорим{Next}о будущем. Я имею{Line} в виду, поговорить о том,{Line} как защитить этот мир.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Эй, нафига говорить о{Line} прошлом? Давайте лучше поговорим{Next}о будущем. Я имею{Line} в виду, поговорить о том,{Line} как защитить этот мир».{End}",
         "Source Text SHA256": "8DBFA6ABB342430B2784B32700B5B1909C71548D86EFF6CCFE5553C743211B3A",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1066,7 +1066,7 @@
         }
       },
       "$en_epwork3_0129": {
-        "Target": "{X12Y12}Laguna{Line}Вас проинструктировали насчёт задания? Я{Line} тоже не совсе всё понял.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Вас проинструктировали насчёт задания? Я{Line} тоже не всё до конца понял».{End}",
         "Source Text SHA256": "4BBED598504FE12C8B08E4C3ABEC3698D590F79F04A12DEB59D8C7C1B6F9DC2A",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1074,7 +1074,7 @@
         }
       },
       "$en_epwork3_0130": {
-        "Target": "{X12Y12F2L3B2C0}Laguna{Line}Вы сделаете это?{Line}Да{Line}У меня есть вопросы{End}",
+        "Target": "{X12Y12F2L3B2C0}{Char Laguna}{Line}«Вы сделаете это?»{Line}Да{Line}У меня есть вопросы{End}",
         "Source Text SHA256": "FCDAB05C39BE9CAD1BECFF3D69155A8439EDAF6D5AABD24457B5D75C33E93BB3",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1090,7 +1090,7 @@
         }
       },
       "$en_epwork3_0132": {
-        "Target": "{X160Y12}Ward{Line}”...“{End}",
+        "Target": "{X160Y12}{Char Ward}{Line}«...»{End}",
         "Source Text SHA256": "FBAD14F7DBBC059BCE3CD8BCCAA713E1874DA83561C0B5EAA8D8354DADEBCBE8",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1098,7 +1098,7 @@
         }
       },
       "$en_epwork3_0133": {
-        "Target": "{X12Y12}А, конечно.{End}",
+        "Target": "{X12Y12}«А, конечно».{End}",
         "Source Text SHA256": "FACF6CAF9301564608CE5931D47E627C4C4B51FADB4BF5E842A4B7C224F16536",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1106,7 +1106,7 @@
         }
       },
       "$en_epwork3_0134": {
-        "Target": "{X12Y12}Привет!{End}",
+        "Target": "{X12Y12}«Привет!»{End}",
         "Source Text SHA256": "5419E192DB6C4A0D060CD58A77AE6D1AF80B6C896853605838A3F5E09FCB01EC",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1114,7 +1114,7 @@
         }
       },
       "$en_epwork3_0135": {
-        "Target": "{X12Y12}Давно хотел с вами встретиться, ребята!{End}",
+        "Target": "{X12Y12}«Давно хотел с вами встретиться, ребята!»{End}",
         "Source Text SHA256": "30BF55DE2243A1C5574F376CA0D56CF6F477D1B0B620A547E0440E65BA7947C6",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1122,7 +1122,7 @@
         }
       },
       "$en_epwork3_0136": {
-        "Target": "{X12Y12}Это вы, ребята, были у{Line} меня в голове, да? Эллона{Line} мне всё рассказала.{End}",
+        "Target": "{X12Y12}«Это вы, ребята, были у{Line} меня в голове, да? Эллона{Line} мне всё рассказала».{End}",
         "Source Text SHA256": "CDD2C1472AD5306BAA7F40A85C1E9901018AE85B64904436621AF151A7265251",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1130,7 +1130,7 @@
         }
       },
       "$en_epwork3_0137": {
-        "Target": "{X12Y12}У меня было такое ощущение, словно{Line} через мою голову проходят какие-то волны.{Next}Они придавали нам много{Line} сил в бою.{End}",
+        "Target": "{X12Y12}«У меня было такое ощущение, словно{Line} через мою голову проходят какие-то волны».{Next}«Они придавали нам много{Line} сил в бою».{End}",
         "Source Text SHA256": "27BD61AC908623827E4025185366B3AE79CF45079F114379E0C938EBC1D858D1",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1138,7 +1138,7 @@
         }
       },
       "$en_epwork3_0138": {
-        "Target": "{X12Y12}Мы думали, что возле нас{Line} летают какие-то феи.{End}",
+        "Target": "{X12Y12}«Мы думали, что возле нас{Line} летают какие-то феи».{End}",
         "Source Text SHA256": "2FE71283676B14B23C029C76E3823E1F40EFABBE60B54E0990AFBD047D01763A",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1146,7 +1146,7 @@
         }
       },
       "$en_epwork3_0139": {
-        "Target": "{X12Y12}Ну, я{Line} Лагуна. Лагуна Луар, президент Эстара.{End}",
+        "Target": "{X12Y12}«Ну, я{Line} Лагуна. Лагуна Луар, президент Эстара».{End}",
         "Source Text SHA256": "5AC69F58590212EE38B60C157B5711BE9658AFAD2A1E4E9DEAD7F23BD6EBA8CA",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1154,7 +1154,7 @@
         }
       },
       "$en_epwork3_0140": {
-        "Target": "{X12Y12}Laguna{Line}Рад знакомству с вами.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Рад знакомству с вами».{End}",
         "Source Text SHA256": "04CA093265C173ADBB73E7D32B2D15CB3F9994F361FC3A6C445318C505C66BD2",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1162,7 +1162,7 @@
         }
       },
       "$en_epwork3_0141": {
-        "Target": "{X12Y12}Laguna{Line}Если бы не критическое положение,{Line} я бы поболтал с вами подольше, но...{Line} Хотя ладно, какая разница? Давайте поговорим.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Если бы не критическое положение,{Line} я бы поболтал с вами подольше, но...{Line} Хотя ладно, какая разница? Давайте поговорим».{End}",
         "Source Text SHA256": "2F7261A27A894CA2C840E834C0D9A2320D6783C987B2460DF017EAB2A2FE501C",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1170,7 +1170,7 @@
         }
       },
       "$en_epwork3_0142": {
-        "Target": "{X12Y12}Laguna{Line}Что вы бы хотели узнать?{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Что вы бы хотели узнать?»{End}",
         "Source Text SHA256": "C46EA37B7E94AD2F94CD028464383D2E3A4427C53AF55CBB7EEED995A3357BF4",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1178,7 +1178,7 @@
         }
       },
       "$en_epwork3_0143": {
-        "Target": "{X160Y12}Kiros{Line}Если президент Лагуна не поболтает,{Line} то вы так никуда и не уйдёте.{End}",
+        "Target": "{X160Y12}{Char Kiros}{Line}«Если президент Лагуна не поболтает,{Line} то вы так никуда и не уйдёте».{End}",
         "Source Text SHA256": "3D09971D71537CFEC523789BC75E9F887CA8FE54A4BEF33350CE7FBA654759F5",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1186,7 +1186,7 @@
         }
       },
       "$en_epwork3_0144": {
-        "Target": "{X160Y12}Kiros{Line}Поэтому, почему бы вам, ребята, не задать ему{Line} пару вопросов, а он попытается на них ответить.{End}",
+        "Target": "{X160Y12}{Char Kiros}{Line}«Так почему бы вам, ребята, не задать ему{Line} пару вопросов? Он попытается на них ответить».{End}",
         "Source Text SHA256": "7AA6F0815E4B0B3D8D1C3667514837B3DF37BA2CE4012D1073BB5A06E88A1204",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1194,7 +1194,7 @@
         }
       },
       "$en_epwork3_0145": {
-        "Target": "{X12Y12}Лагуна{Line}Я и сам не до конца{Line}понимаю наш план, но, похоже,{Line}другого выхода нет.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Я и сам не до конца{Line}понимаю наш план, но, похоже,{Line}другого выхода нет».{End}",
         "Source Text SHA256": "9C6696E8FF81595CCB43259A2AD9386E7B60A152C1153E061D607EB697680C55",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1202,7 +1202,7 @@
         }
       },
       "$en_epwork3_0146": {
-        "Target": "{X12Y12}Лагуна{Line}1. Спасаем Эллону.{Line}2. Не даём волшебнице Адель пробудиться.{Line}3. Ждём, пока Ультимеция вселится в {Char Rinoa}.{Next}4. Эллона отправляет {Char Rinoa} и Ультимецию{Line}в прошлое.{Line}5. Начинается сжатие времени.{Line}6. Возвращаем {Char Rinoa} в наш мир.{Next}7. Через сжатое время идём в будущее.{Line}8. Побеждаем Ультимецию!!!{Line}9. Победа за нами... Вот и всё.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«1. Спасаем Эллону.{Line}2. Не даём волшебнице Адель пробудиться.{Line}3. Ждём, пока Ультимеция вселится в {Char Rinoa}».{Next}«4. Эллона отправляет {Char Rinoa} и Ультимецию{Line}в прошлое.{Line}5. Начинается сжатие времени.{Line}6. Возвращаем {Char Rinoa} в наш мир».{Next}«7. Через сжатое время идём в будущее.{Line}8. Побеждаем Ультимецию!!!{Line}9. Победа за нами... Вот и всё».{End}",
         "Source Text SHA256": "F29ED856C80DA841D8CEA065CE690780C1C8AA573303AB12EC1A4E5DA28E383E",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1210,7 +1210,7 @@
         }
       },
       "$en_epwork3_0147": {
-        "Target": "{X12Y12}Лагуна{Line}Ну конечно.{Line}Буду ждать хороших новостей!{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Ну конечно.{Line}Буду ждать хороших новостей!»{End}",
         "Source Text SHA256": "4E54FCB26BE11D7A502BB9674E0C5A20D64F7701654A77BAD627E56F0147D9FB",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1218,7 +1218,7 @@
         }
       },
       "$en_epwork3_0148": {
-        "Target": "{X12Y12}Laguna{Line}Отлично!!!{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Отлично!!!»{End}",
         "Source Text SHA256": "2261C6C3B51412AA2A49A205F0900C3A0A09C4034C91BB5B0F3B5579E0667FE5",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1226,7 +1226,7 @@
         }
       },
       "$en_epwork3_0149": {
-        "Target": "{X12Y12}Laguna{Line}Вперед!{Line} Полетим на Рагнароке! Там{Next}же и проведём окончательный{Line} инструктаж!{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Вперед!{Line} Полетим на Рагнароке! Там{Next}же и проведём окончательный{Line} инструктаж!»{End}",
         "Source Text SHA256": "9D5B70A6761CE000B121982F5C590790DD859591E4D2F08DFB7AD308CBF9D087",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1234,7 +1234,7 @@
         }
       },
       "$en_epwork3_0150": {
-        "Target": "{X12Y12}Laguna{Line}Всегда хотел полетать на этой штуке. Да{Line} и название у него круто звучит!{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Всегда хотел полетать на этой штуке. Да{Line} и название у него круто звучит!»{End}",
         "Source Text SHA256": "BE1899D06A2BF29EC4A2D91AF596E9BB8963CF387D44FB68311C6D5C805918CE",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1242,7 +1242,7 @@
         }
       },
       "$en_epwork3_0151": {
-        "Target": "{X12Y12}Laguna{Line}Просто выслушайте инструктаж по миссии.{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Просто выслушайте инструктаж по миссии».{End}",
         "Source Text SHA256": "662A47B298C979095BED471D86567188DE1A8EA2442ED94F5BF1E637D67BA0BF",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1250,7 +1250,7 @@
         }
       },
       "$en_epwork3_0152": {
-        "Target": "{X12Y12}Quistis{Line}У меня такое ощущение, словно я во сне...{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«У меня такое ощущение, словно я во сне...»{End}",
         "Source Text SHA256": "E9926CBD182855CE145238E64D6A035DD7177BF160796305BC9321658F682D40",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1258,7 +1258,7 @@
         }
       },
       "$en_epwork3_0153": {
-        "Target": "{X12Y12}Zell{Line}Я чувствую себя абсолютно не в своей тарелке...{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«Я чувствую себя абсолютно не в своей тарелке...»{End}",
         "Source Text SHA256": "2044CB52D746082B133C7824FA15EB9592F3728C0B234FB71987EEF65FE428B7",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1266,7 +1266,7 @@
         }
       },
       "$en_epwork3_0154": {
-        "Target": "{X12Y12}Selphie{Line}Это и вправду сэр Лагуна...{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Это и вправду сэр Лагуна...»{End}",
         "Source Text SHA256": "E2FF7789CA138F6017733E6D895EDCA9F1D428E20EFEE45497EA13CEC6CD96DA",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1274,7 +1274,7 @@
         }
       },
       "$en_epwork3_0155": {
-        "Target": "{X12Y12}Irvine{Line}Мы можем ему доверять?{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}«Мы можем ему доверять?»{End}",
         "Source Text SHA256": "A4B10E071F33C4E51A872D4171BF1C70A6AE23A2E4F8D354397627A917EBC906",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1282,7 +1282,7 @@
         }
       },
       "$en_epwork3_0156": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}Похоже, они любят повеселиться.{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}«Похоже, они любят повеселиться».{End}",
         "Source Text SHA256": "CA5FB298BB0BD55F0C8C8B6E970D605E909190DAAB9A5EEDB6B3F94ED05B595B",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
@@ -1290,7 +1290,7 @@
         }
       },
       "$en_epwork3_0157": {
-        "Target": "{X10Y10F1L2B1C2}Ааа, ну можно...{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}«Ааа, ну можно...»{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "554BFEFA236D4742F48B906D5D06721EAE07AE1A0418008AF1679644FF756B5A",
         "sourceContext": {
           "Source MSD SHA256": "88602EBA492661DF07C551CE02E13805FE8CFE3EF73FAA0F1E7597D7AF1233EB",
