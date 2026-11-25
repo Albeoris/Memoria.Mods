@@ -1,0 +1,20 @@
+{
+  "Information and SeeD exam": {
+    "mngrp_slot128_block0008": {
+      "$en_mngrp_slot128_block0008_0000": {
+        "Target": "Привязка к стихийной атаке",
+        "Source Text SHA256": "876BBE315FB2E874895E85F86DC03B16465028E4518244FEAF3978EA6693B4C2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot128_block0008_0001": {
+        "Target": "Привязка магии к стихийной атаке.{Line}Привязать можно только магию,{Line}относящуюся к одной из стихий.{Line}После привязки команда {Color Blue}Атака{Color White} наносит стихийный урон.{Line}100% полностью переводят атаку в эту стихию.{Line}Если враг получает двойной урон от огня,{Line}огненная атака при 100% нанесёт двойной урон,{Line}а при 50% —{Line}полуторный.{Line}",
+        "Source Text SHA256": "1363629B8FF2DEC734EA102190703A71017E6D01A1E98EAEF84BB81BFB2FBC44",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

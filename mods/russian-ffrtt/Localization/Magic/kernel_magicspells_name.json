@@ -1,0 +1,398 @@
+{
+  "Magic": {
+    "kernel_magicspells_name": {
+      "$en_kernel_magicspells_name_0001": {
+        "Target": "Огонь I",
+        "Source Text SHA256": "C141FAA80E43A11909F5736D1E767F12E1468AA06DADD446081746934E875FC3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0002": {
+        "Target": "Огонь II",
+        "Source Text SHA256": "4EC91CC40800019D4B79EF00E2E9E83C1AAFB2A10B34661866A6F4D5604E06B2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0003": {
+        "Target": "Огонь III",
+        "Source Text SHA256": "3212802DFF7B189E66246A29AF7ECC4DD07EB5D7554CCC353A8D84E4919C3240",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0004": {
+        "Target": "Лёд I",
+        "Source Text SHA256": "4E00AD2BDBFFD737174B244F2BDFD718BA7633673A7E38548636477B0DDAF42D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0005": {
+        "Target": "Лёд II",
+        "Source Text SHA256": "85FEC181495B8935602BEEB98C25229778C7809A2E92AC9B5B7597239F0B8AF2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0006": {
+        "Target": "Лёд III",
+        "Source Text SHA256": "6DAEE14012BA09529CC12E65EDF7D34C3203AD0939C4CF1CB4B099ACA4058D43",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0007": {
+        "Target": "Молния I",
+        "Source Text SHA256": "519BCE7BC2DAB47F9794B45E2E2C4F6D63F90D340F44A80F3504D5AD9F82ED9B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0008": {
+        "Target": "Молния II",
+        "Source Text SHA256": "6C728BD7548F5765A2692E00C711F26B633BCEEDCA029E2A59024C0F76FF40F2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0009": {
+        "Target": "Молния III",
+        "Source Text SHA256": "CCBEC7C45206D2F43F5728D899534EC77B16AD443FA0EDB690955E704DC44CE2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0010": {
+        "Target": "Вода",
+        "Source Text SHA256": "7CA7DEA906800F87091B819132ECF2AA2B7EA14C9841FA18B9DB121D3BBE82DC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0011": {
+        "Target": "Вихрь",
+        "Source Text SHA256": "7BF7186F0B43121BF726F9C86FA69335977E97C8A8D7E2F45223B35E0C56B39B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0012": {
+        "Target": "Токсин",
+        "Source Text SHA256": "3933B1802161254F41C59F2909F61AC994C086E1CDE03848C4C310F45B5B4999",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0013": {
+        "Target": "Грави",
+        "Source Text SHA256": "5D6C46A16221139CA45E2EF1D5052726D45277D616A55918145BD55820B81055",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0014": {
+        "Target": "Святость",
+        "Source Text SHA256": "56EEE6A57925BE9E0E0724C3CFB6D7D72B1FE8CDD680E79A437552FC6F07B7A9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0015": {
+        "Target": "Взрыв",
+        "Source Text SHA256": "38E9B86F2BCDF9A93D346C9CAFC3C214A2FE7DDDA36B2BA8B1CF2987A785AC3C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0016": {
+        "Target": "Метеор",
+        "Source Text SHA256": "0024757ADC8C0AF542BDD2E1C9DD101D78AE612C40F1FA79264B1BCDDF8B4429",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0017": {
+        "Target": "Землетрясение",
+        "Source Text SHA256": "46DC99ECBADF8EB35F82819E8D6D11B88538FC90EF6C908DB72B711BDE294865",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0018": {
+        "Target": "Торнадо",
+        "Source Text SHA256": "3582D91ACB1D5E8BF692FC192BC4EABC4DBD0A99FEDFC65CECFB99E0C06879BA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0019": {
+        "Target": "Ультима",
+        "Source Text SHA256": "CB3B8C19297D18918C71B272ED1322F7EC6D1A8C97E704E3FC7EB46370AC3DCE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0020": {
+        "Target": "Апокалипсис",
+        "Source Text SHA256": "952F6866FCDA179F5949780B48F7750EF3B52E55FCA04CF4DEFA183AEF89E80B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0021": {
+        "Target": "Лечение I",
+        "Source Text SHA256": "F22B5280088582F7C290768CAA90C11D3E9BEE41372BCED2FA83C362262478FA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0022": {
+        "Target": "Лечение II",
+        "Source Text SHA256": "67A34B8A1198C89A988AEF1AAB03D512E4F203E3E4C7BD61676D31700CBFCEDD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0023": {
+        "Target": "Лечение III",
+        "Source Text SHA256": "ABBC3FA62C837E0B0EB58602832CEA26CED3028C4BFB80F6ECCEAA10171D5969",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0024": {
+        "Target": "Оживление",
+        "Source Text SHA256": "52D46FFEDCF86C4D0859F4B77883CBE66ED1DD3E7162A72A355DC7A318CE01F4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0025": {
+        "Target": "Воскрешение",
+        "Source Text SHA256": "B93C3F658759FE6C730B7BC607E1E948A9977E4ACEACD6F9B69FB1D01FA87EB7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0026": {
+        "Target": "Регенерация",
+        "Source Text SHA256": "AB98E5D7E5CDA3BE18BCC87DD70B5803F4B23FDA3566176C21931ED8F0B7C01E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0027": {
+        "Target": "Очищение",
+        "Source Text SHA256": "E6D37D3E727C7D3ACD5B16FF126947E7E79191C506F63B607EAADD1A53578B04",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0028": {
+        "Target": "Развеивание",
+        "Source Text SHA256": "4DB6659CF5CFE56220F681FBD8753BE24DF320C4EFA2AB3885C6EB172A98D4D2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0029": {
+        "Target": "Защита",
+        "Source Text SHA256": "806C20D1D5656602D83ACBA61B41B5AA42B5301242464D94DC6FEFC347A24182",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0030": {
+        "Target": "Оболочка",
+        "Source Text SHA256": "A733285486D5438327C37AF6E6E84A69A6C6F22AAE74B94D33CF88C6EEDA93CC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0031": {
+        "Target": "Отражение",
+        "Source Text SHA256": "9BD75A3FB14A6E1D987086C88AA6D8BEC3770DDD99F7E368006CC2453C1A0152",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0032": {
+        "Target": "Аура",
+        "Source Text SHA256": "224EA01E4A299102CF8DA1698A931BAD291415DCEFEA7493576C17CF1FA960B9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0033": {
+        "Target": "Удвоение",
+        "Source Text SHA256": "529441523BEC75ECECF4B98D5C326B733439D0312DE1A334FA01E3F6720D1425",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0034": {
+        "Target": "Утроение",
+        "Source Text SHA256": "A29CDB61DF1464EF45DDEDC7A042FD8F4FAB0FD1C7C0C694DF708D0B61E21222",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0035": {
+        "Target": "Ускорение",
+        "Source Text SHA256": "DE3B46DA4DA8A98C381A34E6EF1326411F01962E4BB094B007055B41E1D37CE4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0036": {
+        "Target": "Замедление",
+        "Source Text SHA256": "4B2BEBBF33AEB7AEA11CBAB9D95019A647CA038B638F99F593AAE85B986ED2E2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0037": {
+        "Target": "Остановка",
+        "Source Text SHA256": "CAE7D57BC067A514B8E34C9589631A95C7DC051638DDD2A190773269279A99DF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0038": {
+        "Target": "Ослепление",
+        "Source Text SHA256": "64C82AAED1B4155EFC23D5CFCEA6EC22F8EE5826DD26F5F1274E44FE905D4FB1",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0039": {
+        "Target": "Смятение",
+        "Source Text SHA256": "61D8DFCBAE330EC0657B30332817A3F2FA4DDEE7DB5405356350872B74C0797E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0040": {
+        "Target": "Сон",
+        "Source Text SHA256": "D466BCF52EB6921B1E747E51BF2CC1441926455BA146ECC477BED1574E44F9C0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0041": {
+        "Target": "Безмолвие",
+        "Source Text SHA256": "6C61FE498281F4216FD03973936E6F88B0142654174538F4EB41987DFC4C965A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0042": {
+        "Target": "Окаменение",
+        "Source Text SHA256": "F71081FB0AF48AE614362BB396A02F189C24358D014A7DAA12940AA6FC2AE29E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0043": {
+        "Target": "Смерть",
+        "Source Text SHA256": "FCD6FEA72DE7E6C09CA2567674BEFDEF61C04E783BD2E0F092AEB99C57E587E3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0044": {
+        "Target": "Высасывание",
+        "Source Text SHA256": "795B048BA2164E50AED17F86797F1F03ADD5A66DF9C18B37013058C8C0115749",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0045": {
+        "Target": "Боль",
+        "Source Text SHA256": "B94DAC135B0BEFD5F0EC921C222D0B1214781E0B06C738191587BA72EC3E82E6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0046": {
+        "Target": "Берсерк",
+        "Source Text SHA256": "08BD7CBF4B138E67BE4A5CCE28BC717CE3BE31615B3DAA16BF10CDE894DE77F9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0047": {
+        "Target": "Левитация",
+        "Source Text SHA256": "1A693C00C40CC749294B6C88A58F62250FA3FBA10D6E406567CE2BAE2E572661",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0048": {
+        "Target": "Зомби",
+        "Source Text SHA256": "4C876E938C74FF4D6EE0E587623ABF3C4A399188742B9318A786B2DD108489BA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0049": {
+        "Target": "Расплавление",
+        "Source Text SHA256": "325E111F0FCF34F061AC2260676F5EE24EE942655C87E44034D6B8F456388273",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0050": {
+        "Target": "Сканирование",
+        "Source Text SHA256": "EA1C510D1DDB726491A6CB0A66573189C72BF8781322F8ADAED0C0C0C7CEA4AF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0051": {
+        "Target": "Полное исцеление",
+        "Source Text SHA256": "5B654C79057638287C36718FBA1AD7BDE442EF288AE041832BFC60DBFC95DC52",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0052": {
+        "Target": "Стена",
+        "Source Text SHA256": "F76EA921EDC2E55DF3E0A8EEF0DDC499BDB4C39FC74356FB49B0C9ED2FAB6642",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0053": {
+        "Target": "Вознесение",
+        "Source Text SHA256": "BD07DDAFE488A8E2BDFBCFACBE09282F0272744BFFC445021C6CC416135039EF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0054": {
+        "Target": "Процент",
+        "Source Text SHA256": "716D633B125ADB76832F17BEE5BCE63BE33094820CD46EF1222CEC4A7AE8EB58",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0055": {
+        "Target": "Катастрофа",
+        "Source Text SHA256": "2CE74C206A8CB80F216FF7A848C7083120FC5A716E25AD521DEAD4F52B079178",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_magicspells_name_0056": {
+        "Target": "Конец",
+        "Source Text SHA256": "0ECAC1A8E4A766BAAFE253F76AF0603734C3A1315630F8239A6328DA48FA17D6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

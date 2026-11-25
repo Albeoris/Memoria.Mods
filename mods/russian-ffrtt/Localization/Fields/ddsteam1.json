@@ -1,0 +1,70 @@
+{
+  "Fields": {
+    "ddsteam1": {
+      "$en_ddsteam1_0000": {
+        "Target": "{X50Y30}«На нижнем уровне обнаружено переполнение.{Line}Пополнить резерв давления{Line}пара невозможно».{End}",
+        "Source Text SHA256": "AE951101D9D819B3E5F81A647D0FEFCE8A032412D42707EE15AC9FFEE7E641E8",
+        "sourceContext": {
+          "Source MSD SHA256": "8AD1C228E36E8EDB83F1B49D3F6A8BF04B8FA9C79D8D3B82468F1FD6023D73D8",
+          "JSM SHA256": "495B99F82E9DA13B91BA876E032A6990DFEC4F5CCCCF9E2BCD8568D059E7BB0C"
+        }
+      },
+      "$en_ddsteam1_0001": {
+        "Target": "{X50Y30F3L4B3C1}”Current stocked Reserve Steam Pressure: {Color Yellow}7{Color White}{Line} Пополнить резерв{Line} на случай аварии?“{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "0D03D34466620CBA3979C8F59B20686EF9D0F55E3B9CB630E1FEF6368A96F89C",
+        "sourceContext": {
+          "Source MSD SHA256": "8AD1C228E36E8EDB83F1B49D3F6A8BF04B8FA9C79D8D3B82468F1FD6023D73D8",
+          "JSM SHA256": "495B99F82E9DA13B91BA876E032A6990DFEC4F5CCCCF9E2BCD8568D059E7BB0C"
+        }
+      },
+      "$en_ddsteam1_0002": {
+        "Target": "{X50Y30F5L6B5C1}  {Color YellowBlink}▽{Color Green}Пополнение на 7{Color YellowBlink}▽{Line}{Color Blue}■■■■■■■■■■{Color Green}[{Color YellowBlink} 17{Line}{Color YellowBlink}■■■■■■■{Color Grey}□□□ ‾20‾{Color Green}]{Line}{Color Green}=================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "E3BD95B3BE9C73EA69BC0EA7925ACA80119F88CA82DCC599DEDBB24F5EC83887",
+        "sourceContext": {
+          "Source MSD SHA256": "8AD1C228E36E8EDB83F1B49D3F6A8BF04B8FA9C79D8D3B82468F1FD6023D73D8",
+          "JSM SHA256": "495B99F82E9DA13B91BA876E032A6990DFEC4F5CCCCF9E2BCD8568D059E7BB0C"
+        }
+      },
+      "$en_ddsteam1_0003": {
+        "Target": "{X50Y30}{Color Red}▽{Color Green}Готово{Color Red}▽{Line}{Color Blue}■■■■■■■■■■{Color Green}[{Color Blue} 17{Line}{Color Blue}■■■■■■■{Color Grey}□□□ ‾20‾{Color Green}]{End}",
+        "Source Text SHA256": "854330C00C62236DF23A421AA5984680CAD7BBE2E1DF10951FE796F19971394D",
+        "sourceContext": {
+          "Source MSD SHA256": "8AD1C228E36E8EDB83F1B49D3F6A8BF04B8FA9C79D8D3B82468F1FD6023D73D8",
+          "JSM SHA256": "495B99F82E9DA13B91BA876E032A6990DFEC4F5CCCCF9E2BCD8568D059E7BB0C"
+        }
+      },
+      "$en_ddsteam1_0004": {
+        "Target": "{X50Y30F5L6B5C1}  {Color YellowBlink}▽{Color Green}Пополнение на 7{Color YellowBlink}▽{Line}{Color Blue}■■■■■■■■■{Color YellowBlink}■{Color Green}[{Color YellowBlink} 16{Line}{Color YellowBlink}■■■■■■{Color Grey}□□□□ ‾20‾{Color Green}]{Line}{Color Green}=================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "670714E88004F541F75DADB722AE467D5D26E59569B895DDF40030A6BB8378BE",
+        "sourceContext": {
+          "Source MSD SHA256": "8AD1C228E36E8EDB83F1B49D3F6A8BF04B8FA9C79D8D3B82468F1FD6023D73D8",
+          "JSM SHA256": "495B99F82E9DA13B91BA876E032A6990DFEC4F5CCCCF9E2BCD8568D059E7BB0C"
+        }
+      },
+      "$en_ddsteam1_0005": {
+        "Target": "{X50Y30}{Color Red}▽{Color Green}Готово{Color Red}▽{Line}{Color Blue}■■■■■■■■■■{Color Green}[{Color Blue} 16{Line}{Color Blue}■■■■■■{Color Grey}□□□□ ‾20‾{Color Green}]{End}",
+        "Source Text SHA256": "C49ACC690CB63ACE938800F4D3F1E4946785C222534FBA25E0CBCD2EADCE659D",
+        "sourceContext": {
+          "Source MSD SHA256": "8AD1C228E36E8EDB83F1B49D3F6A8BF04B8FA9C79D8D3B82468F1FD6023D73D8",
+          "JSM SHA256": "495B99F82E9DA13B91BA876E032A6990DFEC4F5CCCCF9E2BCD8568D059E7BB0C"
+        }
+      },
+      "$en_ddsteam1_0006": {
+        "Target": "{X50Y30F5L6B5C1}  {Color YellowBlink}▽{Color Green}Пополнение на 7{Color YellowBlink}▽{Line}{Color Blue}■■■■■■■■{Color YellowBlink}■■{Color Green}[{Color YellowBlink} 15{Line}{Color YellowBlink}■■■■■{Color Grey}□□□□□ ‾20‾{Color Green}]{Line}{Color Green}=================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "43F17B161D16545C9CDB4F3BB570C14FCB190B9B1EA75433EA722337077C3C0F",
+        "sourceContext": {
+          "Source MSD SHA256": "8AD1C228E36E8EDB83F1B49D3F6A8BF04B8FA9C79D8D3B82468F1FD6023D73D8",
+          "JSM SHA256": "495B99F82E9DA13B91BA876E032A6990DFEC4F5CCCCF9E2BCD8568D059E7BB0C"
+        }
+      },
+      "$en_ddsteam1_0007": {
+        "Target": "{X50Y30}{Color Red}▽{Color Green}Готово{Color Red}▽{Line}{Color Blue}■■■■■■■■■■{Color Green}[{Color Blue} 15{Line}{Color Blue}■■■■■{Color Grey}□□□□□ ‾20‾{Color Green}]{End}",
+        "Source Text SHA256": "DD0E4219B793A103BA671051C84DB11496F6ACF44F4842E02BB9607D7CB48EB1",
+        "sourceContext": {
+          "Source MSD SHA256": "8AD1C228E36E8EDB83F1B49D3F6A8BF04B8FA9C79D8D3B82468F1FD6023D73D8",
+          "JSM SHA256": "495B99F82E9DA13B91BA876E032A6990DFEC4F5CCCCF9E2BCD8568D059E7BB0C"
+        }
+      }
+    }
+  }
+}

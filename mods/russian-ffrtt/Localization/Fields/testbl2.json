@@ -1,0 +1,22 @@
+{
+  "Fields": {
+    "testbl2": {
+      "$en_testbl2_0000": {
+        "Target": "{X30Y15}Лесным Совам{Line}{Line} Этот контракт на предоставление SeeD действует{Line} до обретения Тимбером независимости.{Line} Пожалуйста, используйте способности каждого бойца.{Line}{Line} Желаю вам успеха в достижении вашей цели.{Line} Прошу учесть, что этот контракт заключён{Line} в порядке исключения и замена{Line} бойцов SeeD не предусмотрена.{Line}{Line} Директор Сада Баламб Сид Крамер{End}",
+        "Source Text SHA256": "840F2C2BEA9C02E6DDA67508D749F1824988FDB68F3DF7CA8F8D8EF066BF47F9",
+        "sourceContext": {
+          "Source MSD SHA256": "D416E449E069AF8FBEB82481CBAA738D3125861741F2EFF12CE450F517477B09",
+          "JSM SHA256": "490DC99284A52FA8C06E125AF66B8C4677D3A66D66EAEABB25AE7314ECF938A5"
+        }
+      },
+      "$en_testbl2_0001": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "873D439458AEFF38C9648E8B34089559640AB4D69685D80F7D539FCD780596A8",
+        "sourceContext": {
+          "Source MSD SHA256": "D416E449E069AF8FBEB82481CBAA738D3125861741F2EFF12CE450F517477B09",
+          "JSM SHA256": "490DC99284A52FA8C06E125AF66B8C4677D3A66D66EAEABB25AE7314ECF938A5"
+        }
+      }
+    }
+  }
+}

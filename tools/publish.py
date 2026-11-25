@@ -15,12 +15,14 @@ from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
 from build import (RELEASE_CONFIG, REPOSITORY, SOURCE_ID, build, catalog_metadata, digest_stream, engine_range, entry_mode, json_bytes,
-                   latest_engine_range, read_descriptor, read_json, read_release_configuration, require, unique_object,
-                   validate_catalog_component, version_key)
+                   language_target, latest_engine_range, read_descriptor, read_json, read_release_configuration, require, unique_object,
+                   validate_catalog_component, validate_dependency_ids, validate_language_offers, validate_native_variants, variant_target, version_key)
 
 
 CATALOG_BRANCH = "catalog"
 CATALOG_FILE = "catalog-v1.json"
+LANGUAGE_FILE = "languages-v1.json"
+CATALOG_FILES = (CATALOG_FILE, LANGUAGE_FILE)
 RELEASE_MARKER = "<!-- memoria-official-v1:"
 RELEASE_SUFFIX = " -->"
 DIGEST = re.compile(r"[a-f0-9]{64}")
@@ -128,8 +130,8 @@ class GitHub:
 
         retry(verify, f"Verify {artifact['url']}")
 
-    def verify_catalog(self, catalog):
-        url = f"https://raw.githubusercontent.com/{self.repository}/{CATALOG_BRANCH}/{CATALOG_FILE}"
+    def verify_catalog(self, catalog, filename=CATALOG_FILE):
+        url = f"https://raw.githubusercontent.com/{self.repository}/{CATALOG_BRANCH}/{filename}"
 
         def verify():
             request = Request(url, headers={"Cache-Control": "no-cache"})
@@ -140,31 +142,54 @@ class GitHub:
         retry(verify, f"Verify {url}", delays=(0, 2, 4, 8, 16, 32, 64, 128, 256))
 
 
-def read_catalog(folder, repository):
-    path = folder / CATALOG_FILE
+def read_catalog(folder, repository, filename=CATALOG_FILE):
+    path = folder / filename
     if not path.exists():
-        require(not git(folder, "ls-tree", "HEAD"), "Publication branch is missing its catalog")
+        require(filename == LANGUAGE_FILE or not git(folder, "ls-tree", "HEAD"), "Publication branch is missing its catalog")
         return {"schemaVersion": 1, "sourceId": SOURCE_ID, "revision": 0, "components": []}
     catalog = read_json(path)
     require(catalog["schemaVersion"] == 1 and catalog["sourceId"] == SOURCE_ID
             and type(catalog["revision"]) is int and catalog["revision"] > 0 and isinstance(catalog["publishedAt"], str),
             "Unsupported existing catalog")
-    validate_unique(catalog["components"])
+    dependencies = catalog.get("dependencies", [])
+    require(isinstance(dependencies, list) and len(dependencies) <= 128 and (filename == LANGUAGE_FILE or "dependencies" not in catalog), "Invalid hidden dependency pool")
     for component in catalog["components"]:
         component_id = component["id"]
-        validate_catalog_component(component, component_id)
-        latest = component["latest"]
-        version = latest["version"]
-        version_key(version)
-        engine_range(latest["engineVersionRange"])
-        tag = f"{component_id}-v{version}"
-        require(latest["releaseTag"] == tag, f"Invalid advertised release tag for {component_id}")
-        artifact = latest["artifact"]
-        expected_url = f"https://github.com/{repository}/releases/download/{tag}/{component_id}-{version}.zip"
-        require(artifact["url"] == expected_url and DIGEST.fullmatch(artifact["sha256"])
-                and all(type(artifact[key]) is int and artifact[key] > 0 for key in ("size", "unpackedSize")),
-                f"Invalid advertised artifact for {component_id}")
+        if filename == LANGUAGE_FILE:
+            offers = component.get("languageOffers")
+            validate_language_offers(offers)
+            require("nativeVariants" not in component and component["groupId"] == "Memoria" and component["target"] == language_target(offers),
+                    f"{component_id}: language metadata does not match its target")
+        else:
+            require(not {"languageOffers", "nativeVariants", "dependencies"} & component.keys(), f"{component_id}: typed package in ordinary catalog")
+        validate_catalog_release(component, repository)
+    for component in dependencies:
+        component_id = component["id"]
+        variants = component.get("nativeVariants")
+        validate_native_variants(variants, component_id)
+        require("languageOffers" not in component and component["groupId"] == "Memoria" and component["target"] == variant_target(variants),
+                f"{component_id}: dependency metadata does not match its target")
+        validate_catalog_release(component, repository)
+    validate_unique(catalog["components"] + dependencies)
+    if filename == LANGUAGE_FILE:
+        validate_pins(catalog["components"], dependencies)
     return catalog
+
+
+def validate_catalog_release(component, repository):
+    component_id = component["id"]
+    validate_catalog_component(component, component_id)
+    latest = component["latest"]
+    version = latest["version"]
+    version_key(version)
+    engine_range(latest["engineVersionRange"])
+    tag = f"{component_id}-v{version}"
+    require(latest["releaseTag"] == tag, f"Invalid advertised release tag for {component_id}")
+    artifact = latest["artifact"]
+    expected_url = f"https://github.com/{repository}/releases/download/{tag}/{component_id}-{version}.zip"
+    require(artifact["url"] == expected_url and DIGEST.fullmatch(artifact["sha256"])
+            and all(type(artifact[key]) is int and artifact[key] > 0 for key in ("size", "unpackedSize")),
+            f"Invalid advertised artifact for {component_id}")
 
 
 def validate_unique(components):
@@ -182,22 +207,113 @@ def validate_unique(components):
         settings.add(settings_key)
 
 
-def write_catalog(folder, catalog, component, source):
-    components = {entry["id"]: entry for entry in catalog["components"]}
-    components.pop(RETIRED_COMPONENT_IDS.get(component["id"]), None)
-    components[component["id"]] = component
-    updated = {
-        "schemaVersion": 1,
-        "sourceId": SOURCE_ID,
-        "revision": catalog["revision"] + 1,
-        "publishedAt": datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
-        "components": [components[key] for key in sorted(components)],
-    }
-    (folder / CATALOG_FILE).write_bytes(json_bytes(updated))
-    git(folder, "add", CATALOG_FILE)
-    git(folder, *GIT_AUTHOR, "commit", "-m", f"Publish {component['latest']['releaseTag']}", "-m", f"Source: {source}")
-    git(folder, "push", "origin", f"HEAD:{CATALOG_REF}")
-    return updated
+def catalog_entries(catalog):
+    return catalog["components"] + catalog.get("dependencies", [])
+
+
+def catalog_filename(component):
+    return LANGUAGE_FILE if "languageOffers" in component or "nativeVariants" in component else CATALOG_FILE
+
+
+def ordered_sources(sources):
+    by_id = {descriptor["id"]: (folder, descriptor, metadata) for folder, descriptor, metadata in sources}
+    visiting = set()
+    processed = set()
+    ordered = []
+
+    def visit(item):
+        _, descriptor, metadata = item
+        component_id = descriptor["id"]
+        if component_id in processed:
+            return
+        require(component_id not in visiting, f"Dependency cycle at {component_id}")
+        visiting.add(component_id)
+        for dependency_id in descriptor.get("dependencies", []):
+            child = by_id.get(dependency_id)
+            require(child is not None and child[1].get("kind") == "dependency", f"{component_id}: missing hidden dependency {dependency_id}")
+            validate_dependency_target(metadata, child[2])
+            visit(child)
+        visiting.remove(component_id)
+        processed.add(component_id)
+        ordered.append(item)
+
+    for item in sources:
+        visit(item)
+    return ordered
+
+
+def native_pairs(component):
+    variants = component["nativeVariants"] if "nativeVariants" in component else (pair for offer in component["languageOffers"] for pair in offer["nativeVariants"])
+    return {(pair["edition"], pair["language"]) for pair in variants}
+
+
+def validate_dependency_target(parent, child):
+    require(native_pairs(parent) <= native_pairs(child), f"{parent['id']}: dependency {child['id']} does not cover the native profiles")
+
+
+def validate_pins(roots, dependencies):
+    pool = {component["id"]: component for component in dependencies}
+    ordered = []
+    for entry in roots + dependencies:
+        pins = entry.get("dependencies", [])
+        require(isinstance(pins, list) and all(isinstance(pin, dict) and set(pin) == {"id", "version"} for pin in pins),
+                f"{entry['id']}: invalid dependency pins")
+        ids = [pin["id"] for pin in pins]
+        validate_dependency_ids(ids, entry["id"])
+        for pin in pins:
+            child = pool.get(pin["id"])
+            require(child is not None and pin["version"] == child["latest"]["version"], f"{entry['id']}: unpublished required dependency {pin['id']}")
+        descriptor = {"id": entry["id"], "dependencies": ids, "kind": "dependency" if "nativeVariants" in entry else "language"}
+        ordered.append((None, descriptor, entry))
+    ordered_sources(ordered)
+
+
+def write_catalogs(folder, catalogs, source, component=None):
+    changes = {}
+    for filename, catalog in catalogs.items():
+        components = {entry["id"]: entry for entry in catalog_entries(catalog)}
+        if component is not None:
+            component_id = component["id"]
+            components.pop(RETIRED_COMPONENT_IDS.get(component_id), None)
+            if filename == catalog_filename(component):
+                components[component_id] = component
+            else:
+                components.pop(component_id, None)
+        entries = [components[key] for key in sorted(components)]
+        roots = [entry for entry in entries if "nativeVariants" not in entry]
+        dependencies = [entry for entry in entries if "nativeVariants" in entry]
+        if filename == LANGUAGE_FILE:
+            versions = {entry["id"]: entry["latest"]["version"] for entry in dependencies}
+            for index, entry in enumerate(roots):
+                roots[index] = repin(entry, versions)
+            for index, entry in enumerate(dependencies):
+                dependencies[index] = repin(entry, versions)
+            validate_pins(roots, dependencies)
+        if not catalog["revision"] or roots != catalog["components"] or dependencies != catalog.get("dependencies", []):
+            updated = {
+                "schemaVersion": 1,
+                "sourceId": SOURCE_ID,
+                "revision": catalog["revision"] + 1,
+                "publishedAt": datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
+                "components": roots,
+            }
+            if filename == LANGUAGE_FILE:
+                updated["dependencies"] = dependencies
+            changes[filename] = updated
+    if changes:
+        for filename, updated in changes.items():
+            (folder / filename).write_bytes(json_bytes(updated))
+        message = f"Publish {component['latest']['releaseTag']}" if component is not None else "Initialize publication catalogs"
+        git(folder, "add", *changes)
+        git(folder, *GIT_AUTHOR, "commit", "-m", message, "-m", f"Source: {source}")
+        git(folder, "push", "origin", f"HEAD:{CATALOG_REF}")
+    return {**catalogs, **changes}
+
+
+def repin(component, versions):
+    if not component.get("dependencies"):
+        return component
+    return {**component, "dependencies": [{"id": pin["id"], "version": versions.get(pin["id"])} for pin in component["dependencies"]]}
 
 
 def component_releases(releases, component_id):
@@ -262,17 +378,20 @@ def ensure_candidate(host, release, identity, expected, source, archive, compone
     return release
 
 
-def prune(host, component, keep, catalog):
+def prune(host, component, keep, catalogs):
     component_id = component["id"]
     version = component["latest"]["version"]
     require(keep["tag_name"] == component["latest"]["releaseTag"] and not keep["draft"], "Cannot prune without an advertised release")
-    host.verify_catalog(catalog)
+    # A cross-catalog move must be visible through both endpoints before retiring an old asset.
+    for filename, catalog in catalogs.items():
+        if catalog["revision"]:
+            host.verify_catalog(catalog, filename)
     for candidate_version, (candidate, _) in component_releases(host.releases(), component_id).items():
         if candidate_version != version:
             retry(lambda: host.delete_release(candidate), f"Delete {candidate['tag_name']}")
     previous_id = RETIRED_COMPONENT_IDS.get(component_id)
     if previous_id:
-        require(all(entry["id"] != previous_id for entry in catalog["components"]), "Cannot prune an advertised previous identity")
+        require(all(entry["id"] != previous_id for catalog in catalogs.values() for entry in catalog_entries(catalog)), "Cannot prune an advertised previous identity")
         for candidate, _ in component_releases(host.releases(), previous_id).values():
             retry(lambda: host.delete_release(candidate), f"Delete {candidate['tag_name']}")
 
@@ -320,18 +439,21 @@ def publish(root, host, resolve_minimum=latest_engine_range):
     descriptors = [read_descriptor(folder) for folder in folders]
     components = [catalog_metadata(descriptor) for descriptor in descriptors]
     validate_unique(components)
+    sources = ordered_sources(list(zip(folders, descriptors, components)))
     configuration = read_release_configuration(root)
     component_ids = {entry["id"] for entry in components}
     require(not any(new in component_ids and old in component_ids for new, old in RETIRED_COMPONENT_IDS.items()),
             "A retired component ID cannot be authored beside its replacement")
     require(configuration.keys() <= component_ids, "Release configuration references an unknown component ID")
     with TemporaryDirectory(prefix="memoria-mods-") as temporary, checkout_catalog(root, Path(temporary)) as catalog_folder:
-        catalog = read_catalog(catalog_folder, host.repository)
-        existing = {entry["id"]: entry for entry in catalog["components"]}
+        catalogs = {filename: read_catalog(catalog_folder, host.repository, filename) for filename in CATALOG_FILES}
+        advertised = [entry for catalog in catalogs.values() for entry in catalog_entries(catalog)]
+        validate_unique(advertised)
+        existing = {entry["id"]: entry for entry in advertised}
         retained_ids = component_ids | {old for new, old in RETIRED_COMPONENT_IDS.items() if new in component_ids}
         require(existing.keys() <= retained_ids, "A cataloged component ID was removed or changed")
         releases = host.releases()
-        for folder, descriptor, metadata in zip(folders, descriptors, components):
+        for folder, descriptor, metadata in sources:
             component_id = descriptor["id"]
             tree = git(root, "rev-parse", f"HEAD:mods/{folder.name}")
             release_configuration = configuration.get(component_id, {})
@@ -344,20 +466,20 @@ def publish(root, host, resolve_minimum=latest_engine_range):
             current = existing.get(component_id) or existing.get(previous_id)
             current_version = current["latest"]["version"] if current else None
             if current_version:
-                advertised = component_releases(releases, current["id"])
-                require(current_version in advertised, f"Catalog references a missing release for {component_id}")
-                current_release, current_identity = advertised[current_version]
+                current_releases = component_releases(releases, current["id"])
+                require(current_version in current_releases, f"Catalog references a missing release for {component_id}")
+                current_release, current_identity = current_releases[current_version]
                 latest = current["latest"]
                 require(not current_release["draft"] and current_identity["sha256"] == latest["artifact"]["sha256"]
                         and current_identity["engineVersionRange"] == latest["engineVersionRange"],
                         f"Catalog references a mismatched release for {component_id}")
                 verify_release(current_release, f"{current['id']}-{current_version}.zip", latest["artifact"])
                 validate_identity_transition(current, metadata, configured_minimum)
-                if current["id"] == component_id and current_identity["tree"] == tree:
+                if current["id"] == component_id and current_identity["tree"] == tree and catalog_filename(current) == catalog_filename(metadata):
                     if len(available) > 1 or previous_id and component_releases(releases, previous_id):
                         host.verify_artifact(latest["artifact"])
-                        prune(host, current, current_release, catalog)
-                        report_publication(current_identity["sourceCommit"], current, catalog)
+                        prune(host, current, current_release, catalogs)
+                        report_publication(current_identity["sourceCommit"], current, catalogs[catalog_filename(current)])
                     continue
 
             matched = [version for version, (_, identity) in available.items()
@@ -380,14 +502,18 @@ def publish(root, host, resolve_minimum=latest_engine_range):
                     minimum = current["latest"]["engineVersionRange"] if current else resolve_minimum()
             archive, component = build(folder, Path(temporary), descriptor, version, minimum, host.repository,
                                        release_configuration.get("releaseNotes", ""))
+            if descriptor.get("dependencies"):
+                versions = {entry["id"]: entry["latest"]["version"] for entry in catalogs[LANGUAGE_FILE].get("dependencies", [])}
+                component["dependencies"] = [{"id": dependency, "version": versions[dependency]} for dependency in descriptor["dependencies"]]
             artifact = component["latest"]["artifact"]
             expected = {"componentId": component_id, "version": version, "tree": tree, "sourceCommit": origin,
                         "engineVersionRange": minimum, "sha256": artifact["sha256"]}
             keep = ensure_candidate(host, release, identity, expected, origin, archive, component)
             archive.unlink()
-            catalog = write_catalog(catalog_folder, catalog, component, origin)
-            prune(host, component, keep, catalog)
-            report_publication(origin, component, catalog)
+            catalogs = write_catalogs(catalog_folder, catalogs, origin, component)
+            prune(host, component, keep, catalogs)
+            report_publication(origin, component, catalogs[catalog_filename(component)])
+        write_catalogs(catalog_folder, catalogs, source)
 
 
 def main():

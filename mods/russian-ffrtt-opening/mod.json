@@ -1,0 +1,20 @@
+{
+  "id": "russian-ffrtt-opening",
+  "name": "FFRTT Opening Movie",
+  "package": "Localization",
+  "description": {
+    "en": "Adapted opening movie and camera for FFRTT.\n\nOpening video credits: AxlRose (Discord: axlrose) made the original upscale and 30 FPS version. Camera from Tsunamod Cinema-RF.",
+    "ru": "Адаптированный вступительный ролик и камера для FFRTT.\n\nАвторы вступительного ролика: оригинальный апскейл и версию на 30 FPS сделал AxlRose (Discord: axlrose). Камера из Tsunamod Cinema-RF."
+  },
+  "kind": "dependency",
+  "nativeVariants": [
+    {
+      "edition": "Classic",
+      "language": "en"
+    },
+    {
+      "edition": "Remastered",
+      "language": "en"
+    }
+  ]
+}

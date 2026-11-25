@@ -1,0 +1,125 @@
+{
+  "Menus": {
+    "mngrp_slot165_table": {
+      "$en_mngrp_slot165_table_0000": {
+        "Target": "Экран состояния показывает{Line}основные сведения{Line}о персонаже.",
+        "Source Text SHA256": "E2B27F714E97E750BB622EDDD0CFCCC24726974FD3EF497D0C8D0DB00AF36ECF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0001": {
+        "Target": "На первом экране видны{Line}ЖЗ, сила и другие характеристики.",
+        "Source Text SHA256": "F536A2FC2206977F56ABB3F72B80F31541715F75E63253AA6E2166F515E3BFC3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0002": {
+        "Target": "На втором экране показаны{Line}сведения о состояниях и стихиях.",
+        "Source Text SHA256": "33B535571B444CA5854D2948393CB159EEAE24A1055C537DBAA6475A702A1774",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0003": {
+        "Target": "На третьем экране видны{Line}сведения о Стражах.",
+        "Source Text SHA256": "045ECBDFC20B0AE8E315E57045C29A4B4CBD2ECFEE68CA4578D035766706893B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0004": {
+        "Target": "На четвёртом экране видны{Line}сведения о предельных ударах.",
+        "Source Text SHA256": "C07EBED9C0847D7CCD4C4BCF2725349C208E6E476D37108C5CF07F1204BB2EB0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0005": {
+        "Target": "Настройки ганблейда {Char Squall} можно изменить{Line}на экране предельного удара.",
+        "Source Text SHA256": "003199B6E715EC5D650C11F474FD362F00C76FD0782C1C0F2979F27CA094DC3D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0006": {
+        "Target": "Доступны два параметра:{Line}Автоспуск ганблейда{Line}Индикатор Рэндзокукэна",
+        "Source Text SHA256": "ACC46D30D4AAB5DF0BF7B3094639E6BDE7D80F8605A2804B6D7F019871BAFBAC",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0007": {
+        "Target": "Если включить{Line}автоспуск ганблейда,",
+        "Source Text SHA256": "CA7AE9D970923771F48A6D4F840E6C1DE8DCB1DF3DB94695868BFA104823DF87",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0008": {
+        "Target": "Рэндзокукэн сработает автоматически,{Line}и нажимать {Key 35} не придётся.",
+        "Source Text SHA256": "1F752D83AE11B8E2FB3821CECBAD06F8F762CA439F55A00D62182E6A717A100B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0009": {
+        "Target": "Но с ним трудно добиться «Идеально».{Line}Чтобы добиться этого, отключите автоспуск",
+        "Source Text SHA256": "FA4BAE05CE5CE23C91288221CEAB5D379B6C3EECA146A91544BEE367D87C5D4A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0010": {
+        "Target": "и нажимайте {Key 35} в нужный момент.",
+        "Source Text SHA256": "E57B30315E36B17BE84248826E2ACFA1284D7DB9E931EEBCA5622E57EE161CC7",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0011": {
+        "Target": "Если индикатор Рэндзокукэна",
+        "Source Text SHA256": "AB83FDFAA2C83EEF5E1D1888BB6DF836FD8D32DCC69CA5D15705433CD34E1645",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0012": {
+        "Target": "отключён,",
+        "Source Text SHA256": "35FDE6E939DCAE9C4E6B9D1C2D4BF83B062EEB600A820CCF51502CE8952102D6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0013": {
+        "Target": "он не появится{Line}во время Рэндзокукэна.",
+        "Source Text SHA256": "B2EC43D67D8AC9FD93F0EF57ABAAD4E46FC75B138C30C0E1780939520DF8A1B5",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0014": {
+        "Target": "При включении автоспуска ганблейда{Line}индикатор Рэндзокукэна",
+        "Source Text SHA256": "47F18B86A903632EEC957E6DF8D09710D4BABBB843F82BB6C1BC616DB53CF1A1",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0015": {
+        "Target": "отключается автоматически.",
+        "Source Text SHA256": "173D375E543B41D80B7B78F84580D96ED0DF022E177E52FF581728BBAF166B7C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot165_table_0016": {
+        "Target": "На этом урок о предельном ударе{Line}{Char Squall} окончен.",
+        "Source Text SHA256": "CCACB19900ECF58661ED7F57F86B891F67E9C8DC846AE20B05031C82EE4D9A02",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

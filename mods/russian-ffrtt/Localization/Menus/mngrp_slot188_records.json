@@ -1,0 +1,720 @@
+{
+  "Menus": {
+    "mngrp_slot188_records": {
+      "$en_mngrp_slot188_records_0000": {
+        "Target": "Обломок коралла:{Line}1 ед. → {Line}20 × Молния II",
+        "Source Text SHA256": "B5816C01810756CB076B7CBCB0B60ADAB190CC644CDDEEB84FD61ACD7F92A073",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0001": {
+        "Target": "Камень-динамо:{Line}1 ед. → {Line}20 × Молния III",
+        "Source Text SHA256": "C4C73632033F65F18509867BBED7BA54E6BE8652B396F97D5F850656714CBBB6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0002": {
+        "Target": "Осколок м-камня:{Line}1 ед. → {Line}5 × Молния I",
+        "Source Text SHA256": "277D13542A7BB1D967B1FF0CC5D241DDCABEB0C424FC1DD01DCADED2E93A4F34",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0003": {
+        "Target": "Камень волшебника:{Line}1 ед. → {Line}5 × Молния II",
+        "Source Text SHA256": "135AB84E99668960DC4AFF5C01077E2D49519690F7DE3A8D9E4B29D86ED20CC5",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0004": {
+        "Target": "Камень чародея:{Line}1 ед. → {Line}5 × Молния III",
+        "Source Text SHA256": "553B79465F5BFA4E994AA746A81C7203C97C7EE07667D6C304585846DB2E093B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0005": {
+        "Target": "Срезанное перо:{Line}1 ед. → {Line}20 × Вихрь",
+        "Source Text SHA256": "80C9F3DAB0E894CC1DCA0C4C772DA23ED6C2BC1BE559F0CD27C9197557C8F1CA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0006": {
+        "Target": "Пропеллер:{Line}1 ед. → {Line}20 × Торнадо",
+        "Source Text SHA256": "9AF930F0340BE70B4FD67FF404FFB98D44904C0A9BB5698382B15B64A1DA68F5",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0007": {
+        "Target": "Ветер Арктики:{Line}1 ед. → {Line}20 × Лёд II",
+        "Source Text SHA256": "F4BA3FE3053936FD13EF0A0E17DD3FDBC9E342038D7CAA4F69CADCD543AD174F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0008": {
+        "Target": "Ветер севера:{Line}1 ед. → {Line}20 × Лёд III",
+        "Source Text SHA256": "13574F34099BA6ABC76F48E18D7044A837A6A22B220DBF4BC619303B6D86290A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0009": {
+        "Target": "Осколок м-камня:{Line}1 ед. → {Line}5 × Лёд I",
+        "Source Text SHA256": "3CCA45E423513CB53658206AD85E3582FDF03D4B3EAAE6B65869971675CFB938",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0010": {
+        "Target": "Камень волшебника:{Line}1 ед. → {Line}5 × Лёд II",
+        "Source Text SHA256": "6015F99C53B727D0B87887E5557FD4CA5ACFD4ED0B8716259A6F064848A0B5B9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0011": {
+        "Target": "Камень чародея:{Line}1 ед. → {Line}5 × Лёд III",
+        "Source Text SHA256": "E068ECCF26B69B873C3B7968D48F27F2991692A9752BC7D684CE61590A835E5A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0012": {
+        "Target": "Плавник рыбы:{Line}1 ед. → {Line}20 × Вода",
+        "Source Text SHA256": "1DE6C2064714A4BD2DC16E27C72DE3C637D3D6268FB7BD00AA183DD718A1CE2C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0013": {
+        "Target": "Водяной кристалл:{Line}1 ед. → {Line}50 × Вода",
+        "Source Text SHA256": "7F3C8640D6360F97DE2A853E817892E5D8530700B4F216313BBF6B29DB6F210E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0014": {
+        "Target": "Осколок бомбы:{Line}1 ед. → {Line}20 × Огонь II",
+        "Source Text SHA256": "AE9E6E20EAC8EECA910B4B7DA67320D563E3F3D1A6B0020E33A12B2F26A73EAE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0015": {
+        "Target": "Красный клык:{Line}1 ед. → {Line}20 × Огонь III",
+        "Source Text SHA256": "F6D5D001346B94A9B6388067DF224131ACFEE414C8BC7F2273B15E3EFB004EC4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0016": {
+        "Target": "Осколок м-камня:{Line}1 ед. → {Line}5 × Огонь I",
+        "Source Text SHA256": "E6CD8AC551EE5A9F95D7DB948B03EC27BAB0DE59B7C6688BD7762B9C8ECC3DC3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0017": {
+        "Target": "Камень волшебника:{Line}1 ед. → {Line}5 × Огонь II",
+        "Source Text SHA256": "09E01E28E9789C148233C70920D4F0208BE6D36E56E78CE5620EDA25123A22BD",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0018": {
+        "Target": "Камень чародея:{Line}1 ед. → {Line}5 × Огонь III",
+        "Source Text SHA256": "F6F0D0AC0DECC664E935948550EBD5132EC52D75BEC8FE43F8BC4D50ACF44923",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0019": {
+        "Target": "Дух бомбы:{Line}1 ед. → {Line}100 × Огонь III",
+        "Source Text SHA256": "1F4693107FA6F8A720D7C166FED95066D61DF9CCFF71CB9EC1969B9EBFDEEFC6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0020": {
+        "Target": "Перо Феникса:{Line}1 ед. → {Line}100 × Огонь III",
+        "Source Text SHA256": "DA0AAC13F4433B5DF4F1FFAC1DA764219447CD96F0475F5180E088CBA5705EB1",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0021": {
+        "Target": "Дух феникса:{Line}1 ед. → {Line}100 × Огонь III",
+        "Source Text SHA256": "5743637AAECD71391A45F7148C9F0D70B9952DF2492140C03960654546CD7FE9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0022": {
+        "Target": "Камень «Вспышка»:{Line}1 ед. → {Line}1 × Взрыв",
+        "Source Text SHA256": "E7C9A80A159759796823734A7A3BCE1B55A2ED7A0069508971F01AECB43FB70C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0023": {
+        "Target": "Адский клык:{Line}1 ед. → {Line}20 × Взрыв",
+        "Source Text SHA256": "C05BB3BEDFC1F65DC3AB0806A1CCD5BDC5A54E78570E732147257303A9386AF9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0024": {
+        "Target": "Кольцо жизни:{Line}1 ед. → {Line}20 × Оживление",
+        "Source Text SHA256": "10C9B50F3C16CA368BB5C3774CA7170A70FEFD05A97BA38339C669F76A09BDE6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0025": {
+        "Target": "Кольцо восстановления:{Line}1 ед. → {Line}20 × Воскрешение",
+        "Source Text SHA256": "020C4FB66BA39FF33A3A1520362BB6F9178C426D842B30E86AD34E9F6E7AECD8",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0026": {
+        "Target": "Дух феникса:{Line}1 ед. → {Line}100 × Воскрешение",
+        "Source Text SHA256": "E48348ED721AFDB458ACD13CF268571DE0E5F6A6357DD327D26776457DBC195A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0027": {
+        "Target": "Лезвие гипнорога:{Line}1 ед. → {Line}20 × Регенерация",
+        "Source Text SHA256": "00D40192344D5297EB6BF705E29589171CA01E46F2A0ADBE8AA4A00830EC207F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0028": {
+        "Target": "Камень луны:{Line}1 ед. → {Line}20 × Святость",
+        "Source Text SHA256": "197748F009171A724BB635690460887B827FD19DA78B2677C863335130443F25",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0029": {
+        "Target": "Камень «Святость»:{Line}1 ед. → {Line}1 × Святость",
+        "Source Text SHA256": "7F96C036D7FB2768059D1E68C524FDCC016C7BF37D7620054BAC74628136A35A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0030": {
+        "Target": "Дух смерти:{Line}1 ед. → {Line}20 × Смерть",
+        "Source Text SHA256": "7AB1BBBED7205344B0549D4815FDD7E933D110435851BA46B8C9D8055639A488",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0031": {
+        "Target": "Зазубренное лезвие:{Line}1 ед. → {Line}10 × Смерть",
+        "Source Text SHA256": "5E436018DCF5811B6EB3648607999A6B9D0349B1C6943F716E53A3D8573639D1",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0032": {
+        "Target": "Прах зомби:{Line}1 ед. → {Line}20 × Зомби",
+        "Source Text SHA256": "6385CE3E6E4C1D26FB7AADF7239EF59A18CAA40AD5B98FF770AD54EACFA87EC0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0033": {
+        "Target": "Святая вода:{Line}1 ед. → {Line}2 × Зомби",
+        "Source Text SHA256": "1C0DE5C9F7D9AE2000E12A86C2B56CA4F014D2B2CC527C736F3F03696DFE73DB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0034": {
+        "Target": "Осколок м-камня:{Line}1 ед. → {Line}5 × Лечение I",
+        "Source Text SHA256": "C45F35527008E1AD505BDEC4E67BEC41E628F25276D78D3386C3834A14794805",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0035": {
+        "Target": "Камень волшебника:{Line}1 ед. → {Line}5 × Лечение II",
+        "Source Text SHA256": "A6D56ED5B19F9F7CD2F8568AB452B6956B5F733BBD17E7C2C81AD9196A2503E9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0036": {
+        "Target": "Камень чародея:{Line}1 ед. → {Line}5 × Лечение III",
+        "Source Text SHA256": "5A50A7B4A72679E73F415E0C15494548317B889893AB3293D11B84C186D35951",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0037": {
+        "Target": "Поварской нож:{Line}1 ед. → {Line}30 × Смерть",
+        "Source Text SHA256": "C686B4CA0747BA413ABB58F0679F3112FDAC4B86693340C1257C1416F8B377F0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0038": {
+        "Target": "Шепот:{Line}1 ед. → {Line}50 × Лечение III",
+        "Source Text SHA256": "8DACBCDECE30D5145C0CE3257C215E74B94DA4B1F5301E168C4FE8698B6CFA76",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0039": {
+        "Target": "Целебная вода:{Line}1 ед. → {Line}20 × Лечение II",
+        "Source Text SHA256": "588EEA1AD91D394EDCB6D9423A04A5FED1A3C38A12AE1DAC0C869040E5CE1E44",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0040": {
+        "Target": "Исцеляющая броня:{Line}1 ед. → {Line}20 × Лечение III",
+        "Source Text SHA256": "54EF16C26D251E85147A7B59F70F01F9799BD189DEE90CA777C4639CEDD176E0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0041": {
+        "Target": "Кольцо исцеления:{Line}1 ед. → {Line}100 × Лечение III",
+        "Source Text SHA256": "DDFCE342A10A5DB541490F0B64A62B9D4096EB3E6D4E89C612BB94A92CE6C9E8",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0042": {
+        "Target": "Тент:{Line}1 ед. → {Line}10 × Лечение III",
+        "Source Text SHA256": "0D8BE7F1D8D31F7D2E41752EC818BC86A5B9D40498E62EB96F8A6FFBD316CC86",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0043": {
+        "Target": "Шатер:{Line}1 ед. → {Line}20 × Лечение III",
+        "Source Text SHA256": "55AD68D76231A935ABA5684B21258C44964BC363FE72EA6B8B68E748EDD264D5",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0044": {
+        "Target": "Камень «Смерть»:{Line}1 ед. → {Line}1 × Смерть",
+        "Source Text SHA256": "A56A6BAB1E347C2CE24150CFDD795F23F159B0A2C68F6E99CFD0612971BD78DC",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0045": {
+        "Target": "Плавник дракона:{Line}1 ед. → {Line}20 × Удвоение",
+        "Source Text SHA256": "E74DCAF6480ABA5DAA96045CB2056E37B42718CC6D269C2BFA8A8F833EC656AD",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0046": {
+        "Target": "Стальная сфера:{Line}1 ед. → {Line}15 × Грави",
+        "Source Text SHA256": "6CF1A18A4155CEFAC560AFE7D59A635484D817D8ED04F963C795C98373F4F168",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0047": {
+        "Target": "Черная дыра:{Line}1 ед. → {Line}30 × Грави",
+        "Source Text SHA256": "446D921D24E9F822C4BE12904A5ED6737288DE50FC0DDEE3AA68D13C17590334",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0048": {
+        "Target": "Кость динозавра:{Line}1 ед. → {Line}20 × Землетрясение",
+        "Source Text SHA256": "3413EE0FBCF7FA408C35E12B457A9C32C179DE8B333D8E88E50BA2C353EC443B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0049": {
+        "Target": "Облегчение:{Line}1 ед. → {Line}20 × Ускорение",
+        "Source Text SHA256": "4EA13CA2CB6E0FC5710C6C3C82893DA2A5E7E8BE85238148CF47582DA173CC3C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0050": {
+        "Target": "Ускоритель:{Line}1 ед. → {Line}100 × Ускорение",
+        "Source Text SHA256": "7763C2B8E24FD066F9465CBAB277AF62E9B2A524BD78014923F216247BC83BAA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0051": {
+        "Target": "Паутина:{Line}1 ед. → {Line}20 × Замедление",
+        "Source Text SHA256": "EF264AA1F12004B4F360C66D9DB9AF6D38D7A8BDC703213204EF14F897621B02",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0052": {
+        "Target": "Осколок м-камня:{Line}1 ед. → {Line}5 × Замедление",
+        "Source Text SHA256": "B144DAC8813D516C2336CA2894FE8B75ACC55DE109C8E7BBF0CD762C4CF54842",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0053": {
+        "Target": "Камень волшебника:{Line}1 ед. → {Line}5 × Ускорение",
+        "Source Text SHA256": "0A728767F73D6CC85005D60786D265EAB707B2B35303BC54D4317F05D374978F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0054": {
+        "Target": "Камень чародея:{Line}1 ед. → {Line}5 × Остановка",
+        "Source Text SHA256": "11575E75ED42E186E58F15CB86A69347BD8B986133694DEC4126A6197997EFDA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0055": {
+        "Target": "Амулет Эгиды:{Line}1 ед. → {Line}100 × Ускорение",
+        "Source Text SHA256": "F0FE78167425B106C73263A617FBE11932F5392CED4E9546917CCE6B5EBD0B5E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0056": {
+        "Target": "Ракетный двигатель:{Line}1 ед. → {Line}50 × Утроение",
+        "Source Text SHA256": "E71BFE0C0B487E9763E62A0BC22C10AB433DE2BE023E2833231FDF6484A252A2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0057": {
+        "Target": "Три звезды:{Line}1 ед. → {Line}100 × Утроение",
+        "Source Text SHA256": "2C388580825E65D0086667BFC006219ADD6A916A094E67573E87E95AC1266597",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0058": {
+        "Target": "Душа Саманты:{Line}1 ед. → {Line}60 × Утроение",
+        "Source Text SHA256": "1FF58FC92F96280B540A154B6E865AA6045F5DC23A8C6E1DD0851E184B39BAFB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0059": {
+        "Target": "Щупальце отю:{Line}1 ед. → {Line}30 × Ослепление",
+        "Source Text SHA256": "905EE6DFF1EFFD87C99B1C98CB081E08D3459C8499C10EE8DB8B9D37BB1C4E2D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0060": {
+        "Target": "Глазные капли:{Line}1 ед. → {Line}1 × Ослепление",
+        "Source Text SHA256": "8F53EAFA93B029E1716B8AA53E2E9EDED6087555DC08F56D08AF34806FEDA29C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0061": {
+        "Target": "Меч предателя:{Line}1 ед. → {Line}20 × Смятение",
+        "Source Text SHA256": "360C59C054A7933B7706440637C798DA1E1860D9B824B8EA3C2F94C5B036D168",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0062": {
+        "Target": "Порошок сна:{Line}1 ед. → {Line}20 × Сон",
+        "Source Text SHA256": "F279B05F1F0974B13D77C9ED97522D6BF3498BD265DFF3142028A9C86B0DE9DB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0063": {
+        "Target": "Загадочная жидкость:{Line}1 ед. → {Line}10 × Расплавление",
+        "Source Text SHA256": "C67736EC378B20681D562E13078A15B60D19F4222F6D6CF7E57A2EBDA1A1A1C6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0064": {
+        "Target": "Крыло кокатриса:{Line}1 ед. → {Line}20 × Окаменение",
+        "Source Text SHA256": "F531BCD986F02077B09067BE3FC17940F0BDD53D178844D16FBF3BB31B8B466B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0065": {
+        "Target": "Золотая игла:{Line}1 ед. → {Line}3 × Окаменение",
+        "Source Text SHA256": "AFA6C431963F9CC438E29182D4313D5DC978EA93BC4838BB1DC21BD1D74F9DF9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0066": {
+        "Target": "Стальная труба:{Line}1 ед. → {Line}20 × Берсерк",
+        "Source Text SHA256": "C08ADCF6B2091AAE47D53CCDA802C70EA3C1B553A47093E4313419E56B245565",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0067": {
+        "Target": "Порошок безмолвия:{Line}1 ед. → {Line}20 × Безмолвие",
+        "Source Text SHA256": "61D4F870E781F63C59336AE46C1674AE45267A5F8683F656270160FA220DE0E5",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0068": {
+        "Target": "Эхо-экран:{Line}1 ед. → {Line}2 × Безмолвие",
+        "Source Text SHA256": "80E202699E84ACF6B33F960078B71FFFF6814BABBEF7D4C49CB88D520A921004",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0069": {
+        "Target": "Проклятый шип:{Line}1 ед. → {Line}10 × Боль",
+        "Source Text SHA256": "F1E8B8E13178923E46F826E63F823F9B2A50FC820551E411994BE220EBC10AA4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0070": {
+        "Target": "Ядовитый клык:{Line}1 ед. → {Line}20 × Токсин",
+        "Source Text SHA256": "03483EFEC2900AB126838B6A5FC33D4DB58B01808EF9B12C37735F781B9A934F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0071": {
+        "Target": "Противоядие:{Line}1 ед. → {Line}1 × Токсин",
+        "Source Text SHA256": "E3F1D1026911EA163B62F28268C549337961237C286673B149F85B2681A989DA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0072": {
+        "Target": "Щупальце мальборо:{Line}1 ед. → {Line}40 × Токсин",
+        "Source Text SHA256": "E609F608759B0AC47B5751DA8CA284E6BB3A5F97C1EEA3DCC7CF9CDE32E7C064",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0073": {
+        "Target": "Осколок м-камня:{Line}1 ед. → {Line}5 × Безмолвие",
+        "Source Text SHA256": "E2A1D056C69664E8D82DCBEA5E9561AD1E51154C8573416683D7CCBA3F0FB0EF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0074": {
+        "Target": "Камень волшебника:{Line}1 ед. → {Line}5 × Берсерк",
+        "Source Text SHA256": "713F934D42C42FB03D431E30AA9CE61D1EB044F20FA88004B15B575F66627FD2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0075": {
+        "Target": "Камень чародея:{Line}1 ед. → {Line}5 × Токсин",
+        "Source Text SHA256": "8173A0FD833D379FFC2A5F986602F4FDF109D98D602A00B38972FE5225352E1F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0076": {
+        "Target": "Клык дракона:{Line}1 ед. → {Line}20 × Очищение",
+        "Source Text SHA256": "F102498CDEDAD394911C0C4CF47F842E612BF4620C68FFD797C55E4206593074",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0077": {
+        "Target": "Панацея:{Line}1 ед. → {Line}5 × Очищение",
+        "Source Text SHA256": "C30AFFDA6FADD3ABC40FFB342AD97BA7E7B99E4093F4CE9003E1D3384F183A30",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0078": {
+        "Target": "Аптечка:{Line}1 ед. → {Line}100 × Очищение",
+        "Source Text SHA256": "728807802F7A88FA53517A6DCE38DCCA0A64D27A879C9D2118D113F56A9D4567",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0079": {
+        "Target": "Зазубренное лезвие:{Line}1 ед. → {Line}20 × Развеивание",
+        "Source Text SHA256": "2754D0FFCAF7205E4EBE567EA0A30094DE01F598CB5F3F42DA918118FE05D72F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0080": {
+        "Target": "Осколок м-камня:{Line}1 ед. → {Line}5 × Очищение",
+        "Source Text SHA256": "5942612897223B97EA14A822A21B78CE2313EE0CB24F2867240D4FD3B82B3361",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0081": {
+        "Target": "Камень волшебника:{Line}1 ед. → {Line}5 × Развеивание",
+        "Source Text SHA256": "EDDD9D188EAE9D47B5253DF165F8F1750ED2DC9F5E80BC8BE14ADC141BAB76F3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0082": {
+        "Target": "Камень чародея:{Line}1 ед. → {Line}20 × Развеивание",
+        "Source Text SHA256": "FB3F7C0092049043EEFF9EC3D283DD03F3B97F3CD27D3157ED0EA84515CB1E41",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0083": {
+        "Target": "Шкура дракона:{Line}1 ед. → {Line}20 × Отражение",
+        "Source Text SHA256": "CE3F2A02FC957A69BF4D4AB70E14C1D1F3A89A15702BA566077B59C81D49C24A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0084": {
+        "Target": "Сияющий занавес:{Line}1 ед. → {Line}100 × Отражение",
+        "Source Text SHA256": "8B26DA042669F5C47ED757D269D7BAC18A99AD556D143AE8AC2BA412697933AE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0085": {
+        "Target": "Кольцо великана:{Line}1 ед. → {Line}60 × Защита",
+        "Source Text SHA256": "4758EE15A947A2C8C8BC27E8CB8056E21684C6327A14AB18C2EB2F4630FCC326",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0086": {
+        "Target": "Черепаший панцирь:{Line}1 ед. → {Line}30 × Защита",
+        "Source Text SHA256": "0637D85FC799CFDA8E1436A7371A0B6E3F27A875214A3906BBE339F413781E9F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0087": {
+        "Target": "Барьер:{Line}1 ед. → {Line}40 × Оболочка",
+        "Source Text SHA256": "663E30438C25472FD699DDA811A7570A2C689AE964F0CC202ED524B4CCA2D1B0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0088": {
+        "Target": "Стальной занавес:{Line}1 ед. → {Line}100 × Защита",
+        "Source Text SHA256": "D2284035F5A13350EA4925EC5B21D77F6C287C1E383D8EA494CA8EB65ADF6F38",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0089": {
+        "Target": "Браслет рун:{Line}1 ед. → {Line}40 × Оболочка",
+        "Source Text SHA256": "90BC4CD84B417433939256D0F280FD3BF4B1B7C4533DACE616A5BDED78E0C1C1",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0090": {
+        "Target": "Лунный занавес:{Line}1 ед. → {Line}100 × Оболочка",
+        "Source Text SHA256": "578BA701B361484F0B7D9B416D0F1263C68773BF236DC028398EC9360BADB081",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0091": {
+        "Target": "Клык вампира:{Line}1 ед. → {Line}20 × Высасывание",
+        "Source Text SHA256": "063E1A5BBE7A22BB13F220403D51E8A93F6DD83209DD60EF547D8D84BC465AB6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0092": {
+        "Target": "Вспышка ярости:{Line}1 ед. → {Line}5 × Аура",
+        "Source Text SHA256": "FB80D7F6A67B80C0802957329146C88C00D6C9B33B659ACF91DC06FDA06C860B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0093": {
+        "Target": "Камень «Аура»:{Line}1 ед. → {Line}1 × Аура",
+        "Source Text SHA256": "A0A8042DC349736B450F30632511220BEFD58E9638BA085DFCEFFD6CE8D8F011",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0094": {
+        "Target": "Камень «Барьер»:{Line}1 ед. → {Line}1 × Оболочка",
+        "Source Text SHA256": "A6682095C0D89F43BB2AC0C4BE42CB32FEEC00424AB39F399D8ED4432AC5567B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0095": {
+        "Target": "Камень «Защита»:{Line}1 ед. → {Line}1 × Защита",
+        "Source Text SHA256": "091D8514220D5BB43C030A0919E690CCF0BF65660E84E30FA64ECD1A7729A456",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0096": {
+        "Target": "Энергокристалл:{Line}1 ед. → {Line}3 × Ультима",
+        "Source Text SHA256": "7B63AC3F8AE0C6358696057DBC0273AC9DE98163F520AA5E5BAB9D5F8F263C81",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0097": {
+        "Target": "Темная материя:{Line}1 ед. → {Line}100 × Ультима",
+        "Source Text SHA256": "46B9B3B4694644F9D97608197194D1234F952F2BBCA4761B9D4EB3A0A5327649",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0098": {
+        "Target": "Камень «Ультима»:{Line}1 ед. → {Line}1 × Ультима",
+        "Source Text SHA256": "8D533FDF58AB56DF76C4F1ABBF7C2858196C8BB00A75C197DCE0E9C7B46153AF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0099": {
+        "Target": "Импульсный патрон:{Line}5 ед. → {Line}1 × Ультима",
+        "Source Text SHA256": "CF3393C335482F8BC2E84B650867B414D08BB6893BCDAA53EB334BA2CD16C443",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0100": {
+        "Target": "Камень «Метеор»:{Line}1 ед. → {Line}1 × Метеор",
+        "Source Text SHA256": "EC89AA1D3EBD6A141A5216FFAED1060A829047DE3248C281B0B4FF7FE33E7932",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot188_records_0101": {
+        "Target": "Осколок звезды:{Line}1 ед. → {Line}5 × Метеор",
+        "Source Text SHA256": "0D7BCB900807FDA4C3A10BDF2CE163D140265618DFE439334ED97759B4B02B62",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

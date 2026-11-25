@@ -1,0 +1,343 @@
+{
+  "Fields": {
+    "ddtower6": {
+      "$en_ddtower6_0000": {
+        "Target": "{X50Y30}«Открывается дверь к месту раскопок:{Line}{Color Blue}〖Океанское месторождение〗{Color White}».{End}",
+        "Source Text SHA256": "3EEDD2FB75E0D0DFCD9E5025F85821BE32F7BBD88A0D8FCB5862C5E0CA06D0A4",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0001": {
+        "Target": "{X50Y30}«Чтобы открыть дверь к{Line} {Color Blue}〖океанскому месторождению〗{Color White}, нужно {Color Yellow}4{Color White}{Line} единицы резерва давления пара».{End}",
+        "Source Text SHA256": "38D2559A347175A2A9C249026E0C0A4D7EFE9281CC8A83375B21424779E47398",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0002": {
+        "Target": "{X50Y30}«К сожалению,{Line} давление пара недостаточно.{Line} Вернитесь на первый уровень{Line} и восстановите резерв давления пара».{End}",
+        "Source Text SHA256": "64FB43461D8446492500962D7DF7E1E1C56A855E81993A6903E202642AF08BA0",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0003": {
+        "Target": "{X50Y30}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color RedBlink}■■■■{Color Grey}□□□□  {Color Yellow}”{Color RedBlink}  0{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "832C9800B851DAF659A41E5A793FBD1C1BA8C9A6935FCAD02B0D9B69E2CB3943",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0004": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Grey}□□□□□□□□□□  {Color Yellow}”{Color Blue}  0{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "E3B321FA696E287D64B33AC402184D652D9BD33BF758039BB119F60F45A428FB",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0005": {
+        "Target": "{X50Y30}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■{Color RedBlink}■■■■{Color Grey}□□□□  {Color Yellow}”{Color RedBlink}  2{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "E50F14F949BE2EFF925E7A8E52C0C50BB841FEB868A9176A70B1E71AA5CADAC8",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0006": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■{Color Grey}□□□□□□□□  {Color Yellow}”{Color Blue}  2{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "E322B30B3C4DEA59FE670B01912C60345614B9BEBCE09A4897AA67B9F863F2C6",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0007": {
+        "Target": "{X50Y30}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■{Color RedBlink}■■■■{Color Grey}□□  {Color Yellow}”{Color RedBlink}  4{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "D50109DCCAEC800CE000176669751A59550139586B61A8EE77E795421269E948",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0008": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■{Color Grey}□□□□□□  {Color Yellow}”{Color Blue}  4{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "B64F0DA749BC419FD1486FA29FDDFA2DE72ECABC89FB629745F071746D82960B",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0009": {
+        "Target": "{X50Y30}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■■{Color RedBlink}■■■■{Color Grey}□  {Color Yellow}”{Color RedBlink}  5{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "7580FE926FFFF901EF9666E6A3F92623A4EA629CB17735E18149BB63192101AC",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0010": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■{Color Grey}□□□□□  {Color Yellow}”{Color Blue}  5{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "DFCD2654852CCE4E06E0FB3D77927BC5BEEE89E932735A1D648A8F495BBAD595",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0011": {
+        "Target": "{X50Y30}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■■■{Color RedBlink}■■■■  {Color Yellow}”{Color RedBlink}  6{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "BFFBD8797094ED31A6C7D37CC986905B4E1B1176D0E09F2C84A2BCC5A76DDDF1",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0012": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■{Color Grey}□□□□  {Color Yellow}”{Color Blue}  6{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "BC0C356AAEAF2533067C7C552874C9CEBED972B6FFE5AA9F3E669509C7A0DED7",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0013": {
+        "Target": "{X50Y30}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■■■■{Color RedBlink}■■■  {Color Yellow}”{Color RedBlink}  7{Line}{Color RedBlink}■{Color Grey}□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "3E20C3D1596DCD3DEDB2B5DF0271A97C36B445AA9A7AB9FE8DD055EEAE10D334",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0014": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■{Color Grey}□□□  {Color Yellow}”{Color Blue}  7{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "9379216578BAF4C8D512C293826052D2A6F225FADE5FCFA37B205D36BA7D85D2",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0015": {
+        "Target": "{X50Y30}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■{Color RedBlink}■■  {Color Yellow}”{Color RedBlink}  8{Line}{Color RedBlink}■■{Color Grey}□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "59243D356E64C0C6518DB0A6CC02362695ECF7CDD2783CCAA4D8DB22B067173D",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0016": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■{Color Grey}□□  {Color Yellow}”{Color Blue}  8{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "DB85833A071F30562DFF6B5351AA30597EB880400E84B7BA55FA3D5FB6F55EAC",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0017": {
+        "Target": "{X50Y30}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■{Color RedBlink}■  {Color Yellow}”{Color RedBlink}  9{Line}{Color RedBlink}■■■{Color Grey}□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "C7D06492E1F7AB2E39622F9DF63C4C42ED4BE701F358C848F585D757D8C8EA77",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0018": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■■{Color Grey}□  {Color Yellow}”{Color Blue}  9{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "8E9146A14EFA6F16511447016CA12966B4CCC0B3DC583E7CF53080759A4C9B59",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0019": {
+        "Target": "{X50Y30}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color RedBlink} 10{Line}{Color RedBlink}■■■■{Color Grey}□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "FD4989491F0B9C832FDDBF4B3949EA06475EE8F2E4BC5751C0B4229A7CD02FB4",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0020": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color Blue} 10{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "72604932CCBC323AEA1ABF39C5F2882996C2ABD7FE78B2732A75EA97159D4DFD",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0021": {
+        "Target": "Зелл{Line}«Погодите-ка.{Line} Дайте мне разобраться с этой машиной».{Line}(Не знаю, справишься ли...){Line}(Ну... Зелл в технике разбирается){End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "AE08AF6F839FA9A7F40AED787D37128480965DAEB02DDBF7F803A7D2D2B2DF08",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0022": {
+        "Target": "{X40Y50}{Char Squall}{Line}«Ладно... Попробуй.»{End}",
+        "Source Text SHA256": "E31F5BC902D369640E7EBFE0B317472A830E3553C63B8BB1C572A40FE29566BA",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0023": {
+        "Target": "{X40Y50}{Char Squall}{Line}«...Забудь. Пошли.»{End}",
+        "Source Text SHA256": "E88D69AA0E4911244CD6710DA2E120375077E590FE957382B124553775D22522",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0024": {
+        "Target": "{X180Y10}Зелл{Line}«В механике мне равных нет.{Line} Не зря меня зовут Машиной!{Line} Сейчас всё будет!!!»{End}",
+        "Source Text SHA256": "2B6968E3A1ECEE8CCFAF144D8A435A77D439E0E81D5453D5331FC7C26A0D353C",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0025": {
+        "Target": "{X180Y60}Зелл{Line}«Должно быть, вот это...»{End}",
+        "Source Text SHA256": "A6954E4EBE273510BF99434F76AFF02C45F1B1C5EB5C680C089C12D9F31454A0",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0026": {
+        "Target": "{X180Y60}Зелл{Line}«Нет, точно вот это...»{End}",
+        "Source Text SHA256": "86E1837D3AAADCC12924B9902C41C6B5844CF83970F14A0306DE28D6C49F836D",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0027": {
+        "Target": "{X180Y60}Зелл{Line}«Вот это же, да?..»{End}",
+        "Source Text SHA256": "DDAF228C6FDE82C7BBC5A2E42C4CEC4A66EE2DD464E2578C8B8BBA3B112EB02E",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0028": {
+        "Target": "{X180Y60}Зелл{Line}«Опять мимо?..»{End}",
+        "Source Text SHA256": "C4BB06AEC6953C9FF3943C787FF9D4F9080332B5CA5377636D72C067BF3260D8",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0029": {
+        "Target": "{X180Y20}Зелл{Line}«Так, так... Дайте подумать!»{End}",
+        "Source Text SHA256": "4FDF60A71976DECA3BD46CDC75DDF63E3C39C231C15077EC8343462B8B5CADFF",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0030": {
+        "Target": "{X40Y10}{Char Squall}{Line}«Слушай... Тут пар{Line} из всех щелей валит.»{End}",
+        "Source Text SHA256": "7393D5422EFD3E37E5BCCE2D7779D8CB0F5AA5B11E25B568E6A8605CBA045AC1",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0031": {
+        "Target": "{X130Y50}{Char Squall}{Line}«Зря я тебя попросил...»{End}",
+        "Source Text SHA256": "B8A9455319572D379B0EB640225E980654CCFEBB3A3A83346C26E460FDAEB779",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0032": {
+        "Target": "{X20Y60}Зелл{Line}«О! Вот оно! Ну теперь-то точно... да?»{End}",
+        "Source Text SHA256": "3EBC6895855FB7B21509574173C9A5627E74F494D4875CC0AF4C04ACC8454101",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0033": {
+        "Target": "{X90Y30}Зелл{Line}«......»{End}",
+        "Source Text SHA256": "F868131E0ADE83A2A74C21874EBEC20C07BC0D92AC61E5D2CA3D345BF38B3D18",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0034": {
+        "Target": "{X20Y50}Зелл{Line}«...Не хотелось мне{Line} до такого доводить, но...»{End}",
+        "Source Text SHA256": "C47BFD14D31AEF3C09F2FE1E3B3E30E02F5B2A3FDC336E1AA5FDA8B7F26E5D3B",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0035": {
+        "Target": "{X20Y60}Зелл{Line}«Видали? Готово!»{End}",
+        "Source Text SHA256": "67AD786CABCF8A773C9C4D050178FD50B3D0FE14DA993BA48079AEEB6AB90138",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0036": {
+        "Target": "{X40Y50}{Char Squall}{Line}«А, Машина... В смысле боевая машина...»{End}",
+        "Source Text SHA256": "3C8A8143694BB01FD8A9A177FA18BA29927351201A8F7D8D84AED883C5C4E187",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0037": {
+        "Target": "{X40Y50}(Ну... Главное, что мы внутри...){End}",
+        "Source Text SHA256": "F6CA23A0F28DAF9707742D310495AC67C790E00E7B6C7A0AB9EEC0538A890F5A",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0038": {
+        "Target": "(Гр-р-р: звук рычания.){End}",
+        "Source Text SHA256": "D5C144C59DF502738B456C6DA884589E254CC8CA3B2312EB88E7CE01EF7F4531",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0039": {
+        "Target": "{X30Y40}(Результат тоже не радует...){End}",
+        "Source Text SHA256": "3B10E2C71E92F5B26625DF8A431064D303CEF124E74925C5A51BA78305B12EDC",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0040": {
+        "Target": "{X18Y30}”Возобновление раскопок…{Line} Всем, кроме командира, укрыться…“{End}",
+        "Source Text SHA256": "DF02F984CED4C99E38B580518099C89B8983CF630F9AF2FE73BCFD1B2E08192B",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      },
+      "$en_ddtower6_0041": {
+        "Target": "{X46Y20}”Внимание… Укройтесь…“{End}",
+        "Source Text SHA256": "BEC56C5A312819B0D86B599E5A6E0A039255D43A6C1556A92E5232311837E161",
+        "sourceContext": {
+          "Source MSD SHA256": "E9D68D7491A3E0E1971EA0F280C77E052C938AD9A98988170022E689180B046C",
+          "JSM SHA256": "7892DD304F0013BD0D070537E36F43EEC058AFB5FE0878CB875F5945BF082824"
+        }
+      }
+    }
+  }
+}

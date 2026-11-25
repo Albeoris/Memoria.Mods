@@ -1,0 +1,1072 @@
+{
+  "World": {
+    "messages_world": {
+      "$en_messages_world_0000": {
+        "Target": "Станция «Восточная академия»",
+        "Source Text SHA256": "B7831D48B5B19EECF8328585B30A42B06C5934ECD876ECF78E382EF26C802F7E",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0001": {
+        "Target": "Станция «Доллет»",
+        "Source Text SHA256": "C4E078D8BDE17B6DB5D7C04C8B0DB7EBAF7F96220C1159D4638333B51DB61845",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0002": {
+        "Target": "Станция «Пустынная тюрьма»",
+        "Source Text SHA256": "95E6D3127E4D2BB57A36C192979AA6DC3449437F6215DB74CFCCF1F042B04EF8",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0003": {
+        "Target": "Аэростанция Эстара",
+        "Source Text SHA256": "024A4A2A0FFAF4AFAF6117E8E4200329A0B96B56E25EF2BC89EDA273F2FA4C31",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0004": {
+        "Target": "{Color Blue} Станция «Восточная академия» {Color White}  Выйти?{Line}Да{Line}Нет",
+        "Source Text SHA256": "38F9379CCD516A5812C346B1F7A8F94D5866B03D404548421300F0B9CE2CAF03",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0005": {
+        "Target": "{Color Blue} Станция «Доллет» {Color White}  Выйти?{Line}Да{Line}Нет",
+        "Source Text SHA256": "4453DE6C0985743E8E556D92B44CD331C8DD3535EEF6309E2AD9B9FEFEC7EBD8",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0006": {
+        "Target": "{Color Blue} Станция «Пустынная тюрьма» {Color White}  Выйти?{Line}Да{Line}Нет",
+        "Source Text SHA256": "599C524A95F91ABDAB8FFF4E4F677954AAC9CC8DBC5825A0888CE8DA582114D5",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0007": {
+        "Target": "Поезд до станции {Color Blue} Тимбер {Color White}.{Line}Поехать за 3000 гилей{Line}Не ехать",
+        "Source Text SHA256": "9CFFB94EFEE3FD8CD15905D7279EAEC5D17DBE35E63CA3DADD62108152A1DB8F",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0008": {
+        "Target": "Поезд до станции {Color Blue} Доллет {Color White}.{Line}Поехать за 3000 гилей{Line}Не ехать",
+        "Source Text SHA256": "1D0C5DFABD2C92A13A79647172D8575C69AA7C6F738BB0F56638178F391AEC32",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0009": {
+        "Target": "Поезд до станции {Color Blue} Делинг-Сити {Color White}.{Line}Поехать за 3000 гилей{Line}Не ехать",
+        "Source Text SHA256": "983E4115100C046A8861061AB2EA4A624EA9D78067FF5B09F67B4217A79ABDBC",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0010": {
+        "Target": "{Color White} Недостаточно денег.",
+        "Source Text SHA256": "31DDE9E84868DC7E007A5A6B8014839F0A511C0718D319414233C9422296BF3B",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0011": {
+        "Target": "Сельфи{Line} Ну же! Вперёд, к {Color Blue}[ракетной базе]{Color White}!",
+        "Source Text SHA256": "75235CE51013469B24A842F69E320D886FB48F796393270CED16911C0E7A359A",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0012": {
+        "Target": "Гальбадийский солдат{Line}...Даже не пытайтесь.",
+        "Source Text SHA256": "4F329E25E87ED4492527FADC6707E12AD4BAB7A27EBDCF13C1222A5608CBD82F",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0013": {
+        "Target": "Гальбадийский солдат{Line}Я занят.",
+        "Source Text SHA256": "D64EF0FBDA259CE2A20E12E25DC641C3CE379E06045C3F26EECFB18D56C4653F",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0014": {
+        "Target": "Гальбадийский солдат{Line}Вам ни за что не пройти!",
+        "Source Text SHA256": "627E146516AE1E124CA6B6CADAE2806A95D06B1287E480A061942DACAA7156DF",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0015": {
+        "Target": "Гальбадийский солдат{Line}Мы исполняем свой долг...",
+        "Source Text SHA256": "F695111295951B9BC6C61C085983FE704D3CF93D5BE6D391A17A883AE6AD26C6",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0016": {
+        "Target": "Гальбадийский солдат{Line}Как и всегда...",
+        "Source Text SHA256": "2511C0F3B58C75336D1BD8316FCC0B2EB62002392AB3673A290347FFBCC69105",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0017": {
+        "Target": "Гальбадийский солдат{Line}Может, сходим на свидание?",
+        "Source Text SHA256": "CA7C4F561CB31495EDC700E7DA263E45D6561137C435998E314594248211B5B3",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0018": {
+        "Target": "Найдена точка извлечения!{Line}Но никто не умеет извлекать магию...",
+        "Source Text SHA256": "B3A0F893AA43AE29EE79DE1BDF8033290468922DCC0DB798F9B1B57AFCBCD674",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0019": {
+        "Target": "Найдена точка извлечения!{Line}Здесь ничего нет...",
+        "Source Text SHA256": "91A353870A6A8739CAC0AD06234BFDAB41011168FFFDC0AAFC06DDE690D15B29",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0020": {
+        "Target": "Найдена точка извлечения!{Line}",
+        "Source Text SHA256": "F5AC633D6F80773A6BA4865A87221379E16C07599997779F89D02D3CBAADE625",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0021": {
+        "Target": " — найдено",
+        "Source Text SHA256": "710B0411E0E4800283E960EB577F7438FC3C6EC0C4C8C7943E6F68A7D605F568",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0022": {
+        "Target": "Больше не унести.",
+        "Source Text SHA256": "F80F900D06449E167E4B18746F2F3CD3E8F2329B4DDA916C7CDE051BBE54C750",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0023": {
+        "Target": "У вас нет команды «Извлечение».",
+        "Source Text SHA256": "FBDD91747F88308B74D13775B52FB98D8D3862C6E75E3CD5F33972252FF6F7E0",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0024": {
+        "Target": "Кто извлечёт магию?{Line}",
+        "Source Text SHA256": "F6C3FF82C1A73C1447B0A21E622FB9C669A6288814A9AA9ADA33C5147BA5ED05",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0025": {
+        "Target": "Не извлекать",
+        "Source Text SHA256": "30073D4609AE8432DFD3AF11CF05FD246238F8995E5DE77D1D98E17142F0216D",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0026": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "36A9E7F1C95B82FFB99743E0C5C4CE95D83C9A430AAC59F84EF3CBFAB6145068",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0027": {
+        "Target": " — в запас",
+        "Source Text SHA256": "9A2F6C8FAC4970A7DFA4E7A6F5642EFB5F86520C9A1D27DCAE08FC85870CE496",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0028": {
+        "Target": "{Line}",
+        "Source Text SHA256": "E4D4A23D399D19FD46B16E953C85D6F1F6FD66105A48D34507DEDC445493CA41",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0029": {
+        "Target": "0",
+        "Source Text SHA256": "5FECEB66FFC86F38D952786C6D696C79C2DBC239DD4E91B46729D73A27FB57E9",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0030": {
+        "Target": "{Char Squall}",
+        "Source Text SHA256": "EA02EB0A78575B85B7B5498FC341CA01AD2A274F194C795E63C3735E9944A60E",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0031": {
+        "Target": "{Char Zell}",
+        "Source Text SHA256": "DDC0FDEEF05043EDAA100666CE37A30BBEEDCB3908A3E5CC39F4371FFB52DD8C",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0032": {
+        "Target": "{Char Irvine}",
+        "Source Text SHA256": "A98B353BC3BBEAAAB3566E9C59AC703D2897615D60EE4936D521FA05BD08A692",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0033": {
+        "Target": "{Char Quistis}",
+        "Source Text SHA256": "6C9A38F320E24632E5111E6C7D1BEBCA33E39B0CDDE241C4E71B49B51F4A2975",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0034": {
+        "Target": "{Char Rinoa}",
+        "Source Text SHA256": "C4CDBC5CCEB6493379146A9D2843FFF5D061B55DA57FB7A43B9CC1AB74929DF0",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0035": {
+        "Target": "{Char Selphie}",
+        "Source Text SHA256": "CB12F60C231F588A9BB92BA9900190F3E38F07B7072C022B63C6BB40000CA284",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0036": {
+        "Target": "{Char Seifer}",
+        "Source Text SHA256": "91AD984A08571696C220EAF35045A76354692A4556CCE66FF8759B0BA8E71F19",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0037": {
+        "Target": "{Char Edea}",
+        "Source Text SHA256": "85277D2D5994D8D899F74BA5EED9EA7020B2835FE25D408AB1166B2925E17F47",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0038": {
+        "Target": "{Char Laguna}",
+        "Source Text SHA256": "634A027FD0CCFA9B445107189190F5F504EAE0B20F3B1746584B3746CC62E730",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0039": {
+        "Target": "{Char Kiros}",
+        "Source Text SHA256": "692BEC6074137E7A63F3FE43740A1F5375FD49C57933C4F2E6DD6D6EBF117C94",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0040": {
+        "Target": "{Char Ward}",
+        "Source Text SHA256": "8CF21B9F0DF649A177C61C79FAF4FE7576DF5D98B560855AD13D87B1A399F564",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0041": {
+        "Target": "{Color White}",
+        "Source Text SHA256": "ADB3E4BEC6D3FBEDE990F3F041C991E32804483D6D9BCAB6814DB5E1C6E5BC58",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0042": {
+        "Target": "{Color Grey}",
+        "Source Text SHA256": "285B44E4A0AB462354A55EE999D9CD11443CF13EEE85F9A46FF6BE112D3D9379",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0043": {
+        "Target": "Закончилось топливо:{Color RedBlink} {Item 194} {Color WhiteBlink}!",
+        "Source Text SHA256": "600CC4A94286EC6B9BA6F91C30E0022B9A719F1B69DD9E938735CA385FF9C740",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0044": {
+        "Target": "{Color Red} {Item 194} {Color White}— осталось ",
+        "Source Text SHA256": "CBB75DF1DAA320649A187E1C3BD497FE029E8C844029FB2BF6D6D072BE5D44FF",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0045": {
+        "Target": "шт.",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0046": {
+        "Target": "?{Line}Да{Line}Нет",
+        "Source Text SHA256": "8595AA0575FE4436E90296BA11DD120EE6A009EEFD30E85E0460AE5EA6A9B9A5",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0047": {
+        "Target": "{Key JunctionMarker}",
+        "Source Text SHA256": "B24B8BA6196CCC34541A176AC333A02C75BC5371626462D18FB10C299F9BA5C3",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0048": {
+        "Target": "{Key 64}",
+        "Source Text SHA256": "8F2ADAE623E35C20E8BEA3745E6EFC9D257552AA33F2842B8E072FA58D263BF1",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0049": {
+        "Target": "{Color Yellow} Управление машиной {Color White}{Line}{Line}  {Key Cards}: вперёд  {Key Cancel}: назад{Line}          {Key Confirm}: сесть / выйти{Line} Поворот — кнопками направления{Line}{Line}{Line} {Key EscapeKey2}: сменить вид",
+        "Edition Targets": {
+          "Classic:en": "{Color Yellow} Управление машиной {Color White}{Line}          {Key Menu}: назад{Line}  {Key Cards}: вперёд{Line}          {Key Confirm}: сесть / выйти{Line} Поворот — кнопками направления{Line}{Line}{Line} {Key EscapeKey2}: сменить вид"
+        },
+        "Source Text SHA256": "79452E3DC1ABD0AC335919FA524CE4EA45F790E164BA94556CBAD53D412C0A6D",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0050": {
+        "Target": "{Color Yellow} Управление Садом {Color White}{Line}          {Key Menu}: в кабину{Line}  {Key Cards}: вперёд  {Key Cancel}: назад{Line}          {Key Confirm}: войти / выйти{Line} Поворот — кнопками направления{Line}{Line}{Line} {Key EscapeKey2}: сменить вид",
+        "Edition Targets": {
+          "Classic:en": "{Color Yellow} Управление Садом {Color White}{Line}          {Key Menu}: назад{Line}  {Key Cards}: вперёд  {Key Cancel}: в кабину{Line}          {Key Confirm}: войти / выйти{Line} Поворот — кнопками направления{Line}{Line}{Line} {Key EscapeKey2}: сменить вид"
+        },
+        "Source Text SHA256": "471DEBDD154AA67A06B5C3BE4330370ED6A6EB4FC08DF6C7C34A4AAC51C0A176",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0051": {
+        "Target": "{Color Yellow} Верхом на чокобо {Color White}{Line} {Key Confirm}: слезть{Line} Бег — кнопками направления{Line}{Line} {Key EscapeKey2}: сменить вид",
+        "Source Text SHA256": "E870F532AF380BBA12386E7800B97AD645AC5736D2211BB96D15D7B203A5063C",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0052": {
+        "Target": "{Color Yellow} Управление кораблём {Color White}{Line}          {Key Menu}: в кабину{Line}  {Key Cards}: вперёд  {Key Cancel}: назад{Line}          {Key Confirm}: войти / выйти{Line} Набор высоты, спуск и поворот — кнопками направления{Line}{Line}{Line} {Key EscapeKey2}: сменить вид",
+        "Edition Targets": {
+          "Classic:en": "{Color Yellow} Управление кораблём {Color White}{Line}          {Key Menu}: назад{Line}  {Key Cards}: вперёд  {Key Cancel}: в кабину{Line}          {Key Confirm}: войти / выйти{Line} Набор высоты, спуск и поворот — кнопками направления{Line}{Line}{Line} {Key EscapeKey2}: сменить вид"
+        },
+        "Source Text SHA256": "3E1EBA16476B49A945B0CC1A41945D87C97DABCEF793A75122164F8FE8020631",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0053": {
+        "Target": "(Это место кажется... знакомым.)",
+        "Source Text SHA256": "51826EE4F8D4CB24853E76BBDE2071107FCB52BF5B03978E316683EF9B1FF28D",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0054": {
+        "Target": "Похоже, это место давно{Line} заброшено...",
+        "Source Text SHA256": "BB4D862A4356BFAD2336069B90F08B5C43613CE24B623C8B4F9D125CBC2CACE7",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0055": {
+        "Target": "А?!",
+        "Source Text SHA256": "B5769E283A5A300F8EF5B9DC15706D3A0C54F625FF953DF56BC149AC26A669CF",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0056": {
+        "Target": "Нида{Line}«Указатель с ума сошёл?!»",
+        "Source Text SHA256": "AA9309EEF4603A3C269F34A84BF970063D29E7EF850944671D3C210E504BCDB7",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0057": {
+        "Target": "(Лучше пока не выходить...)",
+        "Source Text SHA256": "0769C1950B3D5B4B7EA4B0B2988E599BA7796632FCEF8F4AFE208B0A55B4C3CB",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0058": {
+        "Target": "Должно быть, это озеро Обель{Line}Швырнуть камень{Line}Напевать себе под нос",
+        "Source Text SHA256": "AD34BD1C6B858CC74B758A9EAF7EE85D2A27B5451D83C3F73FD7170EB1A8BF08",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0059": {
+        "Target": "Это озеро Обель{Line}Бросить камень{Line}Напевать себе под нос",
+        "Source Text SHA256": "22B188D39BBE31734970E1B15B967DBA1B813451F2F28D4A20147D1478B817EC",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0060": {
+        "Target": "К поверхности приблизилась чёрная тень.{Line}Швырнуть камень{Line}Напевать дальше",
+        "Source Text SHA256": "100A3313D2E62A4220E62E8372D141381878E2A6B04B5E9C494ED0D7B2CC3313",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0061": {
+        "Target": "Чёрная тень исчезла",
+        "Source Text SHA256": "A2C93202260D6CEAF1C8AF9482144FED501EF07CEA70F3C182948CA58623C941",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0062": {
+        "Target": "Камень утонул",
+        "Source Text SHA256": "AAA556281263E76674DFB543CC4E07966D1CAC14A5020658D864F0AD25E75A6A",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0063": {
+        "Target": " ·{Line}Камень подскочил один раз.",
+        "Source Text SHA256": "25334AE8D406B5B7D3B3463EBCF5B1394A8B5EB626615DAAEA6AE03E24C52883",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0064": {
+        "Target": " ·{Line} ·{Line}Камень подскочил 2 раза.",
+        "Source Text SHA256": "559A4503A9F7953275A525B1C7CFA4D7F4D4CFDC33954CDCBBF90B46F02411EE",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0065": {
+        "Target": " ·{Line} ·{Line} ·{Line}Камень подскочил 3 раза.",
+        "Source Text SHA256": "85138A2D8EE9CBC5089739D7CD9B0D16C19AEA84A1E706E9608C7D2E47FF81FE",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0066": {
+        "Target": " ·{Line} ·{Line} ·{Line} ·{Line}Камень подскочил 4 раза.",
+        "Source Text SHA256": "033B13F4765B3624B70A4A28837615605942FF5BA2FF497445E429843BE6C1A8",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0067": {
+        "Target": " ·{Line} ·{Line} ·{Line} ·{Line} ·{Line}Камень подскочил 5 раз.",
+        "Source Text SHA256": "B9D13195D8DDC4BD6EADD652CB92BDECC16692378BF6A3AD058935030BF243FE",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0068": {
+        "Target": " ·{Line} ·{Line} ·{Line} ·{Line} ·{Line} ·{Line}Камень подскочил 6 раз.",
+        "Source Text SHA256": "35B6BDD3F56CEAF0712B64716A9AB12381EC4B022486ACFABE95B0CA346BA861",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0069": {
+        "Target": " ·{Line} ·{Line} ·{Line} ·{Line} ·{Line} ·{Line}Камень подпрыгнул{Line}много-много раз",
+        "Source Text SHA256": "C1E8F53F593297F1F4646B410EA483733E56A870F762EC7BC80425B991761018",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0070": {
+        "Target": "Чёрная тень{Line}«...Здравствуй, человек.{Line}  Какая прелестная мелодия».",
+        "Source Text SHA256": "919F2A73BD2A025AA0034AFDC3C81D7B53B7135258F2203C88AD38640183533F",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0071": {
+        "Target": "К поверхности приблизилась чёрная тень.{Line}«Здравствуй!»",
+        "Source Text SHA256": "E0F05673A974E32C5D855F09E8610EAAA03378774AB76789259792B7A9D8C692",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0072": {
+        "Target": "(Там что-то крупное...)",
+        "Source Text SHA256": "0C8779AD62EAB85A24558AAC8B13DD59E2DB79A04625F3C90EFC79AE6954F4A3",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0073": {
+        "Target": "«Спасибо, что снова заговорил со мной!»",
+        "Source Text SHA256": "B0F06FF4F70BB687DA94EA56B7FDD582835CD20D3AF0896307C99B6E59F71ED6",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0074": {
+        "Target": "...Хм.",
+        "Source Text SHA256": "6EAFD6358FA04CCE1BFFF8BB44F4CFEE814E821175A1864BF0EA7E4A98FC6F97",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0075": {
+        "Target": "«Можешь оказать мне услугу?»{Line}Что за услуга?{Line}И слышать об этом не хочу",
+        "Source Text SHA256": "4915EFA93FF6CE24274B3292C368A3BCC3F3D947AD184FDF53BEC46604BD1DBF",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0076": {
+        "Target": "«Мой друг, мистер Обезьянка…{Line} Не мог бы ты разыскать его для меня?»",
+        "Source Text SHA256": "31E95153DC5792352C625705EAA00FDC1A7CA6EA29F6EA3F1FB07ACCA63BCE32",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0077": {
+        "Target": "«Пожалуйста…»",
+        "Source Text SHA256": "8C91C79D23A493D2FA7E309FAF0ABE51D7F38ADF89B7B02352A91DD878141FD8",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0078": {
+        "Target": "......",
+        "Source Text SHA256": "F0823C38F9E230193A95DBFD9B26DFF0A4FF20EE5F9765976E2D47A5EC64ED28",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0079": {
+        "Target": "«Мистер Обезьянка обитает где-то в{Line} лесу. Походи вокруг, и я{Line} уверен, ты его найдёшь».",
+        "Source Text SHA256": "3DB7304D7E62B82DB83A646DCBC9FC1E760B7826E8AA328E09DD0B0D507136E8",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0080": {
+        "Target": "«Ах да, знаешь что?»",
+        "Source Text SHA256": "24E860EE1B79E3C4651B60BFAD9A585A26F737F0E6EACCAD958D3C057E5F3852",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0081": {
+        "Target": "«Ах да...»",
+        "Source Text SHA256": "3F3D67038D15DDE1C91DD7531F99409B93C60A5CC288FFEAADCD4F23FB6C634D",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0082": {
+        "Target": "«Какой прекрасный день…»",
+        "Source Text SHA256": "6CDBA78F28136C0BE9475214FB414CEE1F93BA18992B49EC56E8231B390D5F34",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0083": {
+        "Target": "«Интересно, что это значит?»",
+        "Source Text SHA256": "206CCE68630D5F5B44F10E6EDCE2349B31DC368E58F28BC4520916EF14F8684B",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0084": {
+        "Target": "...Загадочная надпись на камне...",
+        "Source Text SHA256": "4EDC288D3516A132F59CF2C3D74884B39810961AFB499D86C7A6DB707334E181",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0085": {
+        "Target": "Кажется, у мистера Обезьянки{Line} был такой камень...",
+        "Source Text SHA256": "7542E840E6D60322338156532A7706E9D888EFFDF4438AE827F26AD5A625AD99",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0086": {
+        "Target": "«Отдохни на железнодорожном мосту».",
+        "Source Text SHA256": "0DA4A70C13EE060AAF72778F40DE5D962D038A238ABF88A2D5F6E18248CA0EA4",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0087": {
+        "Target": "«Передохни на полуострове Эльдбик».",
+        "Source Text SHA256": "30FEAAE4CE7617EF7F64C408ADB6C24259ED3D1010B3A8E187D7F93F5F759828",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0088": {
+        "Target": "«Держу пари, это чудесное место».",
+        "Source Text SHA256": "6A815BE13F5E26D302ED774D24513F0A5888EC2F4C88B3635557E99618231ADE",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0089": {
+        "Target": "Рассказал, где находится мистер Обезьянка.",
+        "Source Text SHA256": "809D4B9C374C7F9DED96125286A66AEBCF1B3013A24145F4F26E333568145BA9",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0090": {
+        "Target": "«Спасибо!»",
+        "Source Text SHA256": "00F8A09028586C3FC6B04D7272BB25CD2C0917501B848DFA561363EC7F071389",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0091": {
+        "Target": "Вон там обезьяна!{Line}Швырнуть камень{Line}Спеть",
+        "Source Text SHA256": "4592D7E1B94A230B11D1927DA2FEA9EF676DB4FFFBE4921157A0FB237EDFC47F",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0092": {
+        "Target": "«Отстой!»",
+        "Source Text SHA256": "1637F533C04BF753270E3452E2BD8A72E7B991888C408B149D5259C48E115C7B",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0093": {
+        "Target": "Обезьяна скрылась в лес…",
+        "Source Text SHA256": "3DE23532474ABD1D564CD070E7F58896F92DFED244E861BC398CB8159EFA0D4E",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0094": {
+        "Target": "Обезьяна обругала вас{Line} и скрылась в лесу…",
+        "Source Text SHA256": "3377B7A7F114073A1CC8284AD7A5C3638D482414DD030E63EA37EF24BA2E63BE",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0095": {
+        "Target": "«Ааах! Проклятье! Т-ты{Line} законченный неудачник! Я могу{Line} бросить камень так, что он подскочит{Line} столько раз, сколько я захочу!{Line} Ну что,{Line} съел?! Ха-ха! Неудачник! Придурок! Идиот!{Line} Твоя мама ходит в кирзовых сапогах!»",
+        "Source Text SHA256": "40F76CEFE65C116185064047F33E93F6CADAEC23151680B01BFE2B0D25918076",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0096": {
+        "Target": "«АЙ!..{Line} Ч-Чёрт подери!{Line} Ты за это заплатишь!»",
+        "Source Text SHA256": "CE7E5E9CB705033F9DBE02F7DEBAC3FC506F8B791D24F39ECF5B1A4380A7DA96",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0097": {
+        "Target": "Обезьяна швырнула в вас камень и убежала!",
+        "Source Text SHA256": "CC62E0041C3698BBEEAB017B31551D26A9138675BA53195F150866C9CD247D10",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0098": {
+        "Target": "При осмотре видно, что{Line}камень обработан человеком,{Line}на нём есть надпись…",
+        "Source Text SHA256": "27AE87E0E4B657253C3E34F84AD64B9F92A87EDFD71D03CB1AED486FC5FACFB8",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0099": {
+        "Target": "Вы нашли обезьяну.{Line}«Ну ты и болван!!!»",
+        "Source Text SHA256": "21602BAA17E33C4836B73B0C31A7349F605BD4BCA02448ECEC2510A125E90585",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0100": {
+        "Target": "...Почти!{Line}Обезьяна убежала.",
+        "Source Text SHA256": "67F35B43796290CFE6A72F752ECBC872338426A1C016CA86A3CBF272DB342712",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0101": {
+        "Target": "Что это!?",
+        "Source Text SHA256": "47D365C6B2EEAED34373A3F4E6AEA4AFCA3B12E332B169520A81F62E8F23D6CA",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0102": {
+        "Target": "Вы нашли под ногами камешек…",
+        "Source Text SHA256": "3129B69BDF1B55907DAA94C34622F7B480F31D1BA54395E3FFFCC5C290326AFF",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0103": {
+        "Target": "Видно, что камень обработан{Line}человеком, на нём есть надпись…",
+        "Source Text SHA256": "C7946053EE5B05E8577DFF47CF2D782216697CCDC383F601C7627BC150F749A8",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0104": {
+        "Target": "Но это обычный камень…",
+        "Source Text SHA256": "07C70807816CCB31402F3B930F0C74CEA6FD3BDD3DB233B9AE10B9E57E521D50",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0105": {
+        "Target": "Тут птица высиживает яйцо.{Line}Посмотреть, что там{Line}Оставить в покое",
+        "Source Text SHA256": "8A2E2B66633FD3F18454DD1CCBD263C62D04833D8B63E0A8CEEB3603F0589A38",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0106": {
+        "Target": "Похоже, птица{Line} улетела за кормом...",
+        "Source Text SHA256": "BAEBF4AF323103CE7BA3B0E25C067F121DCA169C9AE8B828B5A933BE77B7C85B",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0107": {
+        "Target": "Там был камешек…",
+        "Source Text SHA256": "EF268F1B7987E5562EBB4D367E11146A448524EA701B222D379BE538936BC992",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0108": {
+        "Target": "Здесь ничего нет...",
+        "Source Text SHA256": "1D1EDEFF0E709F0EC20EF8CD770517D441B63732E5F2641E4E80293778593979",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0109": {
+        "Target": "{Color Grey}  S T S L R M ",
+        "Source Text SHA256": "F96FEE998E196FF81602C5F5AD007C193878B8F50C4EEC8CF49CF06F34180241",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0110": {
+        "Target": "{Color Grey}  U R H A E O ",
+        "Source Text SHA256": "1B6CB7AA01420B3F2513B4880CCAAACD1313103174A992A4285BF2D31AA3ED03",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0111": {
+        "Target": "{Color Grey}  R E A I D R ",
+        "Source Text SHA256": "5365FECFD09C0AF6F8FB7AAC46E0242F3B00D7D4CF7F2E7E1ECA7BE2EB29DB3E",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0112": {
+        "Target": "{Color Grey}  E A S N P D ",
+        "Source Text SHA256": "D61312299330589A2CB74628B9BC6CC358263F56351EBAADD9555FF861C738A9",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0113": {
+        "Target": "[{Color Grey}  S T S L R M {Color White}]{Line}[{Color Grey}  U R H A E O {Color White}]{Line}[{Color Grey}  R E A I D R {Color White}]{Line}[{Color Grey}  E A S N P D {Color White}]",
+        "Source Text SHA256": "57EE4D9BED67BF3796C808CB05134FFF3F37E0F7793596283350F0ADDA42E452",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0114": {
+        "Target": "«На пляж в Баламбе{Line} иногда выбрасывает кое-что особенное».",
+        "Source Text SHA256": "22F053E213D3EA8D7F6313FCC8EEE0F7F9615E5D55B835F3E533F81007E64DC1",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0115": {
+        "Target": "Ты найдёшь кое-что{Line} на острове, расположенном восточнее Тимбера.",
+        "Source Text SHA256": "1D292CD94B04915CCF760ED93E0B685D4AF4678212FD5EE19126AF200A1E227A",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0116": {
+        "Target": "«Есть ещё кое-что на вершине{Line} горы с пещерой, возле озера».",
+        "Source Text SHA256": "EE3FD1D2EC13159BE590C8A51F0BECC8C230270F1D81B4BCF71FB352D178CBB1",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0117": {
+        "Target": "Давным-давно к югу отсюда{Line} стояла небольшая, но красивая деревня.{Line} Вокруг росли густые леса.{Line} Все жили там счастливо.",
+        "Source Text SHA256": "6BB899DFF792028A07B099C8C5EC8A2DBADCEE00CA7CE6FF7BC9F9BB2A18DF03",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0118": {
+        "Target": "Здесь каменный столб.{Line}Если присмотреться,{Line}на нём что-то написано.",
+        "Source Text SHA256": "EA3F39A394C271FB89182C71ABD4E059F35D77231DE1F766533B1F5952E84553",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0119": {
+        "Target": "«TRETIMEASUREAT{Line} MINOFFDEISLE»",
+        "Source Text SHA256": "6ED75C765634E940C58A5837A4CD050C8CC9EE411F709F8976BBC62B3A93B573",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0120": {
+        "Target": "(...?)",
+        "Source Text SHA256": "59FEDF04A00E2D8F56F7BDA3F36C1C63D577B2CD1D77F7AE234FB3E4DC4DAABF",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0121": {
+        "Target": "Найдено: {Item 41}!",
+        "Source Text SHA256": "ABF0ADE0AAE38F9E5723D430DDA259AC71501FC05252986962743D289E1D7D6F",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0122": {
+        "Target": "Найдено: {Item 80}!",
+        "Source Text SHA256": "1CA221005C505B537AF5344566C5D9E5B6C7FF53E97237668A5A54AE8C433445",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0123": {
+        "Target": "Найдено: {Item 131}!",
+        "Source Text SHA256": "3744412DC589DAEF6D0D4F4216AA80F9751ADD23845084E89DCDDAE9AB2E786E",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0124": {
+        "Target": "Найдено: {Item 33}!",
+        "Source Text SHA256": "58A890EBDB00DE4628F092ED5EFB291EBB5022399D5E44B393FA873FF5345125",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0125": {
+        "Target": "...Звук затих где-то в озере...",
+        "Source Text SHA256": "12E7B888D8957E8B638224EC29F4B3E5F83BE681139380560F5CF73548B269FE",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0126": {
+        "Target": "Здесь повсюду{Line}множество разноцветных камней.",
+        "Source Text SHA256": "2EAB1234C4475338BBAD4BA66571E44D647BE5D57393AFA8F61A984DBD191A28",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0127": {
+        "Target": "Чёрный камень сурово говорит:{Line}«...Сокровище, вероятно,{Line} в направлении Полярной звезды...»",
+        "Source Text SHA256": "91230A453B16CBC36F69D1B195789C7AA2D5AFC7235ADAB1450ADAADC4C8829A",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0128": {
+        "Target": "Белый камень невозмутимо говорит:{Line}«На восток».",
+        "Source Text SHA256": "5250ED4FDA2184A41BF94EEA322DAA7B290A5E056E485E6BBBFF4BB32FEA7A57",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0129": {
+        "Target": "Белый камень невозмутимо говорит:{Line}«На запад».",
+        "Source Text SHA256": "DEAF7D42FC2D326C91D7EB657B7C6B143D933B376CE1514DD718A6C5C410A9E5",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0130": {
+        "Target": "Белый камень невозмутимо говорит:{Line}«На юг».",
+        "Source Text SHA256": "3066EF438E7D23C1C13D58E6BCA676887225E76C5666BB1E91655725BDE9A7D0",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0131": {
+        "Target": "Белый камень невозмутимо говорит:{Line}«На север».",
+        "Source Text SHA256": "04F1698F3135FA0FAB143AC40892D479B57DFD9A1397F7C86AC048670DC47A9C",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0132": {
+        "Target": "Красный камень сердито говорит:{Line}«Синий врёт!»",
+        "Source Text SHA256": "F2A3CA5C964158C60CD297A2F9CF6079F2424E48D144C3B7122166C40F27D005",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0133": {
+        "Target": "Красный камень сердито говорит:{Line}«Сокровище на востоке!»",
+        "Source Text SHA256": "BABA30077031B323E5FB194B0AB78D5021452486BA493CDD26CAD27FF968CEC0",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0134": {
+        "Target": "Красный камень сердито говорит:{Line}«Сокровище на западе!»",
+        "Source Text SHA256": "E60549B0658094B0C46DA835CF939710CBA782BBF8A7E8346AAF413DD5C7FFFC",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0135": {
+        "Target": "Красный камень сердито говорит:{Line}«Сокровище на юге!»",
+        "Source Text SHA256": "6B07FAE8AFDB69DFC7FE9367498C1548A780279EDEC93B59465E4DF427616F56",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0136": {
+        "Target": "Красный камень сердито говорит:{Line}«Сокровище на севере!»",
+        "Source Text SHA256": "0E8516392DB42D8F11FFE4F40B9DDF95676305165BD1C361CCD8FE0C292353D5",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0137": {
+        "Target": "Красный камень сердито говорит:{Line}«Сокровище не здесь!»",
+        "Source Text SHA256": "D99D66F7738A2BD4ACCBD6EDC0AB28C4F1C10296705F2BBDE197A5E119584302",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0138": {
+        "Target": "Синий камень шепчет:{Line}«Я не знаю, где сокровище...»",
+        "Source Text SHA256": "F8EF778D7B34A6E42FAE5A1CF1891F1C87429C725555FFABF70C8722C661AA04",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0139": {
+        "Target": "Синий камень шепчет:{Line}«Люди зовут нас камнями-лжецами».",
+        "Source Text SHA256": "189444798CACCD6EE12F3780082573E1F47147B33A0AD886FF869BEF2A900F15",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0140": {
+        "Target": "Синий камень шепчет:{Line}«Кое-кто из нас{Line} просто твердит одно и то же».",
+        "Source Text SHA256": "81F6DEC4E2BE2EEE00209C8A1090A57E49E710ADFF5271E5FE217155A9782CD5",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0141": {
+        "Target": "Синий камень шепчет:{Line}«Кое-кто из нас говорит ерунду».",
+        "Source Text SHA256": "A24B00B6DFD2E20AB97DE3C7ED9F81DD3E5E6E316E17EAB21B673D90A924590D",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0142": {
+        "Target": "Синий камень шепчет:{Line}«Кое-кто из нас говорит{Line} противоположное тому, что имеет в виду».",
+        "Source Text SHA256": "6D2BDB0BCAE0B9DF8E84CFC3E2A2ADF982EAC19909F0695A105E6171F865D22B",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0143": {
+        "Target": "Здесь только{Line} обломки среди травы...",
+        "Source Text SHA256": "A7859E7F0AAC1168CBB555B37EA14A98801F935E81688D67A876AB4D5C421270",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0144": {
+        "Target": "Совсем ничего...",
+        "Source Text SHA256": "82088E2439DC5FC98AF6141E9F7E33A0389DDC8165DE9AF7D23B8AAB9E10E1B0",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0145": {
+        "Target": "(...Может, это... часть чего-то большего?)",
+        "Source Text SHA256": "C1F42053DCB2165A68F350DE0CC4903006FB4E73A0FD36C4D053C343EB4B53C1",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0146": {
+        "Target": "Похоже на камень, который{Line} я недавно подобрал.",
+        "Source Text SHA256": "3F131ACE9004A1FC85BAC735DEC15AFAFEFF514DB05E08EF6F22B5C45243A060",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0147": {
+        "Target": "(...Должно быть, это всё...)",
+        "Source Text SHA256": "822E0EAA880CA842F086A87708D628725DD795EAD31139BBA06B3E7FC8307DCE",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0148": {
+        "Target": "«Должно быть, это все камни».",
+        "Source Text SHA256": "274FDB160D8BC4FC3BA80DED2F8457CB781E2F3C009F51CDDD14CF4B4BA228D0",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0149": {
+        "Target": "«Если его здесь нет,{Line} может, он сел на поезд, идущий в Доллет?»",
+        "Source Text SHA256": "DC81D6C32A7AD88751B241E1041E546D731E2BDB7D833E64D21F3F68E89AD9B7",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      },
+      "$en_messages_world_0150": {
+        "Target": "(...Теперь вспомнил... Это дом Эдеи.{Line} Такое чувство, будто поблизости что-то есть.{Line} Что-то огромное... совсем рядом...)",
+        "Source Text SHA256": "00C75C8B8BF09E6A74B4D4F6DED6B9B2246D6FE6CF13991F5FEC3E5DAE91A97C",
+        "sourceContext": {
+          "Source SHA256": "114171520663E17D2258DD05AC49650A89E254D5D111E64AEBE18CF1847EDF66"
+        }
+      }
+    }
+  }
+}

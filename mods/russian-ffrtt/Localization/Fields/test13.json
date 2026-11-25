@@ -1,0 +1,126 @@
+{
+  "Fields": {
+    "test13": {
+      "$en_test13_0000": {
+        "Target": "{X30Y50}Действия                {Var 49} баллов{Line}{Line}Рассудительность      {Var 50} баллов{Line}{Line}Атака                      {Var 51} баллов{Line}{Line}Дух                          {Var 52} баллов{Line}{Line}Штрафные баллы        {Var 53} баллов{Line}{Line}Бонус                       {Var 54} баллов{Line}{Line}                          Ранг SeeD  {Var 55}{End}",
+        "Source Text SHA256": "3EEA13C31FE6729903F365EBD7332AE25EEDF25159BE8D18B8907416974B5B84",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0001": {
+        "Target": "{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "EE271AEC3C11190E9DB239E2EDA92E6F95A964F1B98D11479AE68637DAFED366",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0002": {
+        "Target": "{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "3A0A003F0B67B6E300619139F0D00E191AB3BED15BB0192FE0E5202090C22FD6",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0003": {
+        "Target": "{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "71C22798DB49E6CC2E48547565A78D83D97114D6A18B9BF3872F42C5067DCE37",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0004": {
+        "Target": "{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "EFED204D3DFEA2057DB705929E01A0CB95BA20592E9F607E2D265809708CBCF2",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0005": {
+        "Target": "{X10Y10F1L11B1C11}{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Source Text SHA256": "3879950B4992625ACCD74F8FA2739BF913C3085C3DE1AF14E60AD13DE90E9F86",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0006": {
+        "Target": "{X10Y10F1L11B1C11}{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Source Text SHA256": "E59481C47A7784862B99D3EE7D49722D8D3375201770EBB0479CC4732AEEB72E",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0007": {
+        "Target": "{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "9270889EB1BA8395AD4BE9166B0E6CF6831AB7366C055B3A1828CA2CDAFF8F81",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0008": {
+        "Target": "{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "EB3884B1052380B4FF538F9D3C8FF8EDAEF708DAB2024603A00D8FFD3192840C",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0009": {
+        "Target": "{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "54BD7939FFC14A9D73DFF2E3948479C20CB708EFE799ED04C634ABB472CC53DE",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0010": {
+        "Target": "{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "8BD2EBC015D2E055CF9B29B21C19396EB39DFF5EC1435CF089E381B16FDC3E45",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0011": {
+        "Target": "{X10Y30F1L8B1C8}{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Source Text SHA256": "BCC36F0EE5D64EB62AE6F4ABE3B9A13C51D09E9A908B1AF9C0ADA0D3DC5D1805",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0012": {
+        "Target": "{X10Y30F1L8B1C8}{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Source Text SHA256": "2E0DC052969C226CDA255E8CE9B3A80A1A9E2B3EEF00752E23F1E80B33E212E5",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      },
+      "$en_test13_0013": {
+        "Target": "{X10Y30F1L9B1C9}{Invalid}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{Line}{End}",
+        "Source Text SHA256": "E69B3ACEB58E3036499AFCED942F2685596168824A172E55607FE364F04C55BF",
+        "sourceContext": {
+          "Source MSD SHA256": "4859F4999E0502807E93203E25A64812FA3906EBD81E03197C2561F0C553BB98",
+          "JSM SHA256": "282955B389D7195A73838876B7B1F9D1C9DF3026EC4C9F417A5B1FF0764C1C80"
+        }
+      }
+    }
+  }
+}

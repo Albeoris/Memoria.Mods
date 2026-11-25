@@ -1,0 +1,30 @@
+{
+  "Fields": {
+    "bcmin2_2": {
+      "$en_bcmin2_2_0000": {
+        "Target": "{X80Y140}«…Что это?»{End}",
+        "Source Text SHA256": "CD52713ED15F7CB8188C7F164D79142E29709B183A73539EE5771E3C36F5C86B",
+        "sourceContext": {
+          "Source MSD SHA256": "BB4F540B010700FDE0328D7972FDC6174696999D5D26F4758D846676750E3BB2",
+          "JSM SHA256": "C29A0586C6C6EACD729752E991B79363F23576DC7E0974ADDC2BC64FF1DA8499"
+        }
+      },
+      "$en_bcmin2_2_0001": {
+        "Target": "{X94Y92}Получено: [Повышение Скр]!{End}",
+        "Source Text SHA256": "991A1AC9655BB5244A1D367FC796EEEEA8E5E28B0E08FA384912A3702225D043",
+        "sourceContext": {
+          "Source MSD SHA256": "BB4F540B010700FDE0328D7972FDC6174696999D5D26F4758D846676750E3BB2",
+          "JSM SHA256": "C29A0586C6C6EACD729752E991B79363F23576DC7E0974ADDC2BC64FF1DA8499"
+        }
+      },
+      "$en_bcmin2_2_0002": {
+        "Target": "{X90Y150}«Ух ты! Значит, этот парнишка спрятал его здесь!{Line} Похоже, от него иногда{Line} тоже бывает польза!»{End}",
+        "Source Text SHA256": "A09AF91B9EDB2AAD0F1FD56A017ACD5DF64D5DC6C542E4ECF8DB0E12AE0965BC",
+        "sourceContext": {
+          "Source MSD SHA256": "BB4F540B010700FDE0328D7972FDC6174696999D5D26F4758D846676750E3BB2",
+          "JSM SHA256": "C29A0586C6C6EACD729752E991B79363F23576DC7E0974ADDC2BC64FF1DA8499"
+        }
+      }
+    }
+  }
+}

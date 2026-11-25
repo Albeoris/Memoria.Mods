@@ -1,0 +1,81 @@
+{
+  "Fields": {
+    "bgmd1_1": {
+      "$en_bgmd1_1_0000": {
+        "Target": "{X12Y12}{Char Squall}{Line}Видите, слой нефти на{Line}{Color Yellow}стенах?.. Нам стоит остерегаться [врагов,{Color White} уязвимых к огню].{Next}Но бои станут намного легче, если{Line} мы сделаем привязку магии стихии огня.{End}{End}",
+        "Source Text SHA256": "4C06250D36D8275469C4AC81DC7BA75CA865073F41902F7EC78DEBF4D7B3C7BD",
+        "sourceContext": {
+          "Source MSD SHA256": "9FDEB163DE72FF78920043D09CE8E850BDF631F8269035B9C716371BD42A300B",
+          "JSM SHA256": "AC67CD5FC564F001DA1BEC5795EA7181A5FF42D5F5EDE65C34062DBC8B01A05D"
+        }
+      },
+      "$en_bgmd1_1_0001": {
+        "Target": "{X12Y12F2L3B2C3}{Char Squall}{Line}У нас {Color Yellow}есть способность{Color White} [Стих-Атк-Привязка]?..{Line}(Да, есть){Line}(Ещё нет){End}{End}",
+        "Source Text SHA256": "7E7378C45088AEAF02ADA82323D05E3BD41B216D176D9E1E886550AB38429C11",
+        "sourceContext": {
+          "Source MSD SHA256": "9FDEB163DE72FF78920043D09CE8E850BDF631F8269035B9C716371BD42A300B",
+          "JSM SHA256": "AC67CD5FC564F001DA1BEC5795EA7181A5FF42D5F5EDE65C34062DBC8B01A05D"
+        }
+      },
+      "$en_bgmd1_1_0002": {
+        "Target": "{X12Y12}{Char Squall}{Line}Если у {Color Yellow}нас есть{Color White} способность{Line} [Стих-Атк-Привязка], то мы можем сделать привязку{Line} магии, чтобы увеличить силу наших физических{Line} атак за счёт одной{Next}из стихий. Например, если {Color Yellow}привязать{Color White} к{Line}{Color Yellow}[Стих-Атк]{Color White}[Огонь], то при выборе пункта{Line}{Color Yellow}«Атаковать»{Color White} к нашим физическим атакам{Line} будет добавлена [Стихия{Next} огня]. Таким образом, мы получим преимущество{Line} над врагами, которые уязвимы к огню.{End}{End}",
+        "Source Text SHA256": "C118B3D7B36C669456857C640155275E802161EE195C11A594F7DE1B78062352",
+        "sourceContext": {
+          "Source MSD SHA256": "9FDEB163DE72FF78920043D09CE8E850BDF631F8269035B9C716371BD42A300B",
+          "JSM SHA256": "AC67CD5FC564F001DA1BEC5795EA7181A5FF42D5F5EDE65C34062DBC8B01A05D"
+        }
+      },
+      "$en_bgmd1_1_0003": {
+        "Target": "{X12Y12F2L3B2C3}{Char Squall}{Line}”Привязываем магию к {Color Yellow}[Стих-Атк]{Color White}...“{Line}(Я забыл... Давай-ка ещё разок){Line}(I remember how){End}{End}",
+        "Source Text SHA256": "2098119F44872787D815EE658587CCE13CC34D126D76ABEC9A1DD1A379881FA4",
+        "sourceContext": {
+          "Source MSD SHA256": "9FDEB163DE72FF78920043D09CE8E850BDF631F8269035B9C716371BD42A300B",
+          "JSM SHA256": "AC67CD5FC564F001DA1BEC5795EA7181A5FF42D5F5EDE65C34062DBC8B01A05D"
+        }
+      },
+      "$en_bgmd1_1_0004": {
+        "Target": "{X12Y12}{Char Squall}{Line}”{Key Menu} Нажимаем Круг, чтобы войти {Color Yellow}в{Color White}{Line} меню. {Color Yellow}Затем выбираем пункт{Color White} [Привязка] и{Line} нужного [персонажа]. Выбираем{Next}пункты {Color Yellow}[Привязка],{Color White}{Color Yellow}потом{Color White} [Магия], после{Line} этого становится активным {Color Yellow}{Color White} нижнее{Line} окно. Нажимаем [влево], {Color Blue}чтобы{Color White} перейти к{Line}{Color Yellow}окну{Color White} [Стих-Привязка].{Next}Выбираем {Color Yellow}[Стих-Атк], чтобы{Color White} вызвать окно магии{Line} персонажа. Выбираем [Огонь], {Color Yellow}[Огонь{Color White}{Color Yellow}II],{Color White}{Color Yellow}[Огонь{Color White}{Line} III] или другие{Line} стихии, чтобы завершить привязку.{End}",
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Squall}{Line}”Нажимаем {Key Cancel}, чтобы войти {Color Yellow}в{Color White}{Line} меню. {Color Yellow}Затем выбираем пункт{Color White} [Привязка] и{Line} нужного [персонажа]. Выбираем{Next}пункты {Color Yellow}[Привязка],{Color White}{Color Yellow}потом{Color White} [Магия], после{Line} этого становится активным {Color Yellow}{Color White} нижнее{Line} окно. Нажимаем [влево], {Color Blue}чтобы{Color White} перейти к{Line}{Color Yellow}окну{Color White} [Стих-Привязка].{Next}Выбираем {Color Yellow}[Стих-Атк], чтобы{Color White} вызвать окно магии{Line} персонажа. Выбираем [Огонь], {Color Yellow}[Огонь{Color White}{Color Yellow}II],{Color White}{Color Yellow}[Огонь{Color White}{Line} III] или другие{Line} стихии, чтобы завершить привязку.{End}"
+        },
+        "Source Text SHA256": "75D752E6E7E1D942976C952051A7D6E8EAD2F38F3A8E091852C3E53BC445946E",
+        "sourceContext": {
+          "Source MSD SHA256": "9FDEB163DE72FF78920043D09CE8E850BDF631F8269035B9C716371BD42A300B",
+          "JSM SHA256": "AC67CD5FC564F001DA1BEC5795EA7181A5FF42D5F5EDE65C34062DBC8B01A05D"
+        }
+      },
+      "$en_bgmd1_1_0005": {
+        "Target": "{X12Y12F2L3B2C3}{Char Squall}{Line}Хорошо, теперь попробуйте сами...{Line}(Сделать привязку){Line}(Не нужно){End}{End}",
+        "Source Text SHA256": "D60850DA7D1A178F97BB29A5E36CADC27AA41D013561EFFC12EDB82DA85DDA9C",
+        "sourceContext": {
+          "Source MSD SHA256": "9FDEB163DE72FF78920043D09CE8E850BDF631F8269035B9C716371BD42A300B",
+          "JSM SHA256": "AC67CD5FC564F001DA1BEC5795EA7181A5FF42D5F5EDE65C34062DBC8B01A05D"
+        }
+      },
+      "$en_bgmd1_1_0006": {
+        "Target": "{X12Y12F2L3B2C3}{Char Squall}{Line}”Все готовы?“{Line}(Ещё минутку){Line}(Так точно!){End}{End}",
+        "Source Text SHA256": "B9E3980B0B7F796327297821AEBF5055AD038A51411CC3D3CB123772E01C49D4",
+        "sourceContext": {
+          "Source MSD SHA256": "9FDEB163DE72FF78920043D09CE8E850BDF631F8269035B9C716371BD42A300B",
+          "JSM SHA256": "AC67CD5FC564F001DA1BEC5795EA7181A5FF42D5F5EDE65C34062DBC8B01A05D"
+        }
+      },
+      "$en_bgmd1_1_0007": {
+        "Target": "{X12Y12}{Char Squall}{Line}”Если хотите узнать больше, загляните{Line}{Color Yellow}в{Color White}[Руководство], {Color Yellow}пункт [Информация].{Color White}.“{End}{End}",
+        "Source Text SHA256": "8D9207C1A7928903200EC650B6135FE240633B82E641A55DDF163D1E3623E9C3",
+        "sourceContext": {
+          "Source MSD SHA256": "9FDEB163DE72FF78920043D09CE8E850BDF631F8269035B9C716371BD42A300B",
+          "JSM SHA256": "AC67CD5FC564F001DA1BEC5795EA7181A5FF42D5F5EDE65C34062DBC8B01A05D"
+        }
+      },
+      "$en_bgmd1_1_0008": {
+        "Target": "{X12Y12}{Char Squall}{Line}Ладно, пошли.{End}{End}",
+        "Source Text SHA256": "10D71DD340245487C2954E02DD4B0A0E1058461B3A336D1D65C0A625B4AC9753",
+        "sourceContext": {
+          "Source MSD SHA256": "9FDEB163DE72FF78920043D09CE8E850BDF631F8269035B9C716371BD42A300B",
+          "JSM SHA256": "AC67CD5FC564F001DA1BEC5795EA7181A5FF42D5F5EDE65C34062DBC8B01A05D"
+        }
+      }
+    }
+  }
+}

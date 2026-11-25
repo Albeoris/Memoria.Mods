@@ -6,13 +6,43 @@ Each artifact has a direct HTTPS Release URL, its ZIP's byte `size`, `unpackedSi
 
 The ZIP contains `mod.manifest.json` at its root, the mod's source files including `mod.json` under `payload/`, and an optional root `NOTICE.md`. The manifest contains `schemaVersion`, `sourceId`, `componentId`, `runtimePackageId`, `version`, `engineVersionRange`, `target`, and `files`. Every file record contains its payload-relative `path` with slash separators, byte `size`, lowercase `sha256`, and `mutable` set to `false`. The manifest inventory covers payload files. The player controls activation through local settings. The publisher rejects any payload path containing a `mod.ini` segment, regardless of casing.
 
-Official packages target `FFVIII` Classic in every language (`["*"]`). The publisher accepts normalized NuGet engine ranges with an inclusive minimum and no upper bound.
+Ordinary official packages target `FFVIII` Classic in every language (`["*"]`). The publisher accepts normalized NuGet engine ranges with an inclusive minimum and no upper bound.
 
 Both generated documents conform to [the version 1 JSON Schema](schemas/official-v1.schema.json).
 
+## Language catalog
+
+The separate `catalog/languages-v1.json` index uses the same envelope, release data and download format. A language pack remains one component, with one asset, receipt and stable package identity. Its component uses `groupId: "Memoria"`, `category: "Localization"`, `defaultEnabled: false` and includes one or more `languageOffers`. Each offer declares a canonical display language tag, an edition label and a stable package option. The option can be a native Target label such as `ru (Literary edition)`.
+
+Each offer declares specific edition and base-language pairs as `nativeVariants`. Clients match those pairs. The component and ZIP manifest targets summarize the union of editions and languages across offers for the existing installer. Use `ja` in catalog metadata for Japanese. Follow the [language catalog schema](schemas/languages-v1.schema.json).
+
+```json
+{
+  "kind": "language",
+  "package": "Localization",
+  "languageOffers": [
+    {
+      "locale": "ru",
+      "label": "FFRTT",
+      "option": "ru",
+      "nativeVariants": [
+        { "edition": "Classic", "language": "en" },
+        { "edition": "Remastered", "language": "en" }
+      ]
+    }
+  ]
+}
+```
+
+Add these fields alongside the normal descriptor fields. A language or dependency descriptor can list required package IDs in `dependencies`. A required package declares `kind: "dependency"`, `package: "Localization"` and its own `nativeVariants`. It appears in the language index's top-level `dependencies` pool. The publisher records exact `{id, version}` pins in each dependent component and updates them together with the dependency release. The installer resolves the complete dependency graph before switching the chosen language. Each dependency keeps its own verified version and package receipt.
+
+FFRTT owns the opening subtitles and defines the movie component with `mediaDependency: "russian-ffrtt-opening"`. The dependency owns the video and matching camera, so a translation or subtitle update can reuse their installed release.
+
+A language release moves between indexes in a single publication commit if its type changes. The two indexes maintain independent revisions.
+
 ## Mod descriptor
 
-`mod.json` declares the stable lowercase hyphenated `id`, the display `name`, the display group in `package`, and a `description` object keyed by language code with an `en` entry. Mod IDs are globally unique among native mods; `package` is not an ID namespace. Official Memoria IDs begin with `memoria-`. Changing `package` moves the mod to the new group while retaining its identity. The installed descriptor includes every authored translation. Write descriptor and item documents as UTF-8 JSON without a byte order mark.
+`mod.json` declares the stable lowercase hyphenated `id`, the display `name`, the display group in `package`, and a `description` object keyed by language code with an `en` entry. Mod IDs are globally unique among native mods; `package` is not an ID namespace. New Memoria-authored IDs begin with `memoria-`. Released third-party projects retain their existing IDs. Changing `package` moves the mod to the new group while retaining its identity. The installed descriptor includes every authored translation. Write descriptor and item documents as UTF-8 JSON without a byte order mark.
 
 ## Status overrides
 

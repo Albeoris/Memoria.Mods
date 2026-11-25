@@ -1,0 +1,38 @@
+{
+  "Fields": {
+    "edview1b": {
+      "$en_edview1b_0000": {
+        "Target": "{X15Y15}А что с каменной глыбой, которая здесь стояла?{Line} Теперь, когда она исчезла, я скучаю по{Line} ней. Теперь здесь так пусто.{End}",
+        "Source Text SHA256": "51A07B1FEB0E0A1A21AE136DE78D1CD9DE144C64BC522938D821417C586F12CD",
+        "sourceContext": {
+          "Source MSD SHA256": "9EFD5D1B313CA676D84654D7443254885E6057581929FD7F081E6038094FA297",
+          "JSM SHA256": "119A5E6188D9B803A2FE87590BEAD80035518A2B707B04EDE273C50CE197703F"
+        }
+      },
+      "$en_edview1b_0001": {
+        "Target": "{X15Y15}Только посмотри на этих двоих. Они{Line} такие милые.{End}",
+        "Source Text SHA256": "80C85A29669B8931CAAFF968B87E2C7D4772027EB1A6A24836EF4683080E24FA",
+        "sourceContext": {
+          "Source MSD SHA256": "9EFD5D1B313CA676D84654D7443254885E6057581929FD7F081E6038094FA297",
+          "JSM SHA256": "119A5E6188D9B803A2FE87590BEAD80035518A2B707B04EDE273C50CE197703F"
+        }
+      },
+      "$en_edview1b_0002": {
+        "Target": "{X63Y8}〖Точка сохранения〗{Line} Открой меню и выбери{Line}[Сохранить].{End}",
+        "Source Text SHA256": "A5D94869AB351B31D46424F97F1789439B93AD79DCF6E37FE8C5FB94657D18BE",
+        "sourceContext": {
+          "Source MSD SHA256": "9EFD5D1B313CA676D84654D7443254885E6057581929FD7F081E6038094FA297",
+          "JSM SHA256": "119A5E6188D9B803A2FE87590BEAD80035518A2B707B04EDE273C50CE197703F"
+        }
+      },
+      "$en_edview1b_0003": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "873D439458AEFF38C9648E8B34089559640AB4D69685D80F7D539FCD780596A8",
+        "sourceContext": {
+          "Source MSD SHA256": "9EFD5D1B313CA676D84654D7443254885E6057581929FD7F081E6038094FA297",
+          "JSM SHA256": "119A5E6188D9B803A2FE87590BEAD80035518A2B707B04EDE273C50CE197703F"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1126 @@
+{
+  "Monsters": {
+    "scan_monsters": {
+      "$en_scan_monsters_0000": {
+        "Target": "Владеет мечом{Line}особого типа —{Line}ганблейдом. Особый{Line}приём Рэндзокукэн{Line}выполняет этим{Line}оружием. Молчалив{Line}и немного холоден.",
+        "Source Text SHA256": "C857E30D51D520CBF8CBC6083D8954F4928F2C637FC8CCFE6CB4CA96B3BC0CF7",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0001": {
+        "Target": "Любит хот-доги{Line}из столовой{Line}Сада. В{Line}ближнем бою{Line}одолевает{Line}врагов ударами{Line}рук и ног.",
+        "Source Text SHA256": "627565BA3F424377298558DFE9469024A298360A15304B25A294D046730FD8C9",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0002": {
+        "Target": "Меткий стрелок.{Line}В бою использует{Line}особые{Line}боеприпасы.{Line}В напряжённой{Line}обстановке{Line}стреляет хуже.",
+        "Source Text SHA256": "728BA4EC43F85AAC30ED161340508902C891C5BDF6F49417A35FA3D70C88ED2D",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0003": {
+        "Target": "Владеет кнутом.{Line}В опасности{Line}применяет изученные{Line}умения монстров.{Line}Поклонники в{Line}Саду создали{Line}её фан-клуб.",
+        "Source Text SHA256": "663BC2338AB994C80A6EBE77400F2755C6B2B9D2B944CAED373737C2977560B4",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0004": {
+        "Target": "Участница{Line}тимберского{Line}сопротивления{Line}«Лесные совы».{Line}Выполняет особые{Line}атаки вместе со{Line}своей собакой.",
+        "Source Text SHA256": "F88A84EDC7E24B79036C5905502340D4D0D2AB57ECD61EFB3FF1ADBFC58A2C60",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0005": {
+        "Target": "Перевелась в{Line}Баламбский Сад.{Line}Владеет огромными{Line}нунчаками и особыми{Line}заклинаниями.",
+        "Source Text SHA256": "C69C1D208A4D441E26D73F34966D2D5FC780AF18DAD1B1FA872827923B05FFC5",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0006": {
+        "Target": "Один из лучших{Line}бойцов Сада.{Line}Из-за своего{Line}нрава не{Line}стал бойцом{Line}SeeD. Владеет{Line}ганблейдом.",
+        "Source Text SHA256": "79A39A6FEFCD55EBAAAF5C9F5F90551F98A15A99A8D17333A1AF63DAC9A6523F",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0007": {
+        "Target": "Волшебница,{Line}искусная{Line}в магии.{Line}Её особая{Line}магическая{Line}атака называется{Line}«Колдовство».",
+        "Source Text SHA256": "9F16FD7D8F5D8A3A647FF1CD21857B6EAA96DF32C57A17EEF6ED7A824569BDF6",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0008": {
+        "Target": "Энергичный и{Line}добросердечный.{Line}Вооружён пулемётом.{Line}Прикрывает попавших{Line}в беду союзников{Line}пулемётными{Line}очередями.",
+        "Source Text SHA256": "7C9E61AB44CB18B1043B47154D3BA3C2C63E7D2DE2EE21CA5622CE81F57E94CD",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0009": {
+        "Target": "Носит на обеих{Line}руках острые{Line}клинки, называемые{Line}каталом. Стиль боя{Line}столь же необычен,{Line}как и его оружие.",
+        "Source Text SHA256": "B867C38536131BD0B63A3AB4BCFA3E619BBBAAB3C598CA9D180E64E414DBCEAE",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0010": {
+        "Target": "Крупный и{Line}сильный человек.{Line}Он мечет во{Line}врагов гарпун{Line}— необычайно{Line}тяжёлое оружие.",
+        "Source Text SHA256": "336A44CC35CC741FFA671F1A8F218E652A7AC2D70680D96E2153740F7DEB1C3D",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0011": {
+        "Target": "12.",
+        "Source Text SHA256": "25602777CECC667D222CFEB509C62BE1591A64D751C3142C1381DEE13677A294",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0012": {
+        "Target": "13.",
+        "Source Text SHA256": "352E15AACA7DCF8DEC5093DACD9256DF4D66BA8677558E1CBBA32C709CADEECE",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0013": {
+        "Target": "14.",
+        "Source Text SHA256": "45D873D4BFDC6BBE6925297328210DA8AE3312CAB9052DF873F350D1BB3B8A65",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0014": {
+        "Target": "15.",
+        "Source Text SHA256": "205812A9CE3F23BF985028F7B93BA7F8D1CD6867DE49B71062AAC3C1A2D47EA5",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0015": {
+        "Target": "16.",
+        "Source Text SHA256": "3EC1D1E80D46E73BC4CDD8FFBEFD465585AC8D88692825C5572BABB285E8C436",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0016": {
+        "Target": "0.",
+        "Source Text SHA256": "892F6E09C02C35B5381A165395599F21770C19B4F05D2ED71CCD2A45AF414B1C",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0017": {
+        "Target": "Галбадийская{Line}машина атакует{Line}магией и{Line}ракетами. Более{Line}совершенные{Line}модели используют{Line}мощные лучи.",
+        "Source Text SHA256": "0BFE3838043335B573929F1A78D9A2C928DA33BAF9391BEE78681B113117BC76",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0018": {
+        "Target": "Полужидкое{Line}существо,{Line}устойчивое к{Line}физическим атакам.{Line}Стихийные слабости{Line}у разных особей{Line}различаются.",
+        "Source Text SHA256": "7BED2F1C182B963AF60CD4B2B69FAB79D830DA3555F83060054367688F0EFCBA",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0019": {
+        "Target": "Монстр с континента{Line}Галбадия. Обычно{Line}пикирует на{Line}врагов, а в{Line}опасности кусает{Line}и поднимает{Line}порывы ветра.",
+        "Source Text SHA256": "1C9A1D44CF9BF0420C26EF89708671509B11CD4BC29469256FA9350974B736C9",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0020": {
+        "Target": "Обитает в сырых{Line}местах и нападает{Line}на прохожих из{Line}засады. Взрослые{Line}особи накладывают{Line}отрицательные{Line}состояния.",
+        "Source Text SHA256": "2F7E196C089823B263FBBA670111FDDD3F65F1AA25EBB0AAB15D479C465890DE",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0021": {
+        "Target": "Вокруг лица{Line}вращается лезвие.{Line}Когда меняется{Line}выражение лица,{Line}меняется и{Line}тактика боя.",
+        "Source Text SHA256": "BC746CA7C780F56D88A2DBF60EA41CF0FEFBFD6731774C59F38F2765C051E8B7",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0022": {
+        "Target": "Парящий монстр,{Line}владеющий ледяной{Line}магией. Когда ЖЗ{Line}мало, применяет{Line}Вампиризм и{Line}отнимает ЖЗ у{Line}противников.",
+        "Source Text SHA256": "607DDC4234E360D9220D57FF532483BE7AFD0AA1E2280CCA76348DDEDA20E80A",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0023": {
+        "Target": "Живое оружие{Line}Галбадии. На плечах{Line}установлены две{Line}пушки калибра{Line}155 мм, а во{Line}рту — 60-мм{Line}пушка «Вулкан».",
+        "Source Text SHA256": "88D8B3E36433BC898F84170F1AFB3BC019AA29012DBB52345520A485A5EB20F1",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0024": {
+        "Target": "Старая{Line}галбадийская{Line}машина поддержки.{Line}Есть лазерная{Line}пушка, но чаще{Line}бьёт стальными{Line}шарами на руках.",
+        "Source Text SHA256": "9ACCE9FBE4BB400B98B0D0DF313FCA61B612E7CFA12FB2F079E2D184861A0F74",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0025": {
+        "Target": "Вместо рога —{Line}большое лезвие.{Line}Оно лечит как{Line}предмет или как{Line}сырьё для создания{Line}лечебной магии.",
+        "Source Text SHA256": "E91428D7B26B16D4657650AB2D715A2CFBA67189335C40AEF3EF52A521AB0B4A",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0026": {
+        "Target": "Почти{Line}неуязвим{Line}для магии,{Line}но очень{Line}слаб против{Line}физических{Line}атак.",
+        "Source Text SHA256": "49FC0E1768C0C2E8FC65E6AD0F43F91162997238EDA8FEB071AFFC6D2B87B1A6",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0027": {
+        "Target": "Охраняет зал{Line}замка Ультимеции.{Line}Победил многих{Line}врагов, чьи{Line}способности{Line}были запечатаны.",
+        "Source Text SHA256": "622398E2E9CFA37C80027B1E3FE0AD2D1AAAB9AF7FFE8F05B42704558C74CE9D",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0028": {
+        "Target": "Истинный облик{Line}Сфинкса. Полностью{Line}меняет тактику,{Line}призывает{Line}других монстров{Line}и накладывает{Line}Погибель.",
+        "Source Text SHA256": "DC6DDFD11070F7FFC12EBEF36FEAA2D00E9074BEB65DE6EF512B0F2DA0E4EEA1",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0029": {
+        "Target": "Обитает в северных{Line}снегах. Из-за{Line}большого запаса{Line}ЖЗ его трудно{Line}одолеть. В{Line}ярости применяет{Line}ледяное дыхание.",
+        "Source Text SHA256": "FCACDFABA9F13C64C8FC50FFC566B626306ECA3E36C775663C22E42EA67BF2C5",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0030": {
+        "Target": "Большая{Line}ядовитая змея,{Line}сдавливающая{Line}добычу.{Line}Если её ЖЗ{Line}на исходе,{Line}плюётся ядом.",
+        "Source Text SHA256": "57558E2CF3072731F17DE081343128FAD91D469E9DDE0CF2D40A30AEC7E5F4CA",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0031": {
+        "Target": "Тело почти{Line}целиком состоит из{Line}пищеварительного{Line}мешка. Ловит{Line}добычу лозой{Line}и выпускает{Line}усыпляющий газ.",
+        "Source Text SHA256": "688BC385FDFB7EEBB68F6605ABAD9061BEC7CB77AF6CA0785AF1DA8C557A2714",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0032": {
+        "Target": "Обращает врагов в{Line}камень взглядом.{Line}Взмахами крыльев{Line}вызывает молнию,{Line}а взрослые особи{Line}применяют Электрошок.",
+        "Source Text SHA256": "5645FC8B382E733CE0B189E4EFF798F75C11F66326C69F17E13390EF825D7FE9",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0033": {
+        "Target": "Применяет{Line}Ультразвук,{Line}нанося урон всем{Line}противникам.",
+        "Source Text SHA256": "0EA9BE0F00A3C6E208F17D1F590A3AC3CA5F6A2D96DC847E686540AB6742E854",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0034": {
+        "Target": "Летучая мышь с{Line}огромной пастью.{Line}Прячется в{Line}тёмных местах{Line}и стремительно{Line}пикирует, чтобы{Line}укусить цель.",
+        "Source Text SHA256": "6D550530256C29545663BDC53A4F7427224B4F4949006A1B190C92FE46189FA5",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0035": {
+        "Target": "Заряжается от{Line}атак молнией.{Line}Удар по{Line}заряженному{Line}монстру вызывает{Line}ответный{Line}урон молнией.",
+        "Source Text SHA256": "D303AA90DCEDD526C532486243A6F3532AA0C8CF4C84C8F5A9A9E380CDB0EC5A",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0036": {
+        "Target": "Рыба, плавающая{Line}под землёй.{Line}На поверхности{Line}виден только{Line}плавник. По{Line}одной из версий,{Line}это акула.",
+        "Source Text SHA256": "D20BD52C6087E451B672E8CC47BC9DA27CC7CFF1FF4DBA47C06CC3543C584B73",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0037": {
+        "Target": "Рыба, плавающая{Line}под землёй.{Line}На поверхности{Line}виден только{Line}плавник. По{Line}одной из версий,{Line}это акула.",
+        "Source Text SHA256": "D20BD52C6087E451B672E8CC47BC9DA27CC7CFF1FF4DBA47C06CC3543C584B73",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0038": {
+        "Target": "Неудачный образец{Line}эстарского оружия.{Line}Нападает на врагов{Line}и союзников.{Line}Дегенератор{Line}уничтожает{Line}противников.",
+        "Source Text SHA256": "4A831790FE42A0F5560ACEF8424945E3A132B651FEC4103162209EA54DF1B677",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0039": {
+        "Target": "Плоское и{Line}чёрное, как{Line}тень. Считается{Line}живым существом.{Line}Погибая, убивает{Line}своего противника.",
+        "Source Text SHA256": "E9C222512EB7204AB5E2660EA6C1ADFABFA58481B87E61FEEBCD0D080E93379D",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0040": {
+        "Target": "Мутировавший{Line}шестиглазый{Line}дракон. Владеет{Line}огненной магией{Line}и особыми{Line}атаками дыханием.",
+        "Source Text SHA256": "229327A6E11A7C860F64B0F738E43E0FAAA370A72BE7175267AEF1D43334A6D3",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0041": {
+        "Target": "Парит благодаря{Line}газу внутри тела.{Line}Выглядит слабым,{Line}но его атаки{Line}могут накладывать{Line}опасные состояния.",
+        "Source Text SHA256": "9A7938E9D839EE65748B3ABF757D0B2F14DA4CC77EDE5B06B1D2445E6340F048",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0042": {
+        "Target": "Эстарское{Line}противопехотное{Line}оружие. Парит на{Line}антигравитационном{Line}двигателе. Атакует{Line}четырьмя гибкими{Line}металлическими ногами.",
+        "Source Text SHA256": "FAA6C34A3ECAF65986A4D8D4414856EB593115111ABF49DBA83A09B9E7458DF4",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0043": {
+        "Target": "Ноги малы по{Line}сравнению с{Line}телом, поэтому{Line}от сильных ударов{Line}он легко падает.",
+        "Source Text SHA256": "1C32F5325F57558A826F86CF9C4ED81054D5F37890C502904F807962695EF858",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0044": {
+        "Target": "Летающее{Line}чудовище-насекомое.{Line}Сохраняйте{Line}спокойствие и{Line}бейте точно: враг{Line}не особенно силён.",
+        "Source Text SHA256": "B78E4E17676F6043E84886706547AFAC4FC493BAD2FC5E8A3569AFF101485295",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0045": {
+        "Target": "По ходу боя{Line}меняет тактику.{Line}Переходит от{Line}огненной магии{Line}к ледяной,{Line}затем к молнии и{Line}другим стихиям.",
+        "Source Text SHA256": "1D7E604E52BF5C7E826DB1A5E932F15650B5D869AEF96C59BB3CC6CD2957365A",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0046": {
+        "Target": "Живое оружие,{Line}созданное{Line}Ультимецией из{Line}дракона. Уязвимо к{Line}огню или льду, но{Line}слабость меняется{Line}после ударов.",
+        "Source Text SHA256": "72D18263A98074E52016BD56BC30BD91204339A47CEF86F68B9B714DAEF7159B",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0047": {
+        "Target": "Атакует магией и{Line}острыми когтями.{Line}Получив удар,{Line}может перейти к{Line}обороне, чтобы{Line}защититься{Line}от урона.",
+        "Source Text SHA256": "896466FF82B8E9B441898A0DD3FDA3F914246103AD45245C0B20DE6ED94EFE37",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0048": {
+        "Target": "Сильный{Line}монстр, но{Line}плохо владеет{Line}магией. Вместо{Line}неё полагается{Line}на мощные{Line}физические атаки.",
+        "Source Text SHA256": "2C5D0BF4A030225B6D01D6D6B5FC9ED9F00BFC9A0FADDA2569976D6F54B0C3A2",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0049": {
+        "Target": "Сначала усыпляет{Line}врагов, затем{Line}атакует. Плюётся{Line}жидкостью,{Line}которая{Line}отнимает у{Line}спящего силы.",
+        "Source Text SHA256": "FABC9914D3E6EC81FE70A07C56DF5C4587D1555E46E6E698971387158CF27416",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0050": {
+        "Target": "Монстр, выдававший{Line}себя за президента{Line}Делинга. Атакует{Line}уродливыми руками{Line}и накладывает{Line}состояния.",
+        "Source Text SHA256": "7D83988211444C953B45AD8F4A19225B7CEB711096192D88C5E1088A3E5FDC98",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0051": {
+        "Target": "У монстра четыре{Line}острых когтя. Он{Line}атакует грубой{Line}силой, а также{Line}выпускает газ.",
+        "Source Text SHA256": "4B81897F96501FF443AB6371A719F756572A0E1CF68C3913E745F6FBEC3883EE",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0052": {
+        "Target": "Трёхголовый{Line}монстр. Две{Line}боковые головы{Line}ненастоящие,{Line}но кусаются и{Line}плюются ядом{Line}как настоящие.",
+        "Source Text SHA256": "B9F6631225B53BA06533940A970FC85440A2B142F7CFAA80CAC23E6B587F8249",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0053": {
+        "Target": "Раньше жил в воде,{Line}теперь живёт на{Line}суше. Пронзает{Line}противников{Line}большой клешнёй{Line}и наносит{Line}огромный урон.",
+        "Source Text SHA256": "D512A4CB0CFA2FC8F3EF29B6D8FC4AF61C1EE1199E3A709E41727B11C4D9A879",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0054": {
+        "Target": "Возник из драгоценного{Line}камня в замке{Line}Ультимеции. Быстро{Line}реагирует на{Line}атаки и немедленно{Line}контратакует.",
+        "Source Text SHA256": "0FB3F3784BAFBE96F7A739F359F81E0A0CD495CB4CEEC6FF0213B298DCB6DD83",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0055": {
+        "Target": "Огромная левая{Line}рука, торчащая{Line}из земли.{Line}Иногда снимает{Line}отрицательные{Line}состояния с{Line}союзников.",
+        "Source Text SHA256": "EEB196CB44A0763E95713E30B62A2E31083885F1FC1CEE12C79D8B920F7BE9FB",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0056": {
+        "Target": "Огромная{Line}правая рука,{Line}торчащая из{Line}земли. Не{Line}владеет магией{Line}и полагается{Line}на силу ударов.",
+        "Source Text SHA256": "C781E5CBD74CAFD926D638B3152D440E7E60327BD1F5951CFA4A128D3B12369F",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0057": {
+        "Target": "Дракон, ходящий{Line}на двух ногах.{Line}Дыханием{Line}накладывает{Line}состояния. Может{Line}оставить редкий{Line}«Осколок ярости».",
+        "Source Text SHA256": "3F7D995EC7B5C1F45321AEE492C1E073D92987F4886B7D383A8CDD5CDFB54D57",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0058": {
+        "Target": "Солдат-нежить. Не{Line}боится смерти. Его{Line}смертельный приём убивает{Line}противника одним ударом.",
+        "Source Text SHA256": "A52BE113B532ADB69E66D5969ADA020366F17312CAAB59041786B7F6A8117580",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0059": {
+        "Target": "Монстр питается{Line}огнём. Обычно{Line}спокоен,{Line}но опасен:{Line}от атак{Line}раздувается{Line}или взрывается.",
+        "Source Text SHA256": "7CB49E690B420BC377D168090AC80B52F3A1815CDF077B91EF6B0CC62EBD3553",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0060": {
+        "Target": "Голова, торчащая{Line}из земли. На{Line}поверхности{Line}лишь часть тела.{Line}В ответ на{Line}атаки вызывает{Line}Землетрясение.",
+        "Source Text SHA256": "F8D63E2BF25CF67EE4614D79AF21D11B23153B805A64928E642DC6535AE3B041",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0061": {
+        "Target": "Предпочитает{Line}жить в лесах.{Line}Бьёт щупальцами{Line}и применяет{Line}атаки, меняющие{Line}состояние цели.",
+        "Source Text SHA256": "A7D4DA303C66C2705A885207D0B8A2AABB99AE995ED7F157905DF40766815AC1",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0062": {
+        "Target": "Из-за сильной{Line}защиты его трудно{Line}победить. В награду{Line}можно получить{Line}редкие предметы,{Line}стоящие усилий.",
+        "Source Text SHA256": "CE80403168C502A6B3C4FE883DADC66C1B067A7937A6599B6EA1CCD5FF920C39",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0063": {
+        "Target": "У монстра{Line}четыре головы.{Line}Он применяет{Line}магию, физические{Line}атаки, состояния{Line}и особое{Line}Аква-дыхание.",
+        "Source Text SHA256": "64AC8B1E5FBF2F8845B50E6281D65F792438C9BEADA5B2E34036431B9AEB5D62",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0064": {
+        "Target": "Смрадное дыхание{Line}накладывает все{Line}отрицательные{Line}состояния.{Line}Перед боем{Line}приготовьте защиту{Line}от состояний.",
+        "Source Text SHA256": "DE3D764ADDD83F097E18D398DD39884EE1E16CCA19455DD4C6F3D335F363E043",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0065": {
+        "Target": "Стальные доспехи{Line}трудно пробить.{Line}Магией не{Line}пользуется, но{Line}наносит тяжёлый{Line}урон мечом.",
+        "Source Text SHA256": "2AE1D4C50FF4DB3F90C64DAE7910713996EFA9C75A76DE414A165AC4F771CFA2",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0066": {
+        "Target": "Владеет мощной{Line}магией, в том{Line}числе Метеором.{Line}Это сильный{Line}противник, которого{Line}трудно одолеть.",
+        "Source Text SHA256": "8F2EE53684164A69883B62666D0F1DF1FCF9B2C494B23CD3F1662C1CADC08B69",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0067": {
+        "Target": "Живёт с начала{Line}времён. У{Line}него огромная{Line}сила и{Line}запас ЖЗ.{Line}При встрече{Line}лучше бежать.",
+        "Source Text SHA256": "B0AB2AC4F4013A53D3E5E925150AAF23DD409B3DC8C737A7534CE2DD902196BC",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0068": {
+        "Target": "Сильный и умный{Line}дракон. Если у{Line}противников действует{Line}Отражение, накладывает{Line}его на себя и{Line}отражает свою атаку.",
+        "Source Text SHA256": "420F540EDC9BCD8917A359CA71A0011F04FB9FD0C3C5ED7302C9B9D01B0734B9",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0069": {
+        "Target": "Небольшой{Line}дракон, иногда{Line}встречается{Line}парами.{Line}Может быть{Line}опаснее других{Line}драконов.",
+        "Source Text SHA256": "6C131477B9777DC8B78F13A71EF34D414C927A80D893193F1EDB1FA97068A014",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0070": {
+        "Target": "Монстр в форме{Line}лица. Использует{Line}магию поддержки{Line}и особые приёмы,{Line}когда сражается{Line}вместе с Правой{Line}и Левой руками.",
+        "Source Text SHA256": "E4ABAF9266E0AB5C07ECBE00BD9E7BA029F92FD3E22D0BB560CBDE8CA83AE4EA",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0071": {
+        "Target": "Проворный пустынный{Line}кактус. Его{Line}особое умение{Line}«1000 Игл» всегда{Line}наносит ровно{Line}1000 урона.",
+        "Source Text SHA256": "FA25B43E22F005D75654F08A73644AC63AF1D337D62644E01F07C037C5CEA977",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0072": {
+        "Target": "Таинственный{Line}обитатель{Line}подземелий. Медленно{Line}подбирается к врагу{Line}и убивает его{Line}Поварским ножом.",
+        "Source Text SHA256": "87D00BC0DCF92B8DB85A3EE8D8D84295BC2886CE97E81F111A48B9FC859874A4",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0073": {
+        "Target": "Сидя, применяет{Line}несколько{Line}магических атак.{Line}Когда встаёт,{Line}становится ещё{Line}сильнее и атакует{Line}бластером.",
+        "Source Text SHA256": "C2CC1FBEC06E449C84457114BE689E9924C83CAA63933434CFF1D13D268C75C0",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0074": {
+        "Target": "Огромный ходячий{Line}гриб. Наносит{Line}урон и применяет{Line}атаки, меняющие{Line}состояние цели.",
+        "Source Text SHA256": "12AF760D186EA432DD64AFB3EC38A7A61C1ED55E44EC34A4BB53BC3A99249370",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0075": {
+        "Target": "Крылатый монстр,{Line}похожий на чертёнка.{Line}Несмотря на малый{Line}размер, владеет{Line}мощной магией.",
+        "Source Text SHA256": "A7A366490240AFC3BE4B7196E904A6DC59E8109D123308A70119A5F1498EC40D",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0076": {
+        "Target": "Пришелец с{Line}другой планеты.{Line}Кто-то уничтожил{Line}его НЛО, и{Line}теперь ему{Line}нужна помощь.",
+        "Source Text SHA256": "D91D8FF99F98376D618099D6E8EF9E867068E6D0BEF4566EFE0DD3F34BF11A34",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0077": {
+        "Target": "Огненный Страж,{Line}владеющий{Line}огненной магией.{Line}Силен, но раз{Line}входит в экзамен{Line}Сада, его{Line}можно победить.",
+        "Source Text SHA256": "225769FAD63D32BDD781CD0481D972AC943A970FD03DF6C9854E7C03D2324FF7",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0078": {
+        "Target": "Старший брат{Line}Священного.{Line}Этот Страж земли{Line}восстанавливается,{Line}пока его ноги{Line}касаются земли.",
+        "Source Text SHA256": "DC73BE99F606671BE75976E21212F8AC70816137B3E60262A531087756241F1E",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0079": {
+        "Target": "Страж земли{Line}из Гробницы{Line}Неизвестного короля.{Line}Восстанавливается{Line}силой земли и{Line}атакует огромным{Line}стальным шаром.",
+        "Source Text SHA256": "2104DF53FEF51787E6C0342D652413D65B8DA5DE193FEE1994E6A16AF729484C",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0080": {
+        "Target": "Командует{Line}охраной ракетной{Line}базы Галбадии.{Line}Сильнее обычных{Line}галбадийских{Line}солдат.",
+        "Source Text SHA256": "202E61A8388C5B9CB0328D7114D107E981D6077151BF9C3DD868F6DF598EED5A",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0081": {
+        "Target": "Трёхголовый пёс{Line}из преисподней.{Line}Под тройной{Line}магией головы{Line}колдуют{Line}по-разному. Хвост{Line}тоже опасен.",
+        "Source Text SHA256": "6F3A2ADAC3372E244FA67007D2EB5440FE8EE1A667BC1A9B65D4E6F091615384",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0082": {
+        "Target": "Таинственный{Line}Страж из другого{Line}измерения.{Line}Владеет мощной{Line}гравитационной{Line}атакой Гравиджа.",
+        "Source Text SHA256": "45E04921797A7F2E4B447DBA7592E6F62CCA89CAC305865AB85DEDF7055AAB82",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0083": {
+        "Target": "Король Стражей.{Line}Его Сверхвзрыв{Line}пробивает любую{Line}защиту. Помогает{Line}тем, кто доказал{Line}свою силу.",
+        "Source Text SHA256": "9ADD99EC9F7AFA4D7EBBE127C8C691862456337D15CCAEABBC5D29D4CCF5D050",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0084": {
+        "Target": "Укрытие Магистра{Line}Норга. Чтобы{Line}атаковать Норга,{Line}нужно сначала{Line}разрушить{Line}защищающее{Line}его укрытие.",
+        "Source Text SHA256": "5D859DC101A5FAEFBD5AD01EF647755026C8382848DF11DB480EE7716E9D083D",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0085": {
+        "Target": "НЕ ЯВЛЯЕТСЯ ЦЕЛЬЮ.",
+        "Source Text SHA256": "DCB951BB6113FEA30A3286D2113FB1EABE552D49CD09589CDC546DEE111F5F23",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0086": {
+        "Target": "Легендарный{Line}Страж, спящий{Line}в подземелье.{Line}Его Дзантэцукэн{Line}разрубает всё{Line}на своём пути.",
+        "Source Text SHA256": "22F9A5AAB2F90814D1828C44B82289094677CC6225AF9410EF7C700C1B67C2D8",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0087": {
+        "Target": "Галбадийский{Line}солдат,{Line}сочетающий меч{Line}с магией. Силен,{Line}но далеко не{Line}так силён, как{Line}бойцы SeeD.",
+        "Source Text SHA256": "AE7A110F0C7AF4DA4258799D497714D02983A0CBD4A39EBE62B4E4659159FF5F",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0088": {
+        "Target": "Офицер в{Line}одном отряде с{Line}галбадийскими{Line}солдатами. Одолейте{Line}его первым, пока{Line}он не вылечил{Line}остальных.",
+        "Source Text SHA256": "4D6827556BAE60D22B3654E99C5523A0D8B3EF95614DD194ABB6D331987CE41A",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0089": {
+        "Target": "Солдат Галбадии,{Line}назначенный{Line}на башню связи{Line}Доллета. Его{Line}постоянно{Line}третирует командир,{Line}майор Биггс.",
+        "Source Text SHA256": "6118A000E809EF4EC9C2A60FE5A67169DD40BEAC84B131FC1DC0BF0F51230D6A",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0090": {
+        "Target": "Майор армии{Line}Галбадии.{Line}Запустил{Line}башню связи{Line}Доллета.{Line}Очень{Line}вспыльчив.",
+        "Source Text SHA256": "D21253828F0704BE2CF2CA7C77061EA4E53EE3A372FCCA4DE7EE182C532BA47C",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0091": {
+        "Target": "Двойник{Line}президента{Line}Делинга. Атакует{Line}необычно, но{Line}не очень силён.{Line}Однако...",
+        "Source Text SHA256": "AC37B43B455C77F354EF2112395978AA5E2A752BC3920978BAD8EE6C0067295C",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0092": {
+        "Target": "Охранник тюрьмы.{Line}Галбадийский{Line}солдат,{Line}обученный{Line}усыплять{Line}беглецов магией.",
+        "Source Text SHA256": "74B3304AA3AFCB835BBECD34D70F3D5C51DA4DAD579BBD3D36DD62CFFC4FE0CE",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0093": {
+        "Target": "Магистр{Line}Баламбского{Line}Сада. Борется{Line}за власть{Line}над Садом с{Line}директором Сидом.",
+        "Source Text SHA256": "45CA19409C92DF951F0E47F65BA90A5E2B5471BDBC668EA8F8B92E1280927101",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0094": {
+        "Target": "Солдат Эстара с{Line}ружьём и мечом.{Line}Выстрел из{Line}ружья наносит{Line}серьёзный{Line}урон, но сам{Line}солдат слаб.",
+        "Source Text SHA256": "E4ACD37264F2006231496A16DF2EFA191712AB16B4BDC23AAA9312727172F0CF",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0095": {
+        "Target": "Киборг в{Line}облике солдата{Line}Эстара, но{Line}куда сильнее.{Line}Применяет только{Line}физические атаки.",
+        "Source Text SHA256": "CBDCED5DB3A3DB1E1C53F015F6F349F6AEC973827A78C42FF44631EA4153F51C",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0096": {
+        "Target": "Система{Line}поддержки Норга.{Line}Автоматически{Line}восстанавливается{Line}после повреждений.{Line}Накладывает{Line}состояния.",
+        "Source Text SHA256": "4DF5E3F49F1933FA20D968D1CB84E44C04F00CE4F0B0EE1D3F47B55016A0E4EB",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0097": {
+        "Target": "Система{Line}поддержки Норга.{Line}Автоматически{Line}восстанавливается{Line}после повреждений.{Line}Применяет{Line}атакующую магию.",
+        "Source Text SHA256": "0A94ED53929F3B419183E55AB7029513A8C31783D55027618809E5337BEAAFA8",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0098": {
+        "Target": "НЕ ЯВЛЯЕТСЯ ЦЕЛЬЮ.",
+        "Source Text SHA256": "DCB951BB6113FEA30A3286D2113FB1EABE552D49CD09589CDC546DEE111F5F23",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0099": {
+        "Target": "Король тонберри.{Line}Появляется,{Line}чтобы отомстить{Line}за всех{Line}поверженных{Line}тонберри.",
+        "Source Text SHA256": "F049A59B6E573680361C98D3F1899AF23E968E7C58D72B72A5E32CC431E28F3A",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0100": {
+        "Target": "Некоторые кактуары{Line}живут долго и вырастают{Line}до огромных размеров.{Line}Этот гигантский{Line}кактуар — один из них.",
+        "Source Text SHA256": "D17EEB675D0B7CD3CC88761F3508B6584325D7ECAB7CA6230282E84E134DFB52",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0101": {
+        "Target": "Решил стать{Line}рыцарем{Line}волшебницы{Line}Эдеи. Сочетает{Line}огненную магию{Line}с ударами меча.",
+        "Source Text SHA256": "557AE0FCD06144AEC1B4C53E9A851165EE95AC93ECE5128BB18ED32992F6CF9F",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0102": {
+        "Target": "Сражается вместе{Line}с Эдеей, чтобы{Line}уничтожить SeeD.{Line}Отточил владение{Line}мечом и освоил{Line}новые умения.",
+        "Source Text SHA256": "48F8F10EFDFF2C1AD1F485D669F4041EF810A661C9A41DD30E4C5E0BE9099F52",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0103": {
+        "Target": "Уже проигрывал и{Line}всё ещё сражается{Line}ради чести. После{Line}поражения ЖЗ{Line}ниже, зато умения{Line}стали сильнее.",
+        "Source Text SHA256": "13294C4020FDC8DE6C745EAB0EBEE365B370AAE7B0CC35E9AFC4F6F869463A73",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0104": {
+        "Target": "Могущественная{Line}волшебница и{Line}правительница{Line}Галбадии.{Line}Возможно, её сила{Line}превосходит силу{Line}всех волшебниц мира.",
+        "Source Text SHA256": "4EAE3BC74DE421B1D7B452D5CB15EC308D4A0F884A4149C90BD821EC8CF94CA3",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0105": {
+        "Target": "Монстр с корабля{Line}«Рагнарёк».{Line}Очень агрессивен{Line}и нападает{Line}на всё, что{Line}движется{Line}внутри корабля.",
+        "Source Text SHA256": "D3180F857EF7DD41BD8354F7EA2CD9A1B43D4A707A30DBB58885C3F822838702",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0106": {
+        "Target": "Величайший{Line}и сильнейший{Line}монстр. Говорят,{Line}его невозможно{Line}победить.",
+        "Source Text SHA256": "7C48F128AC26CA98DBADC7123F4D19D7F92D8189ED1C7D9363FF4E716E4273C2",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0107": {
+        "Target": "Монстр из{Line}заброшенной{Line}башни связи{Line}Доллета. Никто{Line}не знает,{Line}откуда он{Line}появился.",
+        "Source Text SHA256": "B7A6F3AB6FD33794AEF48B07BFDE53453153459399AC69DE30584A258A82BA34",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0108": {
+        "Target": "Мобильное оружие{Line}Галбадии, известное{Line}как «Чёрная вдова».{Line}Не остановится,{Line}пока не уничтожит{Line}всех врагов на пути.",
+        "Source Text SHA256": "2F5A1C0E462719FEDD065A12EF5806CD638B3EA004A50867AE177097A3ECB469",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0109": {
+        "Target": "Мутировавшее{Line}украшение ворот.{Line}Накладывает{Line}Окаменение.{Line}Кто-то наделил его{Line}силой Отражения.",
+        "Source Text SHA256": "F8213F9AC152A2FDAB91CE18992B8E7265F734E8F9E31A207943DF827B646B10",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0110": {
+        "Target": "Крупный монстр,{Line}который атакует в{Line}основном магией.{Line}Физические удары{Line}злят его и могут{Line}вызвать контратаку.",
+        "Source Text SHA256": "B7F44CC38BAE5CCB04BA25229DE5842796B9E85228A9C5DB9DF1F7E5F4D37A35",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0111": {
+        "Target": "Крупный{Line}монстр-насекомое,{Line}уцелевший{Line}представитель{Line}древнего вида.{Line}Атакует большими{Line}шипами и хвостом.",
+        "Source Text SHA256": "5A5D23B92AFA203674CC66DBDBD00B3A8D4364E512B88959C97BDFAA13E40394",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0112": {
+        "Target": "Каменное{Line}тело кажется{Line}медлительным,{Line}но монстр очень{Line}быстр. Может{Line}появляться{Line}группами.",
+        "Source Text SHA256": "1D330AF37A908619E181AE169DD25CC4A2222D314CD8F69BC11FCA0A78A2C99F",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0113": {
+        "Target": "Монстр с корабля{Line}«Рагнарёк».{Line}Очень агрессивен{Line}и нападает{Line}на всё, что{Line}движется{Line}внутри корабля.",
+        "Source Text SHA256": "D3180F857EF7DD41BD8354F7EA2CD9A1B43D4A707A30DBB58885C3F822838702",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0114": {
+        "Target": "Монстр с корабля{Line}«Рагнарёк».{Line}Очень агрессивен{Line}и нападает{Line}на всё, что{Line}движется{Line}внутри корабля.",
+        "Source Text SHA256": "D3180F857EF7DD41BD8354F7EA2CD9A1B43D4A707A30DBB58885C3F822838702",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0115": {
+        "Target": "Живёт под{Line}землёй. Его{Line}скользкое{Line}тело наполнено{Line}маслом. Атакует,{Line}выплёвывая масло.",
+        "Source Text SHA256": "DF0D7187846E7997E1E64F5B6EE833FB9DB9803E0534A062A51C4AA32ABE27E7",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0116": {
+        "Target": "Волшебница,{Line}жаждущая захватить{Line}мир. Наняла силы{Line}Галбадийского Сада{Line}для уничтожения{Line}SeeD, стоящих{Line}у неё на пути.",
+        "Source Text SHA256": "F00D973826597ECDFCEBFB2E3A2F92A5887BDF9DAD294A20AF7681A13FB90C45",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0117": {
+        "Target": "За мощную броню{Line}его прозвали{Line}«Броненосцем».{Line}Главная{Line}пушка сильнее{Line}лучевой атаки{Line}X-ATM092.",
+        "Source Text SHA256": "FB8F0E844BAB6245675CB1479492F6EB5FD8FFD2DE1BBBC8CECBB18416E17014",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0118": {
+        "Target": "Вышел из-под{Line}контроля после{Line}разрушения на{Line}ракетной базе.{Line}Может сражаться{Line}только недолго.",
+        "Source Text SHA256": "A3D968A7EEE3227C776C51EA7B1B43382A672D47B8DB1198F44289BFB40A272C",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0119": {
+        "Target": "Монстр, возникший{Line}из древних костей{Line}в глубине Большого{Line}Солёного озера.{Line}Вероятно, ожил{Line}после того, как{Line}озеро высохло.",
+        "Source Text SHA256": "17E15E6C513B0A0E0D0375AC851790374E98A3E59D4DD4B49430CE3B22DA4961",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0120": {
+        "Target": "НЕ ЯВЛЯЕТСЯ ЦЕЛЬЮ.",
+        "Source Text SHA256": "DCB951BB6113FEA30A3286D2113FB1EABE552D49CD09589CDC546DEE111F5F23",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0121": {
+        "Target": "Его лучевые{Line}и лазерные{Line}атаки намного{Line}разрушительнее{Line}современного оружия.",
+        "Source Text SHA256": "F848658EAAD4953EE8CD5F7A3F98724820F1FAC59FF28B815D9008A16E5CF6CB",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0122": {
+        "Target": "Левое плечо{Line}Мобильной системы{Line}класса 8. Действует{Line}самостоятельно.{Line}Может атаковать{Line}и автоматически{Line}восстанавливаться.",
+        "Source Text SHA256": "481C0AEF5113D2B8EEB4044B67074C7B070D4EE312FFED918AF2790772ECD1B4",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0123": {
+        "Target": "Правое плечо{Line}Мобильной системы{Line}класса 8. Действует{Line}самостоятельно.{Line}Может атаковать{Line}и автоматически{Line}восстанавливаться.",
+        "Source Text SHA256": "9DEFAA7C508DC03FDD44104ABA77760E02883C89D0ED39755C942CAC92170961",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0124": {
+        "Target": "Солдат{Line}Галбадийского{Line}Сада, обученный{Line}засадным атакам.{Line}Намного сильнее{Line}обычных солдат{Line}Галбадии.",
+        "Source Text SHA256": "48B42863E3D4BB189F419216BDD7047684C02E99A7448E6429AB7D7C4935B816",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0125": {
+        "Target": "Ультимеция{Line}частично оживила{Line}это оружие{Line}будущего.{Line}Импульсная{Line}пушка уничтожает{Line}врагов на пути.",
+        "Source Text SHA256": "005F692CA5A530A66CBEB0D5CE3DE9BA1574983F419E94F588111FD7DE3C59E1",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0126": {
+        "Target": "Небольшая машина{Line}поддержки,{Line}порождённая{Line}Травмой. Несмотря{Line}на размер,{Line}тоже владеет{Line}Импульсной пушкой.",
+        "Source Text SHA256": "E896B25008F532B4815D8B401EE2B0A74ACB3B85D4B0B71622F41BB040AADC8C",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0127": {
+        "Target": "Монстр с корабля{Line}«Рагнарёк».{Line}Очень агрессивен{Line}и нападает{Line}на всё, что{Line}движется{Line}внутри корабля.",
+        "Source Text SHA256": "D3180F857EF7DD41BD8354F7EA2CD9A1B43D4A707A30DBB58885C3F822838702",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0128": {
+        "Target": "Правила Эстаром,{Line}пока Лагуна с{Line}союзниками не{Line}заточил её.{Line}Освобождена{Line}Ультимецией и{Line}возвращает себе силу.",
+        "Source Text SHA256": "1295BB02722DDF1D3229D9D8670C8A86E8CF482B52F98E549832E5CD7194DFCA",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0129": {
+        "Target": "{Char Rinoa} сейчас{Line}привязана к Адель.{Line}Не может двигаться:{Line}Адель поглощает{Line}её силу.{Line}Освободить её можно,{Line}победив Адель.",
+        "Source Text SHA256": "CA95E8C107C3D32D95E3241920EA55096BA52F07292470B416B02246A60B8C45",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0130": {
+        "Target": "Оружие Омега{Line}сильнее Оружия{Line}Ультима и считается{Line}сильнейшим{Line}монстром.{Line}Встреча с ним —{Line}большая неудача.",
+        "Source Text SHA256": "AFF9F2B6B731F4711871366E6F2658BF80A368E6F503CEAE77C9C3A1ADDE8DFC",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0131": {
+        "Target": "Волшебница из{Line}другого времени,{Line}появившаяся{Line}из-за Сжатия{Line}времени. Владеет{Line}магией, но та не{Line}слишком сильна.",
+        "Source Text SHA256": "EA0342E46711B124514388823DB0DB18648AFEDDB897BA8D20A1B36517306349",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0132": {
+        "Target": "Волшебница из{Line}другого времени,{Line}появившаяся{Line}из-за Сжатия{Line}времени. Владеет{Line}магией, но та не{Line}слишком сильна.",
+        "Source Text SHA256": "EA0342E46711B124514388823DB0DB18648AFEDDB897BA8D20A1B36517306349",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0133": {
+        "Target": "Волшебница из{Line}другого времени,{Line}появившаяся{Line}из-за Сжатия{Line}времени. Владеет{Line}магией, но та не{Line}слишком сильна.",
+        "Source Text SHA256": "EA0342E46711B124514388823DB0DB18648AFEDDB897BA8D20A1B36517306349",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0134": {
+        "Target": "Неопознанный{Line}летающий объект{Line}из космоса.",
+        "Source Text SHA256": "E7DFF9F1376AADBD261998A6608994ACDA17A7EB3CC8061E4944E77E7ECD471B",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0135": {
+        "Target": "По приказу{Line}Сейфера ищет{Line}Эллону. Владеет{Line}магией ветра{Line}и атакует{Line}Вертушкой.",
+        "Source Text SHA256": "331EF2408249BE9E84936D27EF9F5F8D56E26D2998E79135429FC73A552C1627",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0136": {
+        "Target": "Ищет Эллону{Line}вместе с{Line}Фудзин. Силён{Line}в физических{Line}атаках. Старается{Line}казаться крутым{Line}перед другими.",
+        "Source Text SHA256": "B087AE19B3BB52A1913966E3CCAA31DB4A6276118E01525901AFCA276B2691A5",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0137": {
+        "Target": "Волшебница{Line}хочет изменить{Line}мир, сжав{Line}время и забрав{Line}силу всех{Line}волшебниц.",
+        "Source Text SHA256": "DB1E31DA183F2BEBCC93CFCAEFA1977D5C5CD47E5A13D4DA787D170FC4A5E370",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0138": {
+        "Target": "В представлении {Char Squall}{Line}это сильнейший{Line}Страж.{Line}Сила Ультимеции{Line}позволяет ему{Line}продолжать бой{Line}и не исчезать.",
+        "Source Text SHA256": "D05D28272451D83A97E558EE0FFB21A68BFE3492B9462C8E53292B651506A087",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0139": {
+        "Target": "НЕ ЯВЛЯЕТСЯ ЦЕЛЬЮ.",
+        "Source Text SHA256": "DCB951BB6113FEA30A3286D2113FB1EABE552D49CD09589CDC546DEE111F5F23",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0140": {
+        "Target": "Ультимеция связалась{Line}с {Char UnknownCharacter3}.{Line}Могучий монстр{Line}соединяет{Line}силы Ультимеции{Line}и {Char UnknownCharacter3}{Line}воедино.",
+        "Source Text SHA256": "6E89294156CED5FB2A8CD7C839EF2DE2B46DF530F838ECC7FDE9543529B4CB4E",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0141": {
+        "Target": "Усилитель магии{Line}Ультимеции.{Line}Два усилителя{Line}вместе могут{Line}значительно{Line}повысить её силу.",
+        "Source Text SHA256": "BD08AC8E6D21FABF9311402CCB712C08B813DAE5D7F73B751298A919981F7405",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0142": {
+        "Target": "Ультимеция{Line}преобразилась,{Line}чтобы поглотить{Line}всё время и{Line}пространство.{Line}Она уже поглощает{Line}всё сущее.",
+        "Source Text SHA256": "820E901A166683D66BADE06ECD763F9FCA49F269DC7E9D4F7BC27D4D570C5ECC",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0143": {
+        "Target": "Источник магии{Line}Ультимеции. Сила,{Line}рождающаяся{Line}здесь, позволяет{Line}ей применять{Line}сильнейшую{Line}магию.",
+        "Source Text SHA256": "2BB7C6145EB7F5A32434A78ACC9BEB97FC920F8725949360D8576121414F6664",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0144": {
+        "Target": "Готов победить{Line}любой ценой ради{Line}чести рыцаря{Line}волшебницы. Его{Line}приёмы стали{Line}ещё опаснее.",
+        "Source Text SHA256": "4174CFADECBDFD5216F04E573D38AD3521A16E1DA58B67CE99F0843901A749FB",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0145": {
+        "Target": "Участник хоккейного{Line}клуба полулюдей{Line}Галбадийского{Line}Сада. Атакует{Line}быстро и слаженно{Line}вместе с командой.",
+        "Source Text SHA256": "004EF0D3942A8F154CF3D387B7838ECE9C73EA037BA3B6D7EEEDEDA66155A2C7",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0146": {
+        "Target": "Гигантская{Line}машина на{Line}магической{Line}энергии. Защиту{Line}трудно пробить{Line}без магии{Line}или Стражей.",
+        "Source Text SHA256": "CF556591B9B3BC21CC993DB7675B773CD8F597C94BF60CB4B279BDBBAEB14BAF",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0147": {
+        "Target": "Могучий монстр.{Line}Владеет магией{Line}и атакует{Line}Иглой хвоста,{Line}наносящей{Line}огромный урон.",
+        "Source Text SHA256": "11DB74650F56129ADCB36DDC4D5350BEA73403B4572634E05FEB0BA5348610D8",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0148": {
+        "Target": "Был Стражем, но{Line}сила Ультимеции{Line}превратила{Line}его в монстра.{Line}Тёмная вспышка{Line}уничтожает{Line}всех врагов.",
+        "Source Text SHA256": "243577BA72ED394F654109C4A4D569D2D86B6CB187A23E9032FFBAF9F6FC1FA8",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0149": {
+        "Target": "Использует{Line}магию и{Line}физические{Line}атаки. Благодаря{Line}магии молнии{Line}наносит{Line}больше урона.",
+        "Source Text SHA256": "10F034404BAC713B54E4120AD48F8E76C58841437473A1A355B3C20E1FCE5A21",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0150": {
+        "Target": "Его понизили вместе{Line}с Биггсом за участие{Line}в операции на башне{Line}связи Доллета.{Line}К несчастью, всё{Line}ещё служит под{Line}началом Биггса.",
+        "Source Text SHA256": "56D0298AFF10F8259FF8758F8CBBE52F440CE60465D2EF61385EA4D527FB7E59",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0151": {
+        "Target": "Во время{Line}операции на башне{Line}связи Доллета{Line}был майором.{Line}После провала{Line}его понизили.{Line}Ненавидит SeeD.",
+        "Source Text SHA256": "8DCA65DA1CDA240E3F48C762E25D8735E90C865D06F48314F34481F8003B8C7C",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0152": {
+        "Target": "Помогает Сейферу{Line}внутри Лунатической{Line}Пандоры. Применяет{Line}магию поддержки{Line}и атакующие{Line}заклинания.",
+        "Source Text SHA256": "351403ECC8E5737D0C451F27F9B3DEC5536D5BFB55B41EF0479444D8BE6EB115",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0153": {
+        "Target": "Работает с Фудзин{Line}и Сейфером.{Line}По-прежнему{Line}полагается на силу,{Line}но теперь владеет{Line}и магией поддержки.",
+        "Source Text SHA256": "8861FBFCFC38FC4FFF834C1403038A5AC8965E9C2DD49EAEC43109131220C5C6",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0154": {
+        "Target": "НЕ ЯВЛЯЕТСЯ ЦЕЛЬЮ.",
+        "Source Text SHA256": "DCB951BB6113FEA30A3286D2113FB1EABE552D49CD09589CDC546DEE111F5F23",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0155": {
+        "Target": "НЕ ЯВЛЯЕТСЯ ЦЕЛЬЮ.",
+        "Source Text SHA256": "DCB951BB6113FEA30A3286D2113FB1EABE552D49CD09589CDC546DEE111F5F23",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0156": {
+        "Target": "НЕ ЯВЛЯЕТСЯ ЦЕЛЬЮ.",
+        "Source Text SHA256": "DCB951BB6113FEA30A3286D2113FB1EABE552D49CD09589CDC546DEE111F5F23",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0157": {
+        "Target": "НЕ ЯВЛЯЕТСЯ ЦЕЛЬЮ.",
+        "Source Text SHA256": "DCB951BB6113FEA30A3286D2113FB1EABE552D49CD09589CDC546DEE111F5F23",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0158": {
+        "Target": "Монстр,{Line}выдававший себя{Line}за президента{Line}Делинга. Атакует{Line}уродливыми{Line}руками и меняет{Line}состояние целей.",
+        "Source Text SHA256": "702147EF873DD596068FEB3B3EEB813D26E5503D267D3F442EC4992CF743DBF1",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      },
+      "$en_scan_monsters_0159": {
+        "Target": "Солдаты охраны{Line}ракетной базы{Line}Галбадии.{Line}Получают чуть{Line}больше обычных{Line}галбадийских солдат.",
+        "Source Text SHA256": "864D67988ECD0A9F0D867A6FEDC338CFF153F51BF8867F82BB2C5D084EC0B7F5",
+        "sourceContext": {
+          "Source SHA256": "0001A9E3D758106BF6C3D0069C40223A2748BD486C481B76C6E30C02D10061D8"
+        }
+      }
+    }
+  }
+}

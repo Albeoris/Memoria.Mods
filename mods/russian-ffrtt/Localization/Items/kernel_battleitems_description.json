@@ -1,0 +1,230 @@
+{
+  "Items": {
+    "kernel_battleitems_description": {
+      "$en_kernel_battleitems_description_0001": {
+        "Target": "Восстанавливает 200 ЖЗ",
+        "Source Text SHA256": "EF3ABD791C99331DD5E8A692E78D3C005968FE618578203E0FB3A6FCFC15F688",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0002": {
+        "Target": "Восстанавливает 400 ЖЗ",
+        "Source Text SHA256": "EABF48FEE9D7A6A37F4A6BFD39B8FC03F3B9728F96C003AA2F19BCCD839627E9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0003": {
+        "Target": "Восстанавливает 1000 ЖЗ",
+        "Source Text SHA256": "2797E5FA69801E625753798D3BEB66DE297DDE4B8BDEDF194DD44B3C9EA8B7D9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0004": {
+        "Target": "Восстанавливает 2000 ЖЗ",
+        "Source Text SHA256": "A11CF69E3F0D720F3006B84DB5D4E360ABBBFC7503CBD3AFC66BFA3183098708",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0005": {
+        "Target": "Полностью восстанавливает ЖЗ",
+        "Source Text SHA256": "B206F4B76386F7C8383E0FC34DD56C1A874C06C353A874246215CCC9D01F8606",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0006": {
+        "Target": "Восстанавливает 1000 ЖЗ всему отряду",
+        "Source Text SHA256": "21B72F707DB51C12CC4A4B4D9CA2F1F962F2F2A41B8349610150AFB2462818CD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0007": {
+        "Target": "Выводит из нокаута",
+        "Source Text SHA256": "6A9A0A5EBF23B720BC625081C5D9B6F73451DAD11FB2DC5C4C3BF71BADA3235F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0008": {
+        "Target": "Выводит весь отряд из нокаута",
+        "Source Text SHA256": "7290297B5922E6E23C0C4C7014564087144E33085AFB9363E81E7D0C7CE1DEA5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0009": {
+        "Target": "Полностью восстанавливает ЖЗ и снимает отрицательные состояния",
+        "Source Text SHA256": "173013493A9F721B55E169B14EB98DB8EE85C05F3FE491E37A2C03C8EDDE65D9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0010": {
+        "Target": "Полностью восстанавливает ЖЗ и снимает отрицательные состояния у всего отряда",
+        "Source Text SHA256": "FE630653D3FC58B497D80DCF6986869985C1D62DD3589D496B1D0539A9A56CF1",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0011": {
+        "Target": "Снимает Отравление",
+        "Source Text SHA256": "60C0C75BF7DB4F80B2CDA3F3A6DF4AB17181761C222C6ED19F47D4E9D900F718",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0012": {
+        "Target": "Снимает Окаменение",
+        "Source Text SHA256": "4C4F28A02C3E2EE90FBC8CF9C62CDFEBE74E501500922EF3D8753CB2A5F86373",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0013": {
+        "Target": "Снимает Ослепление",
+        "Source Text SHA256": "E9323E66B30EEA0C7B482AB6E5762609E0B79B802AC321F0467FF40F42725641",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0014": {
+        "Target": "Снимает Безмолвие",
+        "Source Text SHA256": "938D69773B690F2E299AE874660DECF10FB0920B8E6B0A5FE2FE1D17DDDCEA88",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0015": {
+        "Target": "Снимает Зомби и Проклятие",
+        "Source Text SHA256": "6EB4542AE0B2C94E710A18C8DE97DC959F561A3983CD28258DF3AEB3372AAD23",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0016": {
+        "Target": "Снимает отрицательные состояния",
+        "Source Text SHA256": "CC661911CBBAFE7C3029672411D6D9C14F14FC1C776E237163209013827E9A12",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0017": {
+        "Target": "Снимает отрицательные состояния и магические эффекты",
+        "Source Text SHA256": "A465679C08E2DC0853A9529B2FCB9A07977841E5762F590962C49A34814CABB6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0018": {
+        "Target": "Иногда делает персонажа неуязвимым",
+        "Source Text SHA256": "BC04310F5EFCE3BC244A35F12840A7C26E639EC1E9F2B69066D9F255CB1AD30E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0019": {
+        "Target": "Делает персонажа неуязвимым",
+        "Source Text SHA256": "2C6E034052D0DF1E311BC50F222995850D9306A9B2B0C5CE79DD35DF7A6AF8B3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0020": {
+        "Target": "Иногда делает весь отряд неуязвимым",
+        "Source Text SHA256": "A77CE0BD39FED46900BD22C74B436024752713C2F36C9BA416C65A5C308301FB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0021": {
+        "Target": "Делает весь отряд неуязвимым",
+        "Source Text SHA256": "7EF10E1767DB999A8661492CB820580A630F12374B08CC16088C16FFBF2A8725",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0022": {
+        "Target": "Даёт тот же эффект, что «Оболочка»",
+        "Source Text SHA256": "78DACD677A2432E6FB872A16CFDD66D2FBC80BF558269DFA1CEDCB0CB7948B3E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0023": {
+        "Target": "Даёт тот же эффект, что «Защита»",
+        "Source Text SHA256": "93F1BF3047C9D8765D6194C463D518003175A12903F3C177544A0DC81AD9CD56",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0024": {
+        "Target": "Даёт тот же эффект, что «Аура»",
+        "Source Text SHA256": "5EC359BB238646B03C8176443B8A1ADA2D89053A0179E6E3731F2CF4AC8EC11D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0025": {
+        "Target": "Даёт тот же эффект, что «Смерть»",
+        "Source Text SHA256": "4ED6517B9FD7F78131B1335799AEB462E7C147CC2E907B3DA8BBA6A4002F01B7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0026": {
+        "Target": "Даёт тот же эффект, что «Святость»",
+        "Source Text SHA256": "157569EE2C6F2893FFA7509100D460EFCFBB8BBABAFD1D9B24D9982E26D4281E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0027": {
+        "Target": "Даёт тот же эффект, что «Взрыв»",
+        "Source Text SHA256": "E4944B2891C875FBF10BDAD43385D16DF8D0C00A8B0670564C9BD7592B985632",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0028": {
+        "Target": "Даёт тот же эффект, что «Метеор»",
+        "Source Text SHA256": "3243610068F446D63D4D8F1DE0BE674E2967A7AB95C688C663636FA0A8B5EF35",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0029": {
+        "Target": "Даёт тот же эффект, что «Ультима»",
+        "Source Text SHA256": "923A23DDD32DF46FD43FDDE16912038CB90612BB7D92DCC5A8CF60FF39E6AB8B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0030": {
+        "Target": "Как-то связано с чокобо...?",
+        "Source Text SHA256": "5BF416C6EAEB03BAC13F9C0460F438E6E9CAF892E122C3E556991DA28CAA7CCF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0031": {
+        "Target": "При использовании в бою...",
+        "Source Text SHA256": "43044CEE3364A9C23EFCDC1C59E35D48C0D7672477F3446B2399864B583DE288",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battleitems_description_0032": {
+        "Target": "При использовании в бою...",
+        "Source Text SHA256": "43044CEE3364A9C23EFCDC1C59E35D48C0D7672477F3446B2399864B583DE288",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

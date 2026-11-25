@@ -1,0 +1,174 @@
+{
+  "Tutorials": {
+    "mngrp_slot088_table": {
+      "$en_mngrp_slot088_table_0000": {
+        "Target": "Окно состояния",
+        "Source Text SHA256": "71C26707ED3D42B79C68790155B29D713E07C5870D34F41C490E6E77D2B2884E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0001": {
+        "Target": "  Урок боя 1/8",
+        "Source Text SHA256": "04F51A7DBB860F417A7D7E5F8C0B39CD08F224D34FF31E1BBF62A9977A94727B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0002": {
+        "Target": " В бою показано окно состояния персонажей{Line}с ЖЗ и шкалами ATB.{Line} Когда шкала ATB заполнится, персонаж может действовать.{Line}",
+        "Source Text SHA256": "226E8C99AEB93ED686D42BC0D2933C0739FAEABBBE5573F6A20725069331F24E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0003": {
+        "Target": "Окно команд",
+        "Source Text SHA256": "5AF569206235B6EA5EE9BF622AF3ACA3C3E3BC3C0432714CFB49AA0CAB4FC273",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0004": {
+        "Target": "  Урок боя 2/8",
+        "Source Text SHA256": "A36DF9B1C750973923AEDDCF4E40F07710BCBD4115F2B17AB255C0DBA0E25A66",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0005": {
+        "Target": " Когда шкала ATB заполнится,{Line}появятся команды.{Line} Выберите команду{Line}кнопками направления.{Line} Нажмите {Key Confirm}, чтобы{Line}подтвердить выбор.{Line} Нажмите {Key EndKey}, когда курсор{Line}на экране, чтобы увидеть{Line}подсказку.{Line}",
+        "Source Text SHA256": "D67E2A53E87055F177153E398E330961E003284913008CE46610E91483DA450E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0006": {
+        "Target": "Применение магии",
+        "Source Text SHA256": "A7B0596E4FCE3608006F353CEA0AFD5494B6F8E64F5B261374D51464817569AB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0007": {
+        "Target": "  Урок боя 3/8",
+        "Source Text SHA256": "2E8FA79D8806AAB3E2497CB488E7DC6440B46B7E0E1868366891A35B596D9B2D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0008": {
+        "Target": " Для команды {Color Blue}Магия{Color White} выберите{Line}заклинание и{Line}цель.{Line} Рядом с названием{Line}заклинания показан{Line}его запас.{Line} Значок {Key JunctionMarker} означает, что{Line}заклинание привязано.{Line}",
+        "Source Text SHA256": "C4700241B599988E5588B992773F4DE3E6F316AE1F44C08C83CC70EFA70F937C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0009": {
+        "Target": "Использование предметов",
+        "Source Text SHA256": "4F73946A8C938C424616806A3424B77E9B8B7DA18B8134C7C8284CBD25A68963",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0010": {
+        "Target": "  Урок боя 4/8",
+        "Source Text SHA256": "F2F1B4B5D44A97AA2037EEA4C5B235CEAEFE42FC8B8D58ADFFF6309BBAD3210B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0011": {
+        "Target": " Выбрав {Color Blue}Предмет{Color White},{Line}укажите нужный предмет{Line}и цель.{Line} Число рядом{Line}с предметом показывает{Line}его количество{Line}у отряда.{Line}",
+        "Source Text SHA256": "E5085744DE98BDEE7D79EFD6983E0EE1EFF3B410A511F5DF98BEED4B6EE27718",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0012": {
+        "Target": "Призыв Стражей",
+        "Source Text SHA256": "AB51A14AD85E5EFFABCF8928D4E696C5759464D4049631FF84681D62F55B03C0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0013": {
+        "Target": "  Урок боя 5/8",
+        "Source Text SHA256": "75C14475B9AACAC5F7B3EFDFF84D77AA223D8CDB4AACBAF6BF0DE608FD453F84",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0014": {
+        "Target": " Команда {Color Blue}Стражи{Color White} призывает{Line}Стража, привязанного{Line}к персонажу.{Line}Выберите Стража{Line}и цель.{Line} Число рядом{Line}с именем Стража{Line}показывает его ЖЗ.{Line}",
+        "Source Text SHA256": "D88CC5F4D58E54D2D58191708F789336FFDE2DA54E06F6FE5D930DA2C336E280",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0015": {
+        "Target": "Извлечение",
+        "Source Text SHA256": "61517C08B3BF84B42AC5A38367A9CA07DBC54E9C00EE92DF09DEBE4F38DF34D4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0016": {
+        "Target": "  Урок боя 6/8",
+        "Source Text SHA256": "633633BC81EDD0ADFAFF6DBE49157D22C9380EE65FA77E593109EE277086F028",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0017": {
+        "Target": " {Color Blue}Извлечение{Color White} позволяет получить магию{Line}из врагов.{Line} Выберите цель{Line}и заклинание, затем {Color Blue}В запас{Color White} или{Line}{Color Blue}Применить{Color White}.{Line} {Color Blue}В запас{Color White} сохранит{Line}заклинание, а {Color Blue}Применить{Color White} сразу{Line}использует его.{Line}",
+        "Source Text SHA256": "CDA0A1F8BC92841BB9EC75EA862A2179D55641200BF44A74425BBF181E35B4C2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0018": {
+        "Target": "Предельный удар",
+        "Source Text SHA256": "D3A9A42A63A9A1E48FD55F35DDBDB87D5F2ADEF7321C0B8C63C6729B283251CB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0019": {
+        "Target": "  Урок боя 7/8",
+        "Source Text SHA256": "58B491CD964C4A6D137109F8DE91B98373E3DA0930BC813178522C80B91EEC3E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0020": {
+        "Target": " При низких ЖЗ значок {Key 66}{Line}может появиться рядом с командой {Color Blue}Атака{Color White}.{Line} Нажмите кнопку направления{Line}вправо.{Line} Новая команда{Line}мощнее обычной{Line}{Color Blue}Атаки{Color White}.{Line} Это предельный удар.{Line}",
+        "Source Text SHA256": "9A6AE4AFD14131E4AF48DABF2D1E4E3BA2253944A9746C24BCFEE110A35D6958",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0021": {
+        "Target": "Прочее",
+        "Source Text SHA256": "5CB0B42660589925C804543D433BA0764DAB859487E5A9ED855481DCBFEC1F06",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0022": {
+        "Target": "  Урок боя 8/8",
+        "Source Text SHA256": "13C42EB34C7139918B9145868D75A7762935E6D532690DE7762AC37882D0498F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot088_table_0023": {
+        "Target": "{Line}-Нажмите {Key 34}, чтобы выбрать{Line} цель в окне.{Line}-Чтобы сбежать, удерживайте {Key EscapeKey1} и {Key EscapeKey2}.{Line} Из некоторых боёв{Line} сбежать нельзя.{Line}-Опыт начисляется и после побега,{Line} если вы нанесли врагу урон.",
+        "Source Text SHA256": "38ECAE2375B1F3BD7F7DBD29DB84BBDD19D10368B8312E80742142412DA19019",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

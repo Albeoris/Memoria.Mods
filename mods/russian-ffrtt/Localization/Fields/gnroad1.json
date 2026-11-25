@@ -1,0 +1,62 @@
+{
+  "Fields": {
+    "gnroad1": {
+      "$en_gnroad1_0000": {
+        "Target": "{X12Y12}(Здесь что-то написано... Не{Line} могу прочесть.){End}",
+        "Source Text SHA256": "5573C2B57A5E4B231D95E98B13C556C9631F3451A3E8A970C7E821838433D5DD",
+        "sourceContext": {
+          "Source MSD SHA256": "E6BD5D6DD0F087FDD63F517CA4679D5D5B2C24F7206A04FEB6A86C3E27746E15",
+          "JSM SHA256": "A48150E3ED274DF1D1146A13BDA9D59AF82DECD42476DD8D1A764062C67BC472"
+        }
+      },
+      "$en_gnroad1_0001": {
+        "Target": "{X12Y12}(...?{Line} (?.. А вот внизу можно разобрать.){End}",
+        "Source Text SHA256": "3A4DD4360231D0C821072F45C995E9F7EFDD66ECDE46B254F209CD5EE751C4A8",
+        "sourceContext": {
+          "Source MSD SHA256": "E6BD5D6DD0F087FDD63F517CA4679D5D5B2C24F7206A04FEB6A86C3E27746E15",
+          "JSM SHA256": "A48150E3ED274DF1D1146A13BDA9D59AF82DECD42476DD8D1A764062C67BC472"
+        }
+      },
+      "$en_gnroad1_0002": {
+        "Target": "{X12Y12}(Здесь что-то написано...{Line} Не могу прочесть.){End}",
+        "Source Text SHA256": "FFB2FF5CD9D73A9C9DB33C22EF68114BB2DC32DBEFF780C26D4E0364C7CC3EA2",
+        "sourceContext": {
+          "Source MSD SHA256": "E6BD5D6DD0F087FDD63F517CA4679D5D5B2C24F7206A04FEB6A86C3E27746E15",
+          "JSM SHA256": "A48150E3ED274DF1D1146A13BDA9D59AF82DECD42476DD8D1A764062C67BC472"
+        }
+      },
+      "$en_gnroad1_0003": {
+        "Target": "{X12Y12}(?.. А вот внизу{Line} можно разобрать.){End}",
+        "Source Text SHA256": "385B11D05044F4ED0042C810DB3F47A304304A2AE13A867EE349FB9494C272D9",
+        "sourceContext": {
+          "Source MSD SHA256": "E6BD5D6DD0F087FDD63F517CA4679D5D5B2C24F7206A04FEB6A86C3E27746E15",
+          "JSM SHA256": "A48150E3ED274DF1D1146A13BDA9D59AF82DECD42476DD8D1A764062C67BC472"
+        }
+      },
+      "$en_gnroad1_0004": {
+        "Target": "{X37Y20}Мне кажется, что я пробыл{Line} здесь уже целую{Line} вечность. Я{Next}всё ещё не{Line} могу найти то, что{Line} меня просили. Я{Next}больше не могу, ни физически,{Line} ни морально. Я не гожусь{Next}для того, чтобы{Line} быть Сидом.{End}",
+        "Source Text SHA256": "59B3CA9CABB43E9045E8E63C95BF45732C2CECC7806E2E0B33516229BA66D0C0",
+        "sourceContext": {
+          "Source MSD SHA256": "E6BD5D6DD0F087FDD63F517CA4679D5D5B2C24F7206A04FEB6A86C3E27746E15",
+          "JSM SHA256": "A48150E3ED274DF1D1146A13BDA9D59AF82DECD42476DD8D1A764062C67BC472"
+        }
+      },
+      "$en_gnroad1_0005": {
+        "Target": "{X46Y20}Это место{Line} –{Next}сплошной лабиринт,{Line} полный{Next}опасностей. Путь к{Line} выходу следующий:{End}",
+        "Source Text SHA256": "FB4FE3DD11D874075273C3593B1BE24044A24A8EBA6F0AE90924C017057EEC0B",
+        "sourceContext": {
+          "Source MSD SHA256": "E6BD5D6DD0F087FDD63F517CA4679D5D5B2C24F7206A04FEB6A86C3E27746E15",
+          "JSM SHA256": "A48150E3ED274DF1D1146A13BDA9D59AF82DECD42476DD8D1A764062C67BC472"
+        }
+      },
+      "$en_gnroad1_0006": {
+        "Target": "{X42Y74F2L3B3C3}Покинуть подземелье?{Line}{Color Yellow}〖Ранг SeeD снизится на 1!〗{Color White}{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "6133FF0FF5D02897AE5769F6F530ABD37686671E62EF4EA6B45CA8F106CAF049",
+        "sourceContext": {
+          "Source MSD SHA256": "E6BD5D6DD0F087FDD63F517CA4679D5D5B2C24F7206A04FEB6A86C3E27746E15",
+          "JSM SHA256": "A48150E3ED274DF1D1146A13BDA9D59AF82DECD42476DD8D1A764062C67BC472"
+        }
+      }
+    }
+  }
+}

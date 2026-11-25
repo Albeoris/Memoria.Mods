@@ -1,0 +1,30 @@
+{
+  "Fields": {
+    "rgroad1": {
+      "$en_rgroad1_0000": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "532EAABD9574880DBF76B9B8CC00832C20A6EC113D682299550D7A6E0F345E25",
+        "sourceContext": {
+          "Source MSD SHA256": "7B1B85FCAB44EBC2BF3B753B58EF8BDA22B6CC3630FADDE7EFD7652B148F9DA4",
+          "JSM SHA256": "BF7959B0462A0573393227B031BA81677E5CC10425BE78186853098DBE66979C"
+        }
+      },
+      "$en_rgroad1_0001": {
+        "Target": "{X75Y8}[Защитная блокировка снята]{End}",
+        "Source Text SHA256": "B0E0337AF70C75D11A012858554B14A60A244DA54BEA2A8906B8EB7298E8AF75",
+        "sourceContext": {
+          "Source MSD SHA256": "7B1B85FCAB44EBC2BF3B753B58EF8BDA22B6CC3630FADDE7EFD7652B148F9DA4",
+          "JSM SHA256": "BF7959B0462A0573393227B031BA81677E5CC10425BE78186853098DBE66979C"
+        }
+      },
+      "$en_rgroad1_0002": {
+        "Target": "{X30Y8}[Включена аварийная система защиты.{Line} Доступ в кабину закрыт{Line} до устранения всех угроз.]{End}",
+        "Source Text SHA256": "588000EC3B3D534341A8A4D038256F42294CDA0B731CDD978C504CDC5F23AEE1",
+        "sourceContext": {
+          "Source MSD SHA256": "7B1B85FCAB44EBC2BF3B753B58EF8BDA22B6CC3630FADDE7EFD7652B148F9DA4",
+          "JSM SHA256": "BF7959B0462A0573393227B031BA81677E5CC10425BE78186853098DBE66979C"
+        }
+      }
+    }
+  }
+}

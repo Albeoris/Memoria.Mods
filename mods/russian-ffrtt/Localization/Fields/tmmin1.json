@@ -1,0 +1,566 @@
+{
+  "Fields": {
+    "tmmin1": {
+      "$en_tmmin1_0000": {
+        "Target": "{X60Y0}Ремесленник{Line}«Надо Ремесленнику прожить этот день с толком.{Line} Кто знает, когда Ремесленник преобразится».{End}",
+        "Source Text SHA256": "6F376C2732996F9AD27E8DF57CB449CC442F610B983D07428051FFDA07C7FB2B",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0001": {
+        "Target": "Ремесленник{Line}«Ремесленник уже сказал тебе: нет».{End}",
+        "Source Text SHA256": "7D3D825CC88520009768C910CFF9BC177C3C264E8FA85EC91BC629C3E87CE133",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0002": {
+        "Target": "{X80Y50}{Char Squall}{Line}«Это вы сделали?»{End}",
+        "Source Text SHA256": "F61AADCF89ED586A66236E78521FFE0F609677081FDB348449117CF57D968CE8",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0003": {
+        "Target": "{X60Y0}Ремесленник{Line}«…Да. Ремесленник послал это{Line} в подарок другу. Откуда оно у вас?»{End}",
+        "Source Text SHA256": "311C3FD6D6E5957608673F2069B35BEBEC59D97E4BC1215730A64FCFEC9C03C1",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0004": {
+        "Target": "{X60Y0}Ремесленник{Line}«?.. Ах вот оно что…{Line} Он записал туда послание».{End}",
+        "Source Text SHA256": "BBF2D900BF4CA6DFAD69E8D9B9BE29CCF0DC6ECE657511AE06ED6665FF778830",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0005": {
+        "Target": "{X35Y50}Голос Механика-умельца{Line}«{Color Yellow}Эй, как дела, брат? Напрямую{Line} с тобой не связаться, так что вот тебе запись{Color White}».{End}",
+        "Source Text SHA256": "FB41A1DDEAF4C2482CD5C57EA124A4D164351FC6D7D0D0F13C24D70122458C1C",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0006": {
+        "Target": "{X80Y0}Ремесленник{Line}«Ох, как приятно снова слышать голос Механика».{End}",
+        "Source Text SHA256": "BCC44064D64CD7BE80CE29166FBAB71B462B6935CF4BAC2C77342B1017EC87CE",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0007": {
+        "Target": "{X30Y50}Голос Механика-умельца{Line}«{Color Yellow}Слыхал, вы там что-то мастерите.{Line} Чего тянешь? Бери да делай!{Color White}»{End}",
+        "Source Text SHA256": "5326954A66AF1C21036D89383222C5B4C90C8A8D4B9F91A26D057234C7624131",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0008": {
+        "Target": "{X70Y50}Голос Механика-умельца{Line}«{Color Yellow}Да, брат, я понимаю, что ты чувствуешь…{Color White}»{End}",
+        "Source Text SHA256": "3F7931C4470A18B8955622088855B9E390452CB9F587B97659DC19509DAE0D63",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0009": {
+        "Target": "{X70Y50}Голос Механика-умельца{Line}«{Color Yellow}Но ты же ремесленник.{Line} Тебе положено…{Color White}»{End}",
+        "Source Text SHA256": "1BB53C461AE64328C56E9F95DBD20671054356F2D326D3C414D42C52A9FD26B1",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0010": {
+        "Target": "{X70Y50}Голос Механика-умельца{Line}«{Color Yellow}…Ну да. Понимаешь, о чём я?{Color White}»{End}",
+        "Source Text SHA256": "8AF0FE291F2B177522FEE187E8F097B22DEAA543EE1FECDEA2994CC1CDEA1EBF",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0011": {
+        "Target": "{X80Y50}{Char Squall}{Line}«…Пожалуй, дальше он сам».{End}",
+        "Source Text SHA256": "3E24338F7BBD156DFBBCEFE95DBF1CA8254B51B13F73B37D54088BC067294147",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0012": {
+        "Target": "{X60Y0}Ремесленник{Line}«Помочь в мастерской? Ремесленник не может…{Line} У Ремесленника ещё столько дел,{Line} пока Ремесленник не стал Мумбой».{End}",
+        "Source Text SHA256": "9F9C6A29C929899C6FDEFCC132670272ECB73B8C4997E9AE0119EF4F6E91DC2D",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0013": {
+        "Target": "{X60Y0}Ремесленник{Line}«Они опять взялись за статую…{Line} Ремесленник надеется, что его не позовут».{End}",
+        "Source Text SHA256": "694FC9FF874A0B2D6C118F7D49BD2D007FAB45DD1D67BD781999D61CAC5375F7",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0014": {
+        "Target": "{X60Y0}Ремесленник{Line}«Ремесленнику хотелось бы когда-нибудь{Line} снова навестить тех мастеров».{End}",
+        "Source Text SHA256": "B8E550E47E5808F01807D8B562A180F4836B863EA4A10AB3751C31946DAAC6BF",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0015": {
+        "Target": "{X60Y80}Ремесленник{Line}«Вы из-за пределов деревни?»{End}",
+        "Source Text SHA256": "98A973443864E28A68CFE4EC406E7D0F03D397C650352D95435E6990B12B4364",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0016": {
+        "Target": "{X60Y80}Ремесленник{Line}«У большинства из нас невысокое{Line} мнение о внешнем мире».{Next}«Но Ремесленник знает,{Line} что и там есть хорошее».{End}",
+        "Source Text SHA256": "6004D58C8A3ABB93EA3612DD991A1761084D4B8E0FEB753A57D79C7710CDA068",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0017": {
+        "Target": "{X60Y80}Ремесленник{Line}«Однажды Ремесленник оказался в одном{Line} до жути грязном захолустье. Там ему встретились{Line} чудесные люди. Их звали ремесленниками».{End}",
+        "Source Text SHA256": "1777C027364094600DD4C50D0E97969DAB4CDD42BC863AF288C075667803EB7A",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0018": {
+        "Target": "{X60Y80}Ремесленник{Line}«Мы родственные души,{Line} ремесленники и Шуми».{Next}«Уже одно то, что за пределами{Line} деревни есть такие люди,{Line} многого стоит».{End}",
+        "Source Text SHA256": "DD440C4C852B9F3B9BB9ABAB4FD9F43AF35C688C38D914B0AEC1EBBFE6C890CF",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0019": {
+        "Target": "{X60Y80}Ремесленник{Line}«С тех пор эти ремесленники{Line} сильно повлияли на мою работу».{End}",
+        "Source Text SHA256": "3E528EEE750F49A7CF92A97B96BA1513E41FD8EC648DB615555BF89F1FAAA28B",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0020": {
+        "Target": "{X60Y0}Ремесленник{Line}«Взгляните, например, на это».{End}",
+        "Source Text SHA256": "E693F07DE70B16EFAE539D326F661026DBC63E0A1BBEA57629B6B22E359272AF",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0021": {
+        "Target": "Ремесленник{Line}«И это».{End}",
+        "Source Text SHA256": "7CB607CB9ED1F90C917FCDB03FF54AF0ADCA30D632DDCE7B0C3145FA5306F7B0",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0022": {
+        "Target": "{X60Y0}Ремесленник{Line}«И вот ещё».{End}",
+        "Source Text SHA256": "311F43F7316CAFEF325AE0BAB6E717C45109E65CE0AA4A680D3DA6AA980C8D4C",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0023": {
+        "Target": "{X60Y0}Ремесленник{Line}«Вы сказали, что тоже{Line} ремесленник, верно?{Line} Для меня большая честь».{End}",
+        "Source Text SHA256": "ED655AA8989B6EAAD2F884EDC7033B7D0B76AE43F5810F239EC81533EDB84810",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0024": {
+        "Target": "{X10Y80}{Char Squall}{Line}«Неужели это он?»{End}",
+        "Source Text SHA256": "109DEBB69E3819A681F3D8C0B4F6A7FDF2F70DE3218DFD425ED80A163FA8A626",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0025": {
+        "Target": "{X10Y80}{Char Squall}{Line}«Вы не против, если я возьму этот камень?»{End}",
+        "Source Text SHA256": "2E82562D21728FEA6B0DE09BBE17A628B98E959B04BC68D4F45F76FEB2E9F459",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0026": {
+        "Target": "{X150Y70}Ремесленник{Line}«Берите.{Line} Ремесленник им только при стирке пользуется».{End}",
+        "Source Text SHA256": "3A569B968964FA4778D91804687BB1F1ABE4188871A0DA47749FA0CD0275FCB4",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0027": {
+        "Target": "{X10Y20}{Char Squall}{Line}«Спасибо».{End}",
+        "Source Text SHA256": "69316C2472A2255DF83DF6EFE635CF4586824CC65114D782527EA5BC99235B62",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0028": {
+        "Target": "{X10Y30}{Char Squall}{Line}«А?..»{End}",
+        "Source Text SHA256": "D8169EA6220C35066FC0BB959065F2D95B4AD90F9A6DB11D58EEF90D82D9536C",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0029": {
+        "Target": "{X12Y100}Найден старый выпуск [Маньяков Тимбера]!{Line}{Pause 48}… {Pause 48}… {Pause 48}… {Pause 48}… Выпуск прочитан!{End}",
+        "Source Text SHA256": "FB891A64D220C0498BFC038DFCE8C485FE1D29939C3A348CF950DFAAE9DE0E6C",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0030": {
+        "Target": "{X10Y10F1L2B1C2}«Хотите сыграть?»{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "F682062A3A7BBDC4F0126231932D66D1E6EB1BC5B59AF507A58340BD15E89685",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0031": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим.{End}",
+        "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0032": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим.{End}",
+        "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0033": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим.{End}",
+        "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0034": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим.{End}",
+        "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0035": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим.{End}",
+        "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0036": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
+        "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0037": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим.{End}",
+        "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0038": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим.{End}",
+        "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0039": {
+        "Target": "{X10Y10}Для игры нужно{Line}не меньше пяти карт.{End}",
+        "Source Text SHA256": "DF7629554EC91F238FF4EF13B271E6AA9D1BED70C2016BAEAC18F31BDFAE43C2",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0040": {
+        "Target": "Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0040_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0040_ctx_8fa474f114aa44a3": {
+        "Target": "{X60Y10}Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0041": {
+        "Target": "Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0041_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0041_ctx_e81b5a822fbd1eee": {
+        "Target": "{X59Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0042": {
+        "Target": "Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0042_ctx_6435e47f79d3a935": {
+        "Target": "{X62Y10}Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0042_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0043": {
+        "Target": "Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0043_ctx_48730159ffbb3b33": {
+        "Target": "{X52Y10}Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0043_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0044": {
+        "Target": "Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0044_ctx_03d56bd6bcca6621": {
+        "Target": "{X33Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0044_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0045": {
+        "Target": "{X10Y10}Правило {Color Blue}«Повтор»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "27F5EA3ED3DDBED688BAFCBA189BEB532704BB572AE5E55AC21C8C9C712A4C6D",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0046": {
+        "Target": "Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0046_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0046_ctx_ebda62a7b0f16c14": {
+        "Target": "{X45Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0047": {
+        "Target": "Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0047_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0047_ctx_b1cffef320ce6ec2": {
+        "Target": "{X46Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0048": {
+        "Target": "{X53Y10}Правило {Color Blue}«В открытую»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "22612FDC6019CBC8851539452C6A11A6097CA410C18DC53903AC0AEF7D838AAA",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0049": {
+        "Target": "{X52Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "C1809B73CE7E836C0B5CAC0C8A7EC37C1790B162B04AA2125CB197943232CA98",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0050": {
+        "Target": "{X55Y10}Правило {Color Blue}«Сложение»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "1F99F0610FA109B50642AB488B55150F86C784FDEAF1DB1056CD0494E35A1DE8",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0051": {
+        "Target": "{X45Y10}Правило {Color Blue}«Случайные»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "3AFAED5589FD968192415F75A4D88FE5F6BCD44174FF6BD2B4744764DA542DB2",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0052": {
+        "Target": "{X26Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "8BF4D5A8E32A8E9C6AF41A2AC92D0C5DF549EB0A858A7CEA85D7B76AC28F3985",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0053": {
+        "Target": "Правило {Color Blue}«Повтор»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "4C886F6EBB1978C5FD24E60284987C38E14BA3644AACD9D16E9A810B7770F240",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0054": {
+        "Target": "{X38Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "5DBEF5CD0A47E1C3155072F63319748969F0D53C2A5086E3DD4FE843748613F9",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      },
+      "$en_tmmin1_0055": {
+        "Target": "{X39Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "57BC2E6EE4E0D5127C4EC59413E1CD1F1E7FDE39EA84376DFC5BC9C52E5A5C62",
+        "sourceContext": {
+          "Source MSD SHA256": "4F18F19AB5165386599D8558147016EB6D16E814C4C1D51DA699193A30FEB9A1",
+          "JSM SHA256": "F4F771B8898433F675351C44EDBC9B3FA61B7CB4918DF41A473BFB4F50F189A1"
+        }
+      }
+    }
+  }
+}

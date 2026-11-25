@@ -1,0 +1,76 @@
+{
+  "Information and SeeD exam": {
+    "mngrp_slot101_table": {
+      "$en_mngrp_slot101_table_0000": {
+        "Target": "Вопрос 1{Line}{Line}Оружие Зелла -{Line}{Line}{Line}{Line}{Option 32}перчатки. {Option 33}",
+        "Source Text SHA256": "B0C7C6F75268A9EAE054E2556FA5D8C3072AC549E2F7D295DBBB7640E85082FD",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot101_table_0001": {
+        "Target": "Вопрос 2{Line}{Line}При наложенном безмолвии вы все равно можете призывать{Line}{Line}{Line}{Line}{Option 32}ЗС. {Option 33}",
+        "Source Text SHA256": "661A285166F5F9CBB18787EFF1228D1E62FA91B5F6B414C00813D092ACC079E8",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot101_table_0002": {
+        "Target": "Вопрос 3{Line}{Line}{Name Ifrit} Ифрит может изучить способность Создание магии{Line}{Line}{Line}{Line}{Option 32}Огня. {Option 33}",
+        "Source Text SHA256": "FDC4419AAF7432A70087CBF084CFD6F8B0835AC90603D53D93A4C3A6D12F46EA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot101_table_0003": {
+        "Target": "Вопрос 4{Line}{Line}Если к персонажу привязан более чем один ЗС с{Line}одинаковой способностью к привязке, то эффект от этих способностей{Line}не умножится, а останется тем{Line}{Line}{Option 32}же. {Option 33}",
+        "Source Text SHA256": "C41560C69F403C6240F91172EF0FC0C4AAB44CDD16625562366BF022B1E9DA99",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot101_table_0004": {
+        "Target": "Вопрос 5{Line}{Line}После битвы все изменения статуса возвращаются в нормальное{Line}{Line}{Line}{Line}{Option 32}состояние. {Option 33}",
+        "Source Text SHA256": "CA15C81663AA6443EA4B387D90EF8A0CB8A3100EAC8CF159A5A2293F6778627C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot101_table_0005": {
+        "Target": "Вопрос{Line}{Line}6 Можно использовать команды «Атака» и «Извлечь»{Line}без привязки{Line}{Line}{Line}{Option 32}ЗС. {Option 33}",
+        "Source Text SHA256": "E317C6BD24A4C4A97CD851615ED18087F1D6075527C1B6FB7BA3A797A314EE32",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot101_table_0006": {
+        "Target": "Вопрос 7 Когда{Line}{Line}вы выставляете ганблейд {Char Squall}а на авто, нажимать{Line}R1 не {Key 35}{Line}{Line}{Line}{Option 32}нужно. {Option 33}",
+        "Source Text SHA256": "BAFCBD8DFC344D2938B32922D672B8D1F9AFF8A177A85268E4DFEE12FFF337FD",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot101_table_0007": {
+        "Target": "Вопрос{Line}{Line}8 Показатель «Маг» определяет силу{Line}и эффективность{Line}{Line}{Line}{Option 32}магии. {Option 33}",
+        "Source Text SHA256": "30074028BC2E9C848483D824274CF6C82C9032890FF821300A2B9B9E7EA0AAD0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot101_table_0008": {
+        "Target": "Вопрос 9{Line}{Line}Применяя Авто привязку, можно выбрать только{Line}Атк или{Line}{Line}{Line}{Option 32}Защ. {Option 33}",
+        "Source Text SHA256": "2D3B3A1CE650D22A3F9B04D02A8FBC1B2A842ADC5F799B14A21360C0BD329C2A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot101_table_0009": {
+        "Target": "Вопрос 10{Line}{Line}Грэт применяет атаки{Line}{Line}{Line}{Line}{Option 32}Сном. {Option 33}",
+        "Source Text SHA256": "618EBA74004D52899C9C1E33EDF22B4E5E15E3523E9CF46EC25E0FF43560D06F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

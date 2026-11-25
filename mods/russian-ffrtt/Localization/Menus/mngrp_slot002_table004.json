@@ -1,0 +1,104 @@
+{
+  "Menus": {
+    "mngrp_slot002_table004": {
+      "$en_mngrp_slot002_table004_0002": {
+        "Target": "Состав для привязки",
+        "Source Text SHA256": "31DAEB4BC3EECD70B3695551A3B590670CA1DA529F6D8E5BFA82E0F3E3447201",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0003": {
+        "Target": "Настроить состав для привязки",
+        "Source Text SHA256": "F1C7B7E27EFA0A07A89FB2EFDB30334F0460D7DF0D51BFE3CC25B440825CCAE7",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0004": {
+        "Target": "Смена участника",
+        "Source Text SHA256": "01A07AB6F16A9482269A6658D9E73EAF206F54ED558E4CE535B5D551D439F40C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0005": {
+        "Target": "Соберите отряд из трёх человек",
+        "Source Text SHA256": "A961757B13DF2C83FA97B26A71A98A59609C76AB5CF34372E1DA3D2406614666",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0006": {
+        "Target": "Обмен привязками",
+        "Source Text SHA256": "35CE141BEB3FDA7900A852ADF170ED950BD47F5820AA230C08A753AE32D80295",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0007": {
+        "Target": "Обменивает все привязки",
+        "Source Text SHA256": "C39D5E51096F12D0C1A81884D3F1E97E9AA7FF214A904F44627E9E3CD7B66163",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0008": {
+        "Target": "Нельзя исключить из отряда",
+        "Source Text SHA256": "4CF79B03E7D6394FAC6E3BC9D273DF771280E97C4D4E71343B23BE7C2749F7C4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0009": {
+        "Target": "({Key HolyElement})",
+        "Source Text SHA256": "1C3ABF92E658BC0D1EC69360D3B04DDC299C9BBA8496BAC0F56BDFAEA3E5DAE9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0010": {
+        "Target": "Нельзя включить в отряд",
+        "Source Text SHA256": "C972B9B9DC6FB3722FB781F4D2169F39002AB0B1C27EAFA109B86CA4FBD0F9E1",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0011": {
+        "Target": "({Key HolyElement})",
+        "Source Text SHA256": "1C3ABF92E658BC0D1EC69360D3B04DDC299C9BBA8496BAC0F56BDFAEA3E5DAE9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0012": {
+        "Target": "Поменять местами привязки у {Dialog SelectedCharacter} и {Dialog SelectedMagic}?{Line}Вы уверены?",
+        "Source Text SHA256": "59DA813FF346B3CF4DAEB036748700B7392C759514E7A0CE9F02E66B8572D1B7",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0013": {
+        "Target": "({Key HolyElement})",
+        "Source Text SHA256": "1C3ABF92E658BC0D1EC69360D3B04DDC299C9BBA8496BAC0F56BDFAEA3E5DAE9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0014": {
+        "Target": "Отряд не сформирован",
+        "Source Text SHA256": "E329BA3154D7854BB2BD2D824B3576EDA56865484331B2ED98626E3D23FB44D5",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot002_table004_0016": {
+        "Target": "Состав для привязки не задан",
+        "Source Text SHA256": "80981FE138CADCBDE39EC1E7DF87EEE98C75A26E0724CB7641945BF9D0BB9902",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

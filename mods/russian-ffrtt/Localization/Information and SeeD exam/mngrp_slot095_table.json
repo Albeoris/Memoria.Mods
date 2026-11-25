@@ -1,0 +1,83 @@
+{
+  "Information and SeeD exam": {
+    "mngrp_slot095_table": {
+      "$en_mngrp_slot095_table_0000": {
+        "Target": "Мы начнём письменный тест Сидов. Будете проходить тест уровня [число]?{Line}ДА {Dialog CurrentValue}{Line}{Line}{Line}{Line}{Line}  {Option 32}НЕТ {Option 33}",
+        "Source Text SHA256": "BDDE5403F7F3EDDA53C8951A53DD9EC38423A980F381D306ED81E3FEB24F9243",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot095_table_0001": {
+        "Target": "Начинаем письменный экзамен SeeD.{Line}Ваш текущий уровень экзамена: {Dialog CardLevel}.{Line}{Line}Сдать экзамен уровня {Dialog CurrentValue}?{Line}{Line}{Line}  {Option 32}ДА     {Option 33}НЕТ",
+        "Source Text SHA256": "168C11E1BED7B5A3A9C03CB768C09488282EE73F442AB6B9708AB5E7C66D52A4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot095_table_0002": {
+        "Target": "Ваш результат: 100%.{Line}Вы {Color Red}сдали{Color White} письменный экзамен уровня {Dialog CardLevel}.{Line}Ваш ранг SeeD повысится до {Dialog SelectedMagic}.{Line}{Line}{Line}{Line}  {Option 32}ЗАВЕРШИТЬ",
+        "Source Text SHA256": "0ABDF311D9E3CEABCC0543D760CC165E961B8F831EB0EAB51DC9A50A1A7798F5",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot095_table_0003": {
+        "Target": "Ваш результат: 100%.{Line}Вы сдали письменный экзамен уровня {Dialog CardLevel}.{Line}Ваш ранг SeeD не поднимется выше {Dialog CardLevel}.{Line}{Line}{Line}{Line}  {Option 32}ЗАВЕРШИТЬ{Line}",
+        "Source Text SHA256": "0555D5EDBF3F3D12C7F366D913713A59E7A479CB35ECEFF5A3BE16815F478740",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot095_table_0004": {
+        "Target": "Ваш результат: {Dialog CardLevel}.{Line}Вы не сдали экзамен.{Line}Удачи в следующий раз.{Line}{Line}{Line}{Line}  {Option 32}ЗАВЕРШИТЬ",
+        "Source Text SHA256": "2543BB10CD459B417C6EA21BD4C840A74C675F410A1601D37DAD744A3F83CD38",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot095_table_0005": {
+        "Target": "Ваш уровень письменного экзамена — 30.{Line}Вы больше не можете сдавать письменные{Line}экзамены SeeD.{Line}{Line}{Line}{Line}  {Option 32}НАЗАД{Line}",
+        "Source Text SHA256": "3658DAE4AAAF592BA920EA5F2F36D2146CB66FD4A5A62A4162A5FC3DE90CA65E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot095_table_0006": {
+        "Target": "Ваш ранг SeeD: {Dialog SelectedMagic}.{Line}Ваш ранг SeeD больше не повысится.{Line}Всё равно сдать письменный экзамен?{Line}{Line}{Line}{Line}  {Option 32}ДА     {Option 33}НЕТ",
+        "Source Text SHA256": "3BCEC0CB82E4AC5A5F8C182702E0AEC5AC45D6CEA6193E61BDBFD374D0CD5772",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot095_table_0007": {
+        "Target": "Вы уверены?{Line}{Line}{Line}{Line}{Line}{Line}  {Option 32}НЕТ      {Option 33}ДА{Line}",
+        "Source Text SHA256": "B64BDD1CA5B812514F05B9DA8E819B4419E98C6E59F9DB1B3105E400ADB998AD",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot095_table_0008": {
+        "Target": "Повторение завершено!{Line}Вы освоили всё на уровне {Dialog CardLevel}!{Line}{Line}{Line}{Line}{Line}  {Option 32}ЗАВЕРШИТЬ{Line}",
+        "Source Text SHA256": "E75D729564CFB64292C9E067F7734D99DD2C4B289B4FE8FB1B611D245308BAA4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot095_table_0009": {
+        "Target": "Ваш результат: {Dialog CardLevel}.{Line}Что случилось?..{Line}{Line}{Line}{Line}{Line}  {Option 32}ЗАВЕРШИТЬ",
+        "Source Text SHA256": "2C23F980E45468C3EC9287E40F4EA3464BBEB40BF14E6D164C18B0FA536BD861",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot095_table_0010": {
+        "Target": "{Char Squall} — уровень {Dialog CardLevel}.{Line}Нельзя сдавать экзамен выше уровня {Dialog CurrentValue}.{Line}Сначала повысьте уровень и попробуйте снова.{Line}{Line}{Line}{Line}  {Option 32}ЗАВЕРШИТЬ",
+        "Source Text SHA256": "9C4A8FC493DED18F26B1A120E6E0B49AAD4850CC1D643E222F98589A356F6415",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

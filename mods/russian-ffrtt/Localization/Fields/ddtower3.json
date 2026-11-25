@@ -1,0 +1,238 @@
+{
+  "Fields": {
+    "ddtower3": {
+      "$en_ddtower3_0000": {
+        "Target": "{X50Y30}«Левая дверь ведёт в паровую камеру.{Line} Для входа в неё потребуется {Color Yellow}4 ед. давления{Color White}{Line} из резерва».{End}",
+        "Source Text SHA256": "7DCF72CD4031232C3A94AB4EF54C8E579987403C4A2739323F7C552A565446B7",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0001": {
+        "Target": "{X50Y30}«На нижнем уровне обнаружено переполнение.{Line} Вход в паровую камеру невозможен».{End}",
+        "Source Text SHA256": "556AFDEE7966AA6DC7BC8438D0CD155B801FE5171B0A1EF6BC5FFD95F2082817",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0002": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color RedBlink} 10{Line}{Color RedBlink}■■■■{Color Grey}□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}======================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "247DF9955B3298E3C8538E86FFDB4A4D5CBEE06E42ACF9279C49301647A225D8",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0003": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■{Color RedBlink}■  {Color Yellow}”{Color RedBlink}  9{Line}{Color RedBlink}■■■{Color Grey}□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}======================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "9B79245A22BA4B119BBF8318B1D3F20DCB9322B56FFA29BF436CC3C532E8A7AE",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0004": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■■{Color Grey}□  {Color Yellow}”{Color Blue}  9{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "8E9146A14EFA6F16511447016CA12966B4CCC0B3DC583E7CF53080759A4C9B59",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0005": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■{Color RedBlink}■■  {Color Yellow}”{Color RedBlink}  8{Line}{Color RedBlink}■■{Color Grey}□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}======================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "E70C3ACDA78E3737DEDCC455DE8BE375C0B6D5FF730B611CF2B098A2A232C709",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0006": {
+        "Target": "{X50Y30F5L7B5C1}{Color Red}▼{Color Yellow}Резерв давления пара{Color Red}▼{Line}{Color BlueBlink}■■■■■■■■■■  {Color Yellow}”{Color Blue} 12{Line}{Color BlueBlink}■■{Color Grey}□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}==================={Color White}{Line}Расход давления пара?{Line}4{Line}2{Line}1{End}",
+        "Source Text SHA256": "55F89035B4E06D78CB8F47378E99D7302EB26170C8A57812226BA0FEEB0E5573",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0007": {
+        "Target": "{X50Y30F5L6B5C1}{Color Red}▼{Color Yellow}Резерв давления пара{Color Red}▼{Line}{Color BlueBlink}■■■■■■■■■■  {Color Yellow}”{Color Blue} 14{Line}{Color BlueBlink}■■■■{Color Grey}□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}==================={Color White}{Line}Расход давления пара?{Line}2{Line}1{End}",
+        "Source Text SHA256": "ED7D30784AC9C10F8812B26D101A22508CE4365E9CBE184CDF5E71AA6FCBCCAB",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0008": {
+        "Target": "{X50Y30F5L6B5C1}{Color Red}▼{Color Yellow}Резерв давления пара{Color Red}▼{Line}{Color BlueBlink}■■■■■■■■■■  {Color Yellow}”{Color Blue} 17{Line}{Color BlueBlink}■■■■■■■{Color Grey}□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}==================={Color White}{Line}Расход давления пара?{Line}2{Line}1{End}",
+        "Source Text SHA256": "B83FB13A48C430E54AAD80DF34F833AA2D4AFC9719E8673B220D2F6DE6F4F9ED",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0009": {
+        "Target": "{X50Y30F5L6B5C1}{Color Red}▼{Color Yellow}Резерв давления пара{Color Red}▼{Line}{Color BlueBlink}■■■■■■■■■■  {Color Yellow}”{Color Blue} 15{Line}{Color BlueBlink}■■■■■{Color Grey}□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}==================={Color White}{Line}Расход давления пара?{Line}1{Line}0{End}",
+        "Source Text SHA256": "A6421FFB343117563F71D81B5E4E13F4577FD92E40E8899EE9CFDCFC2EEF9033",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0010": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 4{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■{Color RedBlink}■■  {Color Yellow}”{Color RedBlink}  8{Line}{Color RedBlink}■■{Color Grey}□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}======================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "E70C3ACDA78E3737DEDCC455DE8BE375C0B6D5FF730B611CF2B098A2A232C709",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0011": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■{Color Grey}□□  {Color Yellow}”{Color Blue}  8{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "DB85833A071F30562DFF6B5351AA30597EB880400E84B7BA55FA3D5FB6F55EAC",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0012": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 2{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color RedBlink} 10{Line}{Color RedBlink}■■{Color Grey}□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}======================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "67181C986AE9AE9C2C0D1B51A027D2B904AA90A1583288E557231FCE7FEE6157",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0013": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color Blue} 10{Line}{Color Grey}□□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "72604932CCBC323AEA1ABF39C5F2882996C2ABD7FE78B2732A75EA97159D4DFD",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0014": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 1{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color RedBlink} 11{Line}{Color Blue}■{Color RedBlink}■{Color Grey}□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}======================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "C894BF780EE9AEEA1E2DDACBC6259F9070B4469337395E914209E6570B04CD0A",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0015": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color Blue} 11{Line}{Color Blue}■{Color Grey}□□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "868B47570486614375E3DBCF29577E3E72F489495E8E50D762FDD6B52D508123",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0016": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 2{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color RedBlink} 12{Line}{Color Blue}■■{Color RedBlink}■■{Color Grey}□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}======================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "B25C8F1857AD11ADE23C369BCFB1FCF9AD7D6DB1F37A486ACD4639AA3C7D3878",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0017": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color Blue} 12{Line}{Color Blue}■■{Color Grey}□□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "EC1A3B1ECFCF634B5F117E85555B6FC7F1506975C2B02D421BA03A7B306811DA",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0018": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 1{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color RedBlink} 13{Line}{Color Blue}■■■{Color RedBlink}■{Color Grey}□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}======================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "B700B798229183F70C7AB14A07E5129DDCAAF9A94B26E5C886929BA9D6DEAA23",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0019": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color Blue} 13{Line}{Color Blue}■■■{Color Grey}□□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "C6793CA3822B3AE40469A9A68AEAE854D6792E129AFD69C22C72A8EDC503A1B1",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0020": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 2{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color RedBlink} 15{Line}{Color Blue}■■■■■{Color RedBlink}■■{Color Grey}□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}======================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "057546724090B8155174A8BC664979477950FD6F8F97DE962F118C49500AC140",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0021": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color Blue} 15{Line}{Color Blue}■■■■■{Color Grey}□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "9CB5FBB2AF09C5ADB09C81A1E7E74640E04AA310012F38AA48A946D942F00791",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0022": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 1{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}” {Color RedBlink}16{Line}{Color Blue}■■■■■■{Color RedBlink}■{Color Grey}□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}===================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "4985F6CAF67528575FC0615D883041BEF1AB2F2974A184EFECC467C5966835FF",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0023": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color Blue} 16{Line}{Color Blue}■■■■■■{Color Grey}□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "BDFE05CC67F632FC938030F61BFEC86303AAF54C62B801AF3588383E8E22C60F",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0024": {
+        "Target": "{X50Y30F5L6B5C1}  {Color RedBlink}▼{Color Yellow}Расход: 1{Color RedBlink}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color RedBlink} 14{Line}{Color Blue}■■■■{Color RedBlink}■{Color Grey}□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{Line}{Color Yellow}===================={Color White}{Line}Подтвердить?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "0F312FEB55504FC0D3F0AEEFF8994997E672ABEF8F7331DF0BC27F9F65728290",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0025": {
+        "Target": "{X50Y30}{Color Red}▼{Color Yellow}Готово{Color Red}▼{Line}{Color Blue}■■■■■■■■■■  {Color Yellow}”{Color Blue} 14{Line}{Color Blue}■■■■{Color Grey}□□□□□□   {Color Yellow}‾{Color Grey}20{Color Yellow}‾“{End}",
+        "Source Text SHA256": "52ACC8A185D87647921EC6180E35442BCB263281C3696051F3675C18C0269165",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0026": {
+        "Target": "{X50Y30}«Открывается дверь на 4-й уровень».{End}",
+        "Source Text SHA256": "53FFF9D2A9AF9349B7DC62C5C4EAF9E9B06B5288F66EB4BD0CB6DDD5A023250F",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0027": {
+        "Target": "{X50Y30}«Открывается дверь в паровую камеру».{End}",
+        "Source Text SHA256": "4071AAF12055E22DF64C8ABE3743387F0776594E5F58D747BC6B4E5F47B26D3B",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      },
+      "$en_ddtower3_0028": {
+        "Target": "«Паровая камера и{Line} левая дверь не совмещены».{End}",
+        "Source Text SHA256": "45574ED199C704DCF12BD5057A9BCB2AEFAFC8C6A34002E3F8F0870069A41189",
+        "sourceContext": {
+          "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
+          "JSM SHA256": "D5C9CCEADD891968C42161E93F38F0C47455F77F2625D949C23E21504E2004CE"
+        }
+      }
+    }
+  }
+}

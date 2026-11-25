@@ -1,0 +1,46 @@
+{
+  "Fields": {
+    "tiyane1": {
+      "$en_tiyane1_0000": {
+        "Target": "{X20Y150}{Char Rinoa}{Line}”{Char Squall}, сюда!“{End}",
+        "Source Text SHA256": "4295F344484FAEC6F732E320F1C0E21E1735852852EF12144AF95A344A2D698E",
+        "sourceContext": {
+          "Source MSD SHA256": "018D2FA5B6C27E2778E92BF69DE5F8F1A770C522A86B7C40DCDD0129F9E5A637",
+          "JSM SHA256": "7B63F1F11D7321B6CA436A5DA094696C6261C8530452B914F39BF42CF4B57572"
+        }
+      },
+      "$en_tiyane1_0001": {
+        "Target": "{X20Y150}{Char Rinoa}{Line}Мы скоро догоним [2-ой {Color Blue}эскорт]. Приготовьтесь.{Color White} После{Line} того как мы{Next}сблизимся, нам следует как можно быстрее{Line} перепрыгнуть на его крышу, чтобы{Line} выиграть немного времени.{End}",
+        "Source Text SHA256": "0B5102791468BF8D87C4C473B9BEA65ECE627C373CE3BB114973E35EB4DA3751",
+        "sourceContext": {
+          "Source MSD SHA256": "018D2FA5B6C27E2778E92BF69DE5F8F1A770C522A86B7C40DCDD0129F9E5A637",
+          "JSM SHA256": "7B63F1F11D7321B6CA436A5DA094696C6261C8530452B914F39BF42CF4B57572"
+        }
+      },
+      "$en_tiyane1_0002": {
+        "Target": "{X20Y150}{Char Rinoa}{Line}С этого момента у нас ровно... 5 минут{Pause 96}{Color Yellow}на выполнение операции.{Color White}{Line} Постарайтесь использовать каждую секунду{Next}отведённого времени с толком.{End}",
+        "Source Text SHA256": "24631652868B085A3E703935802B89DB38EF22E5974C48E82BF7B20949278082",
+        "sourceContext": {
+          "Source MSD SHA256": "018D2FA5B6C27E2778E92BF69DE5F8F1A770C522A86B7C40DCDD0129F9E5A637",
+          "JSM SHA256": "7B63F1F11D7321B6CA436A5DA094696C6261C8530452B914F39BF42CF4B57572"
+        }
+      },
+      "$en_tiyane1_0003": {
+        "Target": "{X100Y140}{Key Cross} — прыжок{End}",
+        "Source Text SHA256": "50452C04B3012956A9544420926F55AFD2883FC08F5A00CB2A4914DEE63E1885",
+        "sourceContext": {
+          "Source MSD SHA256": "018D2FA5B6C27E2778E92BF69DE5F8F1A770C522A86B7C40DCDD0129F9E5A637",
+          "JSM SHA256": "7B63F1F11D7321B6CA436A5DA094696C6261C8530452B914F39BF42CF4B57572"
+        }
+      },
+      "$en_tiyane1_0004": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "873D439458AEFF38C9648E8B34089559640AB4D69685D80F7D539FCD780596A8",
+        "sourceContext": {
+          "Source MSD SHA256": "018D2FA5B6C27E2778E92BF69DE5F8F1A770C522A86B7C40DCDD0129F9E5A637",
+          "JSM SHA256": "7B63F1F11D7321B6CA436A5DA094696C6261C8530452B914F39BF42CF4B57572"
+        }
+      }
+    }
+  }
+}

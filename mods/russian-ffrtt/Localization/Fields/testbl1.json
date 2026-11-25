@@ -1,0 +1,22 @@
+{
+  "Fields": {
+    "testbl1": {
+      "$en_testbl1_0000": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source MSD SHA256": "1F0A871BEA7EAE9FC14A2F4250D477724E8D6C0BD869845EFFC8E8FA2CFAD0D4",
+          "JSM SHA256": "AF0B327003F6966EAAD0CFFB17A3C025E0F8B65667FA1814E2AD82DE6917AC5F"
+        }
+      },
+      "$en_testbl1_0001": {
+        "Target": "{X71Y80}(Переодеться.{Line} Встретить у тренировочного центра.{Line} Пойти в «тайное место».{Line} Зачем всё это?..)",
+        "Source Text SHA256": "00F8F0456B57CF7EA6D68A7713B5533CC2F36A25654C71CEDB6C2057E61E692C",
+        "sourceContext": {
+          "Source MSD SHA256": "1F0A871BEA7EAE9FC14A2F4250D477724E8D6C0BD869845EFFC8E8FA2CFAD0D4",
+          "JSM SHA256": "AF0B327003F6966EAAD0CFFB17A3C025E0F8B65667FA1814E2AD82DE6917AC5F"
+        }
+      }
+    }
+  }
+}

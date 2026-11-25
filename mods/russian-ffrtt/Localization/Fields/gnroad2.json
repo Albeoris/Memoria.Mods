@@ -1,0 +1,22 @@
+{
+  "Fields": {
+    "gnroad2": {
+      "$en_gnroad2_0000": {
+        "Target": "{X42Y74F2L3B3C3}Покинуть подземелье?{Line}{Color Yellow}〖Ранг SeeD снизится на 1!〗{Color White}{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "6133FF0FF5D02897AE5769F6F530ABD37686671E62EF4EA6B45CA8F106CAF049",
+        "sourceContext": {
+          "Source MSD SHA256": "5BDAF4219C1B0E9E14ABC5546B6AA4DB2AAA2EE78F21E5861959F8CC51070666",
+          "JSM SHA256": "A5E659A63675037F27C45385DBAA45ED9FE5BCC771C933CBA486278B292A6327"
+        }
+      },
+      "$en_gnroad2_0001": {
+        "Target": "{X92Y30}”Идентификационный номер студента № {Var 32}“{End}",
+        "Source Text SHA256": "17E2E06972A58255336B3534DD59A5DAD9C778EC67F3E6C44A80A99ED5D1B5ED",
+        "sourceContext": {
+          "Source MSD SHA256": "5BDAF4219C1B0E9E14ABC5546B6AA4DB2AAA2EE78F21E5861959F8CC51070666",
+          "JSM SHA256": "A5E659A63675037F27C45385DBAA45ED9FE5BCC771C933CBA486278B292A6327"
+        }
+      }
+    }
+  }
+}

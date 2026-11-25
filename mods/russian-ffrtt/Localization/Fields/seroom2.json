@@ -1,0 +1,30 @@
+{
+  "Fields": {
+    "seroom2": {
+      "$en_seroom2_0000": {
+        "Target": "{X15Y15}White SeeD Leader{Line}Мы не могли позволить{Line} гальбадианцам забрать Эллону. В{Next}конце концов, гальбадианцы настигли нас{Line} и нам оставалось лишь{Line} готовиться к бою.{End}",
+        "Source Text SHA256": "967CA602E595CD8D980801AE482D0C1CD7208B5621959385B225A8D3BC4413F2",
+        "sourceContext": {
+          "Source MSD SHA256": "303345831ED767EFBA70E0E6A4AD201173EB2E027188B1EB82B52CC19188BAF1",
+          "JSM SHA256": "361D98A7540E3FC4334C745F11D1E627ABE1D27E9378E2AEA01FCCE4F3822B27"
+        }
+      },
+      "$en_seroom2_0001": {
+        "Target": "{X15Y15}White SeeD Leader{Line}Тогда появился корабль Эстара.{End}",
+        "Source Text SHA256": "35CDEC98854709D1AFEB79D3142E5825D22AEC03BC36579C7F5B282EA5B317B0",
+        "sourceContext": {
+          "Source MSD SHA256": "303345831ED767EFBA70E0E6A4AD201173EB2E027188B1EB82B52CC19188BAF1",
+          "JSM SHA256": "361D98A7540E3FC4334C745F11D1E627ABE1D27E9378E2AEA01FCCE4F3822B27"
+        }
+      },
+      "$en_seroom2_0002": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "873D439458AEFF38C9648E8B34089559640AB4D69685D80F7D539FCD780596A8",
+        "sourceContext": {
+          "Source MSD SHA256": "303345831ED767EFBA70E0E6A4AD201173EB2E027188B1EB82B52CC19188BAF1",
+          "JSM SHA256": "361D98A7540E3FC4334C745F11D1E627ABE1D27E9378E2AEA01FCCE4F3822B27"
+        }
+      }
+    }
+  }
+}

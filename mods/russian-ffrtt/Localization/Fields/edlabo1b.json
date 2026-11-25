@@ -1,0 +1,38 @@
+{
+  "Fields": {
+    "edlabo1b": {
+      "$en_edlabo1b_0000": {
+        "Target": "{X15Y15}Я всё ещё здесь...{Line} Но сейчас учёные ничем здесь не занимаются.{Next}Когда объект исследования перемещают куда-либо, то,{Line} полагаю, они переезжают вместе с ним.{End}",
+        "Source Text SHA256": "9F812D9EDF566D237C4811D8123CAF03B9BA2B575064755DF7515218A47CB92F",
+        "sourceContext": {
+          "Source MSD SHA256": "5027B8A2C30677140E4BFAACD892FD557D3BCF3ABF3D02CEBF7510E57C6C5EA5",
+          "JSM SHA256": "4FB3E304F0158F4053583D0B76313FFF5F13C5052D09CC4319C059B682308E17"
+        }
+      },
+      "$en_edlabo1b_0001": {
+        "Target": "{X15Y15}Я{Line} всего лишь... назначен приглядывать за этим местом.{Next}Время от времени я{Line} выхожу на обход с мумбами.{End}",
+        "Source Text SHA256": "37FB8E633BAA5BA2AD6FFA6755D5B6F65E112D3D1CC625081B08A8269B2A44BB",
+        "sourceContext": {
+          "Source MSD SHA256": "5027B8A2C30677140E4BFAACD892FD557D3BCF3ABF3D02CEBF7510E57C6C5EA5",
+          "JSM SHA256": "4FB3E304F0158F4053583D0B76313FFF5F13C5052D09CC4319C059B682308E17"
+        }
+      },
+      "$en_edlabo1b_0002": {
+        "Target": "{X15Y15}Взлёт......{Pause 48}......{Pause 48}......разрешён!!......{Line}{Pause 48}......{Pause 48}......{Pause 48}......{Pause 48}......{Line}А-а-а?!{Next}Н-ничего! Ха-ха-ха...{Line}Старая привычка...{Line}Как только сажусь на такое место...{End}",
+        "Source Text SHA256": "9B15751E76DF36C75C944B3692800C6DDD97394CE77212201F33DDE54944EC7F",
+        "sourceContext": {
+          "Source MSD SHA256": "5027B8A2C30677140E4BFAACD892FD557D3BCF3ABF3D02CEBF7510E57C6C5EA5",
+          "JSM SHA256": "4FB3E304F0158F4053583D0B76313FFF5F13C5052D09CC4319C059B682308E17"
+        }
+      },
+      "$en_edlabo1b_0003": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "873D439458AEFF38C9648E8B34089559640AB4D69685D80F7D539FCD780596A8",
+        "sourceContext": {
+          "Source MSD SHA256": "5027B8A2C30677140E4BFAACD892FD557D3BCF3ABF3D02CEBF7510E57C6C5EA5",
+          "JSM SHA256": "4FB3E304F0158F4053583D0B76313FFF5F13C5052D09CC4319C059B682308E17"
+        }
+      }
+    }
+  }
+}

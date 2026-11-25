@@ -1,0 +1,356 @@
+{
+  "Menus": {
+    "mngrp_slot160_table": {
+      "$en_mngrp_slot160_table_0000": {
+        "Target": "Урок привязки",
+        "Source Text SHA256": "DAE8912987262EE3DAD73B3BC31E62DAD2B881087EF3266E130AF30F531C244E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0001": {
+        "Target": "Привязка позволяет{Line}усиливать персонажей{Line}и применять способности.",
+        "Source Text SHA256": "B31AC0F983F5AD2758E4314CD2B03FC079889342E6114EA9C2D42EB0084D5FDE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0002": {
+        "Target": "Это значит, что",
+        "Source Text SHA256": "73249B00CF295673089D356EE2AF300099643DE8B6468C38E5907BDD226DFE67",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0003": {
+        "Target": "для усиления и применения{Line}способностей надо{Line}привязать Стража.",
+        "Source Text SHA256": "C9FD536F8047B2E673B6C6CAD7E31B4BDB18CA5BD843C6A1D00932564B484B33",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0004": {
+        "Target": "Начнём с{Line}привязки Стража.",
+        "Source Text SHA256": "422C828F5FE3660A34637C6E0DC09230B6AA02F48BDFCA2D83F2E20B15B92D58",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0005": {
+        "Target": "Сейчас ни один Страж не привязан.",
+        "Source Text SHA256": "46A219E2B3A42CEA3682BE8C1E811D5EC0E8012330B7CBF2AB386BE8E95C1F65",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0006": {
+        "Target": "Остальные команды серые:{Line}пока они недоступны.",
+        "Source Text SHA256": "342D48C1C61809FECF1085BC1EEA93D16AB14A06BC3C34A4D0FBDA81834FD27A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0007": {
+        "Target": "Выберите «Привязка»,",
+        "Source Text SHA256": "7E972500D6B51C1438B1817CF35D167168494F5FB3E99260A11734ACFC69D9DC",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0008": {
+        "Target": "и появятся команды «Стражи» и «Магия».",
+        "Source Text SHA256": "65DEB6AA7B0429BE8BF0172940EBFE9685299FBF77AA0AD3A46F7D0CCC5571F0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0009": {
+        "Target": "Поскольку Страж не привязан,{Line}«Магия» показана серым.",
+        "Source Text SHA256": "0749C9A1DD344F949535F11684FD3F15523D00AE0806D462CC2CC8431B61BB2C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0010": {
+        "Target": "Давайте привяжем Стража.",
+        "Source Text SHA256": "914BD5622A44806FA50C5918BF9DFFA0CB91B1F842364CE8649E63718FCE7207",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0011": {
+        "Target": "Выберите «Стражи»,",
+        "Source Text SHA256": "79FB26FB6EF49CE977DF2D70FF09CB151A668B367C16A2576F6974C747C23BF6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0012": {
+        "Target": "чтобы открыть их список.",
+        "Source Text SHA256": "E8C2075691DCAF69BA1905056D346825803524F8A7879CA0FA47C5D2FC48C7E3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0013": {
+        "Target": "Нажмите {Key Cards}, чтобы увидеть{Line}способности Стража.",
+        "Source Text SHA256": "251B2FD549AF9612CA1AF04E5255E339BCD6847A4CE71FD1DA97B24EDC854E08",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0014": {
+        "Target": "Среди них привязки{Line}к ЖЗ,{Line}выносливости и другим параметрам.",
+        "Source Text SHA256": "CC6EB8AC6AEA2208FA03DEF4651298D5CC934FD33EC6006F196AE992D66342FD",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0015": {
+        "Target": "Выберем Стража.",
+        "Source Text SHA256": "CB26277974D4641AD82981965EC741E7DF506EDF369582BC92585C5FDEE3BB48",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0016": {
+        "Target": "После выбора Стража {Name Quetzacotl}",
+        "Source Text SHA256": "7936669CC2119070E2AD988D5B2C8BC400BE47864608301D04AFCB8E81CF16D0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0017": {
+        "Target": "его способности",
+        "Source Text SHA256": "953DEA7737C2B2ABB69298B95CA768B7F9FFFFD05DD57EC0775A4525DCE6E5DB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0018": {
+        "Target": "привязки к ЖЗ и выносливости{Line}выделят эти параметры белым.",
+        "Source Text SHA256": "E1114EDA62B57AFED81A5FDB4AE2143137AEE937E91FD236F2B2837D80440D40",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0019": {
+        "Target": "Теперь к ЖЗ и выносливости{Line}можно привязать магию.",
+        "Source Text SHA256": "6F22D44F1D3AB91E712661CAF106D66037A882F001CA819BC3F6A5FC82F5B1F2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0020": {
+        "Target": "Но пока магии нет, так что{Line}перейдём к",
+        "Source Text SHA256": "6FEEFE070339B516340DACC875F74F497F31F14633EAD2750739C4B898DE1EB7",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0021": {
+        "Target": "назначению способностей.",
+        "Source Text SHA256": "2D48697C2B4F1B8A8D8FB08D1D2C4D5466EB694EE46C51B2E742A474533F52F4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0022": {
+        "Target": "Есть три командные способности",
+        "Source Text SHA256": "19B4B7BAD7E118C8BDA7A151D2963B055F69D02D57D3ABF672D525D2819008BF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0023": {
+        "Target": "и две некомандные —{Line}для персонажа или отряда.",
+        "Source Text SHA256": "E40EE0FFD39297FDA4A6826970EB78177DD30FB51CD39D4F59E607E2E5888442",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0024": {
+        "Target": "Всего можно назначить пять способностей.",
+        "Source Text SHA256": "ADDC519F5AC1FE792609353C478A5B0ABAAE78E348F4BB500720ED8574B35A6D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0025": {
+        "Target": "В зависимости от способностей Стража{Line}можно назначить до четырёх{Line}некомандных способностей.",
+        "Source Text SHA256": "6CE263A9CEFDBFBA9143085668EE482371C2A83F07F658FEBE96C5E67C311809",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0026": {
+        "Target": "То есть всего можно назначить{Line}до семи способностей.",
+        "Source Text SHA256": "8F2962932B2616DFEA484A941162053F16B531828AA6AE0CA792BD5835479031",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0027": {
+        "Target": "Назначим несколько способностей.",
+        "Source Text SHA256": "A631A70B664554509136535FFB51AB91781036BF9576407D3E6776A17165EAE4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0028": {
+        "Target": "Сначала выберите ячейку.",
+        "Source Text SHA256": "FD01F5364B6DFE854F00DE1CC664256C5650910789E9DABC229E25585E43738F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0029": {
+        "Target": "Верхнее окно предназначено для команд,{Line}которые используются в бою.",
+        "Source Text SHA256": "25E4F47622A15CFE0B2C1E82CD2367759BEEDB316E37D21EB5D89074375EEE62",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0030": {
+        "Target": "Нижнее окно — для способностей{Line}персонажа и отряда.",
+        "Source Text SHA256": "429CC647FD40819C25FAEE7681326283D6C171421D7BCE390A90F2B7179452BB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0031": {
+        "Target": "При выборе верхнего окна{Line}показываются командные способности,",
+        "Source Text SHA256": "1CE990BDABF25A6152DB21AC559806DB886938A0C823448C98ADA480526692FE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0032": {
+        "Target": "а при выборе нижнего —{Line}способности персонажа и отряда.",
+        "Source Text SHA256": "0AC880567A5966EC9BF2E2199F8C1FC41AF9A8746061541AE38F6BE17CA025D6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0033": {
+        "Target": "Поскольку магии{Line}пока нет,",
+        "Source Text SHA256": "F41B94271D3891CEEAC507752511017E28D2C7BC6BF2CC270363C27065CF4453",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0034": {
+        "Target": "назначим «Извлечение»,{Line}чтобы её получить.",
+        "Source Text SHA256": "9FA5727C79E6900EB600CC68DF766A26F4167A0886FDB4B8555938B73A91C141",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0035": {
+        "Target": "Когда выбрана пустая ячейка,",
+        "Source Text SHA256": "0A39E7876170DE3296A2EEB740E3F927622E7C018E096F4DA2153607C80B4E22",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0036": {
+        "Target": "курсор перемещается вправо.",
+        "Source Text SHA256": "031A9159995EF79C05038E46DD746690A67CF317E980E9A491410D51EB93E409",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0037": {
+        "Target": "Выберите «Извлечение»,{Line}чтобы назначить эту команду.",
+        "Source Text SHA256": "5E26D822928A7572CD6C8BEA03E9167A2F70BC4916B5B1ED55A2CC2AF06890E2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0038": {
+        "Target": "Так назначаются команды,{Line}которые используются в бою.",
+        "Source Text SHA256": "85C0D580B8970DE843FF675B1CFF1E6A7F0FAA229C93B503D818D1B54ECD13BC",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0039": {
+        "Target": "Добавим «Стражи» и «Предмет»{Line}к списку команд.",
+        "Source Text SHA256": "9281BEBE6ED0348C529D9FCF071EBE1B772A0FEF88E90A2F1369EA4CC7ADFA02",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0040": {
+        "Target": "Теперь «Стражи» и «Предмет» назначены.",
+        "Source Text SHA256": "885739FD054FAB0306BD4068A33B59620DC64C9860B0A2DFE99A1B749F3EE821",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0041": {
+        "Target": "Назначим некомандную способность.",
+        "Source Text SHA256": "3478B4040D546CED264B71D279D31B990E06270794CE36BDD8B7E02EFC1A401A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0042": {
+        "Target": "Переместите курсор вниз,",
+        "Source Text SHA256": "B37CE86D7FCEB4775CFECCB728DC2F5A3A7B4BEF6F46CF0F6A274A6EDADDB72B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0043": {
+        "Target": "чтобы увидеть способность персонажа.",
+        "Source Text SHA256": "B47BE7D802DAAC02F2980F8AAB39E3CE86516802933503DA5DCAEB7B25B480BB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0044": {
+        "Target": "Чтобы назначить «Маг+20%»,",
+        "Source Text SHA256": "B138314B8C502BA60441BA4115FADE10C9B3975A20070273DB11B48D03DCC896",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0045": {
+        "Target": "выберите пустую ячейку,",
+        "Source Text SHA256": "3102F1EDA5E0DA5E4D5EE6B0A656026A08301A0B26FA47905629420FBAAD8959",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0046": {
+        "Target": "а затем «Маг+20%».",
+        "Source Text SHA256": "6211CC168C44D2A1B8A0665C4ACE925E58CAE25CC5D13B67A2906A2E9ADE8CE9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0047": {
+        "Target": "«Маг+20%» назначена.",
+        "Source Text SHA256": "77D75D1C2927254165CA76FC244AA46FE80828E1F9DC0CDA923E53221DEE0248",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0048": {
+        "Target": "Способности назначены.",
+        "Source Text SHA256": "A50B1DF950477AF79435D960DBDF82510800E5B947653DA6497304F61281C46E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot160_table_0049": {
+        "Target": "На этом урок окончен.{Line}Спасибо и удачи.",
+        "Source Text SHA256": "6E552CFD77CBBBD826EA2F3829D6FADA1A8D47D4CB1213B0DA5F66FB1D78EF83",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "version": 1,
+  "cues": [
+    {
+      "startSeconds": 20.666666,
+      "endSeconds": 27.466666,
+      "text": "Я буду здесь…",
+      "layer": 0,
+      "style": {"fontFamily": "Arial", "fontSize": 0.075274, "bold": true, "x": 0.511, "y": 0.504, "color": "#F1F3FA"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "reveal": 0, "blur": 0.133816, "ripple": 0.16, "scaleX": 1, "scaleY": 1, "offsetX": 0, "offsetY": 0},
+        {"seconds": 0.266667, "opacity": 0.25, "reveal": 0.13, "blur": 0.104269},
+        {"seconds": 0.8, "opacity": 0.63, "reveal": 0.44, "blur": 0.074806, "ripple": 0.12},
+        {"seconds": 1.333334, "opacity": 0.83, "reveal": 0.81, "blur": 0.04849, "ripple": 0.075},
+        {"seconds": 1.733334, "opacity": 0.94, "reveal": 1, "blur": 0.014961, "ripple": 0.02, "scaleX": 1, "scaleY": 1},
+        {"seconds": 2.133334, "opacity": 0.96, "blur": 0.010008, "ripple": 0},
+        {"seconds": 6.133334, "opacity": 0.96, "scaleX": 1.115, "scaleY": 1.115, "offsetX": -0.009, "offsetY": -0.004, "blur": 0.010008, "ripple": 0},
+        {"seconds": 6.333334, "opacity": 0.68, "blur": 0.067467, "ripple": 0.08, "offsetY": 0.006},
+        {"seconds": 6.533334, "opacity": 0.24, "blur": 0.207816, "ripple": 0.21, "offsetY": 0.025},
+        {"seconds": 6.733334, "opacity": 0.035, "blur": 0.355984, "offsetY": 0.049},
+        {"seconds": 6.8, "opacity": 0}
+      ]
+    },
+    {
+      "startSeconds": 28.933333,
+      "endSeconds": 31.733333,
+      "text": "Зачем?",
+      "layer": 0,
+      "style": {"fontFamily": "Times New Roman", "fontSize": 0.075274, "bold": true, "x": 0.515, "y": 0.498, "color": "#F5F1F8"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "blur": 0.207816, "ripple": 0.23, "offsetY": 0.027, "offsetX": 0, "scaleX": 0.89, "scaleY": 1},
+        {"seconds": 0.266667, "opacity": 0.39, "blur": 0.11165, "offsetY": 0.009, "ripple": 0.19},
+        {"seconds": 0.6, "opacity": 0.85, "blur": 0.025748, "offsetY": -0.006, "ripple": 0.17},
+        {"seconds": 0.8, "opacity": 0.96, "blur": 0.010008, "offsetY": 0, "ripple": 0, "offsetX": 0, "scaleX": 1, "scaleY": 1},
+        {"seconds": 2.066667, "opacity": 0.96, "blur": 0.010008, "ripple": 0, "offsetX": -0.018, "scaleX": 1.065, "scaleY": 1.065, "scatter": 0, "noise": 0},
+        {"seconds": 2.333333, "opacity": 0.61, "blur": 0.074806, "ripple": 0.08, "scatter": 0.14, "noise": 0.16},
+        {"seconds": 2.6, "opacity": 0.17, "blur": 0.178203, "ripple": 0.16, "scatter": 0.48, "noise": 0.27},
+        {"seconds": 2.8, "opacity": 0, "blur": 0.326343, "scatter": 0.78}
+      ]
+    },
+    {
+      "startSeconds": 33.133333,
+      "endSeconds": 35.066666,
+      "text": "буду",
+      "layer": 0,
+      "style": {"fontFamily": "Times New Roman", "fontSize": 0.075274, "bold": true, "x": 0.353, "y": 0.327, "color": "#F4F1F8"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 0.72, "scaleY": 0.89, "blur": 0.296705, "ripple": 0.18, "offsetX": 0},
+        {"seconds": 0.2, "opacity": 0.42, "scaleX": 1, "scaleY": 1, "blur": 0.060146},
+        {"seconds": 0.466667, "opacity": 0.55, "offsetX": -0.014, "blur": 0.045592},
+        {"seconds": 0.933333, "opacity": 0.28, "offsetX": -0.028, "blur": 0.089522},
+        {"seconds": 1.266667, "opacity": 0.43, "offsetX": -0.045, "blur": 0.060146},
+        {"seconds": 1.666667, "opacity": 0.21, "offsetX": -0.06, "scaleX": 0.96, "scaleY": 0.96, "blur": 0.089522},
+        {"seconds": 1.933333, "opacity": 0, "offsetX": -0.067, "scaleX": 0.79, "scaleY": 0.85, "blur": 0.281887}
+      ]
+    },
+    {
+      "startSeconds": 33.2,
+      "endSeconds": 34.666666,
+      "text": "я",
+      "layer": 1,
+      "style": {"fontFamily": "Times New Roman", "fontSize": 0.075274, "bold": true, "x": 0.501, "y": 0.586, "color": "#F5F0F7"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 1.95, "scaleY": 0.8, "blur": 0.326343, "ripple": 0.12},
+        {"seconds": 0.333333, "opacity": 0.65, "scaleX": 1, "scaleY": 1, "blur": 0.05285},
+        {"seconds": 0.666666, "opacity": 0.19, "blur": 0.193008},
+        {"seconds": 0.8, "opacity": 0.1, "blur": 0.23744},
+        {"seconds": 1.066666, "opacity": 0.39, "blur": 0.071869},
+        {"seconds": 1.2, "opacity": 0.34, "scaleX": 1, "scaleY": 1, "blur": 0.089522},
+        {"seconds": 1.466666, "opacity": 0, "scaleX": 1.46, "scaleY": 0.84, "blur": 0.355984}
+      ]
+    },
+    {
+      "startSeconds": 33.533333,
+      "endSeconds": 34.866666,
+      "text": "ждать",
+      "layer": 2,
+      "style": {"fontFamily": "Times New Roman", "fontSize": 0.075274, "bold": true, "x": 0.498, "y": 0.405, "color": "#F3EFF5"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 1.75, "scaleY": 0.8, "blur": 0.311523, "ripple": 0.22},
+        {"seconds": 0.133333, "opacity": 0.51, "scaleX": 1.36, "scaleY": 1.12, "blur": 0.096892},
+        {"seconds": 0.266667, "opacity": 0.62, "scaleX": 1.12, "scaleY": 1.12, "blur": 0.057224, "ripple": 0.18},
+        {"seconds": 0.733333, "opacity": 0.56, "scaleX": 1, "scaleY": 1, "blur": 0.074806},
+        {"seconds": 1.0, "opacity": 0.33, "scaleX": 1, "scaleY": 0.86, "blur": 0.148605, "ripple": 0.23},
+        {"seconds": 1.333333, "opacity": 0, "scaleX": 0.92, "scaleY": 0.69, "blur": 0.355984}
+      ]
+    },
+    {
+      "startSeconds": 33.8,
+      "endSeconds": 35.8,
+      "text": "здесь",
+      "layer": 1,
+      "style": {"fontFamily": "Times New Roman", "fontSize": 0.075274, "bold": true, "x": 0.452, "y": 0.491, "color": "#F5F2F7"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 1.3, "scaleY": 0.17, "blur": 0.326343, "ripple": 0.2, "offsetY": 0, "offsetX": 0},
+        {"seconds": 0.2, "opacity": 0.2, "scaleY": 0.43, "blur": 0.207816},
+        {"seconds": 0.8, "opacity": 0.14, "offsetX": 0.01, "offsetY": 0.015, "scaleY": 0.55, "blur": 0.178203},
+        {"seconds": 1.133333, "opacity": 0.27, "offsetX": 0.017, "offsetY": 0.039, "scaleY": 0.8, "blur": 0.089522},
+        {"seconds": 1.466666, "opacity": 0.43, "offsetX": 0.023, "offsetY": 0.07, "scaleX": 1, "scaleY": 1, "blur": 0.038394, "ripple": 0.07},
+        {"seconds": 1.733333, "opacity": 0.28, "offsetX": 0.027, "offsetY": 0.082, "scaleX": 1, "scaleY": 1, "blur": 0.074806},
+        {"seconds": 2.0, "opacity": 0, "offsetX": 0.032, "offsetY": 0.094, "scaleX": 1.08, "scaleY": 0.86, "blur": 0.311523}
+      ]
+    },
+    {
+      "startSeconds": 34.533333,
+      "endSeconds": 37.866666,
+      "text": "Я буду ждать здесь…",
+      "layer": 3,
+      "style": {"fontFamily": "Arial", "fontSize": 0.075274, "bold": true, "x": 0.499, "y": 0.498, "color": "#F9F6FA"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 0.86, "scaleY": 0.86, "blur": 0.193008, "ripple": 0.1, "splitX": 0},
+        {"seconds": 0.133333, "opacity": 0.78, "splitX": 0.009, "blur": 0.038394},
+        {"seconds": 0.2, "opacity": 0.69, "splitX": 0.024, "blur": 0.060146},
+        {"seconds": 0.333333, "opacity": 0.78, "splitX": 0, "blur": 0.038394, "ripple": 0},
+        {"seconds": 0.533333, "opacity": 0.64, "splitX": 0, "blur": 0.119036, "ripple": 0.12},
+        {"seconds": 0.733333, "opacity": 0.96, "scaleX": 1, "scaleY": 1, "blur": 0.010008, "ripple": 0},
+        {"seconds": 2.066667, "opacity": 0.98, "splitX": 0, "blur": 0.010008},
+        {"seconds": 2.2, "opacity": 0.84, "splitX": 0.012, "blur": 0.032705},
+        {"seconds": 2.333333, "opacity": 0.98, "splitX": 0, "blur": 0.010008},
+        {"seconds": 2.8, "opacity": 0.98, "scaleX": 1.235, "scaleY": 1.235, "blur": 0.010008, "ripple": 0, "brightness": 1},
+        {"seconds": 3.0, "opacity": 0.81, "blur": 0.089522, "ripple": 0.12, "brightness": 1.38},
+        {"seconds": 3.133333, "opacity": 0.7, "blur": 0.170801, "ripple": 0.18, "brightness": 2.15},
+        {"seconds": 3.266667, "opacity": 0.2, "blur": 0.400448, "brightness": 1.4},
+        {"seconds": 3.333333, "opacity": 0, "blur": 0.622805, "ripple": 0.25}
+      ]
+    },
+    {
+      "startSeconds": 39.6,
+      "endSeconds": 42.266666,
+      "text": "Чего?",
+      "layer": 0,
+      "style": {"fontFamily": "Times New Roman", "fontSize": 0.075274, "bold": true, "x": 0.501, "y": 0.499, "color": "#F6F3F8"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 1, "scaleY": 1, "blur": 0.011633, "noise": 0, "brightness": 1},
+        {"seconds": 0.266666, "opacity": 0.52, "blur": 0.010952},
+        {"seconds": 0.533333, "opacity": 0.97, "blur": 0.010008},
+        {"seconds": 1.533333, "opacity": 0.97, "blur": 0.010008, "noise": 0, "brightness": 1, "scaleX": 1, "scaleY": 1},
+        {"seconds": 1.8, "opacity": 0.91, "noise": 0.51, "blur": 0.028503, "brightness": 1.17, "scaleX": 1, "scaleY": 1},
+        {"seconds": 2.066666, "opacity": 0.9, "noise": 0.82, "blur": 0.039828, "brightness": 1.48, "scaleX": 1, "scaleY": 1},
+        {"seconds": 2.2, "opacity": 0.94, "noise": 0.76, "blur": 0.071869, "brightness": 2.1, "scaleX": 1.32, "scaleY": 0.66},
+        {"seconds": 2.266666, "opacity": 1, "noise": 0.42, "blur": 0.082159, "brightness": 2.9, "scaleX": 1.72, "scaleY": 0.43},
+        {"seconds": 2.4, "opacity": 1, "noise": 0, "blur": 0.060146, "brightness": 3.5, "scaleX": 3.12, "scaleY": 0.088},
+        {"seconds": 2.533333, "opacity": 0.78, "noise": 0, "blur": 0.089522, "brightness": 3, "scaleX": 3.38, "scaleY": 0.06},
+        {"seconds": 2.666666, "opacity": 0, "scaleX": 3.48, "scaleY": 0, "blur": 0.119036}
+      ]
+    },
+    {
+      "startSeconds": 43.533333,
+      "endSeconds": 46.8,
+      "text": "Я буду ждать тебя…",
+      "layer": 0,
+      "style": {"fontFamily": "Arial", "fontSize": 0.075274, "bold": true, "x": 0.499, "y": 0.499, "color": "#F5F4F8"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 1.35, "scaleY": 0.11, "blur": 0.444916, "ripple": 0, "splitX": 0},
+        {"seconds": 0.266667, "opacity": 0.38, "scaleX": 1.29, "scaleY": 0.13, "blur": 0.26707},
+        {"seconds": 0.533333, "opacity": 0.68, "scaleX": 1.19, "scaleY": 0.145, "blur": 0.148605},
+        {"seconds": 0.666667, "opacity": 0.82, "scaleX": 1.13, "scaleY": 0.38, "blur": 0.096892},
+        {"seconds": 0.866667, "opacity": 0.97, "scaleX": 1, "scaleY": 1, "blur": 0.010008},
+        {"seconds": 2.2, "opacity": 0.97, "scaleX": 1.021, "scaleY": 1.021, "blur": 0.010008, "splitX": 0},
+        {"seconds": 2.4, "opacity": 0.98, "splitX": 0.031, "blur": 0.01552, "scaleX": 1.021, "scaleY": 1.021},
+        {"seconds": 2.733333, "opacity": 0.93, "splitX": 0.105, "blur": 0.03412, "scaleX": 1.04, "scaleY": 0.97},
+        {"seconds": 2.866667, "opacity": 0.75, "blur": 0.071869, "scaleX": 1.09, "scaleY": 0.87},
+        {"seconds": 3.0, "opacity": 0.41, "splitX": 0.21, "blur": 0.163401, "scaleX": 1.18, "scaleY": 0.56},
+        {"seconds": 3.266667, "opacity": 0, "splitX": 0.28, "blur": 0.385626, "scaleX": 1.24, "scaleY": 0.18}
+      ]
+    },
+    {
+      "startSeconds": 47.666666,
+      "endSeconds": 50.133333,
+      "text": "И если ты придёшь…",
+      "layer": 0,
+      "style": {"fontFamily": "Arial", "fontSize": 0.075274, "bold": true, "x": 0.498, "y": 0.498, "color": "#F5F1F6"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 1.18, "scaleY": 0.1, "blur": 0.415271, "splitY": 0},
+        {"seconds": 0.133334, "opacity": 0.39, "scaleX": 1.16, "scaleY": 0.13, "blur": 0.207816},
+        {"seconds": 0.333334, "opacity": 0.66, "scaleX": 1.08, "scaleY": 0.16, "blur": 0.119036},
+        {"seconds": 0.466667, "opacity": 0.87, "scaleX": 1.02, "scaleY": 0.58, "blur": 0.04849},
+        {"seconds": 0.6, "opacity": 0.97, "scaleX": 1, "scaleY": 1, "blur": 0.010008},
+        {"seconds": 1.533334, "opacity": 0.97, "scaleX": 1.024, "scaleY": 1.024, "blur": 0.010008, "splitY": 0},
+        {"seconds": 1.733334, "opacity": 0.92, "splitY": 0.022, "blur": 0.014418},
+        {"seconds": 1.933334, "opacity": 0.9, "splitY": 0.052, "blur": 0.029896},
+        {"seconds": 2.2, "opacity": 0.74, "splitY": 0.078, "blur": 0.054307},
+        {"seconds": 2.4, "opacity": 0.5, "splitY": 0.1, "blur": 0.086576},
+        {"seconds": 2.466667, "opacity": 0}
+      ]
+    },
+    {
+      "startSeconds": 51.133333,
+      "endSeconds": 53.8,
+      "text": "Ты найдёшь меня.",
+      "layer": 0,
+      "style": {"fontFamily": "Times New Roman", "fontSize": 0.075274, "bold": true, "x": 0.5, "y": 0.499, "color": "#F8F4F5"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "blur": 0.385626, "ripple": 0.22, "scaleX": 0.9, "scaleY": 1},
+        {"seconds": 0.2, "opacity": 0.43, "blur": 0.178203, "ripple": 0.15},
+        {"seconds": 0.4, "opacity": 0.84, "blur": 0.042704, "ripple": 0.06},
+        {"seconds": 0.6, "opacity": 0.97, "blur": 0.010008, "ripple": 0, "scaleX": 1, "scaleY": 1},
+        {"seconds": 2.0, "opacity": 0.97, "blur": 0.010008},
+        {"seconds": 2.266667, "opacity": 0.55, "blur": 0.03554},
+        {"seconds": 2.533333, "opacity": 0.14, "blur": 0.074806},
+        {"seconds": 2.666667, "opacity": 0, "blur": 0.104269}
+      ]
+    },
+    {
+      "startSeconds": 54.8,
+      "endSeconds": 57.2,
+      "text": "Я обещаю.",
+      "layer": 0,
+      "style": {"fontFamily": "Times New Roman", "fontSize": 0.075274, "bold": true, "x": 0.501, "y": 0.502, "color": "#F8F2F6"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "blur": 0.578331, "ripple": 0.22, "scaleX": 0.86, "scaleY": 1, "scatter": 0, "brightness": 1},
+        {"seconds": 0.266666, "opacity": 0.37, "blur": 0.252254, "ripple": 0.17},
+        {"seconds": 0.533333, "opacity": 0.71, "blur": 0.104269, "ripple": 0.075},
+        {"seconds": 0.733333, "opacity": 0.97, "blur": 0.010008, "ripple": 0, "scaleX": 1, "scaleY": 1},
+        {"seconds": 1.6, "opacity": 0.97, "blur": 0.010008, "ripple": 0, "scaleX": 1, "scaleY": 1, "scatter": 0, "brightness": 1},
+        {"seconds": 1.8, "opacity": 1, "blur": 0.060146, "brightness": 1.7, "scaleX": 1.06, "scaleY": 1.06},
+        {"seconds": 1.933333, "opacity": 1, "blur": 0.123469, "brightness": 2.55, "scaleX": 1.15, "scaleY": 1.2, "scatter": 0},
+        {"seconds": 2.066666, "opacity": 1, "blur": 0.26707, "brightness": 3.8, "scaleX": 1.35, "scaleY": 1.46, "scatter": 0.04},
+        {"seconds": 2.2, "opacity": 0.79, "blur": 0.355984, "brightness": 3.6, "scaleX": 1.59, "scaleY": 1.69, "scatter": 0.09},
+        {"seconds": 2.333333, "opacity": 0.13, "blur": 0.415271, "brightness": 2.45, "scaleX": 1.65, "scaleY": 1.75, "scatter": 0.16},
+        {"seconds": 2.4, "opacity": 0}
+      ]
+    },
+    {
+      "startSeconds": 41.866666,
+      "endSeconds": 42.266666,
+      "text": "━━━━━━━━━",
+      "layer": 1,
+      "style": {"fontFamily": "Arial", "fontSize": 0.075274, "bold": true, "x": 0.5, "y": 0.499, "color": "#FFFBEB"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 0.9, "scaleY": 2.408, "blur": 0.045592},
+        {"seconds": 0.133334, "opacity": 0.87, "scaleX": 1.25, "scaleY": 2.408, "blur": 0.020414},
+        {"seconds": 0.2, "opacity": 1, "scaleX": 1.35, "scaleY": 2.128, "blur": 0.017888},
+        {"seconds": 0.266667, "opacity": 0.82, "scaleX": 1.43, "scaleY": 1.848, "blur": 0.024388},
+        {"seconds": 0.4, "opacity": 0, "scaleX": 1.47, "scaleY": 1.4, "blur": 0.039828}
+      ]
+    },
+    {
+      "startSeconds": 43.533333,
+      "endSeconds": 44.4,
+      "text": "━━━━━━━━━━",
+      "layer": 1,
+      "style": {"fontFamily": "Arial", "fontSize": 0.075274, "bold": true, "x": 0.5, "y": 0.499, "color": "#FEF8EB"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 1.23, "scaleY": 1.54, "blur": 0.089522},
+        {"seconds": 0.266667, "opacity": 0.47, "scaleX": 1.16, "scaleY": 1.764, "blur": 0.063072},
+        {"seconds": 0.533333, "opacity": 0.69, "scaleX": 1.1, "scaleY": 2.044, "blur": 0.03554},
+        {"seconds": 0.6, "opacity": 0.71, "scaleX": 1.06, "scaleY": 2.212, "blur": 0.032705},
+        {"seconds": 0.733333, "opacity": 0.31, "scaleX": 1.02, "scaleY": 2.52, "blur": 0.060146},
+        {"seconds": 0.866667, "opacity": 0, "scaleX": 1, "scaleY": 2.52, "blur": 0.089522}
+      ]
+    },
+    {
+      "startSeconds": 47.666666,
+      "endSeconds": 48.266666,
+      "text": "━━━━━━━━━",
+      "layer": 1,
+      "style": {"fontFamily": "Arial", "fontSize": 0.075274, "bold": true, "x": 0.5, "y": 0.499, "color": "#FCF8ED"},
+      "keyframes": [
+        {"seconds": 0.0, "opacity": 0, "scaleX": 1.13, "scaleY": 1.372, "blur": 0.089522},
+        {"seconds": 0.133334, "opacity": 0.4, "scaleX": 1.12, "scaleY": 1.68, "blur": 0.060146},
+        {"seconds": 0.266667, "opacity": 0.59, "scaleX": 1.08, "scaleY": 1.932, "blur": 0.039828},
+        {"seconds": 0.333334, "opacity": 0.62, "scaleX": 1.04, "scaleY": 2.1, "blur": 0.03412},
+        {"seconds": 0.466667, "opacity": 0.27, "scaleX": 1, "scaleY": 2.38, "blur": 0.060146},
+        {"seconds": 0.6, "opacity": 0, "scaleX": 0.96, "scaleY": 2.52, "blur": 0.104269}
+      ]
+    }
+  ]
+}

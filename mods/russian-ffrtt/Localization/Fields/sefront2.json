@@ -1,0 +1,150 @@
+{
+  "Fields": {
+    "sefront2": {
+      "$en_sefront2_0000": {
+        "Target": "{X150Y150}(Я не{Line} разговариваю с незнакомцами.){End}",
+        "Source Text SHA256": "466D7AD8E70D4A5C3699CC11BF8A24910AF6189DF695A824CEEF1055894740F9",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0001": {
+        "Target": "{X150Y150}(Эм, лидер приказал мне{Line} не говорить об Эллоне.){End}",
+        "Source Text SHA256": "B65854399D3E04B19BCF076BC1ED3B5F12874AD59130AE606BD0D0BCB354E321",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0002": {
+        "Target": "{X20Y170}Лидер сказал, что, эм,{Pause 48}{Line} нам нельзя разговаривать с незнакомцами.{End}",
+        "Source Text SHA256": "FBE869E0ED481F6213D6EDD706B5FD8A1C2AC2BB7C1A1045B8AFAC3EA931C75F",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0003": {
+        "Target": "{X20Y170}Лидер может меня отшлёпать, если{Line} я нарушу своё обещание. Он{Next}может заставить меня уйти, а{Line} я не умею плавать, поэтому утону.{End}",
+        "Source Text SHA256": "04040D4B9C79A2F55118E081F544CFD9DEF92ABF35914108D610753B21A78306",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0004": {
+        "Target": "{X150Y150}White SeeD{Line}{Next}Прошу...{Pause 48}{Line} Мне вам нечего. Мне очень жаль.{End}",
+        "Source Text SHA256": "032CA07DA9D04020A511FBE23A5DC5200B1209C4E337858A32E1A658AADAE074",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0005": {
+        "Target": "{X150Y150}White SeeD{Line}После того как Эдея ушла,{Line} лидер взял на себя всю ношу.{End}",
+        "Source Text SHA256": "4FE2D96B0001FC5BD7FEB405D6775D6B72A286BD02518C689281F293ECFA9834",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0006": {
+        "Target": "{X150Y150}White SeeD{Line}Если он не хочет об этом говорить, что{Line} ж - мы тоже.{End}",
+        "Source Text SHA256": "8B81957DA37C0B710E7CA70402EE4FB96A7B9A7B407D57C53A99C2E50FF4643A",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0007": {
+        "Target": "{X150Y150}«Я не очень люблю учиться.{Line}Но хочу носить белую форму, как{Line}госпожа Лина, так что буду стараться».{End}",
+        "Source Text SHA256": "6C0472308F1887ED5023778964E7F0436097286CE3F71DC8EB8B86267CF3F6C2",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0008": {
+        "Target": "{X150Y150}«Эль говорит, что многому{Line}в жизни за учебниками{Line}не научишься».{End}",
+        "Source Text SHA256": "7A19BE46316A82EC12328503EE14EBE7096E85A62548C65969FE5F44D130B13D",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0009": {
+        "Target": "{X20Y170}«Сегодня трудный{Line}урок».{Next}«Это важно,{Line}но я не понимаю».{End}",
+        "Source Text SHA256": "7D07BE34660649D7FD503B155A8350F0004A1B11C9B05EB7189A7BAD28BAC015",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0010": {
+        "Target": "{X20Y170}«Вот вырасту и тоже надену{Line}белую форму».{Next}«Хочу стать сильным белым SeeD,{Line}чтобы защищать Эль».{End}",
+        "Source Text SHA256": "AD8DB2EBC3CA75FA5A35FE1751B923CD8ECE8817FC609FAED7F60B34278C6FF1",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0011": {
+        "Target": "{X150Y130}Белый SeeD{Line}«Сегодня мы начнём новую книгу.{Line}Она о мудреце по имени Васкарун.{Line}Книга называется{Line}„Легенда о Васкаруне“».{End}",
+        "Source Text SHA256": "A4229549CADA0494650B94878EB52D886D71AC64124F82AFAB356E35617F0265",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0012": {
+        "Target": "{X33Y92}Жил когда-то{Line}человек по имени Хайн.{Next}Хайн правил миром.{Line}Однажды ему стало лень трудиться,{Line}и он решил облегчить себе жизнь.{Next}Он придумал орудие, которое{Line}само делало такие же орудия.{Line}Вскоре их стало множество.{Next}Этими орудиями были люди.{End}",
+        "Source Text SHA256": "0AC2AEF6EC9DB469167ABE923486EEFE14DC697221FBCDB189BCF042E89DF228",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0013": {
+        "Target": "{X13Y92}Проснувшись, Хайн удивился:{Line}людей стало очень много.{Next}Он захотел, чтобы их стало меньше,{Line}и магией сжёг множество{Line}маленьких людей.{Next}Маленьких людей звали детьми.{Line}Люди очень дорожили своими детьми.{End}",
+        "Source Text SHA256": "B71DE44030FEE4A99AD4797E923834F5A093EB91D92B5F5ECBF03E71851A6177",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0014": {
+        "Target": "{X19Y62}Тогда люди восстали{Line}против Хайна. Он обрушил на них{Line}могучую магию. Люди ею не владели,{Line}зато им хватало мудрости. Со временем{Line}Хайн стал проигрывать: людей было{Line}слишком много, и они становились{Line}всё изобретательнее.{Next}Он решился заключить с людьми мир{Line}и предложил им половину своего тела{Line}вместе со своей силой.{End}",
+        "Source Text SHA256": "0B6E64DCBF835AD3748C14AA58E7A86E505330A6946363D1E936C108BC20E1A9",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0015": {
+        "Target": "{X22Y92}Хайн рассёк своё тело надвое{Line}и, как обещал, отдал половину людям.{Next}Тут вспыхнула другая война.{Line}Люди спорили, кому достанется сила,{Line}которую Хайн оставил им в своём теле.{Next}Война длилась десятилетиями.{Next}В конце концов царь Зебалга{Line}и его племя одержали верх и потребовали,{Line}чтобы половина тела Хайна дала им силу.{Next}Но тело не ответило.{End}",
+        "Source Text SHA256": "B94D505E236A9B9F38ABB070CA3895B2B071666BC46DA3076732093D28D08C3F",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0016": {
+        "Target": "{X15Y68}Тогда на помощь пришёл Васкарун.{Line}Он явился к растерянным зебалгам{Line}и открыл им: тело, оставленное Хайном,{Line}истлело и не таило никакой силы.{Line}Хайн просто сбросил кожу{Line}и выдал её за половину своего тела.{Next}Узнав правду, зебалги разгневались{Line}и решили уничтожить Хайна.{Next}Они так его и не нашли.{Next}Люди стали звать его{Line}«Хайн-чародей» и ещё много{Line}столетий охотились за ним.{End}",
+        "Source Text SHA256": "10DD3399B519C0D1143D1552B7D3982A1D8E7D24B17FC746EB7A20F8BBF8D921",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      },
+      "$en_sefront2_0017": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "873D439458AEFF38C9648E8B34089559640AB4D69685D80F7D539FCD780596A8",
+        "sourceContext": {
+          "Source MSD SHA256": "319DF327E99B105E80C54DDECFBDFF75F6E01A081FFC05F97C957D9D3B6ACA87",
+          "JSM SHA256": "4B2B10E0B3CA5DBF43A42231FD2FA11D416FE7BA4B1FB609437399301F75681E"
+        }
+      }
+    }
+  }
+}

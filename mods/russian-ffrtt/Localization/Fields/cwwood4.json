@@ -1,0 +1,182 @@
+{
+  "Fields": {
+    "cwwood4": {
+      "$en_cwwood4_0000": {
+        "Target": "{X80Y40}У тебя отобрали [600 гилей]!{End}{End}",
+        "Source Text SHA256": "1CC3C1A27929F181F02C1659F2EB35A286CBBAEEE6B5CB9B5ABA598B96BFFA11",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0001": {
+        "Target": "{X70Y60}Получены [Овощи Гизаль]!{End}{End}",
+        "Source Text SHA256": "2576124869068DC7C3E0E7F07DDF26F4AB4E2C1D7D5DA42E910C52B0D39678D3",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0002": {
+        "Target": "{X30Y20}{Char Squall}{Line}«Ты хочешь мне что-то дать?»{End}{End}",
+        "Source Text SHA256": "16B73A064BBBB2B9FA8952D5413E9064CD28A83A81A5B5A2B10785C79DC294DD",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0003": {
+        "Target": "{X30Y20}Получена [карта Чокобо]!{End}{End}",
+        "Source Text SHA256": "05D2673356B9BA4401151A5C8293CBDBCC4C7F19F3D43D69EF1B54A238078E82",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0004": {
+        "Target": "{X10Y10}Чокобой{Line}«Я даже немного… завидую…»{End}{End}",
+        "Source Text SHA256": "86EC93163B4EB69A51ADFA3F6C8C1A85F115AE496230EC4542A3F5B887D290CE",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0005": {
+        "Target": "{X10Y10F2L3B2C1}Чокобой{Line}«…В последний раз нужна помощь?»{Line}Да, так и есть{Line}Нет, спасибо{End}",
+        "Source Text SHA256": "BB7FA1C541741386F7235C78569FC73993776F66CC5DB5BD73E473D64D1D3098",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0006": {
+        "Target": "{X10Y10}Чокобой{Line}«…Может, ещё свидимся.{Line} Спасибо, что был моим клиентом».{End}{End}",
+        "Source Text SHA256": "F166A4A4F4EBAB2793240CB1C7C9136B18F1E219482AE1FD89095455F7D019A2",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0007": {
+        "Target": "{X10Y10}Чокобой{Line}«Не хочется с тобой прощаться».{End}{End}",
+        "Source Text SHA256": "00E07EB1B4087809A5E12737EB249777CF173789CD46DB8418E101E9CD1A2723",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0008": {
+        "Target": "{X10Y10}Чокобой{Line}«Здесь чокобо со всего мира!{Line} Ух ты! Вот это событие!»{End}{End}",
+        "Source Text SHA256": "8FD6DB295B9DBB1BF0B096BCE4C745644336C400AAABEB0B20219BD9492FE86B",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0009": {
+        "Target": "{X10Y10}Чокобой{Line}«А? Ты уже нашёл этот лес?{Line} У меня на это ушло долгих три года…{Line} Это священная земля чокобо.{Line} Торговать здесь нельзя».{End}{End}",
+        "Source Text SHA256": "001FA1FC3283648361595EF60C3FDAE712738C60AA8AE0C8B46CA77F57A9D052",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0010": {
+        "Target": "{X10Y10}Чокобой{Line}«Тут полно чокобо{Line} из самых разных мест.{Line} Интересно, что будет, если все соберутся?»{End}{End}",
+        "Source Text SHA256": "C8E2CC23485E008F964D493BE0865E97635428699DB9D3CE4C0F826F1190DFF7",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0011": {
+        "Target": "{X10Y10}Чокобой{Line}«Похоже, тут собрались{Line} мамы чокобо из всех лесов».{End}{End}",
+        "Source Text SHA256": "44622CB1E0193BE71E88DB4CF240425CCDD446032E73AA090411A70676366E4D",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0012": {
+        "Target": "{X10Y10}Чокобой{Line}«Ну, это последний раз,{Line} когда увидишь меня за работой».{End}{End}",
+        "Source Text SHA256": "583A876163029FF8DD70473CB6515C47EA27F6C6B6338C2C53B8D8964A703473",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0013": {
+        "Target": "{X40Y40}Чокобой{Line}«Иди сюда… чоко, чоко, чоко…»{End}{End}",
+        "Source Text SHA256": "0DC33DE12F9ABBF9F4C9DCB75A116183BD4C807A3CD98902608385638197580E",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0014": {
+        "Target": "{X40Y40}Чокобой{Line}«Я СКАЗАЛ, ИДИ СЮДА, ЧОКОБО!!! Ну пожалуйста…»{End}{End}",
+        "Source Text SHA256": "DE41292786EE7C49E6B7F5D541738970E94095B45DBE721D422AC6D66051A859",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0015": {
+        "Target": "{X40Y40}Чокобой{Line}«Хе-хе, {Color WhiteBlink}хе{Color White}! Ну, как тебе?!»{End}{End}",
+        "Source Text SHA256": "D5977DEF4AD9F1EA5ECC01855B331B973C673FF586F1F1706F8F779559181AFE",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0016": {
+        "Target": "{X40Y40}Чокобой{Line}«Д-давай! Увидимся{Line} когда-нибудь, где-нибудь!!!»{End}{End}",
+        "Source Text SHA256": "1D26469F9155995F5193F329F337F65717B518030671DBE66F7097A55C378C35",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0017": {
+        "Target": "Чокобой{Line}«Дать подсказку? Бесплатно».{Line}Подсказка 1{Line}Подсказка 2{End}{End}",
+        "Source Text SHA256": "85CDE1CD86B7C337E7F409F7E90958E358F0938A0F890FB5ED0694EE0F6DD53D",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0018": {
+        "Target": "{X22Y30F0L1B0C1}Поеду дальше на чокобо{Line}Ещё немного побуду в лесу{End}{End}",
+        "Source Text SHA256": "7EAF4D12347E391FEC61037D9163A25CA0C6999749AE75662E1D2783D5A59FAC",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0019": {
+        "Target": "«Вы сели на чокобо».{End}{End}",
+        "Source Text SHA256": "8110C99D5264AC95A83211E42FA9675C83F22CCC92208C906B123736B4E560E7",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0020": {
+        "Target": "{Invalid}{End}{End}",
+        "Source Text SHA256": "8348E2A51A7859E1C57F682D4A07D85D2A4753584122A0162D645CA2B54E5B84",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      },
+      "$en_cwwood4_0021": {
+        "Target": "{X10Y10}Чокобой{Line}«Вы в {Color Blue}〖Лесу чокобо〗{Color White}...{Line} Не приходите сюда толпой!{Line} Это совершенно особенное место».{End}{End}",
+        "Source Text SHA256": "87494E615AD69655E67BD6030A5A0EF316723F4015586666826327707A3BFDF8",
+        "sourceContext": {
+          "Source MSD SHA256": "56BB05952C4552751B7E1F9D1369BF52EE0F360AD3AC9E2CA6EDD679FAE509F9",
+          "JSM SHA256": "2B7D58A47A0F551A2CE25D06D2833AB5E9239F3734BCA75ACC2B6F93FF24B8FE"
+        }
+      }
+    }
+  }
+}

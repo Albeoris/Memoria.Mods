@@ -1,0 +1,237 @@
+{
+  "Weapons": {
+    "kernel_weapons_name": {
+      "$en_kernel_weapons_name_0000": {
+        "Target": "Револьвер",
+        "Source Text SHA256": "B015D3DDEFF42D858D06BFC28AB994F070479BA167C7F26D00F16DECC9331A16",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0001": {
+        "Target": "Режущий клинок",
+        "Source Text SHA256": "31C2278A0966678F14E1BA449CE74F01A77A6683A629FEC75A5085BC070CDAEF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0002": {
+        "Target": "Рубящий клинок",
+        "Source Text SHA256": "12E75BF5D65FCA178CBAA357F657F55055C4475F08181B783D43BD110CD43E9C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0003": {
+        "Target": "Пламенное лезвие",
+        "Source Text SHA256": "7DFA1C94D9E51B4F567881206BCCF8ACE9F3D5D5354FEE8130C7183D99E0A195",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0004": {
+        "Target": "Двойное лезвие",
+        "Source Text SHA256": "19CDB7812E863D777FB4E0092F1C7E040E662D9717101EAAB54417E27CB728D1",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0005": {
+        "Target": "Возмездие",
+        "Source Text SHA256": "1C24FE07DC2195693BC2263C4EEAD55E1037EF14198AE152D8771F02A6C783E6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0006": {
+        "Target": "Львиное сердце",
+        "Source Text SHA256": "3F7F16BE447D4DDD058EDCBA781A9DCE91B65C289B491EAC2CF9F3C3E701913A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0007": {
+        "Target": "Стальные кастеты",
+        "Source Text SHA256": "3073CF78C51154627DD45638C91D747A80DBB8FEE751F7DA3DC09F7D3AF92E02",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0008": {
+        "Target": "Бунтарь",
+        "Source Text SHA256": "1AADCB76733000C9C85B52C63B732EF84B8038DAB6FE81134FF9EDBB021F5003",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0009": {
+        "Target": "Перчатки",
+        "Source Text SHA256": "5847DA60FEBFDA23FE9E34CDE6A2294FB935BBD24CE42D6AFB8CADD7E2E7D082",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0010": {
+        "Target": "Эргайц",
+        "Source Text SHA256": "FEEF2362E587C62179A69FDC3AAA5FEC08170CEA59915A5ACD34142DD99EB55E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0011": {
+        "Target": "Вэлиант",
+        "Source Text SHA256": "FC2DED91A6E5AB65E77D6EB4CE5877C85FE9C1134054F9A9607DB9664F478340",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0012": {
+        "Target": "Улисс",
+        "Source Text SHA256": "33F83BE02E086D379ECDAEF1DB22A1E01E1056E337440555095AB678799599F5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0013": {
+        "Target": "Бисмарк",
+        "Source Text SHA256": "C79C68225F2682921E745DDCCF91E8BBB9F47EC40F6FF6AE9AFF9CDE9C241EA8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0014": {
+        "Target": "Эксетер",
+        "Source Text SHA256": "3EF7E995C2CA31E6354BDA2BBCD5ACD9DE5B144B1DB73D67B4677938C189DC8A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0015": {
+        "Target": "Цепной кнут",
+        "Source Text SHA256": "064A6BA53311F9CCC32FB5A1B4561B910924153FB754F9B36A9E8334DA260A57",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0016": {
+        "Target": "Хвост Слейпнира",
+        "Source Text SHA256": "A35F51D18D00D673A2D3424206A5614D3E15F7B55E46CD58D60AEBCA0F0BF2EF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0017": {
+        "Target": "Красный скорпион",
+        "Source Text SHA256": "7272C38E9AD28CDB6A19CC6921F8C177E6C45C73C01AF3C1C8D5FD5CC3994AC6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0018": {
+        "Target": "Храни королеву",
+        "Source Text SHA256": "67D6FA42FCAFBFF0718E41D3BC51684D62297ECF9DB0AD95A3407903B01B2177",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0019": {
+        "Target": "Полнолуние",
+        "Source Text SHA256": "1243B6A5E83151EC960034E263C31D6B4DFDCC5765517F705B05E6A721EE0F7C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0020": {
+        "Target": "Валькирия",
+        "Source Text SHA256": "F4FC2B23C5E19E5758FDCFFD076E35808C6B4571ACE242BB91D0828BA8B4268D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0021": {
+        "Target": "Восходящее солнце",
+        "Source Text SHA256": "42C9F36331A8897658D2E6A79A6FDA39A05092901CECAF06E887C008FE434AEF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0022": {
+        "Target": "Кардинал",
+        "Source Text SHA256": "6CC27BEFB6EC498B5C00B5A12B52AC1CB9DD2EFB2E3295424EF14DFD1A0A5D44",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0023": {
+        "Target": "Падающая звезда",
+        "Source Text SHA256": "2EA8505204DE0ED06AEFD053BDD7DDEAD4E01A6BACA08265D28CEA284D846836",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0024": {
+        "Target": "Цеп",
+        "Source Text SHA256": "0AAC4F3D8041A76C4C895898B28AE8A9C1867A47CEA75E1913E0A79AE3B6A07A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0025": {
+        "Target": "Моргенштерн",
+        "Source Text SHA256": "CA949AB43E76D70B2863A2583E2842DCBE3030A3EE126D0AA1E4472CEF8E3FE4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0026": {
+        "Target": "Полумесяц желания",
+        "Source Text SHA256": "6D395B383D69092C518FF40B98450B48D8D0B45F377402D292D275CF6A0B980E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0027": {
+        "Target": "Странное видение",
+        "Source Text SHA256": "C926128A624408259403199ED934D4EDBB43A44DBA4B138699789D76D8819853",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0028": {
+        "Target": "Гиперион",
+        "Source Text SHA256": "58F9F0664267D00A780F55682359CE18CA143E508ABBE3F1EF562F32A19B4F7A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0029": {
+        "Target": "Нет",
+        "Source Text SHA256": "DC937B59892604F5A86AC96936CD7FF09E25F18AE6B758E8014A24C7FA039E91",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0030": {
+        "Target": "Автомат",
+        "Source Text SHA256": "9D25A0CC2B9129F470D0B0EB0AE6024FB171BCB95FDEDC2FE025D89FF6CDC3C7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0031": {
+        "Target": "Катары",
+        "Source Text SHA256": "6556D50E59174472D84A525612C4C66343C8B50DFA64323181C7F69160351B8A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_weapons_name_0032": {
+        "Target": "Гарпун",
+        "Source Text SHA256": "58D9FE00D99C28FB9E32332EF6797254F018B07DBDD7C2848D2460C9FB363D06",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

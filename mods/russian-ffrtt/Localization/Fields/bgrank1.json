@@ -1,0 +1,38 @@
+{
+  "Fields": {
+    "bgrank1": {
+      "$en_bgrank1_0000": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source MSD SHA256": "605EB4866EBB1937C3F04DBD39C3953B41162E2C5D4C4470ADACDE0618C1FC70",
+          "JSM SHA256": "B0ADDC4C6F08A6EC1EAAE28F38F9D53D76FBE040E901A39E2BF80BCAA843B4F7"
+        }
+      },
+      "$en_bgrank1_0001": {
+        "Target": "{X72Y32}Поведение              {Var 49} б.{Line}{Line}Рассудительность      {Var 50} б.{Line}{Line}Атака                  {Var 51} б.{Line}{Line}Боевой дух             {Var 52} б.{Line}{Line}Отношение к заданию   {Var 53} б.{Line}{Line}                Ранг Сида   {Var 54}{End}",
+        "Source Text SHA256": "7574C2AE22608B18907A4CE0A4887728FED2752F6091786A7EFF0EC7A0C1C06D",
+        "sourceContext": {
+          "Source MSD SHA256": "605EB4866EBB1937C3F04DBD39C3953B41162E2C5D4C4470ADACDE0618C1FC70",
+          "JSM SHA256": "B0ADDC4C6F08A6EC1EAAE28F38F9D53D76FBE040E901A39E2BF80BCAA843B4F7"
+        }
+      },
+      "$en_bgrank1_0002": {
+        "Target": "{X69Y20}Поведение              {Var 49} б.{Line}{Line}Рассудительность      {Var 50} б.{Line}{Line}Атака                  {Var 51} б.{Line}{Line}Боевой дух             {Var 52} б.{Line}{Line}Вычет баллов           {Var 53} б.{Line}{Line}Дополнительные баллы {Var 54} б.{Line}{Line}                 Ранг Сида   {Var 55}{End}",
+        "Source Text SHA256": "908E9D64568E8D704B36CE6FA79D4AEEDDE956072D39435622180BE88FC19423",
+        "sourceContext": {
+          "Source MSD SHA256": "605EB4866EBB1937C3F04DBD39C3953B41162E2C5D4C4470ADACDE0618C1FC70",
+          "JSM SHA256": "B0ADDC4C6F08A6EC1EAAE28F38F9D53D76FBE040E901A39E2BF80BCAA843B4F7"
+        }
+      },
+      "$en_bgrank1_0003": {
+        "Target": "{X45Y32}Как Сид, ты будешь регулярно{Line}получать жалованье.{Line}{Line}Жалованье зависит{Line}от ранга Сида.{Line}{Line}Ранг Сида растёт в зависимости{Line}от твоих действий в бою.{Line}{Line}Некоторые поступки приведут{Line}к снижению ранга.{End}",
+        "Source Text SHA256": "225F98D13DF418DF7A9CF2C5094605F9211FCA0473B96EA1521F885451E2B9FE",
+        "sourceContext": {
+          "Source MSD SHA256": "605EB4866EBB1937C3F04DBD39C3953B41162E2C5D4C4470ADACDE0618C1FC70",
+          "JSM SHA256": "B0ADDC4C6F08A6EC1EAAE28F38F9D53D76FBE040E901A39E2BF80BCAA843B4F7"
+        }
+      }
+    }
+  }
+}

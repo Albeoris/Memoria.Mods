@@ -1,0 +1,62 @@
+{
+  "Draw points": {
+    "drawpoints_world": {
+      "$en_drawpoints_world_0000": {
+        "Target": "Крышка дисковода открыта.",
+        "Source Text SHA256": "524939D8D041908087AD534E555A1B70D160230995D75C00CFC4C87E15DF54FE",
+        "sourceContext": {
+          "Source SHA256": "0B849E199015B7CFA4BB9D0DD4CDE500CAC04FAFF2CD5DA4E3B0AD33171AA300"
+        }
+      },
+      "$en_drawpoints_world_0001": {
+        "Target": "Вставьте диск FINAL FANTASYⅧ{Line}№ {Var 55}.",
+        "Source Text SHA256": "152259A22A288455EB5370C6389A0533F9D2A1EEE7820C3144A1E953538EDE3A",
+        "sourceContext": {
+          "Source SHA256": "0B849E199015B7CFA4BB9D0DD4CDE500CAC04FAFF2CD5DA4E3B0AD33171AA300"
+        }
+      },
+      "$en_drawpoints_world_0002": {
+        "Target": "Найдена точка извлечения!{Line}Обнаружено заклинание: {Name 32}.",
+        "Source Text SHA256": "4AF5D2861EE8F92BA3BCE0CB2583C34D57A9FA75B6512CC92C9B320B3C979A54",
+        "sourceContext": {
+          "Source SHA256": "0B849E199015B7CFA4BB9D0DD4CDE500CAC04FAFF2CD5DA4E3B0AD33171AA300"
+        }
+      },
+      "$en_drawpoints_world_0003": {
+        "Target": "Найдена точка извлечения!{Line}Здесь ничего нет...",
+        "Source Text SHA256": "91A353870A6A8739CAC0AD06234BFDAB41011168FFFDC0AAFC06DDE690D15B29",
+        "sourceContext": {
+          "Source SHA256": "0B849E199015B7CFA4BB9D0DD4CDE500CAC04FAFF2CD5DA4E3B0AD33171AA300"
+        }
+      },
+      "$en_drawpoints_world_0004": {
+        "Target": "Кто извлечёт магию?{Line}Не извлекать{Line}{Color Disabled}{Char Squall}      {Line}{Color Disabled}{Char Squall}      {Line}{Color Disabled}{Char Squall}      ",
+        "Source Text SHA256": "6F8814884ECD9F51301A12FD712F2E23A5B668A433A5375CF5D295D3B5A730AB",
+        "sourceContext": {
+          "Source SHA256": "0B849E199015B7CFA4BB9D0DD4CDE500CAC04FAFF2CD5DA4E3B0AD33171AA300"
+        }
+      },
+      "$en_drawpoints_world_0005": {
+        "Target": "{Char Squall} — в запас: {Var 55} × {Name 32}.",
+        "Source Text SHA256": "A2DE6E021D2B132A7D275D37BA360DFED26EA92B72AB6874BD343BA974157592",
+        "sourceContext": {
+          "Source SHA256": "0B849E199015B7CFA4BB9D0DD4CDE500CAC04FAFF2CD5DA4E3B0AD33171AA300"
+        }
+      },
+      "$en_drawpoints_world_0006": {
+        "Target": "{Char Squall} — не удаётся запасти {Name 32}.",
+        "Source Text SHA256": "8EA0FD58FD6EE2C96FB5A2DC94509CA952FB9DD277392FE07595B737C6C38424",
+        "sourceContext": {
+          "Source SHA256": "0B849E199015B7CFA4BB9D0DD4CDE500CAC04FAFF2CD5DA4E3B0AD33171AA300"
+        }
+      },
+      "$en_drawpoints_world_0007": {
+        "Target": "Найдена точка извлечения!{Line}Никто не умеет извлекать магию...",
+        "Source Text SHA256": "7D4EFB827D911E627912F9105887956ED5CA8D80DA11132BE0127A4A228F0116",
+        "sourceContext": {
+          "Source SHA256": "0B849E199015B7CFA4BB9D0DD4CDE500CAC04FAFF2CD5DA4E3B0AD33171AA300"
+        }
+      }
+    }
+  }
+}

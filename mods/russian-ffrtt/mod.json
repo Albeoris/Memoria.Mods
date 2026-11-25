@@ -1,0 +1,30 @@
+{
+  "id": "russian-ffrtt",
+  "name": "FFRTT",
+  "package": "Localization",
+  "description": {
+    "en": "Russian localization by FFRTT for the English Classic and Remastered game resources.",
+    "ru": "Русская локализация FFRTT для английских ресурсов классической и обновлённой версий игры."
+  },
+  "kind": "language",
+  "languageOffers": [
+    {
+      "locale": "ru",
+      "label": "FFRTT",
+      "option": "ru",
+      "nativeVariants": [
+        {
+          "edition": "Classic",
+          "language": "en"
+        },
+        {
+          "edition": "Remastered",
+          "language": "en"
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    "russian-ffrtt-opening"
+  ]
+}

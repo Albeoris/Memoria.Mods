@@ -1,0 +1,30 @@
+{
+  "Fields": {
+    "sdcore2": {
+      "$en_sdcore2_0000": {
+        "Target": "{X33Y92}{Color Grey}Вы открыли ещё один путь к своей судьбе…{End}",
+        "Source Text SHA256": "57BD5726C5B72FC72EF852C11672EE56F539637E775C493BADA4E11A874A159B",
+        "sourceContext": {
+          "Source MSD SHA256": "97128CCF11E566EDA70B4BBA258EC3D357EE6B92C7ACAB212E318CB6BFD2C0AA",
+          "JSM SHA256": "1F8FE20722B452E2C10B31199DA5E5A022FB7EE526F41509C6CF3435D1BC62D7"
+        }
+      },
+      "$en_sdcore2_0001": {
+        "Target": "{X45Y92}{Color Grey}Любопытные вы создания,{Next}столько в вас пыла…{End}",
+        "Source Text SHA256": "7517132DA0B84615E5C03C454ABD195AD2FBA61EE43B2B80C3749B50721D57BF",
+        "sourceContext": {
+          "Source MSD SHA256": "97128CCF11E566EDA70B4BBA258EC3D357EE6B92C7ACAB212E318CB6BFD2C0AA",
+          "JSM SHA256": "1F8FE20722B452E2C10B31199DA5E5A022FB7EE526F41509C6CF3435D1BC62D7"
+        }
+      },
+      "$en_sdcore2_0002": {
+        "Target": "{X63Y8}〖Точка сохранения〗{Line} Открой меню и выбери{Line}[Сохранить].{End}",
+        "Source Text SHA256": "4F0AFC424BF2942C49656F0E698A468F620B9D18AD46A5F13CC81EED6ED7979D",
+        "sourceContext": {
+          "Source MSD SHA256": "97128CCF11E566EDA70B4BBA258EC3D357EE6B92C7ACAB212E318CB6BFD2C0AA",
+          "JSM SHA256": "1F8FE20722B452E2C10B31199DA5E5A022FB7EE526F41509C6CF3435D1BC62D7"
+        }
+      }
+    }
+  }
+}

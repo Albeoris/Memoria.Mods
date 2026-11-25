@@ -1,0 +1,146 @@
+{
+  "Abilities": {
+    "kernel_characterabilities_description": {
+      "$en_kernel_characterabilities_description_0000": {
+        "Target": "Заменяет «Атаку» на «Грабёж»",
+        "Source Text SHA256": "64BB6159A77DCE43DFA19C91F37879DC34B806570C03E88A58825CE6702F50AF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0001": {
+        "Target": "Удваивает действие лекарств",
+        "Source Text SHA256": "11881E51AD016EB2DFC4F4A5DB132E3CB6EFCE1CD069426C23411EB34EEE3346",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0002": {
+        "Target": "Отвечает контратакой на полученный удар",
+        "Source Text SHA256": "D015A7945FF670916835623D47E0F0EAA657B2F46E2259C2E889F2E8B3789A41",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0003": {
+        "Target": "Возвращает противнику 1/4 полученного урона",
+        "Source Text SHA256": "62171E3270C870C5FE94322D476469654FF5A26C48CD3B11EF7C5B28AA486C39",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0004": {
+        "Target": "Принимает удар вместо союзника",
+        "Source Text SHA256": "05E47F3460A3D3D5AE5E89E5EE2F435B44CA18F0278F75BA5585C6D887D22A25",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0005": {
+        "Target": "Позволяет действовать сразу после начала боя",
+        "Source Text SHA256": "96851E05A9778E823BAC0E02127E81B8B2D76A5B1A0CD89E0BDC369FC6DC6469",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0006": {
+        "Target": "Восстанавливает ЖЗ при ходьбе",
+        "Source Text SHA256": "7C1E937F4A5443CE5BD0BAA1845F3D65E6A29CC8922DFD633A982EA1D4B9346D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0007": {
+        "Target": "ЖЗ +30 при повышении уровня",
+        "Source Text SHA256": "9DBA12635B884EF355F85E15F1EDC353D198737D4BD37C6B71FCCA786BEFCD2D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0008": {
+        "Target": "Сила +1 при повышении уровня",
+        "Source Text SHA256": "4E1CB997A827443C01649E7F2B382BF06DC2573F7C434F1DE8C931B4F280BE30",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0009": {
+        "Target": "Выносливость +1 при повышении уровня",
+        "Source Text SHA256": "14CCA23FF70A9152F35F14C0D58DFA2B9F7EDA2D036295234AC2198AD700B376",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0010": {
+        "Target": "Магия +1 при повышении уровня",
+        "Source Text SHA256": "777E117393139B945F46E5A2BB009BDF20682E8AA362AB6B0881B384E7CEF192",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0011": {
+        "Target": "Дух +1 при повышении уровня",
+        "Source Text SHA256": "9BE4188C5EA63B6C67FF51713E684ECDEA9A79BDF0D8552874F4ABF5639ECDF3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0012": {
+        "Target": "Автоматически накладывает Защиту в бою",
+        "Source Text SHA256": "D89D741454E63F531EF6DD9E993BA9374638C14EEC1137105DC12AEFFA3F3C6F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0013": {
+        "Target": "Автоматически накладывает Оболочку в бою",
+        "Source Text SHA256": "D5E2B8FC3A6113577BA89C91CA7C09476B33139A3DDE03DB7DCB2D4349307B24",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0014": {
+        "Target": "Автоматически накладывает Отражение в бою",
+        "Source Text SHA256": "E64A8531A358BC334DA098A6104D7FD0103DCCBADB12D719946B5BC5DA304358",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0015": {
+        "Target": "Автоматически накладывает Ускорение в бою",
+        "Source Text SHA256": "6C9915DAD7B405AAE245919F051C5397460297CD2E8586A4FCC5A62CA02C51F7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0016": {
+        "Target": "После удара автоматически использует лечебные предметы",
+        "Source Text SHA256": "5B6AB899FA90810FBDAA793A547AE46EBBBC9EB94340C82A8A00ACCBE663AA79",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0017": {
+        "Target": "Расходует одну единицу магии при двойном заклинании",
+        "Source Text SHA256": "FB38C1885911D918292E89F43CF36A7CFC6ACC059A8E8A35F1BD919344F4DA85",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0018": {
+        "Target": "Расходует одну единицу магии при тройном заклинании",
+        "Source Text SHA256": "48175D35437740C59FFA6776A7E375C61204492A4C85EB9D068D4F856B4231F0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_description_0019": {
+        "Target": "Защищает от всех отрицательных состояний",
+        "Source Text SHA256": "E819522165385E6BA12A92C9EAF8B8C5F0896B787D4F4193087D15CAE5CCCFF1",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

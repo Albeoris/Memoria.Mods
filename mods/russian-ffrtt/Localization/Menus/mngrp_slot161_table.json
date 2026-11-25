@@ -1,0 +1,202 @@
+{
+  "Menus": {
+    "mngrp_slot161_table": {
+      "$en_mngrp_slot161_table_0000": {
+        "Target": "Привязка магии",
+        "Source Text SHA256": "A5A82C84C9D7B3D9200EE193FD2D81D8984174EF2DEB3CC79DABEE8D190C4458",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0001": {
+        "Target": "Привязывая магию, можно{Line}улучшать характеристики персонажа.",
+        "Source Text SHA256": "55EBD68927C5CD46C4920295AC3EA8538C1EFB294E5415ECEE5CB294C702BEB0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0002": {
+        "Target": "Если Страж изучил способность",
+        "Source Text SHA256": "A5D4F89C7B21A1A1FA39F93BB19DB4612F1D3257FFA4CB8DC267FD5B36150920",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0003": {
+        "Target": "привязки к характеристике,{Line}она будет{Line}выделена белым.",
+        "Source Text SHA256": "6B1AB56CB816B01D48C8EE6F0F75CD3387DBB8C6BBE2383BBE2B4684509F0066",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0004": {
+        "Target": "Выберите «Привязка»,",
+        "Source Text SHA256": "99443548C7BD8A599A9F91D79CACA7B4A4F4886847B6EE5AA1ED95AF5DEAFD9C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0005": {
+        "Target": "и появятся команды «Стражи» и «Магия».",
+        "Source Text SHA256": "934048806F882EBF89E97B8608C68151843DB0E7683CA7286E0879A0EA528CEF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0006": {
+        "Target": "Чтобы привязать заклинание,{Line}выберите «Магия».",
+        "Source Text SHA256": "3048B94340D000A27BDED1BC5D76926D390000FD0268EA6AA42824C385B6B5F2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0007": {
+        "Target": "После выбора «Магии»",
+        "Source Text SHA256": "806EF168074F3E4FE8061B59856E6C6413C11FA91AACDDB574C28C55F6B4A1EF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0008": {
+        "Target": "появится список заклинаний.",
+        "Source Text SHA256": "799E6957DF3BA5BB8FEB3ABCD9CA26E9D164B1F81E030BDD4AFB5B22BF4F5A8C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0009": {
+        "Target": "Курсором выберите{Line}характеристику для привязки.",
+        "Source Text SHA256": "6713573ACDCC67465C0795A26F2F1AF0D27943D45B43C8FFE2302BEB32E6F1DF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0010": {
+        "Target": "Выбрав силу,",
+        "Source Text SHA256": "5F8A91B97E80C62FC9D0FF0FB1C7FE284A9149B77EE0BD5DEFEBBE064A797965",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0011": {
+        "Target": "укажите заклинание курсором.",
+        "Source Text SHA256": "F8C4E4E5577F498FCCCB56CD056654D3374057531CED1A7D219EE4176BFA2C64",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0012": {
+        "Target": "Для каждого заклинания видно,{Line}как меняется характеристика.",
+        "Source Text SHA256": "B61BBDA6770AE6547E75E27CD417215791CE0C4FCB26D8CEBCCDD50391428A43",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0013": {
+        "Target": "После выбора заклинания",
+        "Source Text SHA256": "CBC73C3DA9D5E53621FBE7E2ADE07B53C56307EFB6D774354AA43BDF3C58050E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0014": {
+        "Target": "оно появится рядом с характеристикой,{Line}а её значение изменится.",
+        "Source Text SHA256": "F7FBEE4B121A5DA84012FE5451A2A703455003DAC77015DEA3D30FA1CE3FF48D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0015": {
+        "Target": "К одной характеристике можно{Line}привязать только одно заклинание.",
+        "Source Text SHA256": "AC2140157EA8F3A9C20C431885ADFE2CAE91E80F79DC65A86F1F4A30A3EB1656",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0016": {
+        "Target": "Однако",
+        "Source Text SHA256": "F525BE826182C25B1C5BE8CD2204B70532B091FF3B1371D15AFFAA6C6CD948CA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0017": {
+        "Target": "нет необходимости привязывать{Line}заклинания по одному вручную.",
+        "Source Text SHA256": "973E476A7CAD902220635BCB4E1115C8BEBC757298CBF2C4FF7FDFFD3D08C8C2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0018": {
+        "Target": "После привязки{Line}выберите «Авто».",
+        "Source Text SHA256": "7F9F69740083A820A0E4814B2F36DE116A90CFFA3A83F8DA6EB50852F0AB2950",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0019": {
+        "Target": "«Авто» привязывает{Line}магию автоматически.",
+        "Source Text SHA256": "3D7372DB43509CD889705A0AFF57B0DD8D337F5232082617EC7142683C6F0D46",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0020": {
+        "Target": "На выбор есть{Line}три команды.",
+        "Source Text SHA256": "88E5B87E8BB606E3284C8FE5D92748BAA66365E49E7C646FE1DAB72B21F1D498",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0021": {
+        "Target": "«Атк» делает упор на силу,",
+        "Source Text SHA256": "735628162EF02AC34345FBE1AAE607AD20877FA39020881B4FAE583F6BAE9EB7",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0022": {
+        "Target": "«Маг» — на силу магии,",
+        "Source Text SHA256": "58321B82A7CFED9A94524DBBBE992AD210098A3B886D7648D5E7FBB00F729A82",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0023": {
+        "Target": "а «Защ» —{Line}на повышение ЖЗ.",
+        "Source Text SHA256": "EC88D0B8ABA3BC468D04972F73EB9FDDB4BFE556CFDA29D85172F6AB6CD268E0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0024": {
+        "Target": "Таким образом, «Авто»{Line}упрощает привязку магии.",
+        "Source Text SHA256": "82F5B74EDABBAAF10FEDEA1B079E83C2316901A2B4955555FD4E5D1C4AA73FF8",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0025": {
+        "Target": "Для примера выберем{Line}«Атк».",
+        "Source Text SHA256": "8AE75EACE3DF9CDF6012EAAD2B9C5F46560CC62A36C2C118286AB34987ECFDE4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0026": {
+        "Target": "Магия привязана{Line}для повышения силы.",
+        "Source Text SHA256": "10460F9DC7E4230631816E6CDB949FE0CE614AD9AABC1CADE472C0D55AA1DD48",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot161_table_0027": {
+        "Target": "На этом урок{Line}привязки магии окончен.",
+        "Source Text SHA256": "2F99E3E4E8BE85D3B39AD3AC17677CD3B22C4C16BD8DE61BE0B0BF0D2D31DF12",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

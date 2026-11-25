@@ -1,0 +1,22 @@
+{
+  "Fields": {
+    "bgmd2_6": {
+      "$en_bgmd2_6_0000": {
+        "Target": "{X12Y12F2L3B2C3}(It looks like I’ll have to{Line} use this ladder again.){Line}(Спуститься сейчас){Line}(Ещё не готов){End}",
+        "Source Text SHA256": "5BD710599B838D5BEB66D1EE1B0B22566B930830F8677457481356FFBF145A23",
+        "sourceContext": {
+          "Source MSD SHA256": "E2B43D84635CA5F86EAED0A176739C2D31BCD736461E9630CD741273EBAE1D43",
+          "JSM SHA256": "A05EBE083E34B37B0C91592E041652BA8B7E12B047F65069313F728601621D9B"
+        }
+      },
+      "$en_bgmd2_6_0001": {
+        "Target": "{X100Y12}(После того столкновения дорога наверх была разрушена, так{Line} что я не могу спуститься этим путём.) (Этим{Line} путём спуститься не получиться, лестница отвалилась.){End}",
+        "Source Text SHA256": "A2241A8E10B164825F08EB2172BA49575672ADEF699020082092D6D2A7EDECB2",
+        "sourceContext": {
+          "Source MSD SHA256": "E2B43D84635CA5F86EAED0A176739C2D31BCD736461E9630CD741273EBAE1D43",
+          "JSM SHA256": "A05EBE083E34B37B0C91592E041652BA8B7E12B047F65069313F728601621D9B"
+        }
+      }
+    }
+  }
+}

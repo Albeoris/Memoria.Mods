@@ -1,0 +1,1481 @@
+{
+  "Fields": {
+    "tmkobo2": {
+      "$en_tmkobo2_0000": {
+        "Target": "{X51Y70}Голос Помощника старейшины{Line}«{Color Yellow}Конечно. Помощник хочет{Line} работать рядом с ним.{Line} Показать ему, как мы изменились.{Line} Снова увидеть мастера Лагуну…{Color White}»{End}",
+        "Source Text SHA256": "45BE4E3DBFD2F91222D73D200C93C3BE4EBBDEB42611B480DB4A44EC49D0FD27",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0001": {
+        "Target": "{X73Y70}Голос Помощника старейшины{Line}«{Color Yellow}Мастер Лагуна…{Color White}»{End}",
+        "Source Text SHA256": "F370DA2EFA4DBD676091BEED21A607FFF274679EDD54F8D1D35096DCC921720F",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0002": {
+        "Target": "{X73Y70}Голос Помощника старейшины{Line}«{Color Yellow}Шуми…{Color White}»{End}",
+        "Source Text SHA256": "2DEAF50F84342B68553E5E3A3E3C0EED10B3A0450939AE048BB63655CA8E4FAC",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0003": {
+        "Target": "{X80Y40}Помощник старейшины{Line}«…Прошу вас уйти».{End}",
+        "Source Text SHA256": "0DAA611DF51AC99B92EA9ED303D67846C4E17B0E86EED0CB958E9BD2CDFFC7B8",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0004": {
+        "Target": "{X80Y40}Скульптор{Line}«О? Старейшина пришёл».{End}",
+        "Source Text SHA256": "F9120D562CA56F5DACB4E2F0C6149D69BF7849CC8CBA01A0B164BD95A8DB5FA7",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0005": {
+        "Target": "{X80Y40}Помощник старейшины{Line}«Помощнику интересно,{Line} понравится ли это Старейшине».{End}",
+        "Source Text SHA256": "8D608D3329A45DEF9CF43BF77D5D9C20D07CF687A83E4D4F0BA3875A4BAD4486",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0006": {
+        "Target": "{X80Y40}Ремесленник{Line}«Как хорошо, что Старейшина пришёл».{End}",
+        "Source Text SHA256": "7F7684EC96DFD396D6CDB53F19DD6A9E277826CAF7F2FCAC58701BB0EF3BC9EE",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0007": {
+        "Target": "{X80Y40}Скульптор{Line}«Какая прекрасная мелодия».{End}",
+        "Source Text SHA256": "9F1F8114B2EC1CDE938C531140D7BA5AA50E9F33190AF6B5FD2BAC510D804DE3",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0008": {
+        "Target": "{X80Y40}Помощник старейшины{Line}«……»{End}",
+        "Source Text SHA256": "89068D108F65C84987B793F2C02BAB3886F6EFF1C58FEF5F76748B0CD564A84C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0009": {
+        "Target": "{X80Y40}Ремесленник{Line}«Хм… Может, во внешнем мире{Line} есть своя прелесть».{End}",
+        "Source Text SHA256": "7EAAB1E5DA29FE9F9463AE5C89E3B68EAA2ECBFB0A28BD83C941DD12435AD1B1",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0010": {
+        "Target": "{X80Y40}Скульптор{Line}«Как вспомню… Долгий же путь мы прошли».{End}",
+        "Source Text SHA256": "4EA72BF3295073EF5C3BA3E464D24D7F0FC9D02EE07D731E9A3AF6D914BAC1F1",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0011": {
+        "Target": "{X80Y40}Ремесленник{Line}«Хм, работать сообща не так уж и плохо».{End}",
+        "Source Text SHA256": "11B355AE666D463339D58B4E6D37A940A93E577805511F29A6F2E6FDDB8E10AC",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0012": {
+        "Target": "Помощник старейшины{Line}«Все отлично поработали...»{End}",
+        "Source Text SHA256": "633A946ED8FB44464D9D35C5B1D819D62B4123375956677F7B1AFDC64C8ED013",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0013": {
+        "Target": "{X80Y40}Скульптор{Line}«Наконец-то… Готово».{End}",
+        "Source Text SHA256": "81A590924C03EBB3CF2F84E0AC04C7AC5AC868F4B1B68421F1CE12CB0D3860F5",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0014": {
+        "Target": "{X80Y40}Помощник старейшины{Line}«Статуя готова. Теперь можно{Line} показать её Старейшине».{End}",
+        "Source Text SHA256": "F4B35FE2F419D732A0817C1F2BD54B4B6EB8D916A0E62A5F65C422DBCA8BABD1",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0015": {
+        "Target": "{X80Y40}Ремесленник{Line}«Хорошо вышло, правда?»{End}",
+        "Source Text SHA256": "D7B315D1930CBB3EE80B8A6863C58817AB7568C71ADC571D2D974A64C2051BB9",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0016": {
+        "Target": "{X80Y40}Скульптор{Line}«Для меня честь работать с двумя{Line} лучшими мастерами деревни».{End}",
+        "Source Text SHA256": "C6CC18C949783B404875B43B74CAB46ACAF28F5C0BDBBE63643287BEF3471661",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0017": {
+        "Target": "{X80Y40}Помощник старейшины{Line}«Дело идёт хорошо».{End}",
+        "Source Text SHA256": "D59A13C5C421762C374A27CD15DA81F3DE0B6D2291D7637C5E3B756C7FE1A522",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0018": {
+        "Target": "{X80Y40}Ремесленник{Line}«Закончить будет легко.{Line} Они и так славно поработали».{End}",
+        "Source Text SHA256": "79322F84E7969F5A487806C245CA17D2658635B9467491D764E7817B325F718D",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0019": {
+        "Target": "{X80Y30}Зелл{Line}«А мне тут нравится.{Line} Как-то сразу расслабляешься, да?»{End}",
+        "Source Text SHA256": "F707E9DBEFB5C188EB66F6679C888E5302A3690FBE1FC5BEB1282A1EF051C246",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0020": {
+        "Target": "{X80Y30}Ирвин{Line}«Слушай, а неплохо бы остаться тут{Line} ненадолго и смастерить что-нибудь».{End}",
+        "Source Text SHA256": "51705B9D7724F971E5D8E6160F86F063BA564246E206EC738D31E548D1999E34",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0021": {
+        "Target": "{X80Y30}{Char Rinoa}{Line}«Как здесь уютно».{End}",
+        "Source Text SHA256": "BAE3C65C0BB558808304441C781D2E3B7D46238D931C18CE1B0048C7E401837C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0022": {
+        "Target": "{X80Y30}Квистис{Line}«Как здесь спокойно».{End}",
+        "Source Text SHA256": "4BB0C3727D34802D3C8180B137930C5455485F8226D4C073C7088EE48C663D1E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0023": {
+        "Target": "{X80Y30}Сельфи{Line}«Мне ску-у-учно!»{End}",
+        "Source Text SHA256": "5B1B626EE280CE13474DF8830035230B74E577CFB621889C73C70532D3E6A9E4",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0024": {
+        "Target": "Помощник старейшины{Line}«Наверняка есть дела поважнее,{Line} чем делать эту статую».{End}",
+        "Source Text SHA256": "A7B26EB33A37404DF7E57969BF8BCC373F67E8A8CC39AFD96CF4E4E622AA58FB",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0025": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«Помощнику кажется, нам нужен{Line} ещё один умелый мастер».{End}",
+        "Source Text SHA256": "FB8059F1BC5DFCA01C62034DBF7ED9E8D8D7F73D826BC69463AA79DE66FD6CC0",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0026": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«…Как думаете, вам удастся{Line} уговорить Ремесленника?»{End}",
+        "Source Text SHA256": "B6AAE100B4602ED1426C2A5597E77FDEC35F3D4FBDB6B07A6448D0B3ECCC1A78",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0027": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«Ремесленник… Да…{Line} Вот кто мог бы нам помочь».{End}",
+        "Source Text SHA256": "87068984AFE3BA9CD9956B2191996DC7CF087F4345D51AF89DD10CA33422689E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0028": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«Ладно, ладно. Помощник возьмётся за работу».{End}",
+        "Source Text SHA256": "F76C3046A273E82D9E695F12A82861BE5C944D29B87BECEB78B8B0C9D3EC498C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0029": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«…Ну… хорошо. Помощник будет работать».{End}",
+        "Source Text SHA256": "604E78DA68C1DA0889550F6778B350B6A7F9351FBA7FCBBFC3C6213D5B746E4C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0030": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«Старейшина не оставляет мне выбора».{End}",
+        "Source Text SHA256": "44E774E55C98C5AAA6492BA87E7430BB7118D806A660823AC91FCA64BFE58B0A",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0031": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«Это Старейшина сказал?{Line} Так нечестно».{End}",
+        "Source Text SHA256": "DA3F0C73723DC34675AEA23EE4A6FC5F806B010C9E3B1D2AAB0445AA42C69996",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0032": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«Помощник этого делать не будет.{Line} Помощнику не хочется».{End}",
+        "Source Text SHA256": "8F29E1FA61D1B6297A848D559FD8DA2BCBD60E2B101A7AC5CA7CAA667B39529D",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0033": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«Чего вы хотите?»{End}",
+        "Source Text SHA256": "D782900188596BB9BB308F076F3393FA20F1054F9EFEF93CCBFE3A5FADEFF932",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0034": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«А, это вы».{End}",
+        "Source Text SHA256": "E7B3F748432C228EA810F9A57026AD0C76B66D5382093ADCF39C2111F964635C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0035": {
+        "Target": "{X60Y80}Скульптор{Line}«…Скульптор думал, что станет полегче,{Line} но легче нисколько не стало».{End}",
+        "Source Text SHA256": "7FB2C6F0A3842C550CE2F6B6F1CCEE2424CE540411CA754327B7B185455E169B",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0036": {
+        "Target": "{X60Y80}Скульптор{Line}«…Ну что, Ремесленник{Line} согласился помочь?»{End}",
+        "Source Text SHA256": "990AF8C57037AA4693732D40F9CA9550869CC6DB3F56591CE0B66BA1FABEB339",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0037": {
+        "Target": "{X60Y80}Скульптор{Line}«…Теперь дело пошло{Line} немного легче».{End}",
+        "Source Text SHA256": "B559F045A561E3858FAE3D5DC8657A6D24D221577115B8E2676660FB93BDF516",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0038": {
+        "Target": "{X60Y80}Скульптор{Line}«Как Скульптор и ожидал,{Line} Помощник старейшины — чудесный мастер.{Line} Скульптор уже многому у него научился».{End}",
+        "Source Text SHA256": "631DF0A3CE7EEF8ACBB48B5CF27C02E53E4C00BEE134F9E9F1AB625234B3B06A",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0039": {
+        "Target": "{X5Y40}Помощник старейшины{Line}«Помощнику до сих пор не верится,{Line} что приходится делать эту дурацкую статую».{End}",
+        "Source Text SHA256": "29253A541AAD1DE8AA4810A24BBD3630908C71DD3B0AD5CF7714C04E0C671C42",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0040": {
+        "Target": "{X170Y30}{Char Squall}{Line}”!“{End}",
+        "Source Text SHA256": "0D6D57D74E7B3B948CAD6D6B8E2505D8FB66944DFAA599D48D6BFE60473976F7",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0041": {
+        "Target": "{X150Y40}{Char Squall}{Line}«…На Лагуну похож».{End}",
+        "Source Text SHA256": "2A49529C37F77C61F1FC931B1A638274CB8CF761208F6F6FADA53B3F48292510",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0042": {
+        "Target": "{X200Y30}Скульптор{Line}«!!!»{End}",
+        "Source Text SHA256": "D1059FDD0B21D6E7ACAE3BF8729823AC2676583911318BF67A335DF2C4B3960E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0043": {
+        "Target": "{X180Y40}Скульптор{Line}«Вы знаете мастера Лагуну?»{End}",
+        "Source Text SHA256": "4D994395F5BEB0812CDA639BDEDE8597736C5D24F9BAD609C3716939ABA9D3CD",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0044": {
+        "Target": "{X100Y50}{Char Squall}{Line}«Ну… вроде того».{End}",
+        "Source Text SHA256": "65898AFAD58BB6472D96863910317C2210BAC0A3A9861792488AA069D1ED8D39",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0045": {
+        "Target": "{X180Y40}Скульптор{Line}«Это Лагуна Луар».{End}",
+        "Source Text SHA256": "2EC12C3EAD04A975203A9E5E3F8184ED04D72E82B2326B7BB2BD445BF40E01AD",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0046": {
+        "Target": "{X180Y40}Скульптор{Line}«Давно, неподалёку от деревни, Мумба нашёл{Line} этого человека. Тот лежал весь в крови.{Line} Мумба принёс его к нам».{End}",
+        "Source Text SHA256": "58F295C898DA11D29A680A2285713FDAC1B52B660798815A994199DDA0B4BC91",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0047": {
+        "Target": "{X180Y40}Скульптор{Line}«Похоже, он поскользнулся{Line} и упал с обрыва. Мы ухаживали за ним,{Line} пока не зажили раны».{End}",
+        "Source Text SHA256": "A9DE4464896E77B58D2C4DBB9A5EE4EEC2F68F0538E45592276017A8E3C00C0D",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0048": {
+        "Target": "{X180Y40}Скульптор{Line}«Если хотите побольше узнать{Line} о мастере Лагуне,{Line} поговорите со Старейшиной».{End}",
+        "Source Text SHA256": "36E07FDAC5E9894388D30E363251C4CE65D436A2D7171CE1EF87BD17675E0D29",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0049": {
+        "Target": "Скульптор{Line}«Скульптор настаивает, поговорите с ним.{Line} Скульптор уверен, Старейшина будет рад».{Line}Хорошо{Line}У нас нет времени{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "3E117C468D57AEFA2CAC40C61F200ECCABC4AD27BB60ED5188CF27CA78952023",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0050": {
+        "Target": "{X180Y40}Скульптор{Line}«Прекрасно. Для чужеземца{Line} у вас доброе сердце».{End}",
+        "Source Text SHA256": "9221E8D99799DED2D24B628B548D1EC8A9158C4F4E628CF081AD6551A35F27FA",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0051": {
+        "Target": "{X180Y40}Скульптор{Line}«Скульптор скажет Мумбе у входа,{Line} чтобы вас пропустили».{End}",
+        "Source Text SHA256": "B73532AF3BA03C29F9C5E32696369D8488E85D1DEE89944666449568E8C768C5",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0052": {
+        "Target": "{X80Y40}{Char Squall}{Line}«Вы разводите здесь Мумб?»{End}",
+        "Source Text SHA256": "15212676CA97F40F9B19F2300603746DA31D35BE68BB173D025137495F93F913",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0053": {
+        "Target": "{X180Y40}Скульптор{Line}«…Разводим?.. Мумба — один из многих{Line} обликов, которые мы, Шуми, принимаем в конце».{End}",
+        "Source Text SHA256": "B2DA28E84F9E6E3C68B3A5AEFD4B6577C572812D398026EAA536786685C822AF",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0054": {
+        "Target": "{X80Y40}{Char Squall}{Line}«В конце?»{End}",
+        "Source Text SHA256": "2EDAEF57BE7F37E4BDAB93F6CAD04B48E57C9A900EBB6FC1B4C677FE9C3BD2DA",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0055": {
+        "Target": "{X0Y40}Скульптор{Line}«Вы не знали? Если нам не суждено стать{Line} старейшинами, то в определённый момент{Line} мы, Шуми, преображаемся. Наш облик{Line} отражает то, что у нас в сердце».{End}",
+        "Source Text SHA256": "21D092D5542E53BCF34CAF60DFDFD19555EA0C8F9816EECCDE37CA810F8D19AE",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0056": {
+        "Target": "{X0Y40}Скульптор{Line}«Те, кто не стал почтенным старейшиной,{Line} часто становятся Мумбами. Изобретательность{Line} и пыл, живущие в их сердцах,{Line} окрашивают шерсть в красный цвет».{End}",
+        "Source Text SHA256": "EF5E2E33ED7CDA60E696734AA58FF80E24BECC8C744AE1B1D872A496F77B08E2",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0057": {
+        "Target": "{X180Y40}Скульптор{Line}«Это все знают. Скульптор удивлён,{Line} что вы об этом не слышали».{End}",
+        "Source Text SHA256": "2D45B7AE33959AB17A9FE0C4FB7ACD9BBB3358E66AFC4E643EFC1C4A80A2B258",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0058": {
+        "Target": "{X40Y30}{Char Squall}{Line}«Значит, вы можете превращаться в зверей…»{End}",
+        "Source Text SHA256": "06446A466231A715AE354DA0F9FCF798368F451677C72375904C9DF46CB496EC",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0059": {
+        "Target": "{X80Y20}Зелл{Line}«Да уж, отстой. Превратиться в такого зверя…»{End}",
+        "Source Text SHA256": "0B1B70364CA5535FD3BBA917FC6E02DD318C5DD6623FFBD27323F279E7E919F5",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0060": {
+        "Target": "{X80Y20}Ирвин{Line}«Печально… Взять и превратиться в зверя».{End}",
+        "Source Text SHA256": "21289117120A82E3C968CDA86C7F38D92B407F6574D7000946CF732B56DE3343",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0061": {
+        "Target": "{X80Y20}{Char Rinoa}{Line}«А разве будет удобно,{Line} если станешь зверем?»{End}",
+        "Source Text SHA256": "4D9248A5A798D93ACC88EADDCEA5FC80E9CA536B72A77C2519F393A020E17867",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0062": {
+        "Target": "{X80Y20}Квистис{Line}«И как вы общаетесь,{Line} когда становитесь зверем?»{End}",
+        "Source Text SHA256": "AEEE02FD1DF0DB998BD479AA4CF3B710A6914F3713F43ED6F1772971DBA4BF8E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0063": {
+        "Target": "{X80Y20}Сельфи{Line}«Ой, а ты боишься{Line} превратиться в зверя?»{End}",
+        "Source Text SHA256": "B54369D4C4A63B5B3D20CE3FA013FDEEACF3D7DB5552DBC424AD23897A74AF98",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0064": {
+        "Target": "{X180Y40}Скульптор{Line}«З-З-ЗВЕРЯ?! Д-Д-ДА КАК ВЫ СМЕЕТЕ{Line} НАЗЫВАТЬ ИХ ЗВЕРЯМИ?!»{End}",
+        "Source Text SHA256": "D1DB974C8A7F9664D1F2A0833E6296456C17A05598B4F998BA8B6699567C1CFE",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0065": {
+        "Target": "{X180Y40}Скульптор{Line}«Да, те, кто становится старейшинами,{Line} достойны восхищения!{Line} Но как вы, говорите, их назвали?!»{End}",
+        "Source Text SHA256": "881644C682ADB1F945649E945802F0E5B2FDB03096EA608F9EF3124D9FB09FD4",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0066": {
+        "Target": "{X180Y40}Скульптор{Line}«ЗВЕРИ!»{End}",
+        "Source Text SHA256": "8E31ED17AE06B3537BCD179BFF42C27299FB13DBBEA73444DB640B6263A6897D",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0067": {
+        "Target": "{X10Y40}Скульптор{Line}«Неужели вы не видели их {Color Yellow}благородных черт{Color White}?{Line} Их {Color Yellow}глаз-самоцветов{Color White}, полных невинности!{Line} Их {Color Yellow}огненно-рыжей шерсти{Color White}, символа страсти!{Line} Их {Color Yellow}пышной гривы{Color White}, знака могущества!{Line} Их умиротворяющих, {Color Yellow}очаровательных криков{Color White}!{Line} Их {Color Yellow}могучих рук{Color White}, наделённых невероятной силой!{Line} Их {Color Yellow}гордой осанки{Color White}, внушающей почтение!»{End}",
+        "Source Text SHA256": "B89E84FE0E6F8B7222145BA977581B2AD8028125B0BA07049AF32ABEE8A1D86E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0068": {
+        "Target": "{X180Y40}Скульптор{Line}«В них всё великолепно{Color WhiteBlink}!{Color White}»{End}",
+        "Source Text SHA256": "E8F3440FD0C1901BBEA1365D1AECA8DFB5A6E94B24DF32091DB96862F2669BB7",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0069": {
+        "Target": "{X80Y40}{Char Squall}{Line}«Хорошо, хорошо».{End}",
+        "Source Text SHA256": "46DAA89EC6EDCE56DEC6952F92442BC57233EF3889F7A85D6C8BA56F9F641322",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0070": {
+        "Target": "{X80Y40}{Char Squall}{Line}«(Вот уж язык без костей.)»{End}",
+        "Source Text SHA256": "C2365054B9F1E4D4ABED5EAC78501C9F4B15770DDB8638CF59AC916D3C0CC2AD",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0071": {
+        "Target": "{X80Y40}(Думай, прежде чем говорить…){End}",
+        "Source Text SHA256": "19DDED1BDF5B1E012B1B88F9474FDFED908ECD8ECC09779BDD28196365870784",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0072": {
+        "Target": "{X180Y40}Скульптор{Line}«Так Скульптор и думал.{Line} Все вы, чужеземцы, одинаковы».{End}",
+        "Source Text SHA256": "353B12E14B3B2A78B8615BBCCC51CEC0D6AD13A39295E74D23237E186F46EA9E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0073": {
+        "Target": "Скульптор{Line}«Именно так Скульптор и слышал».{End}",
+        "Source Text SHA256": "DC159B60FE0C2BA2890CD28CC134147DD46D0F0AB548EC9622E9978BF3079F70",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0074": {
+        "Target": "{X180Y40}Скульптор{Line}«Как бы то ни было,{Line} прошу вас, повидайтесь со Старейшиной».{End}",
+        "Source Text SHA256": "3C125A0C68C09C6C8EAAC1BB363F635CCFD1078518CA969F212EE0F032CC7451",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0075": {
+        "Target": "{X180Y20}Скульптор{Line}«А-а… И он предлагает{Line} вам именно это? Хм…»{End}",
+        "Source Text SHA256": "ECDDF391B6545C71E4AE9FFA3F387B6DE9B92A760418837544C02B0B87C2EC0F",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0076": {
+        "Target": "{X180Y20}Скульптор{Line}«Ого. Это большая честь.{Line} Её редко удостаивают, особенно чужеземцев».{End}",
+        "Source Text SHA256": "75ADA88D58EFC27A9D2708C79DFE3F9BA241AFEDDF04E2A2E80DF808F1E4FBB7",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0077": {
+        "Target": "{X180Y20}Скульптор{Line}«Ну что,{Line} начнём работать?»{End}",
+        "Source Text SHA256": "B43C7EA63B1B10EC9B4591CDBA24378A7E8D26762B084E5A35B75E9033B7770F",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0078": {
+        "Target": "{X180Y20}Скульптор{Line}«Как видите, на Скульпторе{Line} лежит большая ответственность:{Line} ему поручено сделать эту статую».{End}",
+        "Source Text SHA256": "302C22C3CA36393B8A2A66DC4B191516E87DDA3CD3A3BF38A6933D5CF6407E09",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0079": {
+        "Target": "Скульптор{Line}«Чтобы закончить статую, Скульптору надо{Line} изучить ещё несколько пород камня.{Line} Скульптор просит вас их принести».{Line}Нет уж{Line}Хорошо{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "AF37437D19E102B98641F7400E39A0C64DC3260681DC0E6BAFF24E43ADA9F795",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0080": {
+        "Target": "Скульптор{Line}«Вы принесёте их для меня?»{Line}Нет уж{Line}Хорошо{End}",
+        "Choice Line Map": [],
+        "Source Text SHA256": "107DDD0430F770588676337143E59A8928431B5B0EA06896FAFF62A1E8396A9B",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0081": {
+        "Target": "{X180Y40}Скульптор{Line}«Скульптор понимает…{Line} Очень жаль».{End}",
+        "Source Text SHA256": "3208F2EE5C704A5B1C53A603516761187F111F2D2BCB206CC58F25FA91480BD9",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0082": {
+        "Target": "{X180Y40}Скульптор{Line}«Скульптору нужны камни пяти видов:{Line} {Color Yellow}камень тени{Color White}, {Color Yellow}камень ветра{Color White},{Line} {Color Yellow}камень жизни{Color White}, {Color Yellow}камень воды{Color White}{Line} и {Color Yellow}синий камень{Color White}».{End}",
+        "Source Text SHA256": "641D4CDF9AFC7F9C7556F756B7DDFCE6CCD503513F0EB956892A22A52645292A",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0083": {
+        "Target": "{X10Y40}{Char Squall}{Line}«Мы в камнях ничего не понимаем».{End}",
+        "Source Text SHA256": "7F921D1B468E4116084BB17A2FD2462C1377294DC5740207E61499483FB43743",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0084": {
+        "Target": "{X180Y40}Скульптор{Line}«По названиям догадаетесь.{Line} Не переживайте. Если сомневаетесь,{Line} присмотритесь повнимательнее».{End}",
+        "Source Text SHA256": "236984F87617CCACE528C0B3B1C1867FA12429C4EB76E34F3FB680351F5B5DD3",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0085": {
+        "Target": "{X180Y40}Скульптор{Line}«Да и в деревне есть знаток,{Line} который вам поможет».{End}",
+        "Source Text SHA256": "D37323A1A5BD4EDE71A29CB4871F41CE62739C7D1272EC37C10642850DD769F9",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0086": {
+        "Target": "{X180Y40}Скульптор{Line}«Ещё раз: синий, тени, жизни, ветра{Line} и воды. Всего пять камней».{End}",
+        "Source Text SHA256": "D7229A33443C80ED6D802C6B03A42F88D4A31E2FC5D6A098D67C4E0CA0D5B66D",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0087": {
+        "Target": "{X180Y40}Скульптор{Line}«Осталось четыре камня: тени, жизни, ветра и воды».{End}",
+        "Source Text SHA256": "94230501E6AB9A807D27EC076D94D196B6FD6C3D938F490B8A5177B2ADDF06A8",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0088": {
+        "Target": "{X180Y40}Скульптор{Line}«Осталось три камня: жизни, тени и воды».{End}",
+        "Source Text SHA256": "BF0FD8097AB2565D6DEF620703AC2AC03BB385D3FEB4A541139024A93B82DE20",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0089": {
+        "Target": "{X180Y40}Скульптор{Line}«Осталось два камня: тени и воды».{End}",
+        "Source Text SHA256": "494B98C03AB9A933F925F44961F24DFD4B50D06ADFC495E506A4936069AD79C6",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0090": {
+        "Target": "{X180Y40}Скульптор{Line}«Остался один камень: воды».{End}",
+        "Source Text SHA256": "1FA3079326107BFDB1E84840ED50AC357126F8C9F9C1DC56EEDB46652CD9D784",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0091": {
+        "Target": "{X180Y40}Скульптор{Line}«Хорошо, начнём с синего камня».{End}",
+        "Source Text SHA256": "C50E15FD8FBBAF2EC59EAF99582DC129B94CEE989E6F4C8EEFC5D909577FEED3",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0092": {
+        "Target": "Скульптор{Line}«Так, теперь поищите камни ветра».{End}",
+        "Source Text SHA256": "1584DB8A9608A86090EB8435A1C345CBED5FE91ACB108BC55421B4BB5769446C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0092_ctx_345792687bdcb12b": {
+        "Target": "{X180Y10}Скульптор{Line}«Так, теперь поищите камни ветра».{End}",
+        "Source Text SHA256": "1584DB8A9608A86090EB8435A1C345CBED5FE91ACB108BC55421B4BB5769446C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0092_ctx_3eda28765aa5c7af": {
+        "Target": "{X180Y40}Скульптор{Line}«Так, теперь поищите камни ветра».{End}",
+        "Source Text SHA256": "1584DB8A9608A86090EB8435A1C345CBED5FE91ACB108BC55421B4BB5769446C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0093": {
+        "Target": "{X180Y40}Скульптор{Line}«Теперь Скульптору нужны камни тени».{End}",
+        "Source Text SHA256": "B304FB6520475DB9E6EE8DA3A0523C19E9DD887673860C8FEB517563829EF0FD",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0094": {
+        "Target": "{X180Y40}Скульптор{Line}«Теперь Скульптору нужны камни жизни».{End}",
+        "Source Text SHA256": "5A0434159F6D94AEB81D52F08534B16F68835A4E9158C94A3296F0941607762E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0095": {
+        "Target": "{X180Y40}Скульптор{Line}«Наконец, Скульптору нужны камни воды».{End}",
+        "Source Text SHA256": "E9C572F1A5C80DC0A6B919181394C871BC199C6CEBDB2B76862715327CEA0660",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0096": {
+        "Target": "{X20Y60}{Char Squall}{Line}«Этот камень синий…»{End}",
+        "Source Text SHA256": "8B050DA97579BB4C0CDD74E6DEAA4C6DD0408CA78DE872822BDA11037E1F1050",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0097": {
+        "Target": "{X10Y30}{Char Squall}{Line}«А?..»{End}",
+        "Source Text SHA256": "D8169EA6220C35066FC0BB959065F2D95B4AD90F9A6DB11D58EEF90D82D9536C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0098": {
+        "Target": "{X10Y60}{Char Squall}{Line}«Погоди, так это{Line} и есть синий камень?»{End}",
+        "Source Text SHA256": "473237592662056D102DBD00B7560AD40E848BC770B66E335639463B053D5B57",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0099": {
+        "Target": "{X10Y60}{Char Squall}{Line}«Это он?»{End}",
+        "Source Text SHA256": "7EE6529A1448811BF718BF03012BD62015659637385766EBAEA343DC9DAFB5AB",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0100": {
+        "Target": "{X180Y40}Скульптор{Line}«Что?»{End}",
+        "Source Text SHA256": "EA2A29D8CE9EF012A93D8F81649D32446D7F2D5EF2277BC521BFCF49D67CC6F8",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0101": {
+        "Target": "{X180Y40}Скульптор{Line}«?»{End}",
+        "Source Text SHA256": "25661914DAB6309527CAB1323512D3DCB995A8EC959A25C456F66BA9D4993C67",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0102": {
+        "Target": "{X180Y40}Скульптор{Line}«О! О!»{End}",
+        "Source Text SHA256": "EB002054A1A8106B6935D7B7C050B553D96781C99055045A500B23B41A041A2E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0103": {
+        "Target": "{X180Y10}Скульптор{Line}«Скульптор совсем забыл!{Line} Он у Скульптора уже был.{Line} Ну, один есть, осталось четыре».{End}",
+        "Source Text SHA256": "F6AC3ABFE038527D51ABE58FFB267115A13D17BF805D2F9E3ECB4649C1041328",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0104": {
+        "Target": "{X180Y40}Скульптор{Line}«Да, это камень ветра.{Line} Так, осталось ещё три».{End}",
+        "Source Text SHA256": "7FFAC15D5D2C71232D2BAAE05D223E881325D508F880F203C796088744E3F678",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0105": {
+        "Target": "{X180Y40}Скульптор{Line}«Да, это камень тени.{Line} Чудесно».{End}",
+        "Source Text SHA256": "FF408B8919C93BC45A3FC65E5A42ABCBBF1F7761B0615C69178C87DD3B02DEA9",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0106": {
+        "Target": "{X180Y40}Скульптор{Line}«Да, это камень жизни.{Line} Осталось всего два».{End}",
+        "Source Text SHA256": "E78F50FFD44C582D8B576CD249B45299C27377469E9D9E08D4122CF27FF55DB0",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0107": {
+        "Target": "{X180Y40}Скульптор{Line}«Да, это камень воды».{End}",
+        "Source Text SHA256": "0A9D4EAB704C1D490CE3ED1C46B3DC98B9CA267649EF6BF8D7CD24AE380C0896",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0108": {
+        "Target": "{X180Y40}Скульптор{Line}«…Нет. Это один из камней,{Line} которые мы кладём у пруда».{End}",
+        "Source Text SHA256": "762D2F233059591A0C7B001F96EDC88A2D122FF90AEF8C69643BC5ED23A14E75",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0109": {
+        "Target": "{X180Y40}Скульптор{Line}«Поздравляю!{Line} Вы выполнили поручение!»{End}",
+        "Source Text SHA256": "5287B2E39AAAE3139769D4F6791770F11825A65FD854583E5F11D87806B427A2",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0110": {
+        "Target": "{X180Y40}Скульптор{Line}«Теперь можете идти к Старейшине».{End}",
+        "Source Text SHA256": "D4A552CBA1BE92D36474979FAD37F82693693ADB053519FBA66338E71DC6CF2B",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0111": {
+        "Target": "{X40Y30}{Char Squall}{Line}«…А этот камень вам ведь не нужен, да?»{End}",
+        "Source Text SHA256": "60DD26239B7C26F3CA3E2CB1642422F790037E9EA4B0688E378662844FFA7D72",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0112": {
+        "Target": "{X180Y40}Скульптор{Line}«…Вообще-то… нет».{End}",
+        "Source Text SHA256": "31ECC7CEF3E2A44143B99C98A9E5D8D616AB9A4C1EFB9A5460ABF58688C55563",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0113": {
+        "Target": "{X400Y30}Зелл{Line}«Ч-что?!»{End}",
+        "Source Text SHA256": "A53F4CC7A63D748604EDE70727D0BEFC51A7A23342D7BFE9A0532063D42C7B44",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0114": {
+        "Target": "{X400Y30}Ирвин{Line}«Чего?»{End}",
+        "Source Text SHA256": "B357BED5265948A0AA9AD4A29A2746EAB90E53CA0A45DC5FCA400DD6038E28DC",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0115": {
+        "Target": "{X400Y30}{Char Rinoa}{Line}«В каком смысле?»{End}",
+        "Source Text SHA256": "FEB646C7E46688DDDD1F0652EEDF3F61C91F51577F91CF95C97E420502827BF9",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0116": {
+        "Target": "{X400Y30}Квистис{Line}«Вы шутите?»{End}",
+        "Source Text SHA256": "D3145972D34372A8E29EDBE32B64F7DDB1466C341F65B2F3D3077A51A26E3503",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0117": {
+        "Target": "{X400Y30}Сельфи{Line}«Да ладно!»{End}",
+        "Source Text SHA256": "2D04B98A1890124ED0A6E735F3435371F6CB712EACDAD65C92594934604371EB",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0118": {
+        "Target": "{X180Y40}Скульптор{Line}«Чтобы закончить статую,{Line} нам ни один из этих камней не нужен».{End}",
+        "Source Text SHA256": "2A13ED7581F08D6D10DC668A22C4C6767770D0AA60BEBD1D90FEDCB197218EA5",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0119": {
+        "Target": "{X20Y30}Зелл{Line}«Мы что, зря надрывались?!»{End}",
+        "Source Text SHA256": "33F5FBBE5825DB47BD9E0858933609A91E0FFFA71274AF12543D89BDCDC9B9F0",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0120": {
+        "Target": "{X20Y30}Ирвин{Line}«Это как? А зачем тогда всё это?»{End}",
+        "Source Text SHA256": "68DF399C4CA8C623F671C154F384682708D4B9D790AC7D46ACCA96C5AF3D40C3",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0121": {
+        "Target": "{X20Y30}{Char Rinoa}{Line}«Тогда зачем?»{End}",
+        "Source Text SHA256": "46E5280E1F65874FAA1DC5971F67743D70D8362A22ED3E6C4CB55213FF804BA8",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0122": {
+        "Target": "{X20Y30}Квистис{Line}«Тогда какой во всём этом был смысл?»{End}",
+        "Source Text SHA256": "0B6F124EBDF51B81CC06A672D769D9F57C87347F0CA79F25F5D61C4A2A1B8A0E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0123": {
+        "Target": "{X20Y30}Сельфи{Line}«Вы шутите?! Зачем?!»{End}",
+        "Source Text SHA256": "21C8E60DD16A99004164F71F39A68959B60F1FD0B3B9BCAE29805A23814A818D",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0124": {
+        "Target": "{X40Y30}{Char Squall}{Line}«Наверное, они хотели, чтобы мы{Line} познакомились с деревней».{End}",
+        "Source Text SHA256": "39E31864735FF1AD32832D16EFE307C5CB67540854E07CF6EE1B7966B1153668",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0125": {
+        "Target": "{X40Y30}{Char Squall}{Line}«А последний камень? Вы хотели, чтобы мы{Line} заглянули к Ремесленнику, верно?{Line} Вот его возле пруда и не было».{End}",
+        "Source Text SHA256": "F144F5F9949D583E592B30C0BA966EC85DFC3A45C5B30F4165CEFE2E994A4E9C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0126": {
+        "Target": "{X40Y30}{Char Squall}{Line}«А в гостинице и прятать ничего не надо.{Line} Захотели бы мы остаться здесь подольше —{Line} всё равно бы туда зашли».{End}",
+        "Source Text SHA256": "294D5BDA365956F4A0226AE4C2B5BBB7CF6FB0AF60CD591616D248F5DB95E303",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0127": {
+        "Target": "{X180Y40}Скульптор{Line}«Да».{End}",
+        "Source Text SHA256": "E9382E99F9A6584F214AB3C42F90314D22950E26D6653EEF68AF8B46BF5F1FBF",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0128": {
+        "Target": "{X20Y10}{Char Squall}{Line}«Вы чуть не выдали себя{Line} в самом начале, с синим камнем».{End}",
+        "Source Text SHA256": "AB2FD8DC8581603B1E06719B911CB6DE6CF4495FB08EACF0D3E31A7FB64BBA1C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0129": {
+        "Target": "{X20Y10}{Char Squall}{Line}«Его невозможно не заметить.{Line} Он же вон какой здоровый…»{End}",
+        "Source Text SHA256": "65CB1B466347A652148DE63AC30FBDBB197154706BE966D928CCFE957A8A86BC",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0130": {
+        "Target": "{X180Y40}Скульптор{Line}«Скульптор под большим впечатлением.{Line} Вы первый догадались обо всём».{End}",
+        "Source Text SHA256": "EE400908E4DB9DAAA51F92E3EED3AD14D20AAFD6F27C29BA49A3A56EF3644C67",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0131": {
+        "Target": "{X180Y40}Скульптор{Line}«Мы попросили вас о помощи неспроста.{Line} Хотелось, чтобы вы оценили нашу деревню».{Next}«Это принесло бы нам радость{Line} и вдохновило закончить статую».{End}",
+        "Source Text SHA256": "6EAB8887210A0CA341FECB0DA37F273683E0298AB26C769EE8BA52984E0BC4DA",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0132": {
+        "Target": "{X180Y40}Скульптор{Line}«Было очень занятно смотреть,{Line} как вы ходите по нашей деревне».{End}",
+        "Source Text SHA256": "6E3D065D356BBEAF73582A44A8ED2EF6860355ECFEFC91D0820A97FA37B24622",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0133": {
+        "Target": "{X40Y30}{Char Squall}{Line}«Рад за вас».{End}",
+        "Source Text SHA256": "B2A92BAD57CD5056A12176E55B6807FE53D1C0A930BF877D7AC9D12B068D2DC0",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0134": {
+        "Target": "{X60Y30}Зелл{Line}«А вообще-то было даже весело{Line} искать эти камни».{End}",
+        "Source Text SHA256": "7EBB97C29983425B9F37460FAADFCF015BCFFA46C0672D2AD17F1483551F892A",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0135": {
+        "Target": "{X60Y30}Ирвин{Line}«Игра нехитрая,{Line} а придумано, по-моему, здорово».{End}",
+        "Source Text SHA256": "18FBC4D4A6AC1670D8E6BE023C96595A5463FBE8C446D8F2884B1CD1A122696C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0136": {
+        "Target": "{X60Y30}{Char Rinoa}{Line}«Да, мне тоже было весело».{End}",
+        "Source Text SHA256": "185BF525B5D948EC1C3F360BE509BB99C7DB404E09C90F6C60579097B8221CED",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0137": {
+        "Target": "{X60Y30}Квистис{Line}«Пожалуй, мы и правда развлеклись для разнообразия».{End}",
+        "Source Text SHA256": "51E74256DE16F4D337B707845D4F3BB96D489491073DF554F60A9BBAE3E3CAD5",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0138": {
+        "Target": "{X60Y30}Сельфи{Line}«Как в той игре, в которую мы играли{Line} у Матушки. Здорово было».{End}",
+        "Source Text SHA256": "41B6A56B54309D521691760D65B432EF197561BD7D879E40C7DF478B31DC1246",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0139": {
+        "Target": "{X180Y40}Скульптор{Line}«Скульптору очень приятно это слышать.{Line} Мы ведь не всегда такое устраиваем».{Next}«Поймите, мы затеяли всё это{Line} только потому, что хотели,{Line} чтобы вам понравилась наша деревня».{End}",
+        "Source Text SHA256": "153E3FE6901D97AC62B8195E47BF558EB1160DF6471C396D640D6F0D601A1740",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0140": {
+        "Target": "{X60Y80}Скульптор{Line}«Отличная новость. Помощник старейшины{Line} поможет мне со статуей».{End}",
+        "Source Text SHA256": "80CC38E91F97843FDD9F32A75CEBC478DE83890901B288D00600798D52B6D5C7",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0141": {
+        "Target": "{X60Y80}Скульптор{Line}«Помощник может стать следующим{Line} старейшиной, и его помощь много значит.{Line} Вместе мы быстро закончим».{End}",
+        "Source Text SHA256": "38CC1C7D19FB093593E5528BD0BD687959E68252DCDC337AE9804DDC3FBFAF37",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0142": {
+        "Target": "{X10Y10F1L2B1C2}«Хотите сыграть в карты?»{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "05147D05E58E8FB9D91D7034CF4E3326D801455551D94CBE1A43CB257EDAABCE",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0143": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим.{End}",
+        "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0144": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим.{End}",
+        "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0145": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим.{End}",
+        "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0146": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим.{End}",
+        "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0147": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим.{End}",
+        "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0148": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
+        "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0149": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим.{End}",
+        "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0150": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим.{End}",
+        "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0151": {
+        "Target": "{X10Y10}Для игры нужно{Line}не меньше пяти карт.{End}",
+        "Source Text SHA256": "DF7629554EC91F238FF4EF13B271E6AA9D1BED70C2016BAEAC18F31BDFAE43C2",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0152": {
+        "Target": "Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0152_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0152_ctx_8fa474f114aa44a3": {
+        "Target": "{X60Y10}Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0153": {
+        "Target": "Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0153_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0153_ctx_e81b5a822fbd1eee": {
+        "Target": "{X59Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0154": {
+        "Target": "Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0154_ctx_6435e47f79d3a935": {
+        "Target": "{X62Y10}Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0154_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0155": {
+        "Target": "Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0155_ctx_48730159ffbb3b33": {
+        "Target": "{X52Y10}Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0155_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0156": {
+        "Target": "Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0156_ctx_03d56bd6bcca6621": {
+        "Target": "{X33Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0156_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0157": {
+        "Target": "{X10Y10}Правило {Color Blue}«Повтор»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "27F5EA3ED3DDBED688BAFCBA189BEB532704BB572AE5E55AC21C8C9C712A4C6D",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0158": {
+        "Target": "Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0158_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0158_ctx_ebda62a7b0f16c14": {
+        "Target": "{X45Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0159": {
+        "Target": "Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0159_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0159_ctx_b1cffef320ce6ec2": {
+        "Target": "{X46Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0160": {
+        "Target": "{X53Y10}Правило {Color Blue}«В открытую»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "22612FDC6019CBC8851539452C6A11A6097CA410C18DC53903AC0AEF7D838AAA",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0161": {
+        "Target": "{X52Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "C1809B73CE7E836C0B5CAC0C8A7EC37C1790B162B04AA2125CB197943232CA98",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0162": {
+        "Target": "{X55Y10}Правило {Color Blue}«Сложение»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "1F99F0610FA109B50642AB488B55150F86C784FDEAF1DB1056CD0494E35A1DE8",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0163": {
+        "Target": "{X45Y10}Правило {Color Blue}«Случайные»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "3AFAED5589FD968192415F75A4D88FE5F6BCD44174FF6BD2B4744764DA542DB2",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0164": {
+        "Target": "{X26Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "8BF4D5A8E32A8E9C6AF41A2AC92D0C5DF549EB0A858A7CEA85D7B76AC28F3985",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0165": {
+        "Target": "Правило {Color Blue}«Повтор»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "4C886F6EBB1978C5FD24E60284987C38E14BA3644AACD9D16E9A810B7770F240",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0166": {
+        "Target": "{X38Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "5DBEF5CD0A47E1C3155072F63319748969F0D53C2A5086E3DD4FE843748613F9",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      },
+      "$en_tmkobo2_0167": {
+        "Target": "{X39Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "57BC2E6EE4E0D5127C4EC59413E1CD1F1E7FDE39EA84376DFC5BC9C52E5A5C62",
+        "sourceContext": {
+          "Source MSD SHA256": "0449B9FDC1092B803CD558578CD92F5433350E979639F5642A99F513DFA88296",
+          "JSM SHA256": "4A2D1A49D1B819181B9B220C2CB0597C79A7FE883CFD99F2882F9F405779B55C"
+        }
+      }
+    }
+  }
+}

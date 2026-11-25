@@ -1,0 +1,111 @@
+{
+  "Tutorials": {
+    "mngrp_slot090_table": {
+      "$en_mngrp_slot090_table_0000": {
+        "Target": "Мог, маленький мугл, хочет отправиться{Line}на поиски сокровищ{Line}с друзьями.{Line}Но сокровища спрятаны{Line}на Страшной горе.{Line}Все говорят Могу: «Мы{Line}не пойдём! Слишком страшно!»{Line}",
+        "Source Text SHA256": "19862CCB74AE25887820C9A1A0B6A05882FD028DF4FC792B017B0441550388FF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0001": {
+        "Target": "Но Мог так хочет отправиться в путь,{Line}что его уже не остановить!",
+        "Source Text SHA256": "19D92DB0ACD0C83F35F8031208CA768699290B8ABA92360B1CDBBA3E213BA3D0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0002": {
+        "Target": "В конце концов Мог решил{Line}пойти один.{Line}Прошло два дня...{Line}Прошло три дня.{Line}Мог домой не вернулся.{Line}Мумбе и Кактуару уже мерещилось,{Line}что Мога жарит на костре{Line}",
+        "Source Text SHA256": "A6D73C01F88EFC9CE7825E87CD753B7BB74C832A9519E5D296936DF958A80561",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0003": {
+        "Target": "Король демонов.{Line}«Надо выручить Мога вместе с Чикобо!»",
+        "Source Text SHA256": "7BCC5E675894AC1E9B433A9974F53BAE4FF69F7D59ABD04564EF42613C2A8B76",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0004": {
+        "Target": "Мумба сказал: «Я найду оружие!»{Line}Кактуар сказал: «Я найду сокровища!»{Line}А зачем Чикобо телевизор и удочка?",
+        "Source Text SHA256": "6FA87AD92DE949F3A36390F413370E463003EE098B4C02691FE54ECFE4ACEDDB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0005": {
+        "Target": "¥                                 {Color Blue}Что такое одиночная RPG?{Color White} 1/8{Line} «Мир чокобо» — одиночная RPG.{Line} Слово «одиночная» означает, что игра{Line} может играть сама.{Line} А раз это RPG, герой может отправиться{Line} в приключение сам.{Line} Игра способна идти без вашего участия.{Line} Но не волнуйтесь!{Line} В режиме ожидания Чикобо ждёт ваших команд!",
+        "Source Text SHA256": "C87B494410DB27ED8FC4934365764AE144D96167F2E480ABA72D2BAEE5767517",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0006": {
+        "Target": "¥          ¥ {Color Blue}Основы управления{Color White} 2/8{Line} {Color Green}Экран ходьбы{Color White}{Line}2, 3, 4, 5: сменить направление{Line} {Color Green}Экран меню{Color White}{Line}1: вернуться к ходьбе{Line}2, 3: выбрать пункт меню{Line}4, 5: листать меню{Line} {Color Green}Экран боя{Color White}{Line}4, 5: ускорить ATB.{Line}",
+        "Source Text SHA256": "D504641AAEB4EA8A349AE35E7C964A2A286931391C5D4D6AF3202B7D1705CF3B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0007": {
+        "Target": "¥         ¥¥¥               {Color Blue}Экран ходьбы{Color White} 3/8{Line}1: На экране ходьбы игра идёт,{Line}  а в меню останавливается.{Line}2: Если ЖЗ неполны, Чикобо отвлекается.{Line}  Пожурите его кнопкой ввода!{Line}3: Здесь происходят события!{Line}",
+        "Source Text SHA256": "EEF0527336E652DCF6022EC3D38350115B366570BEAC7FCE3B61780D7E7D0671",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0008": {
+        "Target": "¥           ¥         {Color Blue}Экран события{Color White} 4/8{Line}1: Кактуар даёт вам предмет.{Line}2: Полученные предметы.{Line}3: Мумба даёт вам оружие.{Line}4: Выберите оружие.{Line}5: Бой — тоже событие.{Line}6: Надеемся, что вы найдёте Мога!{Line}7: ВКЛ.: вы управляете Чикобо.{Line}   ВЫКЛ.: Чикобо действует сам.{Line}",
+        "Source Text SHA256": "2F4E81C6DBB2178EE76BD72C949DE33B06537D414CA3607BAF7C975AB2A45F51",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0009": {
+        "Target": "¥         ¥¥¥¥                {Color Blue}Экран боя{Color White} 5/8{Line}1: ЖЗ. Бой кончается, когда ЖЗ равны нулю.{Line}2: ATB. Герой атакует, когда шкала достигает нуля.{Line}3: Если нашли Мога, откройте меню{Line}4: и выберите «ОЖИДАНИЕ». Он поможет{Line}  в опасности!{Line}5: За победы вы получаете магические камни.{Line}  Соберите ряд, чтобы повысить уровень!{Line}",
+        "Source Text SHA256": "5987CBE315473FB7AF35C31339BF9EE1F77ECD762A2E4082D986C0F80C0FF9F8",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0010": {
+        "Target": "¥          ¥  {Color Blue}Карта и передвижение{Color White} 6/8{Line}1: На карте точки обозначают события,{Line}  а мигающий знак — Чикобо. Если знаки{Line}  совпадут, начнётся событие!{Line}2: Направление выбирается кнопками вверх и вниз.{Line}3: Номер карты. Повышайте уровень для новой карты.{Line}4: Время «Мира чокобо».{Line}5: В окне перемещения меняйте число кнопками{Line}  вверх и вниз. Чем оно больше, тем дальше путь.{Line}",
+        "Source Text SHA256": "F1FB10ED01606BC3B05FEEB8541B82594AA38C549A6D28305426C737B5ACD29C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0011": {
+        "Target": "¥         ¥¥¥                {Color Blue}Экран состояния{Color White} 7/8{Line}1: Оружие. В бою случайно выбирается{Line}  одно из четырёх значений урона.{Line}2: Уровень Чикобо.{Line}3: Текущие и максимальные ЖЗ.{Line}4: Идентификатор отражает ранг Чикобо.{Line}5: Количество собранных предметов.{Line}  A — лучший из четырёх типов.{Line}  Сам предмет можно узнать в FFVIII.{Line}",
+        "Source Text SHA256": "79BF0F6D816C254B01D55F540DEE70613A52AAC425966811A779A08FC3A546DE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0012": {
+        "Target": "¥¥{Color Blue}Экран оптической связи{Color White} 8/8{Line}1: Нейтральное положение.{Line}2: Получатель выбирает нижний пункт.{Line}3: Отправитель выбирает верхний пункт.{Line}4: Действуйте как в обычном бою.{Line}  Ваш Чикобо справа.{Line}5: Победитель забирает ID противника.{Line}  Сравните его со своим и выберите{Line}  точно так же, как оружие.{Line}",
+        "Source Text SHA256": "DD1628EB34E8F78033DD036B93A2FA717A8EFCF61B7E9FC0F58FE5EAF3818EF4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0013": {
+        "Target": "¥         ¥¥            {Color Blue}Мир чокобо{Color White} 8/8{Line}",
+        "Source Text SHA256": "E0A7E32F931D9B160ABDC2C1FDCB19789F79E62C9ECB006F9A1213CDAFA8B00B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot090_table_0014": {
+        "Target": "1: Выберите {Color Blue}Мир{Color White}, чтобы отправить{Line}  Чикобо в «Мир чокобо».{Line}2: Выберите {Color Blue}Домой{Color White}, чтобы вернуть{Line}  Чикобо в мир FFVIII.{Line}3: Чтобы продолжить{Line}  с того же места,{Line}  выберите {Color Blue}Выбрать заново{Color White}.{Line}4: {Color Blue}Как играть{Color White}: эта справка.{Line}",
+        "Source Text SHA256": "7C78BF8DA3108E39E02F62CCEE540AE35283A73CBCBF5C71D68AA63067FFC825",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

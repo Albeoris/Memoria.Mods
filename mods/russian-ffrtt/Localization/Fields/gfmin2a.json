@@ -1,0 +1,86 @@
+{
+  "Fields": {
+    "gfmin2a": {
+      "$en_gfmin2a_0000": {
+        "Target": "{X10Y10}Как у вас сегодня{Line} дела? Отличная погода, не так ли?{End}",
+        "Source Text SHA256": "F1DE54ECB5B15C8958275C9EB4FE4D9976ADD92847412D22DB4D7A154E26C6F5",
+        "sourceContext": {
+          "Source MSD SHA256": "77BE50A255CC488F4E778078943C98A4DCD33FD5B6102834A8B8B4E250099E0D",
+          "JSM SHA256": "B76EF6DE375B78936C362514FA7C4369A12648988A3DA14E39B83E31771D012D"
+        }
+      },
+      "$en_gfmin2a_0001": {
+        "Target": "{X10Y10}«Вы к знакомым приехали?{Line} Ну как вам наша деревня?{Line} Маленькая и скучная, правда?»{End}",
+        "Source Text SHA256": "BF26C90CFB7A74DD2888FBA9BE89F031316202625CFCBE70B317428B3B44A16B",
+        "sourceContext": {
+          "Source MSD SHA256": "77BE50A255CC488F4E778078943C98A4DCD33FD5B6102834A8B8B4E250099E0D",
+          "JSM SHA256": "B76EF6DE375B78936C362514FA7C4369A12648988A3DA14E39B83E31771D012D"
+        }
+      },
+      "$en_gfmin2a_0002": {
+        "Target": "{X10Y10}{Char Squall}{Line}Что это?..{End}",
+        "Source Text SHA256": "F944ED20EAE140D40B1EB3CFF7B3DF77A5C32D03D8222B0752C3C32B6F873C3E",
+        "sourceContext": {
+          "Source MSD SHA256": "77BE50A255CC488F4E778078943C98A4DCD33FD5B6102834A8B8B4E250099E0D",
+          "JSM SHA256": "B76EF6DE375B78936C362514FA7C4369A12648988A3DA14E39B83E31771D012D"
+        }
+      },
+      "$en_gfmin2a_0003": {
+        "Target": "{X10Y10}Получено: [Осколок вазы]!{End}",
+        "Source Text SHA256": "171A9067890FD3379404100E5F2896984D09FFE17D1B4201F6DA65F4797C0E87",
+        "sourceContext": {
+          "Source MSD SHA256": "77BE50A255CC488F4E778078943C98A4DCD33FD5B6102834A8B8B4E250099E0D",
+          "JSM SHA256": "B76EF6DE375B78936C362514FA7C4369A12648988A3DA14E39B83E31771D012D"
+        }
+      },
+      "$en_gfmin2a_0004": {
+        "Target": "{X100Y10F1L2B1C2}Вы любите цветы?{Line}Да{Line}Не очень{End}",
+        "Source Text SHA256": "EAF935461F636EB419B6161D53CDFCE99648C96841EF43247D3DE3EDA39AFF52",
+        "sourceContext": {
+          "Source MSD SHA256": "77BE50A255CC488F4E778078943C98A4DCD33FD5B6102834A8B8B4E250099E0D",
+          "JSM SHA256": "B76EF6DE375B78936C362514FA7C4369A12648988A3DA14E39B83E31771D012D"
+        }
+      },
+      "$en_gfmin2a_0005": {
+        "Target": "{X10Y10}Вон те белые очень красивые, правда?{Line} Мне дала их женщина по{Line} имени Рейн.{End}",
+        "Source Text SHA256": "B3B70B53CAA2E0F1A5B8D33A5128F408EE0E8E7DD8E4090BCC4D26B50AC2E882",
+        "sourceContext": {
+          "Source MSD SHA256": "77BE50A255CC488F4E778078943C98A4DCD33FD5B6102834A8B8B4E250099E0D",
+          "JSM SHA256": "B76EF6DE375B78936C362514FA7C4369A12648988A3DA14E39B83E31771D012D"
+        }
+      },
+      "$en_gfmin2a_0006": {
+        "Target": "{X10Y10}Каждый год они красиво цветут. Жаль, что{Line} она больше не с нами. Если{Next}бы она только держалась подальше{Line} от того чужака...{End}",
+        "Source Text SHA256": "1F2CF74378C375A5F9F4E99EBA489BB051A43F3FADA348568EF257A8DF4B514E",
+        "sourceContext": {
+          "Source MSD SHA256": "77BE50A255CC488F4E778078943C98A4DCD33FD5B6102834A8B8B4E250099E0D",
+          "JSM SHA256": "B76EF6DE375B78936C362514FA7C4369A12648988A3DA14E39B83E31771D012D"
+        }
+      },
+      "$en_gfmin2a_0007": {
+        "Target": "{X10Y10}Никто не понимал цветы так{Line} хорошо как Рейн.{End}",
+        "Source Text SHA256": "AB820D1C4CF1F34F9DA4F2C5E08EBC1987018D0D95D8ED8377DDCF23A327F4BD",
+        "sourceContext": {
+          "Source MSD SHA256": "77BE50A255CC488F4E778078943C98A4DCD33FD5B6102834A8B8B4E250099E0D",
+          "JSM SHA256": "B76EF6DE375B78936C362514FA7C4369A12648988A3DA14E39B83E31771D012D"
+        }
+      },
+      "$en_gfmin2a_0008": {
+        "Target": "{X10Y10}Цветы распускаются снова и снова.{Line} Интересно, так ли это с людьми?{End}",
+        "Source Text SHA256": "1220C79AFA6DC15EB88F96403D97DCB4E063035AB6F9BAE022914518688209DE",
+        "sourceContext": {
+          "Source MSD SHA256": "77BE50A255CC488F4E778078943C98A4DCD33FD5B6102834A8B8B4E250099E0D",
+          "JSM SHA256": "B76EF6DE375B78936C362514FA7C4369A12648988A3DA14E39B83E31771D012D"
+        }
+      },
+      "$en_gfmin2a_0009": {
+        "Target": "{X10Y10}Цветы изумительны. Чем больше ты вкладываешь в{Line} них своё сердце, тем больше они отвечают взаимностью.{End}",
+        "Source Text SHA256": "4265E5961AC29EF4BF6C3EF5DD8258FE1CB46020AB8B90CBAD9974CB856FCF23",
+        "sourceContext": {
+          "Source MSD SHA256": "77BE50A255CC488F4E778078943C98A4DCD33FD5B6102834A8B8B4E250099E0D",
+          "JSM SHA256": "B76EF6DE375B78936C362514FA7C4369A12648988A3DA14E39B83E31771D012D"
+        }
+      }
+    }
+  }
+}

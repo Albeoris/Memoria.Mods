@@ -1,0 +1,86 @@
+{
+  "Fields": {
+    "gmout1": {
+      "$en_gmout1_0000": {
+        "Target": "{X16Y16}Security Guard{Line}Хорошо, проезжайте.{End}{End}",
+        "Source Text SHA256": "FEF1B8421D50CCD63F5F71558A7C4CD4641CE306FA549D119357CDD6EEBE794D",
+        "sourceContext": {
+          "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
+          "JSM SHA256": "9F91CB6C280004C89C033C09EC0E7CDF735CE5DE50C380EA22091400972FBCB4"
+        }
+      },
+      "$en_gmout1_0001": {
+        "Target": "{X16Y16}Security Guard{Line}Это закрытая зона!{Line} Немедленно покиньте территорию!{End}{End}",
+        "Source Text SHA256": "90B409FE5AA6BE3C0E6937FAF571AE31D9EC043E24AD0BB0591F3EEC40BD8A65",
+        "sourceContext": {
+          "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
+          "JSM SHA256": "9F91CB6C280004C89C033C09EC0E7CDF735CE5DE50C380EA22091400972FBCB4"
+        }
+      },
+      "$en_gmout1_0002": {
+        "Target": "{X16Y140}(Правда?{Line} Фууух...){End}{End}",
+        "Source Text SHA256": "C8686AEDC1DA5132C713FDCBE910EC3B6E6F73AA15D35667848EA7AA23B19DEE",
+        "sourceContext": {
+          "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
+          "JSM SHA256": "9F91CB6C280004C89C033C09EC0E7CDF735CE5DE50C380EA22091400972FBCB4"
+        }
+      },
+      "$en_gmout1_0003": {
+        "Target": "{X12Y12}Security Guard{Line}Эй! Это запретная зона! Детям{Line} здесь не место! Проваливайте!{End}{End}",
+        "Source Text SHA256": "6304F8A5EFBA2078C8EE4826E3901E5D79066575D09BCE7AA030D857CFEDC9F9",
+        "sourceContext": {
+          "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
+          "JSM SHA256": "9F91CB6C280004C89C033C09EC0E7CDF735CE5DE50C380EA22091400972FBCB4"
+        }
+      },
+      "$en_gmout1_0004": {
+        "Target": "{X200Y40}Selphie{Line}Я только одним{Line} глазком. Ну пожааалуйста?!{End}{End}",
+        "Source Text SHA256": "2AC1A99B0D15DFEB71C9A9210DC361C6EA2398BD0FF45977A9CA6C1E2108DACE",
+        "sourceContext": {
+          "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
+          "JSM SHA256": "9F91CB6C280004C89C033C09EC0E7CDF735CE5DE50C380EA22091400972FBCB4"
+        }
+      },
+      "$en_gmout1_0005": {
+        "Target": "{X12Y12}Security Guard{Line}Нет! Здесь вам не{Line} ночной клуб. Заболтать меня{Line} не удастся.{Line} Сказано же, детям нельзя!{End}",
+        "Source Text SHA256": "BEB8E01AC7A9C0153A1CD3457D56B5D9F69A738D9A14A15D40FA734310A52A96",
+        "sourceContext": {
+          "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
+          "JSM SHA256": "9F91CB6C280004C89C033C09EC0E7CDF735CE5DE50C380EA22091400972FBCB4"
+        }
+      },
+      "$en_gmout1_0006": {
+        "Target": "{X200Y40}Selphie{Line}Ну и ладно!{End}{End}",
+        "Source Text SHA256": "31B55959D8DFC702A55373BF63DC966C350CAD748FFD913CF584D45138525F31",
+        "sourceContext": {
+          "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
+          "JSM SHA256": "9F91CB6C280004C89C033C09EC0E7CDF735CE5DE50C380EA22091400972FBCB4"
+        }
+      },
+      "$en_gmout1_0007": {
+        "Target": "{X16Y16}Security Guard{Line}ЭЙ!{Line} Тут вам не экскурсия!{Line} ВОН ОТСЮДА!{End}{End}",
+        "Source Text SHA256": "0645E932C2BD6DF2FD8CA6C91B8279EC7A8A4F8B6E3F4D6ED56010B61ACB96F8",
+        "sourceContext": {
+          "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
+          "JSM SHA256": "9F91CB6C280004C89C033C09EC0E7CDF735CE5DE50C380EA22091400972FBCB4"
+        }
+      },
+      "$en_gmout1_0008": {
+        "Target": "{X12Y120}(...На этой машине нас{Line} тут не пропустят. Надо вернуться.){End}{End}",
+        "Source Text SHA256": "BBD7A83E2F29A165D9DC0A66539CBD6C9D461099B75DBF4546895238FDE18A9D",
+        "sourceContext": {
+          "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
+          "JSM SHA256": "9F91CB6C280004C89C033C09EC0E7CDF735CE5DE50C380EA22091400972FBCB4"
+        }
+      },
+      "$en_gmout1_0009": {
+        "Target": "{X12Y120}(Вот гад! Так и хочется{Line} его переехать.){End}{End}",
+        "Source Text SHA256": "9067485FFC935294706413AE60F108CABC9CB4871B814B0732F29788F7B5A5B5",
+        "sourceContext": {
+          "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
+          "JSM SHA256": "9F91CB6C280004C89C033C09EC0E7CDF735CE5DE50C380EA22091400972FBCB4"
+        }
+      }
+    }
+  }
+}

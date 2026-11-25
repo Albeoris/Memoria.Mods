@@ -10,5 +10,15 @@
   "memoria-boost-damage-limit": {
     "engineVersionRange": "[0.8.15,)",
     "releaseNotes": "Boost costs 200 AP and has a localized description. FFVIII summons are limited to 9,999 damage until their GF learns Boost."
+  },
+  "russian-ffrtt": {
+    "version": "3.20.0",
+    "engineVersionRange": "[0.8.16,)",
+    "releaseNotes": "FFRTT Russian localization 3.20 for English Classic and Remastered installations. Installs the adapted opening movie with its camera and Russian subtitles as a required companion package."
+  },
+  "russian-ffrtt-opening": {
+    "version": "1.0.0",
+    "engineVersionRange": "[0.8.16,)",
+    "releaseNotes": "Adapted FFRTT opening movie and matching camera."
   }
 }

@@ -1,0 +1,272 @@
+{
+  "Battle": {
+    "kernel_battlecommands_name": {
+      "$en_kernel_battlecommands_name_0001": {
+        "Target": "Атака",
+        "Source Text SHA256": "4CD548F3CC29CF9C99A0134A971B1BE03C8F6BF80BA8F03E174E030B0D292396",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0002": {
+        "Target": "Магия",
+        "Source Text SHA256": "ED1A5A81B8121AD13A8796E7A7EB113F25D5B18B0A3831BAE13D697BA5DAE38B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0003": {
+        "Target": "Стражи",
+        "Source Text SHA256": "6EDE6CAC45F64ED08AFC0391ECF38A70942E66382FDAD32454A8E52BBE5673D2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0004": {
+        "Target": "Предмет",
+        "Source Text SHA256": "652BCC3A478428893CC505AE19F847B49BE52F861BEDC64BB192CEED409FA733",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0005": {
+        "Target": "Неудержимый клинок",
+        "Source Text SHA256": "734D8998C8A36FB593ACB1558CB4762FC502BF4D0C5FE4B811166519BD693907",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0006": {
+        "Target": "Извлечение",
+        "Source Text SHA256": "61517C08B3BF84B42AC5A38367A9CA07DBC54E9C00EE92DF09DEBE4F38DF34D4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0007": {
+        "Target": "Поглощение",
+        "Source Text SHA256": "4C1E80409C4F601E3557B440B0AF0F4E2B39DECB9AC5531CD485E2565E1AE127",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0008": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "DA6EDDAF325D1E39CD0EDD56A44327A7F979A3922D3E8ADD194233BD7AED592A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0009": {
+        "Target": "Применить",
+        "Source Text SHA256": "1500405573373612419407AD142611C4BEE504AE927CC1835E1A1EC54C5497AD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0010": {
+        "Target": "В запас",
+        "Source Text SHA256": "D5CADE7EF31916901514FC80752478F5B1DCEFE44AAAF49D7B99AB7BA2E50AA6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0011": {
+        "Target": "Дуэль",
+        "Source Text SHA256": "15EA5C59D241B61CC7AC14DEB70B838C110D38D0A8601D41C23B8BEE81BF3147",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0012": {
+        "Target": "Грабёж",
+        "Source Text SHA256": "C173B5B549480C7BCABFF299BA1A3C9C1C4A1192704177C7ADDB58A455F18C8F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0013": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "DA6EDDAF325D1E39CD0EDD56A44327A7F979A3922D3E8ADD194233BD7AED592A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0014": {
+        "Target": "Выстрел",
+        "Source Text SHA256": "068CE7BE64DC19BE0057C33ED037735F330BA4453BDAE0459EC15F464932A590",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0015": {
+        "Target": "Синяя магия",
+        "Source Text SHA256": "4D6403186B73F8EBF670DE3F498477410CC080F8A439C6A6E773FE7B56B5CCD3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0016": {
+        "Target": "Рулетка",
+        "Source Text SHA256": "79689782061DEC13DC61A80C224F96C6443D61CDD6E50F7C8CACE113BA74F761",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0017": {
+        "Target": "Огненный крест",
+        "Source Text SHA256": "479948532CAC30CC53AB1D7FC2D032923991220E3FA9FB3A0170D240FF0DE484",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0018": {
+        "Target": "Колдовство",
+        "Source Text SHA256": "58280B0BA4C83B2493A2E8A5BDCF32427BF1FBA8C7584DD3B6CD4E18AA7173A5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0019": {
+        "Target": "Комбинация",
+        "Source Text SHA256": "35843E7A0B0E9A962E441B0FF5530EF6D5F2A329050CF9F519ECA9CD2A8C4605",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0020": {
+        "Target": "Предельный удар",
+        "Source Text SHA256": "674B0ED54BF7667356C19BAAF2EC56D4432D485BF0EBC6D687AD6E50E9611880",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0021": {
+        "Target": "Предельный удар",
+        "Source Text SHA256": "674B0ED54BF7667356C19BAAF2EC56D4432D485BF0EBC6D687AD6E50E9611880",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0022": {
+        "Target": "Предельный удар",
+        "Source Text SHA256": "674B0ED54BF7667356C19BAAF2EC56D4432D485BF0EBC6D687AD6E50E9611880",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0023": {
+        "Target": "Защита",
+        "Source Text SHA256": "8E2B77617882E02292923215F823F9BCECF697A16E793AD38E172F98C6C64023",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0024": {
+        "Target": "Бешеный натиск",
+        "Source Text SHA256": "0E4770074CD96A9E2076AB6059D2649340A1593E951B1ABC885CB84DA29AE035",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0025": {
+        "Target": "Излечение",
+        "Source Text SHA256": "0D331D85875437BA5D3F2FABA1C5F89111DCAD1017BAF284F24FCB22E4D512E8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0026": {
+        "Target": "Восстановление",
+        "Source Text SHA256": "0C5327FD45C725528C37B589D6198944FABA2DECD050086CBF89FA636C9843C7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0027": {
+        "Target": "Воскрешение",
+        "Source Text SHA256": "C1030B23DE58382E93CA7E168F9D8F877FB9A4349CF44BD4C6309020607A7791",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0028": {
+        "Target": "Тьма",
+        "Source Text SHA256": "2080380C73D540C966456181C32D4F98977E41B3292C8832ACBD6A3291AFC9C0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0029": {
+        "Target": "Карта",
+        "Source Text SHA256": "BE3702E3F1AF559A8DF03568294283934A2558521FD8895F68EDA09E3CE4F8A3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0030": {
+        "Target": "Погибель",
+        "Source Text SHA256": "00A8D2984A2A1839AFB7A62DE7CF12309DA52F29A1934269C5C9FD66DEFE6E59",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0031": {
+        "Target": "Камикадзе",
+        "Source Text SHA256": "7B47E029356C83B5A2970E2A7F022DB322D52F78BF5F9A2BD09F20676CCA3B88",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0032": {
+        "Target": "Вампиризм",
+        "Source Text SHA256": "171418C643055DA90C1D2823941068BCC0341B8ACA6305F23A18A23E1249607A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0033": {
+        "Target": "Понизить Ур.",
+        "Source Text SHA256": "84AEEE6AD4B296276BDAEA9495CCB701D80FCB296C72596FCFBF7566D7E638D8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0034": {
+        "Target": "Повысить Ур.",
+        "Source Text SHA256": "FC7AE95232AEC55C586720B6B6D4D1BDFAEC871DE627A74C62120803553841FF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0035": {
+        "Target": "Одинарная",
+        "Source Text SHA256": "8888A029AAF60B70574640EFD1655343D1C46C692918C113C16F44F606477253",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0036": {
+        "Target": "Удвоение",
+        "Source Text SHA256": "529441523BEC75ECECF4B98D5C326B733439D0312DE1A334FA01E3F6720D1425",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0037": {
+        "Target": "Утроение",
+        "Source Text SHA256": "A29CDB61DF1464EF45DDEDC7A042FD8F4FAB0FD1C7C0C694DF708D0B61E21222",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_name_0038": {
+        "Target": "Мини-мугл",
+        "Source Text SHA256": "F22F26969E5302728FF57BABFCF96758697FCDFBAB5FE177C34916D5DE1E02A8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

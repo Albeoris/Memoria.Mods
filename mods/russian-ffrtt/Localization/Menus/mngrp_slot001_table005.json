@@ -1,0 +1,363 @@
+{
+  "Menus": {
+    "mngrp_slot001_table005": {
+      "$en_mngrp_slot001_table005_0000": {
+        "Target": "Меню сохранения",
+        "Source Text SHA256": "0783E70F65D9FDFA80938CAEFE853A8147C7DC0C460B8AC288EA140759076CFF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0002": {
+        "Target": "ПАПКА ИГРЫ",
+        "Source Text SHA256": "6ADEE690161502F0D432A54B4D78D04F9F6A8F4F9751786934666A6244BE93C6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0004": {
+        "Target": "Слот 1",
+        "Source Text SHA256": "EBF2B9CF28808E6E6A5B5039771C058A4C49435EB03F16FA4D1A02529449E017",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0006": {
+        "Target": "Слот 2",
+        "Source Text SHA256": "BC23E19E718956311C32E42C1B38D3D3360253254941B41C13AF7BE49FA17712",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0008": {
+        "Target": "Выберите ячейку для сохранения",
+        "Source Text SHA256": "A01A5121D54C7529B8A397AEE2329D46F24C39168F0ADA7E2FB48A613F24BC60",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0010": {
+        "Target": "В ячейке есть данные. Перезаписать?",
+        "Source Text SHA256": "BB883614CC2748FA269EDF82F5A60F4C746188ACB0EFE652D175A7939555BF3B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0012": {
+        "Target": "Да",
+        "Source Text SHA256": "85A39AB345D672FF8CA9B9C6876F3ADCACF45EE7C1E2DBD2408FD338BD55E07E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0014": {
+        "Target": "Нет",
+        "Source Text SHA256": "1EA442A134B2A184BD5D40104401F2A37FBC09CCF3F4BC9DA161C6099BE3691D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0016": {
+        "Target": "Загрузка данных",
+        "Source Text SHA256": "DDEDE8E80AE8DCA61109F441EBE6575F6D0FFD91D37F62CA0983386F25F8A399",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0018": {
+        "Target": "Сохранение данных",
+        "Source Text SHA256": "937FB356F26BDCA0AD748CB46518A03BF4AD4546559A89C377D6DA3D13D60E61",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0020": {
+        "Target": "Нет карты памяти",
+        "Source Text SHA256": "5CFCAB5C90429C10715E938DBC4447E6FBF9777E49F857A0512ECE2842455591",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0022": {
+        "Target": "Карта памяти в слоте 1{Line}не отформатирована.{Line}Отформатировать папку игры{Line}в слоте 1?",
+        "Source Text SHA256": "EF38433EB72389E3163DC82F5B8D014C5772E9F46206F02C90F9D50CE517E57D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0024": {
+        "Target": "Папка игры в слоте 2{Line}не отформатирована.{Line}Отформатировать папку игры{Line}в слоте 2?",
+        "Source Text SHA256": "293FC4DC3CC1653CB81E1FE1305A7C72D02B933D8FD5817B668AECEFD007FD28",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0026": {
+        "Target": "Форматирование",
+        "Source Text SHA256": "29D4198E41D8221A8138262BE9D40A7BEE89CCEE73F17623D92CA4B2C10806AE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0028": {
+        "Target": "Форматирование завершено",
+        "Source Text SHA256": "D7CDB14A430F51F33F362F0AD19019F5A2F165D3EC057AC02AE3CA84B5D01F57",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0030": {
+        "Target": "Не отключайте геймпад, не извлекайте папку игры{Line}из слотов 1 или 2 и не открывайте крышку дисковода.",
+        "Source Text SHA256": "91ADD8A34BDC660A50136140BF70157515E696DB08327726213226BDD862B343",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0032": {
+        "Target": "Проверка папки игры",
+        "Source Text SHA256": "37F8B7437F9F58D9E64D11C4FCB886860AAB99BEF0878EB08F5C6A43B0C6C6BA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0034": {
+        "Target": "Свободная ячейка",
+        "Source Text SHA256": "0902D86D21CA1D14D470E02559CE733F4C9ADF12DB5DA31066E29422B4601A2D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0036": {
+        "Target": "Не удалось сохранить файл",
+        "Source Text SHA256": "A11E2C2CCA33B1FAC43325ABED161FAA231A99381F67F82E65B582FB734C4659",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0038": {
+        "Target": "Не удалось загрузить файл",
+        "Source Text SHA256": "E9B9DD4D2B1CBBCB0FEF0023607C65431D60D125DD34B0C5AB9A4DAD5939B28B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0040": {
+        "Target": "НОВАЯ ИГРА",
+        "Source Text SHA256": "F5615C7FE53EDD3416A7ACDBA8BA8576C9EAF1136FAD92E6F1640274A9E83A5F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0042": {
+        "Target": "Продолжить",
+        "Source Text SHA256": "31FBEF162594DE01BAB0CD525C51F74DE7BCB15063029FA1A54B2CF5944C80D8",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0044": {
+        "Target": "Не удалось отформатировать папку игры",
+        "Source Text SHA256": "F326F99D983F33169CA1ED9A836B900D28F1FBB451BBA6113B5CBB9DA84CF792",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0046": {
+        "Target": "Сохранение повреждено",
+        "Source Text SHA256": "0AB226595FE6D0B5545A9301AE2ED47A535740B69829706A0C717BDC238325E1",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0048": {
+        "Target": "Нет свободных ячеек.{Line}Для сохранения нужна одна ячейка.",
+        "Source Text SHA256": "2429212E7DE072B17D4848C5DA9D909243214BDD49F5CEA1686C615A2BAC2ECA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0050": {
+        "Target": "Проверка папки игры",
+        "Source Text SHA256": "37F8B7437F9F58D9E64D11C4FCB886860AAB99BEF0878EB08F5C6A43B0C6C6BA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0052": {
+        "Target": "Данные сохранены",
+        "Source Text SHA256": "9118FE7300804BF6C094C4A81760C03358C8FB39FD1387172C5CF4E5FD33CB32",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0054": {
+        "Target": "Невозможно загрузить повреждённые данные",
+        "Source Text SHA256": "D68F28B0A2129F00DCAEE42D93D69F915738E791D1517D2A3E144E3B1C39347F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0056": {
+        "Target": "Нет сохранений",
+        "Source Text SHA256": "32463557A9DE2DF2CFBCE54DF431E9A2BB2987032FC820901D984E2D80B6A565",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0058": {
+        "Target": "Выберите ячейку для загрузки",
+        "Source Text SHA256": "C8E7B4CA1A7BD8164AFA32D98D6BE26C1D7371AF4FA8C57DA26850BF4A65C052",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0060": {
+        "Target": "ДИСК",
+        "Source Text SHA256": "59B1E6478DD76BFCC110B1AF3873BFB2704F1D0F020491BBA36A498B6923848C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0062": {
+        "Target": "FINAL FANTASY ⅤⅢ",
+        "Source Text SHA256": "E7C067DEDF71E559ABF40C1F9ACF263B6732B105FF70643EB78F7B120B650CC5",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0063": {
+        "Target": "Сохранение FINAL FANTASY VIII",
+        "Source Text SHA256": "C7415A87850AB539BCA0D1F37B50C000681AD0E4AE3089596AAAE343DC87418E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0064": {
+        "Target": "Мир чокобо",
+        "Source Text SHA256": "5FA53E7AFC6AD5E8817FA35811EA77E0EE59FB99611A39DDBAA4D6E8AA12EBFC",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0065": {
+        "Target": "Меню «Мира чокобо»",
+        "Source Text SHA256": "C2611429B1DB3B78F3D9244B2ACB5EDE184E1B34B70A04EF2F9DA6AA434FBCB6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0066": {
+        "Target": "Данные другой игры",
+        "Source Text SHA256": "26F85AB4A043F48D512AD0E8D186835A8A0368F40E6F69CB80A5547023441E97",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0068": {
+        "Target": "Папка игры в слоте 1 используется",
+        "Source Text SHA256": "36A76AFA3CB3BD2F194E8C322C6B1C0003EACEB5BA5B64A9292E96E01F3117F9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0070": {
+        "Target": "Папка игры в слоте 2 используется",
+        "Source Text SHA256": "BB7ECFE700D635211020A76A668FFB775BB5B5CAB6E43237DDCC11918261B8E9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0072": {
+        "Target": "Данные повреждены",
+        "Source Text SHA256": "60DFCCEBB318012A85566A2FF7151E3B99D4BF7BFC4374C35AA42D6CE91E7255",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0074": {
+        "Target": "«Мир чокобо» отсутствует",
+        "Source Text SHA256": "FC15F1BB41AC60D31DD13B457ACDCFB1BB0D8E3F9E71A07EC5FDFAC96328A22A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0076": {
+        "Target": "Не удалось проверить папку игры",
+        "Source Text SHA256": "0494BA62199223C8DF058A654BF1F67A5394174B171C0537FCBA695F06F56756",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0078": {
+        "Target": "Данные «Мира чокобо» изменились.{Line}Рекомендуется сохранить игру.",
+        "Source Text SHA256": "060CD7761737E39B871CF0BA2D54F8D3BD14E0EDDBC7F73E8FBC61A51A72E987",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0080": {
+        "Target": "FINAL FANTASY ⅤⅢ",
+        "Source Text SHA256": "E7C067DEDF71E559ABF40C1F9ACF263B6732B105FF70643EB78F7B120B650CC5",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0081": {
+        "Target": "Загрузить FINAL FANTASY VIII",
+        "Source Text SHA256": "BE9D34D3265A9B8B578A32373A7A70C7E8DB54760759E14C1A1257A34A202DDE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0082": {
+        "Target": "Не отформатировано",
+        "Source Text SHA256": "AF9D8F12B31F498A898BA2DEE561FB89B289C909A912B88F608CE08963730908",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0084": {
+        "Target": "Не удалось загрузить «Мир чокобо»",
+        "Source Text SHA256": "7B0F38C74B77B5D07E6E268D7DAA119070D7EE8FD67E3478D63DD9FAD71FDDAC",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0086": {
+        "Target": "Скволл",
+        "Source Text SHA256": "9B31AAE9D6ABB0EC8F4D149CDCE1248DFF83BD856EFD2146C7A7E2B27AB52D73",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0088": {
+        "Target": "Риноа",
+        "Source Text SHA256": "974BC14F131761AA548E9A2409AE6E3B671D53B0E280D5437A36198138E6C873",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0090": {
+        "Target": "Анджело",
+        "Source Text SHA256": "8DF0F8135403DDC4AA69BF7AAC89076CE928327DAB3148396CCB320709470F41",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0092": {
+        "Target": "Боко",
+        "Source Text SHA256": "040FCA67E5F9F564D4CBA76A1EBAE1B618F4913F790702E393916ADD9AA5AA31",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table005_0094": {
+        "Target": "Гривер",
+        "Source Text SHA256": "A64BED6B45BD1F0BC11C260351629A5F289CBC0654B73BB8B73B76FA1DF05B13",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

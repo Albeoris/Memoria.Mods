@@ -1,0 +1,38 @@
+{
+  "Fields": {
+    "tihtr1": {
+      "$en_tihtr1_0000": {
+        "Target": "{X20Y20}Спасибо... за{Line} вашу помощь.{End}",
+        "Source Text SHA256": "3DA3ED204DB0B4A3579F4132C5F4993005E60834BC006FF2F6C64D94FCDC49BE",
+        "sourceContext": {
+          "Source MSD SHA256": "2F9A4DC9606FBA4F1FD10E859D1422D5D3C5EB3DF9D407BC7AF4A9B0BB67D6CE",
+          "JSM SHA256": "C06A2E15FF84661D0FD851E470F9AE5DAE16F5184FE6679F35E85CBE11A5BDF0"
+        }
+      },
+      "$en_tihtr1_0001": {
+        "Target": "{X21Y68}{Color GreenBlink}■{Color White}■■■■■■■■■■■■■■■■■■■■■■■■■■■{Color GreenBlink}■{Color White}{Line}        {Color YellowBlink}Новости Тимбера{Color White}{Line}    Храбрый юноша спас девочку{Line}    в последний момент!{Line}{Color GreenBlink}■{Color White}■■■■■■■■■■■■■■■■■■■■■■■■■■■{Color GreenBlink}■{Color White}{End}",
+        "Source Text SHA256": "A7EA15D2469F1CE44CA7D56398BBB310CDF433D273F43AE7FE42638AF552B610",
+        "sourceContext": {
+          "Source MSD SHA256": "2F9A4DC9606FBA4F1FD10E859D1422D5D3C5EB3DF9D407BC7AF4A9B0BB67D6CE",
+          "JSM SHA256": "C06A2E15FF84661D0FD851E470F9AE5DAE16F5184FE6679F35E85CBE11A5BDF0"
+        }
+      },
+      "$en_tihtr1_0002": {
+        "Target": "{X20Y100}Найден старый выпуск [Маньяков Тимбера]!{Line}{Pause 48}... {Pause 48}... {Pause 48}... {Pause 48}...... Выпуск прочитан!{End}",
+        "Source Text SHA256": "FB891A64D220C0498BFC038DFCE8C485FE1D29939C3A348CF950DFAAE9DE0E6C",
+        "sourceContext": {
+          "Source MSD SHA256": "2F9A4DC9606FBA4F1FD10E859D1422D5D3C5EB3DF9D407BC7AF4A9B0BB67D6CE",
+          "JSM SHA256": "C06A2E15FF84661D0FD851E470F9AE5DAE16F5184FE6679F35E85CBE11A5BDF0"
+        }
+      },
+      "$en_tihtr1_0003": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "873D439458AEFF38C9648E8B34089559640AB4D69685D80F7D539FCD780596A8",
+        "sourceContext": {
+          "Source MSD SHA256": "2F9A4DC9606FBA4F1FD10E859D1422D5D3C5EB3DF9D407BC7AF4A9B0BB67D6CE",
+          "JSM SHA256": "C06A2E15FF84661D0FD851E470F9AE5DAE16F5184FE6679F35E85CBE11A5BDF0"
+        }
+      }
+    }
+  }
+}

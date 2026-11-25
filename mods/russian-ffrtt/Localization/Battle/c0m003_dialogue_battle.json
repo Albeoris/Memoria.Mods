@@ -1,0 +1,34 @@
+{
+  "Battle": {
+    "c0m003_dialogue_battle": {
+      "$en_c0m003_dialogue_battle_0000": {
+        "Target": "{Char Irvine} Забыл сказать...",
+        "Source Text SHA256": "413366B44C96ABC014C67C989CE0596181B0938DD59DA1B01BB29382104CE345",
+        "sourceContext": {
+          "Source SHA256": "EA0354B2EAE6CD766D542878297AD332B91F3F22696BCDBC22986E972E1F2574"
+        }
+      },
+      "$en_c0m003_dialogue_battle_0001": {
+        "Target": "В моём предельном ударе «Выстрел»",
+        "Source Text SHA256": "7E6913C4649BEE318529A802FC682676F228BC6FE399D445CAEDB2EA4EEF9004",
+        "sourceContext": {
+          "Source SHA256": "EA0354B2EAE6CD766D542878297AD332B91F3F22696BCDBC22986E972E1F2574"
+        }
+      },
+      "$en_c0m003_dialogue_battle_0002": {
+        "Target": "нажимай {Key 35}, чтобы спустить курок.",
+        "Source Text SHA256": "07D0BA90426041686098964934A40CE9AF5C75C05B162049897FF5A126440342",
+        "sourceContext": {
+          "Source SHA256": "EA0354B2EAE6CD766D542878297AD332B91F3F22696BCDBC22986E972E1F2574"
+        }
+      },
+      "$en_c0m003_dialogue_battle_0003": {
+        "Target": "Понял?",
+        "Source Text SHA256": "1F31246D5F39A66EE3D43AE0C30CC9820E006EB6889F01A8B951105323AD8408",
+        "sourceContext": {
+          "Source SHA256": "EA0354B2EAE6CD766D542878297AD332B91F3F22696BCDBC22986E972E1F2574"
+        }
+      }
+    }
+  }
+}

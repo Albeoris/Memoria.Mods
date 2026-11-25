@@ -1,0 +1,34 @@
+{
+  "Battle": {
+    "c0m028_dialogue_battle": {
+      "$en_c0m028_dialogue_battle_0000": {
+        "Target": "{Char Quistis}{Char Squall}, ты не забыл?",
+        "Source Text SHA256": "7993CABD2EE2D48BFFCEFE42221E26AFEEFCA6F9C4DEBB5A49D80939CA4B183B",
+        "sourceContext": {
+          "Source SHA256": "AD586D412115B4A7C0937B6F47816068C27D5B1761287F1338BB124E9EBB2E32"
+        }
+      },
+      "$en_c0m028_dialogue_battle_0001": {
+        "Target": "R1 {Key 35} – это курок.",
+        "Source Text SHA256": "78F7F188ED6E560AA56153D9AC6126DC85D76E82039C16FD0A9F7FC11F0CFC9D",
+        "sourceContext": {
+          "Source SHA256": "AD586D412115B4A7C0937B6F47816068C27D5B1761287F1338BB124E9EBB2E32"
+        }
+      },
+      "$en_c0m028_dialogue_battle_0002": {
+        "Target": "Жми на него во время удара.",
+        "Source Text SHA256": "68AD5C1C56393861BD60361442E6A78D104BE1AE1FFBE597EFC71F41F8205C57",
+        "sourceContext": {
+          "Source SHA256": "AD586D412115B4A7C0937B6F47816068C27D5B1761287F1338BB124E9EBB2E32"
+        }
+      },
+      "$en_c0m028_dialogue_battle_0003": {
+        "Target": "То же самое и для Неудержимого клинка!",
+        "Source Text SHA256": "11B498C23736A1B9BC24B32AC21BAC23D2EE51A6255FB469792539C95CA647A2",
+        "sourceContext": {
+          "Source SHA256": "AD586D412115B4A7C0937B6F47816068C27D5B1761287F1338BB124E9EBB2E32"
+        }
+      }
+    }
+  }
+}

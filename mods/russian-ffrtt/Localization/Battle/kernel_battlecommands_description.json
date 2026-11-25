@@ -1,0 +1,258 @@
+{
+  "Battle": {
+    "kernel_battlecommands_description": {
+      "$en_kernel_battlecommands_description_0001": {
+        "Target": "Атаковать экипированным оружием",
+        "Source Text SHA256": "DE1B1ACC3250E34261D5731293B4E2D9EC7806D118305EA3357BA48422E4DEA3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0002": {
+        "Target": "Применить магию",
+        "Source Text SHA256": "44AE6673C1CC0DD759E0BA56B81227C6939FDE569D9D748EDB59C1DC37ADEFBB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0003": {
+        "Target": "Призвать Стража",
+        "Source Text SHA256": "54A8B690B401BFAFCA8EB92BE573512C4A02557CF614C73A563F7C39A9E6D715",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0004": {
+        "Target": "Использовать предмет",
+        "Source Text SHA256": "1E14A7F3BE8529C6C5278A143EDE5899FBD7B36EBFF711278415FBCB2329D69C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0005": {
+        "Target": "Атаковать с помощью Рэндзокукэна",
+        "Source Text SHA256": "36D11EBA07D2DB5AFA33C7C2FBD0BA8BB9C7B67F52FA3D0700F266E2952A238E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0006": {
+        "Target": "Извлечь магию",
+        "Source Text SHA256": "F714315447D9EE3620E62342DD9CC8863ED9201F8943C12C39459E977446EFEF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0007": {
+        "Target": "Пожирать монстров",
+        "Source Text SHA256": "2E1D8708FEE834F5635DD342F3640F106224F0DA3F084F58778C5D048D5F361B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0009": {
+        "Target": "Применить извлечённую магию",
+        "Source Text SHA256": "F335CA23AB68A16E3F5A0542F5AF327230C9DD85905C8B4FF5C97817CAE4BDF3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0010": {
+        "Target": "Отправить извлечённую магию в запас",
+        "Source Text SHA256": "294B74A18B9EE52D66E5B459E8EBF707D900484F38522BF8AD09E29EDDDC8BCF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0011": {
+        "Target": "Атаковать боевым приёмом",
+        "Source Text SHA256": "2A53E968C68FF4A00192F34C42E8C5141616B16ACD0D4B466AC157F050E14EE3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0012": {
+        "Target": "Атаковать и украсть предмет",
+        "Source Text SHA256": "82883FA2450006F132CB17AC2796417268A2CE36821059E9F305A15E98F1F7E8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0014": {
+        "Target": "Атаковать с помощью боеприпасов",
+        "Source Text SHA256": "FAFB958A7BE83CAEF6B25BF9E6EAB7A6E29204161C1215AB1CBEFA60E31DFA95",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0015": {
+        "Target": "Применить приём монстра",
+        "Source Text SHA256": "34578883391D1CE0A2C87EE369ED3E6BD9C60F6894F49163AE6B7BCFADFB17BD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0016": {
+        "Target": "Атаковать случайным заклинанием",
+        "Source Text SHA256": "E62ACF682938508B40F9EAC458B598E80FD3AE4BEC058FF42FEC3941CFF96C3D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0017": {
+        "Target": "Атаковать мечом",
+        "Source Text SHA256": "2545C6F6803291B4C6BC1FDE69AA045B1D80EBA38D7A9C065F196D7C1F6E3ADB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0018": {
+        "Target": "Атаковать магией",
+        "Source Text SHA256": "608981DB3395F298A2C6A257A5988853DF9146DC96D5E270B2A35A1F71F61224",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0019": {
+        "Target": "Позвать на помощь",
+        "Source Text SHA256": "11474981350EB12F95292A7B8642D86CD437CE5602364DAF411D6EA1D484AC12",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0020": {
+        "Target": "Атаковать предельным ударом",
+        "Source Text SHA256": "4A5D69DFDBB566D3CC2B5394AF9EE4F3051948FDEAE23A6278FCC0BDB2D510B5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0021": {
+        "Target": "Атаковать предельным ударом",
+        "Source Text SHA256": "4A5D69DFDBB566D3CC2B5394AF9EE4F3051948FDEAE23A6278FCC0BDB2D510B5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0022": {
+        "Target": "Атаковать предельным ударом",
+        "Source Text SHA256": "4A5D69DFDBB566D3CC2B5394AF9EE4F3051948FDEAE23A6278FCC0BDB2D510B5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0023": {
+        "Target": "Уменьшить урон до следующей команды",
+        "Source Text SHA256": "9160EEADECDB803B68880A687EF050D7E27FE1AC3917110A69E02A3966CB082F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0024": {
+        "Target": "Применить Ускорение, Берсерк и Защиту ко всем",
+        "Source Text SHA256": "732EE794E8B79DB9A5405A95B9A9C00EDE0F6B03E9C3D41103EE9CE0E0386B3A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0025": {
+        "Target": "Снять отрицательные состояния",
+        "Source Text SHA256": "C543454E61892B9577FF1FA0FB9B69FB140766CACCFB7AEA5A93DCC65D4B92F9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0026": {
+        "Target": "Восстановить ЖЗ",
+        "Source Text SHA256": "413AACF727A24E292E45421EE4243A2F3CC7CC5872193E7066A4D84185F6E5CA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0027": {
+        "Target": "Вывести из нокаута",
+        "Source Text SHA256": "BD99C312FA077577A419F1433FBA5C082BC8065F286F3732B46AB3C11527F8EC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0028": {
+        "Target": "Потратить ЖЗ на атаку",
+        "Source Text SHA256": "D76D9F39F1064990A1233A40F7BC703EE9FDF0E83F26CCA6C6C513FFD35501BE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0029": {
+        "Target": "Превращать монстров в карты",
+        "Source Text SHA256": "DFB887A156024284D724FD7CE5959A1C666DDA4F08DB62ECB23FF946CC93B028",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0030": {
+        "Target": "Наложить Рок на одного врага",
+        "Source Text SHA256": "F7583E7D88C033326980B886DE13CB1A768B0152DC6FD8C1AA74D11939CD44BE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0031": {
+        "Target": "Нанести урон одному врагу перед нокаутом",
+        "Source Text SHA256": "E6D134CE68E4C338BAF15479FB6B187EFB6954B2303F73C77730353115EDF93F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0032": {
+        "Target": "Поглотить ЖЗ",
+        "Source Text SHA256": "E6BEBEE9A7168DDCB6D1D0BCFC77C87414DCD51B3EE9546FA1B08B9FEEF66B41",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0033": {
+        "Target": "Понизить уровень монстра",
+        "Source Text SHA256": "421900ADCEB75463024FA9D6BE39B1FB303B6E3B9B46C6D2A202B11A7E9A8BBB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0034": {
+        "Target": "Повысить уровень монстра",
+        "Source Text SHA256": "57166641816C292125ED95C0ABCB8943868B80D84BAF5CF4FCAD154D8F92A1F0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0035": {
+        "Target": "Выбрать один раз",
+        "Source Text SHA256": "34A293701BD69903D36786D20E4F81C6351DB4473EA61FE4B5E8065AD14EA66E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0036": {
+        "Target": "Выбрать два раза",
+        "Source Text SHA256": "284BFAD28CB95A96FBD9BD19D05C358E010B13E9152495A4D159BFF46A8B3B07",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0037": {
+        "Target": "Выбрать три раза",
+        "Source Text SHA256": "D1DD1F20C8F37E566BC736F3DA638301BBB8E92A9094180564CF498CDD9D1248",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_battlecommands_description_0038": {
+        "Target": "Позвать Минимога",
+        "Source Text SHA256": "0AC63E87F1923D195224DC1CF11534C407D9959643FD81C330D084FC3CE80BC5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Information and SeeD exam": {
+    "mngrp_slot128_block0060": {
+      "$en_mngrp_slot128_block0060_0000": {
+        "Target": "Ирвин: предельный удар",
+        "Source Text SHA256": "033F0217BFE39B42BA7B6B866CF3A0A7AB2FA4997B50F73894DFEAEA7D67B066",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot128_block0060_0001": {
+        "Target": "{Color Green}Название{Color White}{Line} ·Выстрел: обстрел цели.{Line}{Color Green}Описание{Color White}{Line} ·Выберите тип боеприпасов в списке предметов.{Line} ·Появится таймер. Можно{Line}стрелять кнопкой {Key 35}, расходуя по патрону{Line}на выстрел, пока не истечёт время.{Line} ·Атака кончается, когда заканчивается время{Line}или боеприпасы.{Line} ·Без боеприпасов атака недоступна.",
+        "Edition Targets": {
+          "Classic:en": "{Color Green}Название{Color White}{Line} ·Выстрел: обстрел цели.{Line}{Color Green}Описание{Color White}{Line} ·Выберите боеприпасы в списке предметов.{Line} ·Стреляйте, пока таймер не достигнет нуля.{Line} ·Без боеприпасов стрелять нельзя.{Line}"
+        },
+        "Source Text SHA256": "6975D027FDAA45A0C84076D85529A77E97BD8B16616030170B117B2577439FBA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

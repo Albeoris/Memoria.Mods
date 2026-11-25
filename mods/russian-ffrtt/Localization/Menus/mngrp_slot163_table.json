@@ -1,0 +1,195 @@
+{
+  "Menus": {
+    "mngrp_slot163_table": {
+      "$en_mngrp_slot163_table_0000": {
+        "Target": "Привязка к состояниям",
+        "Source Text SHA256": "C4D6CBEAE17E55DD9EC373BE96C3ECED44187B8F211FAD9A53D6111A8259F5E8",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0001": {
+        "Target": "Если привязать Стража{Line}с подходящей способностью,",
+        "Source Text SHA256": "20077A1513E63A655E34DCC74AC76A11FF44B4F6EA8E3B7F4F282B40E95C870D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0002": {
+        "Target": "при привязке магии",
+        "Source Text SHA256": "8B21C7C7712FC1FAD3A68DAF8EF981999FB5B579C32F609201218E4AC6BD34F9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0003": {
+        "Target": "поле Сост-А/З над ЖЗ белеет:{Line}привязка к состояниям доступна.",
+        "Source Text SHA256": "D0C624029025B2C6FFD1E769DFDDC51220C91DD058850776E7B3115D6C831D34",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0004": {
+        "Target": "Дважды нажмите {Key LeftKey},",
+        "Source Text SHA256": "D9F968A00F8D8B9054E7FEFC91F7268F289FA7BEEF6FBDB5011CB22E8EB79AD6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0005": {
+        "Target": "чтобы открыть экран привязки к состояниям.",
+        "Source Text SHA256": "4AD0FE6EE6FCB128338C821307B7C236BF7EE19C994315F57578FF4AEA6F0F56",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0006": {
+        "Target": "Привязка к состояниям работает{Line}как стихийная привязка.",
+        "Source Text SHA256": "76A0DF365F44DC91388A0A8EEB0B4D0151624373F93F351E600E6F67D5058B3A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0007": {
+        "Target": "Сначала выберите характеристику,",
+        "Source Text SHA256": "60547AEE8FFDD7CC1D57CE0FA3514464127126BAE62F8A002A242024B26AC55F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0008": {
+        "Target": "затем заклинание{Line}для привязки.",
+        "Source Text SHA256": "E021AB325FE1BDB43D86D85EAA31932BAB88FFB25F4EE352E553B7A1A1BE489C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0009": {
+        "Target": "Однако",
+        "Source Text SHA256": "F525BE826182C25B1C5BE8CD2204B70532B091FF3B1371D15AFFAA6C6CD948CA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0010": {
+        "Target": "магия без эффекта состояния,{Line}например Огонь, не подходит.",
+        "Source Text SHA256": "90DB443EA692176553697782150198873878D649B9EAD5974D476AEC4B1DB0ED",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0011": {
+        "Target": "Привязка к состояниям по-разному{Line}влияет на атаку и защиту.",
+        "Source Text SHA256": "5D488D1D2C8516D61F34602193282513A95DAD9928557E8FA9117A8FB0E4CEA9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0012": {
+        "Target": "Привязка к атаке состоянием",
+        "Source Text SHA256": "98398FFA94C6D95BF896AC83CC8BE14FAB53D225532521C7C55622141AA829F1",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0013": {
+        "Target": "добавляет это состояние к атакам.",
+        "Source Text SHA256": "F82B92D200096A0BA7B4A53BD767091496BA39B7E5DEFCE4D41F4C5ABBD299FE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0014": {
+        "Target": "Вероятность наложения состояния{Line}показана в процентах.",
+        "Source Text SHA256": "77720BB50EB198C23DE7CE8A87C3DE0545B508E9AC91AB96E42D4A7AFA28A107",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0015": {
+        "Target": "В примере шанс ослепить{Line}врага равен 90%.",
+        "Source Text SHA256": "264CEA42E9BF77F30784D921E9274724169686E72445BBF9D36EDAF069ABB50E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0016": {
+        "Target": "Максимум — 100%, но некоторые{Line}враги могут сопротивляться{Line}даже при 100% атаки состоянием.",
+        "Source Text SHA256": "B9BF2C9AC24B919CB4D82B255A75452CD2288C9A345A7C0208A4A397C8CAE5B3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0017": {
+        "Target": "Привязка к защите от состояний",
+        "Source Text SHA256": "2EC0A6C2D7C0EC58CCA11296D6A364D9F0DD6533789A571C50D9DF7E5D9BAC95",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0018": {
+        "Target": "снижает вероятность наложения состояния.",
+        "Source Text SHA256": "2E4C66DC9F3A145AC7D8ECC0B11F571946B642855D885077E1BFFD28374FBCAB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0019": {
+        "Target": "Вероятность показана в процентах.{Line}При 100% состояние не накладывается.",
+        "Source Text SHA256": "75AD0F5AD3BF5FB7B719BB5A5320F8D150B5DFFC11C51904C65A4315D410F930",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0020": {
+        "Target": "В примере действие усыпляющей{Line}атаки снижено на 80%.",
+        "Source Text SHA256": "DD5C5D1FA98BF7D054A32E2EE491789332095CC609FB7A4E30FD92A74F902F56",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0021": {
+        "Target": "Но некоторые атаки врагов накладывают{Line}состояния даже при 100% защиты.",
+        "Source Text SHA256": "51685042F179B54FE8070120F1B6B6D11F01BC70D198472994EE32A46C2DEC02",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0022": {
+        "Target": "Способности Стража позволяют привязать{Line}к защите несколько заклинаний.",
+        "Source Text SHA256": "CD48FB65198908AFA7D14A0048BA3B3C98F8FD2A73F3EE4459B3571D28CCEE8A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0023": {
+        "Target": "Некоторые заклинания, например Эсуна,{Line}защищают сразу от нескольких состояний.",
+        "Source Text SHA256": "97BA84785ED58075D2617E05711F68F9C62C0CA219EB6CD50E872A1390DA81BF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0024": {
+        "Target": "Привязывайте разные заклинания{Line}и сравнивайте результат.",
+        "Source Text SHA256": "772A19B7869313322FC51B9693D46A0E0EC1A502265010DFDA31EE966FD58FD0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0025": {
+        "Target": "Выберите «Авто», чтобы привязать{Line}самую эффективную магию состояний{Line}автоматически.",
+        "Source Text SHA256": "7D3F3884CC0BAB4989B10075FB0ABCA3D90DF9E2A86E9009D82D01E3F3FBF123",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot163_table_0026": {
+        "Target": "На этом урок привязки{Line}к состояниям окончен.",
+        "Source Text SHA256": "8DDE21AFE1868B9DFFB455B0AC12A0A8EC6C591BDA369F9567FF4D263BDE917D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

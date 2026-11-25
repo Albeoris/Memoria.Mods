@@ -1,0 +1,70 @@
+{
+  "Fields": {
+    "tivisi1": {
+      "$en_tivisi1_0000": {
+        "Target": "{X85Y150}Announcer{Line}П-проверка... Раз...{Line} Два... Проверка... Проверка...{End}",
+        "Source Text SHA256": "F596A86FCAC1F7E8A5E727C2CCCD711AF5A653648A14D5DDCDB14B22BC0FA8B9",
+        "sourceContext": {
+          "Source MSD SHA256": "96FB5AE81D1838473F6E753BFDC87CFFCE4E89CAFC5BB0C45FE95B84E3101E12",
+          "JSM SHA256": "3B6FD91D1E042FCD63A4AC699C09FD0301A558CAE68B525A8CA8FC27DB54ED15"
+        }
+      },
+      "$en_tivisi1_0001": {
+        "Target": "{X120Y150}Диктор{Line}О-о-о!{End}",
+        "Source Text SHA256": "004D170C33D57DF806D25DE17D1142D9AD26F753DBC393463112E88EB45ABDAA",
+        "sourceContext": {
+          "Source MSD SHA256": "96FB5AE81D1838473F6E753BFDC87CFFCE4E89CAFC5BB0C45FE95B84E3101E12",
+          "JSM SHA256": "3B6FD91D1E042FCD63A4AC699C09FD0301A558CAE68B525A8CA8FC27DB54ED15"
+        }
+      },
+      "$en_tivisi1_0002": {
+        "Target": "{X80Y150}Announcer{Line}Л-люди мира! Вы{Line} видите меня?! Вы{Line} слышите меня?!{End}",
+        "Source Text SHA256": "7F18FC93E7CF34A0D7171B466FFEE1136B34FB675EF60C76B83E6F5B300A89B8",
+        "sourceContext": {
+          "Source MSD SHA256": "96FB5AE81D1838473F6E753BFDC87CFFCE4E89CAFC5BB0C45FE95B84E3101E12",
+          "JSM SHA256": "3B6FD91D1E042FCD63A4AC699C09FD0301A558CAE68B525A8CA8FC27DB54ED15"
+        }
+      },
+      "$en_tivisi1_0003": {
+        "Target": "{X17Y150}Announcer{Line}O, это невероятно! Дамы и{Line} господа, это не запись! Это{Line} настоящий прямой эфир! Да, прошло 17{Next}лет с тех пор,{Line} как прямое вещание было возможно!{End}",
+        "Source Text SHA256": "E6FDCDA476C49662553AF7C562F692D7FFDD61A49A4124A57A00CC91E6C7AB5E",
+        "sourceContext": {
+          "Source MSD SHA256": "96FB5AE81D1838473F6E753BFDC87CFFCE4E89CAFC5BB0C45FE95B84E3101E12",
+          "JSM SHA256": "3B6FD91D1E042FCD63A4AC699C09FD0301A558CAE68B525A8CA8FC27DB54ED15"
+        }
+      },
+      "$en_tivisi1_0004": {
+        "Target": "{X38Y150}Announcer{Line}Oх, прошу меня{Line} извинить... кажется, я потерял своё самообладание.{End}",
+        "Source Text SHA256": "272F0EF08C0AD8C133474CFFB884D7A3744EBB0C6CDD93B54D58979F63DBD96F",
+        "sourceContext": {
+          "Source MSD SHA256": "96FB5AE81D1838473F6E753BFDC87CFFCE4E89CAFC5BB0C45FE95B84E3101E12",
+          "JSM SHA256": "3B6FD91D1E042FCD63A4AC699C09FD0301A558CAE68B525A8CA8FC27DB54ED15"
+        }
+      },
+      "$en_tivisi1_0005": {
+        "Target": "{X32Y150}Announcer{Line}Сегодня мы бы хотели{Line} представить вам заявление пожизненного президента{Line} Гальбадии Винцера Делинга.{End}",
+        "Source Text SHA256": "F1757266C1AABD1B45D1E1A7FAF24ED802431EF6190085EEC885DA501C893171",
+        "sourceContext": {
+          "Source MSD SHA256": "96FB5AE81D1838473F6E753BFDC87CFFCE4E89CAFC5BB0C45FE95B84E3101E12",
+          "JSM SHA256": "3B6FD91D1E042FCD63A4AC699C09FD0301A558CAE68B525A8CA8FC27DB54ED15"
+        }
+      },
+      "$en_tivisi1_0006": {
+        "Target": "{X24Y150}Announcer{Line}Дамы и господа,{Pause 96} президент Делинг.{End}",
+        "Source Text SHA256": "CD4AE514B7C864C8BA7D24AF9F89FA28F3DA9FBC3D7F6E4F12A687FC369E49CC",
+        "sourceContext": {
+          "Source MSD SHA256": "96FB5AE81D1838473F6E753BFDC87CFFCE4E89CAFC5BB0C45FE95B84E3101E12",
+          "JSM SHA256": "3B6FD91D1E042FCD63A4AC699C09FD0301A558CAE68B525A8CA8FC27DB54ED15"
+        }
+      },
+      "$en_tivisi1_0007": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "873D439458AEFF38C9648E8B34089559640AB4D69685D80F7D539FCD780596A8",
+        "sourceContext": {
+          "Source MSD SHA256": "96FB5AE81D1838473F6E753BFDC87CFFCE4E89CAFC5BB0C45FE95B84E3101E12",
+          "JSM SHA256": "3B6FD91D1E042FCD63A4AC699C09FD0301A558CAE68B525A8CA8FC27DB54ED15"
+        }
+      }
+    }
+  }
+}

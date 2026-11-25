@@ -1,0 +1,174 @@
+{
+  "Abilities": {
+    "kernel_menuabilities_name": {
+      "$en_kernel_menuabilities_name_0000": {
+        "Target": "Торговля",
+        "Source Text SHA256": "92491B89894F6461464769896F85B9084AB2EB3CA351573C98D64DC5CDB37157",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0001": {
+        "Target": "Спекулянт",
+        "Source Text SHA256": "7EF4980A434525CBF9A678F5626B78E25DA66A3EC83F1EC40A3B3AC9AA3AB2FF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0002": {
+        "Target": "Постоянный клиент",
+        "Source Text SHA256": "68C26E6B87E1AD71C842EAA4018530AE56C9B2031806277E8A2157AD978A9D50",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0003": {
+        "Target": "Вызов магазина",
+        "Source Text SHA256": "98F69D2D9342A0C4AA6E72BC9307834F39C4D90338BB700F964D40E953E1357B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0004": {
+        "Target": "Барахолка",
+        "Source Text SHA256": "4692D9CFD108993FE9E88C31D6380455DA386DA40455929154129ACDE5A673C0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0005": {
+        "Target": "Созд. магии грома",
+        "Source Text SHA256": "31B4B8D19365861AB84D19A77AED42F30E38F68A226E1BCDB4F42A45C3733C68",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0006": {
+        "Target": "Созд. магии льда",
+        "Source Text SHA256": "913B777A46B587F1DC495ED8C29C5C141D22E27D1BE632C647C2C84D39965E6E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0007": {
+        "Target": "Созд. магии огня",
+        "Source Text SHA256": "DCEE6338D230E223705E1EBF3043C5B12A7D42DE4DE6773A960CF496ACCB03A1",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0008": {
+        "Target": "Созд. магии жизни",
+        "Source Text SHA256": "5DB4F5DFB78ADA201DB9AA7568D0BE1E3209C22801BD484E475E8512E622C3C1",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0009": {
+        "Target": "Созд. магии времени",
+        "Source Text SHA256": "D2B382ACBEBBCAE1535E19DE5A51500FF0BDE451141A89453989E5E676A59397",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0010": {
+        "Target": "Созд. магии очищения",
+        "Source Text SHA256": "D47D392E66237854AD978CA56310F19C674718A268E422BE77C94271D3BF1A52",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0011": {
+        "Target": "Созд. магии поддержки",
+        "Source Text SHA256": "3A27F926AF4E740BB6F8693A27B054E32E66884E82FF9825887D9515BB5696B3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0012": {
+        "Target": "Созд. запретной магии",
+        "Source Text SHA256": "2CDC2DBB2C61235CACB039169A6E81E68ECF7F77A8BF58C8A5502077AA82057B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0013": {
+        "Target": "Созд. Лекарств",
+        "Source Text SHA256": "14E552EEF7821B6A05FD6F82573725E035754F771BFE79EFED4765EA09C76364",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0014": {
+        "Target": "Созд. очищающих вещей",
+        "Source Text SHA256": "AF6C9235009B19DF5E6923A8EFBD6687A30979AC80260AEA9B4823681793E37D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0015": {
+        "Target": "Созд. патронов",
+        "Source Text SHA256": "569418B6F4EEBBB7112177D6BA64015256A89512150F0D9DACA88F9C9B44769E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0016": {
+        "Target": "Созд. принадлежностей",
+        "Source Text SHA256": "55BC8C36D784A6CDB1A632FE338DB276405571772844EAC8FF3F620206649A87",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0017": {
+        "Target": "Созд. запретных лекарств",
+        "Source Text SHA256": "DE4239CD1864CFAA47D3934272A0C092DD23502BD6CF663342E23C7D4E02C657",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0018": {
+        "Target": "Созд. Страж-лекарств",
+        "Source Text SHA256": "7EE631668217C243DBC3FEB5B432DFCD97D897F2EB78047F6AE109D0CA5DA9A7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0019": {
+        "Target": "Созд. Страж-способностей",
+        "Source Text SHA256": "941F2175F2A4FB680BBB6EB7134C8B5833DC493C9BEB4551C1B6AF0233C752B1",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0020": {
+        "Target": "Созд. средней магии",
+        "Source Text SHA256": "4AB0D0212BD8209AA709553E7FA36A176DF695E90A7332CFBD7950737B3913C2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0021": {
+        "Target": "Созд. высшей магии",
+        "Source Text SHA256": "FD178D988223012D4E1950B91DBC8FCFF8497129B2DBFE86670FEAA4A9001E17",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0022": {
+        "Target": "Созд. уникальных лекарств",
+        "Source Text SHA256": "F0FC79153C97BF53617C261A5FE8E6C6E96881EC0A58D10BD851AF4EC7A08947",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_menuabilities_name_0023": {
+        "Target": "Преобразование карты",
+        "Source Text SHA256": "79AD21E15A1E4308D58DA724F7BECD7E197BA0CD92ADF8387AD858AA107F71EA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

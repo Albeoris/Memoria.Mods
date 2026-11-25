@@ -1,0 +1,390 @@
+{
+  "Fields": {
+    "bgroom_5": {
+      "$en_bgroom_5_0000": {
+        "Target": "{X60Y73}          В разработке{Line} {Line} [Данная страница находится в разработке]",
+        "Source Text SHA256": "49B7738EE346F87D10D71D80EC025F6DB74AD5E4B8181FCF08B51C0F6DF48536",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0001": {
+        "Target": "{X55Y65}■ Аутентификация:{Line}    {Color Yellow}[{Char Squall}]{Color White}{Line}          доступ разрешён.{Line}■ Стражи{Line}   [{Char Squall}]        {Line}{Line}     ……{Pause 80}поиск{Pause 80}……{Next}{Line}■ Зарегистрированные стражи{Line}       [{Char Squall}]:    {Line}{Line}   [Кетцалькоатль]{Line}   [Шива]",
+        "Source Text SHA256": "E40241C8B1D6BFBD6EE2F6B12D5FF8D56EBC51050B5BBD86A5ABA5B4DD482C9B",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0002": {
+        "Target": "{X55Y65}■ РУКОВОДСТВО охватывает все аспекты{Line} игрового процесса. Доступ в раздел также{Line} может быть осуществлён через стандартное{Line} меню в любой момент игры.",
+        "Source Text SHA256": "2484D6D968AC6EC7DFB4914E96C67F53BECC624F355C4B6BF66FB797D6DC619F",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0003": {
+        "Target": "{X55Y65F3L6B3C6}◎Refer to the [TUTORIAL]{Line} on how to use magic and GF.{Line}-------------------{Line}О Магии{Line}ЗС (Защитная Сила){Line}О волшебницах и магии{Line} Назад{End}{End}",
+        "Source Text SHA256": "20AD22F4AF236CD2D077EE3B3C51F7CFD9FC8CE2402CE9EB75C681D75A252C2D",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0004": {
+        "Target": "{X55Y65}〖Парамагия〗{Line}Просторечивое выражение ‘магия’{Line}на самом деле является сокращением{Line}от термина, ‘парамагия’, и описывает{Line}технику, позволяющую обычному человеку{Line}контролировать энергетические структуры.{Next}В результате многолетних исследований{Line}природы волшебниц, доктор Одайн разработал{Line}методику, позволяющую любому человеку{Line}овладеть простейшей ‘магией’.{Line}Однако добиться результатов, сопоставимых с{Line}обыкновенным оружием, крайне сложно.",
+        "Source Text SHA256": "AB233005AF93F475CBA3641CB27B9433B6C1D25C0AFDE489B7077A259B11C12E",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0005": {
+        "Target": "{X55Y65}〖Стражи〗{Line}Стражи являются полуразумными энергетическими{Line}сущностями, связь с которыми позволяет{Line}многократно усилить возможности носителя.{Next}Ходят слухи о том, что длительное{Line}взаимодействие со стражами приводит к{Line}частичной потере памяти, однако медицинские{Line}исследования в этой области не проводились.",
+        "Source Text SHA256": "DB3128BACB282E6BB53D0DFFA59CF9002F6336DAF9606604B0D13B431BFC44E4",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0006": {
+        "Target": "{X55Y65}〖Волшебство и волшебницы〗{Line}В отличии от ‘парамагии’, волшебство{Line}воздействует на саму ткань мироздания{Line}и не подчиняется законам традиционной науки.{Next}Женщин, обладающих этим даром, называют{Line}волшебницами. Умирая, они должны найти{Line}приемницу, готовую принять их силу, а до тех{Line}пор будут скитаться по миру, не находя покоя.{Next}По легенде, первыми волшебницами стали{Line}дочери бога-творца, Великого Хайна. Впрочем{Line}этому нет никаких исторических свидетельств,{Line}как и существованию самого бога.",
+        "Source Text SHA256": "2BC45545E652A7F34224534610BA218650B0526321FD2F65A2CB2D3F6EBEF553",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0007": {
+        "Target": "{X55Y65F0L5B0C5}Правила учреждения{Line}Правила для студентов{Line}Информация о Поступлении и Выпуске{Line}Информация о саде{Line}Информация о Сид{Line} Назад{End}{End}",
+        "Source Text SHA256": "256CAD927C4F124F314A61440DE68A0A2EF1B48030400B5554DA2314F871E42B",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0008": {
+        "Target": "{X55Y65F0L6B0C6}Классная комната{Line}Тренировочный центр{Line}Медпункт{Line}Библиотека{Line}Общежитие{Line}Кафетерий{Line} Назад{End}{End}",
+        "Source Text SHA256": "C9F1F11FF71611DF517CA8767E789E03C4A85CA8C9C3343E41CB4188296695EC",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0009": {
+        "Target": "{X55Y65}〖Классные комнаты〗{Line}◎За 5 минут до начала занятий, студенты должны{Line}  занять свои места и ожидать инструктора.{Line}◎По окончанию занятия, спокойно проследуйте{Line}  в следующую аудиторию.{Line}◎Приём пищи, демонстрация оружия{Line}  и магии запрещены.{Line}◎Учебные панели являются общими.{Line}  Используйте их аккуратно.",
+        "Source Text SHA256": "4D3EAB89ABFCC6565344515B2D3B4BA732EA1247E271264D65DF333D300806AC",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0010": {
+        "Target": "{X55Y65}〖Тренировочный центр〗{Line}◎Соблюдайте осторожность. Монстры настоящие.{Line}◎Центр открыт круглосуточно. Посещение{Line}  разрешено только для тренировок.{Line}◎Трезво оценивайте свои возможности.",
+        "Source Text SHA256": "5F4F4E47C00FCF1447782ECF1E7CB31ADAFB851C4A0033C08AEA099EAC3CD5A5",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0011": {
+        "Target": "{X55Y65}〖Лазарет〗{Line}◎При возникновении проблем со здоровьем,{Line}  немедленно обратитесь к врачу!{Line}◎Брать что-либо без разрешения{Line}  строжайше запрещено!{Line}◎Соблюдайте все предписания.{Line}◎Лечащий врач: доктор Кадоваки.",
+        "Source Text SHA256": "102F6EFCC6027696EE211398961DBB345FA222DD6C6138D12B934357273863BE",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0012": {
+        "Target": "{X55Y65}〖Библиотека〗{Line}◎Часы работы:{Line}  с 9:00 до отбоя.{Line}◎Использование библиотеки{Line}  Все материалы доступны для посетителей.{Line}  Читальный зал открыт для всех желающих.{Line}◎Соблюдайте тишину.",
+        "Source Text SHA256": "B5956E1559F4EFE53EE905E01895C609B33BF5D78C42451A3AECFE039ABF3D1D",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0013": {
+        "Target": "{X55Y65}〖Общежитие〗{Line}◎Вход свободный.{Line}◎Сидам предоставляются отдельные комнаты.{Line}◎Выход после отбоя по любым причинам кроме{Line}  запланированной тренировки запрещён.{Line}◎Не оставляйте ваши личные вещи в{Line}  общественных местах.",
+        "Source Text SHA256": "8261DB4454233F77C21F6E8631E76740FC7D6AF12AEAF537B2AA1A37A3B75C3A",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0014": {
+        "Target": "{X55Y65}〖Кафетерий〗{Line}◎Часы работы:{Line}  9:00-21:00{Line}◎Соблюдайте чистоту.{Line}◎Если у вас есть письменное разрешение{Line}  на индивидуальное питание, заранее{Line}  оповестите персонал.",
+        "Source Text SHA256": "2FEC413403BB7357E8CDAA88BB1CD9AE943487192DDDA66CB971DA182B397FED",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0015": {
+        "Target": "{X55Y65F0L6B0C6}Принципы сада{Line}Одежда{Line}Поощрение и Наказание{Line}Поведение{Line}Чрезвычайные ситуации{Line}Вечерние прогулки{Line} Назад{End}{End}",
+        "Source Text SHA256": "71803690706D37C9B34AC9B68613697E11E339616894EF1A50B6A580B14FA70A",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0016": {
+        "Target": "{X55Y65}◎Усердно работайте{Line}◎Прилежно учитесь{Line}◎Достойно играйте",
+        "Source Text SHA256": "9A2E13AA7CBECAD56DED03A57694A61E0223757B422D70F10384EFE729079218",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0017": {
+        "Target": "{X55Y65}◎Повседневной формы одержды нет.{Line}◎На праздничных мероприятиях студенты{Line}  обязаны находиться в парадной форме.{Line}◎Инструктор или старший по званию{Line}  может потребовать сменить одежду.",
+        "Source Text SHA256": "299B33C73EDEFD1613DA8B277797166F3379578FDD112669696281A17B604A70",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0018": {
+        "Target": "{X55Y65}◎Отличившиеся студенты могут быть удостоены{Line}  официальной благодарности от директора сада.{Line}◎Студенты, уличённые в актах насилия,{Line}  беспорядочных половых связях, отстающие в{Line}  изучении программы или систематически{Line}  нарушающие правила академии, могут быть{Line}  отчислены из сада.",
+        "Source Text SHA256": "8DD963985B01CBDB53768788DCA1FC296C48BBB0FF71BE041FE69E0D1B3C5CC4",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0019": {
+        "Target": "{X55Y65}◎Навыки, приобретённые в саду, никогда не{Line}  должны использоваться для личной выгоды.{Line}◎Воздержитесь от совершения любых действий,{Line}  которые могут навредить репутации сада. {Line}◎Прежде чем начинать отношения хорошенько{Line}  всё обдумайте.",
+        "Source Text SHA256": "BA202AC6072881E6B359A6AB5F7D5550D4680AFF42B998A97546A692E9AF0F05",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0020": {
+        "Target": "{X55Y65}{Color Red}При возникновении ЧС:{Color White}{Line}Если вы находитесь на втором этаже:{Line}  воспользуйтесь аварийным выходом{Line}  рядом с классной комнатой.{Line}Если вы находитесь на первом этаже:{Line}  покиньте здание через главные ворота.{Line}  {Line}◎Студенты старших курсов должны{Line}  позаботиться об учениках младших.{Line}  {Line}◎Не пользуйтесь лифтами!",
+        "Source Text SHA256": "A2E89DE0F18CFC2E8C32B87C2F1BB4B64401B3F026EECB4DB6C9E974BEE9157A",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0021": {
+        "Target": "{X55Y65}◎После отбоя, все студенты доджны{Line}  пребывать в своих комнатах, тренировочном{Line}  центре или на пути между ними.",
+        "Source Text SHA256": "87D29A2264C1936F637D15405E37F43504FC42E5E2437129B3FE6691A73D5087",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0022": {
+        "Target": "{X55Y65F0L3B0C3}Поступление{Line}Выпуск{Line}Возможности для выпускников{Line} Назад{End}{End}",
+        "Source Text SHA256": "D02F5ABB3F84A57E1EFA7BD7A4EFA429D0428AB59DFDB074D4EE70533021722A",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0023": {
+        "Target": "{X55Y65}◎Принимаются абитуриенты{Line}  в возрасте от 5 до 15 лет.{Line}{Line}◎Приветствуются трудолюбивые{Line}  и уверенные в себе.{Line}{Line}◎Честолюбивые и преуспевающие{Line}  ученики также приветствуются.{Line}{Line}◎Абитуриенты могут быть зачислены{Line}  только после прохождения собеседования.",
+        "Source Text SHA256": "9774EDB6C04FDEF2BCCB3D10BE1040A2B4A1391D279DF3B25820ED7BB117E892",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0024": {
+        "Target": "{X55Y65}◎Возраст от 15 до 19 лет.{Line}◎Отсутствие учебных задолжностей.{Line}◎Разрешение директора сада.{Line}{Line}◎В 20 лет, независимо от ранга,{Line}  все студенты обязаны покинуть сад.",
+        "Source Text SHA256": "68F62CC5EE6918ECB7E268A975070EC242D5D6C6F0E7DE7399D9F10E810ED516",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0025": {
+        "Target": "{X55Y65}◎Мы помогаем нашим выпускникам{Line}  вступать в ряды вооружённых{Line}  сил по всему миру.{Line}{Line}◎Инструктора и сиды могут остаться{Line} в саду, но соответствующее звание{Line} должно быть получено до 20 лет.",
+        "Source Text SHA256": "1AD37762AEF9037C9DA5A3597565783CDD4B36BAEE0799C38A7A9EBC5DA69EB4",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0026": {
+        "Target": "{X55Y65F0L3B0C3}О саде Баламба{Line}О саде Трабии{Line}О саде Гальбадии{Line} Назад{End}{End}",
+        "Source Text SHA256": "98A00991DED3F4482E2A44F38DECDA091082B79E6C3F5C08599E5F47151770E2",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0027": {
+        "Target": "{X55Y65}·Директор Баламбского Сада{Line}          Сид Крамер{Line}·Владелец Баламбского Сада{Line}          Хозяин НОРГ{Line}◎Баламбский Сад был первым Садом,{Line} построенным воплощать идеалы{Line} и мечты директора Сида.{End}{End}",
+        "Source Text SHA256": "9614AF8C4A4E3B8E8DFAF9A04C9C416103D7A41BF808E9EAEBA52DEF16FA8DA0",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0028": {
+        "Target": "{X55Y65}◎Сад расположен в регионе Трабия.{Line}{Line}◎Существует программа студенческого{Line}  обмена между садами Трабии и Баламба.",
+        "Source Text SHA256": "03BA0F8CD89190A7266DAA56F88995F5291B566D0BBD4325B3C7AF162C99FE4C",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0029": {
+        "Target": "{X55Y65}◎Сад в Республике Гальбадия,{Line} крупнейший из трёх. Мартин, Хозяин{Line} и директор Гальбадианского Сада,{Line} создал программу набора выпускников{Line} Баламба в гальбадианскую армию.{End}",
+        "Source Text SHA256": "926C450635F7813FC3D49D1088B1F38765D932257FB1AF2EBFE35BED8B942A2C",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0030": {
+        "Target": "{X55Y65F0L3B0C3}Что такое Сид?{Line}Отправка Сидов на задания{Line}Условия принятия в Сид{Line} Назад{End}{End}",
+        "Source Text SHA256": "AD95ACE72997356DF62D52D943A58B5EAF1A6F9B61451A4E91BB216055C4A1AA",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0031": {
+        "Target": "{X55Y65}◎Наёмные войска сада Баламба.{Line}◎Активно используют стражей.{Line}◎Хорошо действуют в малых командах.{Line}◎Выполняют задания по всему миру.",
+        "Source Text SHA256": "9A3295DEB6E088185F7913E2D57E028B6CFF4AB0366D3D4B3E65AA40199E23A7",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0032": {
+        "Target": "{X55Y65}◎Сиды готовы выполнять задания{Line}  в любой точке мира.{Line}{Line}◎Сиды могут быть наняты любым государством,{Line}  юридическим или физическим лицом.{Line}  {Line}◎Сиды способны выполнять любые поручения,{Line}  от услуг телохранителей до военной поддержки.",
+        "Source Text SHA256": "32824CE4601E1880D614547ED377843F798F6776F54F419BEB1DC29BEF8F6748",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0033": {
+        "Target": "{X55Y65}◎Студенту должно исполниться 15 лет.{Line}◎Студент должен пройти письменные испытания.{Line}◎Студент должен сдать полевой экзамен.{Line}{Line}◎Содержание сида расчитывается индивидуально{Line}  и зависит от его ранга.",
+        "Source Text SHA256": "1E167C6752D47ECE2AB72AE3342EEBAF1491A19DA01D0B00AF27EF6A9F35812C",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0034": {
+        "Target": "{X55Y65F0L3B0C0}■Мероприятия{Line}■Кафетерий{Line}■Дисциплинарный комитет{Line}■Библиотечный комитет",
+        "Source Text SHA256": "4EA399C0E7F65ED588E3C331E908EA17AECC1669C71E2C3EE54309AFA80DD22B",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0035": {
+        "Target": "{X55Y65}∙Весенняя поминальная служба{Line}∙Церемония поступления{Line}∙Выпускные экзамены{Line}∙Летний фестиваль{Line}∙Летние каникулы{Line}∙Осеннее мероприятие (опл. студ.){Line}∙Зимние каникулы",
+        "Source Text SHA256": "F8AE74BECF00C9400CF69A3A900479AFA950CDEF5C66AD3983064D6044195BE1",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0036": {
+        "Target": "{X55Y65}*Борьба за булочки выходит из-под контроля!{Line}  Мы прилагаем все усилия, чтобы удовлетворить{Line}  ваши потребности.{Line}  Пожалуйста, проявите терпение.{Line}  Надеемся на ваше понимание.{Line}{Line}  P.S. Напоминаем, что использование оружия{Line}  и магии в кафетерии запрещено.",
+        "Source Text SHA256": "0DE028142A2A6CB04F2BCCFFEF8D73C3E7EE5D82117EA1F80C47D8F8259FEEDB",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0037": {
+        "Target": "{X55Y65}*Соблюдай правила академии.{Line}  (Младьшекурсников это тоже касается!){Line}*Не таскай в сад животных.{Line}*Докладывай обо всех странностях.{Line}*Не сори.",
+        "Source Text SHA256": "E374AC4D49BEC744ECAD4FED441C3D74F76C0E10572E34D7BE43E31D47D428AE",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0038": {
+        "Target": "{X55Y65}Путеводитель по{Line} насекомым (цветное{Line}{Line} издание) Прощай,{Line}{Line} Пупурун{Line}{End}{End}",
+        "Source Text SHA256": "E86A8244B9C3F170BAB82E0DDEC300F90D9C9AE0AA58E62F6505A18480F2279F",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0039": {
+        "Target": "{X55Y65}Съедобные цветы{Line} Турбинные двигатели (переработанное{Line}{Line} издание){Line} Вот мы и{Line} встретились снова...{Line} Пупурун Рыцарь волшебницы (пьеса){End}{End}",
+        "Source Text SHA256": "4513046501E9F75CE99CA2D86FB53A57DE5C0C52A5DE3F0C0AA6DDA5F371E4FB",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0040": {
+        "Target": "{X55Y65}◎Пожалуйста, оставьте здесь свои комментарии.{Line}  Они помогут сделать наш сад лучше!{Line}  _____________{Line}*Я первый! :Р  {Line}  Трип 4ever!{Line}  Ааа! Я хочу с ней погулять! :х{Line}        {Color Yellow}Поклонник Трип #1{Color White}",
+        "Source Text SHA256": "782A7C455CFD076F9390F61E658F517C96826DF7E8248017313FEEFEE4DAD692",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0041": {
+        "Target": "{X55Y65}{Color Grey}>Поклонник Трип #1{Color White}{Line}*Слышь, придурок, у тебя имя-то есть?{Line}         {Color Yellow}Гость{Color White}{Line}*Чё сказал, утырок?!{Line}  В хлебало давно не получал?!{Line}        {Color Yellow}Поклонник Трип #1{Color White}{Line}{Color Grey}>Поклонник Трип #1{Color White}{Line}*О, как страшно! Неудачник.{Line}        {Color Yellow}Гость{Color White}{Line}*А ну хватит! Оба!{Line}  Здесь не место для разборок!{Line}        {Color Yellow}Сю{Color White}",
+        "Source Text SHA256": "44B15B076B82F2CC364F383748774096B56AD7530F7176C30778E9A59B4D3CFC",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0042": {
+        "Target": "{X55Y65}{Color Grey}>Сю{Color White}{Line}*Не парься. Сейчас сюда припрётся{Line}  кто-нибудь из дисциплинарки и всех разгонит.{Line}        {Color Yellow}Д.И.{Color White}{Line}{Line}{Color Grey}>Д.И.{Color White}{Line}*Чё? Какой еще Д.И.? Ты кто вообще такой?{Line}        {Color Yellow}Алмази{Color White}{Line}{Line}*Во, я ж говорю! Как мухи на...{Line}  Хорошо, что я шифруюсь! (:{Line}        {Color Yellow}Д.И.{Color White}",
+        "Source Text SHA256": "0EDC875C7F9FC2920E67DDE84E889F0C82B78BA8E2F99C0FD23A41576749FA5D",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0043": {
+        "Target": "{X55Y65}*И я! :D{Line}  А кто-нибудь уже пробовал новые булочки?{Line}        {Color Yellow}З.Д.{Color White}{Line}        {Line}{Color Grey}>З.Д.{Color White}{Line}*О да, чел! Они лучшие в мире!{Line}        {Color Yellow}М.С.{Color White}",
+        "Source Text SHA256": "7055BDAFD8031E6C6F2BECD0AB514D6C4E30264F1571F49B2E83FF321D2E32E1",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0044": {
+        "Target": "{X55Y65}*Блин... Я опять не успел. :’({Line}        {Color Yellow}З.Д.{Color White}{Line}        {Line}{Color Grey}>З.Д.{Color White}{Line}*О, ты многое потерял!{Line}  Кстати, у тебя же сегодня экзамен?{Line}  Удачи, чувак!{Line}        {Color Yellow}М.С.{Color White}{Line}{Line}{Color Grey}>З.Д.{Color White}{Line}*Надеюсь, ты всё хорошо сдашь.{Line}  Будь осторожен...{Line}         {Color Yellow}Библиотекарь{Color White}",
+        "Source Text SHA256": "38A4850F7087B066B0CA2507C0E1E1428DC21B64C9C8708CFD9D4E0B36991197",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0045": {
+        "Target": "{X55Y65}*Временно закрыто{Line} Доска объявлений закрыта,{Line} пока вы не ПОВЗРОСЛЕЕТЕ!{Line} Её создали для дел Сада,{Line} а не для вашей{Line} пустой болтовни.{End}{End}",
+        "Source Text SHA256": "E3A2C139624EFD87177A3CA5C6CCD8B958B69A993685A446329C5201C907F49D",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0046": {
+        "Target": "{X55Y65}*Удачи, {Char Squall}!{Line}*Для тебя это раз плюнуть.{Line}*Мне не нужны красивые{Line} речи. Просто{Line} веди нас за собой.{Line}*Мы на тебя рассчитываем.{End}{End}",
+        "Source Text SHA256": "1FE830DE6D9641D5895430D28F371E1765A40D5D6F726E9B92C19BDF7FE4D7AD",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      },
+      "$en_bgroom_5_0047": {
+        "Target": " {Key Menu} — читать дальше/{Key Cancel} — закончить{End}{End}",
+        "Source Text SHA256": "09FF28C5B035E9D5CD1B8CD18753C478070BC826DE51EFEF99153D27F4186FE4",
+        "sourceContext": {
+          "Source MSD SHA256": "4ECBD27BA4DAD587B4265E8043DB9AD76E341E7E47B175CED82A0976D0A1A43F",
+          "JSM SHA256": "D4967E6668BB2366B17B6834329A532439D08BCEA4B83AFA399457FFB51844D7"
+        }
+      }
+    }
+  }
+}

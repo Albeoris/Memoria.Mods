@@ -1,0 +1,111 @@
+{
+  "Menus": {
+    "mngrp_slot167_table": {
+      "$en_mngrp_slot167_table_0000": {
+        "Target": "Предельный удар {Char Rinoa} выполняется вместе с {Char Angelo2}.",
+        "Source Text SHA256": "1E3A6C07168E14000CFA8CB495717289C642EBEB9F81393B4888FB243DE8E632",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0001": {
+        "Target": "Приёмы, которым может научиться {Char Angelo2},{Line}перечислены на экране состояния.",
+        "Source Text SHA256": "F5BB0CA4004968864C3D75668A00236A6546060F8BEFAD8D1146EBAA775E47BD",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0002": {
+        "Target": "Четвёртый экран состояния показывает{Line}все приёмы, доступные {Char Angelo2}.",
+        "Source Text SHA256": "CF8698AA0365F1C238C5CD30F3A350F71C44EB509AAC3EB57A4FB8B7B82126F0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0003": {
+        "Target": "Шкала справа показывает{Line}ход обучения.",
+        "Source Text SHA256": "BE6798CC3C0AD1F76A3172BDDEA35B829D91D06A06BA7001616496B3CEA099F6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0004": {
+        "Target": "Когда шкала заполнится,{Line}приём будет изучен.",
+        "Source Text SHA256": "ED459784CB16C8D75A71C31E12EB6DD557CF28B26FDC58B6F7D10945CF8F698E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0005": {
+        "Target": "Неполная шкала означает,{Line}что приём ещё не изучен.",
+        "Source Text SHA256": "DADDC0215C69AD5C1C182233787557413060A8790EA84F1C313D357AC1971154",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0006": {
+        "Target": "Чтобы изучить{Line}новый приём,",
+        "Source Text SHA256": "2A9366D29A4C379BC94ED02EDA824AF3A25249C30B5E7378804DA650779D50BE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0007": {
+        "Target": "наведите курсор на его название{Line}и нажмите {Key Confirm}.",
+        "Source Text SHA256": "AF706CE24D080DBAAC9E318310C7B72633AAB95ADA447279892D73F6630E82C9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0008": {
+        "Target": "Пока {Char Rinoa} ходит, шкала{Line}заполняется, и {Char Angelo2} осваивает приём.",
+        "Source Text SHA256": "6D146DF006AE310130E522AAC8A5A11B372DD971155C64136BB29CF3D9F275F6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0009": {
+        "Target": "Если выбрать уже{Line}изученный приём,",
+        "Source Text SHA256": "38C63697254DC907BDD3A12E24F6E5782C7DECBFA03F4CFCCCD3D6586B01C1CB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0010": {
+        "Target": "перед закрытием экрана{Line}появится сообщение.",
+        "Source Text SHA256": "7EEDF38AC900AB9A99330F9C20D8A8E5CB2F0B686127F9962614D16B836D69B6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0011": {
+        "Target": "Если остались неизученные{Line}приёмы, выберите один из них.",
+        "Source Text SHA256": "7A7EE391FB8B5072083E783B6C4E47D394E17ED84C1E67B9F654FEDC796C0538",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0012": {
+        "Target": "Новые приёмы можно открыть,{Line}читая журнал{Line}«Домашние питомцы».",
+        "Source Text SHA256": "757C6525A6362C9457B865131076261C72309516488FB591ABDC828EF37167C1",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0013": {
+        "Target": "Прочитав журнал, вернитесь{Line}на этот экран, чтобы изменить настройки.",
+        "Source Text SHA256": "75E25C31BAC75D08A0D9C28E75A493361ED8008DC51AFF68ADBE80536BAE55A4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot167_table_0014": {
+        "Target": "На этом урок о предельных ударах{Line}{Char Rinoa} окончен.",
+        "Source Text SHA256": "1FA2FCFCE0F409E5DF8252C1E66AB19DB01CFF90274D3FBE53FF431B7A257686",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

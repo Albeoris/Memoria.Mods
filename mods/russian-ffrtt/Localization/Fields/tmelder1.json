@@ -1,0 +1,1278 @@
+{
+  "Fields": {
+    "tmelder1": {
+      "$en_tmelder1_0000": {
+        "Target": "{X20Y20}Помощник старейшины{Line}«Помощнику кажется, сейчас{Line} лучше не тревожить Старейшину».{End}",
+        "Source Text SHA256": "3384E519E76B32C6868EA4652BB73A91FCD0164E7F76DA15F90D989B2DBCE105",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0001": {
+        "Target": "{X20Y20}Помощник старейшины{Line}«Стать старейшиной, конечно,{Line} большая честь. Только Помощнику хотелось бы,{Line} чтобы мы становились чуточку красивее».{Next}«Ну, хоть ростом{Line} мы немного прибавляем».{End}",
+        "Source Text SHA256": "989C7F6982315F5117DD37FC67E4DEB82D79FEED77FDC05B4144DD03DD9C191B",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0002": {
+        "Target": "”......“{End}",
+        "Source Text SHA256": "F0823C38F9E230193A95DBFD9B26DFF0A4FF20EE5F9765976E2D47A5EC64ED28",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0002_ctx_3eda28765aa5c7af": {
+        "Target": "{X180Y40}”......“{End}",
+        "Source Text SHA256": "F0823C38F9E230193A95DBFD9B26DFF0A4FF20EE5F9765976E2D47A5EC64ED28",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0002_ctx_5779de11856947ec": {
+        "Target": "{X20Y20}”......“{End}",
+        "Source Text SHA256": "F0823C38F9E230193A95DBFD9B26DFF0A4FF20EE5F9765976E2D47A5EC64ED28",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0002_ctx_5976f1ef3f1a5de5": {
+        "Target": "{X120Y20}”......“{End}",
+        "Source Text SHA256": "F0823C38F9E230193A95DBFD9B26DFF0A4FF20EE5F9765976E2D47A5EC64ED28",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0003": {
+        "Target": "{X120Y20}Старейшина{Line}«Как по-разному мы живём».{End}",
+        "Source Text SHA256": "D17AC2FC2F260A7A0005978750BAC4C49017AEB4F73C7ECF83A1EFCC3EC2752F",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0004": {
+        "Target": "{X120Y20}Старейшина{Line}«Вы живёте на свободе,{Line} а мы живём взаперти».{End}",
+        "Source Text SHA256": "8F9BE0870591EF8B8FE90FD62E98B71993CD8E97FB0A2D1A510B5004FE8236DC",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0005": {
+        "Target": "{X120Y20}Старейшина{Line}«Вы идёте вперёд навстречу своей судьбе.{Line} Мы остаёмся на месте, чтобы сберечь свою».{End}",
+        "Source Text SHA256": "A63D2C3853A6AB9717DD2D8213A18B725A39CD12895049E020EA6342779C9B09",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0006": {
+        "Target": "{X120Y20}Старейшина{Line}«И всё же, как бы мы ни различались,{Line} мы сумели понять друг друга».{Next}«Мы поняли друг друга{Line} сердцем».{End}",
+        "Source Text SHA256": "38068E6A8CD759D4E0C0F72D3F92AB16CBF142C508335191ABDCE7881EBEC729",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0007": {
+        "Target": "{X120Y20}Старейшина{Line}«Если бы только НОРГ это понял…»{End}",
+        "Source Text SHA256": "296219C53E976F0FCD4B103816DAFFA5BE30856F15D34F8C3270D2A5FEA5DCFA",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0008": {
+        "Target": "{X80Y20}Получено: [Перо Феникса]!{End}",
+        "Source Text SHA256": "E8B63DBD6FB67318D00E7A55B6FECA5BD76B3DB362AE615C0DD0DA5C50658F69",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0009": {
+        "Target": "{X20Y20}Старейшина{Line}«Может, сегодня и не закончат,{Line} но, думаю, уже скоро».{End}",
+        "Source Text SHA256": "D00C11F95BA31FD025CA3B79950F3986A03C3C59BC16FBC64EA62B98F5FC18CE",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0010": {
+        "Target": "{X20Y20}Старейшина{Line}«Вы уговорили Ремесленника? Прекрасно!{Line} Тут только ваша смекалка и могла помочь».{End}",
+        "Source Text SHA256": "5DACC596B62150C730F873D2424C5729D2F5F6CCC5637C999106AC5C4E9BCF88",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0011": {
+        "Target": "{X20Y20}Старейшина{Line}«Я хотел предложить это Ремесленнику за помощь.{Line} Теперь мне это уже ни к чему».{Next}«Возьмите, прошу вас».{End}",
+        "Source Text SHA256": "495F0F3D63A46E6EFBA6CF9D1A0577761239FDED0DC7E40416CE3D2691ACC7AB",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0012": {
+        "Target": "{X20Y20}Получено: [Сост Защ]!{End}",
+        "Source Text SHA256": "E0310FE796C18048214A1429A25F056CD463B6E2EE3D1964D28BAE08263E364A",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0013": {
+        "Target": "{X120Y20}Старейшина{Line}«Похоже, им нужна{Line} ещё одна пара рук».{End}",
+        "Source Text SHA256": "68B856AB9FCB31C08D71052740EAE29FCAF5C3A3759438B0189B0F588091D8FC",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0014": {
+        "Target": "{X120Y20}Старейшина{Line}«Я был бы рад, если бы мой помощник{Line} смог отправиться за своей мечтой».{Next}«У меня тоже были мечты. Но{Line} для старейшины долг{Line} всегда должен быть на первом месте».{End}",
+        "Source Text SHA256": "806DA90D1A092E52E33314B2BEB94F75AB2AB6EA2D3CEA973C4C59DC4C8AF50F",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0015": {
+        "Target": "{X120Y20}Старейшина{Line}«Я бы помог, если бы мог…{Line} Но в скульптуре я ничего не смыслю».{End}",
+        "Source Text SHA256": "EB53E46474ABAFE859665A90BFFE0CE5576F540B7EF2D3A218F2E6AFF9F34547",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0016": {
+        "Target": "{X120Y20}Старейшина{Line}«Значит, им всё-таки нужен ещё один помощник.{Line} Ремесленник годится, но{Line} он очень упрям… Что же делать?..»{End}",
+        "Source Text SHA256": "A0BD549F27683C8E62164DAB05907ECD45DCE6B1E427D0B5C59B5386B759546A",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0017": {
+        "Target": "{X50Y30}{Char Squall}{Line}«Может, это не моё дело,{Line} но какой смысл заставлять его{Line} делать то, чего он не хочет?»{End}",
+        "Source Text SHA256": "CC7BAC2360CA245D54A10E92B414A51ABDE4EEDB13066CAE7A56160491DAEEA2",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0018": {
+        "Target": "{X5Y5}{Char Squall}{Line}«А превращение никак нельзя остановить?»{End}",
+        "Source Text SHA256": "6FD10B4AB26D0935DC8E02668B279CF6A0179FC740D361DF19569DFE506D823C",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0019": {
+        "Target": "{X120Y0}Старейшина{Line}«Не в обычаях Шуми пользоваться знаниями{Line} ради собственных амбиций».{End}",
+        "Source Text SHA256": "A7CAF64FD0A0A0E030A1B5DDB6728D6E3BC8EE18D6A669454B35620D2BF948DE",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0020": {
+        "Target": "{X120Y0}Старейшина{Line}«Каждый из нас принял{Line} свою судьбу».{End}",
+        "Source Text SHA256": "583A2935823D10EBD208806518581B44FAB87A0D2B133601D5C17AD3C2B05BE0",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0021": {
+        "Target": "{X5Y5}{Char Squall}{Line}(Как грустно…){End}",
+        "Source Text SHA256": "0FB8D3673CD7D9C591CF1E70E6677BF6AE23A147D7F41BB14BF78BA696C0067E",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0022": {
+        "Target": "{X120Y0}Старейшина{Line}«Мой помощник наконец взялся за работу… Славно.{Line} Теперь статую скоро закончат».{End}",
+        "Source Text SHA256": "67A0D06028305B53A22452B056835424F9BF63B66286211F53B8B9B90C7DD8FA",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0023": {
+        "Target": "{X120Y0}Старейшина{Line}«Вы не понимаете.{Line} Никто в деревне не восхищается{Line} мастером Лагуной так, как мой помощник».{End}",
+        "Source Text SHA256": "658220FE82DF26DBAC1217E7D971B02A39F82FCCE33BCB719FBA74A165C83E03",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0024": {
+        "Target": "{X120Y0}Старейшина{Line}«У моего помощника была причина{Line} поначалу отказаться от работы над статуей».{End}",
+        "Source Text SHA256": "CC271EC40356F0736BF66EE62C53C8C1586CC960279E4DDEF2520662D77A9443",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0025": {
+        "Target": "{X100Y30}{Char Squall}{Line}”......?“{End}",
+        "Source Text SHA256": "2963D28B8E1E176FA4694F0F55BF8B8AE6EAD7B8ADB7C2A931F8FD92D744CE01",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0026": {
+        "Target": "{X120Y0}Старейшина{Line}«Мой помощник мечтает уйти отсюда{Line} и сражаться плечом к плечу с мастером Лагуной.{Line} А не тратить время на его статую».{End}",
+        "Source Text SHA256": "CB682E46596FEBE7400238B613A437351A8AD06C94B4F26D7FF123B83FCC2BEC",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0027": {
+        "Target": "{X120Y0}Старейшина{Line}«Вот почему мой помощник не хочет{Line} становиться старейшиной. Старейшина не может{Line} ни сражаться, ни покидать деревню».{End}",
+        "Source Text SHA256": "20A1EB38571C215AA80F246ADF6A7AF04CDCD0C75176FCC9C0390D25207FF23E",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0028": {
+        "Target": "{X120Y0}Старейшина{Line}«Шуми становится старейшиной или кем-то ещё.{Line} Чтобы стать старейшиной, думаю, нужна{Line} смекалка. Мне очень повезло».{End}",
+        "Source Text SHA256": "AA89549DD472462F0CE063FC9A179FE7DA0058413C162E1858FAB967F40DDCDB",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0029": {
+        "Target": "{X120Y0}Старейшина{Line}«…Думаю, однажды мой помощник{Line} станет старейшиной».{End}",
+        "Source Text SHA256": "79F5DD1D9AEA97926B6B6D5D0F9B6A4B0BEE0075316783A87BB613EC59900AB1",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0030": {
+        "Target": "{X120Y0}Старейшина{Line}«Вот уж будет ирония судьбы».{End}",
+        "Source Text SHA256": "1DC76D1DBF49B16A73663DD9490463A5F46BBC376F4D4AE66A99401DED391364",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0031": {
+        "Target": "{X120Y20}Старейшина{Line}«Из моих уст просьба прозвучит как приказ. Поэтому прошу вас…»{End}",
+        "Source Text SHA256": "83E9DA24FB523B745D8C4F5635008E2F8ED3B88AD7D2406282C282966E0C31F7",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0032": {
+        "Target": "{X120Y20}Старейшина{Line}«Ну как у них дела?..»{Next}«По вашему лицу вижу,{Line} они за работу всерьёз ещё не взялись».{End}",
+        "Source Text SHA256": "67465FCC498EFA6B565326112537E581BD878C290182E548A3BD6F0079C22804",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0033": {
+        "Target": "{X120Y20}Старейшина{Line}«…Мумба может нам помочь.{Line} Попросите Мумбу снаружи о помощи».{End}",
+        "Source Text SHA256": "2E36C0748F5492B0C6911BBFD5FBC1B3C2B0F2D61C2E1E256D13FA2E316A89CE",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0034": {
+        "Target": "{X120Y20}Старейшина{Line}«Теперь мой помощник помогает{Line} Скульптору со статуей Лагуны».{End}",
+        "Source Text SHA256": "64B9C6A7F76E5EAF8C56B47422657BD9B9C26682735DD8D8A795024B8209F481",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0035": {
+        "Target": "{X120Y20}Старейшина{Line}«Вы, наверное, не заметили, но у него умелые руки.{Line} Загляните к нему, если будет время».{End}",
+        "Source Text SHA256": "AC5A5BDB04394D1897958A3326025CCEF26FCB52D9A394B2E7E1BC66D7FD5E38",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0036": {
+        "Target": "{X20Y20}Помощник старейшины{Line}«Ох… Помощнику не хочется{Line} делать статую».{End}",
+        "Source Text SHA256": "630E9988132B67114B20283BD3813A14BAE17C13019552007D7E753CAE64CD00",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0037": {
+        "Target": "{X10Y20}Старейшина{Line}«Раз вы сюда пришли,{Line} должно быть, вы знаете мастера Лагуну».{End}",
+        "Source Text SHA256": "C1E0A6CB0CB8EA3E6811792E60B59BF1F0FADD7FB01CE45901E925E19EB2C153",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0038": {
+        "Target": "{X10Y20}Старейшина{Line}«Благодарю, что пришли. Позвольте мне{Line} немного рассказать о мастере Лагуне».{End}",
+        "Source Text SHA256": "0A6D64923208ECA8AD752F04668D48B2A2EB90A11868ADCF0C3BFA7C2AC1D02D",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0039": {
+        "Target": "{X10Y20}Старейшина{Line}«Лет семнадцать назад{Line} мы нашли его раненым».{End}",
+        "Source Text SHA256": "C10FE64580D730D4E6C9315C3BC738575CEE265C01EF524E9025078D6C7A984B",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0040": {
+        "Target": "{X10Y20}Старейшина{Line}«Он шёл в Эстар спасать{Line} девочку по имени Эллон.{Line} Её похитили эстарские солдаты».{End}",
+        "Source Text SHA256": "E72A2F22F0B5505D300F7A796BBFD97081394B5EC21E3D8A4AEED5A712F3C346",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0041": {
+        "Target": "{X20Y0}Старейшина{Line}«Он остался у нас ненадолго, пока{Line} заживали раны. За это время он пытался{Line} научить одного Мумбу говорить».{End}",
+        "Source Text SHA256": "E21BA6A623887B51D58CFCF3E6BADB793777D6422E44FDF824C5F0E25806BC26",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0042": {
+        "Target": "{X5Y5}{Char Squall}{Line}«Зачем?»{End}",
+        "Source Text SHA256": "9D44E0666B2F851D1729D90196D3896680107B1B517DDF7B4B4812021105CE09",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0043": {
+        "Target": "{X20Y0}Старейшина{Line}«Он сказал мне, что жалеет Мумб,{Line} потому что они не знают ни слова.{Line} Он говорил, что слова полезны и ценны».{End}",
+        "Source Text SHA256": "00EA106E12B28E19E79425885B94F9E99822D317B390A1A1FE48964F2B35592C",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0044": {
+        "Target": "{X20Y0}Старейшина{Line}«По-моему, Мумбам незачем знать слова.{Line} Ведь то, что по-настоящему важно,{Line} можно передать и без слов».{End}",
+        "Source Text SHA256": "0A0410710499250CF33031841D124ACC9F9270B987AAFA48F454767CDCB3384C",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0045": {
+        "Target": "{X20Y0}Старейшина{Line}«Может, и нам слова ни к чему».{End}",
+        "Source Text SHA256": "160FA688127D0B68E09E661DF6A92C60D66ACFD211B82C2CE8A207B42F7CEBB8",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0046": {
+        "Target": "{X20Y0}Старейшина{Line}«Ведь даже сам мастер Лагуна{Line} не очень-то ладил со словами».{Next}«Объяснялся он{Line} просто ужасно».{End}",
+        "Source Text SHA256": "686A75A96813DA00CCFD8B0306FF49669EA9E29BD7E667C3386F65BF7F02576A",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0047": {
+        "Target": "{X20Y0}Старейшина{Line}«А всё-таки мы поняли, что он{Line} так отчаянно пытался сказать,{Line} как сильно хотел спасти Эллон».{End}",
+        "Source Text SHA256": "67B3CB9F6A5332C29EE6045A76274484470FBB3E228A6537C75C1ED8BDD3F459",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0048": {
+        "Target": "{X20Y0}Старейшина{Line}«Его глаза сказали нам{Line} больше, чем слова».{End}",
+        "Source Text SHA256": "2254CC8E5270FD712E9481A85725D5FF6B5E505335DE3F8742DDC594C3AA8C04",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0049": {
+        "Target": "{X20Y0}Старейшина{Line}«Вот и всё, что я хотел сказать».{End}",
+        "Source Text SHA256": "3A5059ABF39A611035832A1345EFDBAE98CCEB9EAA871FE74CDDC4B91184B2AB",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0050": {
+        "Target": "{X5Y5}{Char Squall}{Line}«А зачем вы делаете{Line} его статую?»{End}",
+        "Source Text SHA256": "F7172BB8B691AC34F98A412D96C989194C5DA42871D3BE0CB32BFCE029703904",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0051": {
+        "Target": "{X20Y0}Старейшина{Line}«Вам это кажется странным, да?{Line} Сомневаюсь, что вы поймёте».{End}",
+        "Source Text SHA256": "904E633465C09D7F7E303214486674D294919ABA26431D0796BBE1E279AE3400",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0052": {
+        "Target": "{X20Y0}Старейшина{Line}«Мы верим, что в мастере Лагуне{Line} есть что-то особенное. Он умеет{Line} притягивать к себе людей».{End}",
+        "Source Text SHA256": "7BAE50642F4A54964FC1F489E4B6280C6E09888A88370A96CEA45E7C0974DC21",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0053": {
+        "Target": "{X20Y0}Старейшина{Line}«Мы всё ещё не знаем, откуда у него этот дар,{Line} вот и решили сделать его статую».{End}",
+        "Source Text SHA256": "4B24DE1A4DD056ED897927A7A94D018EFFB8FB5BDEAEFBF0A1C4205E7810AC8B",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0054": {
+        "Target": "{X20Y0}Старейшина{Line}«Нам показалось, что за этой работой{Line} мы поймём, что в мастере Лагуне такого особенного».{End}",
+        "Source Text SHA256": "50B9AA9D9F40218B5E58E6FADEBFF526BB107FA09ED343C75503979FDC00F39C",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0055": {
+        "Target": "{X50Y5}(…Этот недотёпа?{Line} Лучше промолчу.){End}",
+        "Source Text SHA256": "FFE92913A7F6DA10F6106DED9235D2F926790896F339E05CF293DE87C27DCFFF",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0056": {
+        "Target": "{X10Y30}Помощник старейшины{Line}«Благодарим, что вызвались помочь».{End}",
+        "Source Text SHA256": "E76BAE6E5DBFBD642C25D7DB1EC72118902DEB0CDA2A65DC0DA8FFD05BECAFEB",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0057": {
+        "Target": "{X20Y20}Помощник старейшины{Line}«Приятно познакомиться.{Line} Меня зовут Помощником».{End}",
+        "Source Text SHA256": "5DCEE152DE4031B44EA747DC89C3FFF464FEA448A596821B0108FC2138E5E618",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0058": {
+        "Target": "{X20Y20}Помощник старейшины{Line}«Как говорится, задаром{Line} и обеда не получишь».{End}",
+        "Source Text SHA256": "A0D7CD3871FD41E5CCB6F505A245D0DCADF1B11A75D63C0FB584C728CC1DF0E2",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0059": {
+        "Target": "Помощник старейшины{Line}«Да-а-а. Что такое?»{End}",
+        "Source Text SHA256": "56EA678C196888E292BFAD6328F9EAFF3C8CD383D87F28C56A5445F5FF24857E",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0060": {
+        "Target": "Старейшина{Line}«Знай своё место».{End}",
+        "Source Text SHA256": "160FF15CFA7C99274549AC2FF1F7C8E8CB46E859A87F5B08667A9502D772ADB7",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0061": {
+        "Target": "{X120Y20}Старейшина{Line}«Прошу простить{Line} за скромное жилище».{End}",
+        "Source Text SHA256": "1277AC54C04164341B426E73701EA7CFA50ECFC593EBAD69620B879F68789495",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0062": {
+        "Target": "{X120Y20}Старейшина{Line}«Займитесь этим, когда вам удобно,{Line} хотя чем скорее, тем лучше».{End}",
+        "Source Text SHA256": "4030AD622C8E35C743AF4AD55346D01F7D684DA565CE84E10E59B635862ADAB5",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0063": {
+        "Target": "{X120Y20}Старейшина{Line}«О, вы уже взялись за дело.{Line} Мы на вас рассчитываем».{End}",
+        "Source Text SHA256": "D259FC95D0D1EC0D0FE94764C318571E1A7FD34E3477837E6821B38419A6CA4B",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0064": {
+        "Target": "{X10Y30}Помощник старейшины{Line}«Сейчас Старейшина{Line} вручит вам подарок».{End}",
+        "Source Text SHA256": "DE098852886C01770A9E7314CB071D4A9EB469CECF743423CF74E17287B796E1",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0065": {
+        "Target": "{X400Y10}Старейшина{Line}«В благодарность за вашу помощь{Line} с радостью вручаю вам это».{End}",
+        "Source Text SHA256": "2B70083ED1071D5C9349B6AE8503C32E18F43009FDBDEBAC03388257E8805BED",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0066": {
+        "Target": "{X120Y20}Старейшина{Line}«Заглядывайте к нам в любое время».{End}",
+        "Source Text SHA256": "34CF17453989BFFD6346AD413F4A4B890DA6F32BB5D0B31A5F85A23C9D1349EA",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0067": {
+        "Target": "{X20Y20}Помощник старейшины{Line}«Прошу вас немедленно уйти».{End}",
+        "Source Text SHA256": "BA061B375A4A1333DE894A902206522BBCAADD419DCB8BC18130343FD0B3F9AE",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0068": {
+        "Target": "{X100Y20}{Char Squall}{Line}”?“{End}",
+        "Source Text SHA256": "066153DC82582357E04C557EE42FD89D2A46E622C28DA5AD7CACA96589B7ED3B",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0069": {
+        "Target": "{X100Y20}{Char Squall}{Line}«Эй…»{End}",
+        "Source Text SHA256": "F10E3700F533B46D7E05B936BE8CD143225FCF16D1459B088EF767FB50DD32AD",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0070": {
+        "Target": "{X90Y10}Зелл{Line}«Что такое?..»{End}",
+        "Source Text SHA256": "B9F90D43B78DADC9A8182526D384B41A9DE56560D3418C170B1D13A553E792DE",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0071": {
+        "Target": "{X90Y10}Ирвин{Line}«Я что-то пропустил?»{End}",
+        "Source Text SHA256": "3CF1C88E2E7924471FB4DD9E792F840143CEF2A94D5BDDE527CDBB9398131889",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0072": {
+        "Target": "{X90Y10}{Char Rinoa}{Line}«…Там ничего нет».{End}",
+        "Source Text SHA256": "E096FE053EEE80119BC5D0875C454D087A92DE67907299C39A241516531ED1C5",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0073": {
+        "Target": "{X90Y10}Квистис{Line}«Я ничего не вижу».{End}",
+        "Source Text SHA256": "218294F8A938726E3516EF78FEA4F8647589E956DF21ADACE868187398E27356",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0074": {
+        "Target": "{X90Y10}Сельфи{Line}«???»{End}",
+        "Source Text SHA256": "A5B6999D25191F3FD2433790113AE787AA01B44B82DE0E67C29B175ABF14006E",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0075": {
+        "Target": "{X150Y0}{Char Squall}{Line}«?.. Это ещё что?..{Line} Ничего не вижу…»{End}",
+        "Source Text SHA256": "85C27E20CCBE5B5BBBD5700109BEBA173518AF6CF1254E9B8FBE8BDE1596FCCD",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0076": {
+        "Target": "{X10Y30}Помощник старейшины{Line}«Э-э… Старейшина, Помощнику{Line} никак не удаётся разглядеть подарок».{End}",
+        "Source Text SHA256": "2F42960AED7A0F521A48C02CF09C764843FBE659337D6354DF5DDF48896FB6D1",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0077": {
+        "Target": "{X400Y10}Старейшина{Line}«…О».{End}",
+        "Source Text SHA256": "07271FD63005EEDB08C79078017617D4AFAF1AA162A0E7B8AC47B8EA0CF016CC",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0078": {
+        "Target": "{X10Y30}Помощник старейшины{Line}«…Ах, разве это не поразительно?!{Line} Когда он держит что-то на ладони,{Line} этого даже не видно».{Next}«Вот какая сила дарована тому,{Line} кто стал старейшиной».{End}",
+        "Source Text SHA256": "C4122E3BA29AF7EB75306FC0B54E04D63ED0C9308F3EEB32DF3B01663147CA3E",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0079": {
+        "Target": "{X100Y20}{Char Squall}{Line}«Так что за подарок?»{End}",
+        "Source Text SHA256": "5B61C23D094F62B5423018E850DC526619263F273F080642A37AC0042CBDB4D0",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0080": {
+        "Target": "{X10Y30}Помощник старейшины{Line}«…Как же…{Line} Честь увидеть его руку».{End}",
+        "Source Text SHA256": "94FE94ACCE02E2AA37E3E1084CC16BA5FE4C278B3D6AC4AEF7EB3E50EDA29F20",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0081": {
+        "Target": "{X10Y30}Помощник старейшины{Line}«Эти великие руки копали землю!{Line} Эти великие руки творили чудеса!{Line} Эти великие руки достойны старейшины!»{End}",
+        "Source Text SHA256": "C0432B22CA6E8227934C9CF25AC9F23FD0836688D766CFDEB46E4F27557039B1",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0082": {
+        "Target": "{X10Y30}Помощник старейшины{Line}«Мы горды проводить вас с таким даром.{Line} Заходите ещё. Всего доброго».{End}",
+        "Source Text SHA256": "35E0285623C86FB1CF710063DEB07F3E25E69977891590C05AF5B1E81FAC8AC4",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0083": {
+        "Target": "{X10Y30}Помощник старейшины{Line}«Подождите».{End}",
+        "Source Text SHA256": "2FF719DA2D3E9BF833002AEFCE73B5D63BAA97B95B3427D913E049FCDDF95483",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0084": {
+        "Target": "{X10Y30}Помощник старейшины{Line}«Мы забыли вручить вам сувенир.{Line} Неловко дарить такую безделицу{Line} после того, что вы уже получили, но…»{End}",
+        "Source Text SHA256": "E7927ED3892B104729BAF299A2118E14A49EA1768A02184C44849FFDEA806C5B",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0085": {
+        "Target": "{X10Y30}«Вот, возьмите».{End}",
+        "Source Text SHA256": "3512D20DBB7E080F54686D72E57C967E89115F289C4B0003A671E93433A9405C",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0086": {
+        "Target": "{X400Y0}Старейшина{Line}«Прошу вас, подождите».{End}",
+        "Source Text SHA256": "4E4B86B89691E74694521FF5EB582F16F48F1DAEF5227EE1C678B03D2DF277A8",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0087": {
+        "Target": "{X120Y20}Старейшина{Line}«Раз уж вы проделали такой путь,{Line} нам хотелось бы сделать вам подарок».{End}",
+        "Source Text SHA256": "CDC944605A66AF6A7494BC92021D5F2BA6995B6A475ED3928E6F1521C32D7CC9",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0088": {
+        "Target": "{X120Y20}Старейшина{Line}«Но у Шуми всё надо{Line} заработать. Таков наш обычай».{End}",
+        "Source Text SHA256": "3D87592035FDFE4CD744E693471AFF6070BFD096AD561A2105DE26D328AB51A5",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0089": {
+        "Target": "{X120Y20}Старейшина{Line}«Вот что я придумал. Помогите{Line} моим помощникам в мастерской,{Line} и тогда я смогу вручить вам подарок».{End}",
+        "Source Text SHA256": "9D8F0367C4FA70DCF80E1DEEEEB787C6254FFD51549A4421B5B15FF16D760469",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0090": {
+        "Target": "{X5Y5}{Char Squall}{Line}«Где она?»{End}",
+        "Source Text SHA256": "D6BFDD75028D51D79E83D6E34DA6CC959D8EA75F048D3BEDC99A316DE89D3708",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0091": {
+        "Target": "{X120Y5}Старейшина{Line}«Там, где вы видели статую{Line} мастера Лагуны. Хотелось бы закончить её{Line} как можно скорее».{End}",
+        "Source Text SHA256": "6B75F2B27CE1465FA2EA74E3063ECC23449F6F047E63495FC1931424D6980132",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0092": {
+        "Target": "{X120Y20}Старейшина{Line}«Чувствуйте себя как дома.{Line} Мы с вами родственные души».{End}",
+        "Source Text SHA256": "BD870FF15DF5F6FB42689E19F5F838C5378426BCCC59AC362B4AD439D9FABF05",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0093": {
+        "Target": "{X30Y20}Помощник старейшины{Line}«Какой фарс.{Line} Они наверняка всё поняли».{End}",
+        "Source Text SHA256": "6C70F18C1ED42F95916C77E938753822A61236F6458B6116E6469DA7C136FE1D",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0094": {
+        "Target": "{X130Y20}Старейшина{Line}«Разумеется».{End}",
+        "Source Text SHA256": "33B0D80B20ECF8C502E2BE82E29C5332C63CCA7929BCEE2B987C06E2756989B2",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0095": {
+        "Target": "{X130Y0}Старейшина{Line}«В их глазах светился острый ум,{Line} и ждёт их судьба, какую и представить трудно.{Line} Несомненно, они всё поняли».{End}",
+        "Source Text SHA256": "6979C26B4C4C6AFB0AF2D2B810678C299096D80956FB29D7D5DC3FEE0AC9F23D",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0096": {
+        "Target": "{X30Y10}Помощник старейшины{Line}«Зачем тогда было разыгрывать этот спектакль?{Line} Так бы и сказали: {Color Yellow}„Вот,{Line} тут ничего нет“{Color White}».{End}",
+        "Source Text SHA256": "550CDDE8EE79478F32E5ECD4E54D2278E8090E34665F0B221D08D4E5EA5C8C34",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0097": {
+        "Target": "{X20Y10}Старейшина{Line}«Я не хотел дарить им вещи.{Line} Мне хотелось подарить им минуту покоя{Line} и принять их от всего сердца».{End}",
+        "Source Text SHA256": "F9A38832FEC42F35FD16F7216653DB4953843C9058B87300E10D60331ABBA330",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0098": {
+        "Target": "{X10Y40}Помощник старейшины{Line}«Хм. Похоже{Line} на жалкую отговорку».{End}",
+        "Source Text SHA256": "BBD45D691A0E3BB907E507DC8826EDD5F1104F417AB28D03283CB48275D40964",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0099": {
+        "Target": "{X150Y30}Старейшина{Line}«У меня для тебя поручение».{End}",
+        "Source Text SHA256": "B375C3D4D7911606FD25DE229F7CA1DE8F41C894916494AFBA91240EDB3FE482",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0100": {
+        "Target": "{X20Y40}Помощник старейшины{Line}«Какое?»{End}",
+        "Source Text SHA256": "4C57845A977AC770A14A82D6D2DB5F123B65C8FB65AFF309A95028AD8698D9A1",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0101": {
+        "Target": "{X130Y20}Старейшина{Line}«Будешь помогать Скульптору. {Color YellowBlink}Ни сна тебе,{Line} ни отдыха{Color White}, пока не будет готова статуя».{End}",
+        "Source Text SHA256": "2FA4D356378BF1B003C8886A4661CBE4930AB06056B5B3EAB4D6ACB08D2ADD30",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0102": {
+        "Target": "{X30Y10}Помощник старейшины{Line}«Ч-ЧТО?!»{End}",
+        "Source Text SHA256": "2A8E575147DDF2D704B941A83B7A23E8D03457B4B1E85E3EBA70258D63F43E28",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0103": {
+        "Target": "{X30Y10}Помощник старейшины{Line}«Погодите.{Line} В-вы не так меня поняли, Старейшина».{End}",
+        "Source Text SHA256": "E53222506640458C0F975EED12852897FC91EC9314CFA545CB6EB37BC8C4E0F6",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0104": {
+        "Target": "{X20Y40}Помощник старейшины{Line}«Умоляю!»{End}",
+        "Source Text SHA256": "3380F9DA3FADA4D4C3F30FECBBDEAF05082D666042352B956418723A392A17E3",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0105": {
+        "Target": "{X20Y40}Помощник старейшины{Line}«Смилуйтесь!»{End}",
+        "Source Text SHA256": "097682D7BF27D3990D26AFECBE3DAF222860E03FB61AB1428153F6FD90325350",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0106": {
+        "Target": "{X10Y50}Помощник старейшины{Line}«НЕ-Е-Е-ЕТ!!!»{End}",
+        "Source Text SHA256": "9BE0C2A27D7DA543FEFB0115D339AE512622506A096F4F8A33BFF49D2E3D3746",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0107": {
+        "Target": "{X10Y10F1L2B1C2}«Как насчёт партии в карты?»{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "7AA40F9BE6369BC07E19F2449437D749AE505C15929F4790FB3AC2486A2840EB",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0108": {
+        "Target": "{X10Y10F1L2B1C2}«Так и тянет играть снова. Ладно, давайте.»{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "E64AF834224AD3C80579CA62F51F05D1821147ACDEE5E0EE811DB1F10D4F5998",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0109": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим.{End}",
+        "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0110": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим.{End}",
+        "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0111": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим.{End}",
+        "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0112": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим.{End}",
+        "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0113": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим.{End}",
+        "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0114": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
+        "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0115": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим.{End}",
+        "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0116": {
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим.{End}",
+        "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0117": {
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Баламба и по нашим, ладно?{End}",
+        "Source Text SHA256": "277ABC35B358EB0CEE628A67D1413B25475F8508C07BD2FEB3FE7CA0E9ACD489",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0118": {
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Галбадии и по нашим, ладно?{End}",
+        "Source Text SHA256": "070A0B1DD22987CE334D09DAFB07E4EDBA37AC5598DAA23C909465CA2E5E1CA5",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0119": {
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Трабии и по нашим, ладно?{End}",
+        "Source Text SHA256": "080D768150E6310162013B9D1023F26D2122013A65B61BF12E7D07D9CD7F8742",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0120": {
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Центры и по нашим, ладно?{End}",
+        "Source Text SHA256": "3E40ACA11005799E794F4FC03B08C7DBAAF0439DFC7661D81D50ACBB650360A2",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0121": {
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Доллета и по нашим, ладно?{End}",
+        "Source Text SHA256": "5CD340B9DCC9EE2B1F5A472857B0E711841F8E9039DFB015642FB6CE7930D487",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0122": {
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Рыбацкого Горизонта и по нашим, ладно?{End}",
+        "Source Text SHA256": "40F568E81A471ADE2E40100D3A2A31418F196AC91C33556B1E71ED5718685E64",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0123": {
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Лунной базы и по нашим, ладно?{End}",
+        "Source Text SHA256": "CD70DA6564B549C32722ED66D2A970FFE214EF65BB400263E6ECA5F87AACDAB0",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0124": {
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Эстара и по нашим, ладно?{End}",
+        "Source Text SHA256": "5D88FC04F252FCF2E3F157D98482FA7863509848FD7337F831CF7200F3075948",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0125": {
+        "Target": "{X10Y10}Для игры нужно{Line}не меньше пяти карт.{End}",
+        "Source Text SHA256": "DF7629554EC91F238FF4EF13B271E6AA9D1BED70C2016BAEAC18F31BDFAE43C2",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0126": {
+        "Target": "Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0126_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0126_ctx_8fa474f114aa44a3": {
+        "Target": "{X60Y10}Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0127": {
+        "Target": "Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0127_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0127_ctx_e81b5a822fbd1eee": {
+        "Target": "{X59Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0128": {
+        "Target": "Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0128_ctx_6435e47f79d3a935": {
+        "Target": "{X62Y10}Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0128_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0129": {
+        "Target": "Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0129_ctx_48730159ffbb3b33": {
+        "Target": "{X52Y10}Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0129_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0130": {
+        "Target": "Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0130_ctx_03d56bd6bcca6621": {
+        "Target": "{X33Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0130_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0131": {
+        "Target": "{X10Y10}Правило {Color Blue}«Повтор»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "27F5EA3ED3DDBED688BAFCBA189BEB532704BB572AE5E55AC21C8C9C712A4C6D",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0132": {
+        "Target": "Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0132_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0132_ctx_ebda62a7b0f16c14": {
+        "Target": "{X45Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0133": {
+        "Target": "Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0133_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0133_ctx_b1cffef320ce6ec2": {
+        "Target": "{X46Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0134": {
+        "Target": "{X53Y10}Правило {Color Blue}«В открытую»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "22612FDC6019CBC8851539452C6A11A6097CA410C18DC53903AC0AEF7D838AAA",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0135": {
+        "Target": "{X52Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "C1809B73CE7E836C0B5CAC0C8A7EC37C1790B162B04AA2125CB197943232CA98",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0136": {
+        "Target": "{X55Y10}Правило {Color Blue}«Сложение»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "1F99F0610FA109B50642AB488B55150F86C784FDEAF1DB1056CD0494E35A1DE8",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0137": {
+        "Target": "{X45Y10}Правило {Color Blue}«Случайные»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "3AFAED5589FD968192415F75A4D88FE5F6BCD44174FF6BD2B4744764DA542DB2",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0138": {
+        "Target": "{X26Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "8BF4D5A8E32A8E9C6AF41A2AC92D0C5DF549EB0A858A7CEA85D7B76AC28F3985",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0139": {
+        "Target": "Правило {Color Blue}«Повтор»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "4C886F6EBB1978C5FD24E60284987C38E14BA3644AACD9D16E9A810B7770F240",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0140": {
+        "Target": "{X38Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "5DBEF5CD0A47E1C3155072F63319748969F0D53C2A5086E3DD4FE843748613F9",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      },
+      "$en_tmelder1_0141": {
+        "Target": "{X39Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "57BC2E6EE4E0D5127C4EC59413E1CD1F1E7FDE39EA84376DFC5BC9C52E5A5C62",
+        "sourceContext": {
+          "Source MSD SHA256": "E5E3AC43EB7D310175B166BA651D7ABFF6B8A78814706D32E0E0B1B49EDE37CA",
+          "JSM SHA256": "50E3E765F678A56AAEE8C68C006F5221F6D2AEA1097331D03BC55AA41BE80DA4"
+        }
+      }
+    }
+  }
+}

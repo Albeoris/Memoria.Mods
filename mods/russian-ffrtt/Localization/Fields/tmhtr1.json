@@ -1,0 +1,30 @@
+{
+  "Fields": {
+    "tmhtr1": {
+      "$en_tmhtr1_0000": {
+        "Target": "{X63Y8}〖Точка сохранения〗{Line} Открой меню и выбери{Line}[Сохранить].{End}",
+        "Source Text SHA256": "4F0AFC424BF2942C49656F0E698A468F620B9D18AD46A5F13CC81EED6ED7979D",
+        "sourceContext": {
+          "Source MSD SHA256": "5035269E4F6AA9FC98AC20858ED7804A213B4FC56E474745FF52B6FBB3234D2D",
+          "JSM SHA256": "4588B69FDE5F28E1C0E5D060AA012B8117267BA7D2A283C1D3083652BD711E9A"
+        }
+      },
+      "$en_tmhtr1_0001": {
+        "Target": "{X0Y0}{Char Squall}{Line}«Хм?»{End}",
+        "Source Text SHA256": "EAA335DD6F8B4FF049DF30E91E17360AAB50C1069EEDEFEAAF286B36E69E2A4C",
+        "sourceContext": {
+          "Source MSD SHA256": "5035269E4F6AA9FC98AC20858ED7804A213B4FC56E474745FF52B6FBB3234D2D",
+          "JSM SHA256": "4588B69FDE5F28E1C0E5D060AA012B8117267BA7D2A283C1D3083652BD711E9A"
+        }
+      },
+      "$en_tmhtr1_0002": {
+        "Target": "Найден старый выпуск «Тимберских маньяков»!{Line}{Pause 48}... {Pause 48}... {Pause 48}... {Pause 48}... Вы закончили читать!{End}",
+        "Source Text SHA256": "FB891A64D220C0498BFC038DFCE8C485FE1D29939C3A348CF950DFAAE9DE0E6C",
+        "sourceContext": {
+          "Source MSD SHA256": "5035269E4F6AA9FC98AC20858ED7804A213B4FC56E474745FF52B6FBB3234D2D",
+          "JSM SHA256": "4588B69FDE5F28E1C0E5D060AA012B8117267BA7D2A283C1D3083652BD711E9A"
+        }
+      }
+    }
+  }
+}

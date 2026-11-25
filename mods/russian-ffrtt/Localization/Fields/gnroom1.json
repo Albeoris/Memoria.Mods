@@ -1,0 +1,38 @@
+{
+  "Fields": {
+    "gnroom1": {
+      "$en_gnroom1_0000": {
+        "Target": "{X20Y148}Загадочная статуя{Line}Р-Р-Р!!!{Line}КТО ЗДЕСЬ?!!{End}",
+        "Source Text SHA256": "1A371B200561BAA2C8DCFCE96AE1D11A744FE812DCD9449C2A993AE27BCDC36B",
+        "sourceContext": {
+          "Source MSD SHA256": "8D7E7020C2B1D4039B881D84BB2169FE4ABB029C6DD096ED612DED65534F013B",
+          "JSM SHA256": "5474F3045CDC999E503C4CE6CB95939D0136225CB112F1C3FA4C1538CBA4D86A"
+        }
+      },
+      "$en_gnroom1_0001": {
+        "Target": "{X12Y12}Sacred{Line}УБЛЮДКИ!!! Я{Line} ЕЩЁ НЕ ПРОИГРАЛ!!!{End}",
+        "Source Text SHA256": "A6DF80B62EC1B6410E78F10C1DC7F1B5490B3F431129D02BB57068B6D5118872",
+        "sourceContext": {
+          "Source MSD SHA256": "8D7E7020C2B1D4039B881D84BB2169FE4ABB029C6DD096ED612DED65534F013B",
+          "JSM SHA256": "5474F3045CDC999E503C4CE6CB95939D0136225CB112F1C3FA4C1538CBA4D86A"
+        }
+      },
+      "$en_gnroom1_0002": {
+        "Target": "{X63Y8}〖Точка сохранения〗{Line} Открой меню и выбери{Line}[Сохранить].{End}",
+        "Source Text SHA256": "4F0AFC424BF2942C49656F0E698A468F620B9D18AD46A5F13CC81EED6ED7979D",
+        "sourceContext": {
+          "Source MSD SHA256": "8D7E7020C2B1D4039B881D84BB2169FE4ABB029C6DD096ED612DED65534F013B",
+          "JSM SHA256": "5474F3045CDC999E503C4CE6CB95939D0136225CB112F1C3FA4C1538CBA4D86A"
+        }
+      },
+      "$en_gnroom1_0003": {
+        "Target": "{X42Y74F2L3B3C3}Покинуть подземелье?{Line}{Color Yellow}〖Ранг SeeD снизится на 1!〗{Color White}{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "6133FF0FF5D02897AE5769F6F530ABD37686671E62EF4EA6B45CA8F106CAF049",
+        "sourceContext": {
+          "Source MSD SHA256": "8D7E7020C2B1D4039B881D84BB2169FE4ABB029C6DD096ED612DED65534F013B",
+          "JSM SHA256": "5474F3045CDC999E503C4CE6CB95939D0136225CB112F1C3FA4C1538CBA4D86A"
+        }
+      }
+    }
+  }
+}

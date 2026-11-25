@@ -66,7 +66,7 @@
         "category": { "type": "string", "minLength": 1 },
         "format": { "const": "memoria-native" },
         "delivery": { "const": "download" },
-        "defaultEnabled": { "const": true },
+        "defaultEnabled": { "type": "boolean" },
         "target": { "$ref": "#/$defs/target" },
         "latest": { "$ref": "#/$defs/release" }
       }
@@ -79,7 +79,14 @@
         "sourceId": { "$ref": "#/$defs/sourceId" },
         "revision": { "type": "integer", "minimum": 1 },
         "publishedAt": { "type": "string", "format": "date-time" },
-        "components": { "type": "array", "items": { "$ref": "#/$defs/component" } }
+        "components": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/component",
+            "not": { "anyOf": [{ "required": ["languageOffers"] }, { "required": ["nativeVariants"] }, { "required": ["dependencies"] }] },
+            "properties": { "defaultEnabled": { "const": true } }
+          }
+        }
       }
     },
     "file": {

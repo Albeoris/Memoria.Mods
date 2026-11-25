@@ -1,0 +1,1171 @@
+{
+  "Items": {
+    "kernel_fielditems_description": {
+      "$en_kernel_fielditems_description_0000": {
+        "Target": "Полностью восстанавливает ЖЗ и снимает отрицательные состояния у всего отряда",
+        "Source Text SHA256": "FE630653D3FC58B497D80DCF6986869985C1D62DD3589D496B1D0539A9A56CF1",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0001": {
+        "Target": "Восстанавливает ЖЗ всех Стражей",
+        "Source Text SHA256": "FDACA492D4D1C8198BBBF11CAB96B62A7D5B455D5F5577A33B192BAA5DE40A9B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0002": {
+        "Target": "Действует как Тент и восстанавливает всех Стражей",
+        "Source Text SHA256": "148B0EAA2C89706D51E38231B656F95CB12262705B55658EF8BF163DC22F12D8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0003": {
+        "Target": "Восстанавливает 200 ЖЗ Стража",
+        "Source Text SHA256": "87C558B3481316AE4AA819BB35938C0398FDBBF2891F6253E017B2A5C577B8DB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0004": {
+        "Target": "Восстанавливает 1000 ЖЗ Стража",
+        "Source Text SHA256": "6D60E6AE96AD7EFA7988B8EB3B1F3DCE69449359986890FAEAD2D9AF91A3CB22",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0005": {
+        "Target": "Восстанавливает 1000 ЖЗ всем Стражам",
+        "Source Text SHA256": "F506C403D97E66D3EB97158EB426DC12F96BF7DBC31506DDEBA84173AB80CB3A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0006": {
+        "Target": "Выводит Стража из нокаута",
+        "Source Text SHA256": "F80E303821B667B24221391E074CEF6D032EDC0640E21E037186B91365CE6152",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0007": {
+        "Target": "Меняет имя Стража",
+        "Source Text SHA256": "8EFA22EB5D1270047EF3326AEC79BB4826F9F174A27F41CA2C81B401AABEF2A0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0008": {
+        "Target": "Заставляет Стража забыть способность",
+        "Source Text SHA256": "D6C4E1843C6902BD576EBDB5F06D919F09F700151179C881B7B4006370F6CD85",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0009": {
+        "Target": "Страж изучает способность «ЖЗ»",
+        "Source Text SHA256": "82A3D154E147426C78DA3169106DEAB0A69FF6C76E9A7E4E21A87B0DAD9DBC97",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0010": {
+        "Target": "Страж изучает способность «Сил»",
+        "Source Text SHA256": "212CA954FD1FAD9D69A6ADAD8EBD180E1FF3F260BAC91419218CD588867FE4E7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0011": {
+        "Target": "Страж изучает способность «Вын»",
+        "Source Text SHA256": "A48D0F9CDCF63B549A90E4C1F560488C0EC14791CF69197BC64C9A54578B99F7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0012": {
+        "Target": "Страж изучает способность «Маг»",
+        "Source Text SHA256": "69DAB3683DE912FF5B1C310A93DF75A0275A56A10F27BA805B25E51E80349D29",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0013": {
+        "Target": "Страж изучает способность «Дух»",
+        "Source Text SHA256": "FFA1203AB8D18A9C881093ACBDA250D749A3AD91206377E186AEA9F5817E4B76",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0014": {
+        "Target": "Страж изучает способность «Скр»",
+        "Source Text SHA256": "6DD263ED2C3CDC5B557BE792ED89EA97F9475DF3C7CCE78EAC6DA35C0AC9E22E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0015": {
+        "Target": "Страж изучает способность «Удч»",
+        "Source Text SHA256": "261613292A5DE2D39250FB9075A1F93B1958A2B9B36EBCA075FF09B3C81C55F0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0016": {
+        "Target": "Страж изучает способность «Укл»",
+        "Source Text SHA256": "6DB91FB6F8C8A09AD149E1B6E20A89AD0F990CE9B22304572D474712E315D1AC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0017": {
+        "Target": "Страж изучает способность «Стих-Атк»",
+        "Source Text SHA256": "C8D9F67D1E2B7A7CAF8DB91B391CECA048CBEC2C7EFCFE2B93DA947C52A5C6AB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0018": {
+        "Target": "Страж изучает способность «Стих-Защ x4»",
+        "Source Text SHA256": "770B20BA32A287E5639D4CA034C3A05A943AA7DAA0CE0CD5F332648B4CAF7449",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0019": {
+        "Target": "Страж изучает способность «Сост-Атк»",
+        "Source Text SHA256": "C17AD7B1F6F292527066D6BCE42ABCB1C391A2276EBE58D1F2E114688D1228F6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0020": {
+        "Target": "Страж изучает способность «Сост-Защ x4»",
+        "Source Text SHA256": "CC186BF9681163299DBD73105EF4E17580FD5BB11F0BB6ED9ECE0072A2CD533C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0021": {
+        "Target": "Страж изучает способность «Способности x4»",
+        "Source Text SHA256": "3B2C0B7B7CFBED342C530490A011F7C1D43F15B313542CA7F485563CCBEA1B78",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0022": {
+        "Target": "Страж изучает способность «Магия»",
+        "Source Text SHA256": "566E7A2BCBD32F21F871F6FD814136C480F14E36E84441B9A7091F7C66C3DA0D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0023": {
+        "Target": "Страж изучает способность «Стражи»",
+        "Source Text SHA256": "36369ED73DC7FC006B9D1C169BA6B8282E881DD7BF19EBB1422275523190B59F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0024": {
+        "Target": "Страж изучает способность «Извлечение»",
+        "Source Text SHA256": "AA1EA20C9E36A5CDA962FE063D4A9908B00B745EF4E9C1D86B2F1303E6FFE0C1",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0025": {
+        "Target": "Страж изучает способность «Предмет»",
+        "Source Text SHA256": "CDD2A58649B5AF55741779AB1BFDD06BDCA5413088FF0C8E05FB6471FA2103EC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0026": {
+        "Target": "Страж изучает способность «Карта»",
+        "Source Text SHA256": "B07D5EACB4C758B6B18AD15EC2CEFB889C2939A44CAC8255693403BF23E24A2C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0027": {
+        "Target": "Страж изучает способность «Восстановление»",
+        "Source Text SHA256": "8EA91DC97442259D83D8F1DA98829EC0459FCA622E2DAF19789595A54DDE1A79",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0028": {
+        "Target": "Страж изучает способность «Воскрешение»",
+        "Source Text SHA256": "D7F4D03279F8A88D4810D07BEF6269502ED3A2D9C7927C9F25E358735271BAB9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0029": {
+        "Target": "Страж изучает способность «Излечение»",
+        "Source Text SHA256": "683DC060F5716478B0E229770F0EEE7002C3A7593D0552B47C6AC6C79C50915D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0030": {
+        "Target": "Страж изучает способность «Камикадзе»",
+        "Source Text SHA256": "5D692BFAA4A2DEF3E0D522B1F9D0B77049E8A9C670A675AD26C17E2F55ABEB83",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0031": {
+        "Target": "Страж изучает способность «Поглощение»",
+        "Source Text SHA256": "64D36A86B747DF4476E1A73D140955BBE8F392BFF6E54A917DA7E7BB99972D4C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0032": {
+        "Target": "Страж изучает способность «Мини-мугл»",
+        "Source Text SHA256": "79BCA76C482647F8B122A298DEE75522A07F29DA85FA34B450C4B893A1DB5F0D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0033": {
+        "Target": "Страж изучает способность «Страж-Урон+10%»",
+        "Source Text SHA256": "D1FB65335A5C24EBF045DC39218D8A3415EFDEA68ED4BD7B99E724757AB15221",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0034": {
+        "Target": "Страж изучает способность «Страж-Урон+20%»",
+        "Source Text SHA256": "0A23D95EF2A84FACB1BC84FDBEBD5735C752C96AC02BC41BA89E65A4832F71E2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0035": {
+        "Target": "Страж изучает способность «Страж-Урон+30%»",
+        "Source Text SHA256": "F949FD3AD19D44167675E6C5D3F8DBC91CBAF980B36789AFE88CE21930154629",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0036": {
+        "Target": "Страж изучает способность «Страж-Урон+40%»",
+        "Source Text SHA256": "4B36CFC80294C7994431E1130A5FE08A54362361130C72EC8503AB913D6D0BE7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0037": {
+        "Target": "Страж изучает способность «Страж-ЖЗ+10%»",
+        "Source Text SHA256": "6D69FABB83F4C54579B351DCDA53F6AD9EF94941C3912AA0B6EE25DDEBF5938C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0038": {
+        "Target": "Страж изучает способность «Страж-ЖЗ+20%»",
+        "Source Text SHA256": "1D5D59B80C464155DA138F0B9325B62EAFAAF0CA1A3A9EFA833C54CB3DA9AD7B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0039": {
+        "Target": "Страж изучает способность «Страж-ЖЗ+30%»",
+        "Source Text SHA256": "150D98821F4D0732BF9A39A75989D53ADA80B6C482B792CAFC051E1010B15471",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0040": {
+        "Target": "Страж изучает способность «Страж-ЖЗ+40%»",
+        "Source Text SHA256": "F57FD19EFD8E7B89B5A4A670C2F947F0CB6FE716D7F3C6534FE390265F6263E2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0041": {
+        "Target": "Страж изучает способность «ЖЗ+20%»",
+        "Source Text SHA256": "3142652BC4C97F5FA56952D1514EE86B5F3F5BF063E2E7BFF393B89BC013C60B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0042": {
+        "Target": "Страж изучает способность «ЖЗ+40%»",
+        "Source Text SHA256": "31B96E3724A7006DDEF888FBC734643D2332929FE71377A870CA8F17D76F4070",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0043": {
+        "Target": "Страж изучает способность «ЖЗ+80%»",
+        "Source Text SHA256": "17D442046F5D24929F869CDA113E477B647FF775836C703FCEB7E8CF8AE22A1F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0044": {
+        "Target": "Страж изучает способность «Сил+20%»",
+        "Source Text SHA256": "11B88A4BF8AB046EF3560D3F839191FF551A694BDE15A4CC59836E26D67D3A60",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0045": {
+        "Target": "Страж изучает способность «Сил+40%»",
+        "Source Text SHA256": "BC9C623075DBC10BACF2CF106F267EA53A53C7E78D98E2FC31D21A319082DD09",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0046": {
+        "Target": "Страж изучает способность «Сил+60%»",
+        "Source Text SHA256": "BB89DFC4B32FF898BCCDB857FC0D4E601EEA5BD40646E6DA5C075FADBEA5194F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0047": {
+        "Target": "Страж изучает способность «Вын+20%»",
+        "Source Text SHA256": "9A2FA0891F5EFB7E3C85866655374B47355397B517868BF499091194E396F9DE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0048": {
+        "Target": "Страж изучает способность «Вын+40%»",
+        "Source Text SHA256": "CDE5E618749725B8677A4FC174A5E0C72CD2B1E964E228C214AFEE313822E983",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0049": {
+        "Target": "Страж изучает способность «Вын+60%»",
+        "Source Text SHA256": "A65973D5F15015CD1014717C9BDE27AA86235F2DAFF1410F59AD7E9636B03CB3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0050": {
+        "Target": "Страж изучает способность «Дух+20%»",
+        "Source Text SHA256": "68C6DAA7E56B7ED231E534D671B64AFA4E8685825D24BF3CE3F78A330A07E92F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0051": {
+        "Target": "Страж изучает способность «Дух+40%»",
+        "Source Text SHA256": "57BF0A9FDEACDF2117D5631317293E19CFA79E1A801B051F27C95662133DF4AC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0052": {
+        "Target": "Страж изучает способность «Дух+60%»",
+        "Source Text SHA256": "88CB0D67843564BE85AD87703A816D0C3DCC37346808094C60EC4B1A2AF1FA90",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0053": {
+        "Target": "Страж изучает способность «Маг+20%»",
+        "Source Text SHA256": "A21CD6960A75EA705D0C745706DF52821BD9A8DA66A899E5A777E7B17116925A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0054": {
+        "Target": "Страж изучает способность «Маг+40%»",
+        "Source Text SHA256": "66EE6ACBF0955D3EC1C6D37B5D33F39B503CB02FFBA6CBF56A9A6071D2731C41",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0055": {
+        "Target": "Страж изучает способность «Маг+60%»",
+        "Source Text SHA256": "DA0EC30017B0F89CEF1A09BA5DBE3FE8821EC33631638FEA6BD08A8520CBAB95",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0056": {
+        "Target": "Страж изучает способность «Скр+20%»",
+        "Source Text SHA256": "C80F7E9D87B679CA8EC0B9A8D32BD08FE34F8F5CE582685D5869A925E241A1D6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0057": {
+        "Target": "Страж изучает способность «Скр+40%»",
+        "Source Text SHA256": "B64464767E511237D375B767A05C1D83113C96D6D44AD02F124B82CAAF0845CB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0058": {
+        "Target": "Страж изучает способность «Авто-Оболочка»",
+        "Source Text SHA256": "EBFF101F4CBE7B26312565394DA890254F2103DF41C642D5D828950DDEBBABF0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0059": {
+        "Target": "Страж изучает способность «Авто-Защита»",
+        "Source Text SHA256": "12A09FBE378C4E8BA8081051314A7FC523D16C2DE4CFB40ACB08868A88F1AA07",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0060": {
+        "Target": "Страж изучает способность «Авто-Отражение»",
+        "Source Text SHA256": "2711A2950E0200F71C8F2447E9B877ABC7B41AB8498FFB40FE1D10688C0B6496",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0061": {
+        "Target": "Страж изучает способность «Авто-Ускорение»",
+        "Source Text SHA256": "A252F332E1F96F04B2783071C7210E8059D1FEED0DF61A9129E9D88707FF64C0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0062": {
+        "Target": "Страж изучает способность «Контратака»",
+        "Source Text SHA256": "A2447BF23DAD3E6E29EB1DF72942BD13292B2136951CB622F4D3DAAC834C9FC2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0063": {
+        "Target": "Страж изучает способность «Прикрытие»",
+        "Source Text SHA256": "A8114FAF12D4F6A8FA0FA26CDC05A117BC45BAE8465572444DFC6918E243FB8B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0064": {
+        "Target": "Страж изучает способность «Медицинские знания»",
+        "Source Text SHA256": "97C7F7BF052F5683DE0A6F20A27E183C6617167504DB7BBAFEA3C1C8E8461E37",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0065": {
+        "Target": "Страж изучает способность «Шипы»",
+        "Source Text SHA256": "25EA3A659EC787A56B37CA8D1558202C47EEA4926CC25741113E91D9DD180E8B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0066": {
+        "Target": "Страж изучает способность «Расход 3:1»",
+        "Source Text SHA256": "47E4A4C436D896455D79A04E799EA1FD7CAF2BA759DE84B6F529AE2F5D1789A7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0067": {
+        "Target": "Страж изучает способность «Лента»",
+        "Source Text SHA256": "EA081A61D254AAC53254AD8DD2DEAAC19C293C37230E2F61311A91182FC4698A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0068": {
+        "Target": "Обычные патроны",
+        "Source Text SHA256": "95C0CDEA073E63C4529A6AF535A947781EC632468804717C5C117231CBD471AF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0069": {
+        "Target": "Боеприпасы, поражающие всех противников",
+        "Source Text SHA256": "C80A50116201F75615F14AC804FCFF11AC508849B5478A853B4D1E27015FAFD0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0070": {
+        "Target": "Боеприпасы, меняющие состояние цели",
+        "Source Text SHA256": "7EFA75CC97047652A90B2FAC85D58260FD13635B799276AC3E86FC21727304BC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0071": {
+        "Target": "Боеприпасы стихии огня",
+        "Source Text SHA256": "FDC96F5839FEFCEBC77755B8959C6B06BBBE9BFDD575AB1D7A2EE30830DCBAFD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0072": {
+        "Target": "Боеприпасы втрое мощнее обычных патронов",
+        "Source Text SHA256": "9DFC50FE643233C6E7B299E38918D474A84EE8E33FE0160813E71EF7D7C3DA87",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0073": {
+        "Target": "Боеприпасы для скорострельной стрельбы",
+        "Source Text SHA256": "F6256E77CA57D1471F6BC6EB1F6981F58D5BBCA1E7A02CBC9CC18F5786132236",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0074": {
+        "Target": "Бронебойные боеприпасы",
+        "Source Text SHA256": "C6D7F9803FA46CAC28B523EE3CD217996E78445A4B29059CEEF5E828C72FA79A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0075": {
+        "Target": "Боеприпасы с мощным зарядом энергии",
+        "Source Text SHA256": "11513500F0BB48D6A481DD0AEF77CA349EC7E07D5AABCB1F58AC0A13FFEE460B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0076": {
+        "Target": "Камень со слабой магической силой",
+        "Source Text SHA256": "2009DB2678DA6C9F1BAB4BF2C82C62E1EA4555C47CBF7F4ECAF8DDE87DAF4CFA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0077": {
+        "Target": "Камень с магической силой",
+        "Source Text SHA256": "10DE1A4F30DA0E33AAC3A261CD75EA3A04A4573DBC3A3018306D4D52A34738F7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0078": {
+        "Target": "Камень с мощной магической силой",
+        "Source Text SHA256": "37D06401EDAA7B0A9470C03FA4F8EF4B6A6C03D7BCEF885DCA4A048A56B739A8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0079": {
+        "Target": "Прочное и гибкое щупальце",
+        "Source Text SHA256": "27AD711E978FC458E8D91D30A45DE72189AC99437CA690DF41673E46C8E95CEC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0080": {
+        "Target": "Вода, полная жизненной силы",
+        "Source Text SHA256": "3D0706B17C32D75B4DC7663C4B877DF887E898D884694E7201B2A81140F5D766",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0081": {
+        "Target": "Перо, способное обращать в камень",
+        "Source Text SHA256": "8D620E43B76819FE1C3B2FD6FA529D306A87BBE2B1EDDF711BED5062D6C067E0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0082": {
+        "Target": "Порошок, превращающий в зомби",
+        "Source Text SHA256": "59CBF9D83FD0572940C356D03D72316CFF9751B76DD7D16620D681D7A3057A5E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0083": {
+        "Target": "Обувь, в которой легче двигаться",
+        "Source Text SHA256": "6E50E4C01DE4D1FF3187F84ACA78ADBE50B855CDB6EE0BB6F41537E4E45CBFBC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0084": {
+        "Target": "Длинный острый коготь",
+        "Source Text SHA256": "8E6095B23A6C3394171318C844824C4D28407E41B718A95FB51D01F3B4F8C3F3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0085": {
+        "Target": "Используется для переделки оружия",
+        "Source Text SHA256": "4FFCEDBEAE1F3D93283FDA0131FDDE3F3C9206D6171128049B31C7DF02B00FA9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0086": {
+        "Target": "Зазубренное лезвие",
+        "Source Text SHA256": "DBBA03661822D8C2D981C11ABB2DFB845885A71740E084BDAC4D40DAC39EB6D6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0087": {
+        "Target": "Длинное острое лезвие",
+        "Source Text SHA256": "004220A724D0BEB483759B5D0FB8A189930ADA7188D883FC512FC770E489BA2A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0088": {
+        "Target": "Клык чудовища-вампира",
+        "Edition Targets": {
+          "Classic:en": "Клык для атаки «Вампир»"
+        },
+        "Source Text SHA256": "87543EBF264050AB301EE9C9BC2C3A4A82D081A1BBE630D57B932AFD13F3D3DA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0089": {
+        "Target": "Камень, поднимающий боевой дух",
+        "Source Text SHA256": "93F0E5CA60066494E41CA598670A6D295618A10F6D7C02A641C2474E3BD88099",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0090": {
+        "Target": "Меч, предающий союзников",
+        "Source Text SHA256": "2A406A9996F438101D47A7906D49AF992603A60ABA144824386B95D66EE55F41",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0091": {
+        "Target": "Усыпляет",
+        "Source Text SHA256": "531F1EBDDB1DE7A81724666BA1067ED6C7AE5522D8EA39832291BF5BB8B25E00",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0092": {
+        "Target": "Кольцо, полное жизненной силы",
+        "Source Text SHA256": "D8386BB3ED948ADEB14E74321BAE9B6881F666034C90C815F7862070009BF876",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0093": {
+        "Target": "Клык дракона с целительной силой",
+        "Source Text SHA256": "B4250BCFCD93703B45055A08C0FA4A6D20E9982F72432FA94664C5418AC016AC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0094": {
+        "Target": "Квистис может изучить синюю магию «Ультразвук»",
+        "Source Text SHA256": "F9A1C5C66DAE5DF34783136D47248E642C9098BB2EF8F3D4485833344C8B8865",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0095": {
+        "Target": "Квистис может изучить синюю магию «Электрошок»",
+        "Source Text SHA256": "0F7DE203585EB53A68366AC8E1573AAD6C21587F6817728D803CEE6743959347",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0096": {
+        "Target": "Квистис может изучить синюю магию «Избирающая смерть»",
+        "Source Text SHA256": "183CD85508C5695BD558CAAF0F157DC5143398A04586A387C063C16CD3244E53",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0097": {
+        "Target": "Квистис может изучить синюю магию «Дегенератор»",
+        "Source Text SHA256": "0E6CB1C1523CB1DC8465089E9AE8AC804422048116348C7BD759F42C96AECA2D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0098": {
+        "Target": "Квистис может изучить синюю магию «Аква-дыхание»",
+        "Source Text SHA256": "07B5C0C516422CA8720509E09D9BA65859EDB896052AB27733485F4405F92E4E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0099": {
+        "Target": "Квистис может изучить синюю магию «Мини-ракеты»",
+        "Source Text SHA256": "03A56FE7A24F93F99E529CE15F499C2F796F24F1A07A99305AA96CF56B318A20",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0100": {
+        "Target": "Квистис может изучить синюю магию «Кислота»",
+        "Source Text SHA256": "2504C62B3A96554029781B1406CEF7FAB2ED16D4B44947F141143BEC318FFFB9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0101": {
+        "Target": "Квистис может изучить синюю магию «Пулемётная очередь»",
+        "Source Text SHA256": "16C22E21CDECAC0529A7E843BE4F97DEFE44241348A233BBD863D7E5F6E3450A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0102": {
+        "Target": "Квистис может изучить синюю магию «Огненное дыхание»",
+        "Source Text SHA256": "403CFA1204DF8B37EA9EF45B4AB7CED77F0604EE39F9FE4EFB85D987984F7029",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0103": {
+        "Target": "Квистис может изучить синюю магию «Смрадное дыхание»",
+        "Source Text SHA256": "69E91A8E1EFEC33046ED679CF2E5BF51B350096BDAAD7CCE113E29C95A37DF06",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0104": {
+        "Target": "Квистис может изучить синюю магию «Белый ветер»",
+        "Source Text SHA256": "39C33E6195D2C13BEA3ABF389E05B380ED7189A299755ED29CC25D32B789B40F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0105": {
+        "Target": "Квистис может изучить синюю магию «Самонаводящийся лазер»",
+        "Source Text SHA256": "E1CE69B25662D17E33D998E92E65CB9943F4CB6E7B2907C02E6F1B2EB03DC248",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0106": {
+        "Target": "Квистис может изучить синюю магию «Могущественная защита»",
+        "Source Text SHA256": "FE7782C5DB38AF5EB6A5705269F96FC3BE58460641009F6AFAA947EB00B9E545",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0107": {
+        "Target": "Квистис может изучить синюю магию «Лучевая бомба»",
+        "Source Text SHA256": "94BF53DD83B474BA26458FDC4E4758FAD07C708310297B1F6E3093ED994C431B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0108": {
+        "Target": "Квистис может изучить синюю магию «Шоковый импульс»",
+        "Source Text SHA256": "BA4610C4E72AA4F68E7B4EA52CFDF5B033E22931EDDD9D5DC576880F2686720A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0109": {
+        "Target": "Камень стихии огня",
+        "Source Text SHA256": "7BA490BB02D16D277E34ABF27894F9D4B33DEC545178E90657C92ADB0F6C847F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0110": {
+        "Target": "Клык дракона стихии огня",
+        "Source Text SHA256": "A93CA4D9AEC1EC116E51AF34A3FC22D3755551788603F58A135DA600909875FB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0111": {
+        "Target": "Хранит ветер стихии льда",
+        "Source Text SHA256": "6D7BFBF59A842FE3B79BB5F472A0560EFA3F9C151BE7F688671AC0788CA8B3BB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0112": {
+        "Target": "Хранит сильный ветер стихии льда",
+        "Source Text SHA256": "855A478AEC272A87E22D83834B374C07141CC7E5E4617091617A375B3436B708",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0113": {
+        "Target": "Камень стихии молнии",
+        "Source Text SHA256": "35BE96EC69627466E67BFC81A5E614F0D1C8711BFDFB68E77A6358F44BBE57C5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0114": {
+        "Target": "Птичье перо, летящее по ветру",
+        "Source Text SHA256": "A39C169EE44FF937CA87FDF584C69888249403B3E780671A68F951EBBAED50D2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0115": {
+        "Target": "Ядовитый клык чудовища",
+        "Source Text SHA256": "69AAC815DDA6450792FB7E9916D3A1E1F58C63AA77B9EAB2EF1C2E39E8DA4A7B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0116": {
+        "Target": "Стальной шар с силой притяжения",
+        "Source Text SHA256": "5CCD4A95546AAB0F2A4FF000005EB1E03006F55B25FC1EC35474D16F58B0898F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0117": {
+        "Target": "Священный лунный камень, в котором живут монстры",
+        "Source Text SHA256": "352E316748DF449B798D6C03F88EF91FB9EF891047C289D6D7AA144DA6719281",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0118": {
+        "Target": "Большая кость динозавра",
+        "Source Text SHA256": "E80BC33592F194323038F51DAECBCB788056BE0589D036921F93D0E47D9BE284",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0119": {
+        "Target": "Ветряк, хранящий энергию ветра",
+        "Source Text SHA256": "1FD9747849F239BD472052423F51241BE0FD5A2A49FBCE15181932F8E8157600",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0120": {
+        "Target": "Прочная драконья шкура",
+        "Source Text SHA256": "EB073AA0F0B293B15D2B2FCD10E0701D985C9E2EE4879A8856F892299D96E54C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0121": {
+        "Target": "Рыбий плавник",
+        "Source Text SHA256": "FD6AA4817282DA6C1BA9F77D4B59700316C1A289C4049105ECB482A5088BB0DF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0122": {
+        "Target": "Очень твёрдая драконья чешуйка",
+        "Source Text SHA256": "DE9A67DB8F2DEA02804D0F006DF8F542A122E7E3CC15AC950D2DBC7D01289274",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0123": {
+        "Target": "Порошок, накладывающий Безмолвие",
+        "Source Text SHA256": "C9E3EE8DE63B56DDCAA6EFDFD6A024689A0352B80C5E1DD88E426978EB5C89B9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0124": {
+        "Target": "Порошок, вызывающий Отравление",
+        "Source Text SHA256": "B6DE0F3DAF78F5757CE34AFDE78D53885B4F149D19369D88243B474854A58941",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0125": {
+        "Target": "Содержит магию Смерти",
+        "Source Text SHA256": "64F8EBEDD08470ADF1FA53B7956EDB3F6756127F88F17A61EAA5360BAE3D69EA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0126": {
+        "Target": "Нож тонберри",
+        "Source Text SHA256": "B123DC677972901503331F32385844736EF560512CC8C4DDEB28041F4E647520",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0127": {
+        "Target": "Колючка кактуара",
+        "Source Text SHA256": "86BAB7D3E67A716A23A21625A821CB2C8DE89AB4808C9980ABF5BBC57610C243",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0128": {
+        "Target": "Камень с таинственной силой",
+        "Source Text SHA256": "C380B8423B21BC7503886EC457E1B821B0BA6CEAFA49F978B0BD141B435047C7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0129": {
+        "Target": "Топливо для арендованной машины",
+        "Source Text SHA256": "2512F221D9954F27565D797451502E3DA2FCA8FF565807E435CD39DDF563CF76",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0130": {
+        "Target": "Журнал для взрослых",
+        "Source Text SHA256": "ADEEE53B81ED5204F011FC544B5400EADEC10C94560D34AFCFB30F7B27811B0A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0131": {
+        "Target": "Рекомендательное письмо Эдеи",
+        "Source Text SHA256": "311C6566EEE8655A57DD4C65507281B337C2D2115F11AC1A0E74F9FD95CAE654",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0132": {
+        "Target": "Меняет имя чокобо",
+        "Source Text SHA256": "281ED57785965F7FABAB8F2A929861C01696595104BA4BA60203643A149D8AD2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0133": {
+        "Target": "Меняет имя питомца",
+        "Source Text SHA256": "E855949A48AA7576A6D5A52678D1C0DD0B608D8C5314ECDB58AC33D77B7D9577",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0134": {
+        "Target": "Загадочное старинное кольцо",
+        "Source Text SHA256": "9C7A2DD23477A37C2F90CFFD44E9CC6E562BACB7CC53EC77548A7A1C45C9B3A5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0135": {
+        "Target": "Сохраните игру перед использованием!",
+        "Source Text SHA256": "DDFC483DB10F0D11331CC079614E25C6D584ECDBBDDE667246147B7F7F8427A0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0136": {
+        "Target": "Повышает ЖЗ",
+        "Source Text SHA256": "0611650FD37EA7ADA9BD65429DDF10A131B800A44FD7FB48531FA2769128CA71",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0137": {
+        "Target": "Повышает силу",
+        "Source Text SHA256": "F49C6D9FD4BEB8A45043C1FF55C972F6A5DAE920FC53302DD46F3BBCBF7F0BE7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0138": {
+        "Target": "Повышает выносливость",
+        "Source Text SHA256": "6D6AC0483D2FDF1E9FB14D4A1F57C701B9E1694DBDF8389A6674E6A09B9D6F21",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0139": {
+        "Target": "Повышает силу магии",
+        "Source Text SHA256": "9DE932152A81253592901CC8AC1FBBAC35B3AC054F5C68672CBEB9BC791ECC86",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0140": {
+        "Target": "Повышает дух",
+        "Source Text SHA256": "47C1FDE218A4607FC24F6C916EA5FB301278D80176D8BA1D0B49BE9F1A629E8C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0141": {
+        "Target": "Повышает скорость",
+        "Source Text SHA256": "CC16C9CDAE4F3731189D075D40040316A85ECB1FE11D83ECFEA6591C436E6935",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0142": {
+        "Target": "Повышает удачу",
+        "Source Text SHA256": "C8C6DEBE8B68EA1FE4EFDC64D99D9183934C2EA7641D54C9758B58541621FDD3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0143": {
+        "Target": "Повышает совместимость со всеми Стражами",
+        "Source Text SHA256": "1383D1D17D61108306F53AE11269602904A8EFCED70717E17688F7B38C7F9B60",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0144": {
+        "Target": "Журнал об оружии",
+        "Source Text SHA256": "69A2FCD68A9BBE8C333C5AD940A9F96C531B4167BE5C8EC8562959A629C1D116",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0145": {
+        "Target": "Журнал об оружии",
+        "Source Text SHA256": "69A2FCD68A9BBE8C333C5AD940A9F96C531B4167BE5C8EC8562959A629C1D116",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0146": {
+        "Target": "Журнал об оружии",
+        "Source Text SHA256": "69A2FCD68A9BBE8C333C5AD940A9F96C531B4167BE5C8EC8562959A629C1D116",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0147": {
+        "Target": "Журнал об оружии",
+        "Source Text SHA256": "69A2FCD68A9BBE8C333C5AD940A9F96C531B4167BE5C8EC8562959A629C1D116",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0148": {
+        "Target": "Журнал об оружии",
+        "Source Text SHA256": "69A2FCD68A9BBE8C333C5AD940A9F96C531B4167BE5C8EC8562959A629C1D116",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0149": {
+        "Target": "Журнал об оружии",
+        "Source Text SHA256": "69A2FCD68A9BBE8C333C5AD940A9F96C531B4167BE5C8EC8562959A629C1D116",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0150": {
+        "Target": "Журнал об оружии",
+        "Source Text SHA256": "69A2FCD68A9BBE8C333C5AD940A9F96C531B4167BE5C8EC8562959A629C1D116",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0151": {
+        "Target": "Журнал для бойцов",
+        "Source Text SHA256": "63BE9EF79D2EA3920C7CDDB32FCFCA2BAF670675F848565A60A6899CA5EE58B9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0152": {
+        "Target": "Журнал для бойцов",
+        "Source Text SHA256": "63BE9EF79D2EA3920C7CDDB32FCFCA2BAF670675F848565A60A6899CA5EE58B9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0153": {
+        "Target": "Журнал для бойцов",
+        "Source Text SHA256": "63BE9EF79D2EA3920C7CDDB32FCFCA2BAF670675F848565A60A6899CA5EE58B9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0154": {
+        "Target": "Журнал для бойцов",
+        "Source Text SHA256": "63BE9EF79D2EA3920C7CDDB32FCFCA2BAF670675F848565A60A6899CA5EE58B9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0155": {
+        "Target": "Журнал для бойцов",
+        "Source Text SHA256": "63BE9EF79D2EA3920C7CDDB32FCFCA2BAF670675F848565A60A6899CA5EE58B9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0156": {
+        "Target": "Журнал для любителей собак",
+        "Source Text SHA256": "F9F18F4A5488EFDFC5E3FB3466D53931E9392F68B97FC76C48544D4B62975EFB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0157": {
+        "Target": "Журнал для любителей собак",
+        "Source Text SHA256": "F9F18F4A5488EFDFC5E3FB3466D53931E9392F68B97FC76C48544D4B62975EFB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0158": {
+        "Target": "Журнал для любителей собак",
+        "Source Text SHA256": "F9F18F4A5488EFDFC5E3FB3466D53931E9392F68B97FC76C48544D4B62975EFB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0159": {
+        "Target": "Журнал для любителей собак",
+        "Source Text SHA256": "F9F18F4A5488EFDFC5E3FB3466D53931E9392F68B97FC76C48544D4B62975EFB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0160": {
+        "Target": "Журнал для любителей собак",
+        "Source Text SHA256": "F9F18F4A5488EFDFC5E3FB3466D53931E9392F68B97FC76C48544D4B62975EFB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0161": {
+        "Target": "Журнал для любителей собак",
+        "Source Text SHA256": "F9F18F4A5488EFDFC5E3FB3466D53931E9392F68B97FC76C48544D4B62975EFB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0162": {
+        "Target": "Журнал «Тайны мира»: сенсационный выпуск",
+        "Source Text SHA256": "EA43584F019D3F1A4642C372CECF0B129CB25EB435097A04A1F55B959CB69D0F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0163": {
+        "Target": "Журнал «Тайны мира»: фотовыпуск",
+        "Source Text SHA256": "1D64BB3314B2DE3B24A6F9453EED3B65F63298FB064B5EF6FEA68F3249B48041",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0164": {
+        "Target": "Журнал «Тайны мира»: выпуск о магии",
+        "Source Text SHA256": "2CBF2013005FDD737F70C291586D732D51EE2F97177867755DE7D1F5609305FA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_fielditems_description_0165": {
+        "Target": "Журнал «Тайны мира»: выпуск с репортажами",
+        "Source Text SHA256": "32F49C63B78D8522E0142F0DBD00CC9DC8E51634AFEE466A29B668E3DE42390E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

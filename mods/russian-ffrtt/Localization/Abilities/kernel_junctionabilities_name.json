@@ -1,0 +1,139 @@
+{
+  "Abilities": {
+    "kernel_junctionabilities_name": {
+      "$en_kernel_junctionabilities_name_0001": {
+        "Target": "ЖЗ",
+        "Source Text SHA256": "5A66F441414E3ABF08B91EA20E41FD1FC0E03107ECFD987FF554B80CB01EC1EE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0002": {
+        "Target": "Сил",
+        "Source Text SHA256": "F933648AB5D305B534C5378104167C8AC1609B1AD390C2F44B09A3B979E8FD5E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0003": {
+        "Target": "Вын",
+        "Source Text SHA256": "18F28446963F5B145124B394EC5F445ACC7362F4523B403F6FE465B78BEE85BD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0004": {
+        "Target": "Маг",
+        "Source Text SHA256": "B17768E21DE6E7F0E07289765BFBFAD945745690E48C24263F7A8C27A482806B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0005": {
+        "Target": "Дух",
+        "Source Text SHA256": "B3B4AA68493EA406BD82CD75F8EE8E862675D45FEC0ADEC22179FF6F8E22BD8C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0006": {
+        "Target": "Скр",
+        "Source Text SHA256": "8A60ED783253081649C4E270910F184CFE1A0380A33824669E605E240E247A1B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0007": {
+        "Target": "Укл",
+        "Source Text SHA256": "B773F01FD2AD773881E2FE39C29E24736520C8D37F683C1199A483C14E7AB0CF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0008": {
+        "Target": "Удр",
+        "Source Text SHA256": "6F707D43A5D2D4E720DB5E7CC458B035E457C1591F6F6CA53923DE9254086E84",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0009": {
+        "Target": "Удч",
+        "Source Text SHA256": "931E0B739C68E2FE7DADA0FFE249BCF5F576BC9CC0A669BEBFE7BCAD0D107916",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0010": {
+        "Target": "Стих-Атк",
+        "Source Text SHA256": "A4D0735C86473E99840873E47531FE5CDC511F703E282E790ED28039A27F90D2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0011": {
+        "Target": "Сост-Атк",
+        "Source Text SHA256": "C568A775D285E1B5D515E199D7A0F431FC2D71724F4841EF83115E9E43FD5F36",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0012": {
+        "Target": "Стих-Защ",
+        "Source Text SHA256": "824DBD7F642A0FAA55211BE2CEDED4B0EE6DD48407E4E0A9F43E6B91C663925E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0013": {
+        "Target": "Сост-Защ",
+        "Source Text SHA256": "F8D5DAC04D184A67F5FDBAA5CAB6B94E6B689E29BE1406BC7F1DA9DF94A32B94",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0014": {
+        "Target": "Стих-Защ x2",
+        "Source Text SHA256": "C9FF8DA98867528022C13999983494F965EFDF4FE7D6411247BE4278F2E6034C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0015": {
+        "Target": "Стих-Защ x4",
+        "Source Text SHA256": "3FD7A1C609EE159035653F4BABB8363DB7A551B192F3939E5D7C5DE97493E979",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0016": {
+        "Target": "Сост-Защ x2",
+        "Source Text SHA256": "75C4FA3DC69182D6AD2AB57CD6AF71B49AA09AE510F875897515A8F88A0E5C57",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0017": {
+        "Target": "Сост-Защ x4",
+        "Source Text SHA256": "1650906B2BEEC7EF424843EBEE4A95EAAC5C9800ABC23BEA2E96E0E40645F052",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0018": {
+        "Target": "Способности x3",
+        "Source Text SHA256": "BE027AFAE028A7A1C0823E368DDE53730A7E541A43587C3EE4C86DFB37F6EDB9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_junctionabilities_name_0019": {
+        "Target": "Способности x4",
+        "Source Text SHA256": "9F894B6E935403AAB1BD831ADBAA45143FE6B85D73ED6FDC689AA3DCD21D7471",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

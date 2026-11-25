@@ -9,7 +9,7 @@ from zipfile import ZipFile
 from zlib import compress, crc32
 
 from build import PNG_SIGNATURE, build, catalog_metadata, engine_range, file_digest, json_bytes, read_descriptor, read_release_configuration
-from publish import CATALOG_FILE, CATALOG_REF, RELEASE_MARKER, RELEASE_SUFFIX, GIT_AUTHOR, git, publish
+from publish import CATALOG_FILE, CATALOG_REF, LANGUAGE_FILE, RELEASE_MARKER, RELEASE_SUFFIX, GIT_AUTHOR, catalog_entries, git, publish
 
 
 def png_chunk(kind, data):
@@ -69,8 +69,8 @@ class FakeGitHub:
         raise AssertionError("Tried to delete an unknown asset")
 
     def delete_release(self, release):
-        catalog = self.read_catalog()
-        advertised = {entry["latest"]["releaseTag"] for entry in catalog["components"]}
+        advertised = {entry["latest"]["releaseTag"] for filename in (CATALOG_FILE, LANGUAGE_FILE)
+                      for entry in catalog_entries(self.read_catalog(filename))}
         if release["id"] in advertised:
             raise AssertionError("Attempted to delete an advertised release")
         del self.records[release["id"]]
@@ -81,14 +81,14 @@ class FakeGitHub:
         if release["draft"] or release["assets"][0]["digest"] != f"sha256:{artifact['sha256']}":
             raise AssertionError("Invalid anonymous artifact")
 
-    def read_catalog(self):
-        return json.loads(git(self.remote, "show", f"{CATALOG_REF}:{CATALOG_FILE}"))
+    def read_catalog(self, filename=CATALOG_FILE):
+        return json.loads(git(self.remote, "show", f"{CATALOG_REF}:{filename}"))
 
-    def verify_catalog(self, catalog):
+    def verify_catalog(self, catalog, filename=CATALOG_FILE):
         if self.fail_catalog_check:
             self.fail_catalog_check = False
             raise RuntimeError("interrupted after catalog switch")
-        if self.read_catalog() != catalog:
+        if self.read_catalog(filename) != catalog:
             raise AssertionError("Unexpected catalog snapshot")
 
 
@@ -290,6 +290,145 @@ class PublicationTests(unittest.TestCase):
         for invalid in ("1.2.3", "(1.2.3,)", "[1.2.3]", "[1.2.3,2.0.0]", "[,)", "[01.2.3,)"):
             with self.subTest(invalid=invalid), self.assertRaises(ValueError):
                 engine_range(invalid)
+
+    def add_language_offers(self, folder):
+        descriptor = read_descriptor(folder)
+        descriptor["kind"] = "language"
+        descriptor["package"] = "Localization"
+        descriptor["languageOffers"] = [
+            {"locale": "ru", "label": "Translation", "option": "ru", "nativeVariants": [
+                {"edition": "Classic", "language": "en"}, {"edition": "Remastered", "language": "fr"}]},
+            {"locale": "sr-Latn", "label": "Translation", "option": "sr (Latin)", "nativeVariants": [
+                {"edition": "Classic", "language": "en"}]},
+        ]
+        (folder / "mod.json").write_bytes(json_bytes(descriptor))
+        return descriptor
+
+    def test_languages_publish_separately_with_multi_offer_assets(self):
+        self.create_mod("artwork")
+        folder = self.create_mod("translation", minimum="[0.8.16,)")
+        descriptor = self.add_language_offers(folder)
+        self.commit()
+        self.run_publication()
+        ordinary = self.host.read_catalog()
+        self.assertEqual(["artwork"], [entry["id"] for entry in ordinary["components"]])
+        language = self.host.read_catalog(LANGUAGE_FILE)["components"][0]
+        self.assertEqual("translation", language["id"])
+        self.assertFalse(language["defaultEnabled"])
+        self.assertEqual(descriptor["languageOffers"], language["languageOffers"])
+        self.assertEqual({"game": "FFVIII", "editions": ["Classic", "Remastered"], "languages": ["en", "fr"]}, language["target"])
+
+        self.update_payload("translation", b"release with updated translation")
+        self.commit()
+        self.run_publication()
+        self.assertEqual(ordinary, self.host.read_catalog())
+        self.assertEqual("1.0.1", self.host.read_catalog(LANGUAGE_FILE)["components"][0]["latest"]["version"])
+        self.assertEqual({"artwork-v1.0.0", "translation-v1.0.1"}, set(self.host.records))
+
+    def test_rejects_unhydrated_git_lfs_pointer(self):
+        folder = self.create_mod("translation")
+        descriptor = self.add_language_offers(folder)
+        (folder / "opening.avi").write_bytes(b"version https://git-lfs.github.com/spec/v1\noid sha256:" + b"a" * 64 + b"\nsize 123456789\n")
+        with self.assertRaisesRegex(ValueError, "Unhydrated Git LFS pointer: opening.avi"):
+            build(folder, self.root / "archive", descriptor, "1.0.0", "[1.0.0,)")
+
+    def add_dependency(self, parent_folder, child_id):
+        parent = read_descriptor(parent_folder)
+        parent["dependencies"] = [child_id]
+        (parent_folder / "mod.json").write_bytes(json_bytes(parent))
+        child_folder = self.create_mod(child_id)
+        child = read_descriptor(child_folder)
+        child["kind"] = "dependency"
+        child["package"] = "Localization"
+        child["nativeVariants"] = parent["languageOffers"][0]["nativeVariants"]
+        (child_folder / "mod.json").write_bytes(json_bytes(child))
+        return child_folder
+
+    def test_hidden_dependency_updates_pin_without_rebuilding_root(self):
+        self.create_mod("artwork")
+        folder = self.create_mod("translation")
+        self.add_language_offers(folder)
+        self.add_dependency(folder, "video")
+        self.commit()
+        self.run_publication()
+        ordinary = self.host.read_catalog()
+        initial = self.host.read_catalog(LANGUAGE_FILE)
+        self.assertEqual(["artwork"], [entry["id"] for entry in ordinary["components"]])
+        self.assertEqual(["translation"], [entry["id"] for entry in initial["components"]])
+        self.assertEqual(["video"], [entry["id"] for entry in initial["dependencies"]])
+        root = initial["components"][0]
+        self.assertEqual([{"id": "video", "version": "1.0.0"}], root["dependencies"])
+        self.assertEqual(3, self.host.uploads)
+
+        self.update_payload("video", b"a new video")
+        self.commit()
+        self.host.fail_catalog_check = True
+        with self.assertRaisesRegex(RuntimeError, "interrupted after catalog switch"):
+            self.run_publication()
+        switched = self.host.read_catalog(LANGUAGE_FILE)
+        self.assertEqual([{"id": "video", "version": "1.0.1"}], switched["components"][0]["dependencies"])
+        self.assertEqual(root["latest"], switched["components"][0]["latest"])
+        self.assertEqual({"artwork-v1.0.0", "translation-v1.0.0", "video-v1.0.0", "video-v1.0.1"}, set(self.host.records))
+        self.run_publication()
+        self.assertEqual(switched, self.host.read_catalog(LANGUAGE_FILE))
+        self.assertEqual(ordinary, self.host.read_catalog())
+        self.assertEqual({"artwork-v1.0.0", "translation-v1.0.0", "video-v1.0.1"}, set(self.host.records))
+        self.assertEqual(4, self.host.uploads)
+
+        self.update_payload("translation", b"new subtitles")
+        self.commit()
+        self.run_publication()
+        latest = self.host.read_catalog(LANGUAGE_FILE)
+        self.assertEqual(switched["dependencies"], latest["dependencies"])
+        self.assertEqual("1.0.1", latest["components"][0]["latest"]["version"])
+        self.assertEqual(5, self.host.uploads)
+
+    def test_dependency_release_must_exist_before_advertising_root(self):
+        folder = self.create_mod("translation")
+        self.add_language_offers(folder)
+        self.add_dependency(folder, "video")
+        self.commit()
+        self.host.fail_upload = True
+        with self.assertRaisesRegex(RuntimeError, "interrupted after upload"):
+            self.run_publication()
+        self.assertEqual({"video-v1.0.0"}, set(self.host.records))
+        self.assertEqual("", git(self.repository, "ls-remote", "origin", CATALOG_REF))
+        self.run_publication()
+        self.assertEqual(2, self.host.uploads)
+        self.assertEqual(["translation"], [entry["id"] for entry in self.host.read_catalog(LANGUAGE_FILE)["components"]])
+
+    def test_existing_ordinary_catalog_gains_empty_language_catalog(self):
+        self.create_mod("artwork")
+        self.commit()
+        self.run_publication()
+        ordinary = self.host.read_catalog()
+        legacy = self.root / "legacy"
+        git(self.root, "clone", "-b", "catalog", str(self.remote), str(legacy))
+        git(legacy, "rm", LANGUAGE_FILE)
+        git(legacy, *GIT_AUTHOR, "commit", "-m", "Represent the old single-index publication")
+        git(legacy, "push", "origin", f"HEAD:{CATALOG_REF}")
+        self.run_publication()
+        self.assertEqual(ordinary, self.host.read_catalog())
+        self.assertEqual([], self.host.read_catalog(LANGUAGE_FILE)["components"])
+        self.assertEqual(1, self.host.uploads)
+
+    def test_empty_language_catalog_and_atomic_channel_migration(self):
+        folder = self.create_mod("translation")
+        self.commit()
+        self.run_publication()
+        self.assertEqual([], self.host.read_catalog(LANGUAGE_FILE)["components"])
+        self.add_language_offers(folder)
+        self.commit()
+        self.host.fail_catalog_check = True
+        with self.assertRaisesRegex(RuntimeError, "interrupted after catalog switch"):
+            self.run_publication()
+        switched = self.host.read_catalog(LANGUAGE_FILE)
+        self.assertEqual([], self.host.read_catalog()["components"])
+        self.assertEqual(["translation"], [entry["id"] for entry in switched["components"]])
+        self.assertEqual({"translation-v1.0.0", "translation-v1.0.1"}, set(self.host.records))
+        self.run_publication()
+        self.assertEqual(switched, self.host.read_catalog(LANGUAGE_FILE))
+        self.assertEqual({"translation-v1.0.1"}, set(self.host.records))
 
     def test_changes_advance_only_the_selected_component(self):
         self.create_mod("artwork", minimum="[0.8.10,)")

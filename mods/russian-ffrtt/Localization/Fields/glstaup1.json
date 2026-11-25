@@ -1,0 +1,278 @@
+{
+  "Fields": {
+    "glstaup1": {
+      "$en_glstaup1_0000": {
+        "Target": "【Точка сохранения】{Line} Откройте меню и выберите{Line}[Сохранить], чтобы сохранить игру.{End}",
+        "Source Text SHA256": "4F0AFC424BF2942C49656F0E698A468F620B9D18AD46A5F13CC81EED6ED7979D",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0001": {
+        "Target": "{X10Y10}(Сейчас не до автобуса.){End}",
+        "Source Text SHA256": "9B49E21231BC7522413AFC66868BAE958E44F61FF1C73A68F03A7492155E9D42",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0002": {
+        "Target": "«Дождитесь{Line} прибытия автобуса».{End}",
+        "Source Text SHA256": "7A42B755A690CBEA402C1CAFF224C03F430844F740EE05FE63569BDE0DD46456",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0003": {
+        "Target": "{X10Y10}Пожалуйста, подождите, пока прибудет автобус, идущий до{Line}{Color Blue}[пункта назначения]. Поговорите{Color White} со мной,{Line} когда он будет здесь.{End}",
+        "Source Text SHA256": "F38BB00B300B4D22B49717F12E86361CFD8F158A275FC36871472CB6CE295DE3",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0004": {
+        "Target": "{X40Y10}Дождитесь автобуса до{Line}{Color Blue}〖резиденции президента〗{Color White}.{Line}Подойдите ко мне, когда он будет здесь.{End}",
+        "Source Text SHA256": "A54E422DBDFA89F57B095C7996563937F93180387975E3F9DA1FAE07EA7DB331",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0005": {
+        "Target": "Куда?{Line}Ворота{Line}Жилой район{Line}Торговая галерея{End}",
+        "Source Text SHA256": "C328240A6CEC84EFEBDA6E89661B3E37B17862D151546246AFCB1A9AA07A5F7A",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0006": {
+        "Target": "{X47Y190}{Color Blue}〖Вокзал Делинга〗{Color White} Нажмите {Key Menu}, чтобы выйти.{End}",
+        "Source Text SHA256": "9652DC000DEC4E1B60A5D8326E5D770CF7506AFE33681D1959B3E7973CBCE3F4",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0007": {
+        "Target": "{X120Y10F2L3B2C3}{Color Blue}〖Резиденция президента〗{Color White}.{Line}Сесть в автобус?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "CE2F951BCAC3435A245C8DBB00927364A4408C6F2D55106D7772C732EA9855AD",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0008": {
+        "Target": "{X10Y10F2L3B2C3}До {Color Blue}[пункта назначения]. Сесть? Да{Color White}{Line}Нет{Line}Yes{Line}No{End}",
+        "Source Text SHA256": "8D5207676AB9C10990467D942A8AD44C318F19E2F3CD550B215B718EA75C58AB",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0009": {
+        "Target": "До {Color Blue}〖отеля «Галбадия»〗{Color White}.{Line}Сесть?{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "9863650C094F46330207471CFF04330132842EAE37C532FF9C3D4F279E1B1A8B",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0010": {
+        "Target": "{X52Y10}Интересно, как одевается волшебница?{End}",
+        "Source Text SHA256": "7C98F836FA1528E4A25D5E0ED4A73A5EA88DE4E183116EB9317762AB8B0F192B",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0011": {
+        "Target": "{X10Y10}Я слышала, что весьма экзотично.{End}",
+        "Source Text SHA256": "242721239C7CC0DFF46A024CF2AC5C9F54A4CC511A6F374CB5170EC11367D5AC",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0012": {
+        "Target": "{X110Y10}О, мисс Эдея...{Line} У вас такой изысканный вкус.{End}",
+        "Source Text SHA256": "6AA15AF42705D631A9E033629A7588C33264AEC5764401ED2F94D11B15D7DBD8",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0013": {
+        "Target": "{X10Y10}Красиво, даже слегка{Line} неприлично...{Line} Прекрасное использование макияжа!{End}",
+        "Source Text SHA256": "A83DEC88CB6FB68605B5D6E4B37D5D4930EEB6FD08D137949391795DEDDAC649",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0014": {
+        "Target": "{X10Y10}Сил совсем нет...{Line}Пора ездить на автобусе.{End}",
+        "Source Text SHA256": "A29C6985F86B4487BD489DEEAD01434D6CFFA22669FEA9AF6279AE935A297A1B",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0015": {
+        "Target": "{X10Y10}Волшебница Эдея...{Line}Как бы одеться по-эдейски?..{Line}Надо пройтись по магазинам!{End}",
+        "Source Text SHA256": "C622D7B538F4D596F58C421916333D26017434EE9576D56342A9DFFAF0B24FB1",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0016": {
+        "Target": "{X10Y10}Говорят, в городе новая волшебница.{Line}Интересно, какой стиль ей нравится?{End}",
+        "Source Text SHA256": "67D079E6E3C92783485B081BCB074DA8F6B6B942353833DE05A99C3C75EEC6B5",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0017": {
+        "Target": "{X49Y10}Это мне, наверное, приснилось... Кто в{Line}здравом уме так одевается?{End}",
+        "Source Text SHA256": "A4793AD18113A0FABBE1F423AE7CE9112BB42964EE1F5BA62A33628D0558D4DA",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0018": {
+        "Target": "{X10Y10}Теперь в моде Эстар.{Line}Ой, но ведь они наши враги...{Line}А, какая разница.{End}",
+        "Source Text SHA256": "654A1E61FFE994063A6F08CDF7D089215197BB04ACD18F5ABC9F1A2F50EE695B",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0019": {
+        "Target": "{X10Y10}Делинг – это имя{Line} здешнего президента.{Next}Он ничего{Line} не смыслит в моде.{End}",
+        "Source Text SHA256": "2DF43B71EA2D7833026F128FA9E9C36517D99CF25EBFA7DD2C5FAF0A5205B3B9",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0020": {
+        "Target": "{X10Y10}Прежний правитель был просто жалок.{Line}А новая правительница красавица, правда?{Line}Думаю, с ней будет лучше.{End}",
+        "Source Text SHA256": "91F69DF8ACACBDD7A657B01C78A56D9626D80979BCC944B555890D2044CE2EBD",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0021": {
+        "Target": "{X10Y10}Новая волшебница за нас или против?{Line}Я хочу и дальше одеваться как нравится.{Line}Хоть бы наша страна осталась свободной.{End}",
+        "Source Text SHA256": "430FDB30477F4DB744947401A139157CFCC4D76E1C1257D0C0AC324C436FF3B1",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0022": {
+        "Target": "Вард{Line}«Э-эй!{Line} Посреди улицы парковаться нельзя!»{End}",
+        "Source Text SHA256": "2A99C2CFDCEF0C63FD8C0AF410DF65821EB694D9ACEC2741D74077D480D6F66D",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0023": {
+        "Target": "Laguna{Line}Расслабься, парень, всё путём.{End}",
+        "Source Text SHA256": "C620787E6B066826CAB959E00F23F751129065DA99D5AD432894B59E67B012F8",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0024": {
+        "Target": "Laguna{Line}Отлично! Как{Line} насчёт выпивки?!{End}",
+        "Source Text SHA256": "49CCAB64624F5FEA9A2E155D40E7E915A45C26C266C85C789271890F201150A6",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0025": {
+        "Target": "Кирос{Line}Да ладно! Будто ты пьёшь...{Next}Знаем, не выпивка тебе нужна.{Line}Признайся уже!{End}",
+        "Source Text SHA256": "DC38D6CCD1E14FB679B67F3D2B2C3F2CFA28835D43C693F64E5B38A647AC4EAB",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0026": {
+        "Target": "Вард{Line}«Ага, пей свой сок, слабак».{Next}«И пялься на{Line} свою пианистку».{End}",
+        "Source Text SHA256": "C2C6B84B49FF9DBBBEBB5E3946AB561F38D3FB1F557E1DE7A2A208C8541E0EC4",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0027": {
+        "Target": "Лагуна{Line}НЕ ЗОВИ ЕЁ «ПИАНИСТКОЙ»!{Line}Всё, забудьте!{Line}Я не пойду!{End}",
+        "Source Text SHA256": "F5F17C5FA42BF75FEF75CDCA6F3D566F2FC06AE4DD1B90DBF5D30D9557FB1DDC",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0028": {
+        "Target": "Кирос{Line}Знаем, что пойдёшь...{End}",
+        "Source Text SHA256": "A70A2DECA24D3F648B484B211E0E45C2C28FAE37A8F32BC41AD862B3B52A8AD1",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0029": {
+        "Target": "Kiros{Line}Мы же здесь не только для того, чтобы нажраться?{Line} Нам ещё предстоит сражаться на войне.{End}",
+        "Source Text SHA256": "B120F025BEB09FB0805C1637972D2140CFF2AE666C1AE3F6393F0E5CC8A4C099",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0030": {
+        "Target": "«Так что напьёмся,{Line} а потом В АТАААКУ!»{End}",
+        "Source Text SHA256": "0852F327490AC0CA96E1E05C9A7B89EB4EE7151CFDB3EAA821BA45E716EB5306",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0031": {
+        "Target": "Laguna{Line}Кирос, Вард...{Line} Вы двое, кажется, не понимаете.{Next}Я просто хочу{Line} по-дружески выпить с вами обоими.{End}",
+        "Source Text SHA256": "77F63E9BFECB891158A107E3C3786460AB3729149D242C5166B40ECD77CD058F",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0032": {
+        "Target": "Вард{Line}«Хватит робеть, действуй!{Line} Давай, Лагуна-сердцеед!»{End}",
+        "Source Text SHA256": "99F89322B3025D55A23A796666E7914BF6C1BDABD76DAB702AA438DA2D5B778E",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      },
+      "$en_glstaup1_0033": {
+        "Target": "Солдат{Line}«Сэр!»{End}",
+        "Source Text SHA256": "6ECBB7BFA96F494314AB419EE2DCE08BCF6EB6AB97A33D1EE46BBB6982C16F74",
+        "sourceContext": {
+          "Source MSD SHA256": "EEAB18C5B687C308BDDA7FDF9A6BF1F2B46215F95B6DD2E3E16FD1871730E552",
+          "JSM SHA256": "BD20FF01563F604744005D37FBC2397731DD4F52246EAA61F82B2CAA3E640302"
+        }
+      }
+    }
+  }
+}

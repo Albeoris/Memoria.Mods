@@ -9,7 +9,7 @@ import shutil
 import stat
 from struct import unpack
 from urllib.request import urlopen
-from zipfile import ZIP_STORED, ZipFile, ZipInfo
+from zipfile import ZIP_DEFLATED, ZIP_STORED, ZipFile, ZipInfo
 from zlib import crc32
 
 
@@ -21,10 +21,15 @@ NUGET_MINIMUM = re.compile(r"(0|[1-9][0-9]{0,9})\.(0|[1-9][0-9]{0,9})\.(0|[1-9][
 COMPONENT_ID = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 MAX_ASSET_SIZE = 2 * 1024**3
 CHUNK_SIZE = 1024**2
+LFS_POINTER = b"version https://git-lfs.github.com/spec/v1"
 MAX_PNG_SIZE = 64 * 1024**2
 PNG_SIGNATURE = b"\x89PNG\r\n\x1a\n"
 PNG_DEPTHS = {0: (1, 2, 4, 8, 16), 2: (8, 16), 3: (1, 2, 4, 8), 4: (8, 16), 6: (8, 16)}
 DESCRIPTOR_FIELDS = {"id", "name", "package", "description"}
+LANGUAGE_FIELDS = {"kind", "languageOffers"}
+DEPENDENCY_FIELDS = {"kind", "nativeVariants"}
+OPTIONAL_TYPED_FIELDS = {"dependencies"}
+LOCALE = re.compile(r"[a-z]{2,3}(?:-[A-Z][a-z]{3})?(?:-(?:[A-Z]{2}|[0-9]{3}))?(?:-[a-z0-9]{5,8}|-[0-9][a-z0-9]{3})*")
 CATALOG_FIELDS = ("id", "groupId", "runtimePackageId", "settingsKey", "name", "description", "category", "format", "delivery", "defaultEnabled", "target")
 RELEASE_CONFIG = "releases.json"
 UNSUPPORTED_PAYLOAD_TYPES = {".exe", ".dll", ".so", ".dylib", ".bat", ".cmd", ".ps1", ".msi", ".lnk"}
@@ -110,11 +115,61 @@ def validate_catalog_component(component, component_id):
             require(isinstance(component.get(key), str) and component[key].strip(), f"{component_id}: missing {key}")
     require(component["format"] == "memoria-native" and component["delivery"] == "download",
             f"{component_id}: expected a downloadable native mod")
-    require(component.get("defaultEnabled") is True, f"{component_id}: defaultEnabled must be true")
+    expected_activation = "languageOffers" not in component and "nativeVariants" not in component
+    require(component.get("defaultEnabled") is expected_activation, f"{component_id}: defaultEnabled must be {str(expected_activation).lower()}")
     validate_path(component["runtimePackageId"])
     require(component["runtimePackageId"].startswith("Memoria/") and component["runtimePackageId"].count("/") == 1,
             f"{component_id}: runtime package must be a direct child of Memoria")
     validate_target(component.get("target"))
+
+
+def language_target(offers):
+    return variant_target(pair for offer in offers for pair in offer["nativeVariants"])
+
+
+def variant_target(pairs):
+    pairs = list(pairs)
+    return {
+        "game": "FFVIII",
+        "editions": sorted({pair["edition"] for pair in pairs}),
+        "languages": sorted({pair["language"] for pair in pairs}),
+    }
+
+
+def validate_native_variants(pairs, context):
+    require(isinstance(pairs, list) and pairs, f"{context}: nativeVariants must be nonempty")
+    seen = set()
+    for pair in pairs:
+        require(isinstance(pair, dict) and set(pair) == {"edition", "language"}, f"{context}: invalid native variant")
+        edition, language = pair["edition"], pair["language"]
+        require(edition in ("Classic", "Remastered") and isinstance(language, str) and re.fullmatch(r"[a-z]{2}", language) and language != "jp",
+                f"{context}: invalid native edition and base language")
+        require((edition, language) not in seen, f"{context}: repeated native variant")
+        seen.add((edition, language))
+
+
+def validate_language_offers(offers):
+    require(isinstance(offers, list) and offers, "Language packages require at least one language offer")
+    options = set()
+    for offer in offers:
+        require(isinstance(offer, dict) and set(offer) == {"locale", "label", "option", "nativeVariants"},
+                "Language offers must declare locale, label, option and nativeVariants")
+        locale = offer["locale"]
+        require(isinstance(locale, str) and LOCALE.fullmatch(locale) and locale.split("-")[0] != "jp",
+                f"Invalid display-language tag: {locale!r}")
+        for field in ("label", "option"):
+            value = offer[field]
+            require(isinstance(value, str) and value.strip() == value and value and not re.search(r"[\x00-\x1f\x7f-\x9f]", value),
+                    f"{locale}: {field} must be nonblank text without control characters")
+        option = offer["option"]
+        require(option.casefold() not in options, f"Repeated language option: {option}")
+        options.add(option.casefold())
+        validate_native_variants(offer["nativeVariants"], locale)
+
+
+def validate_dependency_ids(ids, owner):
+    require(isinstance(ids, list) and len(ids) <= 32 and all(isinstance(value, str) and len(value) <= 80 and COMPONENT_ID.fullmatch(value) and value != owner for value in ids)
+            and len(ids) == len(set(ids)), f"{owner}: invalid or duplicate dependency IDs")
 
 
 def entry_mode(path):
@@ -129,11 +184,24 @@ def read_descriptor(folder):
     path = folder / "mod.json"
     require((path.exists() or path.is_symlink()) and stat.S_ISREG(entry_mode(path)), f"Missing regular mod.json in {folder}")
     descriptor = read_json(path)
-    require(isinstance(descriptor, dict) and set(descriptor) == DESCRIPTOR_FIELDS,
+    require(isinstance(descriptor, dict) and DESCRIPTOR_FIELDS <= descriptor.keys(),
             f"{path}: descriptor must declare id, name, package and description")
+    kind = descriptor.get("kind")
+    allowed_fields = {"language": LANGUAGE_FIELDS, "dependency": DEPENDENCY_FIELDS}
+    if "kind" in descriptor:
+        required = allowed_fields.get(kind) if isinstance(kind, str) else None
+        require(required is not None and required <= descriptor.keys() and descriptor.keys() <= DESCRIPTOR_FIELDS | required | OPTIONAL_TYPED_FIELDS
+                and descriptor["package"] == "Localization", f"{path}: invalid typed Localization descriptor")
+        if kind == "language":
+            validate_language_offers(descriptor["languageOffers"])
+        else:
+            validate_native_variants(descriptor["nativeVariants"], descriptor["id"])
+    else:
+        require(descriptor.keys() == DESCRIPTOR_FIELDS, f"{path}: ordinary descriptor must declare exactly id, name, package and description")
     component_id = descriptor["id"]
     require(isinstance(component_id, str) and len(component_id) <= 80 and COMPONENT_ID.fullmatch(component_id),
             f"{path}: invalid descriptor ID")
+    validate_dependency_ids(descriptor.get("dependencies", []), component_id)
     validate_path(component_id)
     require(isinstance(descriptor["name"], str) and descriptor["name"].strip(), f"{path}: name must be text")
     package = descriptor["package"]
@@ -148,12 +216,19 @@ def read_descriptor(folder):
 
 def catalog_metadata(descriptor):
     component_id = descriptor["id"]
-    return {
+    component = {
         "id": component_id, "groupId": descriptor["package"], "runtimePackageId": f"Memoria/{component_id}",
         "settingsKey": component_id, "name": descriptor["name"], "description": descriptor["description"]["en"],
         "category": descriptor["package"], "format": "memoria-native", "delivery": "download", "defaultEnabled": True,
         "target": {"game": "FFVIII", "editions": ["Classic"], "languages": ["*"]},
     }
+    if descriptor.get("kind") == "language":
+        offers = descriptor["languageOffers"]
+        component.update(groupId="Memoria", defaultEnabled=False, target=language_target(offers), languageOffers=offers)
+    elif descriptor.get("kind") == "dependency":
+        variants = descriptor["nativeVariants"]
+        component.update(groupId="Memoria", defaultEnabled=False, target=variant_target(variants), nativeVariants=variants)
+    return component
 
 
 def read_release_configuration(root):
@@ -215,6 +290,8 @@ def payload_files(folder):
                 continue
             require(stat.S_ISREG(mode) and path.suffix.lower() not in UNSUPPORTED_PAYLOAD_TYPES,
                     f"Unsupported payload entry: {name}")
+            with path.open("rb") as stream:
+                require(stream.read(len(LFS_POINTER)) != LFS_POINTER, f"Unhydrated Git LFS pointer: {name}")
             files[name] = path
     require("mod.json" in files, f"Missing exact-case mod.json in {folder}")
     return files, notice
@@ -314,11 +391,12 @@ def validate_items(paths):
                 validated_images.add(image)
 
 
-def archive_entry(name, size):
+def archive_entry(name, size, compression):
     entry = ZipInfo(name, date_time=(1980, 1, 1, 0, 0, 0))
     entry.create_system = 3
     entry.external_attr = 0o100644 << 16
     entry.file_size = size
+    entry.compress_type = compression
     return entry
 
 
@@ -361,13 +439,14 @@ def build(folder, output, descriptor, version, minimum, repository=REPOSITORY, r
     require(0 < total_size < MAX_ASSET_SIZE, f"{folder.name}: archive must fit the GitHub Release per-asset limit")
     output.mkdir(parents=True, exist_ok=True)
     archive_path = output / f"{descriptor['id']}-{version}.zip"
-    with ZipFile(archive_path, "w", compression=ZIP_STORED) as archive:
-        archive.writestr(archive_entry("mod.manifest.json", len(manifest_data)), manifest_data)
+    compression = ZIP_DEFLATED if descriptor.get("kind") in ("language", "dependency") else ZIP_STORED
+    with ZipFile(archive_path, "w") as archive:
+        archive.writestr(archive_entry("mod.manifest.json", len(manifest_data), compression), manifest_data)
         for item in inventory:
-            with paths[item["path"]].open("rb") as source, archive.open(archive_entry(f"payload/{item['path']}", item["size"]), "w") as destination:
+            with paths[item["path"]].open("rb") as source, archive.open(archive_entry(f"payload/{item['path']}", item["size"], compression), "w") as destination:
                 shutil.copyfileobj(source, destination, CHUNK_SIZE)
         if notice_size is not None:
-            with notice.open("rb") as source, archive.open(archive_entry("NOTICE.md", notice_size), "w") as destination:
+            with notice.open("rb") as source, archive.open(archive_entry("NOTICE.md", notice_size, compression), "w") as destination:
                 shutil.copyfileobj(source, destination, CHUNK_SIZE)
     unpacked_size = validate_archive(archive_path, manifest, notice_size)
     size, digest = file_digest(archive_path)
@@ -392,10 +471,13 @@ def main():
     parser.add_argument("--engine-version-range", help="Build with a specific resolved engine requirement")
     args = parser.parse_args()
     descriptor = read_descriptor(args.folder)
-    release = read_release_configuration(Path(__file__).resolve().parent.parent).get(descriptor["id"], {})
+    configuration = read_release_configuration(Path(__file__).resolve().parent.parent)
+    release = configuration.get(descriptor["id"], {})
     version = args.version or release.get("version", "1.0.0")
     minimum = args.engine_version_range or release.get("engineVersionRange") or latest_engine_range()
     archive, component = build(args.folder, args.output, descriptor, version, minimum, release_notes=release.get("releaseNotes", ""))
+    if descriptor.get("dependencies"):
+        component["dependencies"] = [{"id": dependency, "version": configuration.get(dependency, {}).get("version", "1.0.0")} for dependency in descriptor["dependencies"]]
     metadata = archive.with_suffix(".catalog-entry.json")
     metadata.write_bytes(json_bytes(component))
     print(f"Built {archive} and {metadata}")

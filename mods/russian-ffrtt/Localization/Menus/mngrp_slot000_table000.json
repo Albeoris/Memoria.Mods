@@ -1,0 +1,615 @@
+{
+  "Menus": {
+    "mngrp_slot000_table000": {
+      "$en_mngrp_slot000_table000_0002": {
+        "Target": "Привязка",
+        "Source Text SHA256": "EECB89C53A78A0EF9F06551499AA73814CFF0289981677EFBB6BBC3ECB60FCFE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0003": {
+        "Target": "Меню привязки",
+        "Source Text SHA256": "47EA8E93AFA6786398309E8BB36AAA529871AFF6BBC90CFC9CC793B9F6DBC021",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0004": {
+        "Target": "Предмет",
+        "Source Text SHA256": "652BCC3A478428893CC505AE19F847B49BE52F861BEDC64BB192CEED409FA733",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0005": {
+        "Target": "Меню предметов",
+        "Source Text SHA256": "5FF09B6A31EAF6D06F8B1425F58D874885EA3C6713C054D0B63827B4F8942868",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0006": {
+        "Target": "Магия",
+        "Source Text SHA256": "ED1A5A81B8121AD13A8796E7A7EB113F25D5B18B0A3831BAE13D697BA5DAE38B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0007": {
+        "Target": "Меню магии",
+        "Source Text SHA256": "8B2912F42E7DB74A899418B252F38D3B41F33E29920E2AD523EBE91E134F50CA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0008": {
+        "Target": "Стражи",
+        "Source Text SHA256": "6EDE6CAC45F64ED08AFC0391ECF38A70942E66382FDAD32454A8E52BBE5673D2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0009": {
+        "Target": "Меню Стражей",
+        "Source Text SHA256": "3F689F0BAEF957EAA6DEE697A2F85FF5734F7864EBB83FFA3493CBC2A1EBBCAF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0010": {
+        "Target": "Состояние",
+        "Source Text SHA256": "920E413C7D411B61EF3E8C63B1CB6AD058D5F95F8B481DBAFE60248387D8C355",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0011": {
+        "Target": "Меню состояния",
+        "Source Text SHA256": "2994340A15779992653B67D087A918F3C74142450D0B41526C747D8D0C2148B6",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0012": {
+        "Target": "Карта",
+        "Source Text SHA256": "BE3702E3F1AF559A8DF03568294283934A2558521FD8895F68EDA09E3CE4F8A3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0013": {
+        "Target": "Посмотреть карты",
+        "Source Text SHA256": "C325B440D1571BA7FE7B56D3223909D4C1377B36C0DC8A3DBC6C52D619E14ABB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0014": {
+        "Target": "Переставить",
+        "Source Text SHA256": "3BA468E5905FD1DBA747500A20B92F11128330CBB95CFB01ADB1F90817C5E639",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0015": {
+        "Target": "Изменить порядок отряда",
+        "Source Text SHA256": "1519AD26A356BB3858FB52CCA9A20264FC9934B05F852ACB78EA7DBBAB8A0379",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0016": {
+        "Target": "Сохранить",
+        "Source Text SHA256": "1509F561F2416598629B886AD7D3C05A7E221E4E0675C84BBFF4EE6D9E03913D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0017": {
+        "Target": "Меню сохранения",
+        "Source Text SHA256": "2FF98E892307FA4710FB7C6535AD7B585D4D7782B827B0C30974DACD61FA0E8E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0018": {
+        "Target": "Настройки",
+        "Source Text SHA256": "87E89ABB4C1C551FE08D355D097F18B8DE78EDCA5F556997085681662FCE8EED",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0019": {
+        "Target": "Меню настроек",
+        "Source Text SHA256": "5A8214DBB9F28261883B7D6254A282FE85E4842364CC863360985B3AA51C868B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0020": {
+        "Target": "????",
+        "Source Text SHA256": "5D04C6A96439100AD3CB4672EF2FDC219DAE8AAA655C9A3095C9E7AD25F4D96C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0021": {
+        "Target": "Прежние участники отряда",
+        "Source Text SHA256": "F14436AF255725FDD8600B02E280BF559B6C7A1968A3A7F7A32BEA9328AD896B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0022": {
+        "Target": "ИГРА",
+        "Source Text SHA256": "F53A7AB988E2F4624BEB96812AFD0BC56A8F1743E97D5AC7B33A85C0BE131471",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0024": {
+        "Target": "г.",
+        "Source Text SHA256": "333E0A1E27815D0CEEE55C473FE3DC93D56C63E3BEE2B3B4AEE8EED6D70191A3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0026": {
+        "Target": ":",
+        "Source Text SHA256": "E7AC0786668E0FF0F02B62BD04F45FF636FD82DB63B1104601C975DC005F3A67",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0028": {
+        "Target": "Текущий опыт",
+        "Source Text SHA256": "4E8FBE41CF676173D49A0CB2D8243878C72BA9E05D5223AF8D49BF072E595289",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0030": {
+        "Target": "До нового уровня",
+        "Source Text SHA256": "2903C20EBE9C4B88809E83B3D55800C41D24B722423AC07153BA775CA30C99D7",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0032": {
+        "Target": "/",
+        "Source Text SHA256": "8A5EDAB282632443219E051E4ADE2D1D5BBC671C781051BF1437897CBDFEA0F1",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0034": {
+        "Target": "ЖЗ",
+        "Source Text SHA256": "9449A7AAA80C99EAD5CA08D4C72F0905780CB5008036127B26FE20DA07419AC0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0036": {
+        "Target": "УР.",
+        "Source Text SHA256": "FCDB0592CD60D991B0B88A18A3755286F595994FA35125DCB61C620D4573C904",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0038": {
+        "Target": "-",
+        "Source Text SHA256": "3973E022E93220F9212C18D0D0C543AE7C309E46640DA93A4A0314DE999F5112",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0040": {
+        "Target": "%",
+        "Source Text SHA256": "BBF3F11CB5B43E700273A78D12DE55E4A7EAB741ED2ABF13787A4D2DC832B8EC",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0042": {
+        "Target": "Огонь I",
+        "Source Text SHA256": "C141FAA80E43A11909F5736D1E767F12E1468AA06DADD446081746934E875FC3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0044": {
+        "Target": "Лёд",
+        "Source Text SHA256": "2A1A6355ED7E30B0EEA3A7967A31E9C42F6AFA817FBF6555DF3BEFDF05AE38E0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0046": {
+        "Target": "Молния I",
+        "Source Text SHA256": "519BCE7BC2DAB47F9794B45E2E2C4F6D63F90D340F44A80F3504D5AD9F82ED9B",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0048": {
+        "Target": "Земля",
+        "Source Text SHA256": "B7C9B5CCD3E3EC741ECFA5864B577F5DAB1D987BFD3CAA4815F1B3F8354A5F16",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0050": {
+        "Target": "Отравление",
+        "Source Text SHA256": "D5A78B996FE640A3F9181D71DA872B9DFB63BBAD0D282EDFF0A12E4E32074B6E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0052": {
+        "Target": "Ветер",
+        "Source Text SHA256": "D151346FE7EEA3C6A0865199579CA6017487DBF981D59CDD1FCADADB03518DC8",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0054": {
+        "Target": "Вода",
+        "Source Text SHA256": "7CA7DEA906800F87091B819132ECF2AA2B7EA14C9841FA18B9DB121D3BBE82DC",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0056": {
+        "Target": "Святость",
+        "Source Text SHA256": "56EEE6A57925BE9E0E0724C3CFB6D7D72B1FE8CDD680E79A437552FC6F07B7A9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0058": {
+        "Target": "Смерть",
+        "Source Text SHA256": "FCD6FEA72DE7E6C09CA2567674BEFDEF61C04E783BD2E0F092AEB99C57E587E3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0060": {
+        "Target": "Отравление",
+        "Source Text SHA256": "D5A78B996FE640A3F9181D71DA872B9DFB63BBAD0D282EDFF0A12E4E32074B6E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0062": {
+        "Target": "Окаменение",
+        "Source Text SHA256": "72AA1AD1754DE7497B2697353B7A7661F047E0A98E2DD0BE88DAF2487150CD5A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0064": {
+        "Target": "Тьма",
+        "Source Text SHA256": "9AB31DCB2FFD3B365769D0AC3AAA2AD6FF610028546A1C9B96C43BB35AE84CCE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0066": {
+        "Target": "Безмолвие",
+        "Source Text SHA256": "6C61FE498281F4216FD03973936E6F88B0142654174538F4EB41987DFC4C965A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0068": {
+        "Target": "Берсерк",
+        "Source Text SHA256": "08BD7CBF4B138E67BE4A5CCE28BC717CE3BE31615B3DAA16BF10CDE894DE77F9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0070": {
+        "Target": "Зомби",
+        "Source Text SHA256": "4C876E938C74FF4D6EE0E587623ABF3C4A399188742B9318A786B2DD108489BA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0072": {
+        "Target": "Сон",
+        "Source Text SHA256": "D466BCF52EB6921B1E747E51BF2CC1441926455BA146ECC477BED1574E44F9C0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0074": {
+        "Target": "Замедление",
+        "Source Text SHA256": "4B2BEBBF33AEB7AEA11CBAB9D95019A647CA038B638F99F593AAE85B986ED2E2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0076": {
+        "Target": "Остановка",
+        "Source Text SHA256": "CAE7D57BC067A514B8E34C9589631A95C7DC051638DDD2A190773269279A99DF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0078": {
+        "Target": "Проклятие",
+        "Source Text SHA256": "88B3D8EED54F6FF0F810AACCA7226460FDB72AB34C99E5C4D002192A463A2E72",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0080": {
+        "Target": "Смятение",
+        "Source Text SHA256": "61D8DFCBAE330EC0657B30332817A3F2FA4DDEE7DB5405356350872B74C0797E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0082": {
+        "Target": "Вампиризм",
+        "Source Text SHA256": "171418C643055DA90C1D2823941068BCC0341B8ACA6305F23A18A23E1249607A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0084": {
+        "Target": "Выбрать нельзя",
+        "Source Text SHA256": "6E25A1F07D9D837EE5FA736426881C30469F6C1379D1A176ABB0E11F10E5787A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0086": {
+        "Target": "Изготовление",
+        "Source Text SHA256": "A88C972FA2C32ACB10CEB890786A3248D4D8DD5FBA957B5F7183655A6F0A764F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0088": {
+        "Target": "Магазин",
+        "Source Text SHA256": "D00AAE6B7FBF77A4566D8DF36805D7AE973894DA9F533EC96516B31E028B71EB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0090": {
+        "Target": "Загрузить",
+        "Source Text SHA256": "8A6BDB6B18DA586FE7F2ACBD8F1055533F2CD97A3681B3652BCD712224DF45C3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0092": {
+        "Target": "Гостиница",
+        "Source Text SHA256": "C3FE7964ED14AD5D40A3071C7C757846DB898978F7320ED2A50EBB4BC0EBBD4A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0093": {
+        "Target": "Гостиница",
+        "Source Text SHA256": "C3FE7964ED14AD5D40A3071C7C757846DB898978F7320ED2A50EBB4BC0EBBD4A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0094": {
+        "Target": "Да",
+        "Source Text SHA256": "85A39AB345D672FF8CA9B9C6876F3ADCACF45EE7C1E2DBD2408FD338BD55E07E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0096": {
+        "Target": "Нет",
+        "Source Text SHA256": "1EA442A134B2A184BD5D40104401F2A37FBC09CCF3F4BC9DA161C6099BE3691D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0098": {
+        "Target": "Барахолка",
+        "Source Text SHA256": "4692D9CFD108993FE9E88C31D6380455DA386DA40455929154129ACDE5A673C0",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0100": {
+        "Target": "(",
+        "Source Text SHA256": "32EBB1ABCC1C601CEB9C4E3C4FABA0CAA5B85BB98C4F1E6612C40FAA528A91C9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0102": {
+        "Target": ")",
+        "Source Text SHA256": "BA5EC51D07A4AC0E951608704431D59A02B21A4E951ACC10505A8DC407C501EE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0104": {
+        "Target": "Умение",
+        "Source Text SHA256": "9C40AE32BD6BD868D855635F6D295120E965580A1182C2930A44C845569D1851",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0105": {
+        "Target": "Использовать способность Стража",
+        "Source Text SHA256": "0A2A749E181E7CD4EDF6B98EAFE49C5D32AE5F9EA6BF343714187AB107988624",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0106": {
+        "Target": "Сменить отряд",
+        "Source Text SHA256": "39921A740BF2B67802A2042E1F87E9DEC566131C2458ABA5683E2827CED0D2C3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0107": {
+        "Target": "Выберите участников отряда",
+        "Source Text SHA256": "7070E83BFB772B5A878344FF5E86302C464EE6F9E80EEF02B26B7D9A74866A10",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0108": {
+        "Target": "Вы ещё не посещали магазины!",
+        "Source Text SHA256": "5B3B2809A8F1098A0CA9B2B8A9F8B84BEBFC3A8E81BA8D9685D8F45F295EB2BD",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0110": {
+        "Target": "Обучение",
+        "Source Text SHA256": "C26982B1425DA26A9637DD69DA684A036C8B67A1DDF2C3D09B915A96E4B58037",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0111": {
+        "Target": "Описание",
+        "Source Text SHA256": "16EE4625BCE919A2EC1A3AC9E3168A9E2C5D04A3159FD30539788F175E44B3BA",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0112": {
+        "Target": "РАНГ",
+        "Source Text SHA256": "76E050023D18D3509EDA5BBA7728C4A3A3C69F8D37AAC7DF0E71959FD058204C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0113": {
+        "Target": "Ранг SeeD",
+        "Source Text SHA256": "E58BAF90317E6E7DC130ED2A2C837E6FDB4F0C1C1A003DE72C1A4CEBC55439CB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0114": {
+        "Target": "A",
+        "Source Text SHA256": "559AEAD08264D5795D3909718CDD05ABD49572E84FE55590EEF31A88A08FDFFD",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0115": {
+        "Target": "Ас",
+        "Source Text SHA256": "A467DA82DA540F56097B7224D81612BFA212E26EFBF0709606144FEE0B82A631",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0116": {
+        "Target": "Текущие ЖЗ изменятся.{Line}Продолжить?",
+        "Source Text SHA256": "EE925ADA2E4935A5C3383F5305811C4C83DBE3970D5E0F265A5FFF63A07BE430",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0118": {
+        "Target": "????",
+        "Source Text SHA256": "5D04C6A96439100AD3CB4672EF2FDC219DAE8AAA655C9A3095C9E7AD25F4D96C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0120": {
+        "Target": "Информация",
+        "Source Text SHA256": "1CB0BA125F84C982B00BA3639CDFB2CEE6B70F94B5E0115C045FEF607AF4F216",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0121": {
+        "Target": "Справка по FFVIII",
+        "Source Text SHA256": "1FC2864279D6DA22FD5FACBC76F43416914177B051CC4391812FBC5070604854",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0122": {
+        "Target": "ЭКЗАМЕН",
+        "Source Text SHA256": "94EE059335E587E501CC4BF90613E0814F00A7B08BC7C648FD865A2AF6A22CC2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0123": {
+        "Target": "Сдать письменный экзамен для повышения ранга SeeD",
+        "Source Text SHA256": "4D672259D5EAE2DD62FF586A6C16B137C61045156377A8CC66C43710AEF2DD02",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0124": {
+        "Target": "Повторение",
+        "Source Text SHA256": "AFF0766A5290E117B8433C351BAE7B7B23BED682B2369BD822D88A647CC58512",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0125": {
+        "Target": "Повторить письменный экзамен SeeD",
+        "Source Text SHA256": "BD54554EC0267AF67E62FDF00964F702A0702EE008010C93E8D6724454578AB9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0126": {
+        "Target": "Ничего не произошло",
+        "Source Text SHA256": "A837801B93728BC0FFE334F5D4474BB15AB03FF45081DD66E1A6BDE1D7070690",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0128": {
+        "Target": "ВРЕМЯ",
+        "Source Text SHA256": "5888675D99B95617BA8CCCD20DABE5554E91C71F3877C69D759BD8A5F162AE70",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0129": {
+        "Target": "ТАЙМЕР",
+        "Source Text SHA256": "677220B4CFAE1F3A130D1BE3FBE74524FADB25B751FC9DE7DA8DA3EB2E24C4EE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0130": {
+        "Target": "Выйти",
+        "Source Text SHA256": "D17D84A604994B722DB37B35860B1AC7E8D9E43E725D0EB50702A9F7228A2999",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0131": {
+        "Target": "Выйти из игры в главное меню",
+        "Source Text SHA256": "5996C84E213420D65C2B2F4BBD10E9F9CE590A2171C9F8F30F205A3BAF4E76D1",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot000_table000_0132": {
+        "Target": "Выйти из игры?",
+        "Source Text SHA256": "3429AFED31852BB251270CCE355ABC539C4F0AC4F59B813DE6615FFD26DA647C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

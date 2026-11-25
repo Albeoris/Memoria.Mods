@@ -1,0 +1,30 @@
+{
+  "Fields": {
+    "efenter1": {
+      "$en_efenter1_0000": {
+        "Target": "Часовой{Line}«Сюда нельзя.{Line}Проход закрыт».{End}",
+        "Source Text SHA256": "75CBF1BC990852601818910D122A75F367D9EC5B7BEFF35A67EA20283ADCBAE5",
+        "sourceContext": {
+          "Source MSD SHA256": "925219C92A70AE6C95EDB88E9DFA90A13AC6B90EBB81C6CB4A6717D566B36C72",
+          "JSM SHA256": "D209DB1FD1C6AA17F45EAF89A8BD124C576987272A17D35C03956BAC0B6C2090"
+        }
+      },
+      "$en_efenter1_0000_ctx_4a42e1fb6ca62500": {
+        "Target": "{X206Y120}Часовой{Line}«Сюда нельзя.{Line}Проход закрыт».{End}",
+        "Source Text SHA256": "75CBF1BC990852601818910D122A75F367D9EC5B7BEFF35A67EA20283ADCBAE5",
+        "sourceContext": {
+          "Source MSD SHA256": "925219C92A70AE6C95EDB88E9DFA90A13AC6B90EBB81C6CB4A6717D566B36C72",
+          "JSM SHA256": "D209DB1FD1C6AA17F45EAF89A8BD124C576987272A17D35C03956BAC0B6C2090"
+        }
+      },
+      "$en_efenter1_0000_ctx_b27cc3176bfa3822": {
+        "Target": "{X12Y120}Часовой{Line}«Сюда нельзя.{Line}Проход закрыт».{End}",
+        "Source Text SHA256": "75CBF1BC990852601818910D122A75F367D9EC5B7BEFF35A67EA20283ADCBAE5",
+        "sourceContext": {
+          "Source MSD SHA256": "925219C92A70AE6C95EDB88E9DFA90A13AC6B90EBB81C6CB4A6717D566B36C72",
+          "JSM SHA256": "D209DB1FD1C6AA17F45EAF89A8BD124C576987272A17D35C03956BAC0B6C2090"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1273 @@
+{
+  "Battle": {
+    "kernel_enemyattacks_name": {
+      "$en_kernel_enemyattacks_name_0005": {
+        "Target": "Режущий удар",
+        "Source Text SHA256": "078A43BB4A907A13BBD078B913F875384078FC5A6C04EC375153046D3D7A58B4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0006": {
+        "Target": "Удар задней ногой",
+        "Source Text SHA256": "E97D0A4BC151F183947FE771D94E744A7FFD787A21DEDF0CADFA43F6EECA504E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0007": {
+        "Target": "Бросок лезвия",
+        "Source Text SHA256": "52F6BD2782FA9B203094C4C307833E679F0C2B86EAF034FF0375D8B4EDB23C95",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0008": {
+        "Target": "Лучевая бомба",
+        "Source Text SHA256": "2AB10691D19FAE444DA851292A8BEADA8BADD112C3DB6F2A7A97A9A0C862EB40",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0009": {
+        "Target": "Дыхание бури",
+        "Source Text SHA256": "C04633F8ABFFB3028D89F0E999A21F5E35B49CE47F888D891CEA426600EAEB7E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0010": {
+        "Target": "Тёмная дымка",
+        "Source Text SHA256": "362112FEB2D9CB06B63BC13269071540B1196AC6041196FD6A469104C2E7007E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0011": {
+        "Target": "Сдавливание",
+        "Source Text SHA256": "CC3C37ACA3D3C37806109CF234F385A9F178AC21E49B341F9DD2C644FEECE3B8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0012": {
+        "Target": "Столкновение",
+        "Source Text SHA256": "11CE6C777CFD653320A0BD22BC6F41433C665490B186FA95E08206D622755A75",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0013": {
+        "Target": "Сокрушительный захват",
+        "Source Text SHA256": "899B7126F0B6B210BAF96AE408B386576399CF1BCE00F9BD60DDDA35F72235B4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0015": {
+        "Target": "Игла на хвосте",
+        "Source Text SHA256": "C5A21FC67EB809D2D7A909790EA98AF89217512FCED577FBA2FEB41A72EE7779",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0016": {
+        "Target": "Взмах лапой",
+        "Source Text SHA256": "27725F4B52D476AB605077741D387F8D367356991397D634A438897C0BD95873",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0017": {
+        "Target": "Смрадное дыхание",
+        "Source Text SHA256": "8C027E2948E41E2431EDFDA3715162E64C35EC31366C76A8C96C12076919FD1F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0019": {
+        "Target": "Каменный взгляд",
+        "Source Text SHA256": "A4F519D7B1AA0A09B65D60425A57A1358B647E758C9AF397BA405817896FEADD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0020": {
+        "Target": "Вампир",
+        "Source Text SHA256": "EF177717B2D61A6AC74A239F5C3EAE9634B65091E35031CEBF5D18F0C17B55B4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0021": {
+        "Target": "Ядовитый туман",
+        "Source Text SHA256": "385FFBDE291C08E791171B6BFEE15C7F36D49B06F43A3160C43831709201218B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0022": {
+        "Target": "Ответный взмах",
+        "Source Text SHA256": "2BDBD28C73DC550A0B3BBF31E2EB750B632EE77B9CC05FE82EC36F82BF017543",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0023": {
+        "Target": "Ответный лазер из глаза",
+        "Source Text SHA256": "BD2F01A15ACEFE3E5D407FDE56974431246EB3252B55F996C079E7C233CDF2F0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0025": {
+        "Target": "1000 Игл",
+        "Source Text SHA256": "C53EC350FDA3C47C2ECA96C28EB5258E86BAE0A56EAC932D12CF1A41E994BD47",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0026": {
+        "Target": "Разбитое сердце",
+        "Source Text SHA256": "C39D8FD620E10DB497747AC383B04FAC0597CB420E00C66D222336139056B859",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0027": {
+        "Target": "Удар ногой снизу",
+        "Source Text SHA256": "3CCE8214262C51F2ADCDE9EEC679E54E544D409E66A5FF3B47EB7223744C750A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0028": {
+        "Target": "Электрический разряд",
+        "Source Text SHA256": "F967352E31F62B29C598204580E2198E8358FBE54126B222ACC08AFD5E567EF4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0029": {
+        "Target": "Каменный взгляд",
+        "Source Text SHA256": "A4F519D7B1AA0A09B65D60425A57A1358B647E758C9AF397BA405817896FEADD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0031": {
+        "Target": "Укус",
+        "Source Text SHA256": "6E5597953E98E07B763C9F7C837239DAF41A26A239B0616631539B9A04B559AD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0032": {
+        "Target": "Ядовитый газ",
+        "Source Text SHA256": "DE43283A68DEA1C81FF8981F96D90C6F1A0654182AE7DF6ADDCBA440FB8867CE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0033": {
+        "Target": "Ядовитый газ",
+        "Source Text SHA256": "DE43283A68DEA1C81FF8981F96D90C6F1A0654182AE7DF6ADDCBA440FB8867CE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0034": {
+        "Target": "Ядовитый газ",
+        "Source Text SHA256": "DE43283A68DEA1C81FF8981F96D90C6F1A0654182AE7DF6ADDCBA440FB8867CE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0035": {
+        "Target": "Кислота",
+        "Source Text SHA256": "C4FDF6B89BDCABBCB692F511AFD5FFA4D10FDC19D3374E5B84B8CB5AC75306D8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0036": {
+        "Target": "Плавящий взгляд",
+        "Source Text SHA256": "5307A7CBC15453DA65BB33E7C4E601AF8919D945BB8E3AC1BA3118D023A9E433",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0037": {
+        "Target": "Дыхание",
+        "Source Text SHA256": "3C8B4CF724E6C16EF615E199336338CEF9DBC9F97D0647E8731D4BE6D08FC38C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0038": {
+        "Target": "Ледяное дыхание",
+        "Source Text SHA256": "ACA9350F0EDCA355AEA3288D96759ADCB1A35A51CF7FB56CF43903D7D0E6271D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0039": {
+        "Target": "Песчаная буря",
+        "Source Text SHA256": "59046E592F655416FBE9703409EA9DF94D1C426E7CBFDFCF0BA273BCDB456340",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0048": {
+        "Target": "Извлечение",
+        "Source Text SHA256": "61517C08B3BF84B42AC5A38367A9CA07DBC54E9C00EE92DF09DEBE4F38DF34D4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0049": {
+        "Target": "Землетрясение",
+        "Source Text SHA256": "7F65878D43AF16310996EF79311257BAA270193ADC507DB7BB98FCF5CB50F671",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0053": {
+        "Target": "Превращение",
+        "Source Text SHA256": "61CE25D9BA800A072AEC433EEC96594A17797694B5E14D9939BB36D9DAA01861",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0054": {
+        "Target": "Захват руками",
+        "Source Text SHA256": "54F24771704BF61ADED37E99268F5B247BC50CC2EB8861CA2BEB2BC4737AB597",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0055": {
+        "Target": "Мощный бросок",
+        "Source Text SHA256": "0EB23455A6F2191B21889C02272FE9CA495982C08C5F8E3CB31C56B62A585C06",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0056": {
+        "Target": "Ведение мяча",
+        "Source Text SHA256": "003D96036CA7995D293BBD41C383A1A5CC8D5BAF2B71A2EED9685875AF0D11B6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0057": {
+        "Target": "Бросок",
+        "Source Text SHA256": "370B1416608DFDAC0DE371ECC2A33E565DB63481229966747C7C9F3C0F789832",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0058": {
+        "Target": "Ультразвуковые волны",
+        "Source Text SHA256": "F47D71DC7001E4ACFBA8CA01D05F5EC09563F15714EEC97359C2DC1F5A77DAD2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0060": {
+        "Target": "Кусь-кусь",
+        "Source Text SHA256": "0944A88FEAFE3C7E69B117E1812E5B19395C8C7115ADAC92FFE137EC2B10F9F6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0061": {
+        "Target": "Дробовик",
+        "Source Text SHA256": "050991792BA0040CBBAFFD71EE45D7D99D96C74467D4AC4F04F56113964F6A0A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0062": {
+        "Target": "Самоподрыв",
+        "Source Text SHA256": "54755533D38E852AFB0C25A5715AEFC7C0565356D780C37AF11A9873036E7918",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0063": {
+        "Target": "Ультразвуковые волны",
+        "Source Text SHA256": "F47D71DC7001E4ACFBA8CA01D05F5EC09563F15714EEC97359C2DC1F5A77DAD2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0064": {
+        "Target": "Дыхание смерти",
+        "Source Text SHA256": "594600897F5DF95B767E9F98C191CB7CA9B951813C3874E8E7AEC29D01567172",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0065": {
+        "Target": "Дыхание болезни",
+        "Source Text SHA256": "E12A637EAAF319B2128EA3202CAFD4DC2F823D970B0FA8C5DDCE8E6D58A6999F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0066": {
+        "Target": "Липкая гадость",
+        "Source Text SHA256": "73C00D7C27F290285DDDC1D293C07E0F60DF74112EB14E6728D3AF554098406F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0067": {
+        "Target": "Удар плечом",
+        "Source Text SHA256": "89099C808F1FA073A9CA2173FF72B39AF2310C5C375D823A5867A22F5CE9E34E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0068": {
+        "Target": "Пулемётная очередь",
+        "Source Text SHA256": "CB6F2C6F917BD9CB26BA2D12195505D5C8C223B8B7503B9DFB723F2680EC0F82",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0069": {
+        "Target": "Удар пушкой",
+        "Source Text SHA256": "40760A90DC872CA98B35059EAE597064B86F771917AB995EF79DCBB6365168CB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0070": {
+        "Target": "Яростный удар пушкой",
+        "Source Text SHA256": "9C43DCBFAECDB15E2416381A40462B85BF064BF567F1774BC035EF714AC36ECC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0071": {
+        "Target": "Накопление",
+        "Source Text SHA256": "EE7DA936B5CB293E9AE2FA0982BC5FCD4BDB11F4E7233BFDD81C1446010B4478",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0072": {
+        "Target": "Дегенератор",
+        "Source Text SHA256": "D0A164A24B5195F50E0BBE143A7B4689BE3282FEFEAAA6E1DBB23579ADD8E917",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0073": {
+        "Target": "Телекинез",
+        "Source Text SHA256": "F410D53A7A4787A7ED6C4B9DF3F67EB1D79789DF4D108A670B2C99B598C8A593",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0076": {
+        "Target": "Гипноз",
+        "Source Text SHA256": "35DBD24A1A6DB0EE33F3056FB738865965942F6C452E8A6132B2CFF8D4EE5E8E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0077": {
+        "Target": "Желудочный сок",
+        "Source Text SHA256": "B76365C83A6AD0DA4A4375FE303FAA44993934893338432BC9138F84F6A6A798",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0080": {
+        "Target": "Песчаная буря",
+        "Source Text SHA256": "59046E592F655416FBE9703409EA9DF94D1C426E7CBFDFCF0BA273BCDB456340",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0084": {
+        "Target": "Пристальный взгляд",
+        "Source Text SHA256": "D6BF94E4AC6D9BB5411C0C6FF823414350F6D7541B5CB2CAB6366B549B6166BB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0085": {
+        "Target": "Вздох",
+        "Source Text SHA256": "B0F46E449E40E34240BC233E7932F03B1B670351F68B30BFA6A467118E368BE5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0086": {
+        "Target": "Проклятие",
+        "Source Text SHA256": "88B3D8EED54F6FF0F810AACCA7226460FDB72AB34C99E5C4D002192A463A2E72",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0093": {
+        "Target": "Удар с захватом",
+        "Source Text SHA256": "F51B11EDF525E50EE799E7F1C5F087D7E13F4736F4309D8F744272B13176D5CB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0094": {
+        "Target": "Дыхание",
+        "Source Text SHA256": "3C8B4CF724E6C16EF615E199336338CEF9DBC9F97D0647E8731D4BE6D08FC38C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0095": {
+        "Target": "Два меча",
+        "Source Text SHA256": "DBB2AE10CA8610D247C266A98549CB32A34A5F5D578F9ED6E1F6D8B1D8CBE790",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0096": {
+        "Target": "Выпад",
+        "Source Text SHA256": "61315705D257C44078434E26D4B322D29D1657AA6CE51CC15145D56E6A4E0246",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0097": {
+        "Target": "Удар иаи",
+        "Source Text SHA256": "28D11136ACFDD01BE7B2BE5D7ABE5214D8D0A42B0424F260F78B63D86C2C49EF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0098": {
+        "Target": "Ультразвук",
+        "Source Text SHA256": "EFABAE6335058DC4E375272CD2495B26900CD527AFA79DF81962DC4E21AF0359",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0100": {
+        "Target": "Липкая паутина",
+        "Source Text SHA256": "E205662CCB8C1D61FEC6372D0139320E94822BF9C04A7F71CDDF1E98120B3E4D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0102": {
+        "Target": "Дыхание",
+        "Source Text SHA256": "3C8B4CF724E6C16EF615E199336338CEF9DBC9F97D0647E8731D4BE6D08FC38C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0103": {
+        "Target": "Клинок на хвосте",
+        "Source Text SHA256": "44D595D73E253294595E316AB6FE925A47636DC1C610FBB5C511702F8DB9738D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0106": {
+        "Target": "Мегаискра",
+        "Source Text SHA256": "D51E1D8C060953B1E493F6E349DE7A2CA244F476A42D01BBD8A5A6CF5AA1967D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0107": {
+        "Target": "Рывок",
+        "Source Text SHA256": "5F569CFFCA9C280854889F795FC70BFD652F2E80A91347ADC1C5D163ADAEC3AE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0110": {
+        "Target": "Газы",
+        "Source Text SHA256": "C5F9F4C2E96783E3C5AD28BCFDB7FECB78400AB4EFD03851B6D43CC5248D85D9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0111": {
+        "Target": "Игла",
+        "Source Text SHA256": "8F1913F50E8A3AA0C0DDA27A4E376CF45EA2DAD8013D83C224C5366E5BB91B28",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0112": {
+        "Target": "Желудочный сок",
+        "Source Text SHA256": "B76365C83A6AD0DA4A4375FE303FAA44993934893338432BC9138F84F6A6A798",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0113": {
+        "Target": "Усыпляющий газ",
+        "Source Text SHA256": "03873D52E6561C7FE96113F76477A193FBC0BDCC77834BF1A840D5AF47B8A26C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0114": {
+        "Target": "Дыхание",
+        "Source Text SHA256": "3C8B4CF724E6C16EF615E199336338CEF9DBC9F97D0647E8731D4BE6D08FC38C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0118": {
+        "Target": "Лучевая пушка",
+        "Source Text SHA256": "798B7C8601D8C4FD22263A52E12AFE3CF2C30022A53597D1370A0A2C9BB4D3DF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0120": {
+        "Target": "Дыхание магмы",
+        "Source Text SHA256": "5F3178E2F3D27F3F91070810D401B3D33A069313D90386643D0D184FE3D72ACF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0121": {
+        "Target": "Резонанс",
+        "Source Text SHA256": "1A5D3460CC2051D30E062C5CC91F2D4C900F816C9520F1253E76D239182BC073",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0122": {
+        "Target": "Бластер",
+        "Source Text SHA256": "A28D4E1A3BFC857C08777B614606730BF006E5682889179EA839F3C94A3FB03C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0123": {
+        "Target": "Бластер",
+        "Source Text SHA256": "A28D4E1A3BFC857C08777B614606730BF006E5682889179EA839F3C94A3FB03C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0124": {
+        "Target": "Смерть ур. 5",
+        "Source Text SHA256": "32D7564E5DF5C365DAA4D9625E2FF8F3D29BD5E324D44D67B34E67635B138A57",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0125": {
+        "Target": "Коготь смерти",
+        "Source Text SHA256": "DCE5C480CC60CD7E0543765AB3C497084C8D38BCFE3D4DFC5905CB460FB1B5C7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0126": {
+        "Target": "Медвежья хватка",
+        "Source Text SHA256": "A21E6D214C37D742EDFA2A2FF33AC7C492965060104A83A7288B5B227AB43AFD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0127": {
+        "Target": "Газ",
+        "Source Text SHA256": "E23A445D0FA70AA809ADDFA60760F564AB40A28474B6B47C22A4F699B512458E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0128": {
+        "Target": "Взрыв",
+        "Source Text SHA256": "CA6482A42BABCB32DA7B2F35D88BC5007AB31AA551DCE17CBB947B23FD28C931",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0129": {
+        "Target": "Взрыв",
+        "Source Text SHA256": "CA6482A42BABCB32DA7B2F35D88BC5007AB31AA551DCE17CBB947B23FD28C931",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0130": {
+        "Target": "Взрыв",
+        "Source Text SHA256": "CA6482A42BABCB32DA7B2F35D88BC5007AB31AA551DCE17CBB947B23FD28C931",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0131": {
+        "Target": "Брррвааа!",
+        "Source Text SHA256": "00E324F087E5258D0B5E3B6EEBFC367FC64DE9F7C50E54D89F030849485EC9BD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0133": {
+        "Target": "Шквал",
+        "Source Text SHA256": "DC91A5BE84FC0542C60C0061D49179B40BCB95EA0DE3EC610B251C1473A01712",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0135": {
+        "Target": "Сканирование",
+        "Source Text SHA256": "EA1C510D1DDB726491A6CB0A66573189C72BF8781322F8ADAED0C0C0C7CEA4AF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0139": {
+        "Target": "Лучевая пушка",
+        "Source Text SHA256": "798B7C8601D8C4FD22263A52E12AFE3CF2C30022A53597D1370A0A2C9BB4D3DF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0146": {
+        "Target": "Аквадыхание",
+        "Source Text SHA256": "4E847BDE5BA2E23FE32309EA31B12EE105AF9118C4ECFA8C6104E2A611D4B7D2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0152": {
+        "Target": "Дурной глаз",
+        "Source Text SHA256": "AC9DA69A1917D34EE812CE871CC0FA55AFF7CE8345D0446EA0F1C0A70B7CD9B0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0153": {
+        "Target": "Ответный разворот",
+        "Source Text SHA256": "2E74C23AF2D7E484E8C149E1777079C3A1F6661128E2CFFFC41BD65DCB9A26B6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0154": {
+        "Target": "Цепная пушка",
+        "Source Text SHA256": "1E18D0010539C62310F9104B880013570DDE41E240E58C8B031FDB11D943259E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0155": {
+        "Target": "Снайперский лазер",
+        "Source Text SHA256": "BCD3CCBF5A7628A207ECC734180209E89D7598E489141F174CFD825FFB0BADD2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0157": {
+        "Target": "Разъедающий пузырь",
+        "Source Text SHA256": "5031B4AA72F44DBF1745DD8224F7FEE5FBE078D44159DC029BA8AC69287A1A60",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0158": {
+        "Target": "Суперрука",
+        "Source Text SHA256": "B335120A37313DCDB7FC2641F051AB0444C00AECCF2A8BC3FD4D445E7D6B66F2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0159": {
+        "Target": "Меч-бумеранг",
+        "Source Text SHA256": "D08E5DACEA86A9F2705FC7CF08B084482328827D2B644D47123093146B061897",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0166": {
+        "Target": "Великий меч",
+        "Source Text SHA256": "60FA541CB04F678D000EA7769CA8DE17A49C1E34364C4FAE25DEA813B50FAEDA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0168": {
+        "Target": "Психический удар",
+        "Source Text SHA256": "89BA206E9C0AE0DF237687E30CD4868DA0BAA97C2D010749D6D8B33706B20A52",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0169": {
+        "Target": "Липкая паутина",
+        "Source Text SHA256": "E205662CCB8C1D61FEC6372D0139320E94822BF9C04A7F71CDDF1E98120B3E4D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0174": {
+        "Target": "Песчаная тряска",
+        "Source Text SHA256": "5233FBD07755A3100147BC4659743B97FFDEC7D6538F6E9FEAF702D55D0C43F8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0175": {
+        "Target": "Слюна",
+        "Source Text SHA256": "F770642561503DB4618B9726B6697277014BB69B9721A3162755B5B128ACE78F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0176": {
+        "Target": "Лазерный луч",
+        "Source Text SHA256": "1BD2AACF02FB7525208245762F6E26553420970F54B3D6AFA4062A89357EA27C",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0177": {
+        "Target": "Отражённый луч",
+        "Source Text SHA256": "17448EDA66CE4FA776CF35985EE308DE4FEE27773A12A58C38B92D4200261CA8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0180": {
+        "Target": "Выстрел маслом",
+        "Source Text SHA256": "D690ECCA83325B05E53DE104B3AAA96AE6ED497157E5FE5E47AF9CB65D9C3D96",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0181": {
+        "Target": "Масляный взрыв",
+        "Source Text SHA256": "EE220D824A887EB037A74315087F239DB1361DC3935D229FA56F2B4790ADDD55",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0182": {
+        "Target": "Звуковая волна",
+        "Source Text SHA256": "0D9D59A2D798F85D77C22883C34AA75E3935EE75A727FEE9276021D8093FFBF3",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0183": {
+        "Target": "Едкая кислота",
+        "Source Text SHA256": "6EB2F31728492BAF4ECD7BAF61212FDD783987C5F0E72B8255BE8F39B9C41F6E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0184": {
+        "Target": "Смрадное дыхание",
+        "Source Text SHA256": "8C027E2948E41E2431EDFDA3715162E64C35EC31366C76A8C96C12076919FD1F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0185": {
+        "Target": "Жуткая звуковая волна",
+        "Source Text SHA256": "33A6D602044752B4FD9C3E2FC80659C85B1EA89281E9C0414AE8E801D72E52A6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0192": {
+        "Target": "Танец очу",
+        "Source Text SHA256": "E92EBFC7E34CC90FF0939A07913548BBD7A485E82DA4F350C8A5603F13EA3A29",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0193": {
+        "Target": "Землетрясение",
+        "Source Text SHA256": "7F65878D43AF16310996EF79311257BAA270193ADC507DB7BB98FCF5CB50F671",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0194": {
+        "Target": "Поглощение магии",
+        "Source Text SHA256": "874D8C8BB9BBF8E17E35564768EE5C875A46FB09E7BC8ADB4F891959F8E5F606",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0199": {
+        "Target": "Таран рогом",
+        "Source Text SHA256": "594017BD5ED14F38144C8AAD7549C6AEEA0F23755EC28B016E00EC2C9805BE42",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0200": {
+        "Target": "Лучевая бомба",
+        "Source Text SHA256": "2AB10691D19FAE444DA851292A8BEADA8BADD112C3DB6F2A7A97A9A0C862EB40",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0201": {
+        "Target": "Миниракеты",
+        "Source Text SHA256": "2C7EB066DB34D53C224067828206DE65F702AC7AE36653EC2711A54D1FB48FDD",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0204": {
+        "Target": "Астральный удар",
+        "Source Text SHA256": "83EDA5DFCC6FE88F582E7A0545FA29F0BA7FFDC4FB3AF9DD041C4043C44EA5BF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0210": {
+        "Target": "Спецудар Райдзина",
+        "Source Text SHA256": "C5FA7816EF3F7FD500BBD81CD943350F9A7519CE30EE03BF3B7F1BB7E49981B9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0213": {
+        "Target": "Коронный приём братьев",
+        "Source Text SHA256": "6FD07E374C93EA661F35B844601410C5B4A7AEF7C94CC66C24D43D112CA57D2A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0214": {
+        "Target": "Дзан",
+        "Source Text SHA256": "2EA011BAE68C8E590B99BD26C3C299C79F5704A0F96A267E9EA35DEFA0934011",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0215": {
+        "Target": "Мэцу",
+        "Source Text SHA256": "2D9D70AFE64A560B9A9B4239081D51701C7F25608529557413CC58DF44E82523",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0216": {
+        "Target": "Сай",
+        "Source Text SHA256": "B6C7E88B41B7646066874FEB220ACAD3212A9D7BC42ECF395B518762211FB70B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0220": {
+        "Target": "Размашистый удар",
+        "Source Text SHA256": "06F212FDDD7E83C61BAA2D21AE368D9F41E041F913C9E2D92B499C2C9EEEFEAA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0222": {
+        "Target": "Поварской нож",
+        "Source Text SHA256": "D8E57CD0E34D54376BB3603A7404EC83A062405BA2768C3B0EE03723415C75B8",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0223": {
+        "Target": "Всеобщая обида",
+        "Source Text SHA256": "F4C8492F09E972EECCEDF0A0EE0C216B25F16377E26E6ACEC44C9355BCAD815B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0226": {
+        "Target": "Топот",
+        "Source Text SHA256": "16D70C1CEA1F424AB9792B4886193E1F95CAB00C1E1AC668252240D8E76441BC",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0227": {
+        "Target": "Остро заточен!",
+        "Source Text SHA256": "7CCEC70A8B75E2618CE26B9C6A36D02E9D99B8823532FC61B2A71C2B692DAC0E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0230": {
+        "Target": "10 000 игл",
+        "Source Text SHA256": "9279777E3E28471475B1ACAA03992656A23065A5E6A8E0A873AE23C5D7551855",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0231": {
+        "Target": "Шлёп!",
+        "Source Text SHA256": "379F3E588C0BB04DCCAA6A185D52961CCCA4AC6533508C5ABD0949E628F45F53",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0233": {
+        "Target": "Дыхание бури",
+        "Source Text SHA256": "C04633F8ABFFB3028D89F0E999A21F5E35B49CE47F888D891CEA426600EAEB7E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0234": {
+        "Target": "Сверхвзрыв",
+        "Source Text SHA256": "0679ACCF45654503440B9D30E04CFE1E5B0587BF48D26D1448ACCDFD0ED58B4E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0235": {
+        "Target": "Смена барьера",
+        "Source Text SHA256": "91725DEEFD20847757E45124D40FB391CE192A342AA6D87B7A82E189AE4DC403",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0242": {
+        "Target": "Призыв молнии",
+        "Source Text SHA256": "F8F2C0CF38895FA9840F6391868EE922D325E46AE82FD0EF5AE9E22809F9FB5B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0243": {
+        "Target": "Смертоносный рог",
+        "Source Text SHA256": "2B3B178C43AAB03E957A2829F736F3C21C179F8306B983EEC18FD056FE427E33",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0257": {
+        "Target": "Гравиджа",
+        "Source Text SHA256": "BAD2B01EF7B23B592A80F9A3AFD125A6C70BDB29B579C544A84EA827D85F3ABF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0261": {
+        "Target": "Призыв фамильяра",
+        "Source Text SHA256": "B6B45AE5B6A580A0957ECCB385E46726796D15ADF4EA01E51DFC13BCEF77E839",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0262": {
+        "Target": "Могущественная защита",
+        "Source Text SHA256": "F5B6DA591CC0B1A332FD19545756F7386085688C111BD6FFA96A14A0A4F70255",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0263": {
+        "Target": "Погибель",
+        "Source Text SHA256": "00A8D2984A2A1839AFB7A62DE7CF12309DA52F29A1934269C5C9FD66DEFE6E59",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0271": {
+        "Target": "Молния I",
+        "Source Text SHA256": "519BCE7BC2DAB47F9794B45E2E2C4F6D63F90D340F44A80F3504D5AD9F82ED9B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0272": {
+        "Target": "Молния II",
+        "Source Text SHA256": "6C728BD7548F5765A2692E00C711F26B633BCEEDCA029E2A59024C0F76FF40F2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0273": {
+        "Target": "Молния III",
+        "Source Text SHA256": "CCBEC7C45206D2F43F5728D899534EC77B16AD443FA0EDB690955E704DC44CE2",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0274": {
+        "Target": "Дзантэцукен",
+        "Source Text SHA256": "6922B5EE0D3F30E1E52E9AA08C31058316363D542EA369C7A76012F06F39CEF7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0276": {
+        "Target": "Белый ветер",
+        "Source Text SHA256": "9A77AF00602B1B5BB9E8A4657026C61D47E52CAC2ED8AE82F8BE7850C81534D4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0280": {
+        "Target": "Заряд",
+        "Source Text SHA256": "FF9F88CE353A222860A9F826971A2B2EE3DA6B06C696D67537285890506D4BDA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0281": {
+        "Target": "Самонаводящийся лазер",
+        "Source Text SHA256": "790553A9B895F9A21917F5FB5250DC51D5055AE284B170F239DC11A4D7137B5A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0282": {
+        "Target": "Самонаводящийся лазер",
+        "Source Text SHA256": "790553A9B895F9A21917F5FB5250DC51D5055AE284B170F239DC11A4D7137B5A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0283": {
+        "Target": "Двойной самонаводящийся лазер",
+        "Source Text SHA256": "A3D35B8F2C078C7A2743A4025BF42546526F65538DC531DF3A6513E6F2DEC04E",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0284": {
+        "Target": "Корона",
+        "Source Text SHA256": "753CDB88284C6A957EBC2028FA7BC3031A992BD7522DB1C400AAACC4180B98BA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0285": {
+        "Target": "Пламя Мегиддо",
+        "Source Text SHA256": "B43E9E0F5610102EAA442A56FE93BE125709062F5924F060FA070DEC66030616",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0292": {
+        "Target": "Мегаимпульсная пушка",
+        "Source Text SHA256": "C88430BDEA44BC021FD88C01B3132412E3E643464BE1CC123830DA59301777EE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0293": {
+        "Target": "Мини-импульсная пушка",
+        "Source Text SHA256": "1EA2F6AF748616462CCCB0349C6F5D023D136565A092FDF2A8A0A9481B8EF3CB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0295": {
+        "Target": "Могущественная защита",
+        "Source Text SHA256": "F5B6DA591CC0B1A332FD19545756F7386085688C111BD6FFA96A14A0A4F70255",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0305": {
+        "Target": "Тёмная вспышка",
+        "Source Text SHA256": "9239DDDB7207070FBC6E06CEC70C2A8C966ADDF60EB1231D3A669592BA2C7570",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0307": {
+        "Target": "Сокрушение души",
+        "Source Text SHA256": "33508478761B684E3D1BC37E216E126C87EFC3ED85BD756F56A434CAAF4A8F66",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0308": {
+        "Target": "Столп света",
+        "Source Text SHA256": "074BF91DD8E57FBA35A88FB4D14C9C2D0BFD1A22AC83BBF8076C63EA7DD3E05F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0309": {
+        "Target": "Гравиджа",
+        "Source Text SHA256": "BAD2B01EF7B23B592A80F9A3AFD125A6C70BDB29B579C544A84EA827D85F3ABF",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0310": {
+        "Target": "Пламя Мегиддо",
+        "Source Text SHA256": "B43E9E0F5610102EAA442A56FE93BE125709062F5924F060FA070DEC66030616",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0311": {
+        "Target": "Раскол земли",
+        "Source Text SHA256": "D4763B3908553E354B2AC592369CBFCD2B4853BABFC2113DC854171A9128386A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0314": {
+        "Target": "Убийственный вихрь",
+        "Source Text SHA256": "C5B6387BE628B34CCD30D7B2D458AED1997C624C8296B70CDF25DDF3C3523F77",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0315": {
+        "Target": "Кровавый пир",
+        "Source Text SHA256": "479C9CBC858EC53E9D4AB486CED73DBA0095EC9DE18DF5FBE7081142E6E4DD68",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0316": {
+        "Target": "Энергобомба",
+        "Source Text SHA256": "46F24C6D09C8915CDE51EFE850D8E2E5923C7D84608C92E31A3898FEBCD4A900",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0329": {
+        "Target": "Дзантэцукен",
+        "Source Text SHA256": "6922B5EE0D3F30E1E52E9AA08C31058316363D542EA369C7A76012F06F39CEF7",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0338": {
+        "Target": "Водоворот",
+        "Source Text SHA256": "F27831E092EF14A254586F3162ECF24C53808756793F497CAA6A84E9FD240BE4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0357": {
+        "Target": "Извлечение Апокалипсиса",
+        "Source Text SHA256": "5DAA7F211DAE7C9C0DC950D0F0A0217742C6555DDA983CA05FCAB335EB01CA26",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0358": {
+        "Target": "Адский суд",
+        "Source Text SHA256": "A46D8FAB12463CC5F5E0E5A2FBA0ADB64F9622F619D84D7F9BEF96E72B9CFF01",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0359": {
+        "Target": "Высасывание",
+        "Source Text SHA256": "795B048BA2164E50AED17F86797F1F03ADD5A66DF9C18B37013058C8C0115749",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0360": {
+        "Target": "Великий аттрактор",
+        "Source Text SHA256": "5D834A7C501AB13406DBACA1D161F004EBB403227863F6C2F238DEB8269E566A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0362": {
+        "Target": "Шоковый импульс",
+        "Source Text SHA256": "F11D735DB3DA66B11A1B5AD7A802AA78F1C4037D5A3DE829819DDA53391D1B74",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0364": {
+        "Target": "Очищение",
+        "Source Text SHA256": "E6D37D3E727C7D3ACD5B16FF126947E7E79191C506F63B607EAADD1A53578B04",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0365": {
+        "Target": "Водоворот",
+        "Source Text SHA256": "F27831E092EF14A254586F3162ECF24C53808756793F497CAA6A84E9FD240BE4",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0369": {
+        "Target": "Вакуумная волна",
+        "Source Text SHA256": "7F2B42A296FBBADCBBC05EF5D38EC5C3464595E7647E3C5C3305F7C4AA798D69",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0373": {
+        "Target": "Апокалипсис",
+        "Source Text SHA256": "952F6866FCDA179F5949780B48F7750EF3B52E55FCA04CF4DEFA183AEF89E80B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0375": {
+        "Target": "Гигантский меч",
+        "Source Text SHA256": "2EDEFD8F8189D50A834FB4D41EA8137CB90B268691ABF1E628F3C53EF5D783E1",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0378": {
+        "Target": "Ультима",
+        "Source Text SHA256": "CB3B8C19297D18918C71B272ED1322F7EC6D1A8C97E704E3FC7EB46370AC3DCE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0379": {
+        "Target": "Святость",
+        "Source Text SHA256": "56EEE6A57925BE9E0E0724C3CFB6D7D72B1FE8CDD680E79A437552FC6F07B7A9",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0380": {
+        "Target": "Землетрясение",
+        "Source Text SHA256": "46DC99ECBADF8EB35F82819E8D6D11B88538FC90EF6C908DB72B711BDE294865",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0381": {
+        "Target": "Торнадо",
+        "Source Text SHA256": "3582D91ACB1D5E8BF692FC192BC4EABC4DBD0A99FEDFC65CECFB99E0C06879BA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0382": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "8728645C5A453BBE235036254F0C9D02D438B1A026E868A6CDEDDFBA9B56D9EE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_enemyattacks_name_0383": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "8D810A42C5F3CC113C43C7D70E6F365455AFFDDB068652FE91F9FEAD367B2ABA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

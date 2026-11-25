@@ -1,0 +1,30 @@
+{
+  "Fields": {
+    "gproof2": {
+      "$en_gproof2_0000": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "532EAABD9574880DBF76B9B8CC00832C20A6EC113D682299550D7A6E0F345E25",
+        "sourceContext": {
+          "Source MSD SHA256": "FF03CBAD0CA15CFD1DD46D16369C3D582F82F3DF6BFB726209DFD433EFD5484B",
+          "JSM SHA256": "AFBC53ADA7C5FA72903CFD100C94270CCF6907C79FAB153F5611AF953EE8F326"
+        }
+      },
+      "$en_gproof2_0001": {
+        "Target": "{X63Y8}〖Точка сохранения〗{Line} Откройте меню и выберите{Line} [Сохранить], чтобы сохранить игру.{End}",
+        "Source Text SHA256": "4F0AFC424BF2942C49656F0E698A468F620B9D18AD46A5F13CC81EED6ED7979D",
+        "sourceContext": {
+          "Source MSD SHA256": "FF03CBAD0CA15CFD1DD46D16369C3D582F82F3DF6BFB726209DFD433EFD5484B",
+          "JSM SHA256": "AFBC53ADA7C5FA72903CFD100C94270CCF6907C79FAB153F5611AF953EE8F326"
+        }
+      },
+      "$en_gproof2_0002": {
+        "Target": "{X30Y8}{Char Rinoa}{Line}Ирвин с остальными справятся.{Line} Пошли. Выход на верхнем этаже.{End}",
+        "Source Text SHA256": "AC14080EBA642D304F7D21A0EA7FBFFFC12F48339A19B5675B306D8D99513282",
+        "sourceContext": {
+          "Source MSD SHA256": "FF03CBAD0CA15CFD1DD46D16369C3D582F82F3DF6BFB726209DFD433EFD5484B",
+          "JSM SHA256": "AFBC53ADA7C5FA72903CFD100C94270CCF6907C79FAB153F5611AF953EE8F326"
+        }
+      }
+    }
+  }
+}

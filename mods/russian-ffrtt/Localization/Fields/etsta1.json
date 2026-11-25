@@ -1,0 +1,622 @@
+{
+  "Fields": {
+    "etsta1": {
+      "$en_etsta1_0000": {
+        "Target": "{X50Y10}Quistis{Line}”Опаздываешь, {Char Squall}.“{End}",
+        "Source Text SHA256": "BB467D6282ABBAEF1880E907B6D2CE1C4EAB09DDAF4B67D55B87FE33F315154E",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0001": {
+        "Target": "{X100Y50}Zell{Line}А принцесса ещё спит?{End}",
+        "Source Text SHA256": "6A6560E07E97ECCFADE673349C40EF104F6B3721DEB024B96AE211960A32F489",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0002": {
+        "Target": "{X50Y10}Quistis{Line}Может она проснулась{Line} бы от поцелуя принца.{End}",
+        "Source Text SHA256": "F2A2DF0DA196BA1C71A2F6B06A8A4A5E0E22FAB076D0D72119A426EFDEAC8191",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0003": {
+        "Target": "{X50Y10}{Char Squall}{Line}И вы за этим сюда пришли?{Line} Чтобы посмеяться надо мной?{End}",
+        "Source Text SHA256": "63401D00742CCB35FD35054106DC39E3CA69809039F72D6B950C9F0D8556F1BB",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0004": {
+        "Target": "{X50Y10}Quistis{Line}Ты идёшь в Эстар, верно? Мы{Line} идём с тобой.{End}",
+        "Source Text SHA256": "2CD14C96DFD430589C43622D8B733F212C37D5ABBD5676F53A99139F8430D6DB",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0005": {
+        "Target": "{X100Y50}Zell{Line}Мы сопровождаем Эдею.{End}",
+        "Source Text SHA256": "A87B4AD8022AEFDE7A1A6688D106F2DECBEA3805F6B5891E66B1639A28EDFADD",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0006": {
+        "Target": "{X50Y10}Sorceress Edea{Line}”Отправимся же в путь, {Char Squall}..“{End}",
+        "Source Text SHA256": "12DC1FE21E0309DF2E78CEEE53D2C8232C372818601E5E95AA80D3439046BBD3",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0007": {
+        "Target": "{X50Y10}Sorceress Edea{Line}Мы отправимся как только будем готовы.{End}",
+        "Source Text SHA256": "FA5EC8844C39DB53B6007E0FF9AB43BCAF488E4242919C7BB6AC0EF6CF34DE5D",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0008": {
+        "Target": "{X50Y10}{Char Squall}{Line}А у вас-то что за дело в Эстаре?{End}",
+        "Source Text SHA256": "EF3798257F8DA2206373E7ABA757A415FE2E9CBB04CB726909F7E93CCBAE2D55",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0009": {
+        "Target": "{X50Y10}Sorceress Edea{Line}Я должна увидеться с доктором Одайном.{End}",
+        "Source Text SHA256": "8FB824EA320CA4B9D00BDE46A467E3410AAF2C8854C340FD4B47424A2204667C",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0010": {
+        "Target": "{X50Y10}Zell{Line}Доктор{Line} Одайн. Знакомое имя, да?{End}",
+        "Source Text SHA256": "012C61C197F7B45C1E52F69BD3C97946CEB2F4846327D230EA25105FA75E5368",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0011": {
+        "Target": "{X150Y10F1L3B0C0}(...Odine?){Line}(Да, припоминаю.){Line}(Нет, не слышал... Расскажи мне){Line}(Неважно.){End}",
+        "Source Text SHA256": "B1502BDFDB09E28B1C29A142340BA868B4FEAD75F7151FF66EF258379D316B2C",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0012": {
+        "Target": "{X50Y10}{Char Squall}{Line}Я помню, но...{Line} зачем он вам нужен?{End}",
+        "Source Text SHA256": "B45D92CD9FA7EF1E53461950BC9CB6870AA4AD2922642C4A1E32374AF3538A16",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0013": {
+        "Target": "{X50Y10}{Char Squall}{Line}Расскажи мне.{End}",
+        "Source Text SHA256": "25F9EAF9439EE83A406B873905E16625FE5307C707AB3D312D13F66E23947FC4",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0014": {
+        "Target": "{X50Y10}Zell{Line}Ты ведь знаешь известную марку «Одайн», верно?{Line} Это всё работа доктора Одайна.{End}",
+        "Source Text SHA256": "E86E71DB60114932AACF7AE0E639113E1B13EE818EBC5854F3389F8A9801FA0B",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0015": {
+        "Target": "{X50Y10}Zell{Line}Когда речь заходит о знаниях, касающихся{Line} волшебниц, он — просто ас...{End}",
+        "Source Text SHA256": "46634A303B812DABFD801A01D09D71CB2992CF91C2A2B3DF4D55523A91B57E35",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0016": {
+        "Target": "{X50Y10}{Char Squall}{Line}...Спасибо.{Line} Итак, зачем вам нужен этот доктор?{End}",
+        "Source Text SHA256": "1004A9FC6470ECB31BF02D4670D35A12645F67F2F3234C8578032AF5FEDA4B34",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0017": {
+        "Target": "{X50Y10}{Char Squall}{Line}... Зачем он вам?{End}",
+        "Source Text SHA256": "9D571D9267E1C8F918EF29227DF53AF7E4F99B81FBAA41D059A1C9BB36D6B626",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0018": {
+        "Target": "{X50Y10}Sorceress Edea{Line}Волшебница Ультимеция всё ещё жива.{Line} Она может завладеть моим телом{Line} в любое{Next}время. Если это{Line} произойдёт... я снова буду тираном.{End}",
+        "Source Text SHA256": "B50A67104DFF28E06A72EFB8859B79E89BA0FAE8199809784E5D4518CAC2C13E",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0019": {
+        "Target": "{X50Y10}Sorceress Edea{Line}Также я ценю своё{Line} здоровье. Я хочу защитить{Next}себя. Я бы{Line} хотела избавиться от силы{Line} волшебницы, если это возможно.{End}",
+        "Source Text SHA256": "8A2EF6CED7FD0B181C94F89ED8BAC0AB7E0AFEE748A9C863C54A849867EEF020",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0020": {
+        "Target": "{X50Y10}Sorceress Edea{Line}Возможно, доктор Одайн знает способ. Может{Next}быть, он сможет меня спасти.{End}",
+        "Source Text SHA256": "BEF49E9E19F7F8478ABE5D8F31160B4C82E4F7901374275B9A2B120EFD8756B9",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0021": {
+        "Target": "{X50Y10}{Char Squall}{Line}...Я понял.{Line} Тогда идем в Эстар.{End}",
+        "Source Text SHA256": "B5E4F9C73E3FD39A4FF324F9E7162E7BB3A35D9821D7FA29E734D380A169AEC1",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0022": {
+        "Target": "{X50Y10}Selphie{Line}”Как оно, {Char Squall}?“{End}",
+        "Source Text SHA256": "F77D21F15444463351F10DAD53C15DEA3610A87A07C490862317E82F44073DDD",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0023": {
+        "Target": "{X50Y10}Selphie{Line}{Char Rinoa} всё ещё спит?{End}",
+        "Source Text SHA256": "A6DD096F931A5FA0228CD2CEDD570119C93905968FCE9DCACAA70B16AD63F30B",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0024": {
+        "Target": "{X50Y10}Selphie{Line}Тсс... Тсс...Тсс... ({Line}{Char Rinoa}такая лапочка, когда спит).{End}",
+        "Source Text SHA256": "F9E73D136800DEF9E600F68C1C2B4D69559D1E71EDD6A8B676D00E528F8588E6",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0025": {
+        "Target": "{X50Y10}{Char Squall}{Line}Не об этом речь. Ну так{Line} что? Мы сможем добраться до Эстара?{End}",
+        "Source Text SHA256": "E8AA10353344F630129EB41C819EE73B1EEFEA9B9535092D6B7D58C96BDD781B",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0026": {
+        "Target": "{X50Y10}Selphie{Line}Ууу! Ты что, краснеешь?!{End}",
+        "Source Text SHA256": "6EC397B56985037FC18CBE38903BBCD2E125B20E172E35423EDAA73C2E0DC588",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0027": {
+        "Target": "{X150Y10}Irvine{Line}Сельфи, не зли {Char Squall} а...{End}",
+        "Source Text SHA256": "F5442FB0583222EC3B5C062D4EE8DF08177B04B4CBFD156BEB34A32E4C104D12",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0028": {
+        "Target": "{X100Y10}Irvine{Line}Эстар на этом континенте, верно? Должно{Line} быть, он огромный... Не{Next}знаю почему, но{Line} похоже он очень хорошо спрятан.{End}",
+        "Source Text SHA256": "A1DC72ED12375EBD88950D4BD28BD59451382AECCCBE2738864D3F9A270D6D18",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0029": {
+        "Target": "{X50Y10}Selphie{Line}На севере и юге ничего не нашли... Тогда{Line} давайте двинем дальше {Color Blue}на{Color White} [восток]!{End}",
+        "Source Text SHA256": "68296D1686FAEE69A8631AE19F830DDBA5725EDAE201327B4E8A24D05473D5A4",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0030": {
+        "Target": "Селфи{Line}«Эге-гей!!!»{End}",
+        "Source Text SHA256": "91A672CD7B0384E02B67FFC9A3078577710F98B7084FDFE43ED545F8CA36B2AD",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0031": {
+        "Target": "{X150Y150}Zell{Line}Эй, они вернулись.{End}",
+        "Source Text SHA256": "CE47F0BED796009E1B76535F8FD6D3B99E1B3A3E213BB6F76BCDEBFAC75F1AB2",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0032": {
+        "Target": "{X50Y10}Quistis{Line}Они должны были разведать дорогу.{End}",
+        "Source Text SHA256": "42A6534019ABE3FACE39EF2CBFE475BCE8A78979164B3BB97BF893C3468891D1",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0033": {
+        "Target": "{X100Y50}Quistis{Line}Мы тоже планируем пойти в Эстар.{End}",
+        "Source Text SHA256": "B3F9AA0648FDD39E251B1ADB5E7EA48B5285559C4302A922F813CBBE3A287BFE",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0034": {
+        "Target": "{X150Y50}Zell{Line}Мы сопровождаем Эдею.{End}",
+        "Source Text SHA256": "A87B4AD8022AEFDE7A1A6688D106F2DECBEA3805F6B5891E66B1639A28EDFADD",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0035": {
+        "Target": "{X100Y50}(Надо спешить в Эстар…){End}",
+        "Source Text SHA256": "68D5B3731CB37F5B45C124BAFF0768A7D710B8681060A33DC1A78069250929FD",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0036": {
+        "Target": "{X100Y10}Пожилой мужчина{Line}«Когда-то это была{Line} станция хоть куда…»{End}",
+        "Source Text SHA256": "5AD47BC5CFA7ED4D2DDD0479B055483E7D7E23BAE85EDD0773D9BE90A7EA5F9B",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0037": {
+        "Target": "{X10Y10F1L2B1C2}«В карты? Хотите сыграть?»{Line}Да{Line}Нет{End}",
+        "Source Text SHA256": "B3BD3EA194D62EA21D2AABB111C2AF46B2851C7220B2A6F2839D94DEAA4583E4",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0038": {
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}по которым здесь не играют.{Line}Как насчёт партии по правилам{Line}Баламба и по нашим?{End}",
+        "Source Text SHA256": "F08C283971A41CAF79CE9735C9A172F1D1F666C1021E283E9DBB97402C664A33",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0039": {
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}по которым здесь не играют.{Line}Как насчёт партии по правилам{Line}Галбадии и по нашим?{End}",
+        "Source Text SHA256": "9A5E9771AC40FE1B3632B024AC0149043E8A8753DC22AE6AFF8B035753CF1802",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0040": {
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}по которым здесь не играют.{Line}Как насчёт партии по правилам{Line}Трабии и по нашим?{End}",
+        "Source Text SHA256": "8204FB81B66006495C5CE8045EC94009949574551F516AECD49701653982CB2E",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0041": {
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}по которым здесь не играют.{Line}Как насчёт партии по правилам{Line}Центры и по нашим?{End}",
+        "Source Text SHA256": "67346EB3593AFDDFC664A5640C92C7B1B418BAE14CEC334E00C6888BFB244585",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0042": {
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}по которым здесь не играют.{Line}Как насчёт партии по правилам{Line}Доллета и по нашим?{End}",
+        "Source Text SHA256": "F9FE15E184A80F26223BCC6C2CE630896EA7A42FD1EA735632799E9AACBF620C",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0043": {
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}по которым здесь не играют.{Line}Как насчёт партии по правилам{Line}Рыбацкого Горизонта и по нашим?{End}",
+        "Source Text SHA256": "7C4E46BA78A080C5A2DBBD8216DC71AE47D52D3C0258158106B28DDEE13F0D7F",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0044": {
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}по которым здесь не играют.{Line}Как насчёт партии по правилам{Line}Лунной базы и по нашим?{End}",
+        "Source Text SHA256": "2C4245AE132C32F7FDB6C1ED10173CA1C6A90CB8334AE339247CCA45D70E40ED",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0045": {
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}по которым здесь не играют.{Line}Как насчёт партии по правилам{Line}Эстара и по нашим?{End}",
+        "Source Text SHA256": "644B2CB1173E0B06A10F3CD1F210F949CB64B57E14F1ABD7CD8BB0ACDC6FBDEC",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0046": {
+        "Target": "{X10Y10}Для игры нужно{Line}не меньше пяти карт.{End}",
+        "Source Text SHA256": "DF7629554EC91F238FF4EF13B271E6AA9D1BED70C2016BAEAC18F31BDFAE43C2",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0047": {
+        "Target": "Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0047_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0047_ctx_8fa474f114aa44a3": {
+        "Target": "{X60Y10}Правило {Color Blue}«В открытую»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "538755C37B727A4061DF0D409617F0AA552AFC6BF9B0548EA2C553292A014FA6",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0048": {
+        "Target": "Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0048_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0048_ctx_e81b5a822fbd1eee": {
+        "Target": "{X59Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "A4B62A56C47CFE2A816B40E9A14288FAC066A35869DE73F6CE9C5B8EFBB7040E",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0049": {
+        "Target": "Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0049_ctx_6435e47f79d3a935": {
+        "Target": "{X62Y10}Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0049_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Сложение»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "99053271BE3F53A5C5AF14869D0A5A0652038EC08124A4D8D509489179A972D4",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0050": {
+        "Target": "Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0050_ctx_48730159ffbb3b33": {
+        "Target": "{X52Y10}Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0050_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Случайные»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "ED06DECC16684AE3698F18C37159B29415FD18AAD3EC4ECC40866CB5279DA438",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0051": {
+        "Target": "Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0051_ctx_03d56bd6bcca6621": {
+        "Target": "{X33Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0051_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "CD9365FD172C064014D1703F921D549E2F143AC57BE6972846B648B8A3D740E6",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0052": {
+        "Target": "{X10Y10}Правило {Color Blue}«Повтор»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "27F5EA3ED3DDBED688BAFCBA189BEB532704BB572AE5E55AC21C8C9C712A4C6D",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0053": {
+        "Target": "Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0053_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0053_ctx_ebda62a7b0f16c14": {
+        "Target": "{X45Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "39D27916F416144583F99C6870F8CC0625B2EDB53A4C22552D32DC3F7A7EB995",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0054": {
+        "Target": "Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0054_ctx_705d088c51ef6ed2": {
+        "Target": "{X10Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0054_ctx_b1cffef320ce6ec2": {
+        "Target": "{X46Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}распространилось по региону.{End}",
+        "Source Text SHA256": "8F1FC0FB2395C0FEFB790DD7374143776189C270B015947AF6752458C43237A7",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0055": {
+        "Target": "{X53Y10}Правило {Color Blue}«В открытую»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "22612FDC6019CBC8851539452C6A11A6097CA410C18DC53903AC0AEF7D838AAA",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0056": {
+        "Target": "{X52Y10}Правило {Color Blue}«Одинаковые»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "C1809B73CE7E836C0B5CAC0C8A7EC37C1790B162B04AA2125CB197943232CA98",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0057": {
+        "Target": "{X55Y10}Правило {Color Blue}«Сложение»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "1F99F0610FA109B50642AB488B55150F86C784FDEAF1DB1056CD0494E35A1DE8",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0058": {
+        "Target": "{X45Y10}Правило {Color Blue}«Случайные»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "3AFAED5589FD968192415F75A4D88FE5F6BCD44174FF6BD2B4744764DA542DB2",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0059": {
+        "Target": "{X26Y10}Правило {Color Blue}«Внезапная смерть»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "8BF4D5A8E32A8E9C6AF41A2AC92D0C5DF549EB0A858A7CEA85D7B76AC28F3985",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0060": {
+        "Target": "Правило {Color Blue}«Повтор»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "4C886F6EBB1978C5FD24E60284987C38E14BA3644AACD9D16E9A810B7770F240",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0061": {
+        "Target": "{X38Y10}Правило {Color Blue}«Та же стена»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "5DBEF5CD0A47E1C3155072F63319748969F0D53C2A5086E3DD4FE843748613F9",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      },
+      "$en_etsta1_0062": {
+        "Target": "{X39Y10}Правило {Color Blue}«Стихийное поле»{Color White}{Line}отменено в этом регионе.{End}",
+        "Source Text SHA256": "57BC2E6EE4E0D5127C4EC59413E1CD1F1E7FDE39EA84376DFC5BC9C52E5A5C62",
+        "sourceContext": {
+          "Source MSD SHA256": "A20E058066D762DB77A9FFFFCF157247FFCE0E2611174E37F3ABC31E55EDBA98",
+          "JSM SHA256": "565CE828052F7DA8CA812033D0741FA6450B6FEE04DE5A29C335C788E7627EC3"
+        }
+      }
+    }
+  }
+}

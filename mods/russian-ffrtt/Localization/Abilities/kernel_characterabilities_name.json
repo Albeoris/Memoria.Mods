@@ -1,0 +1,146 @@
+{
+  "Abilities": {
+    "kernel_characterabilities_name": {
+      "$en_kernel_characterabilities_name_0000": {
+        "Target": "Грабёж",
+        "Source Text SHA256": "C173B5B549480C7BCABFF299BA1A3C9C1C4A1192704177C7ADDB58A455F18C8F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0001": {
+        "Target": "Медицинские знания",
+        "Source Text SHA256": "7AB1F05DF915E8EEC21648A2E4D636B4056E2E418C5D2AAF057A00605F3EE23F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0002": {
+        "Target": "Контратака",
+        "Source Text SHA256": "A78CFDF4ACFC294235D591AEB71A207048D6733D3019B68D69647B8C55D45D33",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0003": {
+        "Target": "Шипы",
+        "Source Text SHA256": "A7F4EAC225BF11EBD65AFC2B6103ABC3AE72309DB5AC9F7958573BAD6212EAD5",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0004": {
+        "Target": "Прикрытие",
+        "Source Text SHA256": "FA8D84566676EE2EE6627116304E7EEF7C9B06875D230435A4B23264FCC34F98",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0005": {
+        "Target": "Инициатива",
+        "Source Text SHA256": "3E687DE48A6AD4E5CDE7376AE2E49C1F6D3E3D2EE31FFE168ED065A10A9F91BE",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0006": {
+        "Target": "Самоисцеление",
+        "Source Text SHA256": "6FB65FE4BE6B858D98B3FF844949B666935FEA518E82F8BE86CDCC9DFA927451",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0007": {
+        "Target": "ЖЗ-Бонус",
+        "Source Text SHA256": "755D79CEAB84E726660E44CE8958F65C9830B6280399C9CA273AA96D368B37C6",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0008": {
+        "Target": "Сил-Бонус",
+        "Source Text SHA256": "31058A9BB8D533285BD5937240603E7C998BB9501DE0791AD72684483A8D9C4F",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0009": {
+        "Target": "Вын-Бонус",
+        "Source Text SHA256": "22C3FEF75971CBD1C9129014DA800C5848165E8529B30FDE56ECCD943D926707",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0010": {
+        "Target": "Маг-Бонус",
+        "Source Text SHA256": "259710CE7F7C6E130B2B4DE6D46A330FC9A43052355F6C312AF5A42BBDC09EBB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0011": {
+        "Target": "Дух-Бонус",
+        "Source Text SHA256": "786FCF883172D10E42D9558FDC679888A9364EF51E3E877131074366DFD8137D",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0012": {
+        "Target": "Авто-Защита",
+        "Source Text SHA256": "8E6ED11302A311481A60CA2FA96DBDD6D8A402B8C673B70398C39428E2979160",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0013": {
+        "Target": "Авто-Оболочка",
+        "Source Text SHA256": "36DF77039D582EA8968129F81574D2702F0BFCD660E9C5FD8533FC399E77AD10",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0014": {
+        "Target": "Авто-Отражение",
+        "Source Text SHA256": "49F065C8B4DEA36D5B0D2C5458B1E1B80261119EE87164ED04D0A9525AEBE15B",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0015": {
+        "Target": "Авто-Ускорение",
+        "Source Text SHA256": "713309D44F68063697311740CE4AD4D6F8A51B68A37A1E09409FE1A7BA5D56CB",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0016": {
+        "Target": "Авто-Лекарство",
+        "Source Text SHA256": "2D83388230A66E6473A89E61B0ED594BBF0E1BF5EB3033E805955282F71BA388",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0017": {
+        "Target": "Расход 2:1",
+        "Source Text SHA256": "F4D3076DDCF24602797DB787D9BB211C8CB880DB8936195DFC5DCEE104A565B0",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0018": {
+        "Target": "Расход 3:1",
+        "Source Text SHA256": "E14A0F1CFDB6D50ECBDE7BD4A6B490438A0A1DE6E240657EC9D36E9735A97BCA",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      },
+      "$en_kernel_characterabilities_name_0019": {
+        "Target": "Лента",
+        "Source Text SHA256": "ED5A4BA1C163CDDDD7224F24A64A7A97EEB373B483978397C5216740ECD3C31A",
+        "sourceContext": {
+          "Source SHA256": "6A9E9AA4B99B98AEC966D42537E9E119BF1BC1AF668CE8B791E7EAD00934397B"
+        }
+      }
+    }
+  }
+}

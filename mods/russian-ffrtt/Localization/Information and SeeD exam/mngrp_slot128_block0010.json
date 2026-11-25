@@ -1,0 +1,20 @@
+{
+  "Information and SeeD exam": {
+    "mngrp_slot128_block0010": {
+      "$en_mngrp_slot128_block0010_0000": {
+        "Target": "Привязка к атаке состоянием",
+        "Source Text SHA256": "1A186E198EC17D0B68A3ACC28864B17907E8F205F77B275053CC8380807549AC",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot128_block0010_0001": {
+        "Target": "Привязка магии к атаке состоянием.{Line}Привязать можно только магию, меняющую{Line}состояние цели.{Line}После привязки команда {Color Blue}Атака{Color White} может менять{Line}состояние цели.{Line}Показатель выражен в процентах{Line}до 100%.{Line}Шанс наложить состояние зависит{Line}от защиты противника.",
+        "Source Text SHA256": "A3D4DC144328E7D250300A82ACFB80585B87E237A64C3B0BD6A2184670A3A583",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}

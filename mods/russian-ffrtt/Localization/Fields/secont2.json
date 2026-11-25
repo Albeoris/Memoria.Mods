@@ -1,0 +1,46 @@
+{
+  "Fields": {
+    "secont2": {
+      "$en_secont2_0000": {
+        "Target": "{X150Y150}White SeeD Leader{Line}Но вскоре мы столкнулись{Line} с гальбадианским флотом.{End}",
+        "Source Text SHA256": "B2D7F4AB9CB7FC83CE307232E434E4BF47AC4F6404E4437D1689F86B0F746057",
+        "sourceContext": {
+          "Source MSD SHA256": "292150DF54110F984F65F085AD21CD8F29D8A3473E759A9733DA2038FCEEDABC",
+          "JSM SHA256": "A9DF0A040E7C786F7AC8679CDA567126C5FC0582028F012BDB3C73E6F094F5BA"
+        }
+      },
+      "$en_secont2_0001": {
+        "Target": "{X150Y150}White SeeD Leader{Line}У них было очень много кораблей.{Line} Очевидно, они искали нас.{End}",
+        "Source Text SHA256": "EAB2B70ECF966D8B7AE8B4B296CA758F24F64577BAAFCC02EAEB3EB318A20C89",
+        "sourceContext": {
+          "Source MSD SHA256": "292150DF54110F984F65F085AD21CD8F29D8A3473E759A9733DA2038FCEEDABC",
+          "JSM SHA256": "A9DF0A040E7C786F7AC8679CDA567126C5FC0582028F012BDB3C73E6F094F5BA"
+        }
+      },
+      "$en_secont2_0002": {
+        "Target": "{X150Y150}White SeeD Leader{Line}Нам следовало быть осторожнее. Они{Line} преследовали нас на полной скорости.{End}",
+        "Source Text SHA256": "120FE84A24AA089250A882E49B7B5E628211F3D23233A20FC5DD51361B1CFD54",
+        "sourceContext": {
+          "Source MSD SHA256": "292150DF54110F984F65F085AD21CD8F29D8A3473E759A9733DA2038FCEEDABC",
+          "JSM SHA256": "A9DF0A040E7C786F7AC8679CDA567126C5FC0582028F012BDB3C73E6F094F5BA"
+        }
+      },
+      "$en_secont2_0003": {
+        "Target": "{X150Y150}White SeeD Leader{Line}К счастью, нам удалось уйти, но наш{Line} корабль был задет и нас выбросило на берег.{End}",
+        "Source Text SHA256": "F2C163C64983CEDBDAE200FAC4DA09F0502ECDFC0700BA1CD6D34A257374B3AC",
+        "sourceContext": {
+          "Source MSD SHA256": "292150DF54110F984F65F085AD21CD8F29D8A3473E759A9733DA2038FCEEDABC",
+          "JSM SHA256": "A9DF0A040E7C786F7AC8679CDA567126C5FC0582028F012BDB3C73E6F094F5BA"
+        }
+      },
+      "$en_secont2_0004": {
+        "Target": "{Invalid}{End}",
+        "Source Text SHA256": "873D439458AEFF38C9648E8B34089559640AB4D69685D80F7D539FCD780596A8",
+        "sourceContext": {
+          "Source MSD SHA256": "292150DF54110F984F65F085AD21CD8F29D8A3473E759A9733DA2038FCEEDABC",
+          "JSM SHA256": "A9DF0A040E7C786F7AC8679CDA567126C5FC0582028F012BDB3C73E6F094F5BA"
+        }
+      }
+    }
+  }
+}

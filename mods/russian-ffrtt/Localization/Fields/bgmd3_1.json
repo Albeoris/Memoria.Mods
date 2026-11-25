@@ -1,0 +1,22 @@
+{
+  "Fields": {
+    "bgmd3_1": {
+      "$en_bgmd3_1_0000": {
+        "Target": "{X12Y12}{Char Squall}{Line}«Надо торопиться.{Line} Они могут появиться в любую минуту».{End}",
+        "Source Text SHA256": "67A0E61BBF5984E242B5C077AA7A189653CF3EDD8CE1F6F63FDC27F4604CBF82",
+        "sourceContext": {
+          "Source MSD SHA256": "F12757282B0FCB718822C8BE9451FFE40D60F1895BAFDC814DE3CE76DE126449",
+          "JSM SHA256": "637ED8D67C5DCD6F1259CE66E2C0A499583552BB09CDDE4A469668C10D3E1C58"
+        }
+      },
+      "$en_bgmd3_1_0001": {
+        "Target": "{X63Y8}〖Точка сохранения〗{Line} Открой меню и выбери{Line}[Сохранить].{End}",
+        "Source Text SHA256": "4F0AFC424BF2942C49656F0E698A468F620B9D18AD46A5F13CC81EED6ED7979D",
+        "sourceContext": {
+          "Source MSD SHA256": "F12757282B0FCB718822C8BE9451FFE40D60F1895BAFDC814DE3CE76DE126449",
+          "JSM SHA256": "637ED8D67C5DCD6F1259CE66E2C0A499583552BB09CDDE4A469668C10D3E1C58"
+        }
+      }
+    }
+  }
+}

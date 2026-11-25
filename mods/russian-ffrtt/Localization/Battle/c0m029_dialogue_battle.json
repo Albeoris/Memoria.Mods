@@ -1,0 +1,34 @@
+{
+  "Battle": {
+    "c0m029_dialogue_battle": {
+      "$en_c0m029_dialogue_battle_0000": {
+        "Target": "Смена формы: обычная защита",
+        "Source Text SHA256": "0A3C4902667A5269C4988B2AC564E8ADE0F75AD20C743FBD2F7158F4043DEB2B",
+        "sourceContext": {
+          "Source SHA256": "3671B0AA04E624B596F8690A69F71389CF0DCA4D0D1B71AE769DA186E169B7AF"
+        }
+      },
+      "$en_c0m029_dialogue_battle_0001": {
+        "Target": "Смена формы: полная защита",
+        "Source Text SHA256": "C99C0F7F94F3450029C713865CF20056AFD3621E7DDB73B381E264C3A14E2C5F",
+        "sourceContext": {
+          "Source SHA256": "3671B0AA04E624B596F8690A69F71389CF0DCA4D0D1B71AE769DA186E169B7AF"
+        }
+      },
+      "$en_c0m029_dialogue_battle_0002": {
+        "Target": "Смена формы: защита от магии",
+        "Source Text SHA256": "27865D1764F673E6E93237D203201224197A58BDEC5B67AE227E3E1D2A986245",
+        "sourceContext": {
+          "Source SHA256": "3671B0AA04E624B596F8690A69F71389CF0DCA4D0D1B71AE769DA186E169B7AF"
+        }
+      },
+      "$en_c0m029_dialogue_battle_0003": {
+        "Target": "Смена формы: защита от физических атак",
+        "Source Text SHA256": "7BFAC8DDC384D59C2271E3F9EC17F080E2C851B844BF5F6AFC5B7AA7D6B3C201",
+        "sourceContext": {
+          "Source SHA256": "3671B0AA04E624B596F8690A69F71389CF0DCA4D0D1B71AE769DA186E169B7AF"
+        }
+      }
+    }
+  }
+}

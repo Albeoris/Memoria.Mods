@@ -1,0 +1,405 @@
+{
+  "Cards": {
+    "named_texts_cards": {
+      "$en_named_texts_cards_0000": {
+        "Target": "{Line}",
+        "Source Text SHA256": "E4D4A23D399D19FD46B16E953C85D6F1F6FD66105A48D34507DEDC445493CA41",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0001": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0002": {
+        "Target": "Вы уверены?{Line}Да{Line}Нет",
+        "Source Text SHA256": "C88E470D7335C686F519B072BFBDD8B6CC444094714319A21EB06B299EF00B5C",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0003": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0004": {
+        "Target": "Выберите ",
+        "Source Text SHA256": "1F7133C21072A138CF98E3807F772C2CBDA4A229952B12361BACC2CC1C932572",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0005": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0006": {
+        "Target": " карт(у)",
+        "Source Text SHA256": "12AA3735B64BE341AB785CA5A1F6FF2591F6758DADCA7EF4971B38BE0F993E95",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0007": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0008": {
+        "Target": " — карта получена",
+        "Source Text SHA256": "FDE12CB59AF3A58010269E213F4E6EE0714436C9B982BFE853FE6DB21850E99F",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0009": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0010": {
+        "Target": " — карта потеряна",
+        "Source Text SHA256": "CE54EDC72B8EB23F7A475D051286D3ADB3299E52E65F0D93184342EFBF946C5E",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0011": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0012": {
+        "Target": "Сыграть ещё?{Line}Да{Line}Нет",
+        "Source Text SHA256": "AAACB78F475E36A4CCC0DD4B65C54FA2927988B26E014A2D4D66D9B649ECC44C",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0013": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0014": {
+        "Target": "Правила: ",
+        "Source Text SHA256": "7130CA446C720622617535DDB89F35C6830CDCC4C2E2DCF75456C4558A533096",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0015": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0016": {
+        "Target": "· ",
+        "Source Text SHA256": "6E01F78B9EB4142B2250529D32D3B4CB697E9921020F2990CB90BE577AC396C1",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0017": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0018": {
+        "Target": "/",
+        "Source Text SHA256": "8A5EDAB282632443219E051E4ADE2D1D5BBC671C781051BF1437897CBDFEA0F1",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0019": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0020": {
+        "Target": "Ari",
+        "Source Text SHA256": "F6302850CCFA2B3410F301E45AC13AA78A0E1E871F4B1F2C96DB9CC803A87EA1",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0021": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0022": {
+        "Target": "{Line}· В открытую",
+        "Source Text SHA256": "86E1E4B25FD81C801B6A36A00746B13BA4B90BAD84C34EC3A85D36878787CAB4",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0023": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0024": {
+        "Target": "{Line}· Случайные",
+        "Source Text SHA256": "86D8E03412D8BAAD06A7FD468AB5045F37C17B3353E066F860D56BFCF59CF695",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0025": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0026": {
+        "Target": "{Line}· Внезапная смерть",
+        "Source Text SHA256": "F43D51548460F15D7848793E22AE9823B2F96C6781FFEF564BB03714F54C6BD4",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0027": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0028": {
+        "Target": "Одинаковые",
+        "Source Text SHA256": "2A98B1DEB68C7223D1367AD0671045F6835D960785AA24EBF18A69D64900CD42",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0029": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0030": {
+        "Target": "Сложение",
+        "Source Text SHA256": "8A7843789F8D740A31D34A22D8BD67368041E0B12698DB0D8BB0B7D3E365BC71",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0031": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0032": {
+        "Target": "Та же стена",
+        "Source Text SHA256": "8E94B559FC965B536C769264E48AEEEBDB423036CCF00683431C3EEA26477362",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0033": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0034": {
+        "Target": "{Line}· Стихийное поле",
+        "Source Text SHA256": "1DC06E18A76CBEC6AA5532408994371BEF2EDEE263B11726E019B7F51F1DAFB9",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0035": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0036": {
+        "Target": "{Line}· Правило обмена: ",
+        "Source Text SHA256": "89255511245579A83FBD75ECABB24514F4B1D9A36EC749930E28CF902273C6B4",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0037": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0038": {
+        "Target": "Null",
+        "Source Text SHA256": "FA1D2DB62D4D952E2031452E1BC1DDCAD0B192C2E29A706F11CE426AE5ACDDEA",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0039": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0040": {
+        "Target": "Одна",
+        "Source Text SHA256": "8B12507783D5BECACBF2EBE5B01A60024D8728A8F86DCC818BCE699E8B3320BC",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0041": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0042": {
+        "Target": "Разница",
+        "Source Text SHA256": "7ECF46284588F3FA7E31A578AC1658008C3850EDCE919D21858A3EE6D2E03FDC",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0043": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0044": {
+        "Target": "Напрямую",
+        "Source Text SHA256": "002C7C68468B4F550FBAA7FB8588155C58F8B5760FDE69B3FE1773AE2A197BA2",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0045": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0046": {
+        "Target": "Все",
+        "Source Text SHA256": "A52ACE420F2175D08B1577A1BEA5445E36801229C074EF9ED6C55A73401FD9C2",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0047": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0048": {
+        "Target": "{Line}Играть{Line}Выйти",
+        "Source Text SHA256": "5DF9B56EBCD585E8CF332A434BAAEE623363D81031FEC6C439CCCAD601AE52CE",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0049": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0050": {
+        "Target": "Израсходовано",
+        "Source Text SHA256": "CC2A6D1C6F5AE15BF0EDA7FB63712EDD099F0767DBA1BCA2443E8A2C5BD826C9",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0051": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0052": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0053": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0054": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0055": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      },
+      "$en_named_texts_cards_0056": {
+        "Target": "{Invalid}",
+        "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+        "sourceContext": {
+          "Source SHA256": "1FD8C8E5FEB52E6A8A8D2E998CC08EDFC3C4AF6A7B473C7DF90F9994C5D202D2"
+        }
+      }
+    }
+  }
+}

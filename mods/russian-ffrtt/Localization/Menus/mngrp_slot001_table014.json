@@ -1,0 +1,401 @@
+{
+  "Menus": {
+    "mngrp_slot001_table014": {
+      "$en_mngrp_slot001_table014_0000": {
+        "Target": "Проверка «Мира чокобо»",
+        "Source Text SHA256": "92A0F519A87D556314B312013BA8B01FB1992E5CCEA31A5CD1856280595836F9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0002": {
+        "Target": "«Мир чокобо» не загружен.{Line}Загрузить? (Нужно 7 ячеек.)",
+        "Source Text SHA256": "AB6286C116AC437F24F5B1FFDF342868644B1AB4D47247D2F2BD53F4B3A2F385",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0004": {
+        "Target": "«Мир чокобо» не загружен.{Line}Для загрузки нет 7 свободных ячеек.",
+        "Source Text SHA256": "868B7F93A89307724CD9F9A51217C548E54DDD6839FEEB8EE771A626B45108DD",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0006": {
+        "Target": "В этом меню не извлекайте «Мир чокобо»,{Line}не отключайте геймпад{Line}и не открывайте крышку дисковода.",
+        "Source Text SHA256": "2FAF2F7976CD419DCC3CA56733E74AAD10BF5C7F6C97F979E6BAC3DAFE93BA36",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0008": {
+        "Target": "Запущена другая игра.{Line}Выйдите из неё.",
+        "Source Text SHA256": "74BC6A6E0967BE7C5EAF435FFDBDF006C61D55F02A726166C5CF31ED68C5CAF8",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0010": {
+        "Target": "Нужно запустить{Line}«Мир чокобо».{Line}Запустить?",
+        "Source Text SHA256": "055ED23950E539D4406B9916EB8717671A61BFFD778257F5C046045032F82ED8",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0012": {
+        "Target": "Нет места для загрузки «Мира чокобо».",
+        "Source Text SHA256": "15D7576FBE27899F6C77F9C6F4394A2A6EC2D7F81334954659321B5085F2D7EE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0014": {
+        "Target": "Не удалось загрузить",
+        "Source Text SHA256": "C63B1ED3B767563D09C525B69385F1C54290AC20768974D725F5A88B2FC4753D",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0016": {
+        "Target": "«Мир чокобо» в слоте 1{Line}не отформатирован.{Line}Отформатировать «Мир чокобо»{Line}в слоте 1?",
+        "Source Text SHA256": "A58839CFFFC4B6F10BFACE16A1D0A6E2B34A7D185CF3FA0F462799832EC37B98",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0018": {
+        "Target": "«Мир чокобо» в слоте 2{Line}не отформатирован.{Line}Отформатировать «Мир чокобо»{Line}в слоте 2?",
+        "Source Text SHA256": "261BCDB8BE63C46D138864735932C792D4BF1E1F71B5DDB35DD9324741A7985A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0020": {
+        "Target": "Не удалось прочитать «Мир чокобо»",
+        "Source Text SHA256": "97F1D010E74E2681736B093B192F3A1A860AD9C91381221DB5924AB30AC58FFB",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0022": {
+        "Target": "Обмен данными с «Миром чокобо».{Line}Не извлекайте карту памяти из слотов 1 или 2{Line}и не открывайте крышку дисковода.",
+        "Source Text SHA256": "2C402486E9EBB8238EB4B2BF7B61DE75EC05BD2D317075D4650E2FA6FF54BDD9",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0024": {
+        "Target": "Не удалось обменяться данными с «Миром чокобо»",
+        "Source Text SHA256": "1276F8A6F393A0CD36A23F0A7AFB727C302C83AEE2B406EDE3C28124048E5A71",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0026": {
+        "Target": "Мир",
+        "Source Text SHA256": "78AE647DC5544D227130A0682A51E30BC7777FBB6D8A8F17007463A3ECD1D524",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0027": {
+        "Target": "Отправить Чикобо в «Мир чокобо»",
+        "Source Text SHA256": "53229CB84849966CEF6A4FAA73D13DBABA4D0625B0817E63A08A97CE53BC1491",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0028": {
+        "Target": "Домой",
+        "Source Text SHA256": "3A78695388B38B5CCEEFAF6796B0137877514593543B91AF2752D5A17E3D736C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0029": {
+        "Target": "Вернуть Чикобо в FFVIII",
+        "Source Text SHA256": "ED060F251390282A2C2DD1360B1D285EAAECDBCD64E784738502E52BF57C497A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0030": {
+        "Target": "Начать заново",
+        "Source Text SHA256": "D4E5B7E57CADB03E764C3517CADAADD24AC0B9516A8D23B3477E7376ED33F68A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0031": {
+        "Target": "Начать заново с новым Чикобо",
+        "Source Text SHA256": "90BCD8EB66442B1A363D3FFDD4F3ED778E58C7766B195F19AACEC9EE7DAFFE4F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0032": {
+        "Target": "Как играть",
+        "Source Text SHA256": "3BD5547E9467A382417C5CDD194A4E147BB3BBB631A6E3A45BD54C79D735BF62",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0033": {
+        "Target": "Как играть в «Мир чокобо»",
+        "Source Text SHA256": "706CF4C2240705C007E42AAE236E39D464DA2FD491A85BA61BB35B41B95C2F29",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0036": {
+        "Target": "Получены следующие предметы",
+        "Source Text SHA256": "502DED5929C3ECBFBC5383389404B496B4D7540E9309B27CEDE5214AC3802936",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0038": {
+        "Target": "Не удалось запустить «Мир чокобо»",
+        "Source Text SHA256": "B575BD6A2902D2026CCED15870D6E76CDE1B3C15D498A1667716A40C108257C2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0040": {
+        "Target": "Загрузка «Мира чокобо»",
+        "Source Text SHA256": "6B7D52D74F58355F3D9592997E4796F420B6FB22387A44E1543497CA5510D71F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0042": {
+        "Target": "В «Мире чокобо» уже есть Чикобо",
+        "Source Text SHA256": "5F1A33D6AD7B2B5469784B68871C73CE543FB7F03FC9DA707FCCA05444AC529A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0044": {
+        "Target": "Чикобо, гуляющий по «Миру»,{Line}не сможет вернуться «Домой».{Line}Продолжить?",
+        "Source Text SHA256": "024779DECE07FEDE7193605A75D3AD9F6566362B79BA4C27016954DE62385DAF",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0046": {
+        "Target": "Чикобо будет удалён{Line}из «Мира чокобо».{Line}Продолжить?",
+        "Source Text SHA256": "2C0E8F19150712E9ED6A3FE18F324FF17EAE679A92CB9FD03713E7B09DA5412A",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0048": {
+        "Target": "Это Чикобо из другого сохранения.{Line}Он не может вернуться «Домой».",
+        "Source Text SHA256": "61A8AECEE9F9724A8A7510135C06D6091A6627EE17108F2776AD7EDACD1FB06E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0050": {
+        "Target": "Предметов не было",
+        "Source Text SHA256": "ABAF5327B48308D65B94FBEE835D9371FE72379D214ACD7C8724F83224618EF2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0052": {
+        "Target": "Загрузка завершена. {Key Confirm} — открыть меню.",
+        "Source Text SHA256": "04EDE2415370B77AC37A0F80667F01B56CBA0D55A7B0548516141DDF07CCFF9F",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0054": {
+        "Target": "«Мир чокобо»{Line}загружен с ошибкой.{Line}Загрузить снова?",
+        "Source Text SHA256": "A4860E143AE174A8D48D5BAA37655111DA8FB119C97BAC3E447B854AF29D9A5E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0056": {
+        "Target": "Автономная RPG",
+        "Source Text SHA256": "EC4CE5511A131F10ED95B3D46C94EBF2B6905285D17C1792F449541517FDB340",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0057": {
+        "Target": "Описание автономной RPG",
+        "Source Text SHA256": "D52C7BBEA7B3C70107FD546D38283AF7ED616377DB1FA8DE10772FF4AC56825E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0058": {
+        "Target": "Управление",
+        "Source Text SHA256": "0F044FEB6CA7D6764650E6B800425A84B5EA518D6F531EE92C3995D6C3ECA11E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0059": {
+        "Target": "Описание кнопок управления",
+        "Source Text SHA256": "189CCA0ED169BC9047E52D376184D064AD02D06E5F36D9E53E161F9D7C07CA27",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0060": {
+        "Target": "Ходьба",
+        "Source Text SHA256": "1DABD5131FA6E9E494FD7D94EE736C931A09CC5ECECF5FF66E3368635041F1BE",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0061": {
+        "Target": "Описание экрана ходьбы",
+        "Source Text SHA256": "D9E5E8FDFCAE1AA19D70F958B84CD071C5859BF49B2419CBF8B7B9F4C064F4DC",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0062": {
+        "Target": "Событие",
+        "Source Text SHA256": "4E1F49A9C8AE8A158434E647C0C410352D718984A4FCD144D26CCA3C394CAA02",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0063": {
+        "Target": "Описание экрана события",
+        "Source Text SHA256": "406CBEB1D5A14989AAD97559762CEA9362AC1C9E0A6F4CA05E7DEECC26C31683",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0064": {
+        "Target": "Бой",
+        "Source Text SHA256": "1B18EBBC3F490C845C2EBECA8853FCC82DAEFC66068EB984A445F8B1B7068438",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0065": {
+        "Target": "Описание боя",
+        "Source Text SHA256": "A10DE686BF006D547C226F630BAFE7146FC4172403556318CFBC61DA6C4358D3",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0066": {
+        "Target": "Карта/Передвижение",
+        "Source Text SHA256": "516E3761DB9FF6346A6D047C8C34BA00FCF578342FADF982E42B6FE4445ECB07",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0067": {
+        "Target": "Описание карты и передвижения",
+        "Source Text SHA256": "6BDC858DE6633B55264E6FE762ECB47CF52DF7AF6DC389D0AF4BA1B9B8A50822",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0068": {
+        "Target": "Состояние",
+        "Source Text SHA256": "920E413C7D411B61EF3E8C63B1CB6AD058D5F95F8B481DBAFE60248387D8C355",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0069": {
+        "Target": "Описание состояния",
+        "Source Text SHA256": "D18FE78181643C5C7521D87A771A70BD69113916C79C16FA420F58D4431CA96E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0070": {
+        "Target": "Связь",
+        "Source Text SHA256": "43B981C9C6D5738B6EF3A550280E73438EE7B048A299E868DCCB4699A8E2064E",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0071": {
+        "Target": "Описание игры по связи",
+        "Source Text SHA256": "70BFCFF4D95D369235B5F2F7B6290A752BFD46C9086D42FEE55B9876BE942BC2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0072": {
+        "Target": "Меню",
+        "Source Text SHA256": "99AF6606FF9D6CD5154D4D4E9C21E325086D3E904677CDB41D363C8A3480F862",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0073": {
+        "Target": "Описание меню",
+        "Source Text SHA256": "7C26D55F06910B37B673A61883A3BD86CA205CBF15547AFE01D9DA13FDA53415",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0074": {
+        "Target": "{Key LeftKey}/{Key RightKey} — листать, {Key Cancel} — вернуться в меню",
+        "Edition Targets": {
+          "Classic:en": "{Key LeftKey}/{Key RightKey} — листать, {Key Menu} — вернуться в меню"
+        },
+        "Source Text SHA256": "4C16871C13516D5FE03CAF4FF0342B6655F0FDF6B10F41570F79501DB4E8EF68",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0078": {
+        "Target": "Мог",
+        "Source Text SHA256": "71DE676BCB9DAB99B38E353C0D90ECCF9E6B7000EC15B521A6E4904828F3F85C",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0080": {
+        "Target": "ID",
+        "Source Text SHA256": "3843971DCFDEE5083E6289E1BBDBB003E538B5A8A668FC43AE4F19D415AC18A2",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0082": {
+        "Target": "ОРУЖИЕ",
+        "Source Text SHA256": "306874E8EE5490B8EED928E2CFDD04116C3CE5562258152FCF65AB028B828612",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0084": {
+        "Target": "Не удалось отформатировать «Мир чокобо»",
+        "Source Text SHA256": "61786BD384D4ED471CAE042E8A12A0244F8300ABA6C64C4BFB0C5303ACCEECF4",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0086": {
+        "Target": "{Glyph 204}{Glyph 205}{Glyph 206}{Glyph 207}{Glyph 208}{Glyph 209}{Glyph 210}1",
+        "Source Text SHA256": "732C237854541293CED8084FDA16091700803B1E1D12451BA3987B6EEA9B8303",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      },
+      "$en_mngrp_slot001_table014_0088": {
+        "Target": "{Glyph 204}{Glyph 205}{Glyph 206}{Glyph 207}{Glyph 208}{Glyph 209}{Glyph 210}2",
+        "Source Text SHA256": "DE25D25A53C411486826FC370EB066B4E6D12C66A0E76E2EFE6959AF7C9FD463",
+        "sourceContext": {
+          "Source SHA256": "F858B885733F866A79C57B41B36E3444DE49282789054A188F40480767BA0418"
+        }
+      }
+    }
+  }
+}
