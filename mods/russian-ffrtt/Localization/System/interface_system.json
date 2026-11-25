@@ -3065,6 +3065,234 @@
         "Target": "Открепить при оптимизации характеристик",
         "Source Text SHA256": "3151B9C88767D3ED5949334F1458A4F9E5C0211FD21BE9CD7F5AFA4D4A2C5D76"
       },
+      "$en_interface_system_language.applied": {
+        "Target": "Язык изменён.",
+        "Source Text SHA256": "0AEBB5AEBA125B2F62335ABA2CBC4CF117E8AF49C0961D10853CF42E20DEF982"
+      },
+      "$en_interface_system_language.apply": {
+        "Target": "Применить",
+        "Source Text SHA256": "31E392D1C0378BECA611DE66C0F4C71CBA29159905CC54242D9BDDEE5B23D851"
+      },
+      "$en_interface_system_language.applying": {
+        "Target": "Подготовка языковых ресурсов…",
+        "Source Text SHA256": "3F446C71F4FA223888DB1377AE1F01F78E5A4571B9936B0AAFFA42108749B9DC"
+      },
+      "$en_interface_system_language.applying-selection": {
+        "Target": "Применение языка…",
+        "Source Text SHA256": "18169D6B82B317CD575007A821B4CAEBB7FA05C8C982B63212470C3AE03B13F0"
+      },
+      "$en_interface_system_language.base": {
+        "Target": "Исходные ресурсы: {0} · {1}",
+        "Source Text SHA256": "251736556EA107BD5DCB0E8CC5756F3317F080001DFF9DC019E07CC47A56D251"
+      },
+      "$en_interface_system_language.cancel": {
+        "Target": "Отмена",
+        "Source Text SHA256": "19766ED6CCB2F4A32778EED80D1928D2C87A18D7C275CCB163EC6709D3EB2E27"
+      },
+      "$en_interface_system_language.cancel-progress": {
+        "Target": "Отменить смену языка.",
+        "Source Text SHA256": "99098C48A52CDFACC684B4F8FFBD4433D0D85EBFB5C3C28E4678F4F6589244F3"
+      },
+      "$en_interface_system_language.cancelled": {
+        "Target": "Смена языка отменена.",
+        "Source Text SHA256": "34EA41ADFD78CCAEC106BF9F22E650AEAD7F2CD40835DE628F559EB2686A9F74"
+      },
+      "$en_interface_system_language.cancelling": {
+        "Target": "Отмена…",
+        "Source Text SHA256": "91B104DB05DA1B2D48C57A5AA60128F660E6572F89835EC858F6EB25B8F4AF0F"
+      },
+      "$en_interface_system_language.change-failed": {
+        "Target": "Не удалось сменить язык.",
+        "Source Text SHA256": "4B2C408C7A64EF430DDA161A301DC6C783C4BF418D37EBDA70A25E2786ED435C"
+      },
+      "$en_interface_system_language.changing": {
+        "Target": "Смена языка",
+        "Source Text SHA256": "B83068C20548459ED2A5AABF525AE6CF64E3FD4B42BB9DDACDE6D61B5E74E2DD"
+      },
+      "$en_interface_system_language.collapse": {
+        "Target": "Скрыть издания",
+        "Source Text SHA256": "6321F6478E0004292E7EAB37129186AEEBA0B590DF8889AC4F88037D14158EBD"
+      },
+      "$en_interface_system_language.confirm": {
+        "Target": "Применить это издание?",
+        "Source Text SHA256": "BE4A168466D8E35D3802971EE556967AC98C0F4328EE1B558A99CBC84415B17A"
+      },
+      "$en_interface_system_language.current-package": {
+        "Target": "Пакет: {0}",
+        "Source Text SHA256": "059C9A2ECFC6BADD2D79C3929EBF1F133BD4D86E32B2575948CA86EC0357710C"
+      },
+      "$en_interface_system_language.download": {
+        "Target": "Скачать",
+        "Source Text SHA256": "D6EAFE82359100423C93C5CE53C352C1B51CA1E699215FCEC3F5C5DD9BF12D24"
+      },
+      "$en_interface_system_language.download-apply": {
+        "Target": "Скачать и применить",
+        "Source Text SHA256": "8578F9DBFBC7CA0E7698EB566B77080212B9DEE503CAFCADFB0257D36593A1E9"
+      },
+      "$en_interface_system_language.download-progress": {
+        "Target": "{0:N1} / {1:N1} МиБ · {2:P1}",
+        "Source Text SHA256": "00592AC843C0A121A5BDCFFEAC2303807B9DB751328DCB604BF56EC761E370AB"
+      },
+      "$en_interface_system_language.download-received": {
+        "Target": "Получено {0:N1} МиБ",
+        "Source Text SHA256": "B3217CB7020A172869026B34CF9D76F903BE22883E8F7CEF04C77432C8AB667D"
+      },
+      "$en_interface_system_language.download-size": {
+        "Target": "Размер загрузки: {0}",
+        "Source Text SHA256": "CE69D31CE32A74146BBA15BA79A6514A94FBDF9D18D536095C45B5233FE32D34"
+      },
+      "$en_interface_system_language.downloading": {
+        "Target": "Загрузка языковых пакетов…",
+        "Source Text SHA256": "10DF9A85B5402FFE38FFD958D32FD61FF931229394A7789747A57D5B6D45D0FA"
+      },
+      "$en_interface_system_language.edition-classic": {
+        "Target": "Классическое издание",
+        "Source Text SHA256": "AE25D6481FC1741FFEE4A95CD05DE7B6375F7E1B0C63C006640B366094F2C4A9"
+      },
+      "$en_interface_system_language.edition-remastered": {
+        "Target": "Обновлённое издание",
+        "Source Text SHA256": "C33267F03C2C9B0EBA57CC291603E28890CFB8D2812A418185DCE082865CD53E"
+      },
+      "$en_interface_system_language.expand": {
+        "Target": "Показать издания",
+        "Source Text SHA256": "70241406F9EA294360A7CB1EFC8B130AFA112D781ACF0D1C6EE8F0823BBCBEF5"
+      },
+      "$en_interface_system_language.help": {
+        "Target": "Выберите язык, чтобы увидеть доступные издания.",
+        "Source Text SHA256": "B0FF5E0A523BEC239744FDACCCBAADC0CE25D3D72ABDEA75D5B1AFEA8F20E812"
+      },
+      "$en_interface_system_language.installed": {
+        "Target": "Установлено",
+        "Source Text SHA256": "F8B32F4E92BD84CE1FCD177BEC17D43093DE3EE8303BB40C1B9EA521ED6A70F6"
+      },
+      "$en_interface_system_language.installing": {
+        "Target": "Установка языкового пакета…",
+        "Source Text SHA256": "D3B194603177EA8BB81591E9D92C584770E247BA7D21BEB28A43CD3D9F96C4F7"
+      },
+      "$en_interface_system_language.junction-base": {
+        "Target": "Для пакетов Junction требуются данные английской версии Classic.",
+        "Source Text SHA256": "3EF29262859CCEF736FF7915F382EED7D7692A7140C6FA47472BFABE29AF36A9"
+      },
+      "$en_interface_system_language.missing-dependencies": {
+        "Target": "Необходимые языковые пакеты отсутствуют или несовместимы.",
+        "Source Text SHA256": "7FA8F8D12EF892DA9ACF9FEDF23B177D3188E297ECD414245AAB807525870A04"
+      },
+      "$en_interface_system_language.missing-option": {
+        "Target": "Установленный пакет не поддерживает этот язык.",
+        "Source Text SHA256": "AFAC66B5316A440383D349617C31C5C381BAD7C7860A43AA2CCB197E7EECC11B"
+      },
+      "$en_interface_system_language.native-base-or": {
+        "Target": "{0} или {1}",
+        "Source Text SHA256": "E30BE14FC899BD65D7D8C3041A8D92D44FA853C2E47AC2D81B93FD524333CF5B"
+      },
+      "$en_interface_system_language.offer": {
+        "Target": "Включить язык интерфейса системы?",
+        "Source Text SHA256": "55E0A462B296B7F295B50B251FCA2728D62E0A9E4920F7873528BD53A57F6656"
+      },
+      "$en_interface_system_language.offer.decline": {
+        "Target": "Оставить текущий язык",
+        "Source Text SHA256": "0541BDA9500086E91489728789D7E8107CBA7F54A072F50D74B2A8E710BFB732"
+      },
+      "$en_interface_system_language.offer.help": {
+        "Target": "Есть совместимые издания для языка «{0}».",
+        "Source Text SHA256": "5F29FED419CA934EEE69BAC4EE689EE76B28C765FB65C00C0630314930D6C60A"
+      },
+      "$en_interface_system_language.offer.view": {
+        "Target": "Посмотреть издания",
+        "Source Text SHA256": "B0654480C52ED12604BA0DD0C284878B089491606AC922DDF9CDC760BC474B07"
+      },
+      "$en_interface_system_language.original": {
+        "Target": "Оригинальная игра",
+        "Source Text SHA256": "FF368B4849738C2C2A97460AAFB80D7C60B0E0AC6EB476A83208E2CFB48D365D"
+      },
+      "$en_interface_system_language.package-name.russian-ffrtt-opening": {
+        "Target": "Вступительный ролик FFRTT",
+        "Source Text SHA256": "2D8A378348CD00D58C7296ECD5A4361459F742139689DFA1AB9A22AA5B003FC6"
+      },
+      "$en_interface_system_language.provider-ilp-retranslation": {
+        "Target": "Перевод ILP",
+        "Source Text SHA256": "FA1FAE6649854367FD1DAC9FAAD1C2A1D1457125AD3D5A96B359F17F86E0C8B6"
+      },
+      "$en_interface_system_language.provider-succession": {
+        "Target": "Succession (новая версия сюжета)",
+        "Source Text SHA256": "23F2DAF323D7CA577CFA8B46914F1E2D60267A18B71ED8BE2F2874BE92519AD0"
+      },
+      "$en_interface_system_language.refresh": {
+        "Target": "Обновить каталог языков",
+        "Source Text SHA256": "E58FD1140CD3BB3581623C861E5540617FABEB13A7A42ADAE847075FA0A94EBB"
+      },
+      "$en_interface_system_language.refreshing": {
+        "Target": "Обновление каталога языков…",
+        "Source Text SHA256": "44AD45889A4B61E0DC63E2AFC974117EF3517C8556E9D6112FE68016FC2F81CC"
+      },
+      "$en_interface_system_language.remove": {
+        "Target": "Удалить установленный пакет",
+        "Source Text SHA256": "BBEE19756BC9BC69CC2F5C7BBE9E322217686D82D85F5F047BC868CF437EE915"
+      },
+      "$en_interface_system_language.remove-confirm": {
+        "Target": "Удалить этот языковой пакет?",
+        "Source Text SHA256": "F04303AF24190A6F982B574F4BE35E30873949CFEB8CABF3FDCAC67CD533446A"
+      },
+      "$en_interface_system_language.remove-failed": {
+        "Target": "Не удалось удалить языковой пакет.",
+        "Source Text SHA256": "4740A193768999B20788BCEBD6717F4C84762D5E8FE092897C06307F87B2ABF5"
+      },
+      "$en_interface_system_language.requires-engine-version": {
+        "Target": "Требуется Memoria {0} или новее.",
+        "Source Text SHA256": "5F9D93E8A33A3F0B099280A6D49E229E3B9C2086950C1525A6DB6281B6DC9AB5"
+      },
+      "$en_interface_system_language.requires-native-base": {
+        "Target": "Требуются исходные игровые данные ({0}).",
+        "Source Text SHA256": "0402FDE786BA501F1B7AB9FECC76634908C5AEC8A97BE0927BCF6DAC0C9ECEDD"
+      },
+      "$en_interface_system_language.selected": {
+        "Target": "Текущий выбор",
+        "Source Text SHA256": "2996521868ED41F25A3F3B6662DCCD08DE0E1DF2A323FF2FB56B4EB83AED005F"
+      },
+      "$en_interface_system_language.source-installed-game": {
+        "Target": "Установленная игра",
+        "Source Text SHA256": "ACA85A63E71A1C51450093A192A55F8252DB6777ABE6766DA06F300AED53BA21"
+      },
+      "$en_interface_system_language.source-installed-mod": {
+        "Target": "Установленный мод",
+        "Source Text SHA256": "6E2F28D2581468FA0DF2608DB07A32AFCABE1654A82A9A5E71858DC27EFCB883"
+      },
+      "$en_interface_system_language.title-only": {
+        "Target": "Вернитесь на титульный экран, чтобы применить языковое издание.",
+        "Source Text SHA256": "23289637D1ABF50F82022BC677FF5DC10B4B5833AAE78E54DF826CB059CF569A"
+      },
+      "$en_interface_system_language.unknown-engine-version": {
+        "Target": "Версия установленного движка Memoria неизвестна.",
+        "Source Text SHA256": "07C605D0A134777B316CBC10612B87B77E20FADFDACB910299055BE713044A70"
+      },
+      "$en_interface_system_language.unknown-size": {
+        "Target": "Неизвестен",
+        "Source Text SHA256": "B764CDC0EAB7137467211272FA539F1260D1BF2E71BCF6FF3BDC960F5C16AA14"
+      },
+      "$en_interface_system_language.unreviewed-mapping": {
+        "Target": "Связь загружаемого пакета с этим языком не подтверждена.",
+        "Source Text SHA256": "8A32DA1ACFAEC3591A444189D5474578E5FFDDB1148D71C1F9B7F065CFBB8581"
+      },
+      "$en_interface_system_language.unsupported-base": {
+        "Target": "У этого перевода нет поддерживаемой версии исходных ресурсов.",
+        "Source Text SHA256": "04178F9E3DA9577B0D861101D32AF3880D3497B96E88F525DA87B1006CB0D55D"
+      },
+      "$en_interface_system_language.update": {
+        "Target": "Обновить и применить",
+        "Source Text SHA256": "F2107B65C508C098E088B9CE0FA1F45A68C1F6F9F562D7EA520E9A0693BEECFF"
+      },
+      "$en_interface_system_language.update-available": {
+        "Target": "Доступно обновление",
+        "Source Text SHA256": "FF8B555D818F0B25BBDD1BEC8B479660BAC7FC276ACBE993E759BF67FED32C34"
+      },
+      "$en_interface_system_language.update-confirm": {
+        "Target": "Обновить это издание?",
+        "Source Text SHA256": "84E4E8EB91A96D2CDD56F5A4FFC648961CDB7543F956E65B81CA4B02533074F0"
+      },
+      "$en_interface_system_language.verifying": {
+        "Target": "Проверка языкового пакета…",
+        "Source Text SHA256": "9A51195F52087D1B799AB7D4FDBDBA1259204AA47660BF57E330F9FA90D4A90A"
+      },
       "$en_interface_system_limit.option.available": {
         "Target": "Доступно",
         "Source Text SHA256": "E674447337E83C1346F6122ED69F35BF5526E2A11842B2F2B788F3FB67D714CA"
@@ -7001,9 +7229,17 @@
         "Target": "Продолжить",
         "Source Text SHA256": "31FBEF162594DE01BAB0CD525C51F74DE7BCB15063029FA1A54B2CF5944C80D8"
       },
+      "$en_interface_system_title.language": {
+        "Target": "Язык",
+        "Source Text SHA256": "A4FE65264EF7DBB38D104B1E81EB3350F3142F3D16F32BDEC39B1D9B42C1B8D1"
+      },
       "$en_interface_system_title.new-game": {
         "Target": "НОВАЯ ИГРА",
         "Source Text SHA256": "F5615C7FE53EDD3416A7ACDBA8BA8576C9EAF1136FAD92E6F1640274A9E83A5F"
+      },
+      "$en_interface_system_title.wordmark": {
+        "Target": "ПОСЛЕДНЯЯ ФАНТАЗИЯ VIII",
+        "Source Text SHA256": "E54DC4EDC97DD6A9E38C769C499C5B2BF1167AF8D7E24015F4548D011E8A9D65"
       },
       "$en_interface_system_tutorial.angelo.complete": {
         "Target": "Готово",

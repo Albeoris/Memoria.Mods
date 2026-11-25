@@ -12,9 +12,9 @@
     "releaseNotes": "Boost costs 200 AP and has a localized description. FFVIII summons are limited to 9,999 damage until their GF learns Boost."
   },
   "russian-ffrtt": {
-    "version": "3.20.0",
-    "engineVersionRange": "[0.8.16,)",
-    "releaseNotes": "FFRTT Russian localization 3.20 for English Classic and Remastered installations. Installs the adapted opening movie with its camera and Russian subtitles as a required companion package."
+    "version": "3.20.1",
+    "engineVersionRange": "[0.8.17,)",
+    "releaseNotes": "Adds Russian text for the title screen and the language menu, including download and installation progress. Requires the adapted opening movie and its matching camera."
   },
   "russian-ffrtt-opening": {
     "version": "1.0.0",
