@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceId": "memoria-official",
-  "revision": 4,
-  "publishedAt": "2026-11-25T11:08:01Z",
+  "revision": 5,
+  "publishedAt": "2026-11-26T22:56:53Z",
   "components": [
     {
       "id": "russian-ffrtt",
@@ -43,15 +43,15 @@
         }
       ],
       "latest": {
-        "version": "3.20.2",
+        "version": "3.20.3",
         "engineVersionRange": "[0.9.13,)",
-        "releaseTag": "russian-ffrtt-v3.20.2",
-        "releaseNotes": "Corrects speaker names, dialogue punctuation, line breaks and choice text in the FFRTT Russian translation. Memoria 0.9.13 adds native icon support for the world-map draw point prompt. Uses the existing opening movie and camera package.",
+        "releaseTag": "russian-ffrtt-v3.20.3",
+        "releaseNotes": "Standardizes the names Зелл and Сельфи in Russian dialogue. Requires Memoria FFVIII 0.9.13 or later. Uses the existing opening movie and camera package.",
         "artifact": {
-          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-v3.20.2/russian-ffrtt-3.20.2.zip",
-          "size": 3360978,
-          "unpackedSize": 16541590,
-          "sha256": "bba12fb12170d4a1eee092ab9f056a8f82a55162593962d2ef424b10f0bd2cae"
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-v3.20.3/russian-ffrtt-3.20.3.zip",
+          "size": 3360960,
+          "unpackedSize": 16541603,
+          "sha256": "c903e436e2798403a1d8f8a0deb0c4f0e5a309a200f6d66314f8d23370226979"
         }
       },
       "dependencies": [
