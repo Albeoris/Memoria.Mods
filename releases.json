@@ -12,9 +12,9 @@
     "releaseNotes": "Boost costs 200 AP and has a localized description. FFVIII summons are limited to 9,999 damage until their GF learns Boost."
   },
   "russian-ffrtt": {
-    "version": "3.20.2",
+    "version": "3.20.3",
     "engineVersionRange": "[0.9.13,)",
-    "releaseNotes": "Corrects speaker names, dialogue punctuation, line breaks and choice text in the FFRTT Russian translation. Memoria 0.9.13 adds native icon support for the world-map draw point prompt. Uses the existing opening movie and camera package."
+    "releaseNotes": "Standardizes the names Зелл and Сельфи in Russian dialogue. Requires Memoria FFVIII 0.9.13 or later. Uses the existing opening movie and camera package."
   },
   "russian-ffrtt-opening": {
     "version": "1.0.0",
