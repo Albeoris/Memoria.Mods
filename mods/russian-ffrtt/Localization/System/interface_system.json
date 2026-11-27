@@ -10077,6 +10077,10 @@
         "Target": "Недоступно",
         "Source Text SHA256": "CA184496974204A0BD3FD4925E0540BC4B0DF6FCC232994D29754272B7183812"
       },
+      "$en_interface_system_ui.list.page-indicator": {
+        "Target": "Стр. {0} / {1}",
+        "Source Text SHA256": "B84C36B4871D0B402C19E93D657281CF84DE391F2B690E42126064BA5C42B0FB"
+      },
       "$en_interface_system_ui.localizationdatasets.entry.help.available.dataset": {
         "Target": "Доступные данные.",
         "Source Text SHA256": "FD5B42F99D900DB1A2237D410E7D7A7744BE1CA75DD72B740AB9B9951FC2FBFE"
@@ -10828,6 +10832,10 @@
       "$en_interface_system_ui.register.details.choose.a.target.for.the.fixture.action.preview": {
         "Target": "Укажите цель для предпросмотра тестового действия.",
         "Source Text SHA256": "97941863386613FFA9C2E7B2F4AD9DF5042F1578911F32415595E0FE674F94F1"
+      },
+      "$en_interface_system_ui.register.details.choose.an.ability": {
+        "Target": "Выберите способность.",
+        "Source Text SHA256": "6FE9279604D093BDD734678A3CE02F6B79A0A13049FFA71E6FD68D210F87E87B"
       },
       "$en_interface_system_ui.register.details.choose.an.ability.learning.target.in.learn": {
         "Target": "В разделе «Изучить» выберите способность для изучения.",
