@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceId": "memoria-official",
-  "revision": 6,
-  "publishedAt": "2026-11-27T10:21:54Z",
+  "revision": 7,
+  "publishedAt": "2026-11-27T21:10:45Z",
   "components": [
     {
       "id": "russian-ffrtt",
@@ -43,15 +43,15 @@
         }
       ],
       "latest": {
-        "version": "3.20.4",
-        "engineVersionRange": "[0.9.13,)",
-        "releaseTag": "russian-ffrtt-v3.20.4",
-        "releaseNotes": "Integrates reviewed FF8RU dialogue, corrects dialogue page breaks, and increases the opening subtitle size and feathering. Requires Memoria FFVIII 0.9.13 or later.",
+        "version": "3.20.5",
+        "engineVersionRange": "[0.9.18,)",
+        "releaseTag": "russian-ffrtt-v3.20.5",
+        "releaseNotes": "Localizes the ability menu prompt and page indicator. Memoria FFVIII 0.9.18 displays the existing Russian refinement ability names and descriptions throughout the menu.",
         "artifact": {
-          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-v3.20.4/russian-ffrtt-3.20.4.zip",
-          "size": 3362000,
-          "unpackedSize": 16565948,
-          "sha256": "a4e9dfceeaa765af54d9bd9320a262f20012cbfe8839a6d261b692bc1406022e"
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-v3.20.5/russian-ffrtt-3.20.5.zip",
+          "size": 3362115,
+          "unpackedSize": 16566386,
+          "sha256": "469628e11f5ecbe79d062c54ed31440cf132c6f3abbed940280420a77d420b40"
         }
       },
       "dependencies": [
