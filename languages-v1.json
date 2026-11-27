@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceId": "memoria-official",
-  "revision": 5,
-  "publishedAt": "2026-11-26T22:56:53Z",
+  "revision": 6,
+  "publishedAt": "2026-11-27T10:21:54Z",
   "components": [
     {
       "id": "russian-ffrtt",
@@ -43,15 +43,15 @@
         }
       ],
       "latest": {
-        "version": "3.20.3",
+        "version": "3.20.4",
         "engineVersionRange": "[0.9.13,)",
-        "releaseTag": "russian-ffrtt-v3.20.3",
-        "releaseNotes": "Standardizes the names Зелл and Сельфи in Russian dialogue. Requires Memoria FFVIII 0.9.13 or later. Uses the existing opening movie and camera package.",
+        "releaseTag": "russian-ffrtt-v3.20.4",
+        "releaseNotes": "Integrates reviewed FF8RU dialogue, corrects dialogue page breaks, and increases the opening subtitle size and feathering. Requires Memoria FFVIII 0.9.13 or later.",
         "artifact": {
-          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-v3.20.3/russian-ffrtt-3.20.3.zip",
-          "size": 3360960,
-          "unpackedSize": 16541603,
-          "sha256": "c903e436e2798403a1d8f8a0deb0c4f0e5a309a200f6d66314f8d23370226979"
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-v3.20.4/russian-ffrtt-3.20.4.zip",
+          "size": 3362000,
+          "unpackedSize": 16565948,
+          "sha256": "a4e9dfceeaa765af54d9bd9320a262f20012cbfe8839a6d261b692bc1406022e"
         }
       },
       "dependencies": [
