@@ -2,7 +2,7 @@
   "Fields": {
     "bgroad_3": {
       "$en_bgroad_3_0000": {
-        "Target": "{X20Y8}{Char Quistis}{Line}«{Char Squall}, мне просто интересно...{Line} Ты уже дрался с Ти-Рексом{Line} в тренировочном центре?»{End}",
+        "Target": "{X20Y8}{Char Quistis}{Line}«{Char Squall}, мне просто интересно... Ты{Line}уже дрался с Ти-Рексом в тренировочном{Line}центре?»{End}",
         "Source Text SHA256": "8E675D1644B1B2036F4878D0C34CDD17CC794BA64C587A7D9E3A22D8DF3B69B0",
         "sourceContext": {
           "Source MSD SHA256": "79EDE569E6403BCD8E6F46C9EF7478775A3F2C270FC66F8DBB04307A56D601D9",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bgroad_3_0002": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Давай рассмотрим{Line} изменения {Color Blue}{Color White}{Next}Статуса в{Line} Руководстве!»{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Его легко можно победить с помощью{Line}привязки {Color Blue}〖состояния к атаке〗{Color White}».{Next}«Почитай о состояниях в руководстве».{End}",
         "Source Text SHA256": "407672ACCF66D00ACB7FFC044A950696E2D5EB68F9942AEF7B62CBDC5D1FE666",
         "sourceContext": {
           "Source MSD SHA256": "79EDE569E6403BCD8E6F46C9EF7478775A3F2C270FC66F8DBB04307A56D601D9",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bgroad_3_0003": {
-        "Target": "{X20Y8}{Char Quistis}{Line}«Ну?»{Next}«Используй сонную атаку против Ти-Рекса. Просто{Line} свяжи „Сон“ со своей атакой состоянием{Line} и затем атакуй».{End}",
+        "Target": "{X20Y8}{Char Quistis}{Line}«Вопросы есть?»{Next}«Привяжи ‘Сон’ к атаке, и он ничего не{Line}сможет тебе сделать!»{End}",
         "Source Text SHA256": "C65DF4BE5A22CF22312C023F0507C7930B091BAB4AF76B158B021C9B550B4A34",
         "sourceContext": {
           "Source MSD SHA256": "79EDE569E6403BCD8E6F46C9EF7478775A3F2C270FC66F8DBB04307A56D601D9",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgroad_3_0004": {
-        "Target": "{X30Y8}{Char Quistis}{Line}«Давай, пойдём в „тайное место“.{Line} Оно находится внутри тренировочного центра».{End}",
+        "Target": "{X30Y8}{Char Quistis}{Line}«А теперь — в „тайное место“!»{End}",
         "Source Text SHA256": "ED20E5A9D8E82EC8F4CD4D728DB8CA37C7BEEF41715A5642CF939F0E398A2CF9",
         "sourceContext": {
           "Source MSD SHA256": "79EDE569E6403BCD8E6F46C9EF7478775A3F2C270FC66F8DBB04307A56D601D9",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgroad_3_0007": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«…»{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«......»{End}",
         "Source Text SHA256": "A62966A2914461CCEBD25BAD0FCF2E874A5678A3BF8677E716C8506FB1327256",
         "sourceContext": {
           "Source MSD SHA256": "79EDE569E6403BCD8E6F46C9EF7478775A3F2C270FC66F8DBB04307A56D601D9",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgroad_3_0008": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Ты меня не слушал?»{Next}«Я же просила тебя{Line} переодеться…»{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Ты меня слушал?»{Next}«Я же просила тебя переодеться...»{End}",
         "Source Text SHA256": "731323376F2376F73FEA01997B485AD8C525B29DAB156968A2C49BBF833F0BD4",
         "sourceContext": {
           "Source MSD SHA256": "79EDE569E6403BCD8E6F46C9EF7478775A3F2C270FC66F8DBB04307A56D601D9",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgroad_3_0009": {
-        "Target": "{X20Y8}{Char Quistis}{Line}«{Char Squall}.{Line}Не все могут{Line} жить сами по себе, понимаешь?»{End}",
+        "Target": "{X20Y8}{Char Quistis}{Line}«{Char Squall}, не все могут жить сами по{Line}себе».{End}",
         "Source Text SHA256": "C4806C6E0769491D337215000A6CE0DA7838F2F6C08FAD3FC7A70EA76EEE0417",
         "sourceContext": {
           "Source MSD SHA256": "79EDE569E6403BCD8E6F46C9EF7478775A3F2C270FC66F8DBB04307A56D601D9",

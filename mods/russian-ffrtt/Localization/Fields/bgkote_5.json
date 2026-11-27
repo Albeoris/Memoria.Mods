@@ -58,7 +58,7 @@
         }
       },
       "$en_bgkote_5_0007": {
-        "Target": "{X10Y10}{Char Zell}{Line}«О!.. Да, меня разбудило т-твоё объявление.{Line} У меня{Next}чётный студенческий номер, так{Line} что я должен быть здесь, верно?»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«О!.. Да, меня разбудило т-твоё объявление.{Next}У меня чётный студенческий номер, так{Line} что я должен быть здесь, верно?»{End}",
         "Source Text SHA256": "7030B00785E55796D40E4BE8E7449C916FFA606A19B631F522ADF1AA523EDB8C",
         "sourceContext": {
           "Source MSD SHA256": "8A368D5181495F5FA67A8CE18742B5441F1853311DD78F364C7B62813401B874",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgkote_5_0012": {
-        "Target": "{X10Y10}{Char Zell}{Line}«Дашь мне своё кольцо, а?{Line} Я просто хочу одолжить его ненадолго. Я{Next}не потеряю его или чего-то{Line} ещё. Ну, что скажешь?»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Дашь мне своё кольцо, а?{Line} Я просто хочу одолжить его ненадолго.{Next}Я не потеряю его или чего-то{Line} ещё. Ну, что скажешь?»{End}",
         "Source Text SHA256": "1B3F0E5E111B223B59B12C1148ED7C3D4E3EE14189C53E2BBE7E8917F365CA52",
         "sourceContext": {
           "Source MSD SHA256": "8A368D5181495F5FA67A8CE18742B5441F1853311DD78F364C7B62813401B874",
@@ -234,7 +234,7 @@
         }
       },
       "$en_bgkote_5_0029": {
-        "Target": "{X67Y10}{Char Rinoa}{Line}«Ребята, я тоже буду сражаться.{Line} Я не хочу просто прятаться. Я{Next}знаю, я смогу драться.{Line} Я хочу сражаться бок о бок с вами».{End}",
+        "Target": "{X67Y10}{Char Rinoa}{Line}«Ребята, я тоже буду сражаться.{Line} Я не хочу просто прятаться.{Next}Я знаю, я смогу драться.{Line} Я хочу сражаться бок о бок с вами».{End}",
         "Source Text SHA256": "67B7397F76B9EFB3749C1EC9FC5631A23D06960DCB2350AAA1FE41C511090FD8",
         "sourceContext": {
           "Source MSD SHA256": "8A368D5181495F5FA67A8CE18742B5441F1853311DD78F364C7B62813401B874",
@@ -282,7 +282,7 @@
         }
       },
       "$en_bgkote_5_0035": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«Чёрт подери (присвистывает), да они{Line} могут запросто здесь{Next}пройти. Полагаю, мы должны{Line} остановить их здесь».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Чёрт подери (присвистывает), да они{Line} могут запросто здесь пройти.{Next}Полагаю, мы должны{Line} остановить их здесь».{End}",
         "Source Text SHA256": "E9E1B5775375F18C29F38FFFB443C5B02DEFACE037A8DD579392E4A75EDB7889",
         "sourceContext": {
           "Source MSD SHA256": "8A368D5181495F5FA67A8CE18742B5441F1853311DD78F364C7B62813401B874",
@@ -330,7 +330,7 @@
         }
       },
       "$en_bgkote_5_0041": {
-        "Target": "{X10Y10}{Char Zell}{Line}«Я взял его у {Char Squall}{Next}а.{Line} Как я и сказал, я и тебе сделаю такое же. А пока, пусть побудет у тебя, ладно?»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Я взял его у {Char Squall}а.{Line} Как я и сказал, я и тебе сделаю такое же.{Next}А пока, пусть побудет у тебя, ладно?»{End}",
         "Source Text SHA256": "E50F52811CBCF8B05018AA5DE298848EC6EF1B38BEA086EF1DE8C0BFB299DCF3",
         "sourceContext": {
           "Source MSD SHA256": "8A368D5181495F5FA67A8CE18742B5441F1853311DD78F364C7B62813401B874",

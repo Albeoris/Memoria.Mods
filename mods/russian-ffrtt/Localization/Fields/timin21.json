@@ -26,7 +26,7 @@
         }
       },
       "$en_timin21_0003": {
-        "Target": "{X20Y150}«После {Color Blue}{Color White} того, как вещание прекратили,{Line} рядом построили [бар]. С тех{Next}пор мы не {Color Blue}слишком часто{Color White}{Line} пользовались [задним двориком]».{End}",
+        "Target": "{X20Y150}«После {Color Blue}{Color White} того, как вещание прекратили,{Line} рядом построили [бар].{Next}С тех пор мы не {Color Blue}слишком часто{Color White}{Line} пользовались [задним двориком]».{End}",
         "Source Text SHA256": "8788D84BD12BBEEFD06CDE5EBCA88013CAE89C4432FFC20D9A56AFD475FB7F81",
         "sourceContext": {
           "Source MSD SHA256": "38E15CBB9E53FBD0E40432767A3453E381BD7261F9600FB0FAEEA84C2C25FCC0",
@@ -138,7 +138,7 @@
         }
       },
       "$en_timin21_0017": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}Она лидер{Next}«Лесных Лис».{Line} В этом городе почти каждый является членом сопротивления.{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}Она лидер «Лесных Лис».{Next}В этом городе почти каждый является членом сопротивления.{End}",
         "Source Text SHA256": "5311C189913B09CBFEF986B659255A394569DCA29417FDEDB451E33CCF3F7321",
         "sourceContext": {
           "Source MSD SHA256": "38E15CBB9E53FBD0E40432767A3453E381BD7261F9600FB0FAEEA84C2C25FCC0",
@@ -178,7 +178,7 @@
         }
       },
       "$en_timin21_0022": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}«Думаю... он пришёл помочь нам, „Лесным совам“.{Line} Я много{Next}говорила с ним об этом».{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}«Думаю... он пришёл помочь нам, „Лесным совам“.{Next}Я много говорила с ним об этом».{End}",
         "Source Text SHA256": "D250F587AADE68A1B40C528067094CF65FFC775A0F92DC333FC23B6DF6420B6D",
         "sourceContext": {
           "Source MSD SHA256": "38E15CBB9E53FBD0E40432767A3453E381BD7261F9600FB0FAEEA84C2C25FCC0",
@@ -482,7 +482,7 @@
         }
       },
       "$en_timin21_0060": {
-        "Target": "{X20Y170}«Вряд ли вы пойдёте пешком,{Line} но если это случится, не{Next}сворачивайте с дороги. {Color Blue}На развилке поверните{Color White}{Line} [направо]. Идите дальше, в конце концов,{Line}{Color Blue}вы выйдете{Color White} к станции».{End}",
+        "Target": "{X20Y170}«Вряд ли вы пойдёте пешком,{Line} но если это случится, не сворачивайте с дороги.{Next}{Color Blue}На развилке поверните{Color White}{Line} [направо]. Идите дальше, в конце концов,{Line}{Color Blue}вы выйдете{Color White} к станции».{End}",
         "Source Text SHA256": "5DB9C74712B4A4176910624129CD73A1F7A6E0F37946B898BB6BC7AAD31C78A2",
         "sourceContext": {
           "Source MSD SHA256": "38E15CBB9E53FBD0E40432767A3453E381BD7261F9600FB0FAEEA84C2C25FCC0",
@@ -490,7 +490,7 @@
         }
       },
       "$en_timin21_0061": {
-        "Target": "{X20Y150}«Весьма непросто быть старшей дочерью. На мне{Line} много ответственности... Но я люблю своих{Next}родителей, которые приютили меня и{Line} моих двух братьев близнецов».{End}",
+        "Target": "{X20Y150}«Весьма непросто быть старшей дочерью. На мне{Line} много ответственности...{Next}Но я люблю своих родителей, которые приютили меня и{Line} моих двух братьев близнецов».{End}",
         "Source Text SHA256": "3ECF10228013DE29E0A579F371A7755BEAEF08155EA82EF3AC8867FE972D9290",
         "sourceContext": {
           "Source MSD SHA256": "38E15CBB9E53FBD0E40432767A3453E381BD7261F9600FB0FAEEA84C2C25FCC0",
@@ -498,7 +498,7 @@
         }
       },
       "$en_timin21_0062": {
-        "Target": "{X20Y170}«Я так горжусь{Line} своей{Next}дочерью. Вы ребята, тоже помогайте родителям,{Line} пока можете. Они-то,{Next}может, и не просят{Line} этого, но им будет приятно».{End}",
+        "Target": "{X20Y170}«Я так горжусь{Line} своей дочерью.{Next}Вы ребята, тоже помогайте родителям,{Line} пока можете.{Next}Они-то, может, и не просят{Line} этого, но им будет приятно».{End}",
         "Source Text SHA256": "9BFC3C40D1E5BEE2D7820F765F6F9C1A925037CC276CD5CFA918436EFDA83AF0",
         "sourceContext": {
           "Source MSD SHA256": "38E15CBB9E53FBD0E40432767A3453E381BD7261F9600FB0FAEEA84C2C25FCC0",

@@ -90,7 +90,7 @@
         }
       },
       "$en_bghoke_1_0011": {
-        "Target": "{X43Y20}{Char Squall}{Line}«Сад может попасть под ракетный удар.{Line} Нужно эвакуировать студентов{Next}и преподавателей».{End}",
+        "Target": "{X43Y20}{Char Squall}{Line}«Сад может попасть под ракетный удар.{Next}Нужно эвакуировать студентов и преподавателей».{End}",
         "Source Text SHA256": "7C38F8DD427C675110D0A06CBAC2A45E28470A1117356A53DADFF22D40D731B8",
         "sourceContext": {
           "Source MSD SHA256": "7AF9D5A62C2368B40EE4CC5CB81FA6484474C7485972370C16DE72DF2799DF62",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bghoke_1_0013": {
-        "Target": "{X20Y8}Доктор Кадоваки{Line}«Тогда{Line} я{Next}просто{Line} обязана остаться».{End}",
+        "Target": "{X20Y8}Доктор Кадоваки{Line}«Тогда{Line} я просто{Line} обязана остаться».{End}",
         "Source Text SHA256": "4B24F3A6BA6430F7BF6345E3E96B80EBCD51F9777EB794EF02D781D55878F498",
         "sourceContext": {
           "Source MSD SHA256": "7AF9D5A62C2368B40EE4CC5CB81FA6484474C7485972370C16DE72DF2799DF62",
@@ -770,7 +770,7 @@
         }
       },
       "$en_bghoke_1_0082": {
-        "Target": "{X180Y8}Доктор Кадоваки{Line}«Кстати, вы знаете, где{Line} находится директор? Он{Next}слишком много работает. Если{Line} увидите его, передайте, чтобы{Line} зашёл ко мне».{End}",
+        "Target": "{X180Y8}Доктор Кадоваки{Line}«Кстати, вы знаете, где{Line} находится директор?{Next}Он слишком много работает. Если{Line} увидите его, передайте, чтобы{Line} зашёл ко мне».{End}",
         "Source Text SHA256": "66A8253B15FDAF75995059B4ABA7F2E33FAD0C993538206E3181076539A6A439",
         "sourceContext": {
           "Source MSD SHA256": "7AF9D5A62C2368B40EE4CC5CB81FA6484474C7485972370C16DE72DF2799DF62",

@@ -18,7 +18,7 @@
         }
       },
       "$en_sefront1_0002": {
-        "Target": "{X150Y150}Белый SeeD{Line}«Я здесь за главного. У{Next}вас что-то действительно важное?{Line} В противном случае не отнимайте у нас время и покиньте наш корабль».{End}",
+        "Target": "{X150Y150}Белый SeeD{Line}«Я здесь за главного.{Next}У вас что-то действительно важное?{Line} В противном случае не отнимайте у нас время и покиньте наш корабль».{End}",
         "Source Text SHA256": "BCD4E44DBCE97ECEA72538214D7597DA76AF8AAE56FFCFCF2BFAFE7CAA668620",
         "sourceContext": {
           "Source MSD SHA256": "866D5CE602722E815DBCF44709B005FAED0D81986406E3EDE86A4AC33AF0E228",
@@ -66,7 +66,7 @@
         }
       },
       "$en_sefront1_0008": {
-        "Target": "{X20Y20}{Char Squall}{Line}«Теперь она{Next}наш союзник.{Line} Поэтому, вам незачем скрывать{Next}от нас местоположение Эллоны.{Line} Мы хотим вернуть Эллону, чтобы защитить её от Ультимеции».{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}«Теперь она наш союзник.{Next}Поэтому, вам незачем скрывать от нас местоположение Эллоны.{Next}Мы хотим вернуть Эллону, чтобы защитить её от Ультимеции».{End}",
         "Source Text SHA256": "80FEF3AAC1FE9D2EAB46E2A813DF08B0EF402DB1FAB642769157A49D57C860C6",
         "sourceContext": {
           "Source MSD SHA256": "866D5CE602722E815DBCF44709B005FAED0D81986406E3EDE86A4AC33AF0E228",
@@ -122,7 +122,7 @@
         }
       },
       "$en_sefront1_0015": {
-        "Target": "{X150Y150}Белый SeeD{Line}«Простите, если мы{Line} вас чем-то{Next}обидели. Похоже, мы{Line} немного вспылили,{Line} когда вы упомянули Эллону».{End}",
+        "Target": "{X150Y150}Белый SeeD{Line}«Простите, если мы{Line} вас чем-то обидели.{Next}Похоже, мы{Line} немного вспылили,{Line} когда вы упомянули Эллону».{End}",
         "Source Text SHA256": "A4A28D2DA493BA04A363C2F7DE5E8E5AAB29389284E65E01A8385552A3A7D32B",
         "sourceContext": {
           "Source MSD SHA256": "866D5CE602722E815DBCF44709B005FAED0D81986406E3EDE86A4AC33AF0E228",
@@ -170,7 +170,7 @@
         }
       },
       "$en_sefront1_0021": {
-        "Target": "{X20Y20}«Я-я-я м-м-мойщик. Я{Line} н-нечасто в-выхожу.{Line} Когда я{Next}выхожу, я{Line} в-в-всегда теряюсь... О-о-о{Pause 80}{Line} чём это я?»{End}",
+        "Target": "{X20Y20}«Я-я-я м-м-мойщик. Я{Line} н-нечасто в-выхожу.{Next}Когда я выхожу, я{Line} в-в-всегда теряюсь... О-о-о{Pause 80}{Line} чём это я?»{End}",
         "Source Text SHA256": "91EC6650E9C6E440524D6B4FD8DBCEA8CAF542F889692910F1B8036123416C7C",
         "sourceContext": {
           "Source MSD SHA256": "866D5CE602722E815DBCF44709B005FAED0D81986406E3EDE86A4AC33AF0E228",

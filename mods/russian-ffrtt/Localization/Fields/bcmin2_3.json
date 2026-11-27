@@ -2,11 +2,14 @@
   "Fields": {
     "bcmin2_3": {
       "$en_bcmin2_3_0000": {
-        "Target": "{X180Y150}Сорванец{Line}«Эх, мне так скучно...{Line} хотел бы я, чтобы Зелл заглянул сюда...»{End}",
+        "Target": "{X180Y150}Большой проказник{Line}«Блииин, как скучно!.. Поскорей бы Зелл{Line}вернулся!..»{End}{End}",
         "Source Text SHA256": "8113F081954D810CC3EADD703787FBFA38CD171E78062B4F162D3E6E1EB5AFB8",
         "sourceContext": {
           "Source MSD SHA256": "9012195C43D08BFB268F951F54FBEE24845E3E14F886966FC2583D6F4574516A",
           "JSM SHA256": "C33A535BFFCB65D4C36BE1F151E9D7D55E163C3766E4DFD01C48BCE23D5D9BD8"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X180Y150}Большой проказник{Line}«Блииин, как скучно!.. Поскорей бы Зелл{Line}вернулся!..»{End}"
         }
       },
       "$en_bcmin2_3_0001": {

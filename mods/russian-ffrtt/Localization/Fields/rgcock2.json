@@ -58,7 +58,7 @@
         }
       },
       "$en_rgcock2_0007": {
-        "Target": "{X12Y160}{Char Selphie}{Line}«Он вроде{Next}только что взлетел!{Line} Не знаю. Это весьма просто. Думаю, всё будет нормально».{End}",
+        "Target": "{X12Y160}{Char Selphie}{Line}«Он вроде только что взлетел!{Next}Не знаю. Это весьма просто. Думаю, всё будет нормально».{End}",
         "Source Text SHA256": "29171C0CF03E50B2BC98CC9034A897021D724155CDFCB2D6D00CE3CD7CF331DA",
         "sourceContext": {
           "Source MSD SHA256": "FAFA6ADBD2206DE2497E1BC85C4D68B2A61968E2146F3C241E50D25FA3CD2B0D",
@@ -234,7 +234,7 @@
         }
       },
       "$en_rgcock2_0029": {
-        "Target": "{X12Y160}{Char Zell}{Line}«В конце концов, ею{Next}управляют гальбадианцы.{Line} Что означает, что Сейфер тоже стоит за всем этим, верно?»{End}",
+        "Target": "{X12Y160}{Char Zell}{Line}«В конце концов, ею управляют гальбадианцы.{Next}Что означает, что Сейфер тоже стоит за всем этим, верно?»{End}",
         "Source Text SHA256": "8EDD802EC6905AB5728EB2384F91BA1D59ABEA2D05B762EAB638EDD97161F6A5",
         "sourceContext": {
           "Source MSD SHA256": "FAFA6ADBD2206DE2497E1BC85C4D68B2A61968E2146F3C241E50D25FA3CD2B0D",
@@ -250,7 +250,7 @@
         }
       },
       "$en_rgcock2_0031": {
-        "Target": "{X12Y160}{Char Zell}{Line}«Да, и{Next}ещё эта Ультимеция!{Line} Мы не можем позволить этой волшебнице из будущего испортить наш мир!»{End}",
+        "Target": "{X12Y160}{Char Zell}{Line}«Да, и ещё эта Ультимеция!{Next}Мы не можем позволить этой волшебнице из будущего испортить наш мир!»{End}",
         "Source Text SHA256": "688BF52D4C39837FDCE2A29B31D5BC00649C850799F033BBFAC294B84BD03675",
         "sourceContext": {
           "Source MSD SHA256": "FAFA6ADBD2206DE2497E1BC85C4D68B2A61968E2146F3C241E50D25FA3CD2B0D",
@@ -258,7 +258,7 @@
         }
       },
       "$en_rgcock2_0032": {
-        "Target": "{X12Y160}{Char Zell}{Line}«Давайте надерём{Next}ей задницу!{Line} Мы ведь Сиды! Мы здесь, чтобы уничтожить волшебницу, верно?!»{End}",
+        "Target": "{X12Y160}{Char Zell}{Line}«Давайте надерём ей задницу!{Next}Мы ведь Сиды! Мы здесь, чтобы уничтожить волшебницу, верно?!»{End}",
         "Source Text SHA256": "7226379C5DB1C3689B2976D59993D1654D3C423B5C1740499E62316FEA758C09",
         "sourceContext": {
           "Source MSD SHA256": "FAFA6ADBD2206DE2497E1BC85C4D68B2A61968E2146F3C241E50D25FA3CD2B0D",
@@ -322,7 +322,7 @@
         }
       },
       "$en_rgcock2_0040": {
-        "Target": "{X160Y12}{Char Rinoa}{Line}«Я хочу побыть вдали{Line} от людской суеты... Я{Next}ведь волшебница. Если Ультимеция{Line} снова овладеет мной...»{End}",
+        "Target": "{X160Y12}{Char Rinoa}{Line}«Я хочу побыть вдали{Line} от людской суеты...{Next}Я ведь волшебница. Если Ультимеция{Line} снова овладеет мной...»{End}",
         "Source Text SHA256": "AC7BCBED1126AC843C3D38E1F149448C707B5A084740A46CDD3BF28E50DDD07A",
         "sourceContext": {
           "Source MSD SHA256": "FAFA6ADBD2206DE2497E1BC85C4D68B2A61968E2146F3C241E50D25FA3CD2B0D",
@@ -434,7 +434,7 @@
         }
       },
       "$en_rgcock2_0054": {
-        "Target": "{X12Y160}{Char Rinoa}{Line}«Во мне сейчас сразу{Line} столько эмоций... Я{Next}счастлива, мне грустно, я{Line} зла, взволнована... Начинаю чувствовать себя шизофреником».{End}",
+        "Target": "{X12Y160}{Char Rinoa}{Line}«Во мне сейчас сразу{Line} столько эмоций...{Next}Я счастлива, мне грустно, я{Line} зла, взволнована... Начинаю чувствовать себя шизофреником».{End}",
         "Source Text SHA256": "210F9A8706BD37DDA681135F0B7AE65F76BDB4D44F7F00CB58083B327C5369E7",
         "sourceContext": {
           "Source MSD SHA256": "FAFA6ADBD2206DE2497E1BC85C4D68B2A61968E2146F3C241E50D25FA3CD2B0D",
@@ -458,7 +458,7 @@
         }
       },
       "$en_rgcock2_0057": {
-        "Target": "{X12Y160}{Char Quistis}{Line}«Волшебница Эдея передала свою{Line} силу {Char Rinoa}.{Next}Волшебница Адель вернулась{Line} из космоса.{Line} Пока что это{Next}всё. И Ультимеция ждёт{Line} в будущем, чтобы заполучить силу{Line} волшебницы этого времени».{End}",
+        "Target": "{X12Y160}{Char Quistis}{Line}«Волшебница Эдея передала свою{Line} силу {Char Rinoa}.{Next}Волшебница Адель вернулась{Line} из космоса.{Line} Пока что это всё.{Next}И Ультимеция ждёт{Line} в будущем, чтобы заполучить силу{Line} волшебницы этого времени».{End}",
         "Source Text SHA256": "E580B1BC681E11928E3A7857348E8179A86A0D673F43CADFBC998F577B3AFF2C",
         "sourceContext": {
           "Source MSD SHA256": "FAFA6ADBD2206DE2497E1BC85C4D68B2A61968E2146F3C241E50D25FA3CD2B0D",
@@ -594,7 +594,7 @@
         }
       },
       "$en_rgcock2_0074": {
-        "Target": "{X12Y160}{Char Rinoa}{Line}«Внутри{Next}ли Сейфер?{Line} Он там по своей воле? Что ж... Полагаю, у нас нет выбора...»{End}",
+        "Target": "{X12Y160}{Char Rinoa}{Line}«Внутри ли Сейфер?{Next}Он там по своей воле? Что ж... Полагаю, у нас нет выбора...»{End}",
         "Source Text SHA256": "AD3F04B16DD5616D9239A89C440FCAB7E0141B7F6BBE59F2EE64F2F60896B2E0",
         "sourceContext": {
           "Source MSD SHA256": "FAFA6ADBD2206DE2497E1BC85C4D68B2A61968E2146F3C241E50D25FA3CD2B0D",

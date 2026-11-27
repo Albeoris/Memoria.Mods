@@ -10,7 +10,7 @@
         }
       },
       "$en_bgeat_1_0001": {
-        "Target": "{X160Y12}{Char Seifer}{Line}«………»{End}",
+        "Target": "{X160Y12}{Char Seifer}{Line}«.........»{End}",
         "Source Text SHA256": "D6BDA466CFC086B62EAEAFD4E7C3EE06A3BE1702F014FDBB68AB78218BB69C82",
         "sourceContext": {
           "Source MSD SHA256": "1C23077A057139753F296847A7C3C9C46D78C485B17E9C8DB1F64AD4A8D649DA",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgeat_1_0009": {
-        "Target": "{X160Y12}{Char Seifer}{Line}«......{Char Squall},{Line} разве ты не видишь, что дисциплинарный комитет{Line} занят? Не мешай нам».{End}",
+        "Target": "{X160Y12}{Char Seifer}{Line}«{Char Squall}... Разве ты не видишь, что{Line}представители дисциплинарного комитета{Line}заняты? Не отвлекай. Иди потренируйся{Line}где-нибудь махать железякой».{End}",
         "Source Text SHA256": "B948CED10E4558CD6736E52AAE851DE5A42BDA0B1CD83CD2B9437ADD1FD365F6",
         "sourceContext": {
           "Source MSD SHA256": "1C23077A057139753F296847A7C3C9C46D78C485B17E9C8DB1F64AD4A8D649DA",
@@ -226,7 +226,7 @@
         }
       },
       "$en_bgeat_1_0024": {
-        "Target": "{X12Y12}{Char Seifer}{Line}«...Бег{Next}в учебном заведении.{Line} Пойдём, арестуем ту студентку за нарушение правил академии».{End}",
+        "Target": "{X12Y12}{Char Seifer}{Line}«Бег в общественном месте...»{Next}«Пошли, арестуем засранца за нарушение{Line}правил академии».{End}",
         "Source Text SHA256": "18BA8D2B5FD62E3C6770E81E0E5A2BBC4E04F60A3BC464E8A3BFE3A9A3709E90",
         "sourceContext": {
           "Source MSD SHA256": "1C23077A057139753F296847A7C3C9C46D78C485B17E9C8DB1F64AD4A8D649DA",

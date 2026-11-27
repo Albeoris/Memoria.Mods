@@ -18,7 +18,7 @@
         }
       },
       "$en_titown52_0002": {
-        "Target": "{X20Y20}«Эй, вы все{Line} хорошо поработали. Молодцы. В{Next}молодости я была так{Line} же полна энтузиазма.{Next}Хотя, после двадцати я успокоилась. Верно,{Line} Боб?»{End}",
+        "Target": "{X20Y20}«Эй, вы все{Line} хорошо поработали. Молодцы.{Next}В молодости я была так{Line} же полна энтузиазма.{Next}Хотя, после двадцати я успокоилась. Верно,{Line} Боб?»{End}",
         "Source Text SHA256": "4E4581272AB29FABE888292ED6F9AE69ADB84785B948C9AD28193428785ACF67",
         "sourceContext": {
           "Source MSD SHA256": "E6E096337D523D5FB5C65D6625AA3EEAFA52B9EAE0FD5A4D9F2FBBC23B20FF11",
@@ -34,7 +34,7 @@
         }
       },
       "$en_titown52_0004": {
-        "Target": "{X150Y20}«Спрашиваешь, не на свидании ли{Line} мы? Разве, похоже, что это{Next}так? Мы в патруле, поддерживаем{Line} порядок в этом городе».{End}",
+        "Target": "{X150Y20}«Спрашиваешь, не на свидании ли{Line} мы? Разве, похоже, что это так?{Next}Мы в патруле, поддерживаем{Line} порядок в этом городе».{End}",
         "Source Text SHA256": "A9A8D0959569E2AF95BCC47D895E7617D5A5765B000114B750EA78B65C1BDEF6",
         "sourceContext": {
           "Source MSD SHA256": "E6E096337D523D5FB5C65D6625AA3EEAFA52B9EAE0FD5A4D9F2FBBC23B20FF11",
@@ -66,7 +66,7 @@
         }
       },
       "$en_titown52_0008": {
-        "Target": "{X20Y20}«Секретная информация №1... Вам стоит{Line}{Color Blue}пойти выпить{Color White} в [бар{Next}Афрора]. Полагаю, „Афрора“ значит „Аврора“.{Line} Пейте, пока не увидите аврору!»{End}",
+        "Target": "{X20Y20}«Секретная информация №1... Вам стоит{Line}{Color Blue}пойти выпить{Color White} в [бар Афрора].{Next}Полагаю, „Афрора“ значит „Аврора“.{Line} Пейте, пока не увидите аврору!»{End}",
         "Source Text SHA256": "3A9692A051430928882C9177837C31D37983B2BF86E139337E6F620393BDB78F",
         "sourceContext": {
           "Source MSD SHA256": "E6E096337D523D5FB5C65D6625AA3EEAFA52B9EAE0FD5A4D9F2FBBC23B20FF11",
@@ -74,7 +74,7 @@
         }
       },
       "$en_titown52_0009": {
-        "Target": "{X20Y20}«А, вы все несовершеннолетние?{Line} Тогда, думаю, {Color Blue}информация{Color White} о [баре] была{Next}бессмысленной». (Звучит так, словно я рекламирую{Line} бар!){End}",
+        "Target": "{X20Y20}«А, вы все несовершеннолетние?{Line} Тогда, думаю, {Color Blue}информация{Color White} о [баре] была бессмысленной».{Next}(Звучит так, словно я рекламирую{Line} бар!){End}",
         "Source Text SHA256": "A17EDE3DD89119FBE11C1CDBC23BE35D07FDBC77B5719648149D1668587EEE90",
         "sourceContext": {
           "Source MSD SHA256": "E6E096337D523D5FB5C65D6625AA3EEAFA52B9EAE0FD5A4D9F2FBBC23B20FF11",
@@ -82,7 +82,7 @@
         }
       },
       "$en_titown52_0010": {
-        "Target": "{X20Y20}«Секретная информация №2... За пределами{Line} [ТВ-станции] повсюду лазерные лучи. {Color Blue}Не могу{Color White}{Next}уснуть, когда думаю, что эти лучи могут{Line} со мной сделать».{End}",
+        "Target": "{X20Y20}«Секретная информация №2... За пределами{Line} [ТВ-станции] повсюду лазерные лучи.{Next}{Color Blue}Не могу{Color White} уснуть, когда думаю, что эти лучи могут{Line} со мной сделать».{End}",
         "Source Text SHA256": "5684D3B82DF7D5E37291BBE5837179CFC49299CE841DE6331F84564E047B2FBE",
         "sourceContext": {
           "Source MSD SHA256": "E6E096337D523D5FB5C65D6625AA3EEAFA52B9EAE0FD5A4D9F2FBBC23B20FF11",
@@ -90,7 +90,7 @@
         }
       },
       "$en_titown52_0011": {
-        "Target": "{X20Y20}«Где находится {Color Blue}[ТВ-станция]? Это...{Color White}{Line} секрет!» (Мой{Next}наставник Уоттс убьёт меня, если я{Line} выдам свою неосведомлённость!){End}",
+        "Target": "{X20Y20}«Где находится {Color Blue}[ТВ-станция]? Это...{Color White}{Line} секрет!»{Next}(Мой наставник Уоттс убьёт меня, если я{Line} выдам свою неосведомлённость!){End}",
         "Source Text SHA256": "E0AF2B11BDAAF8BB69F76CBD3F50ED1F0B44D8050855A2218AA7D0812A9DD0A8",
         "sourceContext": {
           "Source MSD SHA256": "E6E096337D523D5FB5C65D6625AA3EEAFA52B9EAE0FD5A4D9F2FBBC23B20FF11",
@@ -98,7 +98,7 @@
         }
       },
       "$en_titown52_0012": {
-        "Target": "{X20Y20}«Секретная информация{Line} №3... Тимбер получил своё название за его{Next}богатую растительность. Когда-то давно мы были{Line} окружены этим прекрасным лесом...»{End}",
+        "Target": "{X20Y20}«Секретная информация{Line} №3... Тимбер получил своё название за его богатую растительность.{Next}Когда-то давно мы были{Line} окружены этим прекрасным лесом...»{End}",
         "Source Text SHA256": "14522D1FC8A3D2037B8451CC91DD8E618D95F6B9B42E6220E039C079A2E2AA46",
         "sourceContext": {
           "Source MSD SHA256": "E6E096337D523D5FB5C65D6625AA3EEAFA52B9EAE0FD5A4D9F2FBBC23B20FF11",
@@ -250,7 +250,7 @@
         }
       },
       "$en_titown52_0031": {
-        "Target": "{X20Y20}{Char Rinoa}{Line}«Зон... {Pause 96}{Line} Мы ещё увидимся, хорошо? Что{Next}бы ни случилось, ты должен выжить.{Line} Мы ведь должны освободить Тимбер{Line} вместе, помнишь?»{End}",
+        "Target": "{X20Y20}{Char Rinoa}{Line}«Зон... {Pause 96}{Line} Мы ещё увидимся, хорошо?{Next}Что бы ни случилось, ты должен выжить.{Line} Мы ведь должны освободить Тимбер{Line} вместе, помнишь?»{End}",
         "Source Text SHA256": "2D6F876D145E8A4A290793A3CD1E4E9CC0F1590676BE409BF06ADDA10C80694D",
         "sourceContext": {
           "Source MSD SHA256": "E6E096337D523D5FB5C65D6625AA3EEAFA52B9EAE0FD5A4D9F2FBBC23B20FF11",
@@ -258,7 +258,7 @@
         }
       },
       "$en_titown52_0032": {
-        "Target": "{X150Y20}Зон{Line}«Знаю, знаю. Пойду, спрячусь в ванной или ещё где-нибудь.{Line} А теперь{Next}идите».{End}",
+        "Target": "{X150Y20}Зон{Line}«Знаю, знаю. Пойду, спрячусь в ванной или ещё где-нибудь.{Next}А теперь идите».{End}",
         "Source Text SHA256": "18FB2E3A8E6E0EBECED3C189729FAE5C0D3E0FEE9721CD3C2CD24FAF82B994F7",
         "sourceContext": {
           "Source MSD SHA256": "E6E096337D523D5FB5C65D6625AA3EEAFA52B9EAE0FD5A4D9F2FBBC23B20FF11",

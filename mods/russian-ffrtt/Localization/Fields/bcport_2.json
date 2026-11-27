@@ -18,7 +18,7 @@
         }
       },
       "$en_bcport_2_0002": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«На судно, живо!»{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«На корабль, бегом!»{End}",
         "Source Text SHA256": "629FB3D678B3AEB13ED300D2B279FE5EF923A14326D73E227D6DCDB158CF8155",
         "sourceContext": {
           "Source MSD SHA256": "647D21AB153390BAF84104E78A728431E95E479789C85A8D717346CD5F05AF54",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bcport_2_0003": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«Ладно, вы можете{Next}идти. Накупите сувениров... осмотритесь...{Line} решать вам. Я же рекомендую вам{Line} вернуться в сад и хорошенько отдохнуть».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Вы свободны».{Next}«Накупите сувениров... осмотритесь. В{Line}общем, развлекайтесь. Но рекомендую{Line}хорошенько отдохнуть».{End}",
         "Source Text SHA256": "DD3228FB9B897D0EA94D05B7A14BF119FD5CA9DAF6C7D7521539B13A7CEA095F",
         "sourceContext": {
           "Source MSD SHA256": "647D21AB153390BAF84104E78A728431E95E479789C85A8D717346CD5F05AF54",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bcport_2_0007": {
-        "Target": "{X10Y10}{Char Seifer}{Line}«Блин... Всё, что они делали так это путались{Line} у меня под ногами. Непросто быть лидером».{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Не спрашивай, мужик... Все только и{Line}делали, что путались под ногами. Непросто{Line}быть лидером».{End}",
         "Source Text SHA256": "6F26A2736D2D6687DFF94E787B0F8F166EC9BE31032D70FEE89178C0A677F819",
         "sourceContext": {
           "Source MSD SHA256": "647D21AB153390BAF84104E78A728431E95E479789C85A8D717346CD5F05AF54",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bcport_2_0009": {
-        "Target": "{X100Y10}{Char Quistis}{Line}«Отличная работа!»{End}",
+        "Target": "{X100Y10}{Char Quistis}{Line}«Отличная работа».{End}",
         "Source Text SHA256": "86A3F4A4BA16D8D1458C94BFC3241C2EE170EB48EDAC34287B1C5C419B664B04",
         "sourceContext": {
           "Source MSD SHA256": "647D21AB153390BAF84104E78A728431E95E479789C85A8D717346CD5F05AF54",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bcport_2_0011": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«Только вернитесь в сад до заката.{Line} А пока свободны».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«Завтра объявят результаты экзамена. Всем{Line}быть в саду не позднее полудня».{End}",
         "Source Text SHA256": "20A03CEFFBCA84B5CAA2579C5C776E6249429362D3E9EBF7AAC43E616F4626B0",
         "sourceContext": {
           "Source MSD SHA256": "647D21AB153390BAF84104E78A728431E95E479789C85A8D717346CD5F05AF54",

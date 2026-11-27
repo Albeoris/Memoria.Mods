@@ -10,7 +10,7 @@
         }
       },
       "$en_doopen_1_0001": {
-        "Target": "{X10Y10}{Char Seifer}{Line}«Отлично! Я хочу, чтобы вы,{Line} парни разведали местность на наличие врагов».{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Точно. Задача: прочешите периметр на{Line}предмет наличия врагов».{End}",
         "Source Text SHA256": "634208020ECB4224F988DF238341503FDCF6E5C9F0D1986DF09E03C260C9857A",
         "sourceContext": {
           "Source MSD SHA256": "005948B2245094BECE3FB583A2C7EC34E6943A9ECD539C80F170693EA11C45FA",
@@ -18,7 +18,7 @@
         }
       },
       "$en_doopen_1_0002": {
-        "Target": "{X10Y10}{Char Seifer}{Line}«Хватит валять дурака.{Line} Проверьте, нет ли поблизости врагов».{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Прошвырнись вокруг, наверняка здесь ещё{Line}остались враги».{End}",
         "Source Text SHA256": "3882D3B9F3D208065BCC7E9145861CF82047906290F1F4268945E5BC35714117",
         "sourceContext": {
           "Source MSD SHA256": "005948B2245094BECE3FB583A2C7EC34E6943A9ECD539C80F170693EA11C45FA",
@@ -26,7 +26,7 @@
         }
       },
       "$en_doopen_1_0003": {
-        "Target": "{X10Y10}{Char Zell}{Line}«Эй, это не наш участок».{Next}«Нам же приказали{Line} оставаться на посту, разве нет?»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Эй, мы же отвечаем за эту территорию!»{Next}«Если мы покинем площадь, это будет{Line}нарушением приказа!»{End}",
         "Source Text SHA256": "B205C5107F918971FE5A2CACCC9DD868A68D1578E6F137582FB7F1B02CB8288E",
         "sourceContext": {
           "Source MSD SHA256": "005948B2245094BECE3FB583A2C7EC34E6943A9ECD539C80F170693EA11C45FA",
@@ -42,7 +42,7 @@
         }
       },
       "$en_doopen_1_0005": {
-        "Target": "{X10Y10}{Char Seifer}{Line}«Ладно, будем оставаться в боевой готовности,{Line} пока не появится враг».{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Ладно. Всем оставаться в боевой{Line}готовности. Ждём возможного нападения».{End}",
         "Source Text SHA256": "0D32018D7209555493DDFC3281BE462B83E2CFDC85E001C302ACB63F1B6C6556",
         "sourceContext": {
           "Source MSD SHA256": "005948B2245094BECE3FB583A2C7EC34E6943A9ECD539C80F170693EA11C45FA",
@@ -50,7 +50,7 @@
         }
       },
       "$en_doopen_1_0006": {
-        "Target": "{X10Y10}{Char Seifer}{Line}«В готовности... как скучно...»{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Возможного... скукота...»{End}",
         "Source Text SHA256": "76F6662B9590F4FFC1B6A3121DB2158A797A55FB7039AC51AEBA9DCD07AB8984",
         "sourceContext": {
           "Source MSD SHA256": "005948B2245094BECE3FB583A2C7EC34E6943A9ECD539C80F170693EA11C45FA",
@@ -66,7 +66,7 @@
         }
       },
       "$en_doopen_1_0008": {
-        "Target": "{X160Y50}{Char Seifer}{Line}«Ну же, нападайте!»{End}",
+        "Target": "{X160Y50}{Char Seifer}{Line}«Давно пора!»{End}",
         "Source Text SHA256": "34567459CCB571F37B399BFC5188AC5124F853B0BC1967681C2E9EA79393FA3E",
         "sourceContext": {
           "Source MSD SHA256": "005948B2245094BECE3FB583A2C7EC34E6943A9ECD539C80F170693EA11C45FA",
@@ -90,7 +90,7 @@
         }
       },
       "$en_doopen_1_0011": {
-        "Target": "{X10Y10}{Char Seifer}{Line}«Эй,{Next}гальбадианцы!{Line} Чего ждёте?! Ну же, покажите на что вы способны!»{End}",
+        "Target": "{X10Y10}{Char Seifer}{Line}«Эй! Гальбадианцы!»{Next}«Чего вы ждёте?! Покажите, на что{Line}способны!»{End}",
         "Source Text SHA256": "1BAF73B1CB0731F33CB18F07B80F76C72E30F86F560DAC2865C6BF99C000E09B",
         "sourceContext": {
           "Source MSD SHA256": "005948B2245094BECE3FB583A2C7EC34E6943A9ECD539C80F170693EA11C45FA",

@@ -18,7 +18,7 @@
         }
       },
       "$en_doport_1_0002": {
-        "Target": "{X15Y15}«Мой брат{Line} тоже отличный пловец! Да,{Next}именно мой брат{Line} научил меня нырять с аквалангом».{End}",
+        "Target": "{X15Y15}«Мой брат{Line} тоже отличный пловец!{Next}Да, именно мой брат{Line} научил меня нырять с аквалангом».{End}",
         "Source Text SHA256": "DC23F131FAEBB01420F81A61B9287415B7AB3498C60EDFFD69EA7ADAFA200D59",
         "sourceContext": {
           "Source MSD SHA256": "3E2A1F438E5052BA404F0E156F1B4E73DC83B9B8B48D3648EFA775610D2E367B",
@@ -34,7 +34,7 @@
         }
       },
       "$en_doport_1_0004": {
-        "Target": "{X15Y15}{Color Yellow}«Вуху!{Pause 80}{Line} Вууу! Вууу!{Pause 80}{Line} Я буду{Next}{Color White}там, чтобы поддержать тебя!!! Возможно... я{Line} тоже научусь и отправлюсь с{Line} тобой в плавание!»{End}",
+        "Target": "{X15Y15}{Color Yellow}«Вуху!{Pause 80}{Line} Вууу! Вууу!{Pause 80}{Next}Я буду {Color White}там, чтобы поддержать тебя!!! Возможно... я{Line} тоже научусь и отправлюсь с{Line} тобой в плавание!»{End}",
         "Source Text SHA256": "60769FCC2EEEC3452726A09644ED3EAA00ABE5D053E718F4FCBC07C161C76A68",
         "sourceContext": {
           "Source MSD SHA256": "3E2A1F438E5052BA404F0E156F1B4E73DC83B9B8B48D3648EFA775610D2E367B",

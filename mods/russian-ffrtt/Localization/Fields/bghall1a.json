@@ -74,7 +74,7 @@
         }
       },
       "$en_bghall1a_0009": {
-        "Target": "{X10Y10}Капитан передовой обороны{Line}«Мы{Next}готовы, сэр.{Line} Под вашим предводительством наш боевой дух высок».{End}",
+        "Target": "{X10Y10}Капитан передовой обороны{Line}«Мы готовы, сэр.{Next}Под вашим предводительством наш боевой дух высок».{End}",
         "Source Text SHA256": "53EAAAE2556A9CFA08F349CB727FC90F1751A8FF4292C7AF025D623E997AA00D",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bghall1a_0010": {
-        "Target": "{X10Y10}Боец резерва у площади{Line}«Вы будете во главе отряда{Line} на [площади], {Color Blue}верно?{Color White} Я{Next}скоро там{Line} буду. Удачи!»{End}",
+        "Target": "{X10Y10}Боец резерва у площади{Line}«Вы будете во главе отряда{Line} на [площади], {Color Blue}верно?{Color White}{Next}Я скоро там{Line} буду. Удачи!»{End}",
         "Source Text SHA256": "98F797C15B7CCD80C38882847ACD5A6B535E84B4C81254E05D8F3F985F0A67D2",
         "sourceContext": {
           "Source MSD SHA256": "1805D4DDB32A4D4C7A7D3F4B5C53A8B39031959D8D9B6BAAF5F93B8A4FB78961",

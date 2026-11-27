@@ -2,7 +2,7 @@
   "Fields": {
     "gmpark2": {
       "$en_gmpark2_0000": {
-        "Target": "{X160Y140}Капитан{Line}«Вы не уйдёте отсюда живыми!{Line} Это{Next}оскорбит Эдею!{Line} А я не{Next}хочу испытывать на себе её гнев!»{End}",
+        "Target": "{X160Y140}Капитан{Line}«Вы не уйдёте отсюда живыми!{Next}Это оскорбит Эдею!{Next}А я не хочу испытывать на себе её гнев!»{End}",
         "Source Text SHA256": "507648FFC5B7B5463D0A5E54E13808B103B6F4ACC90EE3BCDE44AC108DCD2E48",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gmpark2_0011": {
-        "Target": "{X160Y12}{Char Quistis}{Line}«Смерть{Next}подкралась незаметно.{Line} Я думала, конец будет более драматичным...»{End}",
+        "Target": "{X160Y12}{Char Quistis}{Line}«Смерть подкралась незаметно.{Next}Я думала, конец будет более драматичным...»{End}",
         "Source Text SHA256": "F0CAB0493A7218459FDE66F3F96D153D69200087A107084C4CF2DEF257FA9F0A",
         "sourceContext": {
           "Source MSD SHA256": "027895F38330230F34C0939F6BA6AEF3C981C994AA9D005F6C8D95EBEEDED443",

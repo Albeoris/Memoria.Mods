@@ -34,7 +34,7 @@
         }
       },
       "$en_bgsecr_2_0004": {
-        "Target": "{X200Y8}{Char Quistis}{Line}«Я, Квистис Трип, с этой{Line} минуты больше не являюсь инструктором!»{End}",
+        "Target": "{X200Y8}{Char Quistis}{Line}«Я, Квистис Трип, с этой минуты больше не{Line}являюсь инструктором!»{End}",
         "Source Text SHA256": "3D3ABFEC3F273B0BA5B2F43AFD7C0BBBCE052109565D98F2A0AFE43DF6A9BAA7",
         "sourceContext": {
           "Source MSD SHA256": "5102C216B439C5F0750698049E142B7693A32FC106FB1A1979B435E5D7AAF720",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgsecr_2_0005": {
-        "Target": "{X200Y8}{Char Quistis}{Line}«Теперь я такой же Сид, как{Line} и ты. Кто знает, может, в{Line} итоге мы будем работать вместе».{End}",
+        "Target": "{X200Y8}{Char Quistis}{Line}«Теперь я такой же сид, как и ты. Кто{Line}знает, может, в итоге мы будем работать{Line}вместе».{End}",
         "Source Text SHA256": "6050A379360466CBEA0A08B83820F64D333330A81F980A76E32EEB4B23A9F336",
         "sourceContext": {
           "Source MSD SHA256": "5102C216B439C5F0750698049E142B7693A32FC106FB1A1979B435E5D7AAF720",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgsecr_2_0009": {
-        "Target": "{X200Y8}{Char Quistis}{Line}«Они сказали, что инструктор из меня никакой.{Line} Точнее, что мне не хватает лидерских качеств».{End}",
+        "Target": "{X200Y8}{Char Quistis}{Line}«Они сказали, что инструктор из меня{Line}никакой. Что мне не хватает лидерских{Line}качеств».{End}",
         "Source Text SHA256": "47AEC5B33A660AD8F7F9018DA6DD4BF4B5EB73732FCEC241CC9E63BAD78AA576",
         "sourceContext": {
           "Source MSD SHA256": "5102C216B439C5F0750698049E142B7693A32FC106FB1A1979B435E5D7AAF720",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgsecr_2_0010": {
-        "Target": "{X200Y8}{Char Quistis}{Line}«Я стала Сидом в 15{Line} лет, получила лицензию инструктора в 17...»{Next}«С того момента прошёл{Line} всего лишь год...»{End}",
+        "Target": "{X200Y8}{Char Quistis}{Line}«Я стала сидом в пятнадцать лет.{Line}Инструктором — в семнадцать».{Next}«Прошёл всего один год...»{End}",
         "Source Text SHA256": "31D14CAE852A13261D54198AC5A6826F0FC983F0C378053416BCA32DAF1C4D2F",
         "sourceContext": {
           "Source MSD SHA256": "5102C216B439C5F0750698049E142B7693A32FC106FB1A1979B435E5D7AAF720",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgsecr_2_0011": {
-        "Target": "{X200Y8}{Char Quistis}{Line}«Интересно, когда всё пошло не так...»{End}",
+        "Target": "{X200Y8}{Char Quistis}{Line}«Когда всё пошло не так?..»{End}",
         "Source Text SHA256": "82E64A44BC1155BF509FCE41955646BEB19754D35E42AA2568CEF7B39C9B585D",
         "sourceContext": {
           "Source MSD SHA256": "5102C216B439C5F0750698049E142B7693A32FC106FB1A1979B435E5D7AAF720",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bgsecr_2_0018": {
-        "Target": "{X200Y8}{Char Quistis}{Line}«Я и не прошу тебя{Line} ничего говорить. Я{Next}просто хочу, чтобы ты{Line} меня выслушал».{End}",
+        "Target": "{X200Y8}{Char Quistis}{Line}«Я и не прошу тебя ничего говорить!»{Next}«Я хочу, чтобы ты меня выслушал!»{End}",
         "Source Text SHA256": "9E33D1004A747AE7368EA963F98EDDA5B0C98E2282C01242701F495E826566F3",
         "sourceContext": {
           "Source MSD SHA256": "5102C216B439C5F0750698049E142B7693A32FC106FB1A1979B435E5D7AAF720",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bgsecr_2_0020": {
-        "Target": "{X200Y8}{Char Quistis}{Line}«Разве с тобой не бывает так, что{Line} тебе хочется поделиться с кем-то своими чувствами?»{End}",
+        "Target": "{X200Y8}{Char Quistis}{Line}«Разве тебе никогда не хотелось поделиться{Line}с кем-то своими чувствами?»{End}",
         "Source Text SHA256": "02BE04723E2808A6D1B890B5DA2AA53384D92FA4EC1BF42AA0BA5FE59987D60E",
         "sourceContext": {
           "Source MSD SHA256": "5102C216B439C5F0750698049E142B7693A32FC106FB1A1979B435E5D7AAF720",
@@ -186,7 +186,7 @@
         }
       },
       "$en_bgsecr_2_0023": {
-        "Target": "{X200Y8}{Char Quistis}{Line}«...Нет лидерских качеств... Плохой{Line} инструктор... Может быть,{Line} они и правы...»{End}",
+        "Target": "{X200Y8}{Char Quistis}{Line}«Нет лидерских качеств... Никудышный{Line}инструктор... Может быть, они и правы...»{End}",
         "Source Text SHA256": "FDAA70B04DE58BD5463816CC8F8A21E4473B9AA24B7DA21A87F6FFB2E51DE369",
         "sourceContext": {
           "Source MSD SHA256": "5102C216B439C5F0750698049E142B7693A32FC106FB1A1979B435E5D7AAF720",

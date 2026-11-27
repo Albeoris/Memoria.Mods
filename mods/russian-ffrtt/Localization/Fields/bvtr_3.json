@@ -26,7 +26,7 @@
         }
       },
       "$en_bvtr_3_0003": {
-        "Target": "{X30Y10}{Char Selphie}{Line}«Пойду гляну, что там впереди».{End}",
+        "Target": "{X30Y10}{Char Selphie}{Line}«Чур, я первая!»{End}",
         "Source Text SHA256": "FB296F89EB2EC98F1811CBACC2EED5357DEC15B2E7B12DA08897EEAD3C75461D",
         "sourceContext": {
           "Source MSD SHA256": "A1A04015C6F649382A96808365A4FFCCE46233C8F0592704E915D65D30DB447A",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bvtr_3_0006": {
-        "Target": "{X60Y10}{Char Zell}{Line}«Это межконтинентальная железная дорога, детка!»{End}",
+        "Target": "{X60Y10}{Char Zell}{Line}«Это межконтинентальная железная дорога,{Line}детка!»{End}",
         "Source Text SHA256": "F55F05DB9C41FE40EDE0DDFE7809D6B8EA745B22D72E429873118FF85039BF30",
         "sourceContext": {
           "Source MSD SHA256": "A1A04015C6F649382A96808365A4FFCCE46233C8F0592704E915D65D30DB447A",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bvtr_3_0008": {
-        "Target": "{X100Y30}{Char Zell}{Line}«Полагаю, тебе не интересно»{End}",
+        "Target": "{X100Y30}{Char Zell}{Line}«По-моему, тебе неинтересно».{End}",
         "Source Text SHA256": "375078D3C19B1DFB53449A299DE850FCB849DABC00F46D8E67CC872020531CD9",
         "sourceContext": {
           "Source MSD SHA256": "A1A04015C6F649382A96808365A4FFCCE46233C8F0592704E915D65D30DB447A",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bvtr_3_0010": {
-        "Target": "{X60Y10}{Char Zell}{Line}«Большую часть пути до Тимбера{Line} он преодолевает под водой, в специальном туннеле».{End}",
+        "Target": "{X60Y10}{Char Zell}{Line}«Большую часть пути до Тимбера он{Line}преодолевает под водой, в специальном{Line}туннеле».{End}",
         "Source Text SHA256": "F667D68BBD9F8DA5B343AF1434829DE52CFE8772A971D656F986722994BD1A84",
         "sourceContext": {
           "Source MSD SHA256": "A1A04015C6F649382A96808365A4FFCCE46233C8F0592704E915D65D30DB447A",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bvtr_3_0018": {
-        "Target": "{X60Y10}{Char Zell}{Line}«Ладно, пошли. {Char Squall}, пошли, посмотрим..»{End}",
+        "Target": "{X60Y10}{Char Zell}{Line}«{Char Squall}, пошли, посмотрим».{End}",
         "Source Text SHA256": "F30F15EDD08FF2D388183DFD6085E9FB5A0C358035C7B16F184999DDB41A8E08",
         "sourceContext": {
           "Source MSD SHA256": "A1A04015C6F649382A96808365A4FFCCE46233C8F0592704E915D65D30DB447A",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bvtr_3_0019": {
-        "Target": "{X60Y10}{Char Zell}{Line}«Кстати, {Char Squall}{Line} ... чтобы войти в купе, надо воспользоваться билетом».{End}",
+        "Target": "{X60Y10}{Char Zell}{Line}«Кстати, {Char Squall}... чтобы войти в{Line}купе, надо воспользоваться билетом».{End}",
         "Source Text SHA256": "3ED51C0D622EC03C67608C4F9EDD94603A369B0A8E1AC790166FF624549E2709",
         "sourceContext": {
           "Source MSD SHA256": "A1A04015C6F649382A96808365A4FFCCE46233C8F0592704E915D65D30DB447A",

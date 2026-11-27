@@ -18,7 +18,7 @@
         }
       },
       "$en_cdfield2_0002": {
-        "Target": "{X150Y170}{Char Ward}{Line}«Кстати о{Next}странном...{Pause 80}{Line} Почему ты... так странно перебегал?»{End}",
+        "Target": "{X150Y170}{Char Ward}{Line}«Кстати о странном...{Next}Почему ты...{Pause 80}{Line} так странно перебегал?»{End}",
         "Source Text SHA256": "E4B7E31B50164BF8A470A547F2AB21176004825EDF6A95BB4DDFABC0BDD3561C",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -42,7 +42,7 @@
         }
       },
       "$en_cdfield2_0005": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«Похоже у нас компания. Солдаты Эстара.{Line} Всё ещё{Next}носят эту яркую форму».{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Похоже у нас компания. Солдаты Эстара.{Next}Всё ещё носят эту яркую форму».{End}",
         "Source Text SHA256": "2236118680A8F6FF731DB086C798B30A2C23ABB352FCF6E63A7E8A60411C50B0",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",

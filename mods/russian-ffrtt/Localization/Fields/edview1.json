@@ -26,7 +26,7 @@
         }
       },
       "$en_edview1_0003": {
-        "Target": "{X20Y20}Ну{Next}что{Line} ж... Наверное,{Next}ему лучше уйти...{Line} свободным.{Pause 48}{End}",
+        "Target": "{X20Y20}Ну что ж...{Next}Наверное, ему лучше уйти...{Pause 48}{Line} свободным.{End}",
         "Source Text SHA256": "BA3BEC7C0E03DA9D3462DC67A8FD67B0499B9E55383BB2F06C253D0766C5B222",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -42,7 +42,7 @@
         }
       },
       "$en_edview1_0005": {
-        "Target": "{X150Y15}«Всё {Pause 48}в{Line} порядке... Он тоже член „Сопротивления{Next}Адель“. Он ассистент доктора Одайна. Вся{Line} данные из лаборатории поступает от него».{End}",
+        "Target": "{X150Y15}«Всё {Pause 48}в{Line} порядке... Он тоже член „Сопротивления Адель“.{Next}Он ассистент доктора Одайна. Вся{Line} данные из лаборатории поступает от него».{End}",
         "Source Text SHA256": "D7A9E3FA098397769C9A6E53F306A10E22015D62CE4897042E8F4C54A198A088",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -50,7 +50,7 @@
         }
       },
       "$en_edview1_0006": {
-        "Target": "{X15Y50}Ассистент доктора{Line}«Это тот новичок?{Line} Добро пожаловать в нашу{Next}группу. Ты порядочно наделал шума там внизу... Так{Pause 48}{Line}{Pause 48}что сейчас как раз самое{Line} время покинуть эту лабораторию».{End}",
+        "Target": "{X15Y50}Ассистент доктора{Line}«Это тот новичок?{Line} Добро пожаловать в нашу группу.{Next}Ты порядочно наделал шума там внизу... Так{Pause 48}{Line}{Pause 48}что сейчас как раз самое{Line} время покинуть эту лабораторию».{End}",
         "Source Text SHA256": "01E4856721896034507D37B6CB199C0FCCDF3068C96758AB606DFA16686488F3",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -74,7 +74,7 @@
         }
       },
       "$en_edview1_0009": {
-        "Target": "{X15Y50}Ассистент доктора{Line}«Он нашёл себе новую игрушку, которой он увлёкся больше, чем Безумной Пандорой...{Line} Какого-то ребёнка по{Pause 48}{Next}имени Эллона».{End}",
+        "Target": "{X15Y50}Ассистент доктора{Line}«Он нашёл себе новую игрушку, которой он увлёкся{Line} больше, чем Безумной Пандорой...{Pause 48}{Next}Какого-то ребёнка по имени Эллона».{End}",
         "Source Text SHA256": "3B984DA0F4A273557A92F71C6758708FA64EC015CE9E9EF0A41BA234583DACBD",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -154,7 +154,7 @@
         }
       },
       "$en_edview1_0019": {
-        "Target": "{X15Y50}«Если вы ищете эту девочку, Эллону,{Line} вам наверняка понадобится помощь».{Next}«Противостоять целому Эстару... и Адель всего{Line} лишь втроём будет{Next}непросто. Но мы можем вам помочь.{Line} Мы предоставим вам всю необходимую информацию».{End}",
+        "Target": "{X15Y50}«Если вы ищете эту девочку, Эллону,{Line} вам наверняка понадобится помощь».{Next}«Противостоять целому Эстару... и Адель всего{Line} лишь втроём будет непросто.{Next}Но мы можем вам помочь.{Line} Мы предоставим вам всю необходимую информацию».{End}",
         "Source Text SHA256": "6CBE62873CD00CDC2542433AD8EF4062579E14DC92983473F8F0627BFBC39443",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -162,7 +162,7 @@
         }
       },
       "$en_edview1_0020": {
-        "Target": "{X20Y80}{Char Kiros}{Line}«Неплохая идея... Нам{Pause 48}{Line} ничего не известно об Эстаре. Я бы{Next}не хотел снова пройти через{Line} всё это.{Line} Уверен - Вард думает так же».{End}",
+        "Target": "{X20Y80}{Char Kiros}{Line}«Неплохая идея... Нам{Pause 48}{Line} ничего не известно об Эстаре.{Next}Я бы не хотел снова пройти через{Line} всё это.{Line} Уверен - Вард думает так же».{End}",
         "Source Text SHA256": "CE36DD04BBD392058B949914D0956F04C21747AB1C44D1A38B3FD5278641563B",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -170,7 +170,7 @@
         }
       },
       "$en_edview1_0021": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«Что?..{Pause 48}{Pause 48}Хмм... Хорошо,{Next}по рукам! Мы принимаем{Pause 48}{Line} вашу помощь».{Next}«Взамен, мы вам поможем{Pause 48}с вашим „Анти-Азель“{Line} или как-его-там».{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Что?..{Pause 48}{Pause 48}Хмм... Хорошо, по рукам!{Next}Мы принимаем{Pause 48}{Line} вашу помощь».{Next}«Взамен, мы вам поможем{Pause 48}с вашим „Анти-Азель“{Line} или как-его-там».{End}",
         "Source Text SHA256": "537A7823323D2EB5C276E0618617CE56FB1FDD86D19F71BAC52B08B5838CE120",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -178,7 +178,7 @@
         }
       },
       "$en_edview1_0022": {
-        "Target": "{X20Y80}{Char Kiros}{Line}«„АДЕЛЬ“».{Next}«Слушай внимательнее, потому что{Line} это уже начинает порядком надоедать...»{Next}«...так сказал бы Вард. Разве ты{Line} не видишь это по его глазам?»{End}",
+        "Target": "{X20Y80}{Char Kiros}{Line}«„АДЕЛЬ“».{Next}«Слушай внимательнее, потому что{Line} это уже начинает порядком надоедать»,{Line} — так сказал бы Вард. {Next}Разве ты не видишь это по его глазам?{End}",
         "Source Text SHA256": "A0A44CD172CFE35D6D4415B9A8AE9463B0B257E768B73F3C23E702E198BD81A1",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -186,7 +186,7 @@
         }
       },
       "$en_edview1_0023": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«Да, конечно, я{Line} всегда это вижу! Но...{Next}какая разница?! Я ведь{Line} говорю с чувством, от чистого сердца! Это{Line} важнее всего. Да... Точно! Звучит глупо, но... ты мне нравишься!»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Да, конечно, я{Line} всегда это вижу!{Next}Но... какая разница?! Я ведь{Line} говорю с чувством, от чистого сердца! Это{Line} важнее всего. Да... Точно! Звучит глупо, но... ты мне нравишься!»{End}",
         "Source Text SHA256": "8B30C93640EE1F32E51050A96FED71F5D2F17A70906667F42FEBD9CB883C25AE",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -194,7 +194,7 @@
         }
       },
       "$en_edview1_0024": {
-        "Target": "{X150Y15}«Я очень{Line} хочу, чтобы{Pause 48}ты{Next}был нашим{Line} лидером...»{End}",
+        "Target": "{X150Y15}«Я очень{Line} хочу, чтобы{Pause 48}ты был нашим{Line} лидером...»{End}",
         "Source Text SHA256": "4369C00FF3A1D4EF52CB4D5215207CE8003C0EAC2E98E61C8E02AEE5880F8D82",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -202,7 +202,7 @@
         }
       },
       "$en_edview1_0025": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«Предоставьте это мне! Как только мы{Line} найдём Эллону, я приму{Next}это предложение! Ну что ж, нанесу-ка я визит{Line} Одайну. Ждите здесь!»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Предоставьте это мне! Как только мы{Line} найдём Эллону, я приму это предложение!{Next}Ну что ж, нанесу-ка я визит{Line} Одайну. Ждите здесь!»{End}",
         "Source Text SHA256": "6FAF3F0A4A7FF3B180CD0FE329F41251C392D9BB66CD50EDEEBDFBFB829ABAD6",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -210,7 +210,7 @@
         }
       },
       "$en_edview1_0026": {
-        "Target": "{X100Y20}Чёрт, опять{Pause 48}{Line} я за своё!{Line} И почему я{Next}никогда не думаю,{Line} прежде чем сказать?{End}",
+        "Target": "{X100Y20}Чёрт, опять{Pause 48}{Line} я за своё!{Next}И почему я никогда не думаю,{Line} прежде чем сказать?{End}",
         "Source Text SHA256": "B78758DE3CB6E463EC3BF452F01167A5348078447594D2440605EEF1EEDE4BE6",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -242,7 +242,7 @@
         }
       },
       "$en_edview1_0030": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«Может она и маленькая,{Next}но Элли всё же „леди“.{Line} Представь, как бы она разозлилась, если бы она услышала,{Next}что я говорю о ней как о ребёнке.{Line} Вот я и говорю „дорогой мне человек“ из уважения... и страха».{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Может она и маленькая, но Элли всё же „леди“.{Next}Представь, как бы она разозлилась, если бы она услышала, что я говорю о ней как о ребёнке.{Next}Вот я и говорю „дорогой мне человек“ из уважения... и страха».{End}",
         "Source Text SHA256": "DFA765F7960FAF3D8BCA135E59CA6C3D4E9C79C88FCCE99CF3987A8F7EDF48BE",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -258,7 +258,7 @@
         }
       },
       "$en_edview1_0032": {
-        "Target": "{X20Y20}{Next}«Точно.{Line} Помнишь тот случай с джемом?»{End}",
+        "Target": "{X20Y20}«Точно.{Next}Помнишь тот случай с джемом?»{End}",
         "Source Text SHA256": "2B19049BD4D358D13C0F63B45B3ED9104A50FB8C1DFC88ED6AD70BE064FAAC63",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",
@@ -370,7 +370,7 @@
         }
       },
       "$en_edview1_0046": {
-        "Target": "{X15Y50}Ассистент доктора{Line}«Мы присоединимся к вам, как только сможем. А пока что - удачи!{Line} Прошу вас,{Next}будьте осторожны».{End}",
+        "Target": "{X15Y50}Ассистент доктора{Line}«Мы присоединимся к вам, как только сможем. А пока что - удачи!{Next}Прошу вас, будьте осторожны».{End}",
         "Source Text SHA256": "8F7442267EDC026FD6F54153E9A5DBA2C3AD183F46110A1BB2191C95C37CC426",
         "sourceContext": {
           "Source MSD SHA256": "AE24220CA5A9BCA262FD68E4F103AD9B7303E34F931B52AF9FBCCE2AE524C66B",

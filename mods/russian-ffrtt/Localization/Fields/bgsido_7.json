@@ -26,7 +26,7 @@
         }
       },
       "$en_bgsido_7_0003": {
-        "Target": "{X8Y8}{Char Squall}{Line}«Ах да, ещё{Next}одно... Оказалось, что гальбадианцы{Line} искали Эллону. Похоже, это было их{Line} главным заданием в РГ».{End}",
+        "Target": "{X8Y8}{Char Squall}{Line}«Ах да, ещё одно...{Next}Оказалось, что гальбадианцы{Line} искали Эллону. Похоже, это было их{Line} главным заданием в РГ».{End}",
         "Source Text SHA256": "B1753D494790275C70E3908A2F3D69E517EED64BA194AA63309382E7D2682A45",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -170,7 +170,7 @@
         }
       },
       "$en_bgsido_7_0021": {
-        "Target": "{X160Y140}Директор Сид{Line}«Проложи нам{Next}дорогу к{Line} победе над волшебницей!»{End}",
+        "Target": "{X160Y140}Директор Сид{Line}«Проложи нам дорогу к{Line} победе над волшебницей!»{End}",
         "Source Text SHA256": "D6FA0CEF33E87F44AF2B7AD6C354633BC83EDC86DBEE945745695E7E6BB527EA",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -362,7 +362,7 @@
         }
       },
       "$en_bgsido_7_0045": {
-        "Target": "{X8Y8}Нида{Line}«Ты ведь в курсе,{Line} что ремонтом сада занимались техники{Line} из РГ? В{Next}общем, они закончили.{Line} Так что...»{End}",
+        "Target": "{X8Y8}Нида{Line}«Ты ведь в курсе,{Line} что ремонтом сада занимались техники{Line} из РГ?{Next}В общем, они закончили.{Line} Так что...»{End}",
         "Source Text SHA256": "CCB719A29ED7CEABF201E8A103FAE34451B40B041F3195B10D606D2A32C03D4D",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -410,7 +410,7 @@
         }
       },
       "$en_bgsido_7_0051": {
-        "Target": "{X300Y8}Сю{Line}«Эй, почему бы нам{Line} не вернуться {Color Blue}в{Color White}{Next}[Баламб]? Мы не знаем, что там произошло{Line} с тех пор,{Next}как мы улетели. Кроме того, Баламб — портовый город,{Line} как и РГ. Он вполне может быть{Line} их следующей целью!»{End}",
+        "Target": "{X300Y8}Сю{Line}«Эй, почему бы нам{Line} не вернуться {Color Blue}в{Color White} [Баламб]?{Next}Мы не знаем, что там произошло{Line} с тех пор, как мы улетели.{Next}Кроме того, Баламб — портовый город,{Line} как и РГ. Он вполне может быть{Line} их следующей целью!»{End}",
         "Source Text SHA256": "BC2E5AB042122967CA6DF667C95B3B90698A36E6662479BA3B905A4238B517DE",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -450,7 +450,7 @@
         }
       },
       "$en_bgsido_7_0056": {
-        "Target": "{X15Y8}{Char Quistis}{Line}«Чего на самом{Next}деле хочет волшебница?{Line} Не похоже, что дело просто в мировом господстве...»{End}",
+        "Target": "{X15Y8}{Char Quistis}{Line}«Чего на самом деле хочет волшебница?{Next}Не похоже, что дело просто в мировом господстве...»{End}",
         "Source Text SHA256": "707AB9C8F5315A4F64242BB0E7AADCAC458575E2386AF353E6674ECD1218F44B",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -602,7 +602,7 @@
         }
       },
       "$en_bgsido_7_0075": {
-        "Target": "{X62Y8}(Но я думал, что{Line} он был уничтожен ракетами.) (А,{Next}ясно... Вот оно что.{Line} Конечно, ей бы туда хотелось.){End}",
+        "Target": "{X62Y8}(Но я думал, что{Line} он был уничтожен ракетами.){Next}(А, ясно... Вот оно что.{Line} Конечно, ей бы туда хотелось.){End}",
         "Source Text SHA256": "4EBB2154531AE6FEFDF7704E5446E0AFE8FE2A1DBAA0E7D63481F3D6AD2D71C5",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -682,7 +682,7 @@
         }
       },
       "$en_bgsido_7_0085": {
-        "Target": "{X300Y8}Сю{Line}«Не хочу говорить это при тебе{Line} и Квистис, но... Я{Next}не знаю, будут ли некоторые такими{Line} же снисходительными».{End}",
+        "Target": "{X300Y8}Сю{Line}«Не хочу говорить это при тебе{Line} и Квистис, но...{Next}Я не знаю, будут ли некоторые такими{Line} же снисходительными».{End}",
         "Source Text SHA256": "E2699CE0E5BEAB5D46039E48D3C67DB1F9395B589137E33C4F726B05C5CDBE6D",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -818,7 +818,7 @@
         }
       },
       "$en_bgsido_7_0102": {
-        "Target": "{X8Y8}Сю{Line}«Поверить не могу, что{Line} мы направляемся в{Next}Эстар. У меня мурашки{Line} от этих солдат».{End}",
+        "Target": "{X8Y8}Сю{Line}«Поверить не могу, что{Line} мы направляемся в Эстар.{Next}У меня мурашки{Line} от этих солдат».{End}",
         "Source Text SHA256": "AE9BF115F7454607F942873170D060FE70958A7AADD19558589C5AA34D65928B",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -826,7 +826,7 @@
         }
       },
       "$en_bgsido_7_0103": {
-        "Target": "{X20Y8}{Char Quistis}{Line}«Континент Эстар окружён огромным{Line} горным массивом. Он{Next}буквально спрятан в{Line} горах. Контакта{Next}с внешним миром{Line} практически нет. Поэтому{Line} их называют „Безмолвной страной“».{End}",
+        "Target": "{X20Y8}{Char Quistis}{Line}«Континент Эстар окружён огромным{Line} горным массивом.{Next}Он буквально спрятан в{Line} горах.{Next}Контакта с внешним миром{Line} практически нет. Поэтому{Line} их называют „Безмолвной страной“».{End}",
         "Source Text SHA256": "7C0DDB6F8B17C6F05A580DEEE5EC698C8473961AB105BF7AFCFE018478095453",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -834,7 +834,7 @@
         }
       },
       "$en_bgsido_7_0104": {
-        "Target": "{X20Y8}{Char Quistis}{Line}«Не думаю, что Сад сможет{Line} перелететь эти горы. Есть одна{Next}железная дорога, ведущая из{Line} РГ в Эстар. В РГ{Next}она использовалась для связи с Эстаром.{Line} Теперь всё, что осталось, — это{Line} железная дорога».{End}",
+        "Target": "{X20Y8}{Char Quistis}{Line}«Не думаю, что Сад сможет{Line} перелететь эти горы.{Next}Есть одна железная дорога, ведущая из{Line} РГ в Эстар.{Next}В РГ она использовалась для связи с Эстаром.{Line} Теперь всё, что осталось, — это{Line} железная дорога».{End}",
         "Source Text SHA256": "29466D56E30BBB60BDDC43FE34C700150395DCDAA39283F84BF1266757FC7150",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -938,7 +938,7 @@
         }
       },
       "$en_bgsido_7_0117": {
-        "Target": "{X29Y8}{Line} «Ладно...»{Line}{Next}«Ты{Line}{Line} второй,{Next}кто{Line}{Line} смог{Next}меня{Line}{Line}{Next}победить».{Line}{End}",
+        "Target": "{X29Y8}«Ладно...{Next}Ты второй, кто смог меня победить».{End}",
         "Source Text SHA256": "6700B04FBBAECC79EA9C5BE959EE25A7319CDBF8D869D93FC7DA7D0653575042",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",
@@ -1482,7 +1482,7 @@
         }
       },
       "$en_bgsido_7_0171": {
-        "Target": "{X160Y140}Директор Сид{Line}{Line} «Понятно... Я{Line} также{Next}недавно{Line} выслушал{Line} доклад Сельфи».{End}",
+        "Target": "{X160Y140}Директор Сид{Line}{Line} «Понятно...{Next}Я{Line} также недавно{Line} выслушал{Line} доклад Сельфи».{End}",
         "Source Text SHA256": "0806925CF9E6F8A2EC1D83155D3EFC89B8AAD088A0B84648CA36A0D64F57C691",
         "sourceContext": {
           "Source MSD SHA256": "63F18BB906AC5649F83EAA70C9FD8E346476F3BE721F119CC7007E370E5E1DA3",

@@ -26,7 +26,7 @@
         }
       },
       "$en_gmtika2_0003": {
-        "Target": "{X12Y12}Охранник{Line}«Серьёзно?{Line} Тогда, думаю, моя смена{Next}окончена... Я заскочу за{Line} часовым. Приступайте к осмотру».{End}",
+        "Target": "{X12Y12}Охранник{Line}«Серьёзно?{Line} Тогда, думаю, моя смена окончена...{Next}Я заскочу за{Line} часовым. Приступайте к осмотру».{End}",
         "Source Text SHA256": "A87737119723D876F94666451E9930AE61F9F34B10E04D81A98634BB9BD68417",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -226,7 +226,7 @@
         }
       },
       "$en_gmtika2_0028": {
-        "Target": "{X12Y140}{Char Selphie}{Line}«Вам{Next}показалось!{Line} Ни о чём не беспокойтесь! Мы сейчас всё исправим!»{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}«Вам показалось!{Next}Ни о чём не беспокойтесь! Мы сейчас всё исправим!»{End}",
         "Source Text SHA256": "2C262BAF2C50DA4472231FAED70958AE23C24BB8462CFFCC43DD6E816AF53B0E",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -298,7 +298,7 @@
         }
       },
       "$en_gmtika2_0037": {
-        "Target": "{X12Y140}{Char Selphie}{Line}«Мы только заглянули{Next}внутрь, но...{Line} Там полный бардак! Нам никак не починить такое!»{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}«Мы только заглянули внутрь, но...{Next}Там полный бардак! Нам никак не починить такое!»{End}",
         "Source Text SHA256": "2096743FA087AA8DBC174293470313FA380237151C7F3A37FFC426F46B747C53",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",

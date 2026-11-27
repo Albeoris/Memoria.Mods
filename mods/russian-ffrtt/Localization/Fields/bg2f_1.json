@@ -42,7 +42,7 @@
         }
       },
       "$en_bg2f_1_0005": {
-        "Target": "{X94Y8}«Мать твою,{Line} что происходит? Сначала{Line} все дрались с{Next}друг другом, теперь{Line} мы куда-то летим».{End}",
+        "Target": "{X94Y8}«Мать твою,{Line} что происходит?{Next}Сначала{Line} все дрались с друг другом, теперь{Line} мы куда-то летим».{End}",
         "Source Text SHA256": "662C76DBDF41CEBFD4C023EB945610C8950404AECE3E55B859759E8BB1A0E31B",
         "sourceContext": {
           "Source MSD SHA256": "4A0EDBDA71A773147C11DFA2F1759F863D61B2767C92796DA6E24FE0906A437C",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bg2f_1_0006": {
-        "Target": "{X92Y8}«Я чуть штаны не{Line} обмочил. А{Next}ты чего такой{Line} спокойный? Тебе, что{Line} ли, совсем не страшно?»{End}",
+        "Target": "{X92Y8}«Я чуть штаны не{Line} обмочил.{Next}А ты чего такой{Line} спокойный? Тебе, что{Line} ли, совсем не страшно?»{End}",
         "Source Text SHA256": "0B67A59835AE9AA82093829C8D163CDBB3F1C1159F3ABC4B61A531E6C9F921AF",
         "sourceContext": {
           "Source MSD SHA256": "4A0EDBDA71A773147C11DFA2F1759F863D61B2767C92796DA6E24FE0906A437C",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bg2f_1_0012": {
-        "Target": "{X77Y8}«О, слушай, тебе{Line} вот это случайно не{Next}нужно? Мой брат дал мне эти{Line} карты, но они совсем не по{Line} мне. Можешь взять их, если хочешь».{End}",
+        "Target": "{X77Y8}«О, Скволл! Нужны карты?{Next}Мне их тут брательник всучил,{Line} а они мне нафиг не сдались».{End}",
         "Source Text SHA256": "0EA8292BFA58F684DFDB7A790685B0AE71ECC517EA1B6CA18A65FC7EB8004F1F",
         "sourceContext": {
           "Source MSD SHA256": "4A0EDBDA71A773147C11DFA2F1759F863D61B2767C92796DA6E24FE0906A437C",
@@ -218,7 +218,7 @@
         }
       },
       "$en_bg2f_1_0023": {
-        "Target": "{X111Y8}{Char Selphie}{Line}«СИД!{Line} СИИИД!{Line} СИИИИИИД!»{End}",
+        "Target": "{X111Y8}{Char Selphie}{Line}«Сид! Сиид! Сиииид!»{End}",
         "Source Text SHA256": "15B8AA532F222E8B0C31DDE900FF13DFCD9643673AA52255CC1EDC85D62A6324",
         "sourceContext": {
           "Source MSD SHA256": "4A0EDBDA71A773147C11DFA2F1759F863D61B2767C92796DA6E24FE0906A437C",
@@ -226,7 +226,7 @@
         }
       },
       "$en_bg2f_1_0024": {
-        "Target": "{X71Y8}{Char Zell}{Line}«Эй!{Line}{Char Squall}!{Line} Давай вернёмся в класс».{End}",
+        "Target": "{X71Y8}{Char Zell}{Line}«Эй! {Char Squall}! Пошли в класс!»{End}",
         "Source Text SHA256": "EB3B6BB9FEAD043256958E77D815AB37EBCA37AF0FA2F740F33D3230426736AE",
         "sourceContext": {
           "Source MSD SHA256": "4A0EDBDA71A773147C11DFA2F1759F863D61B2767C92796DA6E24FE0906A437C",
@@ -234,7 +234,7 @@
         }
       },
       "$en_bg2f_1_0025": {
-        "Target": "{X28Y8}{Char Zell}{Line}«Что значит „зачем“? Разве ты{Line} не помнишь, что делают новые Сиды?»{Next}«Они выступают с речью перед всем{Line} классом! А после этого будет{Line} вечеринка по случаю посвящения!»{End}",
+        "Target": "{X28Y8}{Char Zell}{Line}«Что значит „зачем“?! Ты что, не помнишь,{Line}что делают новые сиды?»{Next}«Нужно толкнуть речь! А потом — вечеринка!!!»{End}",
         "Source Text SHA256": "F20C8C0C27BE3E54E36015947F452B9A68816240746B67AD2C3ACAE23614412B",
         "sourceContext": {
           "Source MSD SHA256": "4A0EDBDA71A773147C11DFA2F1759F863D61B2767C92796DA6E24FE0906A437C",
@@ -242,7 +242,7 @@
         }
       },
       "$en_bg2f_1_0026": {
-        "Target": "{X78Y8}{Char Zell}{Line}«ООО ДААА!!!»{End}",
+        "Target": "{X78Y8}{Char Zell}{Line}«ОООООО ДААААААААААА!!!»{End}",
         "Source Text SHA256": "F65287E91A0B2133AC3DD12AE8F8E5426780E7269191845E557587741FBCC942",
         "sourceContext": {
           "Source MSD SHA256": "4A0EDBDA71A773147C11DFA2F1759F863D61B2767C92796DA6E24FE0906A437C",
@@ -298,7 +298,7 @@
         }
       },
       "$en_bg2f_1_0033": {
-        "Target": "{X27Y20}Пики{Line}{Line}{Next}«Ох,{Line}»{Next}{Line}{Next}«что-то»{Next}{Line}{Line}{Next}«я{Line}{Line}»{Next}{Line}{Next}«заболтался...{Line}»{Next}{Line}{End}",
+        "Target": "{X27Y20}Пики{Line}«Ох, что-то я заболтался...»{End}",
         "Source Text SHA256": "FCED5540435835E81D17E6296BF82F9D8080D35099782A2574A5DDDD832B13F8",
         "sourceContext": {
           "Source MSD SHA256": "4A0EDBDA71A773147C11DFA2F1759F863D61B2767C92796DA6E24FE0906A437C",

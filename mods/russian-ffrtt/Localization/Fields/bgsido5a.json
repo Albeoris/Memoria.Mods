@@ -74,7 +74,7 @@
         }
       },
       "$en_bgsido5a_0009": {
-        "Target": "{X37Y40}{Char Selphie}{Line}«Зелл?.. Эмм, по-моему{Next}он спит.{Line} Да, он сказал, что за последнее время совсем не спал».{End}",
+        "Target": "{X37Y40}{Char Selphie}{Line}«Зелл?.. Эмм, по-моему он спит.{Next}Да, он сказал, что за последнее время совсем не спал».{End}",
         "Source Text SHA256": "7F05E774C6F93BB8E4AA10FC01B84645B541228FE1A0828750686170E8DC70AE",
         "sourceContext": {
           "Source MSD SHA256": "7BEF96329D1005760DE68E1431BBA39F7CE1116B4AA7B5FBCFAE98FEEEAE66ED",
@@ -194,7 +194,7 @@
         }
       },
       "$en_bgsido5a_0024": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Нам удалось отбить{Line} первые две волны. Но дела у{Next}наших войск не очень. Многие ранены.{Line} Не знаю, сможем ли мы удержать{Line} их, если пришлют ещё один отряд».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}«Нам удалось отбить{Line} первые две волны.{Next}Но дела у наших войск не очень. Многие ранены.{Line} Не знаю, сможем ли мы удержать{Line} их, если пришлют ещё один отряд».{End}",
         "Source Text SHA256": "C367094B6C1AB8D0DA6D29B5BEF231D5B7BF539ABE731C93390FBC193410AEA0",
         "sourceContext": {
           "Source MSD SHA256": "7BEF96329D1005760DE68E1431BBA39F7CE1116B4AA7B5FBCFAE98FEEEAE66ED",
@@ -242,7 +242,7 @@
         }
       },
       "$en_bgsido5a_0030": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«У их Сада более{Line} опытные бойцы. С другой{Next}стороны, большинство наших войск состоит из{Line} студентов, всё ещё проходящих обучение. Как уже{Next}сказал {Char Squall}, ещё одна атака{Line} и нас могут разбить».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}«У их Сада более{Line} опытные бойцы.{Next}С другой стороны, большинство наших войск состоит из{Line} студентов, всё ещё проходящих обучение.{Next}Как уже сказал {Char Squall}, ещё одна атака{Line} и нас могут разбить».{End}",
         "Source Text SHA256": "289774ABBDA2E10CC1DA25998F7653F11AAB8E525EC67C0D3CA2DFF22D8C7811",
         "sourceContext": {
           "Source MSD SHA256": "7BEF96329D1005760DE68E1431BBA39F7CE1116B4AA7B5FBCFAE98FEEEAE66ED",
@@ -330,7 +330,7 @@
         }
       },
       "$en_bgsido5a_0041": {
-        "Target": "{X10Y10}{Char Zell}{Line}«Прости, чувак. Я ничего не{Line} могу поделать! К площади{Next}не подобраться! Эти{Line} ублюдки забаррикадировали территорию».{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Прости, чувак. Я ничего не{Line} могу поделать!{Next}К площади не подобраться! Эти{Line} ублюдки забаррикадировали территорию».{End}",
         "Source Text SHA256": "34831E7D0EDDE6AB425C85608A71AEA3D09F3EB0B9408EB67C938622A658B76F",
         "sourceContext": {
           "Source MSD SHA256": "7BEF96329D1005760DE68E1431BBA39F7CE1116B4AA7B5FBCFAE98FEEEAE66ED",
@@ -378,7 +378,7 @@
         }
       },
       "$en_bgsido5a_0047": {
-        "Target": "{X78Y10}{Char Irvine}{Line}«Мне плевать, что ты там должен,{Line} или каково тебе. Просто{Next}сделай это... прошу!{Line} Ради {Char Rinoa}...»{End}",
+        "Target": "{X78Y10}{Char Irvine}{Line}«Мне плевать, что ты там должен,{Line} или каково тебе.{Next}Просто сделай это... прошу!{Line} Ради {Char Rinoa}...»{End}",
         "Source Text SHA256": "23A5EEFCA2DB17417CC1515CA897147615A878DCD970261681593A06BC80B0E4",
         "sourceContext": {
           "Source MSD SHA256": "7BEF96329D1005760DE68E1431BBA39F7CE1116B4AA7B5FBCFAE98FEEEAE66ED",

@@ -138,7 +138,7 @@
         }
       },
       "$en_bghall1b_0013": {
-        "Target": "{X43Y8}«Твоё{Line} время{Next}пришло...»{End}",
+        "Target": "{X43Y8}«Твоё{Line} время пришло...»{End}",
         "Source Text SHA256": "3E58AE69EFC460174F0071AE28C1B85D92A6250E4FBDB70BF820AED965B6EA5E",
         "sourceContext": {
           "Source MSD SHA256": "FA45B7DA7CC236EC58384255689AA3CAE45DB4DA2A0424EA3247C53960515009",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bghall1b_0014": {
-        "Target": "{X68Y8}{Line}«{Char Squall},{Next}{Line} я{Line} вызываю{Next}тебя!{Line}{Key Cards}».{End}",
+        "Target": "{X68Y8}«{Char Squall}, я вызываю тебя!»{Line}{Key Cards}{End}",
         "Source Text SHA256": "3B9406CAA10585196158A1015E07819C3FD851355B80318E8A995AB33E8A7C3D",
         "sourceContext": {
           "Source MSD SHA256": "FA45B7DA7CC236EC58384255689AA3CAE45DB4DA2A0424EA3247C53960515009",
@@ -170,7 +170,7 @@
         }
       },
       "$en_bghall1b_0017": {
-        "Target": "{X32Y8}Джек{Line}«Вот{Line} чёрт, я{Line} проиграл...»{Next}«А ты{Line} хорош!»{Next}«Но не{Line} расслабляйся{Next}- всё{Line} только{Line} начинается!{Line} Неплохо.{Line} Но будь{Next}осторожен,{Line} в группе{Line} КК{Next}есть{Line} игроки намного{Next}лучше{Line} меня».{End}",
+        "Target": "{X32Y8}Джек{Line}«Вот{Line} чёрт, я{Line} проиграл...»{Next}«А ты{Line} хорош!»{Next}«Но не{Line} расслабляйся - всё{Line} только{Line} начинается!{Next}Неплохо.{Next}Но будь осторожен,{Line} в группе{Line} КК есть{Line} игроки намного лучше{Line} меня».{End}",
         "Source Text SHA256": "46CA3B12FD87E6AA8BEB17B0CE56D1B076AFA98395D98C6CCDC0D5912D38CDE0",
         "sourceContext": {
           "Source MSD SHA256": "FA45B7DA7CC236EC58384255689AA3CAE45DB4DA2A0424EA3247C53960515009",
@@ -666,7 +666,7 @@
         }
       },
       "$en_bghall1b_0075": {
-        "Target": "{X22Y8}«Жизнь понемногу возвращается в{Line} прежнее русло. Минувший хаос унёс{Next}жизни нескольких сидов, но оставшиеся сплотились{Line} и остаются верны саду. Кстати, раз уж я об{Next}этом заговорил... {Char Squall},{Line} ты ещё не встречался с хозяином сада?{Line} Я тоже. Думаю, нам пора с ним познакомиться...»{End}",
+        "Target": "{X22Y8}«Жизнь понемногу возвращается в{Line} прежнее русло.{Next}Минувший хаос унёс жизни нескольких сидов, но оставшиеся сплотились{Line} и остаются верны саду.{Next}Кстати, раз уж я об этом заговорил... {Char Squall},{Line} ты ещё не встречался с хозяином сада?{Line} Я тоже. Думаю, нам пора с ним познакомиться...»{End}",
         "Source Text SHA256": "C8D0E84AFC7F820628BF46C90849728E4BEF0C487DC3CB292607807AE342E773",
         "sourceContext": {
           "Source MSD SHA256": "FA45B7DA7CC236EC58384255689AA3CAE45DB4DA2A0424EA3247C53960515009",

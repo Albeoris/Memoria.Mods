@@ -74,7 +74,7 @@
         }
       },
       "$en_ggback1_0009": {
-        "Target": "{X86Y10}{Char Rinoa}{Line}«У меня есть одна очень важная{Line} вещица, принадлежащая тебе. Не{Next}могу же умереть, не{Line} вернув её тебе, верно?»{End}",
+        "Target": "{X86Y10}{Char Rinoa}{Line}«У меня есть одна очень важная{Line} вещица, принадлежащая тебе.{Next}Не могу же умереть, не{Line} вернув её тебе, верно?»{End}",
         "Source Text SHA256": "B19F91E2D0A054657090B21393035D734103277A28D84E9922B775B0BBDDFAEA",
         "sourceContext": {
           "Source MSD SHA256": "6AFCEA5C480B08A678A7E1EE9E66A37C8927E2622AF715EBCFE11D8E309FA70F",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ggback1_0014": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Это не монстр.{Line} Это{Next}лев. Львы известны своей{Line} огромной силой и гордостью».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}«Это не монстр.{Next}Это лев. Львы известны своей{Line} огромной силой и гордостью».{End}",
         "Source Text SHA256": "C50FE5F3184D8D26239FE7832AD4450C3A60A964CE3EA9F85CBFD3A1E82BBFE7",
         "sourceContext": {
           "Source MSD SHA256": "6AFCEA5C480B08A678A7E1EE9E66A37C8927E2622AF715EBCFE11D8E309FA70F",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ggback1_0019": {
-        "Target": "{X110Y10}{Char Rinoa}{Line}«Так вот как{Next}ты его называешь.{Line} Знаешь, Зелл сказал, что сделает мне точно такое же».{End}",
+        "Target": "{X110Y10}{Char Rinoa}{Line}«Так вот как ты его называешь.{Next}Знаешь, Зелл сказал, что сделает мне точно такое же».{End}",
         "Source Text SHA256": "640EBE1379380E3BDAEB41E595294B90E92878FC7FCBE6B79B9826D8C11F6068",
         "sourceContext": {
           "Source MSD SHA256": "6AFCEA5C480B08A678A7E1EE9E66A37C8927E2622AF715EBCFE11D8E309FA70F",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ggback1_0023": {
-        "Target": "{X10Y70}(Все и так пытаются{Line} нас свести.) (Это{Next}настолько очевидно, что{Line} даже я вижу.){End}",
+        "Target": "{X10Y70}(Все и так пытаются{Line} нас свести.){Next}(Это настолько очевидно, что{Line} даже я вижу.){End}",
         "Source Text SHA256": "FB99D139261DEC3D55D350EC9BD58AF8AEFB4A791649D2F3E257CF191F4BE972",
         "sourceContext": {
           "Source MSD SHA256": "6AFCEA5C480B08A678A7E1EE9E66A37C8927E2622AF715EBCFE11D8E309FA70F",

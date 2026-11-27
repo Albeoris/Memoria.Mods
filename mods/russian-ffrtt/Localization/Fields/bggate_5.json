@@ -18,11 +18,14 @@
         }
       },
       "$en_bggate_5_0002": {
-        "Target": "{X200Y8}{Char Zell}{Line}«Добрался!»{End}",
+        "Target": "{X200Y8}{Char Zell}{Line}«Я тут!»{End}{End}",
         "Source Text SHA256": "0372A9400259603E45D3287E197945C7EA56D40D47D43DAE1BF80417271BD690",
         "sourceContext": {
           "Source MSD SHA256": "C88650C8C579C144A4A122F9B880EC879A7281D12362B992F37F880AA102023D",
           "JSM SHA256": "EF15BA868B7102916E374CF76CE23C9A19144EB051E3D60CC4CF4DC2102DC7D4"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X200Y8}{Char Zell}{Line}«Я тут!»{End}"
         }
       },
       "$en_bggate_5_0003": {
@@ -34,19 +37,25 @@
         }
       },
       "$en_bggate_5_0004": {
-        "Target": "{X200Y8}{Char Zell}{Line}«Ой, простите!»{End}",
+        "Target": "{X200Y8}{Char Zell}{Line}«Упс, прошу пардону!»{End}{End}",
         "Source Text SHA256": "EA18E49B36982E8CEDB7605FDFA560325E406C84537486D13A14EBEAE0B95597",
         "sourceContext": {
           "Source MSD SHA256": "C88650C8C579C144A4A122F9B880EC879A7281D12362B992F37F880AA102023D",
           "JSM SHA256": "EF15BA868B7102916E374CF76CE23C9A19144EB051E3D60CC4CF4DC2102DC7D4"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X200Y8}{Char Zell}{Line}«Упс, прошу пардону!»{End}"
         }
       },
       "$en_bggate_5_0005": {
-        "Target": "{X200Y8}{Char Zell}{Line}«Но эта штука и вправду{Line} классная. Однажды, она может пригодиться{Line} на задании для Сидов».{End}",
+        "Target": "{X200Y8}{Char Zell}{Line}«Но эта штука и вправду классная. Однажды{Line}она может пригодиться и на задании для{Line}сидов!»{End}{End}",
         "Source Text SHA256": "E7DC91C8C904EC529D229C4742F00217404651F5536EEB811049463C374190E4",
         "sourceContext": {
           "Source MSD SHA256": "C88650C8C579C144A4A122F9B880EC879A7281D12362B992F37F880AA102023D",
           "JSM SHA256": "EF15BA868B7102916E374CF76CE23C9A19144EB051E3D60CC4CF4DC2102DC7D4"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X200Y8}{Char Zell}{Line}«Но эта штука и вправду классная. Однажды{Line}она может пригодиться и на задании для{Line}сидов!»{End}"
         }
       },
       "$en_bggate_5_0006": {
@@ -98,7 +107,7 @@
         }
       },
       "$en_bggate_5_0012": {
-        "Target": "{X32Y8}Преподаватель{Line}“Этот человек заговорит с вами и скажет:{Line} «Тимберские леса изменились».”{Next}“Вы должны ответить:{Line} «Но совы ещё остались».{Line} Это пароль.”",
+        "Target": "{X32Y8}Преподаватель{Line}“Этот человек заговорит с вами и скажет:{Line} «Тимберские леса изменились».”{Next}“Вы должны ответить:{Line} «Но совы ещё остались».{Next}Это пароль.”",
         "Source Text SHA256": "D6DEAA6818F24BF874615CA194EEAC5C276A648D3EF9C42468010E80A0814FF2",
         "sourceContext": {
           "Source MSD SHA256": "C88650C8C579C144A4A122F9B880EC879A7281D12362B992F37F880AA102023D",
@@ -114,11 +123,14 @@
         }
       },
       "$en_bggate_5_0014": {
-        "Target": "{X200Y8}{Char Zell}{Line}«Эээ... только мы втроём?»{End}",
+        "Target": "{X200Y8}{Char Zell}{Line}«Эээ... только мы втроём?»{End}{End}",
         "Source Text SHA256": "B73E07D78EE53B941E09876E2A0AF187CF7B665B45DDDE8F24865484CA86C015",
         "sourceContext": {
           "Source MSD SHA256": "C88650C8C579C144A4A122F9B880EC879A7281D12362B992F37F880AA102023D",
           "JSM SHA256": "EF15BA868B7102916E374CF76CE23C9A19144EB051E3D60CC4CF4DC2102DC7D4"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X200Y8}{Char Zell}{Line}«Эээ... только мы втроём?»{End}"
         }
       },
       "$en_bggate_5_0015": {
@@ -138,11 +150,14 @@
         }
       },
       "$en_bggate_5_0017": {
-        "Target": "{X20Y8}Директор Сид{Line}«Ну что ж, {Char Squall}, ты{Line} – лидер отряда. Старайся{Line} принимать решения, основываясь на ситуации».{Next}«Зелл и Сельфи, вы будете поддерживать{Line}{Char Squall} а и делать всё возможное,{Line} чтобы осуществить планы группы».{End}",
+        "Target": "{X20Y8}Директор Сид{Line}«{Char Squall}, ты — лидер отряда.{Line}Принимай решения по обстановке».{Next}«Зелл и Сельфи, на вас поддержка лидера.{Line}{Char Squall} должен на вас положиться.{Line}Сделайте всё возможное для осуществления{Line}планов группы сопротивления».{End}",
         "Source Text SHA256": "BA2E6CFBB43FE19A8CF386A4365AEB140F8406FE19FE6857A32EFABFEEC98F14",
         "sourceContext": {
           "Source MSD SHA256": "C88650C8C579C144A4A122F9B880EC879A7281D12362B992F37F880AA102023D",
           "JSM SHA256": "EF15BA868B7102916E374CF76CE23C9A19144EB051E3D60CC4CF4DC2102DC7D4"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X20Y8}Директор Сид{Line}«{Char Squall}, ты — лидер отряда.{Line}Принимай решения по обстановке».{Next}«Зелл и Сельфи, на вас поддержка лидера.{Line}{Char Squall} должен на вас положиться.{Line}Сделайте всё возможное для осуществления{Line}планов группы сопротивления».{End}"
         }
       },
       "$en_bggate_5_0018": {
@@ -154,7 +169,7 @@
         }
       },
       "$en_bggate_5_0019": {
-        "Target": "{X20Y8}Директор Сид{Line}“Возьми ещё это...”{Next}“Это проклятая штуковина.{Line} Но она может оказать помощь.” {Next}“Используй её, когда будешь{Line} уверен в своих силах.”",
+        "Target": "{X20Y8}Директор Сид{Line}«Возьми ещё это...{Next}Это проклятая штуковина.{Line} Но она может оказать помощь.{Line} Используй её, когда будешь{Line} уверен в своих силах».",
         "Source Text SHA256": "9AFA15637B231A6A698C384EDFF8BF7573AEF7C470209F3113600E6EE6918384",
         "sourceContext": {
           "Source MSD SHA256": "C88650C8C579C144A4A122F9B880EC879A7281D12362B992F37F880AA102023D",
@@ -162,11 +177,14 @@
         }
       },
       "$en_bggate_5_0020": {
-        "Target": "{X20Y8}Директор Сид{Line}«О, {Char Squall},{Line} забыл вручить тебе вот это».{Next}«На этой вещи проклятие,{Line} но тому, у кого хватит силы,{Line} она очень пригодится».{End}",
+        "Target": "{X20Y8}Директор Сид{Line}«И ещё, {Char Squall}, возьми вот это...{Next}Это проклятая штуковина. Но она может пригодиться.{Line} Используй её, когда будешь уверен в своих силах».{End}{End}",
         "Source Text SHA256": "8EDDAB417C95BC2164DB94C96FAF7B35F6DBE735895710F83D27323A9253FD4E",
         "sourceContext": {
           "Source MSD SHA256": "C88650C8C579C144A4A122F9B880EC879A7281D12362B992F37F880AA102023D",
           "JSM SHA256": "EF15BA868B7102916E374CF76CE23C9A19144EB051E3D60CC4CF4DC2102DC7D4"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X20Y8}Директор Сид{Line}«И ещё, {Char Squall}, возьми вот это...{Next}Это проклятая штуковина. Но она может пригодиться.{Line} Используй её, когда будешь уверен в своих силах».{End}"
         }
       },
       "$en_bggate_5_0021": {
@@ -290,7 +308,7 @@
         }
       },
       "$en_bggate_5_0036": {
-        "Target": "{X50Y8}Преподаватель{Line}«Хорошо… Найдите{Line} Сида и{Next}свяжитесь со мной! Предатели где-то прячут его.{Line} Убейте их, если будут мешать».{End}",
+        "Target": "{X50Y8}Преподаватель{Line}«Хорошо… Найдите{Line} Сида и свяжитесь со мной!{Next}Предатели где-то прячут его.{Line} Убейте их, если будут мешать».{End}",
         "Source Text SHA256": "37854C334F339FD0B18422C2F4899D388A4776C22612769FC1A6AB7A8DFB0150",
         "sourceContext": {
           "Source MSD SHA256": "C88650C8C579C144A4A122F9B880EC879A7281D12362B992F37F880AA102023D",

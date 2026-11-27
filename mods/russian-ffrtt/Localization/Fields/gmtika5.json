@@ -10,7 +10,7 @@
         }
       },
       "$en_gmtika5_0001": {
-        "Target": "{X12Y12}Охранник{Line}«Ну, нам{Next}тут помощь нужна.{Line} Думаю, не имеет значения кто... Можете нам помочь?»{End}",
+        "Target": "{X12Y12}Охранник{Line}«Ну, нам тут помощь нужна.{Next}Думаю, не имеет значения кто... Можете нам помочь?»{End}",
         "Source Text SHA256": "DD12961761FEADCF666D3EF09C4A57263592F148C9DFEC90DAFC6681E0C5185F",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -234,7 +234,7 @@
         }
       },
       "$en_gmtika5_0025": {
-        "Target": "{X140Y150}{Char Selphie}{Line}«Будет мегаоблом если{Line} мы по ошибке{Next}запустим ракеты. Давайте{Line} изучим её тщательнее».{End}",
+        "Target": "{X140Y150}{Char Selphie}{Line}«Будет мегаоблом если{Line} мы по ошибке запустим ракеты.{Next}Давайте{Line} изучим её тщательнее».{End}",
         "Source Text SHA256": "9F5A6C1B63C3323C6A4DCE65007BF8EEA14E9C7D842E10374FF04F6627000531",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",

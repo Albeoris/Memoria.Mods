@@ -10,7 +10,7 @@
         }
       },
       "$en_bgpaty_2_0001": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Ты и вправду превосходный студент. Даже{Line} этот танец был идеален».{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Ты и вправду превосходный ученик. Даже{Line}этот танец был идеален».{End}",
         "Source Text SHA256": "F1969A5D19F714BD854D7C034FE8E4671F67095348811CE767760FEB81B34628",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgpaty_2_0004": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Значит, ты будешь танцевать с кем-то, кого ты даже не{Line} знаешь, но ты терпеть не можешь быть рядом со мной?»{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Значит, ты можешь танцевать с незнакомой{Line}девушкой, но не можешь вынести моё{Line}присутствие?»{End}",
         "Source Text SHA256": "7D378963B7A0B99A1C14E252FEF4B4F49A5A619C761340D3A1E13592EC0B8C8D",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgpaty_2_0007": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Да, наверное.{Line} Я и сама такой была».{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Понимаю».{End}",
         "Source Text SHA256": "0F8FE1D806B6786E7F8FD343F7D629CB1AF060DE41A4B8B04396C27AB3E01E2B",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgpaty_2_0008": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«...Ах, я совсем забыла.{Line} Что ж со мной дальше-то будет?»{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«В таком случае...»{End}",
         "Source Text SHA256": "9F25F9C7CA946747FCDC5E1FDCFBCA5ABA56151EF0CA6DDBEC843FFEC2FF5B33",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgpaty_2_0009": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Я пришла отдать тебе приказ».{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«У меня для тебя новый приказ!»{End}",
         "Source Text SHA256": "DD824EA97B2ACF62FE0E7C446515582C7DB26E65AB39C04FE0E9892CD95F23A5",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgpaty_2_0010": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Мы с тобой{Line} пойдём в „тайное место“».{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Ты и я отправляемся в „тайное место“»{End}",
         "Source Text SHA256": "B8997C5D75885802A88C9DB16DE489EDD0B3BDB95B1B6675614C212F6F31B719",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgpaty_2_0011": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«После комендантского часа там тайно встречаются{Line} студенты и болтают».{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Студенты там частенько встречаются после{Line}отбоя».{End}",
         "Source Text SHA256": "D63C0CAD810EBBC1EC6BF7752CFA7C93DBFAD9DADDA84F177FA3169C78A8670A",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgpaty_2_0012": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Это внутри{Line}{Color Blue}[тренировочного центра]{Color White}».{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Это внутри {Color Blue}〖тренировочного центра〗{Color White}».{End}",
         "Source Text SHA256": "884EFB58205925ECDD03DFCDFDB7B897CF4A83260DD7901D97BDB00D965207F9",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bgpaty_2_0015": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Иди переоденься и встреть меня перед{Line}{Color Blue}[тренировочным центром]. Таков{Color White}{Line} будет мой последний приказ».{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Приказы, особенно последние, не{Line}обсуждаются! Переоденься и марш в{Line}{Color Blue}〖тренировочный центр〗{Color White}».{End}",
         "Source Text SHA256": "CDC76DF98E29A9C2FFFD33EDCB9E4597F6F82901128B6668097779CA2445CD25",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bgpaty_2_0016": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Хм? Вопрос?»{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Вопросы?»{End}",
         "Source Text SHA256": "AC49026C6A8103D1A08A7224B5A298A2E8DB8D8AC8E4CCB59536EDA5DD4591D9",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bgpaty_2_0018": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Иди переоденься и встреть меня перед{Line}{Color Blue}[тренировочным центром].{Color White}Понятно?»{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Перед {Color Blue}〖тренировочным центром〗{Color White}.{Line}Переодеться не забудь».{End}",
         "Source Text SHA256": "6BA9DD7178656479EB25E35F7AD40A4F3B39E44B1D095A6683DD5C7A7DB4C543",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bgpaty_2_0019": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Узнаешь в своё время».{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Узнаешь».{End}",
         "Source Text SHA256": "7E3EDE741FC18862128288EA841FAA537442E7557EC3674860AE2925E94A932A",
         "sourceContext": {
           "Source MSD SHA256": "A91CE20BEB4A911180FCF3A3FB165362942ACC902AF62E3A3D7F3A4E276E1B92",

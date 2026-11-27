@@ -50,11 +50,14 @@
         }
       },
       "$en_bvboat_2_0006": {
-        "Target": "{X140Y140}Сю{Line}«Таково текущее{Next}положение.{Line} Теперь о целях миссии».{End}",
+        "Target": "{X140Y140}Сю{Line}«Это то, что известно на данный момент».{Next}«Теперь о целях нашей миссии».{End}",
         "Source Text SHA256": "F8DF2A7EBB07B929F801BDAFB05386881EB21C00AC3C77A536C8C4C1C08DD0AA",
         "sourceContext": {
           "Source MSD SHA256": "06471B885E4C43E04DB664B05A9AE81DC7DB92B93AA27F93251FC87585171D45",
           "JSM SHA256": "2CD040A49B5C2165100D24765562F88BAB41F8BE00AD0F83516686AC5F9BEDFA"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X140Y140}Сю{Line}«Это то, что известно на данный момент».{Next}«Теперь о целях нашей миссии».{End}"
         }
       },
       "$en_bvboat_2_0007": {

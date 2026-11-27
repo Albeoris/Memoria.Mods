@@ -10,7 +10,7 @@
         }
       },
       "$en_bgroad_9_0001": {
-        "Target": "{X8Y30}{Char Zell}{Line}«Наконец-то! Вот{Line} ты где!»{End}",
+        "Target": "{X8Y30}{Char Zell}{Line}«Наконец-то!»{End}",
         "Source Text SHA256": "12FBBBAD367873E589B772C8B1DB4B3488DC5D9CF4F8DFAF3BE1F6CC085B92A0",
         "sourceContext": {
           "Source MSD SHA256": "21990E3666BC5FE2CEF694FBFBFACF640E5146E594D0D8EBEFE9FE3539303198",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bgroad_9_0002": {
-        "Target": "{X8Y30}{Char Zell}{Line}«Где тебя черти{Line} носили? Я всю местность обыскал».{End}",
+        "Target": "{X8Y30}{Char Zell}{Line}«Где тебя черти носили? Я уже весь сад{Line}обыскал».{End}",
         "Source Text SHA256": "9E8C668C914B77C31346FC0AED2F24C220FD7ADD3C7F28C3DE833003ACB1D307",
         "sourceContext": {
           "Source MSD SHA256": "21990E3666BC5FE2CEF694FBFBFACF640E5146E594D0D8EBEFE9FE3539303198",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bgroad_9_0003": {
-        "Target": "{X8Y30}{Char Zell}{Line}«Мы оба теперь члены Сид, так? Ну,{Line} угадай что?! У{Line} нас есть собственные комнаты, детка!»{End}",
+        "Target": "{X8Y30}{Char Zell}{Line}«Мы же теперь оба сиды! А это значит... У{Line}нас есть собственные комнаты, чувак!»{End}",
         "Source Text SHA256": "BAA59941DE743C2AAF0BE0C42757180F7D059F6D90514E6508F54C2BA8FC979B",
         "sourceContext": {
           "Source MSD SHA256": "21990E3666BC5FE2CEF694FBFBFACF640E5146E594D0D8EBEFE9FE3539303198",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgroad_9_0004": {
-        "Target": "{X8Y30}{Char Zell}{Line}«Твоя новая комната находится как раз напротив старой, прямо по коридору.{Line} Твоя новая комната находится напротив старой, прямо по коридору».{End}",
+        "Target": "{X8Y30}{Char Zell}{Line}«Твоя находится как раз напротив старой,{Line}прямо по коридору».{End}",
         "Source Text SHA256": "9F4404C51A704524BAFBB151BC2754136154622ABD26EF2D04976ED7F582BD86",
         "sourceContext": {
           "Source MSD SHA256": "21990E3666BC5FE2CEF694FBFBFACF640E5146E594D0D8EBEFE9FE3539303198",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgroad_9_0005": {
-        "Target": "{X8Y30}{Char Zell}{Line}«Вот что меня попросили передать тебе. Блин,{Line} это заняло целую вечность!»{End}",
+        "Target": "{X8Y30}{Char Zell}{Line}«Вот что меня попросили тебе передать.{Line}Блин, это заняло целую вечность!»{End}",
         "Source Text SHA256": "7C88C19E74195F5E99B6ED8806C9CD1F43988A8A5E5828B6029FCE98CA91B8E8",
         "sourceContext": {
           "Source MSD SHA256": "21990E3666BC5FE2CEF694FBFBFACF640E5146E594D0D8EBEFE9FE3539303198",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgroad_9_0012": {
-        "Target": "{X160Y50}{Char Rinoa}{Line}«Перестань, {Char Squall},{Next}тебе сколько лет?{Line} Мы ведь всё ещё молоды. Так почему бы не вести себя соответственно?»{End}",
+        "Target": "{X160Y50}{Char Rinoa}{Line}«Перестань, {Char Squall}, тебе сколько лет?{Next}Мы ведь всё ещё молоды. Так почему бы не вести себя соответственно?»{End}",
         "Source Text SHA256": "E1BB2F6E03B6BA3D01641DD0312F256DDE85E6805FF73632E556DEEAE5E2CD61",
         "sourceContext": {
           "Source MSD SHA256": "21990E3666BC5FE2CEF694FBFBFACF640E5146E594D0D8EBEFE9FE3539303198",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bgroad_9_0020": {
-        "Target": "{X160Y50}{Char Rinoa}{Line}«...Ладно, прости. Я могу понять,{Line} с чего бы тебе не быть{Next}в настроении. Наверное, ты всё ещё думаешь о{Line} том, что сказал сегодня директор. Он многое взвалил{Line} тебе на плечи. Всё так быстро произошло».{End}",
+        "Target": "{X160Y50}{Char Rinoa}{Line}«...Ладно, прости. Я могу понять,{Line} с чего бы тебе не быть в настроении.{Next}Наверное, ты всё ещё думаешь о{Line} том, что сказал сегодня директор. Он многое взвалил{Line} тебе на плечи. Всё так быстро произошло».{End}",
         "Source Text SHA256": "10DF7C909C544698D8973D1F8EDC8A9443ED0F9395975CC3BF54AB8B6EAD38FA",
         "sourceContext": {
           "Source MSD SHA256": "21990E3666BC5FE2CEF694FBFBFACF640E5146E594D0D8EBEFE9FE3539303198",

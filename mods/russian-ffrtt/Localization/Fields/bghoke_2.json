@@ -74,19 +74,25 @@
         }
       },
       "$en_bghoke_2_0009": {
-        "Target": "{X16Y35}Доктор Кадоваки{Line}«Квистис!{Line} Я сейчас ей позвоню. Подожди минутку».{End}",
+        "Target": "{X16Y35}Доктор Кадоваки{Line}«Квистис! Я сейчас ей позвоню. Полежи{Line}минутку».{End}{End}",
         "Source Text SHA256": "9CD50009A9A137FD17D7C29327F36CC8F4413845C763CD6ECA130E0E6A977764",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",
           "JSM SHA256": "A62007B0917DFEDCE73D04A8EDF5C22A3335576FCAB4403D9A1DD020EAE15C6D"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X16Y35}Доктор Кадоваки{Line}«Квистис! Я сейчас ей позвоню. Полежи{Line}минутку».{End}"
         }
       },
       "$en_bghoke_2_0010": {
-        "Target": "{X16Y40}Доктор Кадоваки{Line}«Квистис?{Line} Забирайте вашего студента».{Next}«Да, да...»{Next}«Его рана не серьёзна.{Line} Возможно, от неё останется шрам».{Next}«...Верно.{Line} Подойдите сюда, пожалуйста».{End}",
+        "Target": "{X16Y40}Доктор Кадоваки{Line}«Квистис? Забирайте вашего студента».{Next}«Да, да...»{Next}«Рана несерьёзная... Но останется шрам».{Next}«Верно. Подойдите сюда, пожалуйста».{End}{End}",
         "Source Text SHA256": "06DC7DF906273B357210A1A68DDE5021EC80C49B2EF11D3242840765A263D64D",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",
           "JSM SHA256": "A62007B0917DFEDCE73D04A8EDF5C22A3335576FCAB4403D9A1DD020EAE15C6D"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X16Y40}Доктор Кадоваки{Line}«Квистис? Забирайте вашего студента».{Next}«Да, да...»{Next}«Рана несерьёзная... Но останется шрам».{Next}«Верно. Подойдите сюда, пожалуйста».{End}"
         }
       },
       "$en_bghoke_2_0011": {
@@ -98,19 +104,25 @@
         }
       },
       "$en_bghoke_2_0012": {
-        "Target": "{X50Y40}{Char Squall}{Line}«Скажите это Сейферу».{End}",
+        "Target": "{X50Y40}{Char Squall}{Line}«Скажите это Сейферу».{End}{End}",
         "Source Text SHA256": "84BAD589277DE64A0A9086D9FCE47E801AC7ACEA22F1F5B929E83BC83220E29B",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",
           "JSM SHA256": "A62007B0917DFEDCE73D04A8EDF5C22A3335576FCAB4403D9A1DD020EAE15C6D"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X50Y40}{Char Squall}{Line}«Скажите это Сейферу».{End}"
         }
       },
       "$en_bghoke_2_0013": {
-        "Target": "{X16Y35}Доктор Кадоваки{Line}«Ох уж{Line} этот Сейфер... Никого не слушает».{Next}«Почему бы тебе просто не игнорировать его?»{End}",
+        "Target": "{X16Y35}Доктор Кадоваки{Line}«Опять Сейфер...»{Next}«А просто игнорировать его ты не можешь?»{End}{End}",
         "Source Text SHA256": "62D373DFD899DD2D3A291FD5414C7B1B4B74C07956B82524CF55A6DDE2B20038",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",
           "JSM SHA256": "A62007B0917DFEDCE73D04A8EDF5C22A3335576FCAB4403D9A1DD020EAE15C6D"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X16Y35}Доктор Кадоваки{Line}«Опять Сейфер...»{Next}«А просто игнорировать его ты не можешь?»{End}"
         }
       },
       "$en_bghoke_2_0014": {
@@ -138,19 +150,25 @@
         }
       },
       "$en_bghoke_2_0017": {
-        "Target": "{X120Y25}{Char Quistis}{Line}«Так и знала, что это будешь{Line} либо ты, либо Сейфер!»{End}",
+        "Target": "{X120Y25}{Char Quistis}{Line}«Так и знала, что этим закончится!»{End}{End}",
         "Source Text SHA256": "7D599B0FAC2197F70F922DC0060B292858ABBA51709F471667BDED80C2676CD9",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",
           "JSM SHA256": "A62007B0917DFEDCE73D04A8EDF5C22A3335576FCAB4403D9A1DD020EAE15C6D"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y25}{Char Quistis}{Line}«Так и знала, что этим закончится!»{End}"
         }
       },
       "$en_bghoke_2_0018": {
-        "Target": "{X120Y30}{Char Quistis}{Line}«Нам пора идти.{Line} Сегодня день полевого экзамена».{End}",
+        "Target": "{X120Y30}{Char Quistis}{Line}«Вставай, герой. У тебя сегодня экзамен».{End}{End}",
         "Source Text SHA256": "9889D4E57E04F092C545BD4E66A42A44CE75FC77F79444B9B558FA4A7B7816F5",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",
           "JSM SHA256": "A62007B0917DFEDCE73D04A8EDF5C22A3335576FCAB4403D9A1DD020EAE15C6D"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y30}{Char Quistis}{Line}«Вставай, герой. У тебя сегодня экзамен».{End}"
         }
       },
       "$en_bghoke_2_0019": {
@@ -170,7 +188,7 @@
         }
       },
       "$en_bghoke_2_0021": {
-        "Target": "{X300Y8}{Char Quistis}{Line}«{Char Squall}, ты{Next}меня {Color Blue}слышишь?{Color White}{Line} Немедленно{Next}отправляйся в [дом Эдеи].{Line} Волшебница Эдея... матрона вернулась в приют».{End}",
+        "Target": "{X300Y8}{Char Quistis}{Line}«{Char Squall}, ты меня {Color Blue}слышишь?{Color White}{Next}Немедленно отправляйся в [дом Эдеи].{Next}Волшебница Эдея... матрона вернулась в приют».{End}",
         "Source Text SHA256": "69BA61A4A9184969151929456ADBBAB96803CBEB933C3409614D4079CAFC40C3",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",
@@ -298,7 +316,7 @@
         }
       },
       "$en_bghoke_2_0037": {
-        "Target": "{X130Y20}Эллона, ты мне не ответишь?..{Line}Я знаю, она на{Next}корабле Белых Сидов.{Line} Белые Сиды... Сиды Эдеи... Сиды Эдеи?{End}",
+        "Target": "{X130Y20}Эллона, ты мне не ответишь?..{Next}Я знаю, она на корабле Белых Сидов.{Line} Белые Сиды... Сиды Эдеи... Сиды Эдеи?{End}",
         "Source Text SHA256": "D97C4FB5CC7F7FEB04C1AC7FEDC3AC4F555E0708FC4894FA34950230151EFA3A",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",
@@ -362,7 +380,7 @@
         }
       },
       "$en_bghoke_2_0045": {
-        "Target": "{X160Y8}Директор Сид{Line}«Нет,{Line} нет. В этом{Next}нет необходимости Я догадываюсь,{Line} что произошло».{End}",
+        "Target": "{X160Y8}Директор Сид{Line}«Нет,{Line} нет.{Next}В этом нет необходимости Я догадываюсь,{Line} что произошло».{End}",
         "Source Text SHA256": "6494822B0C749D3B82D989F136297ADFE6CEA2C15F3F782E9F52E081CAF891BB",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",
@@ -450,7 +468,7 @@
         }
       },
       "$en_bghoke_2_0056": {
-        "Target": "{X160Y8}Директор Сид{Line}«Однажды Эдея{Line} заговорила о{Next}строительстве{Line} Сада и{Line} подготовке Сидов».{End}",
+        "Target": "{X160Y8}Директор Сид{Line}«Однажды Эдея{Line} заговорила о строительстве{Line} Сада и{Line} подготовке Сидов».{End}",
         "Source Text SHA256": "B7487BC5649902E148FA1A62FB022FC9EE5B0E8B9299F030E39F0A4040B0EBEE",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",
@@ -522,7 +540,7 @@
         }
       },
       "$en_bghoke_2_0065": {
-        "Target": "{X160Y8}Директор Сид{Line}«Померкли наши высокие{Next}идеалы, правда{Line} была сокрыта...»{End}",
+        "Target": "{X160Y8}Директор Сид{Line}«Померкли наши высокие идеалы, правда{Line} была сокрыта...»{End}",
         "Source Text SHA256": "23AD9629352A79475BA47816B54D3CEFA483BB0D18789CD04E7A3BCC9FCD58EE",
         "sourceContext": {
           "Source MSD SHA256": "9A74879A76D99538845005C53EFAF8C6EBC662CF9F313D34F76B50399FBDD63C",

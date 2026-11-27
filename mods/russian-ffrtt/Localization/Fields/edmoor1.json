@@ -114,7 +114,7 @@
         }
       },
       "$en_edmoor1_0014": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«Эй... Вы же это{Next}не всерьёз!{Line} Я-то закончу за{Next}2-3 часа, но...{Line} Его работу не сделать и за несколько дней!»{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}«Эй... Вы же это не всерьёз!{Next}Я-то закончу за 2-3 часа, но...{Next}Его работу не сделать и за несколько дней!»{End}",
         "Source Text SHA256": "F64E6C7D24824AFD0A8076944D604687F291D7769AD52F8AB91CCBA18879EA21",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -122,7 +122,7 @@
         }
       },
       "$en_edmoor1_0015": {
-        "Target": "{X150Y15}Охранник{Line}«Его просто не покормят{Next}несколько дней.{Pause 48}{Line} Если он хочет поесть... будет работать быстрее...»{End}",
+        "Target": "{X150Y15}Охранник{Line}«Его просто не покормят несколько дней.{Next}Если он хочет поесть...{Pause 48}{Line} будет работать быстрее...»{End}",
         "Source Text SHA256": "01573BB9E22E91191C7F3680F4EBBD21A2C4826D239B875795BFE89BA5FD7322",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -178,7 +178,7 @@
         }
       },
       "$en_edmoor1_0022": {
-        "Target": "{X150Y15}«Знаешь что? Ты первый, кто{Line} осведомился о его состоянии. Этих{Next}мумб заставляют работать пока они не{Line} умрут. Они{Next}спят и едят вдвое меньше,{Line} по сравнению с нами, людьми».{End}",
+        "Target": "{X150Y15}«Знаешь что? Ты первый, кто{Line} осведомился о его состоянии.{Next}Этих мумб заставляют работать пока они не{Line} умрут.{Next}Они спят и едят вдвое меньше,{Line} по сравнению с нами, людьми».{End}",
         "Source Text SHA256": "567C780C1759566E057FE39D0B6BA8C74A60B04F2E61D3F3515BB8D2FE2D464B",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -234,7 +234,7 @@
         }
       },
       "$en_edmoor1_0029": {
-        "Target": "{X15Y150}{Char Laguna}{Line}«А? В чём{Line} дело? Тебе нужен{Next}инструмент? Я схожу{Line} за ним. Побудь здесь».{End}",
+        "Target": "{X15Y150}{Char Laguna}{Line}«А? В чём{Line} дело?{Next}Тебе нужен инструмент? Я схожу{Line} за ним. Побудь здесь».{End}",
         "Source Text SHA256": "85FDEE312EAAF1691E5CAA619FA3003B79B7281FC8047ED6A9A23ECEB5CC601F",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -258,7 +258,7 @@
         }
       },
       "$en_edmoor1_0032": {
-        "Target": "{X150Y10}Охранник{Line}{Pause 48} «Да, который{Next}возле лифта.{Line} Позови охрану наверху! Скажи им, что дело срочное».{End}",
+        "Target": "{X150Y10}Охранник{Line}{Pause 48} «Да, который возле лифта.{Next}Позови охрану наверху! Скажи им, что дело срочное».{End}",
         "Source Text SHA256": "33AFB584AACB843EAA212DB4BC2331CC089D4C08FB4CBC9EBE437C7E34B88C31",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -274,7 +274,7 @@
         }
       },
       "$en_edmoor1_0034": {
-        "Target": "{X15Y150}Срочное{Next}дело...{Line} Эти ребята.. наверное что-то задумали?{End}",
+        "Target": "{X15Y150}Срочное дело...{Next}Эти ребята.. наверное что-то задумали?{End}",
         "Source Text SHA256": "90EF9949C79B1520D63B5DEA1AA028F29C323765F0EA6D1F63DDAB743A37BCAA",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -370,7 +370,7 @@
         }
       },
       "$en_edmoor1_0046": {
-        "Target": "{X150Y15}«А ты{Pause 48}весьма... хороший{Line} парень. В наше время таких как{Next}ты мало. Возможно, ты{Line} подошёл бы на роль нашего лидера».{End}",
+        "Target": "{X150Y15}«А ты{Pause 48}весьма... хороший{Line} парень. В наше время таких как ты мало.{Next}Возможно, ты{Line} подошёл бы на роль нашего лидера».{End}",
         "Source Text SHA256": "7BED0BAB0D52356D10C830B305B6D6E4A48C5E675D70CCB6D81AF826F651D225",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -386,7 +386,7 @@
         }
       },
       "$en_edmoor1_0048": {
-        "Target": "{X150Y15}«Именно. Многие{Line} из нас разочарованы тем, как{Line} Адель {Pause 48}управляет Эстаром. Может сейчас{Next}мы и неорганизованны... Но{Pause 48}{Line} однажды мы объединим наши усилия,{Line} чтобы лишить Адель власти».{End}",
+        "Target": "{X150Y15}«Именно. Многие{Line} из нас разочарованы тем, как{Line} Адель {Pause 48}управляет Эстаром.{Next}Может сейчас мы и неорганизованны... Но{Pause 48}{Line} однажды мы объединим наши усилия,{Line} чтобы лишить Адель власти».{End}",
         "Source Text SHA256": "9140D53254EEC8898CFA34D44DB94C9669DF38A5A87C4D2D1E08CDFD9A20B97D",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -394,7 +394,7 @@
         }
       },
       "$en_edmoor1_0049": {
-        "Target": "{X150Y15}«Мы свергнем правительницу страны.{Line} Волшебницу с запредельными для{Line} нас силами. Наспех{Next}придуманный план никогда бы{Line} не сработал. Сейчас мы{Line} ждём подходящего момента...»{End}",
+        "Target": "{X150Y15}«Мы свергнем правительницу страны.{Line} Волшебницу с запредельными для{Line} нас силами.{Next}Наспех придуманный план никогда бы{Line} не сработал. Сейчас мы{Line} ждём подходящего момента...»{End}",
         "Source Text SHA256": "62FBD6F91C34F9AC82B21373CAE9972042E7F46DDBA2EF7A71A306E7D3AC8431",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -506,7 +506,7 @@
         }
       },
       "$en_edmoor1_0063": {
-        "Target": "{X150Y15}{Char Laguna}{Line}«Не так{Next}уж и плохо...{Line} Двое лучше, чем один. А четверо лучше, чем двое, верно?»{End}",
+        "Target": "{X150Y15}{Char Laguna}{Line}«Не так уж и плохо...{Next}Двое лучше, чем один. А четверо лучше, чем двое, верно?»{End}",
         "Source Text SHA256": "2E47D25E3A9E414F66CFE91FB120E19986A9C0113E6B9A241C9C97982EA9E486",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -514,7 +514,7 @@
         }
       },
       "$en_edmoor1_0064": {
-        "Target": "{X15Y15}{Char Kiros}{Line}«А кто{Next}же четвёртый?{Pause 48}{Line} Чёрт... У тебя что... галлюцинации?»{End}",
+        "Target": "{X15Y15}{Char Kiros}{Line}«А кто же четвёртый?{Next}Чёрт... У тебя что...{Pause 48}{Line} галлюцинации?»{End}",
         "Source Text SHA256": "A15FA5C9671289FA3E4019CFA1C48BA2BEA7022F5703342ED966D1DDD9F635C3",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -522,7 +522,7 @@
         }
       },
       "$en_edmoor1_0065": {
-        "Target": "{X150Y15}{Char Laguna}{Line}«Да... {Pause 48}Я{Next}её вижу!{Line} Ох... Моя дорогая Элли... Как же ты радуешь своего дядю».{End}",
+        "Target": "{X150Y15}{Char Laguna}{Line}«Да... {Pause 48}Я её вижу!{Next}Ох... Моя дорогая Элли... Как же ты радуешь своего дядю».{End}",
         "Source Text SHA256": "3AE7DB6DDDA30D513828E2D406E0F45075688BDF3180A73F44C1AB45F89B7D13",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",
@@ -530,7 +530,7 @@
         }
       },
       "$en_edmoor1_0066": {
-        "Target": "{X150Y15}Эй...{Line}Это наш шанс! Ты{Next}знаешь, что делать?{Line} Быстро разберёмся с ними {Pause 48}и выберемся отсюда!{End}",
+        "Target": "{X150Y15}Эй...{Line}Это наш шанс!{Next}Ты знаешь, что делать?{Line} Быстро разберёмся с ними {Pause 48}и выберемся отсюда!{End}",
         "Source Text SHA256": "F422920747A8EBCCA208AD173CC94BE2ADFF8BE4E4B6868DCD7C5705642F4060",
         "sourceContext": {
           "Source MSD SHA256": "8E147431BA6F2FC663FA5D568C936BDBEEEB2277A882F3002AB8707230F665F0",

@@ -18,7 +18,7 @@
         }
       },
       "$en_bghall_6_0002": {
-        "Target": "{X55Y8}{Char Quistis}{Line}«Сейчас я объявлю распределения{Line} по отрядам для экзамена. Посмотрим...{Line} Ты будешь с...»{End}",
+        "Target": "{X55Y8}{Char Quistis}{Line}«Отлично выглядишь! Кхм... Так, посмотрим,{Line}кто у тебя в команде...»{End}",
         "Source Text SHA256": "4B38853ACB444F5136F653EFACDED74ECCC51BD166D9C59371220EA8AE9CEA80",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bghall_6_0003": {
-        "Target": "{X85Y8}{Char Quistis}{Line}«Зелл Динч.{Line} Довольно энергичный паренёк».{End}",
+        "Target": "{X85Y8}{Char Quistis}{Line}«Зелл Динч. Довольно энергичный парнишка».{End}",
         "Source Text SHA256": "64740D30B779F5B2225779001FC197C724A2B45993707FCE9D7E3D2D2BEF3BE4",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bghall_6_0007": {
-        "Target": "{X79Y15}{Char Zell}{Line}«Ух ты! Я с тобой?!»{End}",
+        "Target": "{X79Y15}{Char Zell}{Line}«Вау! Я с тобой?!»{End}",
         "Source Text SHA256": "AF4719705930B2DE6736CED8C7E7103DF05E543305694AEE8879EB6772A7878A",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bghall_6_0009": {
-        "Target": "{X51Y15}{Char Zell}{Line}«Ты ведь не ладишь с Сейфером, не так{Line} ли?»{End}",
+        "Target": "{X51Y15}{Char Zell}{Line}«Ты тоже с Сейфером на ножах?»{End}",
         "Source Text SHA256": "A1985A43217F8ADD650A5EDD4821F160A891FA01B9F15E85EDB1E0347C46897A",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bghall_6_0010": {
-        "Target": "{X71Y15}{Char Zell}{Line}«Слышал, вы слегка{Line} повздорили этим утром».{End}",
+        "Target": "{X71Y15}{Char Zell}{Line}«Слышал, вы слегка повздорили этим{Line}утром...»{End}",
         "Source Text SHA256": "D325F404C68DB3967CD1CB38A93583BA600AF3F6CE8D6403839EEC7C5D7CE100",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bghall_6_0012": {
-        "Target": "{X85Y15}{Char Zell}{Line}«Могу поспорить, что он так{Line} не думает».{End}",
+        "Target": "{X85Y15}{Char Zell}{Line}«Спорим, что он так не думает?!»{End}",
         "Source Text SHA256": "FD11B8BF19605181B5E0CD7DE8D20C01174EC8D54FA7712F7272BD37CDC9ABFA",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bghall_6_0013": {
-        "Target": "{X73Y15}{Char Zell}{Line}«Послушай, этот Сейфер просто заноза в заднице.{Line} Всё, что тебе нужно{Next}делать, так это не{Line} обращать на него внимания».{End}",
+        "Target": "{X73Y15}{Char Zell}{Line}«Он, конечно, редкостный урод...»{Next}«Но ты просто не обращай на него{Line}внимания!»{End}",
         "Source Text SHA256": "C50B38BB6E21C55DE090107CB0E7B54A4D6E0AC601156500B2152C9D5D5D3ED0",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bghall_6_0015": {
-        "Target": "{X175Y25}{Char Quistis}{Line}«Не твоё дело».{End}",
+        "Target": "{X175Y25}{Char Quistis}{Line}«...не касается».{End}",
         "Source Text SHA256": "2F727C0C18796E3BD1EC68613B2DAB47FE3288E63E655B52F9B953DCC20FA378",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bghall_6_0016": {
-        "Target": "{X68Y8}{Char Quistis}{Line}«Кхм... Извините меня, но...»{End}",
+        "Target": "{X68Y8}{Char Quistis}{Line}«Кхм... Извините, но...»{End}",
         "Source Text SHA256": "F4909C8CBAD1CA8681DD4BCDC8B734C73905988A8B23C6372263542D563EF363",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bghall_6_0017": {
-        "Target": "{X42Y8}{Char Quistis}{Line}«Сейфер, о котором вы говорите... Он{Line} – лидер вашего отряда».{End}",
+        "Target": "{X42Y8}{Char Quistis}{Line}«Сейфер, о котором идёт речь... Лидер{Line}вашего отряда».{End}",
         "Source Text SHA256": "8E000C8BA1FEBCBFEEDE480CE6D8E7B12DD81F877A00D8595CDD83523877DA46",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bghall_6_0018": {
-        "Target": "{X107Y15}{Char Zell}{Line}«ЧЕГО?!»{End}",
+        "Target": "{X107Y15}{Char Zell}{Line}«ЧЁ?!»{End}",
         "Source Text SHA256": "86D8A1E7690EA7847C6D24DF86419741C0B17F56A9E4DB33C012A18726D96955",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bghall_6_0019": {
-        "Target": "{X82Y8}{Char Quistis}{Line}«Этого уже не изменить».{End}",
+        "Target": "{X82Y8}{Char Quistis}{Line}«Это не обсуждается».{End}",
         "Source Text SHA256": "DE299561F65100846C40870953415FC2B7C59719F42FAA0DB730D894FE7717E6",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -170,7 +170,7 @@
         }
       },
       "$en_bghall_6_0021": {
-        "Target": "{X72Y8}{Char Quistis}{Line}«Ты – лидер{Line} отряда. Удачи».{End}",
+        "Target": "{X72Y8}{Char Quistis}{Line}«Ты — лидер отряда. Удачи вам».{End}",
         "Source Text SHA256": "703FDE452F81290EC281D24EABA189ECAE668E681E1A428E87305F8BB57D14D5",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -178,7 +178,7 @@
         }
       },
       "$en_bghall_6_0022": {
-        "Target": "{X40Y25}{Char Seifer}{Line}«...Инструктор».{Next}«Терпеть не могу, когда{Line} люди желают мне удачи».{End}",
+        "Target": "{X40Y25}{Char Seifer}{Line}«Инструктор...»{Next}«Терпеть не могу, когда мне желают удачи».{End}",
         "Source Text SHA256": "B87E24EE96A9B531AB9CA36A02B5AF0AC0A12F7D1E90CEBCDBA53D1FDCA8BE7C",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -186,7 +186,7 @@
         }
       },
       "$en_bghall_6_0023": {
-        "Target": "{X40Y25}{Char Seifer}{Line}«Приберегите эти слова для плохого{Line} студента, который будет в них нуждаться. Хорошо?»{End}",
+        "Target": "{X40Y25}{Char Seifer}{Line}«Приберегите её для тех, кто в ней{Line}нуждается».{End}",
         "Source Text SHA256": "62B63C81988E23E1C981AA25E72828D1C826977CE5F3E8F43787626A180FFA9F",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -194,7 +194,7 @@
         }
       },
       "$en_bghall_6_0024": {
-        "Target": "{X119Y8}{Char Quistis}{Line}«Хорошо».{End}",
+        "Target": "{X119Y8}{Char Quistis}{Line}«Как скажешь».{End}",
         "Source Text SHA256": "041AA7F737E852FD42DEEC0ACB9FF73DBB19CE80F33E1D619FA496D905E09B5D",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -218,7 +218,7 @@
         }
       },
       "$en_bghall_6_0027": {
-        "Target": "{X116Y8}{Char Quistis}{Line}«Что ж, хорошо».{End}",
+        "Target": "{X116Y8}{Char Quistis}{Line}«Как пожелаешь».{End}",
         "Source Text SHA256": "1E851C1A44B4087159138EF57C58D2FA391FCEBBAF94C8A1F781DB5669638EA0",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -226,7 +226,7 @@
         }
       },
       "$en_bghall_6_0028": {
-        "Target": "{X50Y8}{Char Quistis}{Line}«Все вы назначены в отряд{Line} Б. Я буду главным инструктором».{End}",
+        "Target": "{X50Y8}{Char Quistis}{Line}«Итак, все мы в отряде „Бета“. Я — старший{Line}инструктор».{End}",
         "Source Text SHA256": "4022814FCE56088FFD888254B72343A9F27AFED405CC45CCED7054D8026FD8D9",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -234,7 +234,7 @@
         }
       },
       "$en_bghall_6_0029": {
-        "Target": "{X25Y8}{Char Quistis}{Line}«Работа в команде крайне важна. Пусть{Line} каждый справится с этим экзаменом!»{End}",
+        "Target": "{X25Y8}{Char Quistis}{Line}«Не забывайте, что главным критерием{Line}оценки ваших результатов является работа в{Line}команде. Надеюсь, что все вы успешно{Line}сдадите экзамен!»{End}",
         "Source Text SHA256": "3038E7F3D7BD74F95664B502907D4214E8D02A2B3843A3DBA326D6593364546A",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -242,7 +242,7 @@
         }
       },
       "$en_bghall_6_0030": {
-        "Target": "{X40Y25}{Char Seifer}{Line}«Слушайте внимательно! Работа в команде означает{Line} не путаться у меня под{Next}ногами. Таково правило отряда{Line} Б. Не забудьте его!»{End}",
+        "Target": "{X40Y25}{Char Seifer}{Line}«А теперь слушайте меня. Работа в команде{Line}означает не путаться у меня под ногами».{Next}«Это главное правило отряда „Бета“. Не{Line}забудьте его!»{End}",
         "Source Text SHA256": "029BAD95D6A089AACDFC8782D0D01EC5BF2AB8C314246102883267054BCB1E25",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -330,7 +330,7 @@
         }
       },
       "$en_bghall_6_0041": {
-        "Target": "{X61Y8}Директор Сид{Line}«Сидам пригодится специалист{Line} по ганблейдам. Вот почему{Next}я надеюсь, что ты{Line} и Сейфер{Line} присоединитесь к Сидам».{End}",
+        "Target": "{X61Y8}Директор Сид{Line}«Нам бы очень пригодился мастер{Line}ганблейда...»{Next}«Надеюсь, что вы с Сейфером успешно{Line}пройдёте испытание».{End}",
         "Source Text SHA256": "4D5D0D40D2B67B47916FF9080F19ADA79FF5660CEE65FD1C6152A5069955CF08",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -346,7 +346,7 @@
         }
       },
       "$en_bghall_6_0043": {
-        "Target": "{X80Y8}{Char Quistis}{Line}«Давай, пошли!»{End}",
+        "Target": "{X80Y8}{Char Quistis}{Line}«Выступаем!»{End}",
         "Source Text SHA256": "CE34A93D94CBC1E6C8CB32C85F309E9813C29E0455F88C960798AE0CE2633E51",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -410,7 +410,7 @@
         }
       },
       "$en_bghall_6_0051": {
-        "Target": "{X40Y20}Сю{Line}«Эй, вы неплохо справились!»{End}",
+        "Target": "{X40Y20}Сю{Line}«Отлично справился, Скволл!»{End}",
         "Source Text SHA256": "20EDA911B1D10A2F2BA9AE2ADB14F49BE8F240C79A4B7FE5589C81354106D54D",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -418,7 +418,7 @@
         }
       },
       "$en_bghall_6_0052": {
-        "Target": "{X160Y20}{Char Quistis}{Line}«Конечно! Ведь он мой лучший студент».{End}",
+        "Target": "{X160Y20}{Char Quistis}{Line}«Конечно! Ведь он мой лучший студент!»{End}",
         "Source Text SHA256": "437D8CC8C3DEDB5DCC0210F7058BB938824A55BF985C61750FE761B401A896B8",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -426,7 +426,7 @@
         }
       },
       "$en_bghall_6_0053": {
-        "Target": "{X160Y20}{Char Quistis}{Line}«Хоть и не очень общительный».{End}",
+        "Target": "{X160Y20}{Char Quistis}{Line}«Хотя и не очень общительный...»{End}",
         "Source Text SHA256": "B128F1AAFA3BBFA094173EA5D111E6FDDAC1A8CBBBE8CA914E515C64F8DF1D84",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",
@@ -434,7 +434,7 @@
         }
       },
       "$en_bghall_6_0054": {
-        "Target": "{X160Y20}{Char Quistis}{Line}«Скоро должны объявить результаты{Line} экзамена. Просто будь неподалёку».{End}",
+        "Target": "{X160Y20}{Char Quistis}{Line}«Не уходи далеко. Скоро должны объявить{Line}результаты экзамена».{End}",
         "Source Text SHA256": "7ACA161628D2EDF0F03135C11411981139C11994C596EA35200B1DD460125478",
         "sourceContext": {
           "Source MSD SHA256": "A207C59D38D01000F4AA986ABC641CCB59353562A06010B0FE476CA139553F8C",

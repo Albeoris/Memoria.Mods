@@ -74,7 +74,7 @@
         }
       },
       "$en_fhedge11_0009": {
-        "Target": "{X120Y10}{Char Irvine}{Line}«(Потом{Next}поблагодаришь.){Line} (Веселитесь! Сегодня ваша ночь.)»{End}",
+        "Target": "{X120Y10}{Char Irvine}{Line}«(Потом поблагодаришь.){Next}(Веселитесь! Сегодня ваша ночь.)»{End}",
         "Source Text SHA256": "7698DECCB14B455AE83A9DBB502A619B43DB035F856ACF5C59A5ADEEFB94C0C5",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",

@@ -10,7 +10,7 @@
         }
       },
       "$en_bccent_1_0001": {
-        "Target": "{X10Y10}«Привет,{Line} Зелл, как поживаешь?»{End}",
+        "Target": "{X10Y10}«Здравствуй, Зелл. Как поживаешь?»{End}",
         "Source Text SHA256": "9A039A8369EBCB0245184CF3EF7B81616C6CC87E6C1B2DA995916A9B2FE214F4",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bccent_1_0002": {
-        "Target": "{X80Y10}{Char Zell}{Line}«Эээй!.. Как поживаю?! Вы же{Line} знаете меня, у меня всегда всё хорошо».{End}",
+        "Target": "{X80Y10}{Char Zell}{Line}«Лучше всех, вы же меня знаете!»{End}",
         "Source Text SHA256": "6832226FFD137A1B821E586025B7A5B9D4537E70FAA9E25367C1D9FC15376F02",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bccent_1_0006": {
-        "Target": "{X80Y150}«Только пережив это,{Line}впервые понимаешь...»{Next}«...как близко{Line}мир и война{Line}стоят друг к другу».{End}",
+        "Target": "{X80Y150}«Только пережив это,{Line}впервые понимаешь, как близко{Line}мир и война стоят друг к другу».{End}",
         "Source Text SHA256": "947F70FFA19468492773A1BB52BAC4ACE230E5AC410AF6BF376277883C2440AD",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bccent_1_0015": {
-        "Target": "{X10Y10}«Вот вырастет таким, как Зелл,{Line}тогда и беспокойся. Хе-хе».{End}",
+        "Target": "{X10Y10}«Вот вырастет вторым Зеллом — тогда и{Line}будешь переживать. Хе-хе».{End}",
         "Source Text SHA256": "1404F9D111709FEB9836CB2ED2975D66EEC8385A671ECB790165D232AB17AF73",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -226,7 +226,7 @@
         }
       },
       "$en_bccent_1_0028": {
-        "Target": "{X150Y10}Мама сорванца{Line}«Привет, Зелл».{End}",
+        "Target": "{X150Y10}Мать Большого проказника{Line}«Привет, Зелл!»{End}",
         "Source Text SHA256": "20726EE0671CA98C2DA2ADFCD5B17AEE617F4BF2A689358BB576F09124C285B7",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",

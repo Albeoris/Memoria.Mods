@@ -2,7 +2,7 @@
   "Fields": {
     "dotown_2": {
       "$en_dotown_2_0000": {
-        "Target": "{X120Y8}{Char Seifer}{Line}«Ну что, нравится?»{End}",
+        "Target": "{X120Y8}{Char Seifer}{Line}«Ещё не сдрейфили?»{End}",
         "Source Text SHA256": "DA07ACFA089D794563F83EC2F7834770E0D1EB0B20BA0856C135BF3A6F6AFAB4",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -10,7 +10,7 @@
         }
       },
       "$en_dotown_2_0001": {
-        "Target": "{X120Y8}{Char Seifer}{Line}«Вот оно, настоящее сражение…»{End}",
+        "Target": "{X120Y8}{Char Seifer}{Line}«Настоящее сражение впереди!..»{End}",
         "Source Text SHA256": "68A53E43BDF6159F46467BFEFD35EB8A153CF6B5CBD482CA8DAEC36393A5CA38",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -18,7 +18,7 @@
         }
       },
       "$en_dotown_2_0002": {
-        "Target": "{X120Y8}{Char Seifer}{Line}«…»{End}",
+        "Target": "{X120Y8}{Char Seifer}{Line}«......»{End}",
         "Source Text SHA256": "4C54438DCA937F32046D2BD63D23ECE69523759E029D75D8A3C9266DBA6B7A22",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -90,7 +90,7 @@
         }
       },
       "$en_dotown_2_0011": {
-        "Target": "{X20Y20}{Char Zell}{Line}«ЭЙ! Ты что делаешь?!{Line} Давай, бежим!»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}«ЭЙ! Ты чего стоишь?! Ну же, пошли!»{End}",
         "Source Text SHA256": "41F3B90354F150E5C0843348E65AB10DAF38F69B0C7AE83350631997D61E34F6",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",

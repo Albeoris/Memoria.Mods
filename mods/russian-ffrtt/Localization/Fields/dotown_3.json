@@ -2,7 +2,7 @@
   "Fields": {
     "dotown_3": {
       "$en_dotown_3_0000": {
-        "Target": "{X8Y8}{Char Seifer}{Line}{Color Blue}«Впереди [Центральная{Color White} площадь].»{End}",
+        "Target": "{X8Y8}{Char Seifer}{Line}«{Color Blue}〖Центральная площадь〗{Color White} впереди!»{End}",
         "Source Text SHA256": "C6ACF9F25FBC2B51A7506F7C0E603E5B7F33E7108FEBBD6A17D46719429661A6",
         "sourceContext": {
           "Source MSD SHA256": "8F88F219DB398BEFE6A43ED591A3BA219733469CA7F5DC945ED14E813CA77C0A",
@@ -10,7 +10,7 @@
         }
       },
       "$en_dotown_3_0001": {
-        "Target": "{X8Y8}{Char Seifer}{Line}«Эй! Вы, гальбадианские трусы!»{End}",
+        "Target": "{X8Y8}{Char Seifer}{Line}«Эй вы, гальбадианские трусы!»{End}",
         "Source Text SHA256": "5A7C0229DF9E069310ED4A07F00F63F8B52A2DD37F50E712E8F26BE9C43C70B1",
         "sourceContext": {
           "Source MSD SHA256": "8F88F219DB398BEFE6A43ED591A3BA219733469CA7F5DC945ED14E813CA77C0A",
@@ -18,7 +18,7 @@
         }
       },
       "$en_dotown_3_0002": {
-        "Target": "{X120Y8}{Char Zell}{Line}«...Ну что за идиот».{End}",
+        "Target": "{X120Y8}{Char Zell}{Line}«Ну что за идиот?..»{End}",
         "Source Text SHA256": "FF7806F7AC78DEFE8B2007C3EEBAFE7A904F442843EABE6E641949F8DADA0F7F",
         "sourceContext": {
           "Source MSD SHA256": "8F88F219DB398BEFE6A43ED591A3BA219733469CA7F5DC945ED14E813CA77C0A",
@@ -26,7 +26,7 @@
         }
       },
       "$en_dotown_3_0003": {
-        "Target": "{X8Y8}{Char Seifer}{Line}«Выходите и покажите свои рожи!{Line} Не заставляйте меня ждать!»{End}",
+        "Target": "{X8Y8}{Char Seifer}{Line}«Давайте, кто на меня?! Не заставляйте{Line}ждать!»{End}",
         "Source Text SHA256": "2ED8EEF2525EBB053782EE7EE91DFE04E4AFAF75E50602E1E2EB0B99C24189B3",
         "sourceContext": {
           "Source MSD SHA256": "8F88F219DB398BEFE6A43ED591A3BA219733469CA7F5DC945ED14E813CA77C0A",

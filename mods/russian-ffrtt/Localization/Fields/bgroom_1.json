@@ -2,123 +2,168 @@
   "Fields": {
     "bgroom_1": {
       "$en_bgroom_1_0000": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Доброе утро, класс!»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Доброе утро, класс».{End}{End}",
         "Source Text SHA256": "D172AACAE459AADE348ECBBB63D587939EA9D486355A647E86AD0E6A2C3F4925",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«Доброе утро, класс».{End}"
         }
       },
       "$en_bgroom_1_0001": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Давайте начнём с сегодняшнего расписания».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Вначале небольшое объявление».{End}{End}",
         "Source Text SHA256": "DF5F763D22E9A1780F29DDDF1263A3120CA5B4F06967A421BC5921BC9651AEAF",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«Вначале небольшое объявление».{End}"
         }
       },
       "$en_bgroom_1_0002": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Похоже, слухи пошли ещё{Line} со вчерашнего дня... Да,{Next}полевой экзамен для кандидатов в{Line} Сиды начнётся сегодня днём».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Многие уже слышали об экзамене».{Next}«Сегодня вечером кандидаты в сиды сдают{Line}полевой экзамен».{End}{End}",
         "Source Text SHA256": "369177C77757B1502C224A877D5C088180514DFD92AFA3C0734206EC08565187",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«Многие уже слышали об экзамене».{Next}«Сегодня вечером кандидаты в сиды сдают{Line}полевой экзамен».{End}"
         }
       },
       "$en_bgroom_1_0003": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Те, кто не участвуют, и те, кто{Line} не прошёл письменный тест на прошлой неделе,{Line} остаются здесь, в аудитории».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Остальные, в том числе засыпавшиеся на{Line}контрольной, продолжают занятия, согласно{Line}расписанию».{End}{End}",
         "Source Text SHA256": "A6591594BBEEBE048D7046B2A3E1146BAB6F2E3CFF7393222135FD741D32ECF8",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«Остальные, в том числе засыпавшиеся на{Line}контрольной, продолжают занятия, согласно{Line}расписанию».{End}"
         }
       },
       "$en_bgroom_1_0004": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Участники полевого экзамена свободны до его начала.{Line} Убедитесь, что все{Next}вы в хорошей форме».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Экзаминуемые свободны».{Next}«Рекомендую с пользой потратить оставшееся{Line}время».{End}{End}",
         "Source Text SHA256": "863FAEA61BAC98BBB5DC48B10766B7B35A6ADF7B8951513F77BE3B90A5EB4F4F",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«Экзаминуемые свободны».{Next}«Рекомендую с пользой потратить оставшееся{Line}время».{End}"
         }
       },
       "$en_bgroom_1_0005": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Встречаемся в холле в{Line} 16:00. Там я оглашу составы команд».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Встречаемся в 16:00 в холле первого{Line}этажа. Там же вас распределят по{Line}командам».{End}",
         "Source Text SHA256": "A190A2CEAD0EADF24976BBEA15D9A9DC49515D746DEE4DC96C7C65034BDFB8C1",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«Встречаемся в 16:00 в холле первого{Line}этажа. Там же вас распределят по{Line}командам».{End}"
         }
       },
       "$en_bgroom_1_0006": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Вопросы есть?»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Вопросы есть?»{End}{End}",
         "Source Text SHA256": "8E51D297C6401A5212B0BAB3904C386E04970169041931A3178D3A2EF8840460",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«Вопросы есть?»{End}"
         }
       },
       "$en_bgroom_1_0007": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«О, и Сейфер!»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Да... Сейфер!..»{End}{End}",
         "Source Text SHA256": "74F193748B059694E084DE89B76514A8A66502B66BD9327F4DC76923159D9674",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«Да... Сейфер!..»{End}"
         }
       },
       "$en_bgroom_1_0008": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«НЕ НАДО наносить травмы партнёру во время тренировки!{Line} Впредь{Next}будь поаккуратней».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Во время спарринга использовать магию и{Line}приёмы, ставящие под угрозу жизнь и{Line}здоровье студентов, строжайше запрещено!»{Next}«Тем более если твой партнёр не связан со{Line}стражем. Как представитель дисциплинарного{Line}комитета, ты должен соблюдать все правила{Line}академии! Будь осторожнее...»{End}{End}",
         "Source Text SHA256": "80261F3C1C9592B9135427A827CBB001985B12B8BC5F8866F8215D0A3062C727",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«Во время спарринга использовать магию и{Line}приёмы, ставящие под угрозу жизнь и{Line}здоровье студентов, строжайше запрещено!»{Next}«Тем более если твой партнёр не связан со{Line}стражем. Как представитель дисциплинарного{Line}комитета, ты должен соблюдать все правила{Line}академии! Будь осторожнее...»{End}"
         }
       },
       "$en_bgroom_1_0009": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Участники экзамена,{Line} увидимся позже».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«Все свободны».{End}{End}",
         "Source Text SHA256": "FCB860DDD044EFADDB0DBC21DAD18B0CC6DD3CFF27B9816107FDAC2DA22F95DB",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«Все свободны».{End}"
         }
       },
       "$en_bgroom_1_0010": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«И, {Char Squall},{Line} мне нужно с тобой поговорить»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}«{Char Squall}, подойди. Мне нужно с тобой{Line}поговорить».{End}{End}",
         "Source Text SHA256": "ACF199A3A564A9B2C460C1BA351B5766F16032375AB859FDE6C793D64DF72BE7",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}{Char Quistis}{Line}«{Char Squall}, подойди. Мне нужно с тобой{Line}поговорить».{End}"
         }
       },
       "$en_bgroom_1_0011": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Ты ведь ещё не был{Line}{Color Blue}в Огненной Пещере,{Color White} не так ли?»{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}«Скволл, ты ведь ещё не был в {Color Blue}Огненной{Line}пещере{Color White}?»{End}{End}",
         "Source Text SHA256": "F100B64CD87142F729B3EA24524F0207FED0F2738B4E4C0FC1A2407DB7F7FFF7",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y140}{Char Quistis}{Line}«Скволл, ты ведь ещё не был в {Color Blue}Огненной{Line}пещере{Color White}?»{End}"
         }
       },
       "$en_bgroom_1_0012": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Не пройдя это испытание,{Line} ты не сможешь принять участие в{Line} сегодняшнем полевом экзамене».{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}«Я не могу допустить тебя до экзамена».{End}{End}",
         "Source Text SHA256": "443642330AD18E2FB0428A5FC02A771826C0816ACDE2316C85AB190BB7AAF03E",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y140}{Char Quistis}{Line}«Я не могу допустить тебя до экзамена».{End}"
         }
       },
       "$en_bgroom_1_0013": {
-        "Target": "{X12Y12}(...Я хотел пойти сегодня утром,{Line} но Сейфер...){End}",
+        "Target": "{X12Y12}(Я хотел пойти сегодня утром, но Сейфер...){End}{End}",
         "Source Text SHA256": "F40BC25678C1495FADB410748831A5DBE713472FE1C23BCBF417BAA44A8041D4",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X12Y12}(Я хотел пойти сегодня утром, но Сейфер...){End}"
         }
       },
       "$en_bgroom_1_0014": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Хм? У тебя есть достойное оправдание?»{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}«Есть уважительная причина?»{End}{End}",
         "Source Text SHA256": "52523C1F374585683855F27B70F6EF4D811BDF9CBC3EDD096779922CC01ABEF1",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y140}{Char Quistis}{Line}«Есть уважительная причина?»{End}"
         }
       },
       "$en_bgroom_1_0015": {
@@ -130,27 +175,36 @@
         }
       },
       "$en_bgroom_1_0016": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Тогда пошли».{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}«В таком случае идём сейчас. Время до{Line}отбытия ещё есть».{End}{End}",
         "Source Text SHA256": "BAF1CC58D3D4AAA108AF45A0275996396754A8C1BFD28F79F24144F939CCCD72",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y140}{Char Quistis}{Line}«В таком случае идём сейчас. Время до{Line}отбытия ещё есть».{End}"
         }
       },
       "$en_bgroom_1_0017": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Если ты пока ещё в чём-то{Line} не уверен, то можешь проверить свои{Line} знания {Color Blue}в [панели обучения]{Color White}».{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}«Если тебе нужно подготовиться,{Line}воспользуйся {Color Blue}〖учебной панелью〗{Color White}».{End}{End}",
         "Source Text SHA256": "C6329E8A0E1F96CD3856C16036BA98D095863E99EB9A53346A38A12367CB7D9F",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y140}{Char Quistis}{Line}«Если тебе нужно подготовиться,{Line}воспользуйся {Color Blue}〖учебной панелью〗{Color White}».{End}"
         }
       },
       "$en_bgroom_1_0018": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Я буду ждать у {Color Blue}главных ворот,{Color White}{Line} так что подходи, когда будешь готов».{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}«Я буду ждать у {Color Blue}〖главных ворот〗{Color White}, не{Line}задерживайся».{End}{End}",
         "Source Text SHA256": "468071E389B4D2F7BAED162649805EC43EE0F0E2BCE820315DB6218142B018B2",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y140}{Char Quistis}{Line}«Я буду ждать у {Color Blue}〖главных ворот〗{Color White}, не{Line}задерживайся».{End}"
         }
       },
       "$en_bgroom_1_0019": {
@@ -162,11 +216,14 @@
         }
       },
       "$en_bgroom_1_0020": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«{Char Squall}, ты куда? Я{Line} же, вроде, сказала, что мне нужно с тобой поговорить».{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}«{Char Squall}, ты куда? Я же сказала, мне{Line}нужно с тобой поговорить».{End}{End}",
         "Source Text SHA256": "9086612C0194CDB8D3B701B20F16459F25165286FAF6FD7550260F4E88A2A27A",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
           "JSM SHA256": "92C34590F0A0A0A0DBDEA6F8CE6F3F37907DAE45406398F0567DD19F19B153E7"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y140}{Char Quistis}{Line}«{Char Squall}, ты куда? Я же сказала, мне{Line}нужно с тобой поговорить».{End}"
         }
       },
       "$en_bgroom_1_0021": {
@@ -850,7 +907,7 @@
         }
       },
       "$en_bgroom_1_0092": {
-        "Target": "{X45Y12}{Char Irvine}{Line}«Ну это... Я тут{Line} подумал... Может тебе{Next}стоит немного поразмяться? Так{Line} ты точно девчонок подцепишь!...»{End}",
+        "Target": "{X45Y12}{Char Irvine}{Line}«Ну это... Я тут{Line} подумал...{Next}Может тебе стоит немного поразмяться? Так{Line} ты точно девчонок подцепишь!...»{End}",
         "Source Text SHA256": "237DF8A30AE370E3C2134A3392AA9863FE9B291799DE7C0D2B0CC21CCE76CD6F",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -858,7 +915,7 @@
         }
       },
       "$en_bgroom_1_0093": {
-        "Target": "{X40Y12}{Char Irvine}{Line}«Хмм... нелёгкий выбор... Так,{Next}пойти-ка мне за девчонкой с косичкой или за{Line} той, что с короткой стрижкой?{Line} Или как насчёт той брюнеточки?...»{End}",
+        "Target": "{X40Y12}{Char Irvine}{Line}«Хмм... нелёгкий выбор...{Next}Так, пойти-ка мне за девчонкой с косичкой или за{Line} той, что с короткой стрижкой?{Line} Или как насчёт той брюнеточки?...»{End}",
         "Source Text SHA256": "1859037768A8955DF0EC890C3CC83F2D6713CA07294A3F7E2B41468A2CAAD0C5",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",

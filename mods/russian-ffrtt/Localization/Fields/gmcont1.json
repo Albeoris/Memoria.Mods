@@ -18,7 +18,7 @@
         }
       },
       "$en_gmcont1_0002": {
-        "Target": "{X12Y145}Офицер{Line}«Мы слегка отставали от{Line} графика, но всё-таки{Next}уложились в назначенное{Line} время. Подготовиться к завершающей стадии запуска».{End}",
+        "Target": "{X12Y145}Офицер{Line}«Мы слегка отставали от{Line} графика, но всё-таки уложились в назначенное{Line} время.{Next}Подготовиться к завершающей стадии запуска».{End}",
         "Source Text SHA256": "89ED2508966B772B883505BCC4AA0775206C7FFFB0CDEBB949FB900A29616CD3",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gmcont1_0010": {
-        "Target": "{X160Y140}Офицер{Line}«Даже воинское{Next}приветствие нормально отдать{Line} не могут!»{End}",
+        "Target": "{X160Y140}Офицер{Line}«Даже воинское приветствие нормально отдать{Line} не могут!»{End}",
         "Source Text SHA256": "C1A8C31CAF6853FA0E8AB16D2BB6D2C63CDA29F0F3770D3B54ED4EC8705FB75B",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",
@@ -186,7 +186,7 @@
         }
       },
       "$en_gmcont1_0021": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Мы{Next}не допустим{Line} запуска ракет!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«А вот и нет!{Next}Мы не допустим запуска ракет!»{End}",
         "Source Text SHA256": "5272B8C48B21A9A614A19BEC6C1A3FEA271BB1D80702FAF5154FA286B404F3AA",
         "sourceContext": {
           "Source MSD SHA256": "592D6DF50EEA07BB15059CB73CF874A24432B60DF85AA0032780358A8B804BBF",

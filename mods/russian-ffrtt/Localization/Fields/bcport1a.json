@@ -50,11 +50,14 @@
         }
       },
       "$en_bcport1a_0006": {
-        "Target": "{X100Y50}{Char Quistis}{Line}«Хорошо... Тогда, пока мы сидим здесь,{Line} можем разобрать тест, который ты вчера провалил».{End}",
+        "Target": "{X100Y50}{Char Quistis}{Line}«Хорошо... Ну, а чтобы не терять время,{Line}давай разберём тест, который ты вчера{Line}завалил».{End}{End}",
         "Source Text SHA256": "000A23C9175F0660F3151DD855D58BBA053E6FC9FF54577073D83F7980514C3D",
         "sourceContext": {
           "Source MSD SHA256": "D5CC7F8732FE477C603208077B1C0C3EAF2C6FB959EBF00E7403F930D6969515",
           "JSM SHA256": "6FB2FDD24EFA1A6F11C12EC4CB4B693736E7EE2EB6E34F111E987A5E2DCFB0FD"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X100Y50}{Char Quistis}{Line}«Хорошо... Ну, а чтобы не терять время,{Line}давай разберём тест, который ты вчера{Line}завалил».{End}"
         }
       },
       "$en_bcport1a_0007": {
@@ -266,11 +269,14 @@
         }
       },
       "$en_bcport1a_0033": {
-        "Target": "{X10Y50}«Шансы Зелла сдать экзамен - пятьдесят{Line} на пятьдесят. По крайней мере,{Line} так сказал мой сын».{End}",
+        "Target": "{X10Y50}«Мой сын сказал, что ему стоит уповать{Line}лишь на удачу».{End}",
         "Source Text SHA256": "98585A21A8036AE819E61F7989875E6FDD34C045C66F206FBB5622E0A57830E0",
         "sourceContext": {
           "Source MSD SHA256": "D5CC7F8732FE477C603208077B1C0C3EAF2C6FB959EBF00E7403F930D6969515",
           "JSM SHA256": "6FB2FDD24EFA1A6F11C12EC4CB4B693736E7EE2EB6E34F111E987A5E2DCFB0FD"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X10Y50}«Мой сын сказал, что ему стоит уповать{Line}лишь на удачу».{End}"
         }
       },
       "$en_bcport1a_0034": {
@@ -354,11 +360,14 @@
         }
       },
       "$en_bcport1a_0044": {
-        "Target": "{X10Y50}«Ну, раз уж Зелл справился, то шансы,{Line} что сдаст и мой сын, стремятся{Line} к бесконечности».{End}",
+        "Target": "{X10Y50}«Ну, раз уж Зелл справился, то шансы, что{Line}сдаст и мой оболтус, стремятся к{Line}бесконечности».{End}{End}",
         "Source Text SHA256": "05ADF89403657439028F7A8196669B7386BDB6FB3CCB0068C9716D7D12A4E93C",
         "sourceContext": {
           "Source MSD SHA256": "D5CC7F8732FE477C603208077B1C0C3EAF2C6FB959EBF00E7403F930D6969515",
           "JSM SHA256": "6FB2FDD24EFA1A6F11C12EC4CB4B693736E7EE2EB6E34F111E987A5E2DCFB0FD"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X10Y50}«Ну, раз уж Зелл справился, то шансы, что{Line}сдаст и мой оболтус, стремятся к{Line}бесконечности».{End}"
         }
       },
       "$en_bcport1a_0045": {
@@ -370,11 +379,14 @@
         }
       },
       "$en_bcport1a_0046": {
-        "Target": "{X10Y50}«Верно. Мой сын сказал мне,{Line} что у Зелла в команде были{Line} хорошие студенты... Ох, ладно...»{End}",
+        "Target": "{X10Y50}«Конечно, нет! Мой сын сказал, что у Зелла{Line}подобралась отличная команда...»{End}{End}",
         "Source Text SHA256": "EB287A3530717E5CB0BAF0E856E911057D3EE0C017C70FF11960226FB53AA552",
         "sourceContext": {
           "Source MSD SHA256": "D5CC7F8732FE477C603208077B1C0C3EAF2C6FB959EBF00E7403F930D6969515",
           "JSM SHA256": "6FB2FDD24EFA1A6F11C12EC4CB4B693736E7EE2EB6E34F111E987A5E2DCFB0FD"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X10Y50}«Конечно, нет! Мой сын сказал, что у Зелла{Line}подобралась отличная команда...»{End}"
         }
       },
       "$en_bcport1a_0047": {

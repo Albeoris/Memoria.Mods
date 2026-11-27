@@ -58,7 +58,7 @@
         }
       },
       "$en_rgguest4_0007": {
-        "Target": "{X12Y12}{Char Laguna}{Line}«Отсюда мы отправляемся прямо к нашей конечной цели - Ультимеции!{Line} Давайте ещё{Next}раз обсудим план».{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Отсюда мы отправляемся прямо к нашей конечной цели - Ультимеции!{Next}Давайте ещё раз обсудим план».{End}",
         "Source Text SHA256": "16CAF68AC013E622F6B96FB2D7606E234C99B92800F8E1108731ABFAC729D6C7",
         "sourceContext": {
           "Source MSD SHA256": "F66890B8248BF5BE5C465C43F0611BE6EEE2E196CCE43B465154324D4CF4C623",
@@ -146,7 +146,7 @@
         }
       },
       "$en_rgguest4_0018": {
-        "Target": "{X12Y12}{Char Laguna}{Line}«Затем, Эллона отправляет {Char Rinoa} [и Ультимецию в прошлое]!{Line} {Color Blue}Эллона{Color White}{Next}{Color Blue}[возвращает {Char Rinoa}]!〗{Color White}!»{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Затем, Эллона отправляет {Char Rinoa} [и Ультимецию в прошлое]!{Next}{Color Blue}Эллона{Color White} {Color Blue}[возвращает {Char Rinoa}]!〗{Color White}!»{End}",
         "Source Text SHA256": "B874AB6924AB71821C4EDB4D8AFF7B49588753D9EFB1CEE0CD1AA8DCF263F2B8",
         "sourceContext": {
           "Source MSD SHA256": "F66890B8248BF5BE5C465C43F0611BE6EEE2E196CCE43B465154324D4CF4C623",
@@ -162,7 +162,7 @@
         }
       },
       "$en_rgguest4_0020": {
-        "Target": "{X12Y12}{Char Laguna}{Line}«Ультимеция живёт далеко в будущем, где ни{Line} один из нас физически существовать не{Next}может. Для нас существует лишь один{Line} способ выжить в таком мире!»{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Ультимеция живёт далеко в будущем, где ни{Line} один из нас физически существовать не может.{Next}Для нас существует лишь один{Line} способ выжить в таком мире!»{End}",
         "Source Text SHA256": "667A6269E27B8E0A2C9226C13D0AC9DF2CB3A480CD266384654719F830B6FBF2",
         "sourceContext": {
           "Source MSD SHA256": "F66890B8248BF5BE5C465C43F0611BE6EEE2E196CCE43B465154324D4CF4C623",
@@ -186,7 +186,7 @@
         }
       },
       "$en_rgguest4_0023": {
-        "Target": "{X12Y12}{Char Laguna}{Line}«Быть друзьями, нравиться друг другу и{Line} любить друг друга... Этого{Next}вам не сделать в одиночку.{Line} Вам кто-то нужен».{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Быть друзьями, нравиться друг другу и{Line} любить друг друга...{Next}Этого вам не сделать в одиночку.{Line} Вам кто-то нужен».{End}",
         "Source Text SHA256": "12F7A4CC955A7BAB976F08D6997B06ACEEBF4ACEF6BB8FD124D825C24A785A1D",
         "sourceContext": {
           "Source MSD SHA256": "F66890B8248BF5BE5C465C43F0611BE6EEE2E196CCE43B465154324D4CF4C623",
@@ -194,7 +194,7 @@
         }
       },
       "$en_rgguest4_0024": {
-        "Target": "{X12Y12}{Char Laguna}{Line}«Верно,{Next}ребята?{Line} Какое место напоминает{Next}вам о ваших друзьях?{Line} Представьте, что вы{Next}там вместе со своими друзьями.{Line} Как только начнётся сжатие времени, подумайте об этом месте и попытайтесь туда попасть! И всё!»{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Верно, ребята?{Next}Какое место напоминает вам о ваших друзьях?{Next}Представьте, что вы там вместе со своими друзьями.{Next}Как только начнётся сжатие времени, подумайте об этом месте и попытайтесь туда попасть! И всё!»{End}",
         "Source Text SHA256": "FCBDA2071DC69FB71EAFC8822505DE08CECD7E4A8EA14DE3EB704F14A63371D5",
         "sourceContext": {
           "Source MSD SHA256": "F66890B8248BF5BE5C465C43F0611BE6EEE2E196CCE43B465154324D4CF4C623",
@@ -202,7 +202,7 @@
         }
       },
       "$en_rgguest4_0025": {
-        "Target": "{X12Y12}{Char Laguna}{Line}«Это место будет вас ждать.{Line} Вы сможете попасть туда, в каком бы{Line} временном промежутке вы ни{Next}находились! Для этого задания вам нужны любовь{Line} и дружба! И смелость поверить в них».{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Это место будет вас ждать.{Line} Вы сможете попасть туда, в каком бы{Line} временном промежутке вы ни находились!{Next}Для этого задания вам нужны любовь{Line} и дружба! И смелость поверить в них».{End}",
         "Source Text SHA256": "750B769F20660D77F26C3A78C0DEDBBBCFC5C32AFB50ED7EEF2BD7FEC272CD74",
         "sourceContext": {
           "Source MSD SHA256": "F66890B8248BF5BE5C465C43F0611BE6EEE2E196CCE43B465154324D4CF4C623",
@@ -298,7 +298,7 @@
         }
       },
       "$en_rgguest4_0037": {
-        "Target": "{X12Y12}{Char Laguna}{Line}«Давай поговорим, когда всё{Next}это закончится.{Line} Я много чего хотел бы тебе сказать...»{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}«Давай поговорим, когда всё это закончится.{Next}Я много чего хотел бы тебе сказать...»{End}",
         "Source Text SHA256": "7CB8D4E1E522012D9FCD07763DF7C793D34693314DD7E40861BA9176C39F7535",
         "sourceContext": {
           "Source MSD SHA256": "F66890B8248BF5BE5C465C43F0611BE6EEE2E196CCE43B465154324D4CF4C623",

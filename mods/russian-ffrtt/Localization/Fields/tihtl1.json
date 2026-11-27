@@ -2,7 +2,7 @@
   "Fields": {
     "tihtl1": {
       "$en_tihtl1_0000": {
-        "Target": "{X150Y20}«О, {Char Rinoa}!{Line} Мне жаль... Вам нельзя оставаться здесь{Next}на ночь. Мне не стоит{Line} говорить этого, но в данный момент здесь{Line} остановилась целая куча грубиянов из Гальбадии».{End}",
+        "Target": "{X150Y20}«О, {Char Rinoa}!{Line} Мне жаль... Вам нельзя оставаться здесь на ночь.{Next}Мне не стоит{Line} говорить этого, но в данный момент здесь{Line} остановилась целая куча грубиянов из Гальбадии».{End}",
         "Source Text SHA256": "7CE214DE7407EE78F2A87C198603C8DC81EAB344FDF291570D8874E95D516E1B",
         "sourceContext": {
           "Source MSD SHA256": "80E138D25D48E1B003985FB87121E2D2BAA9548D307E5EAD978DB6E8583D0981",
@@ -26,7 +26,7 @@
         }
       },
       "$en_tihtl1_0003": {
-        "Target": "{X150Y20}«Ах, {Char Rinoa}.{Line}Как давно мы знаем друг{Next}друга? Зови меня{Line} Франческа. Я всегда с{Line} тобой! Удачи!»{End}",
+        "Target": "{X150Y20}«Ах, {Char Rinoa}.{Line}Как давно мы знаем друг друга?{Next}Зови меня{Line} Франческа. Я всегда с{Line} тобой! Удачи!»{End}",
         "Source Text SHA256": "AE434700A03E23328AE64604C65114D3EE03DD7CA454838716979E5CFB556A56",
         "sourceContext": {
           "Source MSD SHA256": "80E138D25D48E1B003985FB87121E2D2BAA9548D307E5EAD978DB6E8583D0981",
@@ -34,7 +34,7 @@
         }
       },
       "$en_tihtl1_0004": {
-        "Target": "{X150Y20}«Вам лучше{Line} побыть некоторое{Next}время{Line} в{Next}{Char Rinoa}{Line} тени».{End}",
+        "Target": "{X150Y20}«Вам лучше{Line} побыть некоторое время{Line} в {Char Rinoa}{Line} тени».{End}",
         "Source Text SHA256": "1813A113EBDF88B7E81D929FF4B87EB34433ED00BD8780CDDCB4593C1945DA14",
         "sourceContext": {
           "Source MSD SHA256": "80E138D25D48E1B003985FB87121E2D2BAA9548D307E5EAD978DB6E8583D0981",
@@ -42,7 +42,7 @@
         }
       },
       "$en_tihtl1_0005": {
-        "Target": "{X150Y20}«Решили уехать? Я{Line} буду скучать{Next}по вам... Не{Line} околачивайтесь здесь. Выбирайтесь,{Next}пока можете. Берегите{Line} себя. Не рискуйте попусту».{End}",
+        "Target": "{X150Y20}«Решили уехать? Я{Line} буду скучать по вам...{Next}Не{Line} околачивайтесь здесь.{Next}Выбирайтесь, пока можете. Берегите{Line} себя. Не рискуйте попусту».{End}",
         "Source Text SHA256": "19AB51AA908EF7B1DD575FB89DAE0CC051B59CECA7C7B852D55A201FE45DA10A",
         "sourceContext": {
           "Source MSD SHA256": "80E138D25D48E1B003985FB87121E2D2BAA9548D307E5EAD978DB6E8583D0981",

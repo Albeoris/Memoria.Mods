@@ -58,7 +58,7 @@
         }
       },
       "$en_sspod2_0007": {
-        "Target": "{X10Y10}{Char Squall}{Line}«БОЖЕ!!! {Pause 128}{Char Rinoa} скоро умрёт!.. Я{Line}{Pause 96}не смогу с этим смириться. Эллона,{Next}пожалуйста. Я никогда не{Line} чувствовал ничего подобного раньше».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}«БОЖЕ!!! {Pause 128}{Char Rinoa} скоро умрёт!.. Я{Line}{Pause 96}не смогу с этим смириться.{Next}Эллона, пожалуйста. Я никогда не{Line} чувствовал ничего подобного раньше».{End}",
         "Source Text SHA256": "C84E838639F20251B44654BE335E31398D94F740470855C3DE9F2C48F1971C89",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -154,7 +154,7 @@
         }
       },
       "$en_sspod2_0019": {
-        "Target": "{X32Y10}Эллона{Line}«Я помню этот взгляд. Таким{Line} же взглядом ты смотрел{Line} на меня когда был{Next}мальчиком. Этот любопытный, невинный, щенячий взгляд.{Line} Я любила его».{End}",
+        "Target": "{X32Y10}Эллона{Line}«Я помню этот взгляд. Таким{Line} же взглядом ты смотрел{Line} на меня когда был мальчиком.{Next}Этот любопытный, невинный, щенячий взгляд.{Line} Я любила его».{End}",
         "Source Text SHA256": "A50FB914517C6379D072B6A829019C31E8F2D75AE2B9C4A41EBAEE1EAFE77194",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -194,7 +194,7 @@
         }
       },
       "$en_sspod2_0024": {
-        "Target": "{X42Y10}Эллона{Line}«Ты{Next}готов?{Line} Я отправлю тебя в ближайшее прошлое... В ближайшее грядущее время...»{End}",
+        "Target": "{X42Y10}Эллона{Line}«Ты готов?{Next}Я отправлю тебя в ближайшее прошлое... В ближайшее грядущее время...»{End}",
         "Source Text SHA256": "0CD6A837AC9EF1D3D2217FEBC04E196BCBA4FA1E73743650EB854FBEFE7FDBB0",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",

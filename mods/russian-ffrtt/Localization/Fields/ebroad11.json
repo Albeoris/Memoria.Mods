@@ -42,7 +42,7 @@
         }
       },
       "$en_ebroad11_0005": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«Парни...{Line} Вам лучше взять свои слова{Next}назад. Говорят, тот кто смеётся над гением,{Line} в конце концов плачет».{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Парни...{Line} Вам лучше взять свои слова назад.{Next}Говорят, тот кто смеётся над гением,{Line} в конце концов плачет».{End}",
         "Source Text SHA256": "A4AD8539EFA900ECC0313A0A48DCE128FE2AE8AE3065A314451E48A42FF55C49",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ebroad11_0008": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«Ааа! {Pause 48}Лучше{Next}молчи!{Line} В любом случае, рычаг этого{Next}люка сломан.{Line} Но если мы ослабим его сильнее...»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Ааа! {Pause 48}Лучше молчи!{Next}В любом случае, рычаг этого люка сломан.{Next}Но если мы ослабим его сильнее...»{End}",
         "Source Text SHA256": "DEC3C9F5DA26C722D6A179DC213A44B831CE4779BDE328065DB992A41EA61733",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ebroad11_0010": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«ДА!»{Next}«Тыыы угадал!{Line} Они пройдут здесь, ничего{Line} не подозревая. А{Next}затем с криком \"ААА\"{Line} упадут вниз».{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«ДА!»{Next}«Тыыы угадал!{Line} Они пройдут здесь, ничего{Line} не подозревая.{Next}А затем с криком \"ААА\"{Line} упадут вниз».{End}",
         "Source Text SHA256": "1674238F9E6ED8AC8C45B825ACF761BCEFC70665CE3DB05AAD486BC64F378E17",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ebroad11_0015": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«Запомните, если мы испортим рычаг, мы{Line} не сможем вернуться обратно.{Line} Было бы{Next}глупо, попасться в{Line} собственную ловушку...»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}«Запомните, если мы испортим рычаг, мы{Line} не сможем вернуться обратно.{Next}Было бы глупо, попасться в{Line} собственную ловушку...»{End}",
         "Source Text SHA256": "8094EA01101272D15EAC72D9302D77F65E436CE1782E192269514B77F9D238B0",
         "sourceContext": {
           "Source MSD SHA256": "999C2BC080EDEDEBF992F1BE289497DF93E3955662A4F86BAE155AA832B03209",

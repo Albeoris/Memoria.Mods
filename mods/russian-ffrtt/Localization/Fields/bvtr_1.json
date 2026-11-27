@@ -2,7 +2,7 @@
   "Fields": {
     "bvtr_1": {
       "$en_bvtr_1_0000": {
-        "Target": "{X10Y10}{Char Zell}{Line}«Эй, зацени!{Line} Это приватное купе для \"Сидов\"!..»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}«Эй, зацени! Это приватное купе для{Line}сидов!..»{End}",
         "Source Text SHA256": "D228B8FCB7E58754AEC08E562AEE9DB5E051E52267595503CD43566F655A2DE9",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bvtr_1_0003": {
-        "Target": "{X150Y10}{Char Selphie}{Line}«Я люблю поезда. Я обожаю поезда».{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«Я люблю поезда».{End}",
         "Source Text SHA256": "2BD267E07B0991B3F3B66B67EF16BC974D61B7964EA3C98C1C98EF21BA3CF27C",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bvtr_1_0004": {
-        "Target": "{X150Y10}{Char Selphie}{Line}«Ой... ты иди, а я ещё здесь постою. Я побуду здесь ещё немного. Я немного постою здесь».{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«Я побуду здесь ещё немного».{End}",
         "Source Text SHA256": "6501BDDE725CFF9C7E5DDE5055E9F502231064B7CAA9293C896BD5D961A8BB72",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bvtr_1_0005": {
-        "Target": "{X150Y10}{Char Selphie}{Line}«А... Увидимся внутри».{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«Ой... ты иди, а я ещё здесь постою».{End}",
         "Source Text SHA256": "3462BC31EEBAA47BB582F941A22CE6BFEE514C768DBEF379CE5149DBD5D0CF6E",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bvtr_1_0007": {
-        "Target": "{X150Y10}{Char Selphie}{Line}«Поезд, поезд, увези нас вдаль,»{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«Поезд, поезд, увези нас вдаль...»{End}",
         "Source Text SHA256": "43C33BD392C7E9BE5AEDEB3A79ABE30EE18A5537413BE1BE62519DECCE560FB5",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bvtr_1_0008": {
-        "Target": "{X150Y10}{Char Selphie}{Line}«В далёкую, далёкую даль».{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«В далёкую, далёкую даль...»{End}",
         "Source Text SHA256": "DFEE79C7B87719EC781119A4325CA427CC7CB1AD518C465CEDB41D6FAD247926",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bvtr_1_0009": {
-        "Target": "{X150Y10}{Char Selphie}{Line}«Отправиться в будущее нам суждено»{End}",
+        "Target": "{X150Y10}{Char Selphie}{Line}«Отправиться в будущее нам суждено...»{End}",
         "Source Text SHA256": "DACBB66A4B9013F6F9F487A2DC73BFD234748784888AC2F46163ACED03EB013C",
         "sourceContext": {
           "Source MSD SHA256": "CEFE49FE8A95CD62EC5F77AE0F1A140A14E48B37E10A33B25692A1031298D252",

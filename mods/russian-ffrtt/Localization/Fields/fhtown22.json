@@ -58,7 +58,7 @@
         }
       },
       "$en_fhtown22_0007": {
-        "Target": "{X60Y80}Мэр Доуб{Line}«Я{Next}уже сказал вам.{Line} Я никогда не слышал об этой девочке, Эллоне. Здесь нет никого с таким именем».{End}",
+        "Target": "{X60Y80}Мэр Доуб{Line}«Я уже сказал вам.{Next}Я никогда не слышал об этой девочке, Эллоне. Здесь нет никого с таким именем».{End}",
         "Source Text SHA256": "524FFF704A176FE11714B57C8AC574103E64165E33CF84960D684DC528C17838",
         "sourceContext": {
           "Source MSD SHA256": "B5411257444209A94BFC7BB3FC111282D1B68FE628DC05EED2211C4E3FCF57AF",
@@ -314,7 +314,7 @@
         }
       },
       "$en_fhtown22_0039": {
-        "Target": "{X20Y40}{Char Squall}{Line}«Хотелось бы...{Pause 48} чтобы всё можно было{Line}уладить без насилия...»{Next}«...и чтобы никому{Line}не пришлось сражаться».{End}",
+        "Target": "{X20Y40}{Char Squall}{Line}«Хотелось бы...{Pause 48} чтобы всё можно было{Line}уладить без насилия и чтобы никому{Line}не пришлось сражаться».{End}",
         "Source Text SHA256": "38247302C83F95CABE1D2D35097D2CC8EC73DBA7E42E211D498C9BBE090F5D0D",
         "sourceContext": {
           "Source MSD SHA256": "B5411257444209A94BFC7BB3FC111282D1B68FE628DC05EED2211C4E3FCF57AF",

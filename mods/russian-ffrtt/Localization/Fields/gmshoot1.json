@@ -2,7 +2,7 @@
   "Fields": {
     "gmshoot1": {
       "$en_gmshoot1_0000": {
-        "Target": "{X160Y12}Солдат ремонтной службы{Line}«Да,{Next}вот эта.{Line} Хорошо, один встанет между этими двумя, остальные по бокам».{End}",
+        "Target": "{X160Y12}Солдат ремонтной службы{Line}«Да, вот эта.{Next}Хорошо, один встанет между этими двумя, остальные по бокам».{End}",
         "Source Text SHA256": "D8442509204C6D4FA9D734DBFA2104AA9D880C22189F7B8D07D53B9396403841",
         "sourceContext": {
           "Source MSD SHA256": "2F6245AE0AFBD0ABB80321BACA4E09A800AE417FF96B50F2274311CD4C7F5036",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gmshoot1_0011": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Это насчёт{Next}осмотра генераторной.{Line} Команда техобслуживания сейчас занята, поэтому вам придётся начать без них».{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Это насчёт осмотра генераторной.{Next}Команда техобслуживания сейчас занята, поэтому вам придётся начать без них».{End}",
         "Source Text SHA256": "B17CC24DDBCBE2B6AB7611A34EE5F260AACB4D866EE463C85B7D35AF369B72F5",
         "sourceContext": {
           "Source MSD SHA256": "2F6245AE0AFBD0ABB80321BACA4E09A800AE417FF96B50F2274311CD4C7F5036",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gmshoot1_0013": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Это касается{Next}осмотра генераторной.{Line} Команда техобслуживания уже освободилась. Скоро они приступят к осмотру».{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}«Это касается осмотра генераторной.{Next}Команда техобслуживания уже освободилась. Скоро они приступят к осмотру».{End}",
         "Source Text SHA256": "EB367D443EC5E7843189ABF248712D20394807557F137D600B19C22B37C1E41E",
         "sourceContext": {
           "Source MSD SHA256": "2F6245AE0AFBD0ABB80321BACA4E09A800AE417FF96B50F2274311CD4C7F5036",

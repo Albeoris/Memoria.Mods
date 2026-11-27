@@ -2,7 +2,7 @@
   "Fields": {
     "bvboat_1": {
       "$en_bvboat_1_0000": {
-        "Target": "{X12Y12}Сю{Line}«Привет, Квистис».{End}",
+        "Target": "{X12Y12}Сю{Line}«Привет, Квистис!»{End}",
         "Source Text SHA256": "38731FF2AED68CD85EF441CB2622C0449D84947D7427B9E295B294E5ABC11D13",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -10,7 +10,7 @@
         }
       },
       "$en_bvboat_1_0001": {
-        "Target": "{X160Y12}{Char Quistis}{Line}«Ну что ж, это{Line} члены отряда Б.»{End}",
+        "Target": "{X160Y12}{Char Quistis}{Line}«Вот наш отряд».{End}",
         "Source Text SHA256": "E31E82DD09CDAE96B0751094E90E4023DB995E10071409BAF948F7316F842FF6",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bvboat_1_0010": {
-        "Target": "{X12Y12}{Char Seifer}{Line}«Ну, а что же НАМ делать?»{End}",
+        "Target": "{X12Y12}{Char Seifer}{Line}«Ну, а что делать НАМ?»{End}",
         "Source Text SHA256": "8C1FFF7810025A797C26025FAE1204B28ECF8B939694D0BD70022DAAE5A6A4DD",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bvboat_1_0014": {
-        "Target": "{X12Y12}{Char Seifer}{Line}«Значит, говорите, мы{Line} делаем всю грязную работу...»{End}",
+        "Target": "{X12Y12}{Char Seifer}{Line}«В общем, делаем всю грязную работу...»{End}",
         "Source Text SHA256": "97BBCEF00A019243789185B38F8BE06F46E8142743205775DEBD956C850D3FE9",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bvboat_1_0019": {
-        "Target": "{X12Y160}Сю{Line}«На{Next}этом всё.{Line} По любым вопросам обращайтесь к Квистис».{End}",
+        "Target": "{X12Y160}Сю{Line}«На этом всё».{Next}«По любым вопросам обращайтесь к Квистис».{End}",
         "Source Text SHA256": "7739A16C2862622D5F612BB9FB97BB762F97ED543A20820706D5A39C4172F9C7",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bvboat_1_0020": {
-        "Target": "{X12Y120F1L4B1C4}(Хмм...){Line}Поговорить с Квистис{Line}Поговорить с Сейфером{Line}Поговорить с Зеллом{Line}Ничего не делать{End}",
+        "Target": "{X12Y120F1L4B1C4}(Хм...){Line}Поговорить с Квистис{Line}Поговорить с Сейфером{Line}Поговорить с Зеллом{Line}Ничего не делать{End}",
         "Source Text SHA256": "3AB2594837D9C8B6AC4337EB17BF3FF4DACCA485A46B1A3C98DDBD74241C8096",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -170,7 +170,7 @@
         }
       },
       "$en_bvboat_1_0021": {
-        "Target": "{X12Y140F2L3B2C3}{Char Quistis}{Line}«В чем дело, {Char Squall}?»{Line}Объясни ещё раз{Line}Да так, ничего{End}",
+        "Target": "{X12Y140F2L3B2C3}{Char Quistis}{Line}«Что такое, {Char Squall}?»{Line}Напомните задачу{Line}Нет, ничего{End}",
         "Source Text SHA256": "E4D596E3A78A1E3F5095BC7552E7B8D873144045BAD3526E1FD325A8E2C88570",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -178,7 +178,7 @@
         }
       },
       "$en_bvboat_1_0022": {
-        "Target": "{X12Y140}{Char Quistis}{Line}«Ещё раз, вкратце».{End}",
+        "Target": "{X12Y140}{Char Quistis}{Line}«Хорошо, вкратце...»{End}",
         "Source Text SHA256": "BEE6940BCF6DDDDF0F8236BEC24BEF4134B46D11598B893C165C063A84DAD6FD",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -186,7 +186,7 @@
         }
       },
       "$en_bvboat_1_0023": {
-        "Target": "{X12Y140}{Char Quistis}{Line}«Это в последний раз».{End}",
+        "Target": "{X12Y140}{Char Quistis}{Line}«...в последний раз».{End}",
         "Source Text SHA256": "C73E4570C49311A53FDC05D7B9555B3D80131212D98DABE3257EA2542512280B",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -194,7 +194,7 @@
         }
       },
       "$en_bvboat_1_0024": {
-        "Target": "{X12Y140}{Char Quistis}{Line}«Ваша задача - очистить город{Line} от солдат гальбадианской армии. Приказ отступать{Next}имеет наивысший приоритет. При{Line} его получении вы должны{Line} немедленно вернуться на побережье».{End}",
+        "Target": "{X12Y140}{Char Quistis}{Line}«Ваша задача — очистить город от{Line}гальбадианских солдат».{Next}«Приказ отступать имеет наивысший{Line}приоритет. При его получении вы должны{Line}немедленно вернуться на побережье».{End}",
         "Source Text SHA256": "417728AB6D3525E8A3D59302F8FC47EE7CFC484C1DD3F1B127B3165BF9E77F84",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -202,7 +202,7 @@
         }
       },
       "$en_bvboat_1_0025": {
-        "Target": "{X12Y160}{Char Quistis}{Line}«Теперь понятно?{Line}Вот и всё».{End}",
+        "Target": "{X12Y160}{Char Quistis}{Line}«Да ну тебя!..»{End}",
         "Source Text SHA256": "56BD4407C1B236D250D8397076E97395F9303A72D54D2B6AEA0F013FB6645039",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -210,7 +210,7 @@
         }
       },
       "$en_bvboat_1_0026": {
-        "Target": "{X12Y160}{Char Quistis}{Line}«Мы скоро прибудем на{Line} место. Будь готов ко всему, {Char Squall}..»{End}",
+        "Target": "{X12Y160}{Char Quistis}{Line}«Мы скоро прибудем на место. Будь готов ко{Line}всему, {Char Squall}».{End}",
         "Source Text SHA256": "2A9A488BE603858C6BD4B81F9AAA16B841667E0E813FF39E8E3ECC1BA8BDF2BD",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -218,7 +218,7 @@
         }
       },
       "$en_bvboat_1_0027": {
-        "Target": "{X12Y140}{Char Seifer}{Line}«Слушай внимательно».{Next}«Наша цель - зачистить{Line} Доллет от оставшихся{Line} гальбадианских солдат. Всё,{Line} что вам, парни,{Next}надо делать - исполнять{Line} приказы капитана, то{Line} есть меня».{End}",
+        "Target": "{X12Y140}{Char Seifer}{Line}«Слушайте внимательно».{Next}«Нам поручили перерезать всех{Line}гальбадианцев в Доллете. Дерьмовая{Line}работёнка...»{Next}«Но всё, что от вас требуется — выполнять{Line}мои приказы, приказы капитана».{End}",
         "Source Text SHA256": "BAFAD35D8D92D7A03D6D87E41F8A3C2D7574AD621DA927365BF35A25E7DF9320",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -226,7 +226,7 @@
         }
       },
       "$en_bvboat_1_0028": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Моё первое настоящее сражение...{Line} Я начинаю немного нервничать».{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«Моё первое настоящее сражение... Я{Line}немного нервничаю».{End}",
         "Source Text SHA256": "FD063FE3FE2E8EA5A292CC05CCAF77D3A737F89CFAA75D6A8571600C70DA033F",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -234,7 +234,7 @@
         }
       },
       "$en_bvboat_1_0029": {
-        "Target": "{X160Y12}{Char Seifer}{Line}«Смотри, не наделай в штаны со страху».{End}",
+        "Target": "{X160Y12}{Char Seifer}{Line}«Смотри не описайся со страху».{End}",
         "Source Text SHA256": "2BE721A2EF6AD8217BCFC407CEA5A711169D2B0F95116E06450ABBCB13D16AC5",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -242,7 +242,7 @@
         }
       },
       "$en_bvboat_1_0030": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Чего?!{Line} Ты это мне?»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«Ты это мне?..»{End}",
         "Source Text SHA256": "3AE28D1F0F2B8D85D1169376C822537242E5641E132D413AF549481AC09D093F",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -250,7 +250,7 @@
         }
       },
       "$en_bvboat_1_0031": {
-        "Target": "{X160Y12}{Char Seifer}{Line}«Хе-хе...»{End}",
+        "Target": "{X160Y12}{Char Seifer}{Line}«Хе-хе-хе...»{End}",
         "Source Text SHA256": "C2AC369457A166947E5050813BE5D5BAB53597EB81441B5879C5D8CB0F1501D4",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -258,7 +258,7 @@
         }
       },
       "$en_bvboat_1_0032": {
-        "Target": "{X12Y12}{Char Zell}{Line}«...Ублюдок.»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«Ублюдок...»{End}",
         "Source Text SHA256": "939792C26B3B04874CB8F50272B9E57F4131F5AA9E9574A2DEBE9FEC913D29DB",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -266,7 +266,7 @@
         }
       },
       "$en_bvboat_1_0033": {
-        "Target": "{X12Y160}{Char Quistis}{Line}«Ладно,{Next}хватит болтать.{Line} Мы высадимся совсем скоро. Приготовьтесь».{End}",
+        "Target": "{X12Y160}{Char Quistis}{Line}«Так, хватит болтать».{Next}«До высадки осталось немного.{Line}Приготовьтесь».{End}",
         "Source Text SHA256": "DB82A530CDD964F1BEFD9268BC06A3BF89A074BD5870DF08FCC9B6497865CA0E",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -290,7 +290,7 @@
         }
       },
       "$en_bvboat_1_0036": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Хорошо».{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}«Принято».{End}",
         "Source Text SHA256": "E6276D8D7ABBB0167BD3E57ACF9B293ECCD61A645F0E9884164636ADE10E485D",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -298,7 +298,7 @@
         }
       },
       "$en_bvboat_1_0037": {
-        "Target": "{X180Y12}{Char Seifer}{Line}«Конечно, конечно...»{End}",
+        "Target": "{X180Y12}{Char Seifer}{Line}«Да-да...»{End}",
         "Source Text SHA256": "F3DEA07D11B61FC08712AD75F140295488C8864C1357A6144BF780897D6FBA2D",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -306,7 +306,7 @@
         }
       },
       "$en_bvboat_1_0038": {
-        "Target": "{X180Y12}{Char Seifer}{Line}«Эй, {Char Squall}.{Line}Посмотри, как там дела снаружи».{End}",
+        "Target": "{X180Y12}{Char Seifer}{Line}«Эй, {Char Squall}. Посмотри, как там дела{Line}снаружи».{End}",
         "Source Text SHA256": "F292FA2FF65B532FBF291CA55E84F6D841942C81EDF10AB562A614ACA1154D44",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -330,7 +330,7 @@
         }
       },
       "$en_bvboat_1_0041": {
-        "Target": "{X180Y12}{Char Seifer}{Line}«Замечательно.{Line} Потому что это МОЙ приказ».{End}",
+        "Target": "{X180Y12}{Char Seifer}{Line}«Замечательно, потому что это приказ!»{End}",
         "Source Text SHA256": "BD63CDCF2877F42E0E8F5E8D3340830672D0E3DE6784544AC774F56CA0CB166B",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",
@@ -346,7 +346,7 @@
         }
       },
       "$en_bvboat_1_0043": {
-        "Target": "{X180Y12}{Char Seifer}{Line}«Это приказ твоего капитана,{Line}{Char Squall}. Подчиняйся».{End}",
+        "Target": "{X180Y12}{Char Seifer}{Line}«Это не просьба, {Char Squall}, это{Line}приказ».{End}",
         "Source Text SHA256": "A132C50D170CDD1CDEA0F812D3BE9A3FBB3D4257C10ADF60C2D9DA2B9F1C8798",
         "sourceContext": {
           "Source MSD SHA256": "DE2268EA02B0759C921FD856BA0EC5B7CDE80A7A95BADD8E938B467BCEB94263",

@@ -66,7 +66,7 @@
         }
       },
       "$en_fhparar2_0008": {
-        "Target": "{X10Y160}{Char Rinoa}{Line}«Эмм... Ну, это о{Line} твоём повышении. Для{Next}тебя ведь это стало{Line} неожиданностью? Тебе, наверное, нелегко...»{End}",
+        "Target": "{X10Y160}{Char Rinoa}{Line}«Эмм... Ну, это о{Line} твоём повышении.{Next}Для тебя ведь это стало{Line} неожиданностью? Тебе, наверное, нелегко...»{End}",
         "Source Text SHA256": "5D4205672D183FCEE028C062D150681DF7FF6D4857F9E061E33F41F5A934D9D0",
         "sourceContext": {
           "Source MSD SHA256": "B0A598C971D2C5DD90E609A68D7AF60058E9D19EBB8CCB798D34155048FCA375",
@@ -82,7 +82,7 @@
         }
       },
       "$en_fhparar2_0010": {
-        "Target": "{X10Y160}{Char Rinoa}{Line}«{Char Squall},{Line} уверена, что с{Line} этого момента будет{Next}много трудностей, с{Line} которыми тебе{Line} придётся столкнуться».{End}",
+        "Target": "{X10Y160}{Char Rinoa}{Line}«{Char Squall},{Line} уверена, что с{Line} этого момента будет много трудностей, с{Line} которыми тебе{Line} придётся столкнуться».{End}",
         "Source Text SHA256": "BBC1C6476CA8B2A5D327C0B3DFCE186B783545511A0A13622A997970114BE8C2",
         "sourceContext": {
           "Source MSD SHA256": "B0A598C971D2C5DD90E609A68D7AF60058E9D19EBB8CCB798D34155048FCA375",
@@ -130,7 +130,7 @@
         }
       },
       "$en_fhparar2_0016": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Ну, а если честно, то{Next}мы говорили о{Line} том, что... ну...»{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«Ну, а если честно, то мы говорили о{Line} том, что... ну...»{End}",
         "Source Text SHA256": "63C1C6537621CE69C1119CF0C9B13B624F8862DD04EE714865E79CA919584E62",
         "sourceContext": {
           "Source MSD SHA256": "B0A598C971D2C5DD90E609A68D7AF60058E9D19EBB8CCB798D34155048FCA375",

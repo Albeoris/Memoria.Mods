@@ -74,7 +74,7 @@
         }
       },
       "$en_fhpanel1_0009": {
-        "Target": "{X34Y10}(Друзья, готовые{Line} помочь, взрослые,{Next}на которых можно{Line} положиться...){End}",
+        "Target": "{X34Y10}(Друзья, готовые{Line} помочь, взрослые, на которых можно{Line} положиться...){End}",
         "Source Text SHA256": "13AFFE62EB3FD9861CC4CF9C228AC75257D6F215C9C24B09C2B61721FFEDCBF9",
         "sourceContext": {
           "Source MSD SHA256": "2211FA2595DA65DD686D8A47C3A22A9B9C1C00483D3A98EF922770E2F635AE8F",
@@ -154,7 +154,7 @@
         }
       },
       "$en_fhpanel1_0019": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Что? Да{Line} нет, это{Next}я не о{Line} тебе. Я говорила{Line} о музыке».{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«Что?{Next}Да{Line} нет, это я не о{Line} тебе. Я говорила{Line} о музыке».{End}",
         "Source Text SHA256": "CA4892B33DA4C7F60121DB0EB9E2BCDE0EA850E529CDE85E8EEEE3CA21A2591E",
         "sourceContext": {
           "Source MSD SHA256": "2211FA2595DA65DD686D8A47C3A22A9B9C1C00483D3A98EF922770E2F635AE8F",
@@ -186,7 +186,7 @@
         }
       },
       "$en_fhpanel1_0023": {
-        "Target": "{X20Y10}{Char Squall}{Line}«Договорились?{Line}»{Next}{End}",
+        "Target": "{X20Y10}{Char Squall}{Line}«Договорились?»{End}",
         "Source Text SHA256": "C706776CDE8DF007D482EF1E27AF6EA82B6428C39BE26ADFC62163509F47857B",
         "sourceContext": {
           "Source MSD SHA256": "2211FA2595DA65DD686D8A47C3A22A9B9C1C00483D3A98EF922770E2F635AE8F",
@@ -474,7 +474,7 @@
         }
       },
       "$en_fhpanel1_0059": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Возможно, это последний{Line} раз, когда мы все{Next}вместе. Так почему бы{Line} не насладиться этими мгновениями? Повеселиться{Line} в компании... просто поболтать!»{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«Возможно, это последний{Line} раз, когда мы все вместе.{Next}Так почему бы{Line} не насладиться этими мгновениями? Повеселиться{Line} в компании... просто поболтать!»{End}",
         "Source Text SHA256": "5DE20181F06136DDAEEF02B7B82C60F7AC074BF6E86C22D90342BEAF9394442A",
         "sourceContext": {
           "Source MSD SHA256": "2211FA2595DA65DD686D8A47C3A22A9B9C1C00483D3A98EF922770E2F635AE8F",
@@ -538,7 +538,7 @@
         }
       },
       "$en_fhpanel1_0067": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Держи это{Next}в голове».{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}«Держи это в голове».{End}",
         "Source Text SHA256": "1437168E8EE4C8A7B28E2292930A3E7585B86909017AF8DDD2983799C436020D",
         "sourceContext": {
           "Source MSD SHA256": "2211FA2595DA65DD686D8A47C3A22A9B9C1C00483D3A98EF922770E2F635AE8F",

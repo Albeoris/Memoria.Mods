@@ -2,7 +2,7 @@
   "Fields": {
     "tiagit4": {
       "$en_tiagit4_0000": {
-        "Target": "{X20Y20}«Ты{Pause 48} ведь{Pause 80}{Line} тот парень!.. С{Next}вечеринки...{Pause 48}Значит... ты{Pause 48}{Line} теперь сид?!»{End}",
+        "Target": "{X20Y20}«Ты{Pause 48} ведь{Pause 80}{Line} тот парень!..{Next}С вечеринки...{Pause 48}Значит... ты{Pause 48}{Line} теперь сид?!»{End}",
         "Source Text SHA256": "503E46131BE9418F75D266159D4249475C3939C843A59B25F923F5631CEE3831",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -34,7 +34,7 @@
         }
       },
       "$en_tiagit4_0004": {
-        "Target": "{X150Y20}«Просто, я{Next}так счастлива!{Line} Я всё время посылала запросы в сад, но ответа не было...»{End}",
+        "Target": "{X150Y20}«Просто, я так счастлива!{Next}Я всё время посылала запросы в сад, но ответа не было...»{End}",
         "Source Text SHA256": "3A54E239928927FC76D8419B6A81D8490C05FC2D0532575DE1902FEE5EF352BD",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",
@@ -194,7 +194,7 @@
         }
       },
       "$en_tiagit4_0024": {
-        "Target": "{X20Y160}{Char Squall}{Line}«Незаметное спланированное сближение на танцевальной{Line} вечеринке... Нам{Next}могут дать задания, требующие{Line} такого вида ухищрений. Сиды{Line} должны обладать различными навыками».{End}",
+        "Target": "{X20Y160}{Char Squall}{Line}«Незаметное спланированное сближение на танцевальной{Line} вечеринке...{Next}Нам могут дать задания, требующие{Line} такого вида ухищрений. Сиды{Line} должны обладать различными навыками».{End}",
         "Source Text SHA256": "D3099664E16856C5EA188F26EC6B616B575E527A2A3C9D387B5C08CF8ED8F103",
         "sourceContext": {
           "Source MSD SHA256": "B79773B5B08EC4582664097DEFA325E8DC843F4A14CF7BF47EF8A732410C9AEE",

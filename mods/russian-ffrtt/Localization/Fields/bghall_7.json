@@ -34,7 +34,7 @@
         }
       },
       "$en_bghall_7_0004": {
-        "Target": "{X65Y200}{Char Squall}{Line}«Перемещаем указатель и нажимаем [Крест]{Line}{Key Confirm} для выбора».{End}",
+        "Target": "{X65Y200}{Char Squall}{Line}«Перемещаешь указатель и нажимаешь{Line}{Key Confirm} для выбора».{End}",
         "Source Text SHA256": "CD9F98CDF385A52D5161A276AD019AFA26CE564F18339883E305C14F2FD9AF71",
         "sourceContext": {
           "Source MSD SHA256": "27432328F1DB989C60841DBA63E87E29712B01F1C3D466B2BB067746116917BE",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bghall_7_0019": {
-        "Target": "{X100Y86}{Char Squall}{Line}“Продолжим. Площадь на западе.{Line} Там планируется проведение...”",
+        "Target": "{X100Y86}{Char Squall}{Line}“Продолжим. Площадь на западе.{Next}Там планируется проведение...”",
         "Source Text SHA256": "A294913FFDA96244004F8AE757FB8703B2DD156417875ED621606538D44FDBBB",
         "sourceContext": {
           "Source MSD SHA256": "27432328F1DB989C60841DBA63E87E29712B01F1C3D466B2BB067746116917BE",

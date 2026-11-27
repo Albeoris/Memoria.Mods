@@ -58,7 +58,7 @@
         }
       },
       "$en_gwroad1_0007": {
-        "Target": "{X94Y30}{Char Zell}{Line}«Если с ним что-нибудь случится, если президент выместит на{Line} нём злость... Это всё{Next}будет на моей совести! Ведь{Line} это я, кретин, сболтнул, что мы сиды!»{End}",
+        "Target": "{X94Y30}{Char Zell}{Line}«Если с ним что-нибудь случится, если президент выместит на{Line} нём злость... Это всё будет на моей совести!{Next}Ведь{Line} это я, кретин, сболтнул, что мы сиды!»{End}",
         "Source Text SHA256": "D7EA51B20E21C50B636C26B9A460EC364434C7F450C6773DE05FC0A64DB7B655",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",
@@ -314,7 +314,7 @@
         }
       },
       "$en_gwroad1_0039": {
-        "Target": "{X130Y30}{Char Rinoa}{Line}«Эмм...{Char Squall}{Next}...{Line} Думаю, я могла наговорить лишнего. Прости».{End}",
+        "Target": "{X130Y30}{Char Rinoa}{Line}«Эмм...{Next}{Char Squall} ...{Line} Думаю, я могла наговорить лишнего. Прости».{End}",
         "Source Text SHA256": "972642EC69BC6D34F18C250D76779F1F04A2810F535749EEA363F2C48FD1007E",
         "sourceContext": {
           "Source MSD SHA256": "F030108DD04E119F13D616BB40071E1F66B970E3539B219B311399C98EADA5EA",

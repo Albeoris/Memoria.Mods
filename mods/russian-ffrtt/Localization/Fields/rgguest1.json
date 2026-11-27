@@ -82,7 +82,7 @@
         }
       },
       "$en_rgguest1_0010": {
-        "Target": "{X12Y120}{Char Quistis}{Line}«Эллоны с{Next}нами не было.{Line} Кроме того, там были следы борьбы. Надеюсь, с ней всё хорошо».{End}",
+        "Target": "{X12Y120}{Char Quistis}{Line}«Эллоны с нами не было.{Next}Кроме того, там были следы борьбы. Надеюсь, с ней всё хорошо».{End}",
         "Source Text SHA256": "952279D87DA12227D340E2BF2AA35B726C6F35F07EC85E48A239AD0626E96717",
         "sourceContext": {
           "Source MSD SHA256": "52C017F96C6344FBFBCB4B31D1D518CBD91792E52BDA34ED50F2D1323F918349",
@@ -434,7 +434,7 @@
         }
       },
       "$en_rgguest1_0054": {
-        "Target": "{X12Y140}{Char Zell}{Line}«Матрона больше{Next}не волшебница.{Line} Матрона, сама того не ведая, передала кому-то свою силу».{End}",
+        "Target": "{X12Y140}{Char Zell}{Line}«Матрона больше не волшебница.{Next}Матрона, сама того не ведая, передала кому-то свою силу».{End}",
         "Source Text SHA256": "B9CBF81A056A58A359CCA4E79D441E442AC488A9F398AC58255E57D2282197CF",
         "sourceContext": {
           "Source MSD SHA256": "52C017F96C6344FBFBCB4B31D1D518CBD91792E52BDA34ED50F2D1323F918349",
@@ -458,7 +458,7 @@
         }
       },
       "$en_rgguest1_0057": {
-        "Target": "{X12Y140}{Char Zell}{Line}«Ах да, Безумной Пандорой управляет{Line} гальбадианская армия. Давным-давно они{Next}вытащили её из океана там,{Line} где её утопил Эстар».{End}",
+        "Target": "{X12Y140}{Char Zell}{Line}«Ах да, Безумной Пандорой управляет{Line} гальбадианская армия.{Next}Давным-давно они вытащили её из океана там,{Line} где её утопил Эстар».{End}",
         "Source Text SHA256": "3A073A5C15975A3955477C8776651062E56CF3E8EB503A49F7C3E81D84C3DD35",
         "sourceContext": {
           "Source MSD SHA256": "52C017F96C6344FBFBCB4B31D1D518CBD91792E52BDA34ED50F2D1323F918349",
@@ -474,7 +474,7 @@
         }
       },
       "$en_rgguest1_0059": {
-        "Target": "{X12Y140}{Char Zell}{Line}«С Луны свалились монстры.{Line} Здесь полнейшая паника. Но{Next}дело не только{Line} в свалившихся монстрах».{End}",
+        "Target": "{X12Y140}{Char Zell}{Line}«С Луны свалились монстры.{Line} Здесь полнейшая паника.{Next}Но дело не только{Line} в свалившихся монстрах».{End}",
         "Source Text SHA256": "DF6679EEE37888490DCC1CBF4D6564E3809623D869E4C16894D39FF8E1F32647",
         "sourceContext": {
           "Source MSD SHA256": "52C017F96C6344FBFBCB4B31D1D518CBD91792E52BDA34ED50F2D1323F918349",
@@ -482,7 +482,7 @@
         }
       },
       "$en_rgguest1_0060": {
-        "Target": "{X12Y140}{Char Zell}{Line}«Волшебница Адель спустилась вместе{Line} с механизмом, в котором{Next}была заключена. Полагаю, поток{Line} монстров поглотил механизм».{End}",
+        "Target": "{X12Y140}{Char Zell}{Line}«Волшебница Адель спустилась вместе{Line} с механизмом, в котором была заключена.{Next}Полагаю, поток{Line} монстров поглотил механизм».{End}",
         "Source Text SHA256": "CBE527B87EBC476914C962AE4690D2589DB899130F02A09B2B5EED7BC049DA1A",
         "sourceContext": {
           "Source MSD SHA256": "52C017F96C6344FBFBCB4B31D1D518CBD91792E52BDA34ED50F2D1323F918349",
@@ -490,7 +490,7 @@
         }
       },
       "$en_rgguest1_0061": {
-        "Target": "{X12Y140}{Char Zell}{Line}«А Безумная Пандора выхватила{Line} её из потока! Доктор{Next}Одайн считает, что{Line} в этом могло{Line} заключаться истинное намерение Гальбадии».{End}",
+        "Target": "{X12Y140}{Char Zell}{Line}«А Безумная Пандора выхватила{Line} её из потока!{Next}Доктор Одайн считает, что{Line} в этом могло{Line} заключаться истинное намерение Гальбадии».{End}",
         "Source Text SHA256": "A15331D8EC2DA92A400074574E4CA59AAF64F1B34CA62A0D7C5DD0E0E794E6FA",
         "sourceContext": {
           "Source MSD SHA256": "52C017F96C6344FBFBCB4B31D1D518CBD91792E52BDA34ED50F2D1323F918349",
@@ -666,7 +666,7 @@
         }
       },
       "$en_rgguest1_0083": {
-        "Target": "{X12Y140}{Char Quistis}{Line}«Ради{Next}этого что ли?!{Line} Разве ты сделал это не потому, что хотел быть с {Char Rinoa}??»{End}",
+        "Target": "{X12Y140}{Char Quistis}{Line}«Ради этого что ли?!{Next}Разве ты сделал это не потому, что хотел быть с {Char Rinoa}??»{End}",
         "Source Text SHA256": "1F727900BC8B0AF58AE7D095D315E7333E1EF06438DD001E4068D75A740F769D",
         "sourceContext": {
           "Source MSD SHA256": "52C017F96C6344FBFBCB4B31D1D518CBD91792E52BDA34ED50F2D1323F918349",
@@ -786,7 +786,7 @@
         }
       },
       "$en_rgguest1_0098": {
-        "Target": "{X160Y12}{Char Squall}{Line}«Я не могу ничего поделать с этой как её{Line} там-Пандорой, и этой волшебницей{Next}Адель. Я даже не знаю,{Line} где искать сестру».{End}",
+        "Target": "{X160Y12}{Char Squall}{Line}«Я не могу ничего поделать с этой как её{Line} там-Пандорой, и этой волшебницей Адель.{Next}Я даже не знаю,{Line} где искать сестру».{End}",
         "Source Text SHA256": "6492A6F17333655E4C5844988E969A034BFAFFE421169E1E2F706F3E7251D853",
         "sourceContext": {
           "Source MSD SHA256": "52C017F96C6344FBFBCB4B31D1D518CBD91792E52BDA34ED50F2D1323F918349",

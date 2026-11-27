@@ -10,7 +10,7 @@
         }
       },
       "$en_bghall_3_0001": {
-        "Target": "{X134Y8}{Char Seifer}{Line}«{Char Squall}!!»{End}",
+        "Target": "{X134Y8}{Char Seifer}{Line}«{Char Squall}!»{End}",
         "Source Text SHA256": "71A3D319978CBD8117E8C728DCB05D631F02DAE451FEF259390D5AAFDD9C6262",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bghall_3_0002": {
-        "Target": "{X70Y8}{Char Seifer}{Line}«Ты слышал про{Line} Башню связи в Доллете?»{End}",
+        "Target": "{X70Y8}{Char Seifer}{Line}«Слышал о башне в Доллете?»{End}",
         "Source Text SHA256": "1C6F20A1878568293D5F3D0BF35C46AC7F73042BEFF7BDE993E0D0A9DEB5F725",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bghall_3_0003": {
-        "Target": "{X72Y8}{Char Seifer}{Line}«Если бы{Line} не приказ отступать,{Line} мы были бы героями».{End}",
+        "Target": "{X72Y8}{Char Seifer}{Line}«Если бы не приказ об отступлении, мы бы{Line}стали героями!»{End}",
         "Source Text SHA256": "B522CEDBEC88946D59C6B3BBBA2F7FE09E2A284136F73C34145968DC13E81057",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bghall_3_0004": {
-        "Target": "{X0Y15}{Char Quistis}{Line}«Да ты просто искал повода{Line} для сражения».{End}",
+        "Target": "{X0Y15}{Char Quistis}{Line}«Ты просто искал с кем бы подраться...»{End}",
         "Source Text SHA256": "A142C98DB73E17300C15AA44A003BEEC0B9EDE3D495DA408E37602011C65ECA4",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bghall_3_0005": {
-        "Target": "{X84Y8}{Char Seifer}{Line}«Мой дорогой инструктор».{End}",
+        "Target": "{X84Y8}{Char Seifer}{Line}«Мой дорогой инструктор...»{End}",
         "Source Text SHA256": "9CC31B2D9431163ABE4EA3CC12224444F535939FDB8EE7705BA81952E7C76643",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bghall_3_0006": {
-        "Target": "{X35Y8}{Char Seifer}{Line}«Я задет. Какие{Line} жестокие слова для прилежного студента».{End}",
+        "Target": "{X35Y8}{Char Seifer}{Line}«Я задет. Такие жестокие слова в адрес{Line}прилежного студента...»{End}",
         "Source Text SHA256": "A5326F39BB87F7825991255D3001D0A3FE469BBDA5928F25D8473089A5683D80",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bghall_3_0007": {
-        "Target": "{X66Y8}{Char Seifer}{Line}«Посредственному инструктору вроде вас{Line} никогда этого не понять».{End}",
+        "Target": "{X66Y8}{Char Seifer}{Line}«Как жаль, что посредственные личности не{Line}способны понять...»{End}",
         "Source Text SHA256": "D5F328F0795B85E260584DE75E18F200E85B9D01D2EDB9D6FCF6209CB74FCC81",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bghall_3_0008": {
-        "Target": "{X46Y8}Сю{Line}«Сейфер, не{Line} задавайся. Ты возьмёшь{Next}на себя всю ответственность{Line} за уход с назначенной территории».{End}",
+        "Target": "{X46Y8}Сю{Line}«Сейфер! Не зарывайся!»{Next}«Ты нарушил приказ! Из-за тебя группа{Line}покинула свой район!»{End}",
         "Source Text SHA256": "8403DE35E42061F4300EBE52716B8E9D6F9BD063929EAEBBD5C0CAD40F45809D",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bghall_3_0009": {
-        "Target": "{X52Y8}{Char Seifer}{Line}«Разве обязанностью капитана не{Line} является принятие наилучшего варианта действий?»{End}",
+        "Target": "{X52Y8}{Char Seifer}{Line}«Я выполнял обязанности капитана и принял{Line}наилучшее решение для достижения{Line}поставленной цели».{End}",
         "Source Text SHA256": "FA130F6620A113732FD0F0F4DB911D8079488460BDC839967349A604AB7AD29A",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bghall_3_0010": {
-        "Target": "{X35Y8}Сю{Line}“Целью было испытание новичков{Line} в боевых условиях, а не самоубийственная{Line} и никому ненужная разведка боем!”{Next}“Ты поставил под угрозу свою жизнь{Line} и жизнь подчиненных. Ты ослушался{Line} приказа. Ты никогда не станешь сидом!”",
+        "Target": "{X35Y8}Сю{Line}“Целью было испытание новичков{Line} в боевых условиях, а не самоубийственная{Line} и никому ненужная разведка боем!{Line}Ты поставил под угрозу свою жизнь{Line} и жизнь подчиненных. Ты ослушался{Line} приказа. Ты никогда не станешь сидом!”",
         "Source Text SHA256": "B807E4DE5030F6FAABAA4E329FE9E7D0725758F7D2E10E501BE5BEFFDF774379",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bghall_3_0015": {
-        "Target": "{X55Y8}Директор Сид{Line}“Я хочу, чтобы вы проявляли{Line} инициативу, мыслили, принимали{Line} решения в нужный момент. Хочу...”",
+        "Target": "{X55Y8}Директор Сид{Line}“Я хочу, чтобы вы проявляли{Line} инициативу, мыслили, принимали{Line} решения в нужный момент.{Next}Хочу...”",
         "Source Text SHA256": "124D13FC02B511CC491B28EA001774C54941966C0692DB97045CFF4582916412",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bghall_3_0018": {
-        "Target": "{X33Y8}Преподаватель{Line}“Мы не благотворительная{Line} организация.”{Next}“Мы наемники, которые за{Line} деньги помогают другим{Line} решать их проблемы.”{Next}“И действовать вы должны в{Line} рамках контракта. Длеать то,{Line} за что заплатил заказчик!”",
+        "Target": "{X33Y8}Преподаватель{Line}“Мы не благотворительная{Line} организация.”{Next}“Мы наемники, которые за{Line} деньги помогают другим{Line} решать их проблемы.”{Next}“И действовать вы должны в{Line} рамках контракта.{Next}Длеать то,{Line} за что заплатил заказчик!”",
         "Source Text SHA256": "D28E15242EF8FFA39E2C42C0D1F7F809E64FF31C08A868B0B0523F437CE9440C",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bghall_3_0019": {
-        "Target": "{X133Y8}{Char Seifer}{Line}«…»{End}",
+        "Target": "{X133Y8}{Char Seifer}{Line}«......»{End}",
         "Source Text SHA256": "4C54438DCA937F32046D2BD63D23ECE69523759E029D75D8A3C9266DBA6B7A22",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bghall_3_0020": {
-        "Target": "{X51Y8}«Все студенты, сдававшие{Line} полевой экзамен, проследуйте{Line} на {Color Blue}〖второй этаж〗{Color White}».{Next}{Line}   «Повторяю”{Line}{Next}“Все студенты, сдававшие{Line} полевой экзамен, проследуйте{Line} на {Color Blue}〖второй этаж〗{Color White}».",
+        "Target": "{X51Y8}«Все студенты, сдававшие{Line} полевой экзамен, проследуйте{Line} на {Color Blue}〖второй этаж〗{Color White}».{Next}{Line}   «Повторяю».{Line}{Next}«Все студенты, сдававшие{Line} полевой экзамен, проследуйте{Line} на {Color Blue}〖второй этаж〗{Color White}».",
         "Source Text SHA256": "C5086A70F90117B346A88A2D796A0FB057B7788E2D9D0DD8D9E8D2FC9E342196",
         "sourceContext": {
           "Source MSD SHA256": "18A8E1D66C0235D35EA1048372B51826DE9E1993F71EC1AF50B599A87A3C871C",

@@ -18,7 +18,7 @@
         }
       },
       "$en_gmhouse1_0002": {
-        "Target": "{X16Y16}Солдат ремонтной службы{Line}«О,{Next}уже{Line} пора?»{End}",
+        "Target": "{X16Y16}Солдат ремонтной службы{Line}«О, уже{Line} пора?»{End}",
         "Source Text SHA256": "82FF722AB9A5C8E1DAF5E742FA4DA66D510CC62D4176F728B6F065390DAEA1D2",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gmhouse1_0003": {
-        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Извините, парни,{Line} вы сообщение не передадите? Скажите{Next}парням на {Color Blue}[ракетной установке]{Color White}{Line} начинать без нас.{Line} Мы подойдём позже».{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Извините, парни,{Line} вы сообщение не передадите?{Next}Скажите парням на {Color Blue}[ракетной установке]{Color White}{Line} начинать без нас.{Line} Мы подойдём позже».{End}",
         "Source Text SHA256": "BE089356CD1FCCE6B89FCA7AC66D172C7DBCA099D1AAA58CF0FEDA544034F8E9",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gmhouse1_0012": {
-        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Забей,{Next}всё будет нормально.{Line} В любом случае, мы всего лишь ходим и проверяем всё ли на месте и работает ли оно».{End}",
+        "Target": "{X16Y140}Солдат ремонтной службы{Line}«Забей, всё будет нормально.{Next}В любом случае, мы всего лишь ходим и проверяем всё ли на месте и работает ли оно».{End}",
         "Source Text SHA256": "B78F7EA52495C8C702AF2B06715B0925D928DD3BF64032AB4609D0D6A6A2E7C4",
         "sourceContext": {
           "Source MSD SHA256": "B6FBB7E344DF78F7B77F060727B1363C2E173A6E5CE218416684C02308E37CF5",

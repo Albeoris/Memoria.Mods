@@ -34,7 +34,7 @@
         }
       },
       "$en_titown4_0004": {
-        "Target": "{X20Y20}«В ОТПУСКЕ?!{Line} Это нечестно!{Next}Мой Джорджи{Line} здесь. Я{Next}ненавижу этот{Line} зоомагазин!!!»{End}",
+        "Target": "{X20Y20}«В ОТПУСКЕ?!{Line} Это нечестно!{Next}Мой Джорджи{Line} здесь.{Next}Я ненавижу этот{Line} зоомагазин!!!»{End}",
         "Source Text SHA256": "9CA6FF80671370C2A3A375766944FA1A48843D5005D218D4B1C0462457E602C5",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -50,7 +50,7 @@
         }
       },
       "$en_titown4_0006": {
-        "Target": "{X20Y20}«Джорджи... Джорджи!!!{Line} Ах...{Next}я{Pause 96}{Line} так рад, что ты вернулся!»{End}",
+        "Target": "{X20Y20}«Джорджи... Джорджи!!!{Next}Ах... я{Pause 96}{Line} так рад, что ты вернулся!»{End}",
         "Source Text SHA256": "827051DC36BEA5BFB546FAF21ECF3F8FAFB3C3AB7C48B0C1CA34214D8AB0D750",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",

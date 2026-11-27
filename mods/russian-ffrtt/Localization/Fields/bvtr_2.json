@@ -18,60 +18,81 @@
         }
       },
       "$en_bvtr_2_0002": {
-        "Target": "{X150Y20}{Char Selphie}{Line}«Что-то я себя... не очень хорошо чувствую...»{End}",
+        "Target": "{X150Y20}{Char Selphie}{Line}«Что-то я себя... не очень хорошо{Line}чувствую...»{End}{End}",
         "Source Text SHA256": "BF4F7A1AB250B08F04C79A986A0B62E49BAACE6870BF2D70AB8982C04E5EFB4B",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X150Y20}{Char Selphie}{Line}«Что-то я себя... не очень хорошо{Line}чувствую...»{End}"
         }
       },
       "$en_bvtr_2_0003": {
-        "Target": "{X250Y20}{Char Selphie}{Line}«Так спать хочется...»{End}",
+        "Target": "{X250Y20}{Char Selphie}{Line}«Так спать хочется...»{End}{End}",
         "Source Text SHA256": "C164BA2640FBBE13594C40A23713B84D23E5BB29C49608A146A99779FE856803",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X250Y20}{Char Selphie}{Line}«Так спать хочется...»{End}"
         }
       },
       "$en_bvtr_2_0004": {
-        "Target": "{X10Y20}{Char Zell}{Line}«Хе-хе. Это тааак класно!»{End}",
+        "Target": "{X10Y20}{Char Zell}{Line}«Хе-хе. Супер!»{End}{End}",
         "Source Text SHA256": "DF8CB978D74917A20BE514B3071B4C749695BA1EEB18F1903B768B3DCC6698DA",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X10Y20}{Char Zell}{Line}«Хе-хе. Супер!»{End}"
         }
       },
       "$en_bvtr_2_0005": {
-        "Target": "{Char Zell}{Line}”{Char Squall}, ты что-нибудь знаешь о Тимбере? Мне плевать{Line}Не слишком много{Line}Да плевать мне{End}",
+        "Target": "{Char Zell}{Line}«{Char Squall}, ты что-нибудь знаешь о Тимбере?»{Line}Нет, и не хочу{Line}Не слишком много{End}{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "473217BBCB38DAAEB83C426483A483876DE81AA9B7B74A0058CD479EFBC368D4",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{Char Zell}{Line}«{Char Squall}, ты что-нибудь знаешь о Тимбере?»{Line}Нет, и не хочу{Line}Не слишком много{End}"
         }
       },
       "$en_bvtr_2_0006": {
-        "Target": "{X170Y40}{Char Zell}{Line}«Ну же, {Char Squall}».{End}",
+        "Target": "{X170Y40}{Char Zell}{Line}«Ну же, {Char Squall}!»{End}{End}",
         "Source Text SHA256": "13D67DA557B42BA80DE2A7DD77F98BABE0532D2795F647A13EA204D88F5D5C46",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X170Y40}{Char Zell}{Line}«Ну же, {Char Squall}!»{End}"
         }
       },
       "$en_bvtr_2_0007": {
-        "Target": "{X100Y30}{Char Zell}{Line}«Так и думал. Что ж, позволь мне тебя просветить».{End}",
+        "Target": "{X100Y30}{Char Zell}{Line}«Во! Что ж, позволь мне тебя просветить».{End}{End}",
         "Source Text SHA256": "0C28EA8096D70C6FA5461DD24F60362F0B91FE0DC09C18020C99BE5CE6E50082",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X100Y30}{Char Zell}{Line}«Во! Что ж, позволь мне тебя просветить».{End}"
         }
       },
       "$en_bvtr_2_0008": {
-        "Target": "{X75Y50}{Char Zell}{Line}«У них тут даже журналы есть».{End}",
+        "Target": "{X75Y50}{Char Zell}{Line}«У них тут даже журналы есть!»{End}{End}",
         "Source Text SHA256": "5B9BAAF24393C256C1E25AB4492A6FFD99FA78269DD75AD587CCFE58FE564C3A",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X75Y50}{Char Zell}{Line}«У них тут даже журналы есть!»{End}"
         }
       },
       "$en_bvtr_2_0009": {
@@ -91,11 +112,14 @@
         }
       },
       "$en_bvtr_2_0011": {
-        "Target": "{X150Y20}{Char Zell}{Line}«Это чертовски забавно. Это{Line} стоит того, чтобы быть Сидом!»{End}",
+        "Target": "{X150Y20}{Char Zell}{Line}«Отпад! Только ради этого стоило стать{Line}сидом!»{End}{End}",
         "Source Text SHA256": "470A53A59D5ED764DC17864DAE57F23782C181BDB8D843A52C0E2D41BFE33EF6",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X150Y20}{Char Zell}{Line}«Отпад! Только ради этого стоило стать{Line}сидом!»{End}"
         }
       },
       "$en_bvtr_2_0012": {
@@ -107,21 +131,27 @@
         }
       },
       "$en_bvtr_2_0013": {
-        "Target": "{Char Zell}{Line}Вот только не надо так... я ведь рассказать хочу! Мне и без{Line}этого хорошо Валяй...{Line}А, всё нормально Ладно...{End}",
+        "Target": "{Char Zell}{Line}«Вот не надо так... я ведь рассказать хочу!»{Line}Мне и без этого хорошо{Line}Валяй...{End}{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "DE2272B2375C49F75A98F0732AC3E13161C364C79536CA18B480ACC0C153FB06",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{Char Zell}{Line}«Вот не надо так... я ведь рассказать хочу!»{Line}Мне и без этого хорошо{Line}Валяй...{End}"
         }
       },
       "$en_bvtr_2_0014": {
-        "Target": "{Char Zell}{Line}НУ, ПЕРЕСТАНЬ! Я хочу рассказать тебе, что знаю! Только{Line}покороче... Просто помолчи Ладно...{Line}рассказывай Хорошо... рассказывай{End}",
+        "Target": "{Char Zell}{Line}«ДА БЛИН! Ну, дай расскажу!»{Line}Просто помолчи{Line}Ладно... рассказывай{End}{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "7567E28943C92C9A55192D4297F37BF28098885D09C86DB169F44F0659B80069",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{Char Zell}{Line}«ДА БЛИН! Ну, дай расскажу!»{Line}Просто помолчи{Line}Ладно... рассказывай{End}"
         }
       },
       "$en_bvtr_2_0015": {
@@ -133,51 +163,69 @@
         }
       },
       "$en_bvtr_2_0016": {
-        "Target": "{X150Y40}{Char Zell}{Line}«Вот! Сразу бы так!»{End}",
+        "Target": "{X150Y40}{Char Zell}{Line}«Вот! Сразу бы так».{End}{End}",
         "Source Text SHA256": "1FAEDBE07A7EAF2CCDB53C91D5E916B8FB9E1C7233544550317CF33DAE4F1D42",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X150Y40}{Char Zell}{Line}«Вот! Сразу бы так».{End}"
         }
       },
       "$en_bvtr_2_0017": {
-        "Target": "{X150Y30}{Char Zell}{Line}«Позволь, я объясню вкратце. Позволь я вкратце объясню».{End}",
+        "Target": "{X150Y30}{Char Zell}{Line}«Ща я объясню вкратце».{End}{End}",
         "Source Text SHA256": "A5EC67A9C3EA1495581028F9CE2E9C54AD2D2F7E1903F23F7F6046E7D2CFA924",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X150Y30}{Char Zell}{Line}«Ща я объясню вкратце».{End}"
         }
       },
       "$en_bvtr_2_0018": {
-        "Target": "{X150Y30}{Char Zell}{Line}«Когда-то Тимбер был обычной{Line} страной, окружённой густыми лесами».{End}",
+        "Target": "{X150Y30}{Char Zell}{Line}«Когда-то Тимбер был обычной страной,{Line}окружённой густыми лесами».{End}{End}",
         "Source Text SHA256": "4853B2277182DA1F2DFA73B926055F9172CCBC9B225550FA9A4E4F1CF355D916",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X150Y30}{Char Zell}{Line}«Когда-то Тимбер был обычной страной,{Line}окружённой густыми лесами».{End}"
         }
       },
       "$en_bvtr_2_0019": {
-        "Target": "{X150Y30}{Char Zell}{Line}«Но 18 лет тому{Line} назад, его захватила Гальбадия».{End}",
+        "Target": "{X150Y30}{Char Zell}{Line}«Но 18 лет тому назад, её захватила{Line}Гальбадия».{End}{End}",
         "Source Text SHA256": "AE366D6AE00D40F930EFCF46B14FD72AAECD52134FC7BE589B511F47A3C0F582",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X150Y30}{Char Zell}{Line}«Но 18 лет тому назад, её захватила{Line}Гальбадия».{End}"
         }
       },
       "$en_bvtr_2_0020": {
-        "Target": "{X150Y30}{Char Zell}{Line}«Тимбер сдался Гальбадии довольно{Line} таки легко. Так что{Line} теперь Тимбер оккупирован Гальбадией».{End}",
+        "Target": "{X150Y30}{Char Zell}{Line}«Тимбер сдался почти без боя. И теперь{Line}страна оккупирована Гальбадией».{End}{End}",
         "Source Text SHA256": "18C10C0364417BFE6D0600D57B45A35B990358F7BDF759869C3C71519A62A906",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X150Y30}{Char Zell}{Line}«Тимбер сдался почти без боя. И теперь{Line}страна оккупирована Гальбадией».{End}"
         }
       },
       "$en_bvtr_2_0021": {
-        "Target": "{X150Y30}{Char Zell}{Line}«Говорят, что сейчас{Line} там полно различных{Line} отрядов сопротивления».{End}",
+        "Target": "{X150Y30}{Char Zell}{Line}«Говорят, что сейчас там полно отрядов{Line}сопротивления».{End}{End}",
         "Source Text SHA256": "E26AB6532433E4F34DBCEF495F0F67CD34EC644C583A3768724C7B3C69DBC7ED",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X150Y30}{Char Zell}{Line}«Говорят, что сейчас там полно отрядов{Line}сопротивления».{End}"
         }
       },
       "$en_bvtr_2_0022": {
@@ -189,11 +237,14 @@
         }
       },
       "$en_bvtr_2_0023": {
-        "Target": "{X250Y40}{Char Zell}{Line}«И... всё! Не, это всё».{End}",
+        "Target": "{X250Y40}{Char Zell}{Line}«И всё».{End}{End}",
         "Source Text SHA256": "475A26B1AE91851AA8F02F28FD71E3FDE57A4B2A0028D0D824E6B64F521ECE3F",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X250Y40}{Char Zell}{Line}«И всё».{End}"
         }
       },
       "$en_bvtr_2_0024": {
@@ -205,27 +256,36 @@
         }
       },
       "$en_bvtr_2_0025": {
-        "Target": "{X100Y10}{Char Zell}{Line}«Вот! Сразу бы так!»{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}«Эй!.. Арр...»{End}{End}",
         "Source Text SHA256": "7CD986F6C280AF9E8410754B020877950F80A79BE06B7AB7EC5E85BA4BDDC4E2",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X100Y10}{Char Zell}{Line}«Эй!.. Арр...»{End}"
         }
       },
       "$en_bvtr_2_0026": {
-        "Target": "{X100Y20}{Char Zell}{Line}«Что за?!»{End}",
+        "Target": "{X100Y20}{Char Zell}{Line}«Что за?!»{End}{End}",
         "Source Text SHA256": "A998C6316DB38EA02693E4C3DE62ED0201A9B65A66040D98A813F59D028259E6",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X100Y20}{Char Zell}{Line}«Что за?!»{End}"
         }
       },
       "$en_bvtr_2_0027": {
-        "Target": "{X100Y10}{Char Zell}{Line}«Со мной тоже что-то не так...{Line} я... хочу... спать...»{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}«Что-то... не так... я... засыпаю...»{End}{End}",
         "Source Text SHA256": "E18147619C890598CBCDC65D741E8913D83CCF908CD9197CD18B205FFA3E803D",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X100Y10}{Char Zell}{Line}«Что-то... не так... я... засыпаю...»{End}"
         }
       },
       "$en_bvtr_2_0028": {
@@ -261,11 +321,14 @@
         }
       },
       "$en_bvtr_2_0032": {
-        "Target": "{X250Y30}{Char Zell}{Line}«Да не вопрос!»{End}",
+        "Target": "{X250Y30}{Char Zell}{Line}«Да не вопрос!»{End}{End}",
         "Source Text SHA256": "AFA15F65C3F9E0E3B6AF034B543C5387B4ECBABB03DEEA4D05FF483A6C951AAE",
         "sourceContext": {
           "Source MSD SHA256": "50194C486D4602084C0D4F59B808F3B7190385D3F999CC8BDCB333DD1EC1D894",
           "JSM SHA256": "78F7F2D301E696C0718C55BB6CAC5B236C72CC63DA9CADAE32831574D116507F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X250Y30}{Char Zell}{Line}«Да не вопрос!»{End}"
         }
       },
       "$en_bvtr_2_0033": {

@@ -34,11 +34,14 @@
         }
       },
       "$en_domt2_1_0004": {
-        "Target": "{X120Y10}{Char Seifer}{Line}«Так что же творится там наверху?»{End}",
+        "Target": "{X120Y10}{Char Seifer}{Line}«Что творится там, наверху?»{End}{End}",
         "Source Text SHA256": "A48EEBF729EAD04E368C165ECE376A3FCD9DD347190F5A12CBB28E2568EF15B8",
         "sourceContext": {
           "Source MSD SHA256": "36E9DB019860460D43FEBB6A3E820880D458088446F00545B29D338B10B95153",
           "JSM SHA256": "C2AD5530E59B293EA15B65C32A42DA7F35B30E8A90B279344F2AFC76E59F6D5F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y10}{Char Seifer}{Line}«Что творится там, наверху?»{End}"
         }
       },
       "$en_domt2_1_0005": {
@@ -74,35 +77,47 @@
         }
       },
       "$en_domt2_1_0009": {
-        "Target": "{X120Y10}{Char Zell}{Line}«Это хреново».{End}",
+        "Target": "{X120Y10}{Char Zell}{Line}«Это хреново».{End}{End}",
         "Source Text SHA256": "C13D6A2D682052C96949F97A7E86B36286BD14CDC166CB01B18873A310688455",
         "sourceContext": {
           "Source MSD SHA256": "36E9DB019860460D43FEBB6A3E820880D458088446F00545B29D338B10B95153",
           "JSM SHA256": "C2AD5530E59B293EA15B65C32A42DA7F35B30E8A90B279344F2AFC76E59F6D5F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y10}{Char Zell}{Line}«Это хреново».{End}"
         }
       },
       "$en_domt2_1_0010": {
-        "Target": "{X120Y10}{Char Seifer}{Line}«Нам же веселее.{Line} Пошли...»{End}",
+        "Target": "{X120Y10}{Char Seifer}{Line}«Нам же веселее. Пошли...»{End}{End}",
         "Source Text SHA256": "5A863871E8D6A5074456E05AE34FE9188002960A0387AAC1F8F29DF487A77188",
         "sourceContext": {
           "Source MSD SHA256": "36E9DB019860460D43FEBB6A3E820880D458088446F00545B29D338B10B95153",
           "JSM SHA256": "C2AD5530E59B293EA15B65C32A42DA7F35B30E8A90B279344F2AFC76E59F6D5F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y10}{Char Seifer}{Line}«Нам же веселее. Пошли...»{End}"
         }
       },
       "$en_domt2_1_0011": {
-        "Target": "{X120Y10}{Char Zell}{Line}«...Веселее? Чтоб его...»{End}",
+        "Target": "{X120Y10}{Char Zell}{Line}«Веселее?.. Чтоб его!..»{End}{End}",
         "Source Text SHA256": "CE484DFF61A3BE98E33B7F39B5CA50B6B6B047FDCE0343C7778731582D3A0CBF",
         "sourceContext": {
           "Source MSD SHA256": "36E9DB019860460D43FEBB6A3E820880D458088446F00545B29D338B10B95153",
           "JSM SHA256": "C2AD5530E59B293EA15B65C32A42DA7F35B30E8A90B279344F2AFC76E59F6D5F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X120Y10}{Char Zell}{Line}«Веселее?.. Чтоб его!..»{End}"
         }
       },
       "$en_domt2_1_0012": {
-        "Target": "{X10Y10}Солдат {TermEN Dollet}а{Line}«...Ааай»{End}",
+        "Target": "{X10Y10}Солдат {TermEN Dollet}а{Line}«Аааай!..»{End}",
         "Source Text SHA256": "27FBBE3E7F30EE1FA1ADA976F3C43E568C7906510CA40DFD094931A022C7C952",
         "sourceContext": {
           "Source MSD SHA256": "36E9DB019860460D43FEBB6A3E820880D458088446F00545B29D338B10B95153",
           "JSM SHA256": "C2AD5530E59B293EA15B65C32A42DA7F35B30E8A90B279344F2AFC76E59F6D5F"
+        },
+        "Edition Targets": {
+          "Classic:en": "{X10Y10}Солдат {TermEN Dollet}а{Line}«Аааай!..»{End}"
         }
       }
     }
