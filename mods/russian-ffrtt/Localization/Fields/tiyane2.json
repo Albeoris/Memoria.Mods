@@ -2,7 +2,7 @@
   "Fields": {
     "tiyane2": {
       "$en_tiyane2_0000": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}«Сюда, {Char Squall}!»{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}Сюда, {Char Squall}!{End}",
         "Source Text SHA256": "4295F344484FAEC6F732E320F1C0E21E1735852852EF12144AF95A344A2D698E",
         "sourceContext": {
           "Source MSD SHA256": "2AEBA495B9E9A47FF2E21FA7E6834391188D446553DD011BB3AC8B2FCCD0E2A9",
@@ -10,7 +10,7 @@
         }
       },
       "$en_tiyane2_0001": {
-        "Target": "{X170Y170}Солдат Гальбадии{Line}«Активирую {Color Blue}звуковой{Line} датчик.{Color White}.»{End}",
+        "Target": "{X170Y170}Солдат Гальбадии{Line}Активирую {Color Blue}звуковой{Line} датчик.{Color White}.{End}",
         "Source Text SHA256": "9C5A94E8A9EEF83CF7C9DA77986BA3F1A729C4ACF7C4898687F9D3F594B353B8",
         "sourceContext": {
           "Source MSD SHA256": "2AEBA495B9E9A47FF2E21FA7E6834391188D446553DD011BB3AC8B2FCCD0E2A9",
@@ -74,7 +74,7 @@
         }
       },
       "$en_tiyane2_0009": {
-        "Target": "{X170Y170}Гальбадианский солдат{Line}«Активация {Pause 80}подтверждена!»{End}",
+        "Target": "{X170Y170}Гальбадианский солдат{Line}Активация {Pause 80}подтверждена!{End}",
         "Source Text SHA256": "2FFD11C6CADD7B3187AA47AE20DA8C59909C5025FC2B6208FAC542A2B494E788",
         "sourceContext": {
           "Source MSD SHA256": "2AEBA495B9E9A47FF2E21FA7E6834391188D446553DD011BB3AC8B2FCCD0E2A9",
@@ -82,7 +82,7 @@
         }
       },
       "$en_tiyane2_0010": {
-        "Target": "{X8Y170}Офицер Гальбадии{Line}«Активирую{Line}{Color Red}температурный датчик.{Color White}.»{End}",
+        "Target": "{X8Y170}Офицер Гальбадии{Line}Активирую{Line}{Color Red}температурный датчик.{Color White}.{End}",
         "Source Text SHA256": "461E7A8F53BEC1791736B2F2F5D6BF16A539D8C2F7E2A0F32A5E0F8337565042",
         "sourceContext": {
           "Source MSD SHA256": "2AEBA495B9E9A47FF2E21FA7E6834391188D446553DD011BB3AC8B2FCCD0E2A9",
@@ -138,7 +138,7 @@
         }
       },
       "$en_tiyane2_0017": {
-        "Target": "{X8Y170}Гальбадианский офицер{Line}«Активация{Line} подтверждена!»{End}",
+        "Target": "{X8Y170}Гальбадианский офицер{Line}Активация{Line} подтверждена!{End}",
         "Source Text SHA256": "8631B1A9583A6EE9C6C175BF20B3F0AB11FCF8E713F6BEB9B5EF44AE65F650CD",
         "sourceContext": {
           "Source MSD SHA256": "2AEBA495B9E9A47FF2E21FA7E6834391188D446553DD011BB3AC8B2FCCD0E2A9",

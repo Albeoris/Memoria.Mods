@@ -2,7 +2,7 @@
   "Fields": {
     "eciway12": {
       "$en_eciway12_0000": {
-        "Target": "«Заглушка».{End}",
+        "Target": "Заглушка.{End}",
         "Source Text SHA256": "7E4B89A1BAAADD8BD2F1164A357AB21608E410BDC661151FAF846611952E48FF",
         "sourceContext": {
           "Source MSD SHA256": "6A21C8CB8E4B7B88019FDEB28DDCDB049940DDC6D4B6D6B2B3AC78D6CAFE2CA6",
@@ -10,7 +10,7 @@
         }
       },
       "$en_eciway12_0001": {
-        "Target": "{X100Y10}{Char Zell}{Line}«ЧЁРТ! Не успеем!»{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}ЧЁРТ! Не успеем!{End}",
         "Source Text SHA256": "84ED47C1DC25A2C9BB6575F54857CFFD36951E144E12F4E12719DDF2F095F07C",
         "sourceContext": {
           "Source MSD SHA256": "6A21C8CB8E4B7B88019FDEB28DDCDB049940DDC6D4B6D6B2B3AC78D6CAFE2CA6",
@@ -18,7 +18,7 @@
         }
       },
       "$en_eciway12_0002": {
-        "Target": "{X100Y50}«В Эстаре мы все так одеваемся.{Line} Изящно, правда?»{Next}«Подол у нас не пачкается,{Line} ведь город содержат в чистоте».{End}",
+        "Target": "{X100Y50}В Эстаре мы все так одеваемся.{Line} Изящно, правда?{Next}Подол у нас не пачкается,{Line} ведь город содержат в чистоте.{End}",
         "Source Text SHA256": "1D7EDE1A962DC1251C4AEECAA8F9A95877BFBCF5E11951611ADB7DFFE6BB6CC4",
         "sourceContext": {
           "Source MSD SHA256": "6A21C8CB8E4B7B88019FDEB28DDCDB049940DDC6D4B6D6B2B3AC78D6CAFE2CA6",
@@ -26,7 +26,7 @@
         }
       },
       "$en_eciway12_0003": {
-        "Target": "{X100Y50}«Что произошло?{Line} Оно больше не движется».{End}",
+        "Target": "{X100Y50}Что произошло?{Line} Оно больше не движется.{End}",
         "Source Text SHA256": "BAB2D910B8399828F65BD77DE1120EF512C018B810833DC7F5334C7CE4785053",
         "sourceContext": {
           "Source MSD SHA256": "6A21C8CB8E4B7B88019FDEB28DDCDB049940DDC6D4B6D6B2B3AC78D6CAFE2CA6",

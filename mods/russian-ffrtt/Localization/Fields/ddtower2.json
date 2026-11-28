@@ -2,7 +2,7 @@
   "Fields": {
     "ddtower2": {
       "$en_ddtower2_0000": {
-        "Target": "«Будет потрачено {Color Red}4{Color White} единицы давления пара{Line} на открытие двери на уровень 2».{End}",
+        "Target": "Будет потрачено {Color Red}4{Color White} единицы давления пара{Line} на открытие двери на уровень 2.{End}",
         "Source Text SHA256": "97A9222428F1A80D95F2D62E89912E17A09A0A78406B808B8AB541C0B70DC164",
         "sourceContext": {
           "Source MSD SHA256": "33233424A1DA3CBCC6AE6D8096A20B5BCBE6BF1F886AE1087D978CEC78E0DBDA",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ddtower2_0008": {
-        "Target": "{X50Y30}«Открывается дверь на 3-й уровень».{End}",
+        "Target": "{X50Y30}Открывается дверь на 3-й уровень.{End}",
         "Source Text SHA256": "90B6903049214E0A50BFC9ED113ADF1AB21C48DD0828C9F8747605CF9ACA378F",
         "sourceContext": {
           "Source MSD SHA256": "33233424A1DA3CBCC6AE6D8096A20B5BCBE6BF1F886AE1087D978CEC78E0DBDA",

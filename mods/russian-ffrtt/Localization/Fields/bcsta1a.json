@@ -2,7 +2,7 @@
   "Fields": {
     "bcsta1a": {
       "$en_bcsta1a_0000": {
-        "Target": "{X10Y10}Солдат Гальбадии{Line}«Чего вам?{Line}Вам здесь гулять не положено».{End}",
+        "Target": "{X10Y10}Солдат Гальбадии{Line}Чего вам?{Line}Вам здесь гулять не положено.{End}",
         "Source Text SHA256": "7D7BC51D21B13C4B1C99371DC65F298227A7D9DC1F0622BCC60F93CC1EAD5AC3",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -10,7 +10,7 @@
         }
       },
       "$en_bcsta1a_0001": {
-        "Target": "{X10Y10}«Если что знаете, идите в гостиницу{Line}и доложите {Color Red}командиру{Color White}.»{End}",
+        "Target": "{X10Y10}Если что знаете, идите в гостиницу{Line}и доложите {Color Red}командиру{Color White}.{End}",
         "Source Text SHA256": "715E8A706A9065AA0BE82EFE01E858E5BAFA06DDA486876D46FDD14744A5A087",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bcsta1a_0002": {
-        "Target": "{X10Y10}Солдат Гальбадии{Line}«Когда освободят город?{Line}Не задавайте глупых вопросов!»{End}",
+        "Target": "{X10Y10}Солдат Гальбадии{Line}Когда освободят город?{Line}Не задавайте глупых вопросов!{End}",
         "Source Text SHA256": "2FAE5517A526DB3EEDB622E353C707EBADD01BBAA44615C3275C303F0F3E142E",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bcsta1a_0003": {
-        "Target": "{X10Y10}«Знаю механика, которому сломали руку{Line}за такой же вопрос».{End}",
+        "Target": "{X10Y10}Знаю механика, которому сломали руку{Line}за такой же вопрос.{End}",
         "Source Text SHA256": "9BEBF30FFBA752C194172399F213B4A0045A0BD81ED94F531E1390C27F10E949",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bcsta1a_0004": {
-        "Target": "{X10Y10}Солдат Гальбадии{Line}«Уфф...{Line} Я ничего не ел со вчерашнего дня, у{Line} меня от этого расстройство желудка...{Next}Так есть хочется... Даже ходить прямо не{Line} могу... Ууух...»{End}",
+        "Target": "{X10Y10}Солдат Гальбадии{Line}Уфф...{Line} Я ничего не ел со вчерашнего дня, у{Line} меня от этого расстройство желудка...{Next}Так есть хочется... Даже ходить прямо не{Line} могу... Ууух...{End}",
         "Source Text SHA256": "483C3941E02A529EB7C436E8C5BEC27AFA6AD8161E687ECB5B4A03F954082AE8",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bcsta1a_0005": {
-        "Target": "{X10Y10}Продавец{Line}«Много не скупайте.{Line}Расходуйте с умом».{End}",
+        "Target": "{X10Y10}Продавец{Line}Много не скупайте.{Line}Расходуйте с умом.{End}",
         "Source Text SHA256": "C7B58BDE5B20A1B03853A24A5ECACF9ED0EF9945CE970E706DE0417E500CCED2",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bcsta1a_0006": {
-        "Target": "{X10Y10}«Много не скупайте.{Line}Расходуйте с у...{Pause 64}{Line}О, вы кого-то ищете?»{End}",
+        "Target": "{X10Y10}Много не скупайте.{Line}Расходуйте с у...{Pause 64}{Line}О, вы кого-то ищете?{End}",
         "Source Text SHA256": "5A1ED0D3F6CB64C088BBA381201C6E4EC98C943D04D3CB2E7BF2782B9CB4245B",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bcsta1a_0007": {
-        "Target": "{X10Y10}«Слышал, что кто-то спал{Line}за одной из армейских машин...{Line}Вы об этом?»{End}",
+        "Target": "{X10Y10}Слышал, что кто-то спал{Line}за одной из армейских машин...{Line}Вы об этом?{End}",
         "Source Text SHA256": "5065B0915BEBBC9BB79BC148334A48D7677E163899C1A0054C7C99089D9439B8",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bcsta1a_0008": {
-        "Target": "{X80Y10}Солдат Гальбадии{Line}«Давай, живее!{Line}На смену опоздаем!»{End}",
+        "Target": "{X80Y10}Солдат Гальбадии{Line}Давай, живее!{Line}На смену опоздаем!{End}",
         "Source Text SHA256": "D72825F0E39D83C912774B6BEDA48F35802923515D38910CBE9D360D16053492",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bcsta1a_0009": {
-        "Target": "{X80Y10}«Да пошли уже, дружище!{Line}Начальство нас убьёт!»{End}",
+        "Target": "{X80Y10}Да пошли уже, дружище!{Line}Начальство нас убьёт!{End}",
         "Source Text SHA256": "365C79A78C3C537C8DD3F75E901E4C0261D518DA73CB41B46944F7322024AE83",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bcsta1a_0010": {
-        "Target": "{X80Y10}Солдат Гальбадии{Line}«Ух, я совсем форму потерял.{Line}Хочется оторваться!»{End}",
+        "Target": "{X80Y10}Солдат Гальбадии{Line}Ух, я совсем форму потерял.{Line}Хочется оторваться!{End}",
         "Source Text SHA256": "2232767291B64277C70CF494AB4B1CC6594D7487FCBCEBA979BBF0DC1DCC1BD6",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bcsta1a_0011": {
-        "Target": "{X80Y10}«Хоть бы кто опять пришёл жаловаться.{Line}Я бы его сразу вырубил».{End}",
+        "Target": "{X80Y10}Хоть бы кто опять пришёл жаловаться.{Line}Я бы его сразу вырубил.{End}",
         "Source Text SHA256": "520590A3F9E3959FD88E1C80095FDDEDC626BAAD8BDE338B982D10B39D057700",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bcsta1a_0012": {
-        "Target": "{X80Y10}Солдат Гальбадии{Line}«Столько первоклассной подготовки,{Line}а мне даже разгуляться не дают{Line}в этом тихом городишке».{End}",
+        "Target": "{X80Y10}Солдат Гальбадии{Line}Столько первоклассной подготовки,{Line}а мне даже разгуляться не дают{Line}в этом тихом городишке.{End}",
         "Source Text SHA256": "2AE41378ACA50E1C65DE1E18F092233A470DA7978C568CC2487DAFFC0B14A1E0",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bcsta1a_0013": {
-        "Target": "{X80Y10}«Вот бы в большой город,{Line}вроде Тимбера, да оторваться там!»{End}",
+        "Target": "{X80Y10}Вот бы в большой город,{Line}вроде Тимбера, да оторваться там!{End}",
         "Source Text SHA256": "158956698C578077ACDE74351D840FE4B39616F10252EF3D9F8B5D95A423ED52",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bcsta1a_0014": {
-        "Target": "{X10Y10}Солдат Гальбадии{Line}{Color Yellow}«Капитан?{Color White}{Line} У {Color Yellow}капитана{Color White}тихий час!»{End}",
+        "Target": "{X10Y10}Солдат Гальбадии{Line}{Color Yellow}Капитан?{Color White}{Line} У {Color Yellow}капитана{Color White}тихий час!{End}",
         "Source Text SHA256": "AB4C4B57B2F398A1DB6C699EF929BAF2AF19CB776DF91DABD9598E8AB3CF00D7",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bcsta1a_0015": {
-        "Target": "{X10Y10}«...Ой, эээ... то есть...{Line} он сейчас на патрулировании!»{End}",
+        "Target": "{X10Y10}...Ой, эээ... то есть...{Line} он сейчас на патрулировании!{End}",
         "Source Text SHA256": "BD06FC0024C54ADEBAB027DA41A8E26DBE23E3B2ECFE190C815017000ACEE5A6",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bcsta1a_0016": {
-        "Target": "{X10Y10}«Он очень старателен, всегда{Line} на патрулировании! Так что{Line} не мешайте ему!»{End}",
+        "Target": "{X10Y10}Он очень старателен, всегда{Line} на патрулировании! Так что{Line} не мешайте ему!{End}",
         "Source Text SHA256": "2BCB3687107403AB092396D78752B344EDD0ABBDFE4774D7139A1F5EA594B47D",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bcsta1a_0017": {
-        "Target": "{X10Y10}Солдат Гальбадии{Line}«...Ну...{Pause 64}Ах...{Pause 64} дело вот в чём...»{End}",
+        "Target": "{X10Y10}Солдат Гальбадии{Line}...Ну...{Pause 64}Ах...{Pause 64} дело вот в чём...{End}",
         "Source Text SHA256": "9FD0B542CF03694D2DE623539B66ABC0C067226FB2BF02F57740391FECBABA57",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bcsta1a_0018": {
-        "Target": "{X10Y10}«...Райдзин — правая рука Сейфера,{Line} того самого, который служит волшебнице рыцарем».{End}",
+        "Target": "{X10Y10}...Райдзин — правая рука Сейфера,{Line} того самого, который служит волшебнице рыцарем.{End}",
         "Source Text SHA256": "50F54630AB26F4490018DCBE2F7F53310D46395AB32CE6199C2D29813194F642",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bcsta1a_0019": {
-        "Target": "{X10Y10}«Так что по{Line} сути... мы ничто, по сравнению с ним!»{End}",
+        "Target": "{X10Y10}Так что по{Line} сути... мы ничто, по сравнению с ним!{End}",
         "Source Text SHA256": "D87AFD3ECC20F5F34165CEE46E0B6C72C5C03B7BF20D2A3D3728F9B63F6BD970",
         "sourceContext": {
           "Source MSD SHA256": "3BE0292FE5152792D64EED2844CB0D5A05C381F7A62DDCF3D74F7174E8E1B8C7",

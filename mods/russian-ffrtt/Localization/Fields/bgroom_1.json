@@ -2,7 +2,7 @@
   "Fields": {
     "bgroom_1": {
       "$en_bgroom_1_0000": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Доброе утро, класс».{End}{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Доброе утро, класс.{End}{End}",
         "Source Text SHA256": "D172AACAE459AADE348ECBBB63D587939EA9D486355A647E86AD0E6A2C3F4925",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -13,7 +13,7 @@
         }
       },
       "$en_bgroom_1_0001": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Вначале небольшое объявление».{End}{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Вначале небольшое объявление.{End}{End}",
         "Source Text SHA256": "DF5F763D22E9A1780F29DDDF1263A3120CA5B4F06967A421BC5921BC9651AEAF",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -24,7 +24,7 @@
         }
       },
       "$en_bgroom_1_0002": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Многие уже слышали об экзамене».{Next}«Сегодня вечером кандидаты в сиды сдают{Line}полевой экзамен».{End}{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Многие уже слышали об экзамене.{Next}Сегодня вечером кандидаты в сиды сдают{Line}полевой экзамен.{End}{End}",
         "Source Text SHA256": "369177C77757B1502C224A877D5C088180514DFD92AFA3C0734206EC08565187",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -35,7 +35,7 @@
         }
       },
       "$en_bgroom_1_0003": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Остальные, в том числе засыпавшиеся на{Line}контрольной, продолжают занятия, согласно{Line}расписанию».{End}{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Остальные, в том числе засыпавшиеся на{Line}контрольной, продолжают занятия, согласно{Line}расписанию.{End}{End}",
         "Source Text SHA256": "A6591594BBEEBE048D7046B2A3E1146BAB6F2E3CFF7393222135FD741D32ECF8",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -46,7 +46,7 @@
         }
       },
       "$en_bgroom_1_0004": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Экзаминуемые свободны».{Next}«Рекомендую с пользой потратить оставшееся{Line}время».{End}{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Экзаминуемые свободны.{Next}Рекомендую с пользой потратить оставшееся{Line}время.{End}{End}",
         "Source Text SHA256": "863FAEA61BAC98BBB5DC48B10766B7B35A6ADF7B8951513F77BE3B90A5EB4F4F",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -57,7 +57,7 @@
         }
       },
       "$en_bgroom_1_0005": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Встречаемся в 16:00 в холле первого{Line}этажа. Там же вас распределят по{Line}командам».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Встречаемся в 16:00 в холле первого{Line}этажа. Там же вас распределят по{Line}командам.{End}",
         "Source Text SHA256": "A190A2CEAD0EADF24976BBEA15D9A9DC49515D746DEE4DC96C7C65034BDFB8C1",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -68,7 +68,7 @@
         }
       },
       "$en_bgroom_1_0006": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Вопросы есть?»{End}{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Вопросы есть?{End}{End}",
         "Source Text SHA256": "8E51D297C6401A5212B0BAB3904C386E04970169041931A3178D3A2EF8840460",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -79,7 +79,7 @@
         }
       },
       "$en_bgroom_1_0007": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Да... Сейфер!..»{End}{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Да... Сейфер!..{End}{End}",
         "Source Text SHA256": "74F193748B059694E084DE89B76514A8A66502B66BD9327F4DC76923159D9674",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgroom_1_0008": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Во время спарринга использовать магию и{Line}приёмы, ставящие под угрозу жизнь и{Line}здоровье студентов, строжайше запрещено!»{Next}«Тем более если твой партнёр не связан со{Line}стражем. Как представитель дисциплинарного{Line}комитета, ты должен соблюдать все правила{Line}академии! Будь осторожнее...»{End}{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Во время спарринга использовать магию и{Line}приёмы, ставящие под угрозу жизнь и{Line}здоровье студентов, строжайше запрещено!{Next}Тем более если твой партнёр не связан со{Line}стражем. Как представитель дисциплинарного{Line}комитета, ты должен соблюдать все правила{Line}академии! Будь осторожнее...{End}{End}",
         "Source Text SHA256": "80261F3C1C9592B9135427A827CBB001985B12B8BC5F8866F8215D0A3062C727",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -101,7 +101,7 @@
         }
       },
       "$en_bgroom_1_0009": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Все свободны».{End}{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Все свободны.{End}{End}",
         "Source Text SHA256": "FCB860DDD044EFADDB0DBC21DAD18B0CC6DD3CFF27B9816107FDAC2DA22F95DB",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -112,7 +112,7 @@
         }
       },
       "$en_bgroom_1_0010": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«{Char Squall}, подойди. Мне нужно с тобой{Line}поговорить».{End}{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}{Char Squall}, подойди. Мне нужно с тобой{Line}поговорить.{End}{End}",
         "Source Text SHA256": "ACF199A3A564A9B2C460C1BA351B5766F16032375AB859FDE6C793D64DF72BE7",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -123,7 +123,7 @@
         }
       },
       "$en_bgroom_1_0011": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Скволл, ты ведь ещё не был в {Color Blue}Огненной{Line}пещере{Color White}?»{End}{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}Скволл, ты ведь ещё не был в {Color Blue}Огненной{Line}пещере{Color White}?{End}{End}",
         "Source Text SHA256": "F100B64CD87142F729B3EA24524F0207FED0F2738B4E4C0FC1A2407DB7F7FFF7",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -134,7 +134,7 @@
         }
       },
       "$en_bgroom_1_0012": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Я не могу допустить тебя до экзамена».{End}{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}Я не могу допустить тебя до экзамена.{End}{End}",
         "Source Text SHA256": "443642330AD18E2FB0428A5FC02A771826C0816ACDE2316C85AB190BB7AAF03E",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -156,7 +156,7 @@
         }
       },
       "$en_bgroom_1_0014": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Есть уважительная причина?»{End}{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}Есть уважительная причина?{End}{End}",
         "Source Text SHA256": "52523C1F374585683855F27B70F6EF4D811BDF9CBC3EDD096779922CC01ABEF1",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -167,7 +167,7 @@
         }
       },
       "$en_bgroom_1_0015": {
-        "Target": "{X12Y12}{Char Squall}{Line}«Никак нет!»",
+        "Target": "{X12Y12}{Char Squall}{Line}Никак нет!",
         "Source Text SHA256": "2E02AEA7C01CF816AD9641171588CF4947C31899B245A33731D921EB4829135F",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -175,7 +175,7 @@
         }
       },
       "$en_bgroom_1_0016": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«В таком случае идём сейчас. Время до{Line}отбытия ещё есть».{End}{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}В таком случае идём сейчас. Время до{Line}отбытия ещё есть.{End}{End}",
         "Source Text SHA256": "BAF1CC58D3D4AAA108AF45A0275996396754A8C1BFD28F79F24144F939CCCD72",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -186,7 +186,7 @@
         }
       },
       "$en_bgroom_1_0017": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Если тебе нужно подготовиться,{Line}воспользуйся {Color Blue}〖учебной панелью〗{Color White}».{End}{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}Если тебе нужно подготовиться,{Line}воспользуйся {Color Blue}〖учебной панелью〗{Color White}.{End}{End}",
         "Source Text SHA256": "C6329E8A0E1F96CD3856C16036BA98D095863E99EB9A53346A38A12367CB7D9F",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -197,7 +197,7 @@
         }
       },
       "$en_bgroom_1_0018": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«Я буду ждать у {Color Blue}〖главных ворот〗{Color White}, не{Line}задерживайся».{End}{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}Я буду ждать у {Color Blue}〖главных ворот〗{Color White}, не{Line}задерживайся.{End}{End}",
         "Source Text SHA256": "468071E389B4D2F7BAED162649805EC43EE0F0E2BCE820315DB6218142B018B2",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -208,7 +208,7 @@
         }
       },
       "$en_bgroom_1_0019": {
-        "Target": "{X120Y140}{Color Yellow}{Char Quistis}{Color White}{Line}«{Color Blue}〖Учебная панель〗{Color White} находится{Line} на {Color Blue}〖твоей парте〗{Color White}.»",
+        "Target": "{X120Y140}{Color Yellow}{Char Quistis}{Color White}{Line}{Color Blue}〖Учебная панель〗{Color White} находится{Line} на {Color Blue}〖твоей парте〗{Color White}.",
         "Source Text SHA256": "B580337C359F6654FE62EFC2C70BA0807AC3DF1E1FDFCB5AD7B5D1426933562E",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -216,7 +216,7 @@
         }
       },
       "$en_bgroom_1_0020": {
-        "Target": "{X120Y140}{Char Quistis}{Line}«{Char Squall}, ты куда? Я же сказала, мне{Line}нужно с тобой поговорить».{End}{End}",
+        "Target": "{X120Y140}{Char Quistis}{Line}{Char Squall}, ты куда? Я же сказала, мне{Line}нужно с тобой поговорить.{End}{End}",
         "Source Text SHA256": "9086612C0194CDB8D3B701B20F16459F25165286FAF6FD7550260F4E88A2A27A",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -227,7 +227,7 @@
         }
       },
       "$en_bgroom_1_0021": {
-        "Target": "{X12Y140}«Сделай что-нибудь с этой{Line} кислой физиономией, когда{Line} рядом инструктор Трип!»",
+        "Target": "{X12Y140}Сделай что-нибудь с этой{Line} кислой физиономией, когда{Line} рядом инструктор Трип!",
         "Source Text SHA256": "D6BA460CA8D2C8EFEAF800093EE1037008F742721C7A911394AECDB62FC51E85",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -235,7 +235,7 @@
         }
       },
       "$en_bgroom_1_0022": {
-        "Target": "{X12Y140}«Улыбайся, когда разговариваешь{Line} с инструктором... Ну, хотя бы попробуй!»",
+        "Target": "{X12Y140}Улыбайся, когда разговариваешь{Line} с инструктором... Ну, хотя бы попробуй!",
         "Source Text SHA256": "F65A9ACB3373ACE0D5EE34B9FB136554C85EF07FFBC182DC82BCD3A511F0BD7D",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -243,7 +243,7 @@
         }
       },
       "$en_bgroom_1_0023": {
-        "Target": "{X12Y140}«Понимаешь, какую честь{Line} тебе оказала инструктор?»",
+        "Target": "{X12Y140}Понимаешь, какую честь{Line} тебе оказала инструктор?",
         "Source Text SHA256": "CB2D93C9A7BF481AB62C669FB8B5EB394DB5588D62759C15039087A6D0B32E11",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -251,7 +251,7 @@
         }
       },
       "$en_bgroom_1_0024": {
-        "Target": "{X12Y140}«Наедине с инструктором Трип...»",
+        "Target": "{X12Y140}Наедине с инструктором Трип...",
         "Source Text SHA256": "A0DC857ED5566A2C2E17B2BAFA574944C963BFB5882AEB6E76287718A2211A67",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -259,7 +259,7 @@
         }
       },
       "$en_bgroom_1_0025": {
-        "Target": "{X12Y140}«Как же я тебе завидую!..{Line} Нужно было выбирать этот{Line} предмет!..»",
+        "Target": "{X12Y140}Как же я тебе завидую!..{Line} Нужно было выбирать этот{Line} предмет!..",
         "Source Text SHA256": "3E89FADEC37EB87C904EAFD6582465A998CAD73BD2FFB7ABFD996AD0CF2DB33E",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -267,7 +267,7 @@
         }
       },
       "$en_bgroom_1_0026": {
-        "Target": "{X12Y140}«Если ты... Если с инструктором{Line} что-нибудь случится, „триповцы“{Line} тебя из-под земли достанут!»",
+        "Target": "{X12Y140}Если ты... Если с инструктором{Line} что-нибудь случится, „триповцы“{Line} тебя из-под земли достанут!",
         "Source Text SHA256": "2CA06A141AA61980A0E5BA3BAB918DF1CEE52D037BC2B26BFCC5E1859935E689",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -291,7 +291,7 @@
         }
       },
       "$en_bgroom_1_0029": {
-        "Target": "{X12Y12}Поклонница Трип #2{Line}“Ты должен защищать инструктора,{Line} а не трястись над собственной шкурой!”{Next}«Сколько раз ты был в отключке? {Var 32}!{Line} А инструктор? {Var 33}!!!»",
+        "Target": "{X12Y12}Поклонница Трип #2{Line}“Ты должен защищать инструктора,{Line} а не трястись над собственной шкурой!”{Next}Сколько раз ты был в отключке? {Var 32}!{Line} А инструктор? {Var 33}!!!",
         "Source Text SHA256": "62EC64019D3160FB633357EC98181BA5DFC487B56A3DC9752A0A6D50F9701080",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -315,7 +315,7 @@
         }
       },
       "$en_bgroom_1_0032": {
-        "Target": "{X276Y12}«Кстати, на твоём счету их {Var 35}{Pause 48}...{Pause 48}...{Pause 48}{Line} Но ты мне всё рвно безразличен!»",
+        "Target": "{X276Y12}Кстати, на твоём счету их {Var 35}{Pause 48}...{Pause 48}...{Pause 48}{Line} Но ты мне всё рвно безразличен!",
         "Source Text SHA256": "D9D21BB32D37FD553A6F4D3D0701691CAA791DA959F8F51A60655A54CE280296",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -331,7 +331,7 @@
         }
       },
       "$en_bgroom_1_0034": {
-        "Target": "{X10Y10}Поклонница Трип #3{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Баламба».{End}",
+        "Target": "{X10Y10}Поклонница Трип #3{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Баламба.{End}",
         "Source Text SHA256": "903A2F7AF90030883211AD14159BD274A5EC78203CC7F6DBF9405F6E72271CA2",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -339,7 +339,7 @@
         }
       },
       "$en_bgroom_1_0035": {
-        "Target": "{X10Y10}Поклонница Трип #3{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Галбадии».{End}",
+        "Target": "{X10Y10}Поклонница Трип #3{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Галбадии.{End}",
         "Source Text SHA256": "8A4EF7A05B107214B5951CA51498376A3B48A9627BD2F8BB89817C623FC9053B",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -347,7 +347,7 @@
         }
       },
       "$en_bgroom_1_0036": {
-        "Target": "{X10Y10}Поклонница Трип #3{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Трабии».{End}",
+        "Target": "{X10Y10}Поклонница Трип #3{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Трабии.{End}",
         "Source Text SHA256": "0AEE200A3A0986F480D55F2CF7F85342A97868F4124E2CA634703F4A6356D981",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -355,7 +355,7 @@
         }
       },
       "$en_bgroom_1_0037": {
-        "Target": "{X10Y10}Поклонница Трип #3{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Центры».{End}",
+        "Target": "{X10Y10}Поклонница Трип #3{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Центры.{End}",
         "Source Text SHA256": "4D8277ECFC1A3BADF9592D36EA0A21157E2B1027FE97945B1F89D29317A9D478",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -363,7 +363,7 @@
         }
       },
       "$en_bgroom_1_0038": {
-        "Target": "{X10Y10}Поклонница Трип #3{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Доллета».{End}",
+        "Target": "{X10Y10}Поклонница Трип #3{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Доллета.{End}",
         "Source Text SHA256": "9C8E1FBE51BD743060D636CDBCBC07661429CCA9BABBD3871EB667CEE7C95BC3",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -371,7 +371,7 @@
         }
       },
       "$en_bgroom_1_0039": {
-        "Target": "{X10Y10}Поклонница Трип #3{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Рыбацкого Горизонта».{End}",
+        "Target": "{X10Y10}Поклонница Трип #3{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Рыбацкого Горизонта.{End}",
         "Source Text SHA256": "3A221B13C53A1877B0A953DA436DB308137E9E8582BCE8E5B5B1344003E0A6A9",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -379,7 +379,7 @@
         }
       },
       "$en_bgroom_1_0040": {
-        "Target": "{X10Y10}Поклонница Трип #3{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Лунной базы».{End}",
+        "Target": "{X10Y10}Поклонница Трип #3{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Лунной базы.{End}",
         "Source Text SHA256": "438AC9857662B3F8CD7873B2537BA2CE1A32EFD7D5711639461C17344D29D94D",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -387,7 +387,7 @@
         }
       },
       "$en_bgroom_1_0041": {
-        "Target": "{X10Y10}Поклонница Трип #3{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Эстара».{End}",
+        "Target": "{X10Y10}Поклонница Трип #3{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Давай сыграем по нашим{Line} правилам и правилам Эстара.{End}",
         "Source Text SHA256": "D4E6DCB8E435DBC984ECD3BBBF760DC0DF77D263F78C6C7FFCF50B64233A3C8E",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -675,7 +675,7 @@
         }
       },
       "$en_bgroom_1_0063": {
-        "Target": "{X10Y10}Поклонница Трип #2{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Баламба?»{End}",
+        "Target": "{X10Y10}Поклонница Трип #2{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Баламба?{End}",
         "Source Text SHA256": "482B3F7567CD8E57F21C0359F7CB729EA5E2310F1B50248EBF94F982DB800A52",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -683,7 +683,7 @@
         }
       },
       "$en_bgroom_1_0064": {
-        "Target": "{X10Y10}Поклонница Трип #2{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Галбадии?»{End}",
+        "Target": "{X10Y10}Поклонница Трип #2{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Галбадии?{End}",
         "Source Text SHA256": "9226B580385F519F13676700329FE059E299F32981E45437E46412BF39A112E0",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -691,7 +691,7 @@
         }
       },
       "$en_bgroom_1_0065": {
-        "Target": "{X10Y10}Поклонница Трип #2{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Трабии?»{End}",
+        "Target": "{X10Y10}Поклонница Трип #2{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Трабии?{End}",
         "Source Text SHA256": "154CCB95A7CDAE1250BA4A0063C6B092131CDA650A51A575E023B7F0E12B9480",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -699,7 +699,7 @@
         }
       },
       "$en_bgroom_1_0066": {
-        "Target": "{X10Y10}Поклонница Трип #2{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Центры?»{End}",
+        "Target": "{X10Y10}Поклонница Трип #2{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Центры?{End}",
         "Source Text SHA256": "E961869DB068EF484DE3969414641EB469090EA547EBD16760E100A7CAC58CD0",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -707,7 +707,7 @@
         }
       },
       "$en_bgroom_1_0067": {
-        "Target": "{X10Y10}Поклонница Трип #2{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Доллета?»{End}",
+        "Target": "{X10Y10}Поклонница Трип #2{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Доллета?{End}",
         "Source Text SHA256": "029F53B67E573DE1254579C92DC5E94739F7CA8A5F50809846358F459BB38425",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -715,7 +715,7 @@
         }
       },
       "$en_bgroom_1_0068": {
-        "Target": "{X10Y10}Поклонница Трип #2{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Рыбацкого Горизонта?»{End}",
+        "Target": "{X10Y10}Поклонница Трип #2{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Рыбацкого Горизонта?{End}",
         "Source Text SHA256": "4F2B92F0BBAB778AEB409832F7DAF8BA9B0BE7419945B8B117FE345D0B79DCAA",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -723,7 +723,7 @@
         }
       },
       "$en_bgroom_1_0069": {
-        "Target": "{X10Y10}Поклонница Трип #2{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Лунной базы?»{End}",
+        "Target": "{X10Y10}Поклонница Трип #2{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Лунной базы?{End}",
         "Source Text SHA256": "66FA3DF1FE4148A4443D82873E0356B644EDA9D82354AF8CEA6D152B7C7FEF6F",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -731,7 +731,7 @@
         }
       },
       "$en_bgroom_1_0070": {
-        "Target": "{X10Y10}Поклонница Трип #2{Line}«Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Эстара?»{End}",
+        "Target": "{X10Y10}Поклонница Трип #2{Line}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Line} Сыграем по нашим{Line} правилам и правилам Эстара?{End}",
         "Source Text SHA256": "44A8D091BF86C6F0DE955B7D6A1863052B38A8351E6E9E55068D292AC6C975D6",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -899,7 +899,7 @@
         }
       },
       "$en_bgroom_1_0091": {
-        "Target": "{X152Y12}{Char Irvine}{Line}«А в этом Саду и{Line} правда полно красоток!»{End}",
+        "Target": "{X152Y12}{Char Irvine}{Line}А в этом Саду и{Line} правда полно красоток!{End}",
         "Source Text SHA256": "F8C241598DB061E2E4E151712F6A1E84258B2EE2052ACF68E62FC5A80C116496",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -907,7 +907,7 @@
         }
       },
       "$en_bgroom_1_0092": {
-        "Target": "{X45Y12}{Char Irvine}{Line}«Ну это... Я тут{Line} подумал...{Next}Может тебе стоит немного поразмяться? Так{Line} ты точно девчонок подцепишь!...»{End}",
+        "Target": "{X45Y12}{Char Irvine}{Line}Ну это... Я тут{Line} подумал...{Next}Может тебе стоит немного поразмяться? Так{Line} ты точно девчонок подцепишь!...{End}",
         "Source Text SHA256": "237DF8A30AE370E3C2134A3392AA9863FE9B291799DE7C0D2B0CC21CCE76CD6F",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -915,7 +915,7 @@
         }
       },
       "$en_bgroom_1_0093": {
-        "Target": "{X40Y12}{Char Irvine}{Line}«Хмм... нелёгкий выбор...{Next}Так, пойти-ка мне за девчонкой с косичкой или за{Line} той, что с короткой стрижкой?{Line} Или как насчёт той брюнеточки?...»{End}",
+        "Target": "{X40Y12}{Char Irvine}{Line}Хмм... нелёгкий выбор...{Next}Так, пойти-ка мне за девчонкой с косичкой или за{Line} той, что с короткой стрижкой?{Line} Или как насчёт той брюнеточки?...{End}",
         "Source Text SHA256": "1859037768A8955DF0EC890C3CC83F2D6713CA07294A3F7E2B41468A2CAAD0C5",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -923,7 +923,7 @@
         }
       },
       "$en_bgroom_1_0094": {
-        "Target": "{X151Y12}{Char Irvine}{Line}«В карты?{Line} Я только с девушками играю».{End}",
+        "Target": "{X151Y12}{Char Irvine}{Line}В карты?{Line} Я только с девушками играю.{End}",
         "Source Text SHA256": "3CFE4CA1E7A82654BEB487BB45538D4B1CF3E418A71C30713AB2E3240CFDAE79",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -931,7 +931,7 @@
         }
       },
       "$en_bgroom_1_0095": {
-        "Target": "{X20Y20}{Char Selphie}{Line}«Иногда приятно надеть обычную{Line} форму. А как станешь Сидом,{Line} больше её не носишь…»{End}",
+        "Target": "{X20Y20}{Char Selphie}{Line}Иногда приятно надеть обычную{Line} форму. А как станешь Сидом,{Line} больше её не носишь…{End}",
         "Source Text SHA256": "413B3C9E785FE23BAF202952F99704188FC7DC3077F035A607D7E353B42F5733",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -939,7 +939,7 @@
         }
       },
       "$en_bgroom_1_0096": {
-        "Target": "{X20Y20}{Char Selphie}{Line}«У Сидов та-а-кая классная форма!{Line} В ней даже выглядишь поумнее».{End}",
+        "Target": "{X20Y20}{Char Selphie}{Line}У Сидов та-а-кая классная форма!{Line} В ней даже выглядишь поумнее.{End}",
         "Source Text SHA256": "178AB0B90206878DF435E9D47A439C9E5499522AA5FB585ABCFCAB807EAA0205",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -947,7 +947,7 @@
         }
       },
       "$en_bgroom_1_0097": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Электронная доска объявлений „САДОВАЯ ПЛОЩАДЬ“{Line} такая классная».{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Электронная доска объявлений „САДОВАЯ ПЛОЩАДЬ“{Line} такая классная.{End}",
         "Source Text SHA256": "EFE1980810E3F2E03D533B5E101A48886D563F96BD105EE5FE1C1818EE5A1AA4",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -955,7 +955,7 @@
         }
       },
       "$en_bgroom_1_0098": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Здесь полно информации о Саде.{Line} Довольно неплохо!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Здесь полно информации о Саде.{Line} Довольно неплохо!{End}",
         "Source Text SHA256": "E4C0C8657E4DD24CC300F4DF9A740DC8D1D275951BFABA5B72398357EE726AA9",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -963,7 +963,7 @@
         }
       },
       "$en_bgroom_1_0099": {
-        "Target": "{Char Selphie}{Line}«Жутко интересно, кто скрывается{Line} за этими инициалами!»{Next}«Но пусть все{Line} ведут себя прилично!{Line} Главное, чтобы всем было весело!»{End}",
+        "Target": "{Char Selphie}{Line}Жутко интересно, кто скрывается{Line} за этими инициалами!{Next}Но пусть все{Line} ведут себя прилично!{Line} Главное, чтобы всем было весело!{End}",
         "Source Text SHA256": "46F1577EF07D7022598C1CA9D49B050462ABE00151E995892A91E08B4A9EE641",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -1011,7 +1011,7 @@
         }
       },
       "$en_bgroom_1_0105": {
-        "Target": "{X65Y12}Поклонница Трип #3{Line}«Хочешь к нам, в триповцы?»{End}",
+        "Target": "{X65Y12}Поклонница Трип #3{Line}Хочешь к нам, в триповцы?{End}",
         "Source Text SHA256": "221075E332FB3BF6F127C3ADA0E99383A8E6DFB4BBBECF331A6197020D2A38F3",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",
@@ -1019,7 +1019,7 @@
         }
       },
       "$en_bgroom_1_0106": {
-        "Target": "{X12Y12}Поклонница Трип #2{Line}«Ты ведь из другого Сада, да?»{End}",
+        "Target": "{X12Y12}Поклонница Трип #2{Line}Ты ведь из другого Сада, да?{End}",
         "Source Text SHA256": "5E774D921B82691F149CC03CE6DA06EF0320244B7496931A1C84C9EABB6DAC37",
         "sourceContext": {
           "Source MSD SHA256": "59A1D587F3920936BF03424FB0C1366AF056EF16FDA697EF594016E7454ACB48",

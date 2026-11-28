@@ -10,7 +10,7 @@
         }
       },
       "$en_gfview1_0001": {
-        "Target": "«Магазин»{End}",
+        "Target": "Магазин{End}",
         "Source Text SHA256": "446C39E25CE3169F325E5BBC08A425A2328CDC1DAC0E5959D9E48C67F84E936D",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gfview1_0002": {
-        "Target": "«Ты за покупками или в карты играть?){Line}(...За покупками){Line}(Сам знаешь... Играем!){Line}(...Ничего){End}",
+        "Target": "Ты за покупками или в карты играть?){Line}(...За покупками){Line}(Сам знаешь... Играем!){Line}(...Ничего){End}",
         "Source Text SHA256": "954DA4385124C54E3C8393557A237C5AAE3231FF7EE6AEE57F3FE622E7E13952",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gfview1_0003": {
-        "Target": "{X12Y12F2L4B2C1}«...Какого чёрта?{Line} Ты поправился? Отлично, можешь проваливать!»{Line}(Он ненавидят меня... Но мне все равно нужно сделать покупки){Line}(Он ненавидят меня... Но я попробую поговорить){Line}(Он ненавидят меня... Пойду-ка я, наверное){End}",
+        "Target": "{X12Y12F2L4B2C1}...Какого чёрта?{Line} Ты поправился? Отлично, можешь проваливать!{Line}(Он ненавидят меня... Но мне все равно нужно сделать покупки){Line}(Он ненавидят меня... Но я попробую поговорить){Line}(Он ненавидят меня... Пойду-ка я, наверное){End}",
         "Source Text SHA256": "94B3432EE94046BC1B9BD0CA6D4FACC35EAC3D767F444AC57F37B59068D41916",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gfview1_0004": {
-        "Target": "{X160Y12}{Char Laguna}{Line}«Рейн просила меня кое-что купить!»{End}",
+        "Target": "{X160Y12}{Char Laguna}{Line}Рейн просила меня кое-что купить!{End}",
         "Source Text SHA256": "4DEAB79474E07E0119EC45EAF87C1FBD114B3F8BAA3693A2D8CA97BDA37B9440",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gfview1_0005": {
-        "Target": "{X160Y12}{Char Laguna}{Line}«Я просто хочу поболтать».{End}",
+        "Target": "{X160Y12}{Char Laguna}{Line}Я просто хочу поболтать.{End}",
         "Source Text SHA256": "4A0B96467645036B69EDA17E072EEFCCBCEED3FC2BF61F3CD066D20101F192AE",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gfview1_0006": {
-        "Target": "{X12Y12}«...Как там Рейн?»{End}",
+        "Target": "{X12Y12}...Как там Рейн?{End}",
         "Source Text SHA256": "38530C99DE20412C9D5AE567C79D7BEE2B742E8DD8EFE26351FDDBDCBE3D714F",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gfview1_0007": {
-        "Target": "{X160Y12}{Char Laguna}{Line}«Эээ, у неё все в порядке».{End}",
+        "Target": "{X160Y12}{Char Laguna}{Line}Эээ, у неё все в порядке.{End}",
         "Source Text SHA256": "392D0F1A25D084CFFD4B4749864FC1F2C32C33D923513DF3C264458B300013A5",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gfview1_0008": {
-        "Target": "{X12Y12}«Это хорошо. Но{Line} было бы ещё лучше, если{Line} бы ты ушёл!»{End}",
+        "Target": "{X12Y12}Это хорошо. Но{Line} было бы ещё лучше, если{Line} бы ты ушёл!{End}",
         "Source Text SHA256": "B5C0F3FCF8BB1498C940379584F61257A9BBA389F04D01A7495385C241B788A2",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gfview1_0009": {
-        "Target": "{X160Y12}{Char Laguna}{Line}«Ох... Простите за беспокойство».{End}",
+        "Target": "{X160Y12}{Char Laguna}{Line}Ох... Простите за беспокойство.{End}",
         "Source Text SHA256": "50BA00663988122DF3BC89CDD5D6C698AC2EB7390006ED7471823D3939A05C09",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gfview1_0010": {
-        "Target": "{X10Y12}{Char Laguna}{Line}«Отлично! Наше первое патрулирование завершено!»{End}",
+        "Target": "{X10Y12}{Char Laguna}{Line}Отлично! Наше первое патрулирование завершено!{End}",
         "Source Text SHA256": "87FD50B5D7855EA20DAB6E3825AB429255A59B2D77906428F1CDE13C1DAFD94F",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gfview1_0011": {
-        "Target": "{X10Y12}{Char Laguna}{Line}«Нужно доложить{Line} командиру и помощнику командира».{End}",
+        "Target": "{X10Y12}{Char Laguna}{Line}Нужно доложить{Line} командиру и помощнику командира.{End}",
         "Source Text SHA256": "FBDA30ABC7C2DD7A22414F4B5EED47E668FD8A83D1583F07D0DCBB0D9661E5B3",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gfview1_0012": {
-        "Target": "{X10Y12}{Char Kiros}{Line}«Командиру… Ты{Line} это о той женщине в баре?»{End}",
+        "Target": "{X10Y12}{Char Kiros}{Line}Командиру… Ты{Line} это о той женщине в баре?{End}",
         "Source Text SHA256": "4543F5DC97EE832B89E2BE1C19D03C2926AEA6FE8D4FFCF35C140AB4E0F41B9F",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gfview1_0013": {
-        "Target": "{X10Y12}{Char Laguna}{Line}«Её зовут Рейн. Ясно тебе?!{Line} Она спасла мне жизнь.{Next}А помощник командира{Line} - Элли».{End}",
+        "Target": "{X10Y12}{Char Laguna}{Line}Её зовут Рейн. Ясно тебе?!{Line} Она спасла мне жизнь.{Next}А помощник командира{Line} - Элли.{End}",
         "Source Text SHA256": "FC4A64A122BB36CD62AAFBB9FB6860AF243D9A9A0E3DD548687B0C0B02A2D324",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gfview1_0014": {
-        "Target": "{X10Y12}{Char Kiros}{Line}«Похоже, Рейн хороший человек. Но она легко впадает в отчаяние.{Line} ...в отчаяние?»{End}",
+        "Target": "{X10Y12}{Char Kiros}{Line}Похоже, Рейн хороший человек. Но она легко впадает в отчаяние.{Line} ...в отчаяние?{End}",
         "Source Text SHA256": "CA9776C4CBFF9541536B013B66F65A765EB76D165D57D63F88DE754127292633",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gfview1_0015": {
-        "Target": "{X10Y12}{Char Laguna}{Line}«...Важная шишка?»{End}",
+        "Target": "{X10Y12}{Char Laguna}{Line}...Важная шишка?{End}",
         "Source Text SHA256": "76C6DF757C442DB85BC24894D5D7D484E4219F7BE53C7940F038FCF293E3C554",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gfview1_0016": {
-        "Target": "{X10Y12}{Char Laguna}{Line}«Ладно, давай прогуляемся до границы города.{Next}Помощник Кирос, давайте подумаем о том, что делать дальше, когда вернёмся на базу».{End}",
+        "Target": "{X10Y12}{Char Laguna}{Line}Ладно, давай прогуляемся до границы города.{Next}Помощник Кирос, давайте подумаем о том, что делать дальше, когда вернёмся на базу.{End}",
         "Source Text SHA256": "423E2436E8821B44C2058D460B5FB6F24B0E26B8D58A3251F88FDC380D03EFB5",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gfview1_0017": {
-        "Target": "{X12Y12}{Char Laguna}{Line}«Хм? Что за дела?»{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}Хм? Что за дела?{End}",
         "Source Text SHA256": "B56821928BFB5185BC127BCB3FA3ABD50C06A76664EC5A4757C27AB6D5719EDA",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gfview1_0018": {
-        "Target": "{X12Y12}{Char Laguna}{Line}«Я ведь всегда возвращаюсь этой{Line} дорогой с первого патрулирования...»{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}Я ведь всегда возвращаюсь этой{Line} дорогой с первого патрулирования...{End}",
         "Source Text SHA256": "46CECB40862475DF22154473617A2ADA8CC8D9361AB9FC731BBD05890E8D4BFE",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gfview1_0019": {
-        "Target": "{X10Y12}{Char Kiros}{Line}«Может, феи попутали?»{End}",
+        "Target": "{X10Y12}{Char Kiros}{Line}Может, феи попутали?{End}",
         "Source Text SHA256": "01F4ECB0F74F0AB129109EC763B71948A1A51D66C82AC3F1A2E8BF0DA163AB84",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gfview1_0020": {
-        "Target": "{X12Y12}{Char Laguna}{Line}«...Возможно.»{End}",
+        "Target": "{X12Y12}{Char Laguna}{Line}...Возможно.{End}",
         "Source Text SHA256": "7F52E0BD2F76F68E566F7512BA413A0CF70514BC0AEBFB859DF50658656212B8",
         "sourceContext": {
           "Source MSD SHA256": "D70DCB5ED02A68594519FD74ABDB783007FB87F09055A5E88170C36CBD61E5BF",

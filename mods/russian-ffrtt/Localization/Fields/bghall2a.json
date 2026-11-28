@@ -2,7 +2,7 @@
   "Fields": {
     "bghall2a": {
       "$en_bghall2a_0000": {
-        "Target": "{X82Y10}Нида{Line}«Повторяю: всем явиться{Line} на {Color Blue}〖мостик, третий этаж〗{Color White}!»{End}",
+        "Target": "{X82Y10}Нида{Line}Повторяю: всем явиться{Line} на {Color Blue}〖мостик, третий этаж〗{Color White}!{End}",
         "Source Text SHA256": "028CA67646B96510B4F656F80CB4B3C948014F2DEBB7921F8B225834661AC42A",
         "sourceContext": {
           "Source MSD SHA256": "A716863241C3A020C444EC753E60AFB4E256D7F87C82980904A1D5B9A17B6321",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bghall2a_0004": {
-        "Target": "{X10Y80}{Char Zell}{Line}«Туда идти незачем».{End}",
+        "Target": "{X10Y80}{Char Zell}{Line}Туда идти незачем.{End}",
         "Source Text SHA256": "96E7BC8EC1229971BFE71EC43BA7383F2A29268D9458DD7BA4BA0DC752CEFAED",
         "sourceContext": {
           "Source MSD SHA256": "A716863241C3A020C444EC753E60AFB4E256D7F87C82980904A1D5B9A17B6321",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bghall2a_0005": {
-        "Target": "{X10Y10}Боец обороны двора{Line}«Мы должны победить!»{End}",
+        "Target": "{X10Y10}Боец обороны двора{Line}Мы должны победить!{End}",
         "Source Text SHA256": "1F047490184B0567ED5181FB1CA0CD9449E15D11F6D56FB24E843072292EE160",
         "sourceContext": {
           "Source MSD SHA256": "A716863241C3A020C444EC753E60AFB4E256D7F87C82980904A1D5B9A17B6321",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bghall2a_0006": {
-        "Target": "{X10Y10}Боец снабжения{Line}«Как дела, {Char Squall}?!{Line} Ну, мы на тебя рассчитываем!»{End}",
+        "Target": "{X10Y10}Боец снабжения{Line}Как дела, {Char Squall}?!{Line} Ну, мы на тебя рассчитываем!{End}",
         "Source Text SHA256": "0F85320F62B14CBE4DFC561B86E74284E3954715B64BC4783B621DB956F717F0",
         "sourceContext": {
           "Source MSD SHA256": "A716863241C3A020C444EC753E60AFB4E256D7F87C82980904A1D5B9A17B6321",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bghall2a_0007": {
-        "Target": "{X48Y70}Боец снабжения{Line}«Точка сохранения уже работает, сэр!»{End}",
+        "Target": "{X48Y70}Боец снабжения{Line}Точка сохранения уже работает, сэр!{End}",
         "Source Text SHA256": "F408872FB4EA5598F3F45174CBE1451327A389E3984FA4041C8D2CCC9A0D21BC",
         "sourceContext": {
           "Source MSD SHA256": "A716863241C3A020C444EC753E60AFB4E256D7F87C82980904A1D5B9A17B6321",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bghall2a_0008": {
-        "Target": "{X10Y10}Боец обороны двора{Line}«Не терпится вступить{Line} в бой под твоим командованием».{End}",
+        "Target": "{X10Y10}Боец обороны двора{Line}Не терпится вступить{Line} в бой под твоим командованием.{End}",
         "Source Text SHA256": "4898FB17F4D6050952859DFF3DBAABDD5078D2BE19E8E8F6B13E49E75363773A",
         "sourceContext": {
           "Source MSD SHA256": "A716863241C3A020C444EC753E60AFB4E256D7F87C82980904A1D5B9A17B6321",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bghall2a_0009": {
-        "Target": "{X10Y10}Боец обороны двора{Line}«Сделаем всё, что сможем!»{End}",
+        "Target": "{X10Y10}Боец обороны двора{Line}Сделаем всё, что сможем!{End}",
         "Source Text SHA256": "2F0F8A2DD5939B31EEBA85FF9DA32F93A13BD9B1A71F25BF81460E248C7FC49A",
         "sourceContext": {
           "Source MSD SHA256": "A716863241C3A020C444EC753E60AFB4E256D7F87C82980904A1D5B9A17B6321",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bghall2a_0010": {
-        "Target": "{X10Y10}Стратег контрразведки{Line}«Вероятнее всего враг{Line} пройдёт через главные ворота{Line} и {Color Blue}[площадь]{Color White}».{End}",
+        "Target": "{X10Y10}Стратег контрразведки{Line}Вероятнее всего враг{Line} пройдёт через главные ворота{Line} и {Color Blue}[площадь]{Color White}.{End}",
         "Source Text SHA256": "671C8FED1F3C492F4D7BBC28641EA1444558B252B118AC55086E520354FF40B3",
         "sourceContext": {
           "Source MSD SHA256": "A716863241C3A020C444EC753E60AFB4E256D7F87C82980904A1D5B9A17B6321",

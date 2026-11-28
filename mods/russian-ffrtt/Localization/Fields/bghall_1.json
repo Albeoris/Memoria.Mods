@@ -10,7 +10,7 @@
         }
       },
       "$en_bghall_1_0001": {
-        "Target": "{X140Y30}Студент отряда «Гамма»{Line}«Слышал...»{Next}«Оказывается, целью Гальбадии{Line} была коммуникационная башня».",
+        "Target": "{X140Y30}Студент отряда «Гамма»{Line}Слышал...{Next}Оказывается, целью Гальбадии{Line} была коммуникационная башня.",
         "Source Text SHA256": "73E3A99F5B25277817723D0A07D62CDBA9F5DA240C2ACB4A388783EE12802A41",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bghall_1_0003": {
-        "Target": "{X140Y30}Студент отряда «Гамма»{Line}«Почему?»",
+        "Target": "{X140Y30}Студент отряда «Гамма»{Line}Почему?",
         "Source Text SHA256": "750068645BCDFC9F7C798F81007F95D19B34B4003E74A9A38226EB92B570A1B7",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bghall_1_0004": {
-        "Target": "{X130Y8}Студент отряда «Дельта»{Line}«Ты чего?.. Это ж на контроше было!»{Next}«„Почему невозможна передача данных{Line} посредством радиосигналов?“»",
+        "Target": "{X130Y8}Студент отряда «Дельта»{Line}«Ты чего?.. Это ж на контроше было!»{Next}„Почему невозможна передача данных{Line} посредством радиосигналов?“",
         "Source Text SHA256": "0C1B79200AC5CA9467B90159D05D90752F9BD77940082800A030363487A04611",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bghall_1_0006": {
-        "Target": "{X100Y8}{Char Squall}{Line}«Сопутствующее передаче данных{Line} радиационное излучение опасно для жизни».",
+        "Target": "{X100Y8}{Char Squall}{Line}Сопутствующее передаче данных{Line} радиационное излучение опасно для жизни.",
         "Source Text SHA256": "3B838CC45F36ADA0EB10F4F84F19C23517D4A766988B4C4E36AEFCA82C563046",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bghall_1_0007": {
-        "Target": "{X130Y8}Студент отряда «Дельта»{Line}«Ха-ха-ха! Минус пять баллов, {Char Squall}!»{Next}«На самом деле...»{End}{End}",
+        "Target": "{X130Y8}Студент отряда «Дельта»{Line}«Ха-ха-ха! Минус пять баллов, {Char Squall}!»{Next}На самом деле...{End}{End}",
         "Source Text SHA256": "69A49933671CEF020AEB2711FC9F5AEA086A62C01A2D3AEE2488BF9D5F00DCB1",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -69,7 +69,7 @@
         }
       },
       "$en_bghall_1_0008": {
-        "Target": "{X130Y8}Студент отряда «Дельта»{Line}«Семнадцать лет назад, в радиоэфире{Line} появились жуткие помехи».{Next}«Поэтому нам и приходится{Line} использовать проводные сети,{Line} и чокобо для доставки кореспонденции».",
+        "Target": "{X130Y8}Студент отряда «Дельта»{Line}«Семнадцать лет назад, в радиоэфире{Line} появились жуткие помехи».{Next}Поэтому нам и приходится{Line} использовать проводные сети,{Line} и чокобо для доставки кореспонденции.",
         "Source Text SHA256": "03C7242F1D4A4E47087FE008880BB4A47FD972E382745ACEE821B6B507C2DEF0",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -85,7 +85,7 @@
         }
       },
       "$en_bghall_1_0010": {
-        "Target": "{X100Y8}{Char Squall}{Line}«Радиопередача данных невозможно{Line} даже на короткие расстояния{Line} из-за сильнейших помех».",
+        "Target": "{X100Y8}{Char Squall}{Line}Радиопередача данных невозможно{Line} даже на короткие расстояния{Line} из-за сильнейших помех.",
         "Source Text SHA256": "F5D4FF5A1BD26E36648C4232E1EE7EBF10B1E8E84064896D3FFF8A4C9D5CCC2B",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -101,7 +101,7 @@
         }
       },
       "$en_bghall_1_0012": {
-        "Target": "{X140Y30}Студент отряда «Гамма»{Line}«Мне как-то пофиг, сдал я или нет.{Line} Не шибко я и стремлюсь стать сидом».",
+        "Target": "{X140Y30}Студент отряда «Гамма»{Line}Мне как-то пофиг, сдал я или нет.{Line} Не шибко я и стремлюсь стать сидом.",
         "Source Text SHA256": "A46369C45A818680D4D78824C502D2376FF0A5FA6EFB875AA7CA63AA5ABDC6A5",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -125,7 +125,7 @@
         }
       },
       "$en_bghall_1_0015": {
-        "Target": "{X30Y20}«Как всё прошло?»",
+        "Target": "{X30Y20}Как всё прошло?",
         "Source Text SHA256": "F472E1833EF392DDD37CC3E13B98124FA5E4DC4DB548C786E3992523B3E003C3",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -133,7 +133,7 @@
         }
       },
       "$en_bghall_1_0016": {
-        "Target": "{X40Y20}«Ох... Если бы не мои{Line} хронические боли в спине...»",
+        "Target": "{X40Y20}Ох... Если бы не мои{Line} хронические боли в спине...",
         "Source Text SHA256": "077309C32189DD05B691DA27EAB982E6748B631825590E9F95BF4D1BC3B114AD",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -141,7 +141,7 @@
         }
       },
       "$en_bghall_1_0017": {
-        "Target": "{X30Y20}«Ай, ну тебя!»",
+        "Target": "{X30Y20}Ай, ну тебя!",
         "Source Text SHA256": "A0B272D6BD807C2B49530FC552F9324A483B1671FBCC146F7A3D525A6E09AA2C",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -149,7 +149,7 @@
         }
       },
       "$en_bghall_1_0018": {
-        "Target": "{X30Y20}«{Char Squall}, а ты как? Сдал?»",
+        "Target": "{X30Y20}{Char Squall}, а ты как? Сдал?",
         "Source Text SHA256": "9E5C585587C8BF8E604FB71248A83CEA85C1451F0516CB3949B661761E33FB1A",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -165,7 +165,7 @@
         }
       },
       "$en_bghall_1_0020": {
-        "Target": "{X30Y20}«Я так и думал!{Line} Вот с кого нужно брать пример!»",
+        "Target": "{X30Y20}Я так и думал!{Line} Вот с кого нужно брать пример!",
         "Source Text SHA256": "8FDA806224ECAC13989E3E7404A9713E4DC49831008ABCFDAB19F31A61EC833A",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -173,7 +173,7 @@
         }
       },
       "$en_bghall_1_0021": {
-        "Target": "{X30Y20}«Понятно... Ну, я думаю,{Line} ты отлично справился!»",
+        "Target": "{X30Y20}Понятно... Ну, я думаю,{Line} ты отлично справился!",
         "Source Text SHA256": "A00A23E80CC4A51E99F78417688C6D1DE4DBDD113E3A4C6AE33C80F1759595EA",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -181,7 +181,7 @@
         }
       },
       "$en_bghall_1_0022": {
-        "Target": "{X40Y20}«Если бы не моя спина...»",
+        "Target": "{X40Y20}Если бы не моя спина...",
         "Source Text SHA256": "253F67D6ACFDDFD429B0404E745B8D5221C013BFBB9DCDD894E4DCBFAB47F522",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -189,7 +189,7 @@
         }
       },
       "$en_bghall_1_0023": {
-        "Target": "{X51Y8}«Все студенты, сдававшие{Line} полевой экзамен, проследуйте{Line} на {Color Blue}〖второй этаж〗{Color White}».{Next}{Line}   «Повторяю».{Line}{Next}«Все студенты, сдававшие{Line} полевой экзамен, проследуйте{Line} на {Color Blue}〖второй этаж〗{Color White}».",
+        "Target": "{X51Y8}Все студенты, сдававшие{Line} полевой экзамен, проследуйте{Line} на {Color Blue}〖второй этаж〗{Color White}.{Next}{Line}   Повторяю.{Line}{Next}Все студенты, сдававшие{Line} полевой экзамен, проследуйте{Line} на {Color Blue}〖второй этаж〗{Color White}.",
         "Source Text SHA256": "C5086A70F90117B346A88A2D796A0FB057B7788E2D9D0DD8D9E8D2FC9E342196",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -197,7 +197,7 @@
         }
       },
       "$en_bghall_1_0024": {
-        "Target": "{X20Y20}Преподаватель{Line}«Ты не слышал объявления?{Line} Поднимись на {Color Blue}〖второй этаж〗{Color White}.»",
+        "Target": "{X20Y20}Преподаватель{Line}Ты не слышал объявления?{Line} Поднимись на {Color Blue}〖второй этаж〗{Color White}.",
         "Source Text SHA256": "CAB02EA49534C3F0E63B164EED604BE5E6A4999B9CB08812C52EAC0EC5A64107",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -205,7 +205,7 @@
         }
       },
       "$en_bghall_1_0025": {
-        "Target": "{X62Y25}«Я буду бегать каждый день,{Line} чтобы быть в отличной форме!»",
+        "Target": "{X62Y25}Я буду бегать каждый день,{Line} чтобы быть в отличной форме!",
         "Source Text SHA256": "14A17AC74F92730950E07414E3932A889A145488DC01958B7381C99AED8ABDBD",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -213,7 +213,7 @@
         }
       },
       "$en_bghall_1_0026": {
-        "Target": "{X58Y15}«Я сам только что стал сидом. Удачи».",
+        "Target": "{X58Y15}Я сам только что стал сидом. Удачи.",
         "Source Text SHA256": "353A10C20224C563A8008AFF6597E5A9996A31C396AC1D6804F092E7935D4073",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -221,7 +221,7 @@
         }
       },
       "$en_bghall_1_0027": {
-        "Target": "{X90Y15}«Только стражей не забудь!{Line} А то был у нас один в команде...»",
+        "Target": "{X90Y15}Только стражей не забудь!{Line} А то был у нас один в команде...",
         "Source Text SHA256": "C968975E7F58417E51A398AABA8B60C3561426DFC676B52E79AE72D03C5BA461",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -229,7 +229,7 @@
         }
       },
       "$en_bghall_1_0028": {
-        "Target": "«Слышал, вы с Сайфером{Line} опять сцепились».{Next}«На этот раз оба пострадали?{Line} Вот незадача».{End}",
+        "Target": "Слышал, вы с Сайфером{Line} опять сцепились.{Next}На этот раз оба пострадали?{Line} Вот незадача.{End}",
         "Source Text SHA256": "879F4CB034FCD8D3224EE4CC5CDEE5B92C2BDBCB0C1B4D6364084773A1B98752",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -237,7 +237,7 @@
         }
       },
       "$en_bghall_1_0029": {
-        "Target": "{X57Y15}«Эй, ходячая проблема!{Line} Не шатайся без дела».",
+        "Target": "{X57Y15}Эй, ходячая проблема!{Line} Не шатайся без дела.",
         "Source Text SHA256": "14BB7FB4B06F41F970473F06ED71E21E654D54CABBA5D4CC519CD3627FA86840",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -245,7 +245,7 @@
         }
       },
       "$en_bghall_1_0030": {
-        "Target": "{X80Y8}«Эй, {Char Squall}!{Line} Тебя инструктор у ворот ждёт!»",
+        "Target": "{X80Y8}Эй, {Char Squall}!{Line} Тебя инструктор у ворот ждёт!",
         "Source Text SHA256": "196F54602C5D388F83BA255EFACDC648BA3709D3E96C1B8C2F5D45C62C16F937",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -253,7 +253,7 @@
         }
       },
       "$en_bghall_1_0031": {
-        "Target": "{X80Y8}«Что значит „у каких“?{Next}Прикалываешься? Здесь только одни ворота,{Line} на юге отсюда».",
+        "Target": "{X80Y8}Что значит „у каких“?{Next}Прикалываешься? Здесь только одни ворота,{Line} на юге отсюда.",
         "Source Text SHA256": "8BA6A62DAC6D6E113FFCD7533CAE0B9FB82011A9F7756C7AD88019CA35DF674A",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -261,7 +261,7 @@
         }
       },
       "$en_bghall_1_0032": {
-        "Target": "{X80Y8}«И вообще, вот же навигационная панель!»",
+        "Target": "{X80Y8}И вообще, вот же навигационная панель!",
         "Source Text SHA256": "592068D582936FF5F9EDF9A1D6DF702028C59F1891C999D10FE148881C62AB2D",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -269,7 +269,7 @@
         }
       },
       "$en_bghall_1_0033": {
-        "Target": "{X80Y8}«Утречко.{Line} Удачи на экзамене».",
+        "Target": "{X80Y8}Утречко.{Line} Удачи на экзамене.",
         "Source Text SHA256": "0D3B46C7DEF73D816F224E3E6F107C322FFD0B0DE1F17AB10F24831C58083A32",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -277,7 +277,7 @@
         }
       },
       "$en_bghall_1_0034": {
-        "Target": "{X80Y8}«Кошмар, я слышала, они даже наши{Line} разговоры во время экзамена оценивают!»",
+        "Target": "{X80Y8}Кошмар, я слышала, они даже наши{Line} разговоры во время экзамена оценивают!",
         "Source Text SHA256": "EF711802BB92421C00CE27914D7AB336D0643EC7A4C2947D3535B89BE59AB371",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -285,7 +285,7 @@
         }
       },
       "$en_bghall_1_0035": {
-        "Target": "«Ну, на сегодня{Line} занятия закончились, да?»{End}",
+        "Target": "Ну, на сегодня{Line} занятия закончились, да?{End}",
         "Source Text SHA256": "3B6FD49CB05698FBED180022A85EDDAE3F839F956DE24108F4C7B803073160FA",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -293,7 +293,7 @@
         }
       },
       "$en_bghall_1_0036": {
-        "Target": "«Ага».{End}",
+        "Target": "Ага.{End}",
         "Source Text SHA256": "88A61780443F6A15F0174868DE86C59179B8BD87BE01438867D47B67D5A8A529",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -301,7 +301,7 @@
         }
       },
       "$en_bghall_1_0037": {
-        "Target": "«Тогда зайдём в столовую,{Line} прежде чем вернуться в общежитие?»{End}",
+        "Target": "Тогда зайдём в столовую,{Line} прежде чем вернуться в общежитие?{End}",
         "Source Text SHA256": "E9F2F26197A8FDBB4FA12C82993047BDB04604A7A33955BBF2B19E4734F51715",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -309,7 +309,7 @@
         }
       },
       "$en_bghall_1_0038": {
-        "Target": "«Конечно».{End}",
+        "Target": "Конечно.{End}",
         "Source Text SHA256": "D3665B7374D258E27900380600F3C8C57F4C7D40A7DD4B279137E7420E4C9F1D",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -317,7 +317,7 @@
         }
       },
       "$en_bghall_1_0039": {
-        "Target": "«А, да, я ещё хотел кое-что{Line} поискать в библиотеке.{Line} Можно сначала зайти туда?»{End}",
+        "Target": "А, да, я ещё хотел кое-что{Line} поискать в библиотеке.{Line} Можно сначала зайти туда?{End}",
         "Source Text SHA256": "EF2FD0D4527120F3A32033DD9E4AA5032FD49961A4FE08884E72588B2B719F68",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -325,7 +325,7 @@
         }
       },
       "$en_bghall_1_0040": {
-        "Target": "«Ладненько».{End}",
+        "Target": "Ладненько.{End}",
         "Source Text SHA256": "5A83505F0548FA59993A322B3B580B7C4FA51FC6D6FA64D01DBDD737CB58196A",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -333,7 +333,7 @@
         }
       },
       "$en_bghall_1_0041": {
-        "Target": "{X80Y8}«Утречко! Удачи на задании!»",
+        "Target": "{X80Y8}Утречко! Удачи на задании!",
         "Source Text SHA256": "F88428105D50C0C1F612499E185516B0D10FD6AADED9F948AA35FA1E9A913450",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -341,7 +341,7 @@
         }
       },
       "$en_bghall_1_0042": {
-        "Target": "{X80Y8}«Не могу поверить! Только что стали{Line} сидами и уже самостоятельная миссия!»",
+        "Target": "{X80Y8}Не могу поверить! Только что стали{Line} сидами и уже самостоятельная миссия!",
         "Source Text SHA256": "EEF4D4EEE7936052359A4E5C603F095A5C0ABB6091B8081EA712C65DD43BC310",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -349,7 +349,7 @@
         }
       },
       "$en_bghall_1_0043": {
-        "Target": "{X29Y15}«Слышал, здесь есть элитный карточный клуб{Line}— КК».{Next}«Это настоящие карточные маньяки, которые{Line}день и ночь ищут достойных соперников».{Next}«Вызов от одного из них — это огромная{Line}честь!»{End}",
+        "Target": "{X29Y15}Слышал, здесь есть элитный карточный клуб{Line}— КК.{Next}Это настоящие карточные маньяки, которые{Line}день и ночь ищут достойных соперников.{Next}Вызов от одного из них — это огромная{Line}честь!{End}",
         "Source Text SHA256": "300F0E04968D5947A4DC4FBD365772701ADB60850AC7CC54B23737CBC99360F1",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -360,7 +360,7 @@
         }
       },
       "$en_bghall_1_0044": {
-        "Target": "{X98Y15}«Хотел бы я приссоединиться к ним...»",
+        "Target": "{X98Y15}Хотел бы я приссоединиться к ним...",
         "Source Text SHA256": "EB2956656CE9A1EE0D341D4298F967110264EA8209B61B87DD12FDA368B86064",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -368,7 +368,7 @@
         }
       },
       "$en_bghall_1_0045": {
-        "Target": "{X180Y20}«Со мной не хотят{Line} играть в карты!»{End}",
+        "Target": "{X180Y20}Со мной не хотят{Line} играть в карты!{End}",
         "Source Text SHA256": "594D7C5B3741ED207D64D88855FE9BB7FD384583A1720859F8B9A75905B64E7F",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -376,7 +376,7 @@
         }
       },
       "$en_bghall_1_0046": {
-        "Target": "{X175Y30}{Char Squall}{Line}«Внизу находится{Line} {Color Blue}навигационная панель{Color White}.»",
+        "Target": "{X175Y30}{Char Squall}{Line}Внизу находится{Line} {Color Blue}навигационная панель{Color White}.",
         "Source Text SHA256": "A8F2C9927E0695C0E843DBBD46ABD817A11209FA2FA1C7D6FDFF4162F6241BC3",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -384,7 +384,7 @@
         }
       },
       "$en_bghall_1_0047": {
-        "Target": "{X160Y20}«Слууушай... а ты сегодня{Line} сдаёшь экзамен?»",
+        "Target": "{X160Y20}Слууушай... а ты сегодня{Line} сдаёшь экзамен?",
         "Source Text SHA256": "D9BC1CEB1A0779D10EC8EF265EBD6AF754A2B7EBBEEC50B4C0435F611E5AB6AE",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -392,7 +392,7 @@
         }
       },
       "$en_bghall_1_0048": {
-        "Target": "{X90Y35}{Char Squall}{Line}«Да».",
+        "Target": "{X90Y35}{Char Squall}{Line}Да.",
         "Source Text SHA256": "642399477C7B19878A0123AB15A5746E3F086E4690690FD865F73783FDC770C1",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -408,7 +408,7 @@
         }
       },
       "$en_bghall_1_0050": {
-        "Target": "«Огромное спасибо!»{End}",
+        "Target": "Огромное спасибо!{End}",
         "Source Text SHA256": "82513930FAB398A059BCB7C847698BD1F2A31A213A80E52918CAF95D59EA2E04",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -416,7 +416,7 @@
         }
       },
       "$en_bghall_1_0051": {
-        "Target": "{X160Y50}«Огромное спасибо! Пока!»",
+        "Target": "{X160Y50}Огромное спасибо! Пока!",
         "Source Text SHA256": "B1B598EE4DED766B46A72C4278AC35CC47FB89EA6480E454B4578890A37E7E5A",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -432,7 +432,7 @@
         }
       },
       "$en_bghall_1_0053": {
-        "Target": "{X18Y8}«Как ты относишься к картам?{Line} Эта игра набирает популярность среди сидов».",
+        "Target": "{X18Y8}Как ты относишься к картам?{Line} Эта игра набирает популярность среди сидов.",
         "Source Text SHA256": "DA671175AF39A01E6A6D4C23AF84838B6DB688496F94123625E108830F07DCC9",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -440,7 +440,7 @@
         }
       },
       "$en_bghall_1_0054": {
-        "Target": "{X89Y8F1L2B1C2}«Сыграем?»{Line}Да{Line}Нет",
+        "Target": "{X89Y8F1L2B1C2}Сыграем?{Line}Да{Line}Нет",
         "Source Text SHA256": "3D3D27CCA384CD1840064DA74D20F2AA8F8002AC7BD5A27209B8B675DB4B4FD1",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -448,7 +448,7 @@
         }
       },
       "$en_bghall_1_0055": {
-        "Target": "{X18Y8}«Карты стали очень популярны{Line} среди сидов».",
+        "Target": "{X18Y8}Карты стали очень популярны{Line} среди сидов.",
         "Source Text SHA256": "B892E8DEE470D4679CB9637DD753088641347E868C2302EBFC6B5EA35D6427CC",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -456,7 +456,7 @@
         }
       },
       "$en_bghall_1_0056": {
-        "Target": "{X94Y8F1L2B1C2}«Сыграем?»{Line}Да{Line}Нет",
+        "Target": "{X94Y8F1L2B1C2}Сыграем?{Line}Да{Line}Нет",
         "Source Text SHA256": "6BB9D46E91CF9A778F1167D474A1EBADD36376EE034C4344AEF8917BA59A4588",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -472,7 +472,7 @@
         }
       },
       "$en_bghall_1_0058": {
-        "Target": "{X10Y10F1L2B1C2}«Хочешь сыграть?»{Line}Да{Line}Нет",
+        "Target": "{X10Y10F1L2B1C2}Хочешь сыграть?{Line}Да{Line}Нет",
         "Source Text SHA256": "7A7808E3380E8853ADF8E6CC47C6497532463FC9A16DA9E3C0EA8AEE40295C37",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -480,7 +480,7 @@
         }
       },
       "$en_bghall_1_0059": {
-        "Target": "{X180Y20F1L2B1C2}«Сыграешь со мной?»{Line}Да{Line}Нет",
+        "Target": "{X180Y20F1L2B1C2}Сыграешь со мной?{Line}Да{Line}Нет",
         "Source Text SHA256": "B3D753C9B7B832C0DF42E510F89CBC1D5DADE49206E3391BBA3A0EC7EE3B6BCF",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -488,7 +488,7 @@
         }
       },
       "$en_bghall_1_0060": {
-        "Target": "{X10Y10}«Ого, я о таком{Line} правиле не слышал».{Next}«А давай сыграем по нашим{Line} правилам и правилам Баламба?»{End}",
+        "Target": "{X10Y10}Ого, я о таком{Line} правиле не слышал.{Next}А давай сыграем по нашим{Line} правилам и правилам Баламба?{End}",
         "Source Text SHA256": "6CE056009551645BF3D94865670605363C4B9FB573BD08392A37625904BB4A3A",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -496,7 +496,7 @@
         }
       },
       "$en_bghall_1_0061": {
-        "Target": "{X10Y10}«Ого, я о таком{Line} правиле не слышал».{Next}«А давай сыграем по нашим{Line} правилам и правилам Галбадии?»{End}",
+        "Target": "{X10Y10}Ого, я о таком{Line} правиле не слышал.{Next}А давай сыграем по нашим{Line} правилам и правилам Галбадии?{End}",
         "Source Text SHA256": "0C72C74273B1C79884FDF501DA0A480462607D7D97B5E5E32022B5BE6BD6E245",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -504,7 +504,7 @@
         }
       },
       "$en_bghall_1_0062": {
-        "Target": "{X10Y10}«Ого, я о таком{Line} правиле не слышал».{Next}«А давай сыграем по нашим{Line} правилам и правилам Трабии?»{End}",
+        "Target": "{X10Y10}Ого, я о таком{Line} правиле не слышал.{Next}А давай сыграем по нашим{Line} правилам и правилам Трабии?{End}",
         "Source Text SHA256": "6448EBA41E868C10FD1279CD18ADB8BB19E4D87391FE44E264D9FBD538919F5A",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -512,7 +512,7 @@
         }
       },
       "$en_bghall_1_0063": {
-        "Target": "{X10Y10}«Ого, я о таком{Line} правиле не слышал».{Next}«А давай сыграем по нашим{Line} правилам и правилам Центры?»{End}",
+        "Target": "{X10Y10}Ого, я о таком{Line} правиле не слышал.{Next}А давай сыграем по нашим{Line} правилам и правилам Центры?{End}",
         "Source Text SHA256": "C112A0FFB453D0EE20F103D412E7CCF6972C5E37789E3202CD529D3B093E1A97",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -520,7 +520,7 @@
         }
       },
       "$en_bghall_1_0064": {
-        "Target": "{X10Y10}«Ого, я о таком{Line} правиле не слышал».{Next}«А давай сыграем по нашим{Line} правилам и правилам Доллета?»{End}",
+        "Target": "{X10Y10}Ого, я о таком{Line} правиле не слышал.{Next}А давай сыграем по нашим{Line} правилам и правилам Доллета?{End}",
         "Source Text SHA256": "F8A753626522AAB08A8D80FEC60E8754B6A7C7DB037F05E102901C05FD1536E9",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -528,7 +528,7 @@
         }
       },
       "$en_bghall_1_0065": {
-        "Target": "{X10Y10}«Ого, я о таком{Line} правиле не слышал».{Next}«А давай сыграем по нашим{Line} правилам и правилам Рыбацкого Горизонта?»{End}",
+        "Target": "{X10Y10}Ого, я о таком{Line} правиле не слышал.{Next}А давай сыграем по нашим{Line} правилам и правилам Рыбацкого Горизонта?{End}",
         "Source Text SHA256": "2D487EC41270169E0F503E949188041C78AA8685D19CFCEBFEBB85FCE2EDAD0B",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -536,7 +536,7 @@
         }
       },
       "$en_bghall_1_0066": {
-        "Target": "{X10Y10}«Ого, я о таком{Line} правиле не слышал».{Next}«А давай сыграем по нашим{Line} правилам и правилам Лунной базы?»{End}",
+        "Target": "{X10Y10}Ого, я о таком{Line} правиле не слышал.{Next}А давай сыграем по нашим{Line} правилам и правилам Лунной базы?{End}",
         "Source Text SHA256": "57FCCBE2F025A562C5BE648FCEA45FE1C096B7AF006231A548DF2DD684F54298",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -544,7 +544,7 @@
         }
       },
       "$en_bghall_1_0067": {
-        "Target": "{X10Y10}«Ого, я о таком{Line} правиле не слышал».{Next}«А давай сыграем по нашим{Line} правилам и правилам Эстара?»{End}",
+        "Target": "{X10Y10}Ого, я о таком{Line} правиле не слышал.{Next}А давай сыграем по нашим{Line} правилам и правилам Эстара?{End}",
         "Source Text SHA256": "FC0075D6CAEC75B967957C653EA6A638CF9798E6BF333DB264062517AFDD9224",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -552,7 +552,7 @@
         }
       },
       "$en_bghall_1_0068": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Баламба».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Баламба.{End}",
         "Source Text SHA256": "16C49B79FCA7AE0629FBD283A446E37ECED1ED86950E9E933828C1AD5B446486",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -560,7 +560,7 @@
         }
       },
       "$en_bghall_1_0069": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Галбадии».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Галбадии.{End}",
         "Source Text SHA256": "E2263D8A110C219317E889A5C6A4A07801E21454AC5DD4E504CAA3F81850A6B9",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -568,7 +568,7 @@
         }
       },
       "$en_bghall_1_0070": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Трабии».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Трабии.{End}",
         "Source Text SHA256": "C61995AB6A829220CC9BB47281E029A2A54EBBCD0F7C7509E0F8B7A27AB5DEA0",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -576,7 +576,7 @@
         }
       },
       "$en_bghall_1_0071": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Центры».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Центры.{End}",
         "Source Text SHA256": "96CDC09BA28C5DB8033912CF27A0A5D0FEF6CA4BC506046089F2FA9A9D22C396",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -584,7 +584,7 @@
         }
       },
       "$en_bghall_1_0072": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Доллета».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Доллета.{End}",
         "Source Text SHA256": "5C54A6921CFED49D1AA7F71C6461C884F46E38C1F31C2F9521D2401D393897FA",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -592,7 +592,7 @@
         }
       },
       "$en_bghall_1_0073": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Рыбацкого Горизонта».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Рыбацкого Горизонта.{End}",
         "Source Text SHA256": "737810E5FAD5AFFF8B8FD019CD8BFA4C2FA6523751CA17F64C3BBAA4D9D29FCF",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -600,7 +600,7 @@
         }
       },
       "$en_bghall_1_0074": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Лунной базы».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Лунной базы.{End}",
         "Source Text SHA256": "0B34C99799A25DF25A14A2A7B7C856064EB03037D7349811D2F1E9A7BB0C057C",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -608,7 +608,7 @@
         }
       },
       "$en_bghall_1_0075": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Эстара».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Эстара.{End}",
         "Source Text SHA256": "0447062308DC199E26AABF3824DE7DE8EFF9B9B48C6796EE2BC3AF2ACADEA13E",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -616,7 +616,7 @@
         }
       },
       "$en_bghall_1_0076": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Баламба».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Баламба.{End}",
         "Source Text SHA256": "16C49B79FCA7AE0629FBD283A446E37ECED1ED86950E9E933828C1AD5B446486",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -624,7 +624,7 @@
         }
       },
       "$en_bghall_1_0077": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Галбадии».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Галбадии.{End}",
         "Source Text SHA256": "E2263D8A110C219317E889A5C6A4A07801E21454AC5DD4E504CAA3F81850A6B9",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -632,7 +632,7 @@
         }
       },
       "$en_bghall_1_0078": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Трабии».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Трабии.{End}",
         "Source Text SHA256": "C61995AB6A829220CC9BB47281E029A2A54EBBCD0F7C7509E0F8B7A27AB5DEA0",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -640,7 +640,7 @@
         }
       },
       "$en_bghall_1_0079": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Центры».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Центры.{End}",
         "Source Text SHA256": "96CDC09BA28C5DB8033912CF27A0A5D0FEF6CA4BC506046089F2FA9A9D22C396",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -648,7 +648,7 @@
         }
       },
       "$en_bghall_1_0080": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Доллета».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Доллета.{End}",
         "Source Text SHA256": "5C54A6921CFED49D1AA7F71C6461C884F46E38C1F31C2F9521D2401D393897FA",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -656,7 +656,7 @@
         }
       },
       "$en_bghall_1_0081": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Рыбацкого Горизонта».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Рыбацкого Горизонта.{End}",
         "Source Text SHA256": "737810E5FAD5AFFF8B8FD019CD8BFA4C2FA6523751CA17F64C3BBAA4D9D29FCF",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -664,7 +664,7 @@
         }
       },
       "$en_bghall_1_0082": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Лунной базы».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Лунной базы.{End}",
         "Source Text SHA256": "0B34C99799A25DF25A14A2A7B7C856064EB03037D7349811D2F1E9A7BB0C057C",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -672,7 +672,7 @@
         }
       },
       "$en_bghall_1_0083": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line} по которым здесь не играют».{Next}«Давай сыграем по нашим{Line} правилам и правилам Эстара».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line} по которым здесь не играют.{Next}Давай сыграем по нашим{Line} правилам и правилам Эстара.{End}",
         "Source Text SHA256": "0447062308DC199E26AABF3824DE7DE8EFF9B9B48C6796EE2BC3AF2ACADEA13E",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -936,7 +936,7 @@
         }
       },
       "$en_bghall_1_0102": {
-        "Target": "«Баламб»{End}",
+        "Target": "Баламб{End}",
         "Source Text SHA256": "588E5A0C901DA9573BBFBCBC7DFC0417D41958591E7B88A88BE8260A8E72379B",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -944,7 +944,7 @@
         }
       },
       "$en_bghall_1_0103": {
-        "Target": "«Галбадия»{End}",
+        "Target": "Галбадия{End}",
         "Source Text SHA256": "4D3C586BCEB5E371907A5F6EF7CFEA49ED7E228761C4D6C6E42B341B9AF030A2",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -952,7 +952,7 @@
         }
       },
       "$en_bghall_1_0104": {
-        "Target": "«Трабия»{End}",
+        "Target": "Трабия{End}",
         "Source Text SHA256": "F6AD33B6D709C41DF449BD5FFB8E0DE328B2BA50FE0976CC8D226CAD719E3C55",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -960,7 +960,7 @@
         }
       },
       "$en_bghall_1_0105": {
-        "Target": "«Центра»{End}",
+        "Target": "Центра{End}",
         "Source Text SHA256": "CF88B33D26A1274D2E43EFA6F5EB9FC39F62B83DE681E3D4D1C0DA4C44AED747",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -968,7 +968,7 @@
         }
       },
       "$en_bghall_1_0106": {
-        "Target": "«Доллет»{End}",
+        "Target": "Доллет{End}",
         "Source Text SHA256": "B0ABB598561F8B0A690C33A749348FF34C27B05031641DC0A66285D736143E59",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -976,7 +976,7 @@
         }
       },
       "$en_bghall_1_0107": {
-        "Target": "«Рыбацкий Горизонт»{End}",
+        "Target": "Рыбацкий Горизонт{End}",
         "Source Text SHA256": "2CE7A7E41CEA6D112918B92A84ED4C3195F3342F0C9D114A838BDD76353A7B2D",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -984,7 +984,7 @@
         }
       },
       "$en_bghall_1_0108": {
-        "Target": "«Космос»{End}",
+        "Target": "Космос{End}",
         "Source Text SHA256": "494A140341883E273AA25D85038D3EAFC0706017246757CDCB6851E1A35607C2",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -992,7 +992,7 @@
         }
       },
       "$en_bghall_1_0109": {
-        "Target": "«Эстар»{End}",
+        "Target": "Эстар{End}",
         "Source Text SHA256": "FDFFD6B74CF8BA356D3DEF39577EB22D67E187554B864637C9ABCECA5C0789B3",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",
@@ -1000,7 +1000,7 @@
         }
       },
       "$en_bghall_1_0110": {
-        "Target": "«Без дополнительных правил»{End}",
+        "Target": "Без дополнительных правил{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "DBF00A45D020153AB4FE82F8AAF512F2610B421B271F3B95D47C824F75157198",

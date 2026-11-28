@@ -2,7 +2,7 @@
   "Fields": {
     "ebroad41": {
       "$en_ebroad41_0000": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«Что?!»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}Что?!{End}",
         "Source Text SHA256": "6A633B6F1A4890DECD803EA357F92ADED221E3F097A1794BB48608AF7FF0AB95",
         "sourceContext": {
           "Source MSD SHA256": "74BBA4426EF723876E2D37C67242F567987CC0D034217FAE6295E543C6E49632",
@@ -10,7 +10,7 @@
         }
       },
       "$en_ebroad41_0001": {
-        "Target": "{X150Y20}{Char Laguna}{Line}«Кх-х...?!»{End}",
+        "Target": "{X150Y20}{Char Laguna}{Line}Кх-х...?!{End}",
         "Source Text SHA256": "872FEBEF4F7B4F348660C9836DA32D730ECAA86D06FCE5A2812E702FED001148",
         "sourceContext": {
           "Source MSD SHA256": "74BBA4426EF723876E2D37C67242F567987CC0D034217FAE6295E543C6E49632",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ebroad41_0002": {
-        "Target": "{X20Y150}Солдат Эстара{Line}«......?!»{End}",
+        "Target": "{X20Y150}Солдат Эстара{Line}......?!{End}",
         "Source Text SHA256": "9FD66279B93208E87964671FDE9FB4FAF9C37B826783739465E4D1E4B333C825",
         "sourceContext": {
           "Source MSD SHA256": "74BBA4426EF723876E2D37C67242F567987CC0D034217FAE6295E543C6E49632",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ebroad41_0003": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«Это было опасно...»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}Это было опасно...{End}",
         "Source Text SHA256": "A0CB93B09987AECC66D2830247BE29CF599647B6EBE34F9CB13D13F1AB3FCAC4",
         "sourceContext": {
           "Source MSD SHA256": "74BBA4426EF723876E2D37C67242F567987CC0D034217FAE6295E543C6E49632",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ebroad41_0004": {
-        "Target": "{X180Y150}{Char Ward}{Line}«Чёрт... Тебя разве мама в детстве{Line} не учила не трогать всё подряд?»{End}",
+        "Target": "{X180Y150}{Char Ward}{Line}Чёрт... Тебя разве мама в детстве{Line} не учила не трогать всё подряд?{End}",
         "Source Text SHA256": "15C9B1184487897A7588A403DC3FFFA900E4DA6EEFF8F0481F9368E8F59DC0B5",
         "sourceContext": {
           "Source MSD SHA256": "74BBA4426EF723876E2D37C67242F567987CC0D034217FAE6295E543C6E49632",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ebroad41_0005": {
-        "Target": "{X150Y20}{Char Kiros}{Line}«Остынь...» {Pause 48}{End}",
+        "Target": "{X150Y20}{Char Kiros}{Line}Остынь... {Pause 48}{End}",
         "Source Text SHA256": "B8386ACB2EDEFE496653D4A8A0011CA2ABBB3DE4CED17989402BE93AF1330B45",
         "sourceContext": {
           "Source MSD SHA256": "74BBA4426EF723876E2D37C67242F567987CC0D034217FAE6295E543C6E49632",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ebroad41_0006": {
-        "Target": "{X20Y20}{Char Laguna}{Line}«ГОВОРИТЕ, ЧТО ХОТИТЕ!!!{Next}Благодаря МНЕ, мы избавились и от камня и от эстарских солдат.{Next}Это словно убить двух свиней одним ударом. Я такой крутой... Говорил же, что я гений...»{End}",
+        "Target": "{X20Y20}{Char Laguna}{Line}ГОВОРИТЕ, ЧТО ХОТИТЕ!!!{Next}Благодаря МНЕ, мы избавились и от камня и от эстарских солдат.{Next}Это словно убить двух свиней одним ударом. Я такой крутой... Говорил же, что я гений...{End}",
         "Source Text SHA256": "08AA2D211E1EDCA9742553334ED3E75808B7C1F232DDDE53AA77CFF76AD151E1",
         "sourceContext": {
           "Source MSD SHA256": "74BBA4426EF723876E2D37C67242F567987CC0D034217FAE6295E543C6E49632",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ebroad41_0007": {
-        "Target": "{X180Y150}{Char Ward}{Line}«Свиней?..»{End}",
+        "Target": "{X180Y150}{Char Ward}{Line}Свиней?..{End}",
         "Source Text SHA256": "B0FDCA3AAABDF512DE7D0A30FBA1FDDE17675C8BCDD6B2CF65DE5F0C8D0FF8FF",
         "sourceContext": {
           "Source MSD SHA256": "74BBA4426EF723876E2D37C67242F567987CC0D034217FAE6295E543C6E49632",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ebroad41_0008": {
-        "Target": "{X150Y20}{Char Kiros}{Line}«Может, ты хотел сказать... зайцев?»{End}",
+        "Target": "{X150Y20}{Char Kiros}{Line}Может, ты хотел сказать... зайцев?{End}",
         "Source Text SHA256": "D268D93D190CC13C7FEB93B7913870FF2AE81CF7862FB57522B4EBB5C7ACF3C0",
         "sourceContext": {
           "Source MSD SHA256": "74BBA4426EF723876E2D37C67242F567987CC0D034217FAE6295E543C6E49632",

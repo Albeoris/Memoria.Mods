@@ -10,7 +10,7 @@
         }
       },
       "$en_ephall2_0001": {
-        "Target": "{X150Y50}Секретарь президента{Line}«Когда же президент успел{Line}собрать всё это?...»{End}",
+        "Target": "{X150Y50}Секретарь президента{Line}Когда же президент успел{Line}собрать всё это?...{End}",
         "Source Text SHA256": "2C15187A00CEDFD337EA1972C851D5E2DD57405189D9633FEF53060AD07A1442",
         "sourceContext": {
           "Source MSD SHA256": "E7ABE286AA5F9BC4EAD5B446BA06D2ED9DB68A2FDD5E9D92B02B6E9B3BEEF2A0",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ephall2_0002": {
-        "Target": "{X150Y50}«Ох ты...{Line}Он заказывал книги{Line}со всего света».{Next}«И куда их теперь девать?..»{End}",
+        "Target": "{X150Y50}Ох ты...{Line}Он заказывал книги{Line}со всего света.{Next}И куда их теперь девать?..{End}",
         "Source Text SHA256": "CE12E96E0E40FB3516BA9AD245072BAC85A17187A0ADD28274CA599336F60C4A",
         "sourceContext": {
           "Source MSD SHA256": "E7ABE286AA5F9BC4EAD5B446BA06D2ED9DB68A2FDD5E9D92B02B6E9B3BEEF2A0",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ephall2_0003": {
-        "Target": "Секретарь президента{Line}«Ну и ладно...»{End}",
+        "Target": "Секретарь президента{Line}Ну и ладно...{End}",
         "Source Text SHA256": "B1EB934A6C7C4C6339B741C23927A91AF1D7276A45B7267700B91914A3342D3B",
         "sourceContext": {
           "Source MSD SHA256": "E7ABE286AA5F9BC4EAD5B446BA06D2ED9DB68A2FDD5E9D92B02B6E9B3BEEF2A0",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ephall2_0005": {
-        "Target": "{X100Y50}Секретарь президента{Line}«Какой ужас...»{End}",
+        "Target": "{X100Y50}Секретарь президента{Line}Какой ужас...{End}",
         "Source Text SHA256": "A51CDCEC16A8BA3BB06168B0FB789F1B0E3E0E2D600F85EF3C71F18297F4D87B",
         "sourceContext": {
           "Source MSD SHA256": "E7ABE286AA5F9BC4EAD5B446BA06D2ED9DB68A2FDD5E9D92B02B6E9B3BEEF2A0",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ephall2_0006": {
-        "Target": "{X100Y50}Секретарь президента{Line}«Неужели город... уже не будет прежним?»{End}",
+        "Target": "{X100Y50}Секретарь президента{Line}Неужели город... уже не будет прежним?{End}",
         "Source Text SHA256": "81C0C61C4F40264DFEA5C0652052B9EF304B7B15D2820CFA498F97C947A422B9",
         "sourceContext": {
           "Source MSD SHA256": "E7ABE286AA5F9BC4EAD5B446BA06D2ED9DB68A2FDD5E9D92B02B6E9B3BEEF2A0",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ephall2_0007": {
-        "Target": "{X100Y50}Секретарь президента{Line}«У вас есть разрешение. Прошу, сюда».{End}",
+        "Target": "{X100Y50}Секретарь президента{Line}У вас есть разрешение. Прошу, сюда.{End}",
         "Source Text SHA256": "E8AEB2491C585E85FEB281C7A4164C5E0582C7FADEBDB59E8F4B3659082C1947",
         "sourceContext": {
           "Source MSD SHA256": "E7ABE286AA5F9BC4EAD5B446BA06D2ED9DB68A2FDD5E9D92B02B6E9B3BEEF2A0",

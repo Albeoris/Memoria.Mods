@@ -2,7 +2,7 @@
   "Fields": {
     "dotown2a": {
       "$en_dotown2a_0000": {
-        "Target": "{X100Y20}«Он опоздал... Я сказала ему встретить меня перед баром.{Next}Что же он так долго?»{End}",
+        "Target": "{X100Y20}Он опоздал... Я сказала ему встретить меня перед баром.{Next}Что же он так долго?{End}",
         "Source Text SHA256": "E194340DBDF56D9FAB6B37B6B1B2CEA3928B77BE3B23B891B8A27858E8273CA6",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -10,7 +10,7 @@
         }
       },
       "$en_dotown2a_0001": {
-        "Target": "{X100Y20}«Мой милый такой нетерпеливый и вспыльчивый…{Line} Но ах, до чего же он хорош…»{End}",
+        "Target": "{X100Y20}Мой милый такой нетерпеливый и вспыльчивый…{Line} Но ах, до чего же он хорош…{End}",
         "Source Text SHA256": "86924228C51346215D418C0BA819B52D414DBCCAA5AA0BF8B0C50E1852482419",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -18,7 +18,7 @@
         }
       },
       "$en_dotown2a_0002": {
-        "Target": "{X100Y20}«Ах, милый…{Line} …(краснеет)»{End}",
+        "Target": "{X100Y20}Ах, милый…{Line} …(краснеет){End}",
         "Source Text SHA256": "C5DAE0AA79BB719A8FBA0526DD4F6B1005BCF9A5C9008DE666C1330B019A7EA3",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -26,7 +26,7 @@
         }
       },
       "$en_dotown2a_0003": {
-        "Target": "{X100Y20}«Привет сладенькая!{Line} Прости, что заставил тебя ждать».{End}",
+        "Target": "{X100Y20}Привет сладенькая!{Line} Прости, что заставил тебя ждать.{End}",
         "Source Text SHA256": "198BA8FDC4BED86203EA6AE234F2ED142F8C9B279D77D0D65021E07EF89C4A9B",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -34,7 +34,7 @@
         }
       },
       "$en_dotown2a_0004": {
-        "Target": "{X100Y20}«А я и не ждала{Line} вовсе... дорогой...»{End}",
+        "Target": "{X100Y20}А я и не ждала{Line} вовсе... дорогой...{End}",
         "Source Text SHA256": "4879D4064C11165C14F1B319A4663B31CAF67BC24B6590DC50243D38F7D1D826",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -42,7 +42,7 @@
         }
       },
       "$en_dotown2a_0005": {
-        "Target": "{X20Y20}{Char Squall}{Line}«…?{Line} Белая кость».{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}…?{Line} Белая кость.{End}",
         "Source Text SHA256": "7B76145D73B7670D56D70FE080E134960F79FD2F84B25DC24370C84E59FF32EF",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -50,7 +50,7 @@
         }
       },
       "$en_dotown2a_0006": {
-        "Target": "{X20Y20F2L3B2C3}{Char Squall}{Line}«Под ней, кажется, что-то есть…»{Line}Посмотреть{Line}Не смотреть{End}",
+        "Target": "{X20Y20F2L3B2C3}{Char Squall}{Line}Под ней, кажется, что-то есть…{Line}Посмотреть{Line}Не смотреть{End}",
         "Source Text SHA256": "0BF96FD7902FA839CD7B6A5476CFE5A3AA1B5719118848951D0A2A88D3F99B12",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -74,7 +74,7 @@
         }
       },
       "$en_dotown2a_0009": {
-        "Target": "{X10Y10F1L2B1C2}«…Сыграем в карты?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}…Сыграем в карты?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "9EA169174587C901D65FB4BF6EDA75D9089E3F8609D8CD62F08DA2398264D436",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -82,7 +82,7 @@
         }
       },
       "$en_dotown2a_0010": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Баламба и нашим».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Баламба и нашим.{End}",
         "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -90,7 +90,7 @@
         }
       },
       "$en_dotown2a_0011": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим.{End}",
         "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -98,7 +98,7 @@
         }
       },
       "$en_dotown2a_0012": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Трабии и нашим».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Трабии и нашим.{End}",
         "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -106,7 +106,7 @@
         }
       },
       "$en_dotown2a_0013": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Центры и нашим».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Центры и нашим.{End}",
         "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -114,7 +114,7 @@
         }
       },
       "$en_dotown2a_0014": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Доллета и нашим».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Доллета и нашим.{End}",
         "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -122,7 +122,7 @@
         }
       },
       "$en_dotown2a_0015": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}ГР и нашим».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}ГР и нашим.{End}",
         "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -130,7 +130,7 @@
         }
       },
       "$en_dotown2a_0016": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Луны и нашим».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Луны и нашим.{End}",
         "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",
@@ -138,7 +138,7 @@
         }
       },
       "$en_dotown2a_0017": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Эстара и нашим».{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Давай сыграем по правилам{Line}Эстара и нашим.{End}",
         "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
         "sourceContext": {
           "Source MSD SHA256": "725136327237B2D4DC7D8617669E456E26BC6440D95246ED714765C51BDAE87E",

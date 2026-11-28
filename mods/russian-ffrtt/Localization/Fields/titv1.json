@@ -2,7 +2,7 @@
   "Fields": {
     "titv1": {
       "$en_titv1_0000": {
-        "Target": "{X20Y20}{Char Selphie}{Line}«Эээй, наружный телевизор!»{End}",
+        "Target": "{X20Y20}{Char Selphie}{Line}Эээй, наружный телевизор!{End}",
         "Source Text SHA256": "A7AFBB81CF0784CE09F7F55C58950CDE6C2A1613F281F832ECFD67651D01807A",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -10,7 +10,7 @@
         }
       },
       "$en_titv1_0001": {
-        "Target": "{X20Y20}{Char Zell}{Line}«Ух ты, наружный телевизор!»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}Ух ты, наружный телевизор!{End}",
         "Source Text SHA256": "58BFC958EAEB4CBB4BBC280D28E718F377184402877B3E0C831C3160F245518C",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -26,7 +26,7 @@
         }
       },
       "$en_titv1_0003": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Жутковато... Что{Line} это?»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Жутковато... Что{Line} это?{End}",
         "Source Text SHA256": "C33A89EFE873289E032DBFB976694ADB89D19E89E437B372E42BB4BCB44AA329",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -34,7 +34,7 @@
         }
       },
       "$en_titv1_0004": {
-        "Target": "{X20Y155}{Char Squall}{Line}«Этот шум передаётся на{Line} большинстве частот.{Next}С этим надо будет что-то сделать,{Line} прежде чем они смогут начать эфир».{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}Этот шум передаётся на{Line} большинстве частот.{Next}С этим надо будет что-то сделать,{Line} прежде чем они смогут начать эфир.{End}",
         "Source Text SHA256": "E1071B537D449B21B456574C7436D9EEF56AA10A3B4D5B52C0AE80A03F89AC07",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -42,7 +42,7 @@
         }
       },
       "$en_titv1_0005": {
-        "Target": "{X20Y20}{Char Selphie}{Line}«Это точно!»{End}",
+        "Target": "{X20Y20}{Char Selphie}{Line}Это точно!{End}",
         "Source Text SHA256": "3CFFD2DEAC8D54E58069FB79D5B369847E3FDC6FBBACB755CC0EB745738193B1",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -50,7 +50,7 @@
         }
       },
       "$en_titv1_0006": {
-        "Target": "{X20Y20}{Char Zell}{Line}«Что,{Line} правда? Это было бы круто».{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}Что,{Line} правда? Это было бы круто.{End}",
         "Source Text SHA256": "B2BBC0773C44AE9B9DD53B5E15BC44176155F6B571FCF4D996A0FCE5EC406F46",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -58,7 +58,7 @@
         }
       },
       "$en_titv1_0007": {
-        "Target": "{X150Y20}Уоттс{Line}«Президент сейчас в студии, сэр.{Next}Охраны слишком много, так что мы не сможем взять это место штурмом, сэр!»{End}",
+        "Target": "{X150Y20}Уоттс{Line}Президент сейчас в студии, сэр.{Next}Охраны слишком много, так что мы не сможем взять это место штурмом, сэр!{End}",
         "Source Text SHA256": "9A6D04C6A09737F7F859580FA97D1B1EAC40C1C383BDE6FDFAF35396326DCB52",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -66,7 +66,7 @@
         }
       },
       "$en_titv1_0008": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Значит, мы не можем просто ворваться туда...»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Значит, мы не можем просто ворваться туда...{End}",
         "Source Text SHA256": "B7C7A7E8F5AB1FD9DF1A1D6BF7C9B9F1B1C392A0F6C64798A204CE9868A2C7A5",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -74,7 +74,7 @@
         }
       },
       "$en_titv1_0009": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Мы должны немедленно придумать новый план!»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Мы должны немедленно придумать новый план!{End}",
         "Source Text SHA256": "629DE1AFD90FE43ED4807AAD5A5EADB2A82D8BF1D45847DF69500AB23675818E",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -82,7 +82,7 @@
         }
       },
       "$en_titv1_0010": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Если президент уйдёт, может и{Line} охрана тоже разойдётся?{Next}Тогда мы и начнём НАШЕ вещание. Может, оно и{Line} не будет таким же убедительным, но{Line} это ведь лучше чем ничего, верно?»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Если президент уйдёт, может и{Line} охрана тоже разойдётся?{Next}Тогда мы и начнём НАШЕ вещание. Может, оно и{Line} не будет таким же убедительным, но{Line} это ведь лучше чем ничего, верно?{End}",
         "Source Text SHA256": "39BA8065207C6942ECE5FD943B531C0E8E7EB328B87F8666EC3D0F2D1A8BA4E8",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -90,7 +90,7 @@
         }
       },
       "$en_titv1_0011": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«У нас не будет шансов, если мы пойдём напролом.{Line} У нас ведь нет шансов, если мы пойдём напролом, верно?»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}У нас не будет шансов, если мы пойдём напролом.{Line} У нас ведь нет шансов, если мы пойдём напролом, верно?{End}",
         "Source Text SHA256": "7509C6A0CCD9AC2B103BEF32875B49040F18C33250AACABACC785AEFB3F3F5D4",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -98,7 +98,7 @@
         }
       },
       "$en_titv1_0012": {
-        "Target": "{X20Y155}{Char Squall}{Line}«О нас не волнуйся».{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}О нас не волнуйся.{End}",
         "Source Text SHA256": "D92F7F1D8B8B07671E86D49B60FD77734F7C2B18EF9307CE3D805F2E31399689",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -106,7 +106,7 @@
         }
       },
       "$en_titv1_0013": {
-        "Target": "{X20Y155}{Char Squall}{Line}«Мы будем драться с врагами по{Line} твоему приказу».{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}Мы будем драться с врагами по{Line} твоему приказу.{End}",
         "Source Text SHA256": "A42E11E1EB8C8947C1E8143099B3FCB6C0B02847DAE137E97B9976522E0BC7C5",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -114,7 +114,7 @@
         }
       },
       "$en_titv1_0014": {
-        "Target": "{X20Y155}{Char Squall}{Line}«Это наша работа».{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}Это наша работа.{End}",
         "Source Text SHA256": "AE77C869CC75EAD5AD366DF2A19BA15A5E17393B7B46ECD0E685D2BE6DAFEE8A",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -122,7 +122,7 @@
         }
       },
       "$en_titv1_0015": {
-        "Target": "{X20Y20}{Char Zell}{Line}«Ты говоришь нам идти, мы идём.{Next}Даже если это будет самоубийством».{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}Ты говоришь нам идти, мы идём.{Next}Даже если это будет самоубийством.{End}",
         "Source Text SHA256": "6E037D7C30D584EC7370D7F8822F5DFD8D83194AEFB69E65DA701827C30970CC",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -130,7 +130,7 @@
         }
       },
       "$en_titv1_0016": {
-        "Target": "{X20Y20}{Char Selphie}{Line}«Эээй, я тоже Сид.{Line} Просто хочу, чтобы вы знали,{Line} я готова к чему угодно».{End}",
+        "Target": "{X20Y20}{Char Selphie}{Line}Эээй, я тоже Сид.{Line} Просто хочу, чтобы вы знали,{Line} я готова к чему угодно.{End}",
         "Source Text SHA256": "DDFE2EACB5D8F8D6D67B48C18B81E38DE47332BB11D6565D53C58304B4F7B9FE",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -138,7 +138,7 @@
         }
       },
       "$en_titv1_0017": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Как печально...»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Как печально...{End}",
         "Source Text SHA256": "D5BCF248A012D01A28B7F53492C61A3B6BFDB27E3313034670F1E86033E9F38B",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -146,7 +146,7 @@
         }
       },
       "$en_titv1_0018": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Действовать по моему приказу?{Line} Это ваша работа?»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Действовать по моему приказу?{Line} Это ваша работа?{End}",
         "Source Text SHA256": "E4B9DAE5688D79ECC92961675AACE61F132FF00952D339F1BFC0AD4344DD0263",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -154,7 +154,7 @@
         }
       },
       "$en_titv1_0019": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Какой лёгкой была бы жизнь, если бы в{Line} ней надо было только выполнять приказы...»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Какой лёгкой была бы жизнь, если бы в{Line} ней надо было только выполнять приказы...{End}",
         "Source Text SHA256": "D7DE864D0DC8DA51431F04E7E53B017E0D25A21090CBE963962E4DB96B5955A2",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -162,7 +162,7 @@
         }
       },
       "$en_titv1_0020": {
-        "Target": "{X20Y155}{Char Squall}{Line}«Называй это как хочешь.{Next}Мы всего лишь хотим, чтобы ты достигнула своей цели, используя нашу помощь».{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}Называй это как хочешь.{Next}Мы всего лишь хотим, чтобы ты достигнула своей цели, используя нашу помощь.{End}",
         "Source Text SHA256": "04FE50B54E2CBEE3C53DD360DBB44AE57A80CACDB16C061FD0E6B81A7198D2A6",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -170,7 +170,7 @@
         }
       },
       "$en_titv1_0021": {
-        "Target": "{X20Y155}{Char Squall}{Line}«Хотя я с трудом верю, что{Line} ты сможешь это сделать...»{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}Хотя я с трудом верю, что{Line} ты сможешь это сделать...{End}",
         "Source Text SHA256": "33F3075065D1E1D4A84BAF09792D2EBA73D1C8DB4E73734DD3971AC6C64F2D92",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -178,7 +178,7 @@
         }
       },
       "$en_titv1_0022": {
-        "Target": "{X20Y20F3L4B3C4}{Char Rinoa}{Line}«Ч-что ты сказал?!{Line} Если тебе есть что сказать, просто скажи!»{Line}Да, я скажу тебе{Line}Забудь{End}",
+        "Target": "{X20Y20F3L4B3C4}{Char Rinoa}{Line}Ч-что ты сказал?!{Line} Если тебе есть что сказать, просто скажи!{Line}Да, я скажу тебе{Line}Забудь{End}",
         "Source Text SHA256": "5BD9626B372C4486EDB49ECFB1FD0C8E19E44A1727B55715DEB77B46D8A5EF4C",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -186,7 +186,7 @@
         }
       },
       "$en_titv1_0023": {
-        "Target": "{X20Y155}{Char Squall}{Line}«Сказать насколько вы серьёзны?.. В{Line} самом деле?..»{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}Сказать насколько вы серьёзны?.. В{Line} самом деле?..{End}",
         "Source Text SHA256": "086065FEDFBFC8194B3621995428185D9DFC4A32C3CCE095584C42AB9EAA0090",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -194,7 +194,7 @@
         }
       },
       "$en_titv1_0024": {
-        "Target": "{X20Y155}{Char Squall}{Line}«Вы садитесь в кружок, чтобы{Line} обсудить стратегию.{Next}Но ты не можешь принять решение{Line} без нашей помощи, верно?»{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}Вы садитесь в кружок, чтобы{Line} обсудить стратегию.{Next}Но ты не можешь принять решение{Line} без нашей помощи, верно?{End}",
         "Source Text SHA256": "3AE9BEC7A3750CD8F7D3CE2CA404773F5183B05DEC029C80F18AA18E4E4825F6",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -202,7 +202,7 @@
         }
       },
       "$en_titv1_0025": {
-        "Target": "{X20Y155}{Char Squall}{Line}«Как, по-твоему, мы себя{Line} чувствуем, работая на такую организацию?»{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}Как, по-твоему, мы себя{Line} чувствуем, работая на такую организацию?{End}",
         "Source Text SHA256": "637C8ABAAC56C47D2A114C3FF223673B1E7E6CFAC1AD9C1A414BA87DCE82948C",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -210,7 +210,7 @@
         }
       },
       "$en_titv1_0026": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Ты сам начал. Тебе и заканчивать.{Line} Скажи, что{Line} у тебя на уме?»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Ты сам начал. Тебе и заканчивать.{Line} Скажи, что{Line} у тебя на уме?{End}",
         "Source Text SHA256": "6E8F1263AC0C6307022D698D42FAFAEFB4EE373AF34444D5BC51F51F960D0AB2",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -218,7 +218,7 @@
         }
       },
       "$en_titv1_0027": {
-        "Target": "{X20Y155}{Char Squall}{Line}«...Просто забудь об этом».{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}...Просто забудь об этом.{End}",
         "Source Text SHA256": "64A354CE01C7BB6256296F8475018F1D18C94466A29AE12D75A7BF603057ABB2",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -226,7 +226,7 @@
         }
       },
       "$en_titv1_0028": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«...Скажи мне.{Next}Это приказ. Приказ твоего клиента!»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}...Скажи мне.{Next}Это приказ. Приказ твоего клиента!{End}",
         "Source Text SHA256": "7669E13E8C6B0DBF85BF47D9FF58B3942FEC4B6FBD55900BED10A3E9F665C840",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -234,7 +234,7 @@
         }
       },
       "$en_titv1_0029": {
-        "Target": "{X20Y20F2L3B2C3}{Char Selphie}{Line}«(Ты немного перегибаешь палку.)»{Line}...Думаю, я выскажусь до конца{Line}Просто закончим на этом{End}",
+        "Target": "{X20Y20F2L3B2C3}{Char Selphie}{Line}(Ты немного перегибаешь палку.){Line}...Думаю, я выскажусь до конца{Line}Просто закончим на этом{End}",
         "Source Text SHA256": "E3E03D6D0F8357729C617C69660BF9BDAB3585BB6D1BE866982B124D6D0B9C36",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -242,7 +242,7 @@
         }
       },
       "$en_titv1_0030": {
-        "Target": "{X20Y20F2L3B2C3}{Char Zell}{Line}«(Ты перегибаешь палку, парень.)»{Line}…Пожалуй, я сглажу углы{Line}Оставим всё как есть{End}",
+        "Target": "{X20Y20F2L3B2C3}{Char Zell}{Line}(Ты перегибаешь палку, парень.){Line}…Пожалуй, я сглажу углы{Line}Оставим всё как есть{End}",
         "Source Text SHA256": "3A1FCD0013477B390C72DD6583B770DFA404660448D7C19F0F8457DC286684E0",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -250,7 +250,7 @@
         }
       },
       "$en_titv1_0031": {
-        "Target": "{X20Y155}{Char Squall}{Line}«...Прости.{Line} Думаю, я немного увлёкся».{End}",
+        "Target": "{X20Y155}{Char Squall}{Line}...Прости.{Line} Думаю, я немного увлёкся.{End}",
         "Source Text SHA256": "35BC0EA7E44BDED734E7E9110FA3DEC5B135DF2DA253BE26DC408E1A50767D2E",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -258,7 +258,7 @@
         }
       },
       "$en_titv1_0032": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Знаешь...»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Знаешь...{End}",
         "Source Text SHA256": "11761CC1FC8CF7B5631D8E4B4B845E3A3F33FEA91832C57E84AEA5300C4D63EA",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -266,7 +266,7 @@
         }
       },
       "$en_titv1_0033": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Может всё это было большой ошибкой.{Next}Я думала, всё получится, как только сиды придут нам на помощь».{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Может всё это было большой ошибкой.{Next}Я думала, всё получится, как только сиды придут нам на помощь.{End}",
         "Source Text SHA256": "6BCC6E10F2588976A0DE05CEDE66A5731C1B865EFC09B3CA67A8E748D06DBEF6",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -274,7 +274,7 @@
         }
       },
       "$en_titv1_0034": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Но, полагаю это не так-то просто.{Next}Вас наняли. Это не то же самое, что быть одним из нас».{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Но, полагаю это не так-то просто.{Next}Вас наняли. Это не то же самое, что быть одним из нас.{End}",
         "Source Text SHA256": "5074390E2F396B4FC3BEF8988350194C88DC8E68A004A46963A365D00751FEA1",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -282,7 +282,7 @@
         }
       },
       "$en_titv1_0035": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Давайте просто отменим план{Line} и разойдёмся».{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Давайте просто отменим план{Line} и разойдёмся.{End}",
         "Source Text SHA256": "B0FBF611B1795DFC33DF64E040C0C2431E549BDDE1F22AB34D021499C46FCC4B",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -290,7 +290,7 @@
         }
       },
       "$en_titv1_0036": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Значит... вы ребята думаете, что для{Line} нас это всего лишь игра».{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Значит... вы ребята думаете, что для{Line} нас это всего лишь игра.{End}",
         "Source Text SHA256": "89BE844DBE73AEED9DF5B388ADEA0C0CD91C2237550694BC638E2A64FB8937B9",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -298,7 +298,7 @@
         }
       },
       "$en_titv1_0037": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«...Что ж, это не так!»{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}...Что ж, это не так!{End}",
         "Source Text SHA256": "B9DCAECBEB487C8DB3A8C994FDB8DE8A4E8DC16A3E5987D449B6D19D7BBCB8E4",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -306,7 +306,7 @@
         }
       },
       "$en_titv1_0038": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Мы настроены серьёзно».{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Мы настроены серьёзно.{End}",
         "Source Text SHA256": "DA8CF0B53B270FB88A91F56B411B7559E8E8F4C4745D2C69EF7D5C62605D4B1A",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -314,7 +314,7 @@
         }
       },
       "$en_titv1_0039": {
-        "Target": "{X150Y155}{Char Rinoa}{Line}«Настолько серьёзно... что это больно».{End}",
+        "Target": "{X150Y155}{Char Rinoa}{Line}Настолько серьёзно... что это больно.{End}",
         "Source Text SHA256": "4B80896F62661C213DB71EA41378EDD418CA042E6A4988B8D75D4AF288E1F3DA",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -322,7 +322,7 @@
         }
       },
       "$en_titv1_0040": {
-        "Target": "{X20Y20}{Char Selphie}{Line}«...Эээй?»{End}",
+        "Target": "{X20Y20}{Char Selphie}{Line}...Эээй?{End}",
         "Source Text SHA256": "4E0472704C2633018DC33D14E7604537E751755A899F272BDDACCC38AA6CBB84",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -330,7 +330,7 @@
         }
       },
       "$en_titv1_0041": {
-        "Target": "{X20Y20}{Char Zell}{Line}«...А?»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}...А?{End}",
         "Source Text SHA256": "16699214E65444F6273A41DAB6DBA21A6C340300D88953CD06105B07C17FD615",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -338,7 +338,7 @@
         }
       },
       "$en_titv1_0042": {
-        "Target": "{X20Y20}{Char Selphie}{Line}«Они начинают?»{End}",
+        "Target": "{X20Y20}{Char Selphie}{Line}Они начинают?{End}",
         "Source Text SHA256": "2E2345FBCB08D3B6081C332012BF326B34CD2A714224C8800FCFEEA559041CB5",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -346,7 +346,7 @@
         }
       },
       "$en_titv1_0043": {
-        "Target": "{X20Y20}{Char Zell}{Line}«Они начинают?»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}Они начинают?{End}",
         "Source Text SHA256": "ECA1C09C90151CDE736E4277F1502595DBF0AE3AFF282449317FE999AACB59F3",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -354,7 +354,7 @@
         }
       },
       "$en_titv1_0044": {
-        "Target": "{Char Zell}{Line}«{Char Squall}?!!?»{End}",
+        "Target": "{Char Zell}{Line}{Char Squall}?!!?{End}",
         "Source Text SHA256": "B3330F3F5336446787B59A61D282EAF9F651AACB738BEF5DF5EA8603DCC38356",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -362,7 +362,7 @@
         }
       },
       "$en_titv1_0044_ctx_5779de11856947ec": {
-        "Target": "{X20Y20}{Char Zell}{Line}«{Char Squall}!?»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}{Char Squall}!?{End}",
         "Source Text SHA256": "B3330F3F5336446787B59A61D282EAF9F651AACB738BEF5DF5EA8603DCC38356",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -370,7 +370,7 @@
         }
       },
       "$en_titv1_0044_ctx_9cb440464aa239bb": {
-        "Target": "{X150Y20}{Char Zell}{Line}«{Char Squall}!?»{End}",
+        "Target": "{X150Y20}{Char Zell}{Line}{Char Squall}!?{End}",
         "Source Text SHA256": "B3330F3F5336446787B59A61D282EAF9F651AACB738BEF5DF5EA8603DCC38356",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -378,7 +378,7 @@
         }
       },
       "$en_titv1_0045": {
-        "Target": "{Char Selphie}{Line}«Лидер!»{End}",
+        "Target": "{Char Selphie}{Line}Лидер!{End}",
         "Source Text SHA256": "8D0989B278FB32189E9E8CB3C6088FD691C011A4210B4BCE0077032F39AD62DE",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -386,7 +386,7 @@
         }
       },
       "$en_titv1_0045_ctx_5779de11856947ec": {
-        "Target": "{X20Y20}{Char Selphie}{Line}«Командир!»{End}",
+        "Target": "{X20Y20}{Char Selphie}{Line}Командир!{End}",
         "Source Text SHA256": "8D0989B278FB32189E9E8CB3C6088FD691C011A4210B4BCE0077032F39AD62DE",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -394,7 +394,7 @@
         }
       },
       "$en_titv1_0045_ctx_9cb440464aa239bb": {
-        "Target": "{X150Y20}{Char Selphie}{Line}«Командир!»{End}",
+        "Target": "{X150Y20}{Char Selphie}{Line}Командир!{End}",
         "Source Text SHA256": "8D0989B278FB32189E9E8CB3C6088FD691C011A4210B4BCE0077032F39AD62DE",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -402,7 +402,7 @@
         }
       },
       "$en_titv1_0046": {
-        "Target": "{X150Y20}{Char Zell}{Line}«Сейчас назад нельзя!{Line}Ну же, надо спешить!»{End}",
+        "Target": "{X150Y20}{Char Zell}{Line}Сейчас назад нельзя!{Line}Ну же, надо спешить!{End}",
         "Source Text SHA256": "A1D6905C892EEC26D474546BE55325198C3926C23B8E467B7895CD419EA61BB6",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -410,7 +410,7 @@
         }
       },
       "$en_titv1_0047": {
-        "Target": "{X150Y20}{Char Selphie}{Line}«Командир!{Line}Надо спешить!»{End}",
+        "Target": "{X150Y20}{Char Selphie}{Line}Командир!{Line}Надо спешить!{End}",
         "Source Text SHA256": "E3F5AD2A6C90168EF6532BE3D2FAFC6F35403FF581887041F6CB576B76C12E5B",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -418,7 +418,7 @@
         }
       },
       "$en_titv1_0048": {
-        "Target": "{X20Y20}{Char Rinoa}{Line}«Они обнаружили нашу{Line} базу. Она полностью уничтожена».{End}",
+        "Target": "{X20Y20}{Char Rinoa}{Line}Они обнаружили нашу{Line} базу. Она полностью уничтожена.{End}",
         "Source Text SHA256": "784BA1FB11D73ABBE664E4063A8CDC39E9744D073A3047B4B2664A811685B3A2",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -426,7 +426,7 @@
         }
       },
       "$en_titv1_0049": {
-        "Target": "{X20Y20}{Char Selphie}{Line}«А остальные?»{End}",
+        "Target": "{X20Y20}{Char Selphie}{Line}А остальные?{End}",
         "Source Text SHA256": "BF20F0AB4F8C274A40B9F4CC92A079AC90E3E9B8CF88F0024066E35D9EC919BE",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",
@@ -434,7 +434,7 @@
         }
       },
       "$en_titv1_0050": {
-        "Target": "{X20Y20}{Char Rinoa}{Line}«С ними всё{Line} будет хорошо, они быстро бегают».{End}",
+        "Target": "{X20Y20}{Char Rinoa}{Line}С ними всё{Line} будет хорошо, они быстро бегают.{End}",
         "Source Text SHA256": "262FC633E5444E9E33BA28A697BC2FF6C6C7B2F59AF7B365B5DF52B7FC57060B",
         "sourceContext": {
           "Source MSD SHA256": "B94248D462E9192B94D3FCBB00404D16541D88726C17D1DD39C601F87679069E",

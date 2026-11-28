@@ -2,7 +2,7 @@
   "Fields": {
     "cwwood3": {
       "$en_cwwood3_0000": {
-        "Target": "{X10Y10}Чокобой{Line}«Готово, и…»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Готово, и…{End}",
         "Source Text SHA256": "CFAED7A7D848B3F0E751BD9DF0705D720E8C3A4E7685AA324F81F525BBA17937",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -10,7 +10,7 @@
         }
       },
       "$en_cwwood3_0001": {
-        "Target": "{X10Y10}Чокобой{Line}«Поздравляю с первым уловом!»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Поздравляю с первым уловом!{End}",
         "Source Text SHA256": "94B145FB8AB8B1872603A772F7FB0C387FFF78BA6577B4B64DFEE8C7F3FE9A75",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -18,7 +18,7 @@
         }
       },
       "$en_cwwood3_0002": {
-        "Target": "{X10Y10}Чокобой{Line}«Это мой способ{Line} сказать спасибо!»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Это мой способ{Line} сказать спасибо!{End}",
         "Source Text SHA256": "169FB35FC998B639686BCEFE28302A5B2258B85D73070145B5D33FB216A3BFD4",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -26,7 +26,7 @@
         }
       },
       "$en_cwwood3_0003": {
-        "Target": "{X100Y20}{Char Squall}{Line}«А… Ну, я пошёл».{End}",
+        "Target": "{X100Y20}{Char Squall}{Line}А… Ну, я пошёл.{End}",
         "Source Text SHA256": "1361B94384951B5DB39E4715D86073E8C332270D3CAA166B6FABFF029157B2C6",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -34,7 +34,7 @@
         }
       },
       "$en_cwwood3_0004": {
-        "Target": "{X10Y10}Чокобой{Line}«Эй, постой-ка…{Line} Придержи чокобо…»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Эй, постой-ка…{Line} Придержи чокобо…{End}",
         "Source Text SHA256": "18F2AA25E3FFCE3BAFB9E61365DE8C8D73621C3A86C30BF44A25E744EBA98B48",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -42,7 +42,7 @@
         }
       },
       "$en_cwwood3_0005": {
-        "Target": "{X10Y10}Чокобой{Line}«В честь первого улова{Line} дарю тебе чикобо».{End}",
+        "Target": "{X10Y10}Чокобой{Line}В честь первого улова{Line} дарю тебе чикобо.{End}",
         "Source Text SHA256": "6F5D349630DAA2316D2FD22AE3B5C19BFA54B4034E3E2C946166904B47A9675F",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -50,7 +50,7 @@
         }
       },
       "$en_cwwood3_0006": {
-        "Target": "{X100Y20}{Char Squall}{Line}«Нет, мне не нужен мел…»{End}",
+        "Target": "{X100Y20}{Char Squall}{Line}Нет, мне не нужен мел…{End}",
         "Source Text SHA256": "277B8CFD5F1A8C5194569B71082AA3184A51E783A12730D84107DCD5FC67287E",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -58,7 +58,7 @@
         }
       },
       "$en_cwwood3_0007": {
-        "Target": "{X70Y10}Чокобой{Line}«Ну же, дай ему имя».{End}",
+        "Target": "{X70Y10}Чокобой{Line}Ну же, дай ему имя.{End}",
         "Source Text SHA256": "DC5798CC643DC68DB04D5336CBFB67B07BC96BE503178E20EA4BEFD42F00E3A5",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -66,7 +66,7 @@
         }
       },
       "$en_cwwood3_0008": {
-        "Target": "Чокобой{Line}«Ну вот, музыка заиграла,{Line} теперь расскажу про „Мир чокобо“».{End}",
+        "Target": "Чокобой{Line}Ну вот, музыка заиграла,{Line} теперь расскажу про „Мир чокобо“.{End}",
         "Edition Targets": {
           "Classic:en": "{X10Y10}Чокобой{Line}«Ну вот, музыка заиграла.{Line} Теперь расскажу про „Мир чокобо“».{End}"
         },
@@ -77,7 +77,7 @@
         }
       },
       "$en_cwwood3_0009": {
-        "Target": "Чокобой{Line}«Всё очень просто!!!{End}",
+        "Target": "Чокобой{Line}Всё очень просто!!!{End}",
         "Edition Targets": {
           "Classic:en": "{X10Y10}Чокобой{Line}«Всё очень просто!»{End}"
         },
@@ -88,7 +88,7 @@
         }
       },
       "$en_cwwood3_0010": {
-        "Target": "Чокобой{Line}«В разделе меню [Сохранить]{Line} выбери «Мир чокобо»».{End}",
+        "Target": "Чокобой{Line}В разделе меню [Сохранить]{Line} выбери «Мир чокобо».{End}",
         "Edition Targets": {
           "Classic:en": "{X10Y10}Чокобой{Line}«В разделе меню [Сохранить]{Line} выбери „Мир чокобо“».{End}"
         },
@@ -99,7 +99,7 @@
         }
       },
       "$en_cwwood3_0011": {
-        "Target": "Чокобой{Line}«Тогда сможешь обмениваться данными{Line} с „Миром чокобо“».{End}",
+        "Target": "Чокобой{Line}Тогда сможешь обмениваться данными{Line} с „Миром чокобо“.{End}",
         "Edition Targets": {
           "Classic:en": "{X10Y10}Чокобой{Line}«Тогда сможешь обмениваться данными{Line} с „Миром чокобо“».{End}"
         },
@@ -110,7 +110,7 @@
         }
       },
       "$en_cwwood3_0012": {
-        "Target": "{X10Y10}Чокобой{Line}«Удачной и весёлой дороги!{Line} Пока!»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Удачной и весёлой дороги!{Line} Пока!{End}",
         "Source Text SHA256": "0BE7DD34A59A0AE71CA14A73C2CA8DB25C6F98A083BCE60E817D016980965AEB",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -118,7 +118,7 @@
         }
       },
       "$en_cwwood3_0013": {
-        "Target": "{X100Y10}Чокобой{Line}«Как дела? Опять за чокобо?{Line} Всегда рад клиентам».{End}",
+        "Target": "{X100Y10}Чокобой{Line}Как дела? Опять за чокобо?{Line} Всегда рад клиентам.{End}",
         "Source Text SHA256": "E5D39F229C7B975F0EDB5307D3AF1B5C94EA21120EC2CC0D6D8F328E33C9D4D4",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -126,7 +126,7 @@
         }
       },
       "$en_cwwood3_0014": {
-        "Target": "Чокобой{Line}«Рассказать, что делать?..»{Line}Нет{Line}Да{End}",
+        "Target": "Чокобой{Line}Рассказать, что делать?..{Line}Нет{Line}Да{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "23D824CEC0D1FD83E079A9AF94B11D6282357E8FCC6CC05158B46BF131D9C0BD",
         "sourceContext": {
@@ -135,7 +135,7 @@
         }
       },
       "$en_cwwood3_0015": {
-        "Target": "{X100Y10}Чокобой{Line}«Так и думал!{Line} Ну, удачи тебе».{End}",
+        "Target": "{X100Y10}Чокобой{Line}Так и думал!{Line} Ну, удачи тебе.{End}",
         "Source Text SHA256": "80AA59EFF293249086286CA77C2FF7A6FEAB95D94D37C84CBFFCC09942FF5436",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -143,7 +143,7 @@
         }
       },
       "$en_cwwood3_0016": {
-        "Target": "{X80Y30F1L4B1C3}«Меню чокосвистка»{Line}Поиск: [Чокосонар]{Line}Вызов: [Чокозинер]{Line}Помоги мне{Line}Не хочу этим заниматься{End}",
+        "Target": "{X80Y30F1L4B1C3}Меню чокосвистка{Line}Поиск: [Чокосонар]{Line}Вызов: [Чокозинер]{Line}Помоги мне{Line}Не хочу этим заниматься{End}",
         "Source Text SHA256": "2C73F694FB8CEE025F712438875065921D1154CBEA27292E8308E9DBC175E34B",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -151,7 +151,7 @@
         }
       },
       "$en_cwwood3_0017": {
-        "Target": "Чокобой{Line}«Так! Хочешь поймать чокобо?»{Line}Да{Line}Нет{End}",
+        "Target": "Чокобой{Line}Так! Хочешь поймать чокобо?{Line}Да{Line}Нет{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "2DE276977910AD7931535B85F2DA18672AB0D8126A6793CFD05D7DEB2F2CB7F4",
         "sourceContext": {
@@ -160,7 +160,7 @@
         }
       },
       "$en_cwwood3_0018": {
-        "Target": "Чокобой{Line}«Для этого нужен свисток.{Line} Называется {Color Yellow}[Чокосвисток]{Color White}. Хочешь?»{Line}Это платно?{Line}Нет, спасибо{End}",
+        "Target": "Чокобой{Line}Для этого нужен свисток.{Line} Называется {Color Yellow}[Чокосвисток]{Color White}. Хочешь?{Line}Это платно?{Line}Нет, спасибо{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "C3B3E154856B6DA94BF739BB7DC1BC82FCC18F2CF6F441467E814168550FCFB3",
         "sourceContext": {
@@ -169,7 +169,7 @@
         }
       },
       "$en_cwwood3_0019": {
-        "Target": "{X10Y10}Чокобой{Line}«Не-а, свисток бесплатный.{Line} Вот, их бывает два вида».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Не-а, свисток бесплатный.{Line} Вот, их бывает два вида.{End}",
         "Source Text SHA256": "EE0F211CBDA8483F36668128AC26540AF2B1F2DF400B67375FD8006935A904E5",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -177,7 +177,7 @@
         }
       },
       "$en_cwwood3_0020": {
-        "Target": "Чокобой{Line}«…Но 1000 гилей всё-таки возьму{Line} за {Color YellowBlink}мой урок{Color White} по свисткам».{Line}…Заплатить{Line}Передумал…{End}",
+        "Target": "Чокобой{Line}…Но 1000 гилей всё-таки возьму{Line} за {Color YellowBlink}мой урок{Color White} по свисткам.{Line}…Заплатить{Line}Передумал…{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "D136180CCA4AAAE901EAB5D1E0D24A15B894B2C734DE711303AFFCE2735C25BC",
         "sourceContext": {
@@ -186,7 +186,7 @@
         }
       },
       "$en_cwwood3_0021": {
-        "Target": "{X10Y10}Чокобой{Line}«Спасибо».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Спасибо.{End}",
         "Source Text SHA256": "2B0F1BEAC8EED305B40967CB5F2E0A031EF087172FBF190AEFBE07950AFF46D7",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -194,7 +194,7 @@
         }
       },
       "$en_cwwood3_0022": {
-        "Target": "{X10Y10}Чокобой{Line}«Слушай. Один свисток нужен для{Line} {Color Yellow}поиска{Color White} — [{Color Yellow}Чокосонар{Color White}], а другой{Line} для {Color Yellow}вызова{Color White} — [{Color Yellow}Чокозинер{Color White}]».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Слушай. Один свисток нужен для{Line} {Color Yellow}поиска{Color White} — [{Color Yellow}Чокосонар{Color White}], а другой{Line} для {Color Yellow}вызова{Color White} — [{Color Yellow}Чокозинер{Color White}].{End}",
         "Source Text SHA256": "5E6D1AE06808ADC9D31DD9DD8A29A66138F6120588F8F9EFBC56DE19BD0F049E",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -202,7 +202,7 @@
         }
       },
       "$en_cwwood3_0023": {
-        "Target": "{X10Y10}Чокобой{Line}«Дунешь в [{Color Yellow}Чокозинер{Color White}]{Line} где-нибудь в лесу — чикобо{Line} {Color WhiteBlink}свалятся{Color White} из ниоткуда».{Next}«А {Color WhiteBlink}где именно{Color White}, подскажет звук{Line} [{Color Yellow}Чокосонара{Color White}].{Line} Выбери свисток кнопкой {Key Cards}{Line} и удерживай {Key Cancel}, пока ходишь и свистишь».{End}{End}",
+        "Target": "{X10Y10}Чокобой{Line}Дунешь в [{Color Yellow}Чокозинер{Color White}]{Line} где-нибудь в лесу — чикобо{Line} {Color WhiteBlink}свалятся{Color White} из ниоткуда.{Next}А {Color WhiteBlink}где именно{Color White}, подскажет звук{Line} [{Color Yellow}Чокосонара{Color White}].{Line} Выбери свисток кнопкой {Key Cards}{Line} и удерживай {Key Cancel}, пока ходишь и свистишь.{End}{End}",
         "Edition Targets": {
           "Classic:en": "{X10Y10}Чокобой{Line}«Дунешь в [{Color Yellow}Чокозинер{Color White}]{Line} где-нибудь в лесу — чикобо{Line} {Color WhiteBlink}свалятся{Color White} из ниоткуда».{Next}«А {Color WhiteBlink}где именно{Color White}, подскажет звук{Line} [{Color Yellow}Чокосонара{Color White}].{Line} Выбери свисток кнопкой {Key Cards}{Line} и удерживай {Key Menu}, пока ходишь и свистишь».{End}"
         },
@@ -213,7 +213,7 @@
         }
       },
       "$en_cwwood3_0024": {
-        "Target": "{X30Y20}{Char Squall}{Line}«Мелкие мне не нужны.{Line} Мне нужен такой, чтобы ездить».{End}",
+        "Target": "{X30Y20}{Char Squall}{Line}Мелкие мне не нужны.{Line} Мне нужен такой, чтобы ездить.{End}",
         "Source Text SHA256": "2259207975462325F2DC40D9AEFA86B3BE5D8779B979EBC3982EDBA386E7E012",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -221,7 +221,7 @@
         }
       },
       "$en_cwwood3_0025": {
-        "Target": "{X10Y10}Чокобой{Line}«Придержи чокобо…{Line} Когда остаётся только {Color YellowBlink}один{Color White} чикобо,{Line} его мама начинает беспокоиться{Line} и отправляется его искать».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Придержи чокобо…{Line} Когда остаётся только {Color YellowBlink}один{Color White} чикобо,{Line} его мама начинает беспокоиться{Line} и отправляется его искать.{End}",
         "Source Text SHA256": "2D61E7E1D3D88731A71B8C163261B23F934F91092C4D16CB5AD9127AF7BC9088",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -229,7 +229,7 @@
         }
       },
       "$en_cwwood3_0026": {
-        "Target": "{X30Y20}{Char Squall}{Line}«Вот тогда-то её и ловят?..»{End}",
+        "Target": "{X30Y20}{Char Squall}{Line}Вот тогда-то её и ловят?..{End}",
         "Source Text SHA256": "D9E1594942A58175A4BBC63F3F30DCAF6A8DDFF95BCC7FEA2FCCBF28CF6A24C6",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -237,7 +237,7 @@
         }
       },
       "$en_cwwood3_0027": {
-        "Target": "{X30Y30}Чокобой{Line}«ТОЧНО!»{End}",
+        "Target": "{X30Y30}Чокобой{Line}ТОЧНО!{End}",
         "Source Text SHA256": "F5D904FFBFBE9B342B20BB980FF5C29A48691BB047467AE610996CA567F10602",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -245,7 +245,7 @@
         }
       },
       "$en_cwwood3_0028": {
-        "Target": "{X30Y30}Чокобой{Line}«Они на диво послушные».{End}",
+        "Target": "{X30Y30}Чокобой{Line}Они на диво послушные.{End}",
         "Source Text SHA256": "939B5A250D92A81DD76A07EE0FAB719484579234DA49E78F59EB2DEEC0E76A83",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -253,7 +253,7 @@
         }
       },
       "$en_cwwood3_0029": {
-        "Target": "{X5Y10}Чокобой{Line}«Давай повторим.{Line} Сперва кнопкой {Key Cards} выбери [{Color Yellow}Сонар{Color White}],{Line} а кнопкой {Key Cancel} свисти».{Next}«{Color WhiteBlink}Звук изменится{Color White} там,{Line} где прячутся чикобо».{Next}«Потом кнопкой {Key Cards} выбери [{Color Yellow}Зинер{Color White}]{Line} и нажми {Key Cancel}, чтобы они {Color WhiteBlink}упали{Color White}».{End}{End}",
+        "Target": "{X5Y10}Чокобой{Line}Давай повторим.{Line} Сперва кнопкой {Key Cards} выбери [{Color Yellow}Сонар{Color White}],{Line} а кнопкой {Key Cancel} свисти.{Next}{Color WhiteBlink}Звук изменится{Color White} там,{Line} где прячутся чикобо.{Next}Потом кнопкой {Key Cards} выбери [{Color Yellow}Зинер{Color White}]{Line} и нажми {Key Cancel}, чтобы они {Color WhiteBlink}упали{Color White}.{End}{End}",
         "Edition Targets": {
           "Classic:en": "{X5Y10}Чокобой{Line}«Давай повторим.{Line} Сперва кнопкой {Key Cards} выбери [{Color Yellow}Сонар{Color White}],{Line} а кнопкой {Key Menu} свисти».{Next}«{Color WhiteBlink}Звук изменится{Color White} там,{Line} где прячутся чикобо».{Next}«Потом кнопкой {Key Cards} выбери [{Color Yellow}Зинер{Color White}]{Line} и нажми {Key Menu}, чтобы они {Color WhiteBlink}упали{Color White}».{End}"
         },
@@ -264,7 +264,7 @@
         }
       },
       "$en_cwwood3_0030": {
-        "Target": "{X5Y10}Чокобой{Line}«Поговори с оставшимся чикобо,{Line} и БУМ! Появится его мама».{End}",
+        "Target": "{X5Y10}Чокобой{Line}Поговори с оставшимся чикобо,{Line} и БУМ! Появится его мама.{End}",
         "Source Text SHA256": "4409DC37B931D360DD04677ACAC35B018604B17500C6C350D1B5DBA77EC36305",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -272,7 +272,7 @@
         }
       },
       "$en_cwwood3_0031": {
-        "Target": "{X10Y10}Чокобой{Line}«Кстати, вот так звучит [{Color Yellow}Сонар{Color White}],{Line} когда чикобо {Color WhiteBlink}поблизости нет{Color White}…»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Кстати, вот так звучит [{Color Yellow}Сонар{Color White}],{Line} когда чикобо {Color WhiteBlink}поблизости нет{Color White}…{End}",
         "Source Text SHA256": "117053584BF833506AB062D331B15E46AC9AB662D42E8C6501FB132479A03727",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -280,7 +280,7 @@
         }
       },
       "$en_cwwood3_0032": {
-        "Target": "{X10Y10}Чокобой{Line}«А вот так звучит [{Color Yellow}Сонар{Color White}],{Line} когда они {Color WhiteBlink}рядом{Color White}…»{End}",
+        "Target": "{X10Y10}Чокобой{Line}А вот так звучит [{Color Yellow}Сонар{Color White}],{Line} когда они {Color WhiteBlink}рядом{Color White}…{End}",
         "Source Text SHA256": "A1F40B0820FAD6AA8DDF9437C04D0B69BC8D49882ACA0B4CC4CDB9026B77A844",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -288,7 +288,7 @@
         }
       },
       "$en_cwwood3_0033": {
-        "Target": "{X10Y10}Чокобой{Line}«Понятно? Надеюсь, что да».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Понятно? Надеюсь, что да.{End}",
         "Source Text SHA256": "995A846FA99EDFE5303741B6C80E75F4BC1C1F3BAC12047D6098F37B57717242",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -296,7 +296,7 @@
         }
       },
       "$en_cwwood3_0034": {
-        "Target": "{X10Y10}Чокобой{Line}«А? По виду ты не уверен.{Line} Так для этого я и здесь!»{Next}«Нажми {Key Cards}, выбери [{Color Yellow}Помоги мне{Color White}],{Line} и я за {Color YellowBlink}смешную цену{Color White} поймаю тебе чокобо».{End}",
+        "Target": "{X10Y10}Чокобой{Line}А? По виду ты не уверен.{Line} Так для этого я и здесь!{Next}Нажми {Key Cards}, выбери [{Color Yellow}Помоги мне{Color White}],{Line} и я за {Color YellowBlink}смешную цену{Color White} поймаю тебе чокобо.{End}",
         "Source Text SHA256": "B9EB74687BB18FDB213F8214E3DC4792A9456795DEA96BCE1749DA0C022819C0",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -304,7 +304,7 @@
         }
       },
       "$en_cwwood3_0035": {
-        "Target": "{X10Y10}Чокобой{Line}«И ещё одно:{Line} если свистнуть в Зинер там, где {Color Yellow}нет{Color White}{Line} чикобо, свисток у тебя {Color Yellow}украдут{Color White}!{Line} Придётся снова за него {Color YellowBlink}платить{Color White}».{End}",
+        "Target": "{X10Y10}Чокобой{Line}И ещё одно:{Line} если свистнуть в Зинер там, где {Color Yellow}нет{Color White}{Line} чикобо, свисток у тебя {Color Yellow}украдут{Color White}!{Line} Придётся снова за него {Color YellowBlink}платить{Color White}.{End}",
         "Source Text SHA256": "8E54C4402110115BDEDD52A66EC4785E6B86D7F6B8ECF26DD9DBDAE39B32C28C",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -312,7 +312,7 @@
         }
       },
       "$en_cwwood3_0036": {
-        "Target": "{X10Y10}Чокобой{Line}«Ну, удачи тебе!»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Ну, удачи тебе!{End}",
         "Source Text SHA256": "21F908C21C0185E4C25E70A697DA4063B340B4407ED78B9CC381A1C37A105BEF",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -320,7 +320,7 @@
         }
       },
       "$en_cwwood3_0037": {
-        "Target": "«Звал? Сдаёшься?{Line} Так я и думал. Ну, сдавайся.{Line} С тебя 1200 гилей».{Line}Заплатить{Line}Ни за что{End}",
+        "Target": "Звал? Сдаёшься?{Line} Так я и думал. Ну, сдавайся.{Line} С тебя 1200 гилей.{Line}Заплатить{Line}Ни за что{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "12C144B3079FCBA4ED5D1ACBFA6830169204FE616F0167145E9E59C388A6173C",
         "sourceContext": {
@@ -329,7 +329,7 @@
         }
       },
       "$en_cwwood3_0038": {
-        "Target": "{X10Y10}Чокобой{Line}«Спасибо!{Line} Смотри, как работает мастер!»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Спасибо!{Line} Смотри, как работает мастер!{End}",
         "Source Text SHA256": "955FD84491FD81A856F567CC8FE97358662349E4CA5EC8772BF5981E2E3A3FD2",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -337,7 +337,7 @@
         }
       },
       "$en_cwwood3_0039": {
-        "Target": "{X40Y40}Чокобой{Line}«Иди сюда… чоко, чоко, чоко…»{End}",
+        "Target": "{X40Y40}Чокобой{Line}Иди сюда… чоко, чоко, чоко…{End}",
         "Source Text SHA256": "0DC33DE12F9ABBF9F4C9DCB75A116183BD4C807A3CD98902608385638197580E",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -345,7 +345,7 @@
         }
       },
       "$en_cwwood3_0040": {
-        "Target": "{X40Y40}Чокобой{Line}«Я СКАЗАЛ, ИДИ СЮДА, ЧОКОБО!!! Ну пожалуйста…»{End}",
+        "Target": "{X40Y40}Чокобой{Line}Я СКАЗАЛ, ИДИ СЮДА, ЧОКОБО!!! Ну пожалуйста…{End}",
         "Source Text SHA256": "D448BE5B607542C060469A6AFD4526CEAC748E2CB790038BA047AE9F41A97B34",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -353,7 +353,7 @@
         }
       },
       "$en_cwwood3_0041": {
-        "Target": "{X40Y40}Чокобой{Line}«Хе-хе, {Color WhiteBlink}хе{Color White}! Ну, как тебе?!»{End}",
+        "Target": "{X40Y40}Чокобой{Line}Хе-хе, {Color WhiteBlink}хе{Color White}! Ну, как тебе?!{End}",
         "Source Text SHA256": "D5977DEF4AD9F1EA5ECC01855B331B973C673FF586F1F1706F8F779559181AFE",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -361,7 +361,7 @@
         }
       },
       "$en_cwwood3_0042": {
-        "Target": "{X40Y40}Чокобой{Line}«А-а-а… Вот так это делается.{Line} Зови в любое время».{End}",
+        "Target": "{X40Y40}Чокобой{Line}А-а-а… Вот так это делается.{Line} Зови в любое время.{End}",
         "Source Text SHA256": "98089D00C27A7DE578E7DB9ADCC8C59F7F61E2FDEDC3C6FADBF25EEC3C62AEEF",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -385,7 +385,7 @@
         }
       },
       "$en_cwwood3_0045": {
-        "Target": "{X10Y10}Чокобой{Line}«А? Украли? Я же говорил: осторожнее…»{End}",
+        "Target": "{X10Y10}Чокобой{Line}А? Украли? Я же говорил: осторожнее…{End}",
         "Source Text SHA256": "F9B45ABFEB3049F09CAC9F4382BE11AEA7E1F7CE554309876B1A7D0E6A562E8E",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -393,7 +393,7 @@
         }
       },
       "$en_cwwood3_0046": {
-        "Target": "«Хе-хе… Вот ведь незадача.{Line} Придётся купить новый.{Line} С тебя 700 гилей».{Line}Заплатить{Line}Передумал{End}",
+        "Target": "Хе-хе… Вот ведь незадача.{Line} Придётся купить новый.{Line} С тебя 700 гилей.{Line}Заплатить{Line}Передумал{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "0E2315D501FD5E197A3889805070C6247432EF7753E04558844090DCB422440E",
         "sourceContext": {
@@ -402,7 +402,7 @@
         }
       },
       "$en_cwwood3_0047": {
-        "Target": "Чокобой{Line}«Есть вопрос? Ну, спрашивай».{Line}О [Чокосонаре]{Line}О [Чокозинере]{Line}О [лесе чокобо]{Line}О [тебе]{End}",
+        "Target": "Чокобой{Line}Есть вопрос? Ну, спрашивай.{Line}О [Чокосонаре]{Line}О [Чокозинере]{Line}О [лесе чокобо]{Line}О [тебе]{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "354FEA035935E51C70443BE067FFD54C74C1A73986BEC9955968AB26AFB28DC9",
         "sourceContext": {
@@ -411,7 +411,7 @@
         }
       },
       "$en_cwwood3_0048": {
-        "Target": "{X10Y10}Чокобой{Line}«Что-то вроде датчика.{Line} Даже чокобо по запаху чует. Класс, да?»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Что-то вроде датчика.{Line} Даже чокобо по запаху чует. Класс, да?{End}",
         "Source Text SHA256": "DDA13CBDD29C39AD85756EAE63758CB567436A358E226A9D1FB6BBBA07A7921A",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -419,7 +419,7 @@
         }
       },
       "$en_cwwood3_0049": {
-        "Target": "{X10Y10}Чокобой{Line}«От этого звука чокобо{Line} вытворяют всякое. Круто, да?»{End}",
+        "Target": "{X10Y10}Чокобой{Line}От этого звука чокобо{Line} вытворяют всякое. Круто, да?{End}",
         "Source Text SHA256": "374B185BC265AD43F2319F57461A178F98B3D4A10C1D1D4F74AC6D754763D414",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -427,7 +427,7 @@
         }
       },
       "$en_cwwood3_0050": {
-        "Target": "{X10Y10}Чокобой{Line}«Говорят, в мире семь лесов чокобо.{Line} Один из них — на священной земле…{Line} А в остальных шести{Line} живут чокобо. Здорово, да?»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Говорят, в мире семь лесов чокобо.{Line} Один из них — на священной земле…{Line} А в остальных шести{Line} живут чокобо. Здорово, да?{End}",
         "Source Text SHA256": "A2872ACC2CEEC06D49F26CCE7912E2E775894322C8A0BB030B55CE0797CAF92D",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -435,7 +435,7 @@
         }
       },
       "$en_cwwood3_0051": {
-        "Target": "{X10Y10}Чокобой{Line}«Я?! Я мастер ловли чокобо.{Line} По чокобо я специалист».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Я?! Я мастер ловли чокобо.{Line} По чокобо я специалист.{End}",
         "Source Text SHA256": "32463130C468593CCD0E408B8CBC87311336F415107757EC9B80D7A585E7E9F1",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -443,7 +443,7 @@
         }
       },
       "$en_cwwood3_0052": {
-        "Target": "Чокобой{Line}«Да, что тебе нужно?»{Line}Подсказка                     100 гилей{Line}Овощи Гизаль ×5         3000 гилей{Line}Вопрос       Бесплатно… нет, 10 гилей{Line}Передумал{End}",
+        "Target": "Чокобой{Line}Да, что тебе нужно?{Line}Подсказка                     100 гилей{Line}Овощи Гизаль ×5         3000 гилей{Line}Вопрос       Бесплатно… нет, 10 гилей{Line}Передумал{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "AEEBF33B040F6FB5041D54DD7ACE24144975BBF7DF03BA199ADF6BF2D2446A0C",
         "sourceContext": {
@@ -452,7 +452,7 @@
         }
       },
       "$en_cwwood3_0053": {
-        "Target": "{X10Y10}Чокобой{Line}«Лес странствий.{Line} Следи, где срабатывает [{Color Yellow}Сонар{Color White}]».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Лес странствий.{Line} Следи, где срабатывает [{Color Yellow}Сонар{Color White}].{End}",
         "Source Text SHA256": "6DCEF2E73B7570B208DB40C3A0F23F8209AA0663BBFF66E34617119ECBE8F452",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -460,7 +460,7 @@
         }
       },
       "$en_cwwood3_0054": {
-        "Target": "{X10Y10}Чокобой{Line}«Спасибо».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Спасибо.{End}",
         "Source Text SHA256": "0264A6C65B02B7D6C32A62F2F1042FC377E49CBCADDB4841BB9FDCFBD516D651",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -468,7 +468,7 @@
         }
       },
       "$en_cwwood3_0055": {
-        "Target": "{X10Y10}Чокобой{Line}«У тебя не хватает денег!»{End}",
+        "Target": "{X10Y10}Чокобой{Line}У тебя не хватает денег!{End}",
         "Source Text SHA256": "89E805395B88C42E9B0793501C0E7BFCA00821D1A65D5636256AFECA43829669",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -484,7 +484,7 @@
         }
       },
       "$en_cwwood3_0057": {
-        "Target": "«Вы сели на чокобо».{End}",
+        "Target": "Вы сели на чокобо.{End}",
         "Source Text SHA256": "8110C99D5264AC95A83211E42FA9675C83F22CCC92208C906B123736B4E560E7",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -516,7 +516,7 @@
         }
       },
       "$en_cwwood3_0061": {
-        "Target": "{X10Y10}Чокобой{Line}«Ты в {Color Blue}〖лесу чокобо: {Color White}средний уровень{Color Blue}〗{Color White}…»{Next}«Если зайдёте все сразу,{Line} распугаете чокобо».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Ты в {Color Blue}〖лесу чокобо: {Color White}средний уровень{Color Blue}〗{Color White}…{Next}Если зайдёте все сразу,{Line} распугаете чокобо.{End}",
         "Source Text SHA256": "80E1F8B0D84FDB3F4E6989549D024E529EBDC5084748A14378CFF093C6DC730F",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -524,7 +524,7 @@
         }
       },
       "$en_cwwood3_0062": {
-        "Target": "{X10Y10}Чокобой{Line}«Ты в {Color Blue}〖лесу чокобо: {Color White}средний уровень{Color Blue}〗{Color White}…»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Ты в {Color Blue}〖лесу чокобо: {Color White}средний уровень{Color Blue}〗{Color White}…{End}",
         "Source Text SHA256": "ED28AF98A62428BF685153E02E89D51D386986FFC06A14A60C8E87EDEA6EBF87",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -532,7 +532,7 @@
         }
       },
       "$en_cwwood3_0063": {
-        "Target": "{X10Y10}Чокобой{Line}«А? Чокобо подарил тебе спрятанную вещь?{Line} Так чокобо показывают, что ты им нравишься».{End}",
+        "Target": "{X10Y10}Чокобой{Line}А? Чокобо подарил тебе спрятанную вещь?{Line} Так чокобо показывают, что ты им нравишься.{End}",
         "Source Text SHA256": "721ED64CE2FABF5BC7727676C30D5C9E2E13B4851078E3ABE5FFD840CC9754E8",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -540,7 +540,7 @@
         }
       },
       "$en_cwwood3_0064": {
-        "Target": "{X10Y10}Чокобой{Line}«Для местных чокобо{Line} ты теперь свой.{Line} Больше никого здесь ловить не нужно».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Для местных чокобо{Line} ты теперь свой.{Line} Больше никого здесь ловить не нужно.{End}",
         "Source Text SHA256": "518DC8AD7461029C96B332E67BDF56059296F85928150EF7ED3539E8ED2751DE",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -548,7 +548,7 @@
         }
       },
       "$en_cwwood3_0065": {
-        "Target": "{X10Y10}Чокобой{Line}«Э-э… Так я и всех клиентов потеряю».{End}",
+        "Target": "{X10Y10}Чокобой{Line}Э-э… Так я и всех клиентов потеряю.{End}",
         "Source Text SHA256": "FB5C294246899D639F5E672644A20DAB53044F34D82755058D59CFFFE446430D",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -556,7 +556,7 @@
         }
       },
       "$en_cwwood3_0066": {
-        "Target": "{X10Y10}Чокобой{Line}«Поздравляю с уловом!»{End}",
+        "Target": "{X10Y10}Чокобой{Line}Поздравляю с уловом!{End}",
         "Source Text SHA256": "11993E7E6D31CCE8C4F54D4A6D53A60C78DBF5D6D9164DA8DF495AECC713A64F",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",
@@ -564,7 +564,7 @@
         }
       },
       "$en_cwwood3_0067": {
-        "Target": "{X10Y10}Чокобой{Line}«А? Ты до сих пор не нашёл…{Line} Нет, ничего…»{End}",
+        "Target": "{X10Y10}Чокобой{Line}А? Ты до сих пор не нашёл…{Line} Нет, ничего…{End}",
         "Source Text SHA256": "F3709611C9299A182CFF85A1ED397C12108B1857375FA7DE6034903D973FB62F",
         "sourceContext": {
           "Source MSD SHA256": "1B85237C4D37B52D81324920EC19EE9B9CAFBA645A5B895E4C040D52C63FE41F",

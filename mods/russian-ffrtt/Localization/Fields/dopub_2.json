@@ -2,7 +2,7 @@
   "Fields": {
     "dopub_2": {
       "$en_dopub_2_0000": {
-        "Target": "{X50Y20F1L2B1C2}«Начнём?»{Line}Чё начнём?{Line}Да{End}",
+        "Target": "{X50Y20F1L2B1C2}Начнём?{Line}Чё начнём?{Line}Да{End}",
         "Source Text SHA256": "D47D9543208B1F9582C9A40D3095E68A8E9F7A725B94B55AA62BE474FD26441A",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -10,7 +10,7 @@
         }
       },
       "$en_dopub_2_0001": {
-        "Target": "{X50Y20}«Ха-ха-ха...{Line} Вы даже не знаете, о чём я?»{End}",
+        "Target": "{X50Y20}Ха-ха-ха...{Line} Вы даже не знаете, о чём я?{End}",
         "Source Text SHA256": "CFB4C7C7083E44E07878D22DB4F8A2BBA31D11DC5CFAC057B14D49E7E7096C53",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -18,7 +18,7 @@
         }
       },
       "$en_dopub_2_0002": {
-        "Target": "{X50Y20F1L2B1C2}«Точно хотите?»{Line}Да{Line}Не, забудь об этом{End}",
+        "Target": "{X50Y20F1L2B1C2}Точно хотите?{Line}Да{Line}Не, забудь об этом{End}",
         "Source Text SHA256": "9C470A179CC0F7050AC5EABC32D73EAD37EAE5CE9E6E44C191D4E4C180922BE7",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -26,7 +26,7 @@
         }
       },
       "$en_dopub_2_0003": {
-        "Target": "{X50Y20}«Ха-ха-ха...{Line} Боитесь меня?»{End}",
+        "Target": "{X50Y20}Ха-ха-ха...{Line} Боитесь меня?{End}",
         "Source Text SHA256": "3BA38B7D23A84E09B2A64EF2D29EBD34E4BC93AC0DCA02E60429C61037C652A5",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -34,7 +34,7 @@
         }
       },
       "$en_dopub_2_0004": {
-        "Target": "{X50Y20}«Ха-ха-ха…{Line} Тебе ещё учиться и учиться».{End}",
+        "Target": "{X50Y20}Ха-ха-ха…{Line} Тебе ещё учиться и учиться.{End}",
         "Source Text SHA256": "6EBBB5B91CF60F4A6CA02331DEF590C32F54F1F098482BC99B184A0CE1E1130E",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -42,7 +42,7 @@
         }
       },
       "$en_dopub_2_0005": {
-        "Target": "{X50Y20}«Ха-ха-ха…{Line} Почти получилось!»{End}",
+        "Target": "{X50Y20}Ха-ха-ха…{Line} Почти получилось!{End}",
         "Source Text SHA256": "5568CF0554D4A54E55EFE08CAA852B01A847164FCE594600A23FCAFCC4EB8EEF",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -50,7 +50,7 @@
         }
       },
       "$en_dopub_2_0006": {
-        "Target": "{X50Y20}«Ха-ха-ха...Ты{Line} весьма хорош.{Next}Я проведу тебя в свою личную комнату. Пойдём{Line} со мной».{End}",
+        "Target": "{X50Y20}Ха-ха-ха...Ты{Line} весьма хорош.{Next}Я проведу тебя в свою личную комнату. Пойдём{Line} со мной.{End}",
         "Source Text SHA256": "5E0B909C5157D5407997FECFCB82C4DE0F4C859EC373C767C703AC6575F91F2C",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -58,7 +58,7 @@
         }
       },
       "$en_dopub_2_0007": {
-        "Target": "{X20Y20}«Это моя личная комната.{Line} Сюда нельзя входить без моего разрешения».{End}",
+        "Target": "{X20Y20}Это моя личная комната.{Line} Сюда нельзя входить без моего разрешения.{End}",
         "Source Text SHA256": "B51AEFC7C2D881B04B89A1A17AE790BA4955A0A0326D010C8991790C58447113",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -66,7 +66,7 @@
         }
       },
       "$en_dopub_2_0008": {
-        "Target": "{X50Y20F1L2B1C2}«А вы не знаете?»{Line}Нет, не знаю{Line}Конечно, знаю{End}",
+        "Target": "{X50Y20F1L2B1C2}А вы не знаете?{Line}Нет, не знаю{Line}Конечно, знаю{End}",
         "Source Text SHA256": "022B997581CA598C22F637FE2527B2111A7984A321443C2608A8A3687EAE13D8",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -74,7 +74,7 @@
         }
       },
       "$en_dopub_2_0009": {
-        "Target": "{X50Y20}«Тогда я вам{Line} расскажу. Парень вон там...{Line} Он владелец этого бара».{Next}«Когда он спрашивает вас „начнём?“,{Line} он имеет в виду игру в{Line} карты. Подумайте хорошенько, прежде, чем ответить».{End}",
+        "Target": "{X50Y20}Тогда я вам{Line} расскажу. Парень вон там...{Line} Он владелец этого бара.{Next}Когда он спрашивает вас „начнём?“,{Line} он имеет в виду игру в{Line} карты. Подумайте хорошенько, прежде, чем ответить.{End}",
         "Source Text SHA256": "473098659DAD051DED90CD3802453AA20560DA6009EBCF149C71BD5F035A5939",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -82,7 +82,7 @@
         }
       },
       "$en_dopub_2_0010": {
-        "Target": "{X50Y20}«Я знаю его многие годы... но{Line} я ни разу не видел, чтобы{Line} он проиграл карточную игру».{End}",
+        "Target": "{X50Y20}Я знаю его многие годы... но{Line} я ни разу не видел, чтобы{Line} он проиграл карточную игру.{End}",
         "Source Text SHA256": "568CD1F5B4384DE6A0B8E0D8151A68E2F342D884DF1F9700BD7AB30C48D913EA",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -90,7 +90,7 @@
         }
       },
       "$en_dopub_2_0011": {
-        "Target": "{X50Y20}«А ты молодец! Я{Line} бросил играть после того, как проиграл владельцу. Так{Line} что не испытывай меня, парень».{End}",
+        "Target": "{X50Y20}А ты молодец! Я{Line} бросил играть после того, как проиграл владельцу. Так{Line} что не испытывай меня, парень.{End}",
         "Source Text SHA256": "722BF7062CD4980CB9C1186A8C6BAE3F0F169BA63F44FAD503B48124F914B665",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -98,7 +98,7 @@
         }
       },
       "$en_dopub_2_0012": {
-        "Target": "{X50Y20}«Давно я бросил собирать карты.{Line} Но здесь карт каких только нет.{Line} Ради одного этого сюда стоит ходить».{End}",
+        "Target": "{X50Y20}Давно я бросил собирать карты.{Line} Но здесь карт каких только нет.{Line} Ради одного этого сюда стоит ходить.{End}",
         "Source Text SHA256": "68AC3E1FBB511F50F859955128222C3666EEA8FA2EFF60803675B46DF16116E5",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -106,7 +106,7 @@
         }
       },
       "$en_dopub_2_0013": {
-        "Target": "{X50Y20}«Эх…{Line} Я уже давно не играю, так что…{Line} Так что не суди строго, парень».{End}",
+        "Target": "{X50Y20}Эх…{Line} Я уже давно не играю, так что…{Line} Так что не суди строго, парень.{End}",
         "Source Text SHA256": "E324F6D9D30BBAE37CA38E8306892802AE2C13E8C7CBB5FC69D803B867246169",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -130,7 +130,7 @@
         }
       },
       "$en_dopub_2_0016": {
-        "Target": "{X10Y10F1L2B1C2}«Сыграете со мной в карты?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}Сыграете со мной в карты?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "7A63A86D692EC94C148ADE055B422073526CD077E90A0F348FDAD2E4B8ECAFC6",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -138,7 +138,7 @@
         }
       },
       "$en_dopub_2_0017": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Баламба и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Баламба и нашим.{End}",
         "Source Text SHA256": "31148DEEDE4B59F6BD88D5D12BA872A1E895C2D9B6BED89E230198D64D3C0295",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -146,7 +146,7 @@
         }
       },
       "$en_dopub_2_0018": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим.{End}",
         "Source Text SHA256": "29DCED6100A1DDBB2DFC775090970F574DED13D77A9A7CC8D8228CE735B0BC6A",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -154,7 +154,7 @@
         }
       },
       "$en_dopub_2_0019": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Трабии и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Трабии и нашим.{End}",
         "Source Text SHA256": "F6CA3BD4871EC1A5474692DBFAF54CF478F7EFB4D017F9B0BF6BCD22C4336193",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -162,7 +162,7 @@
         }
       },
       "$en_dopub_2_0020": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Центры и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Центры и нашим.{End}",
         "Source Text SHA256": "DAD0DD77594D2086DE78871823FC0410B2CF2F937C9AAF88EE740287A96C5C5C",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -170,7 +170,7 @@
         }
       },
       "$en_dopub_2_0021": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Доллета и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Доллета и нашим.{End}",
         "Source Text SHA256": "079CC08342FF26BE3902DF8B52CB5E5A7E9AE15AE1B9FE68AE5CEB6E52957F0F",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -178,7 +178,7 @@
         }
       },
       "$en_dopub_2_0022": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}ГР и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}ГР и нашим.{End}",
         "Source Text SHA256": "333FC783C7AFE491B4D5C4D6D40156DE5573F39F15556E138953DA354ED66B8A",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -186,7 +186,7 @@
         }
       },
       "$en_dopub_2_0023": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Луны и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Луны и нашим.{End}",
         "Source Text SHA256": "8441EBA3A84828A63A400696BBB6E988A27754D01C04AA9E9573C8EBF9A5D8B0",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -194,7 +194,7 @@
         }
       },
       "$en_dopub_2_0024": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Эстара и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Эстара и нашим.{End}",
         "Source Text SHA256": "C381692C34F7E9EE2B2B357CCAEEC2207F36EB5148E8AD88294069FB59C82D50",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -202,7 +202,7 @@
         }
       },
       "$en_dopub_2_0025": {
-        "Target": "{X10Y10F1L2B1C2}«Ты действительно так хочешь сыграть?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}Ты действительно так хочешь сыграть?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "9C6F15D6F09DC64C8DD610F32D14C56FE4FA815AB84E62305C8D71D54109E646",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -210,7 +210,7 @@
         }
       },
       "$en_dopub_2_0026": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Баламба и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Баламба и нашим.{End}",
         "Source Text SHA256": "417ADA39EC6B72E384D7112435D7ADEC141929DDC6C68FD02E5725403373531F",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -218,7 +218,7 @@
         }
       },
       "$en_dopub_2_0027": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим.{End}",
         "Source Text SHA256": "C6D7A1C12B4F87F0BED6412EEE9B9B5B9DD303A20C8821D248C8E0FEC64A0288",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -226,7 +226,7 @@
         }
       },
       "$en_dopub_2_0028": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Трабии и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Трабии и нашим.{End}",
         "Source Text SHA256": "39CC5417304FE316A88DE38C4712FC3FD4CAF47B380067BFA21FF9D7465D2D52",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -234,7 +234,7 @@
         }
       },
       "$en_dopub_2_0029": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Центры и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Центры и нашим.{End}",
         "Source Text SHA256": "0D82A1319687EA5A9FCABF91260A9CE9CE45862A4E32D97F63EDCD64CB6D14E3",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -242,7 +242,7 @@
         }
       },
       "$en_dopub_2_0030": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Доллета и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Доллета и нашим.{End}",
         "Source Text SHA256": "4A729DF61B7A8A111D3D95583FC010C2ABA5463A3B4A6029327396F83BAA668B",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -250,7 +250,7 @@
         }
       },
       "$en_dopub_2_0031": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}ГР и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}ГР и нашим.{End}",
         "Source Text SHA256": "CD339CC231664AEC8A4A6EE2B7234D4CEFB8F44B4C9D00B4213AE2767739144F",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -258,7 +258,7 @@
         }
       },
       "$en_dopub_2_0032": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Луны и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Луны и нашим.{End}",
         "Source Text SHA256": "7643D9E92A64BEE37372ACCCCCCAF646C53FF658F626BD33397EFFBC8345713E",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -266,7 +266,7 @@
         }
       },
       "$en_dopub_2_0033": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Эстара и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Эстара и нашим.{End}",
         "Source Text SHA256": "11D6793791D757DAAED6FDAC42A098505DD9D61484B8235EB5A13643D38CFD10",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -522,7 +522,7 @@
         }
       },
       "$en_dopub_2_0051": {
-        "Target": "{X10Y10F1L2B1C2}«Хотите вызвать меня на партию?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}Хотите вызвать меня на партию?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "074E69DB381B5831D9448FDE666C90E988B5FF90B9E14557003DC5A43129FD05",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -530,7 +530,7 @@
         }
       },
       "$en_dopub_2_0052": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Баламба и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Баламба и нашим.{End}",
         "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -538,7 +538,7 @@
         }
       },
       "$en_dopub_2_0053": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Гальбадии и нашим.{End}",
         "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -546,7 +546,7 @@
         }
       },
       "$en_dopub_2_0054": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Трабии и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Трабии и нашим.{End}",
         "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -554,7 +554,7 @@
         }
       },
       "$en_dopub_2_0055": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Центры и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Центры и нашим.{End}",
         "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -562,7 +562,7 @@
         }
       },
       "$en_dopub_2_0056": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Доллета и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Доллета и нашим.{End}",
         "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -570,7 +570,7 @@
         }
       },
       "$en_dopub_2_0057": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}ГР и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}ГР и нашим.{End}",
         "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -578,7 +578,7 @@
         }
       },
       "$en_dopub_2_0058": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Луны и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Луны и нашим.{End}",
         "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -586,7 +586,7 @@
         }
       },
       "$en_dopub_2_0059": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Эстара и нашим».{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}которыми у нас не пользуются.{Line}Давай сыграем по правилам{Line}Эстара и нашим.{End}",
         "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -594,7 +594,7 @@
         }
       },
       "$en_dopub_2_0060": {
-        "Target": "{X10Y10}Королева{Line}«Я Королева карт. Езжу{Line}по всему миру и слежу,{Line}чтобы везде соблюдали правила игры».{End}",
+        "Target": "{X10Y10}Королева{Line}Я Королева карт. Езжу{Line}по всему миру и слежу,{Line}чтобы везде соблюдали правила игры.{End}",
         "Source Text SHA256": "7D8E50D6FB53D9927E60EE07896967C3BD8BF1812E922C20A7E334E7F943F7C9",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -602,7 +602,7 @@
         }
       },
       "$en_dopub_2_0061": {
-        "Target": "{X10Y10F2L5B2C5}Королева{Line}«Что хочешь узнать?»{Line}(Правила здешнего региона){Line}(Какие правила обмена набирают силу?){Line}(Как распространяются правила?){Line}(О твоём отце-художнике){End}",
+        "Target": "{X10Y10F2L5B2C5}Королева{Line}Что хочешь узнать?{Line}(Правила здешнего региона){Line}(Какие правила обмена набирают силу?){Line}(Как распространяются правила?){Line}(О твоём отце-художнике){End}",
         "Source Text SHA256": "993AC7C9A0856DEA958048AB91B73D0D0388BDDE453F3D88038C94F21C71B167",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -610,7 +610,7 @@
         }
       },
       "$en_dopub_2_0062": {
-        "Target": "{X10Y10}Королева{Line}«У каждого региона,{Line}вообще говоря, свои правила».{Next}«Когда путешествуешь,{Line}правила, к которым ты привык,{Line}приживаются в новых краях».{Next}«А правила обмена постепенно{Line}расходятся из региона, где{Line}игра в карты популярнее всего».{Next}«Из-за твоих поездок и поступков{Line}этот регион может постоянно меняться».{Next}«Да и мой приезд иногда{Line}меняет правила обмена{Line}там, где я останавливаюсь».{End}",
+        "Target": "{X10Y10}Королева{Line}У каждого региона,{Line}вообще говоря, свои правила.{Next}Когда путешествуешь,{Line}правила, к которым ты привык,{Line}приживаются в новых краях.{Next}А правила обмена постепенно{Line}расходятся из региона, где{Line}игра в карты популярнее всего.{Next}Из-за твоих поездок и поступков{Line}этот регион может постоянно меняться.{Next}Да и мой приезд иногда{Line}меняет правила обмена{Line}там, где я останавливаюсь.{End}",
         "Source Text SHA256": "82A9CE81C1FFFDF6006C68E6B3E51181C4D7C2B1AF5D1140203C9641838C4BCD",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -618,7 +618,7 @@
         }
       },
       "$en_dopub_2_0063": {
-        "Target": "{X10Y10}Королева{Line}«Мой отец здешний художник.{Line}Часть карт нарисовал он.{Line}Он и сейчас их рисует».{End}",
+        "Target": "{X10Y10}Королева{Line}Мой отец здешний художник.{Line}Часть карт нарисовал он.{Line}Он и сейчас их рисует.{End}",
         "Source Text SHA256": "EE19D159F74B1A3514AA608867B4ADB912FF8663A08FE2C20DEF90989E3EA146",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -626,7 +626,7 @@
         }
       },
       "$en_dopub_2_0064": {
-        "Target": "{X10Y10}Королева{Line}«Если мне достанется{Line}[карта Минимуга], отец{Line}сможет нарисовать по ней новую карту».{End}",
+        "Target": "{X10Y10}Королева{Line}Если мне достанется{Line}[карта Минимуга], отец{Line}сможет нарисовать по ней новую карту.{End}",
         "Source Text SHA256": "6455588D330FC7D091A64C84A8801B769FD0FDF52F40AFD796D617AF28FBB3E0",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -634,7 +634,7 @@
         }
       },
       "$en_dopub_2_0065": {
-        "Target": "{X10Y10}Королева{Line}«Если мне достанется{Line}[карта Священного], отец{Line}сможет нарисовать по ней новую карту».{End}",
+        "Target": "{X10Y10}Королева{Line}Если мне достанется{Line}[карта Священного], отец{Line}сможет нарисовать по ней новую карту.{End}",
         "Source Text SHA256": "43E238636C247D8AD15DAF09F0111B837FC4CA2D4ABF35D7399D8E05DD13A704",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -642,7 +642,7 @@
         }
       },
       "$en_dopub_2_0066": {
-        "Target": "{X10Y10}Королева{Line}«Если мне достанется{Line}[карта Чикобо], отец{Line}сможет нарисовать по ней новую карту».{End}",
+        "Target": "{X10Y10}Королева{Line}Если мне достанется{Line}[карта Чикобо], отец{Line}сможет нарисовать по ней новую карту.{End}",
         "Source Text SHA256": "8E420B8AAE52EA43737A592901C5E70F2CA0A6D3984347628C202F32D9ECAACD",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -650,7 +650,7 @@
         }
       },
       "$en_dopub_2_0067": {
-        "Target": "{X10Y10}Королева{Line}«Если мне достанется{Line}[карта Александра], отец{Line}сможет нарисовать по ней новую карту».{End}",
+        "Target": "{X10Y10}Королева{Line}Если мне достанется{Line}[карта Александра], отец{Line}сможет нарисовать по ней новую карту.{End}",
         "Source Text SHA256": "558263FAB74B03A8FD9F4D9343B3D372E5F7CFC4FBBDDF42C92FA8D1B389CDFE",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -658,7 +658,7 @@
         }
       },
       "$en_dopub_2_0068": {
-        "Target": "{X10Y10}Королева{Line}«Если мне достанется{Line}[карта Рокомотива], отец{Line}сможет нарисовать по ней новую карту».{End}",
+        "Target": "{X10Y10}Королева{Line}Если мне достанется{Line}[карта Рокомотива], отец{Line}сможет нарисовать по ней новую карту.{End}",
         "Source Text SHA256": "68359B431F6427990369290C03881FF2895935BCD650E54D21EE7F0873296D89",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -666,7 +666,7 @@
         }
       },
       "$en_dopub_2_0069": {
-        "Target": "{X10Y10}Королева{Line}«Отличная карта.{Line}Уверена, отец нарисует по ней{Line}замечательную новую карту».{End}",
+        "Target": "{X10Y10}Королева{Line}Отличная карта.{Line}Уверена, отец нарисует по ней{Line}замечательную новую карту.{End}",
         "Source Text SHA256": "3CEE4BB4480CD902BDF07C65E72F5754503646E81D3F9ADC1115ACE87B438B41",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -674,7 +674,7 @@
         }
       },
       "$en_dopub_2_0070": {
-        "Target": "{X10Y10}Королева{Line}«[Карту Минимуга], которую добыла{Line}в прошлой поездке, я отдала сыну».{Next}«Отец нарисовал по ней{Line}новую [карту Кироса].{Line}Она где-то в Делинге».{End}",
+        "Target": "{X10Y10}Королева{Line}[Карту Минимуга], которую добыла{Line}в прошлой поездке, я отдала сыну.{Next}Отец нарисовал по ней{Line}новую [карту Кироса].{Line}Она где-то в Делинге.{End}",
         "Source Text SHA256": "B61B3546FCD1A53EE746E9A73A76472DA9F795A6CF3AC41D1C051B73594BAA0C",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -682,7 +682,7 @@
         }
       },
       "$en_dopub_2_0071": {
-        "Target": "{X10Y10}Королева{Line}«[Карту Священного], которую добыла{Line}в прошлой поездке, я отдала сыну».{Next}«Отец нарисовал по ней{Line}новую [карту Ирвина].{Line}Она где-то в ГР».{End}",
+        "Target": "{X10Y10}Королева{Line}[Карту Священного], которую добыла{Line}в прошлой поездке, я отдала сыну.{Next}Отец нарисовал по ней{Line}новую [карту Ирвина].{Line}Она где-то в ГР.{End}",
         "Source Text SHA256": "752E155FF67B227327AA325F5A42D7C476B7C52039FB050133620D99AC53D8B1",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -690,7 +690,7 @@
         }
       },
       "$en_dopub_2_0072": {
-        "Target": "{X10Y10}Королева{Line}«[Карту Чикобо], которую добыла{Line}в прошлой поездке, я отдала сыну».{Next}«Отец нарисовал по ней{Line}новую [карту Толстого чокобо].{Line}Она где-то в Саду Баламб».{End}",
+        "Target": "{X10Y10}Королева{Line}[Карту Чикобо], которую добыла{Line}в прошлой поездке, я отдала сыну.{Next}Отец нарисовал по ней{Line}новую [карту Толстого чокобо].{Line}Она где-то в Саду Баламб.{End}",
         "Source Text SHA256": "7F2BF7F1F703F44C11F5152DC661E8244B7CACC6C0E2825F0E7ED4B3F885890F",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -698,7 +698,7 @@
         }
       },
       "$en_dopub_2_0073": {
-        "Target": "{X10Y10}Королева{Line}«[Карту Александра], которую добыла{Line}в прошлой поездке, я отдала сыну».{Next}«Отец нарисовал по ней{Line}новую [карту Рокомотива].{Line}Она где-то в Тимбере».{End}",
+        "Target": "{X10Y10}Королева{Line}[Карту Александра], которую добыла{Line}в прошлой поездке, я отдала сыну.{Next}Отец нарисовал по ней{Line}новую [карту Рокомотива].{Line}Она где-то в Тимбере.{End}",
         "Source Text SHA256": "8CD5444952B1B12C8E62E8CBA4D8BC6A58486D13D9CE05A628691CB2CBA4F171",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -706,7 +706,7 @@
         }
       },
       "$en_dopub_2_0074": {
-        "Target": "{X10Y10}Королева{Line}«[Карту Рокомотива], которую добыла{Line}в прошлой поездке, я отдала сыну».{Next}«Отец нарисовал по ней{Line}новую [карту Феникса]. Я отдала её{Line}помощнику одного важного человека в Эстаре».{End}",
+        "Target": "{X10Y10}Королева{Line}[Карту Рокомотива], которую добыла{Line}в прошлой поездке, я отдала сыну.{Next}Отец нарисовал по ней{Line}новую [карту Феникса]. Я отдала её{Line}помощнику одного важного человека в Эстаре.{End}",
         "Source Text SHA256": "BE43BDEBF99728B09E848A32B66B75FF5CE571D102F240A0B6EB79EE5F3B809B",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -714,7 +714,7 @@
         }
       },
       "$en_dopub_2_0075": {
-        "Target": "{X10Y10}Королева{Line}«В Доллете приняты{Line}следующие правила».{End}",
+        "Target": "{X10Y10}Королева{Line}В Доллете приняты{Line}следующие правила.{End}",
         "Source Text SHA256": "941CFEF0CCBA727920A93F0C3BAC070BA05AA00D9016CA280BE7CA231600FB42",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -786,7 +786,7 @@
         }
       },
       "$en_dopub_2_0084": {
-        "Target": "{X10Y10}Королева{Line}«Заплати мне 30 000 гил,{Line}и я введу{Line}в этом регионе новое правило».{End}",
+        "Target": "{X10Y10}Королева{Line}Заплати мне 30 000 гил,{Line}и я введу{Line}в этом регионе новое правило.{End}",
         "Source Text SHA256": "A56A1CA2F78280D94F5E29C8E553F2A789545227F4C851196768CDF4B51101E4",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -794,7 +794,7 @@
         }
       },
       "$en_dopub_2_0085": {
-        "Target": "{X10Y10F3L4B3C4}Королева{Line}«Хочешь, чтобы это правило{Line}распространилось по Доллету?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F3L4B3C4}Королева{Line}Хочешь, чтобы это правило{Line}распространилось по Доллету?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "FCEEF4BF1051439031F2FD184FFC4F268E1CB6109BA9B6CE03828EA69B117991",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -802,7 +802,7 @@
         }
       },
       "$en_dopub_2_0086": {
-        "Target": "{X10Y10}Королева{Line}«У тебя не хватит денег».{End}",
+        "Target": "{X10Y10}Королева{Line}У тебя не хватит денег.{End}",
         "Source Text SHA256": "858A5A66E3553B23331187F727995D77A13FBF371422B712FF73AAB1B5F49041",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -810,7 +810,7 @@
         }
       },
       "$en_dopub_2_0087": {
-        "Target": "{X10Y10}Королева{Line}«Сейчас здешний обмен{Line}идёт по правилам Баламба».{End}",
+        "Target": "{X10Y10}Королева{Line}Сейчас здешний обмен{Line}идёт по правилам Баламба.{End}",
         "Source Text SHA256": "5D3B59119E3A80724EFC97F301E385F6B8551391C01A6D125104877FE6B8FBD2",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -818,7 +818,7 @@
         }
       },
       "$en_dopub_2_0088": {
-        "Target": "{X10Y10}Королева{Line}«Сейчас здешний обмен{Line}идёт по правилам Гальбадии».{End}",
+        "Target": "{X10Y10}Королева{Line}Сейчас здешний обмен{Line}идёт по правилам Гальбадии.{End}",
         "Source Text SHA256": "A43D2174716ECE79EA0728EE073A4FEA275454D1B2B445B24D3DD00A07ECF7B7",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -826,7 +826,7 @@
         }
       },
       "$en_dopub_2_0089": {
-        "Target": "{X10Y10}Королева{Line}«Сейчас здешний обмен{Line}идёт по правилам Трабии».{End}",
+        "Target": "{X10Y10}Королева{Line}Сейчас здешний обмен{Line}идёт по правилам Трабии.{End}",
         "Source Text SHA256": "D9CF127CA45F882D7A0AEB9AF59C40F42A5F17DD20AC9192C10F85656EE9BCD3",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -834,7 +834,7 @@
         }
       },
       "$en_dopub_2_0090": {
-        "Target": "{X10Y10}Королева{Line}«Сейчас здешний обмен{Line}идёт по правилам Доллета».{End}",
+        "Target": "{X10Y10}Королева{Line}Сейчас здешний обмен{Line}идёт по правилам Доллета.{End}",
         "Source Text SHA256": "EF3ECD0CFD6D9FF2EA3C43CBD7115A5492C5F652CACF1E8094C1E551F78E3090",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -842,7 +842,7 @@
         }
       },
       "$en_dopub_2_0091": {
-        "Target": "{X10Y10}Королева{Line}«Сейчас здешний обмен{Line}идёт по правилам Центры».{End}",
+        "Target": "{X10Y10}Королева{Line}Сейчас здешний обмен{Line}идёт по правилам Центры.{End}",
         "Source Text SHA256": "82D52056FE54E7C8BF3A44D321F9B8993F7CE3302494ADA6734F26166D285212",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -850,7 +850,7 @@
         }
       },
       "$en_dopub_2_0092": {
-        "Target": "{X10Y10}Королева{Line}«Сейчас здешний обмен{Line}идёт по правилам ГР».{End}",
+        "Target": "{X10Y10}Королева{Line}Сейчас здешний обмен{Line}идёт по правилам ГР.{End}",
         "Source Text SHA256": "013956FABE097CC28FC5F667992EA535CBDF074CE9127E0A9E9A5A2F957A9C5B",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -858,7 +858,7 @@
         }
       },
       "$en_dopub_2_0093": {
-        "Target": "{X10Y10}Королева{Line}«Сейчас здешний обмен{Line}идёт по лунным правилам».{End}",
+        "Target": "{X10Y10}Королева{Line}Сейчас здешний обмен{Line}идёт по лунным правилам.{End}",
         "Source Text SHA256": "E58A591B289D80E2E18E27424A68B75C3280276CC35151A24957E6944352F6A7",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -866,7 +866,7 @@
         }
       },
       "$en_dopub_2_0094": {
-        "Target": "{X10Y10}Королева{Line}«Сейчас здешний обмен{Line}идёт по правилам Эстара».{End}",
+        "Target": "{X10Y10}Королева{Line}Сейчас здешний обмен{Line}идёт по правилам Эстара.{End}",
         "Source Text SHA256": "9B351153A49FB45838BE5154E06D0A1419A483F941442B33B741983830C29FE8",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -874,7 +874,7 @@
         }
       },
       "$en_dopub_2_0095": {
-        "Target": "{X10Y10}Королева{Line}«Здесь редко{Line}обмениваются картами».{End}",
+        "Target": "{X10Y10}Королева{Line}Здесь редко{Line}обмениваются картами.{End}",
         "Source Text SHA256": "5FFEBFFCD22EF73BA40923575D983780D4AFF2250E0C6D47FF0ACC712BB312E2",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -882,7 +882,7 @@
         }
       },
       "$en_dopub_2_0096": {
-        "Target": "{X10Y10}Королева{Line}«Здесь часто{Line}обмениваются картами».{End}",
+        "Target": "{X10Y10}Королева{Line}Здесь часто{Line}обмениваются картами.{End}",
         "Source Text SHA256": "E733BA9F9242581609D78AB28105892DB2C591C00D02B8790B3F72155FED4079",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -890,7 +890,7 @@
         }
       },
       "$en_dopub_2_0097": {
-        "Target": "{X10Y10}Королева{Line}«Здесь довольно оживлённо{Line}обмениваются картами».{End}",
+        "Target": "{X10Y10}Королева{Line}Здесь довольно оживлённо{Line}обмениваются картами.{End}",
         "Source Text SHA256": "B749F1C42749D4FE77F817A88C8D488D8467333199386304BAC32EF148860115",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -898,7 +898,7 @@
         }
       },
       "$en_dopub_2_0098": {
-        "Target": "{X10Y10}Королева{Line}«Отсюда начнёт распространяться{Line}правило обмена „Одна“».{End}",
+        "Target": "{X10Y10}Королева{Line}Отсюда начнёт распространяться{Line}правило обмена „Одна“.{End}",
         "Source Text SHA256": "E3C2F1D933F907934D71C372083184BAE89723474CA0CCA1C5EDB8DDEBCFF08E",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -906,7 +906,7 @@
         }
       },
       "$en_dopub_2_0099": {
-        "Target": "{X10Y10}Королева{Line}«Отсюда начнёт распространяться{Line}правило обмена „Разница“».{End}",
+        "Target": "{X10Y10}Королева{Line}Отсюда начнёт распространяться{Line}правило обмена „Разница“.{End}",
         "Source Text SHA256": "27260015903B58B69895FBE6AB8866E58CD9FAC46ABE95B930A98E41B43FDC8D",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -914,7 +914,7 @@
         }
       },
       "$en_dopub_2_0100": {
-        "Target": "{X10Y10}Королева{Line}«Отсюда начнёт распространяться{Line}правило обмена „Прямой“».{End}",
+        "Target": "{X10Y10}Королева{Line}Отсюда начнёт распространяться{Line}правило обмена „Прямой“.{End}",
         "Source Text SHA256": "112CC7842A553D76EE6598DF47AADC9896C44715E2D63B096A2FBD007006D4E5",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -922,7 +922,7 @@
         }
       },
       "$en_dopub_2_0101": {
-        "Target": "{X10Y10}Королева{Line}«Отсюда начнёт распространяться{Line}правило обмена „Все“».{End}",
+        "Target": "{X10Y10}Королева{Line}Отсюда начнёт распространяться{Line}правило обмена „Все“.{End}",
         "Source Text SHA256": "CFCB6C2200D1BBFA413C1326B5022BB536F73E8266BE0CD136D433FC9BC1267A",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -930,7 +930,7 @@
         }
       },
       "$en_dopub_2_0102": {
-        "Target": "{X10Y10}Королева{Line}«Сейчас по всему миру{Line}стараются избегать{Line}рискованного обмена картами».{Next}«В основном обмениваются умеренно.{Line}Всё идёт к тому, что закрепится{Line}правило обмена „Одна“».{End}",
+        "Target": "{X10Y10}Королева{Line}Сейчас по всему миру{Line}стараются избегать{Line}рискованного обмена картами.{Next}В основном обмениваются умеренно.{Line}Всё идёт к тому, что закрепится{Line}правило обмена „Одна“.{End}",
         "Source Text SHA256": "081C524DD02B8FAA185A6B5401177A1CDD3B6D4A2A4651DFBADDC3060C2627DB",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -938,7 +938,7 @@
         }
       },
       "$en_dopub_2_0103": {
-        "Target": "Королева{Line}«Мне тут наскучило.{Line}Поеду в другой регион».{End}",
+        "Target": "Королева{Line}Мне тут наскучило.{Line}Поеду в другой регион.{End}",
         "Source Text SHA256": "4EDD8F9EB48CDF8ABFAF48C3E945A1C8A5F2AFA5E027108B427BA218A667DE47",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -946,7 +946,7 @@
         }
       },
       "$en_dopub_2_0104": {
-        "Target": "{X10Y10}Королева{Line}«Мне тут наскучило.{Line}Поеду в Баламб».{End}",
+        "Target": "{X10Y10}Королева{Line}Мне тут наскучило.{Line}Поеду в Баламб.{End}",
         "Source Text SHA256": "7E334061470EBA23B0418EE7CDD83C8D057EBA7F5FFC06A77018B60B24D6157B",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -954,7 +954,7 @@
         }
       },
       "$en_dopub_2_0105": {
-        "Target": "{X10Y10}Королева{Line}«Мне тут наскучило.{Line}Поеду в Гальбадию».{End}",
+        "Target": "{X10Y10}Королева{Line}Мне тут наскучило.{Line}Поеду в Гальбадию.{End}",
         "Source Text SHA256": "9C36E5BB147BB8E16DB411D97D44250F6988008A8620DDF7D67F009A044CCAD6",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -962,7 +962,7 @@
         }
       },
       "$en_dopub_2_0106": {
-        "Target": "{X10Y10}Королева{Line}«Мне тут наскучило.{Line}Поеду в Трабию».{End}",
+        "Target": "{X10Y10}Королева{Line}Мне тут наскучило.{Line}Поеду в Трабию.{End}",
         "Source Text SHA256": "F6B3A50A0143456148F6A0C2454A3C403B17E6B20DBF2B67595C2FDCC531E8AC",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -970,7 +970,7 @@
         }
       },
       "$en_dopub_2_0107": {
-        "Target": "{X10Y10}Королева{Line}«Мне тут наскучило.{Line}Поеду в Доллет».{End}",
+        "Target": "{X10Y10}Королева{Line}Мне тут наскучило.{Line}Поеду в Доллет.{End}",
         "Source Text SHA256": "D73270FBE2023F4633598D5FE9EE962660080EA55AFBF2D1AA3FE9E1B2DDB959",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -978,7 +978,7 @@
         }
       },
       "$en_dopub_2_0108": {
-        "Target": "{X10Y10}Королева{Line}«Мне тут наскучило.{Line}Поеду в Центру».{End}",
+        "Target": "{X10Y10}Королева{Line}Мне тут наскучило.{Line}Поеду в Центру.{End}",
         "Source Text SHA256": "963DE404136E79D0EF67C4BEC5C57F4BBE0AD58B68EBB50BEDC53F4636A38EA7",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -986,7 +986,7 @@
         }
       },
       "$en_dopub_2_0109": {
-        "Target": "{X10Y10}Королева{Line}«Мне тут наскучило.{Line}Поеду в ГР».{End}",
+        "Target": "{X10Y10}Королева{Line}Мне тут наскучило.{Line}Поеду в ГР.{End}",
         "Source Text SHA256": "20295812C1FC3A4D79F832020F5A4A59954050C0FA7757FCDB6997AA2C870396",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -994,7 +994,7 @@
         }
       },
       "$en_dopub_2_0110": {
-        "Target": "{X10Y10}Королева{Line}«Мне тут наскучило.{Line}Уеду куда-нибудь подальше».{End}",
+        "Target": "{X10Y10}Королева{Line}Мне тут наскучило.{Line}Уеду куда-нибудь подальше.{End}",
         "Source Text SHA256": "3B8D0F8868FDE2B9E23117E16FA913AC08868496CC1E9DA362EA6FD8088E2F7C",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -1002,7 +1002,7 @@
         }
       },
       "$en_dopub_2_0111": {
-        "Target": "{X10Y10}Королева{Line}«Мне тут наскучило.{Line}Поеду в Эстар».{End}",
+        "Target": "{X10Y10}Королева{Line}Мне тут наскучило.{Line}Поеду в Эстар.{End}",
         "Source Text SHA256": "01703D59DEF18AA58D5696E359626EB3B3D46C01B5112DB4719609B756EF778F",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",
@@ -1010,7 +1010,7 @@
         }
       },
       "$en_dopub_2_0112": {
-        "Target": "{X10Y10}Королева{Line}«В Доллете нет{Line}дополнительных правил».{End}",
+        "Target": "{X10Y10}Королева{Line}В Доллете нет{Line}дополнительных правил.{End}",
         "Source Text SHA256": "D584852EF7F89B5DDFDC5FADF4C90FB3BF7A0E33CA514B5CB5106005CFA64230",
         "sourceContext": {
           "Source MSD SHA256": "52C3AAD3962F2F5C6F7DC1DE3ADC048A3CE4D5C77131E02099CCA253534CAFA7",

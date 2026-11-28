@@ -2,7 +2,7 @@
   "Fields": {
     "gmtika5": {
       "$en_gmtika5_0000": {
-        "Target": "{X12Y12}Охранник{Line}«Эй! Вы!{Line} Что-то я вас раньше здесь не видел...»{End}",
+        "Target": "{X12Y12}Охранник{Line}Эй! Вы!{Line} Что-то я вас раньше здесь не видел...{End}",
         "Source Text SHA256": "DF36052010D6C432A510E01423F19ED1BF60541034F1BD26AAEA971193FDB7B1",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gmtika5_0001": {
-        "Target": "{X12Y12}Охранник{Line}«Ну, нам тут помощь нужна.{Next}Думаю, не имеет значения кто... Можете нам помочь?»{End}",
+        "Target": "{X12Y12}Охранник{Line}Ну, нам тут помощь нужна.{Next}Думаю, не имеет значения кто... Можете нам помочь?{End}",
         "Source Text SHA256": "DD12961761FEADCF666D3EF09C4A57263592F148C9DFEC90DAFC6681E0C5185F",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gmtika5_0004": {
-        "Target": "{X160Y8}Охранник{Line}«Э-эй! Постойте!»{End}",
+        "Target": "{X160Y8}Охранник{Line}Э-эй! Постойте!{End}",
         "Source Text SHA256": "2EE3F29366D8BB2B1DC4F04E9D6F17E60197231631E4E73837B86DDF810675EA",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gmtika5_0005": {
-        "Target": "{X160Y8}Охранник{Line}«Проклятье! Это нарушители!»{End}",
+        "Target": "{X160Y8}Охранник{Line}Проклятье! Это нарушители!{End}",
         "Source Text SHA256": "1C61FF2C057CFFDD21BAE0D5BD962E4EFBE27FF36E9AD43BBBD8548F588287E2",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gmtika5_0006": {
-        "Target": "{X8Y8}«Внимание всему{Line} персоналу! Чрезвычайная ситуация!{Line} Зафиксировано несанкционированное проникновение! Задержать{Line} нарушителей любым способом!»{End}",
+        "Target": "{X8Y8}Внимание всему{Line} персоналу! Чрезвычайная ситуация!{Line} Зафиксировано несанкционированное проникновение! Задержать{Line} нарушителей любым способом!{End}",
         "Source Text SHA256": "E53EA387FADD1F501669FF71AC74FCEEB5734A664579D092159AE2D38A6C4180",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gmtika5_0007": {
-        "Target": "{X12Y12}Охранник{Line}«Сюда. Следуйте{Line} за мной».{End}",
+        "Target": "{X12Y12}Охранник{Line}Сюда. Следуйте{Line} за мной.{End}",
         "Source Text SHA256": "6093955C906A97F054432FCAE6F34C1F14672CEA4A52676CC2B3B33BDB85800B",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gmtika5_0008": {
-        "Target": "{X12Y12}Охранник{Line}«Невероятно... Отказ питания в такой важный{Line} момент? Чем, дьявол их побери,{Line} занимаются парни из техобслуживания?..»{End}",
+        "Target": "{X12Y12}Охранник{Line}Невероятно... Отказ питания в такой важный{Line} момент? Чем, дьявол их побери,{Line} занимаются парни из техобслуживания?..{End}",
         "Source Text SHA256": "BA952B64C2DEEA819F11F6854D175C6248F6C14AC443A2C76DF56BA8DDC3703F",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gmtika5_0009": {
-        "Target": "{X160Y12}{Char Selphie}{Line}«А?! Что-о-о?! Ой, нет!»{End}",
+        "Target": "{X160Y12}{Char Selphie}{Line}А?! Что-о-о?! Ой, нет!{End}",
         "Source Text SHA256": "A6C0FFFF07343CE62D3F2BCE19248CDFC3A8FD611839B553FB68D5A1D748C786",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gmtika5_0010": {
-        "Target": "{X120Y12}{Char Zell}{Line}«Дело плохо!»{End}",
+        "Target": "{X120Y12}{Char Zell}{Line}Дело плохо!{End}",
         "Source Text SHA256": "188635605EA04A8A78D6DE228DC14BDFA7E7060615BC4B8E11CCF19710C60C0C",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gmtika5_0011": {
-        "Target": "{X120Y12}{Char Rinoa}{Line}«Ой! Только не это...»{End}",
+        "Target": "{X120Y12}{Char Rinoa}{Line}Ой! Только не это...{End}",
         "Source Text SHA256": "A50D2DB74FA7FFC7BE38BC3566C3F5B97E594457857CA142207EFE12C46FF996",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gmtika5_0012": {
-        "Target": "{X120Y12}{Char Quistis}{Line}«Да, мы сами виноваты,{Line} но дело плохо...»{End}",
+        "Target": "{X120Y12}{Char Quistis}{Line}Да, мы сами виноваты,{Line} но дело плохо...{End}",
         "Source Text SHA256": "C3926AE51360734DF9978D2DE0E1EF48F560F270E949045DFCB416AC094AE01C",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gmtika5_0013": {
-        "Target": "{X120Y12}{Char Irvine}{Line}«А-А-А! НЕ-Е-ЕТ!{Line} Почему, почему, ПОЧЕМУ?!»{Next}«Почему вечно{Line} со мной одни неприятности?..»{End}",
+        "Target": "{X120Y12}{Char Irvine}{Line}А-А-А! НЕ-Е-ЕТ!{Line} Почему, почему, ПОЧЕМУ?!{Next}Почему вечно{Line} со мной одни неприятности?..{End}",
         "Source Text SHA256": "BC27288B24903B80FA2ABDE4510D87B53D2F52D340A213B644DC44729AD7A04D",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gmtika5_0014": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Надо убираться отсюда, живо!»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Надо убираться отсюда, живо!{End}",
         "Source Text SHA256": "4EEAB44356340BC1574DFDAD8071323D4D38BFFE520D19B99C80ECC8935B2B84",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gmtika5_0015": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«Надо сейчас же уходить,{Line} иначе нас найдут!»{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}Надо сейчас же уходить,{Line} иначе нас найдут!{End}",
         "Source Text SHA256": "F323B702D3E361EA7EDBD70DEFB13B7315722193676BEA9DB88EAF486FEBFF5F",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gmtika5_0016": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Давайте просто уйдём отсюда!»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Давайте просто уйдём отсюда!{End}",
         "Source Text SHA256": "3BB5869909EED6CFA0FF84DE3A8CC17679CCDEEFA964083E73088C5EC8EB654F",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gmtika5_0017": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Что сделано, то сделано.{Line} Пора нам отсюда сматываться».{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Что сделано, то сделано.{Line} Пора нам отсюда сматываться.{End}",
         "Source Text SHA256": "21E23A2AD275376808EDF6C7591E1B8897B7346B42C311FD902CF3D52BB3BAC8",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gmtika5_0018": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«И что мы с ней будем делать?»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}И что мы с ней будем делать?{End}",
         "Source Text SHA256": "05CE5D35019AB1653E4571BAA0527611F85BA032A8A7D73A0F32BED43B4F4CA3",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gmtika5_0019": {
-        "Target": "{Char Irvine}{Line}«Давайте просто разобьём эту хреновину!»{End}",
+        "Target": "{Char Irvine}{Line}Давайте просто разобьём эту хреновину!{End}",
         "Source Text SHA256": "0658145DC6E41A58F3BDB111B613C39F7BF8F1FB3B1C43A0C5C32138B1160CEA",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gmtika5_0019_ctx_2a6d542a31a697ff": {
-        "Target": "{X12Y140}{Char Irvine}{Line}«Давайте просто разобьём эту хреновину!»{End}",
+        "Target": "{X12Y140}{Char Irvine}{Line}Давайте просто разобьём эту хреновину!{End}",
         "Source Text SHA256": "0658145DC6E41A58F3BDB111B613C39F7BF8F1FB3B1C43A0C5C32138B1160CEA",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -170,7 +170,7 @@
         }
       },
       "$en_gmtika5_0019_ctx_946bf576fd7da4fb": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Давайте просто разобьём эту хреновину!»{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Давайте просто разобьём эту хреновину!{End}",
         "Source Text SHA256": "0658145DC6E41A58F3BDB111B613C39F7BF8F1FB3B1C43A0C5C32138B1160CEA",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -178,7 +178,7 @@
         }
       },
       "$en_gmtika5_0020": {
-        "Target": "{X12Y140}{Char Rinoa}{Line}«Может, сломаем её?»{End}",
+        "Target": "{X12Y140}{Char Rinoa}{Line}Может, сломаем её?{End}",
         "Source Text SHA256": "1D34B9B325AE2D36A096C4468EE806DBC4EB326FE3412729E52945F031454A60",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -186,7 +186,7 @@
         }
       },
       "$en_gmtika5_0021": {
-        "Target": "{Char Zell}{Line}«Давайте просто разобьём эту малышку!»{End}",
+        "Target": "{Char Zell}{Line}Давайте просто разобьём эту малышку!{End}",
         "Source Text SHA256": "41626E18BCF8B1C149CBB6D5BC1D7010A862B03ED4E22F4715AA99328B48459E",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -194,7 +194,7 @@
         }
       },
       "$en_gmtika5_0021_ctx_2a6d542a31a697ff": {
-        "Target": "{X12Y140}{Char Zell}{Line}«Давайте просто разобьём эту малышку!»{End}",
+        "Target": "{X12Y140}{Char Zell}{Line}Давайте просто разобьём эту малышку!{End}",
         "Source Text SHA256": "41626E18BCF8B1C149CBB6D5BC1D7010A862B03ED4E22F4715AA99328B48459E",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -202,7 +202,7 @@
         }
       },
       "$en_gmtika5_0021_ctx_946bf576fd7da4fb": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Давайте просто разобьём эту малышку!»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Давайте просто разобьём эту малышку!{End}",
         "Source Text SHA256": "41626E18BCF8B1C149CBB6D5BC1D7010A862B03ED4E22F4715AA99328B48459E",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -210,7 +210,7 @@
         }
       },
       "$en_gmtika5_0022": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«Кто-нибудь знает, как это работает?!»{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}Кто-нибудь знает, как это работает?!{End}",
         "Source Text SHA256": "296EC57FB1B93B91D074071E899410246D76B158D3675E1F0C57E2C883B5C8C4",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -218,7 +218,7 @@
         }
       },
       "$en_gmtika5_0023": {
-        "Target": "{X12Y140}{Char Quistis}{Line}«Давайте просто её уничтожим».{End}",
+        "Target": "{X12Y140}{Char Quistis}{Line}Давайте просто её уничтожим.{End}",
         "Source Text SHA256": "599C653F30DD590080629482D759DAC9BE70C2A34A01DBD2321DD31A6E39E52B",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -234,7 +234,7 @@
         }
       },
       "$en_gmtika5_0025": {
-        "Target": "{X140Y150}{Char Selphie}{Line}«Будет мегаоблом если{Line} мы по ошибке запустим ракеты.{Next}Давайте{Line} изучим её тщательнее».{End}",
+        "Target": "{X140Y150}{Char Selphie}{Line}Будет мегаоблом если{Line} мы по ошибке запустим ракеты.{Next}Давайте{Line} изучим её тщательнее.{End}",
         "Source Text SHA256": "9F5A6C1B63C3323C6A4DCE65007BF8EEA14E9C7D842E10374FF04F6627000531",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -242,7 +242,7 @@
         }
       },
       "$en_gmtika5_0026": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Это вполне разумно».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Это вполне разумно.{End}",
         "Source Text SHA256": "CFDC177F2798A7A792564667355D7C8D01805103221D121FE5A6377CAC337A72",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -250,7 +250,7 @@
         }
       },
       "$en_gmtika5_0027": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«...Да, так надёжнее».{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}...Да, так надёжнее.{End}",
         "Source Text SHA256": "BC1B5A5AF32CC428BEA17869733C1D7C231334452B314B6F570E0B48BACD492B",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -258,7 +258,7 @@
         }
       },
       "$en_gmtika5_0028": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«...Да, думаю, так и надо».{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}...Да, думаю, так и надо.{End}",
         "Source Text SHA256": "ADD36D47E7726040ED332D11ABD6971E694EB70BEC50B9BC00E0BBB17CBD4889",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",
@@ -266,7 +266,7 @@
         }
       },
       "$en_gmtika5_0029": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Блин, я как-то не подумал...»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Блин, я как-то не подумал...{End}",
         "Source Text SHA256": "753A62E28EC4B12D9CC5625392AE76AA41F777DFD7106DB930CE19B61FDE9487",
         "sourceContext": {
           "Source MSD SHA256": "FC34CE56EFEB675E0213365550451F16F42CFA286C58A8586B1D0B0693E5305D",

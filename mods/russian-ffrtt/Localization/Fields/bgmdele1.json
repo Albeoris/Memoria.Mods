@@ -26,7 +26,7 @@
         }
       },
       "$en_bgmdele1_0003": {
-        "Target": "{X12Y12}{Char Squall}{Line}«Помните, о чём говорил Сид? Здесь уже давно никого{Line} не было, будьте осторожны».{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}Помните, о чём говорил Сид? Здесь уже давно никого{Line} не было, будьте осторожны.{End}",
         "Source Text SHA256": "B446DF2C5B6683CD540D296BF91D1974077DD0FD3F01254F55378C931096CF20",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgmdele1_0004": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Что?!{Line} Я не знаю, что делать!»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Что?!{Line} Я не знаю, что делать!{End}",
         "Source Text SHA256": "3903E3534F8B5E0732C60260F69D6E0DA8C9D8174D5E4FE8EC5E687519F1AA6B",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgmdele1_0005": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«Эй, я не собираюсь{Line} здесь застрять!»{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}Эй, я не собираюсь{Line} здесь застрять!{End}",
         "Source Text SHA256": "938E292B348B8DA5750468BAE051DBC53CA2BFEE298D320E6A240FDD69F1B459",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bgmdele1_0006": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Он не может застрять{Line} здесь навечно».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Он не может застрять{Line} здесь навечно.{End}",
         "Source Text SHA256": "BF27E198405F3B08BC6FD17EAD63FB6066C2432E0A931DDFD1D356BD3438E757",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgmdele1_0007": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Ну и ну. Одно{Line} приключение за другим».{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Ну и ну. Одно{Line} приключение за другим.{End}",
         "Source Text SHA256": "4BBA52A45CB800908CA17C31F1B0B383A2B833B828DE8AD56DCC5E718C66F251",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgmdele1_0009": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Да ладно!{Line} Должен же быть выход!»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Да ладно!{Line} Должен же быть выход!{End}",
         "Source Text SHA256": "81C2D8EE35C73DA4C33457A5273210DD29C9368BEA0F44B377B3B0D3E99A50B0",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgmdele1_0010": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«Должен{Line} же быть какой-то выход».{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}Должен{Line} же быть какой-то выход.{End}",
         "Source Text SHA256": "4D3B5D724EEFA02F9CC903E2A93BFA657E3C848EB9FF42F2FA5EEBA501277875",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgmdele1_0011": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Здесь точно должен{Line} быть какой-нибудь выход».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Здесь точно должен{Line} быть какой-нибудь выход.{End}",
         "Source Text SHA256": "D79B80C2267CA9FEE73035B6EA2BEDE6E6B98CBD0FFAD49F6C4717CDC99B58D5",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgmdele1_0012": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Выход есть всегда... даже{Line} из застрявшего посреди шахты лифта».{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Выход есть всегда... даже{Line} из застрявшего посреди шахты лифта.{End}",
         "Source Text SHA256": "CDA7A9C88003DAC321C00B5E2D8F498566F372D6200D477D0CB9F61C3BE4EE39",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bgmdele1_0013": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Отлично!»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Отлично!{End}",
         "Source Text SHA256": "4CD3680CD71EB0B885FDFA630F3F66B17AE5821AA59D35DDA7F071619BDBA263",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bgmdele1_0014": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«Отлично, {Char Squall}!»{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}Отлично, {Char Squall}!{End}",
         "Source Text SHA256": "DB3DF2D10DA958C127D058950B74AF432BB1336719B78B86910389A9272593AD",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bgmdele1_0015": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Пошли».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Пошли.{End}",
         "Source Text SHA256": "11CBEA4EB9BBD61A4106F28AA5E163BE7DE7C3BB8B0A57097C446938D22644EA",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bgmdele1_0016": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Здорово».{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Здорово.{End}",
         "Source Text SHA256": "00393F1352ACE28BFA5D8C262A90B8A4A7B6B348855561969B068A1B6B584F34",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bgmdele1_0017": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Забудь, с места не сдвинется.{Line} Пойдём отсюда».{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Забудь, с места не сдвинется.{Line} Пойдём отсюда.{End}",
         "Source Text SHA256": "BA59CF7013A362E0698AD5A9783B15F826657373CDB4770DE1F6DB10C82A907F",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bgmdele1_0018": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«Эм… По-моему,{Line} мы зря теряем время».{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}Эм… По-моему,{Line} мы зря теряем время.{End}",
         "Source Text SHA256": "1FA46BB5411C0B2CA138A0C6A022E2CBD4C0CA494E0097DCF4D2500C04619F93",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bgmdele1_0019": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Какой смысл идти обратно?»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Какой смысл идти обратно?{End}",
         "Source Text SHA256": "46E194956E15153F25ED4FCA50BB98962983362F98465C3391D1F385F8701C2B",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bgmdele1_0020": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«По-моему, эта штука больше не поедет».{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}По-моему, эта штука больше не поедет.{End}",
         "Source Text SHA256": "E188A20352CDBBEBBA8AFF5CA51DFE600C92A235871B015B4500E4BE275E1458",
         "sourceContext": {
           "Source MSD SHA256": "12ABDB9A39D3648DB6E4CB3EF9654C0A3861625DC28ED60B40A0720C0BF4040C",

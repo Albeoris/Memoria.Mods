@@ -10,7 +10,7 @@
         }
       },
       "$en_gpescap1_0001": {
-        "Target": "{X160Y40}{Char Selphie}{Line}«Мы можем выбраться?»{End}",
+        "Target": "{X160Y40}{Char Selphie}{Line}Мы можем выбраться?{End}",
         "Source Text SHA256": "364380C1798467FDCFCE7477ED648EAA68C47D46F5FF4325BBBCDF8D8DF0C207",
         "sourceContext": {
           "Source MSD SHA256": "00457E28D4978EEF79C6B326161907913274A421FF80BCF957E47F7B729B3F20",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gpescap1_0002": {
-        "Target": "{X20Y30}{Char Quistis}{Line}«Лучше бы{Line} нам повезло».{End}",
+        "Target": "{X20Y30}{Char Quistis}{Line}Лучше бы{Line} нам повезло.{End}",
         "Source Text SHA256": "EFA11C9FAE70DB89039D192A3C225E97A774D841FCD43CFF14F5BCAEF2C70329",
         "sourceContext": {
           "Source MSD SHA256": "00457E28D4978EEF79C6B326161907913274A421FF80BCF957E47F7B729B3F20",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gpescap1_0003": {
-        "Target": "{X120Y8}{Char Squall}{Line}«Песок?..»{End}",
+        "Target": "{X120Y8}{Char Squall}{Line}Песок?..{End}",
         "Source Text SHA256": "D802518C87F9CF1A4E9E8B45E32E6714363DE16AA6E163D3AF3E1FCDBE4537E0",
         "sourceContext": {
           "Source MSD SHA256": "00457E28D4978EEF79C6B326161907913274A421FF80BCF957E47F7B729B3F20",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gpescap1_0004": {
-        "Target": "{X8Y30}{Char Quistis}{Line}«......{Next}Засыпало?..{Line} Хочешь сказать, мы под землёй?»{End}",
+        "Target": "{X8Y30}{Char Quistis}{Line}......{Next}Засыпало?..{Line} Хочешь сказать, мы под землёй?{End}",
         "Source Text SHA256": "031AD12B456018D4BE82A6FF782B1059B4A2E06E54EB4E580FAB43B4B0D7475A",
         "sourceContext": {
           "Source MSD SHA256": "00457E28D4978EEF79C6B326161907913274A421FF80BCF957E47F7B729B3F20",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gpescap1_0005": {
-        "Target": "{X8Y30}{Char Quistis}{Line}«В любом случае{Line} нам отсюда не выбраться...»{End}",
+        "Target": "{X8Y30}{Char Quistis}{Line}В любом случае{Line} нам отсюда не выбраться...{End}",
         "Source Text SHA256": "A6D393796E249D350C6C9CC5ED3B7969D1481B9C19F87020A99E8ECB83B3ED77",
         "sourceContext": {
           "Source MSD SHA256": "00457E28D4978EEF79C6B326161907913274A421FF80BCF957E47F7B729B3F20",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gpescap1_0006": {
-        "Target": "{X180Y50}{Char Selphie}{Line}«Что это было?»{End}",
+        "Target": "{X180Y50}{Char Selphie}{Line}Что это было?{End}",
         "Source Text SHA256": "5C293F9D902B5B9C852347B21DD21BD14A7E6B80F7A9026C576CEC6F9F2383D8",
         "sourceContext": {
           "Source MSD SHA256": "00457E28D4978EEF79C6B326161907913274A421FF80BCF957E47F7B729B3F20",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gpescap1_0007": {
-        "Target": "{X40Y30}{Char Quistis}{Line}«Выстрелы?»{End}",
+        "Target": "{X40Y30}{Char Quistis}{Line}Выстрелы?{End}",
         "Source Text SHA256": "855F36CB8ADC84065BA366D33B3CC97D3CADDBC9C1EF39B7984E3670BC39B03C",
         "sourceContext": {
           "Source MSD SHA256": "00457E28D4978EEF79C6B326161907913274A421FF80BCF957E47F7B729B3F20",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gpescap1_0008": {
-        "Target": "{X81Y8}{Char Squall}{Line}«Это не сулит ничего хорошего...»{End}",
+        "Target": "{X81Y8}{Char Squall}{Line}Это не сулит ничего хорошего...{End}",
         "Source Text SHA256": "FDA3B3BF48C772687B86963B5D146D9302EE45D02E4DF77A90D2338C1D8F65BA",
         "sourceContext": {
           "Source MSD SHA256": "00457E28D4978EEF79C6B326161907913274A421FF80BCF957E47F7B729B3F20",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gpescap1_0009": {
-        "Target": "{X133Y40}Все{Line}«......»{End}",
+        "Target": "{X133Y40}Все{Line}......{End}",
         "Source Text SHA256": "6ED4B2C299506CB801FD27F92BFF95F0F8D971E9255C99117B0A3DF5E5D6A764",
         "sourceContext": {
           "Source MSD SHA256": "00457E28D4978EEF79C6B326161907913274A421FF80BCF957E47F7B729B3F20",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gpescap1_0011": {
-        "Target": "{X8Y30}{Char Quistis}{Line}«Быстро, возвращаемся назад!»{End}",
+        "Target": "{X8Y30}{Char Quistis}{Line}Быстро, возвращаемся назад!{End}",
         "Source Text SHA256": "AF6633719AE5E9F079B4F3DCCFEDD96BEED95FEA1EAC41C3A450F9CDF756ADC0",
         "sourceContext": {
           "Source MSD SHA256": "00457E28D4978EEF79C6B326161907913274A421FF80BCF957E47F7B729B3F20",

@@ -2,7 +2,7 @@
   "Fields": {
     "bvcar_1": {
       "$en_bvcar_1_0000": {
-        "Target": "{X120Y12}{Char Zell}{Line}«Эй, {Char Squall}. Покажешь мне свой{Line}ганблейд, а?»{End}",
+        "Target": "{X120Y12}{Char Zell}{Line}Эй, {Char Squall}. Покажешь мне свой{Line}ганблейд, а?{End}",
         "Source Text SHA256": "3F77C626A31F353BCF06E8B277AEE42C9D5366187A9969C1E404BF34669D0591",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -10,7 +10,7 @@
         }
       },
       "$en_bvcar_1_0001": {
-        "Target": "{X160Y12}{Char Zell}{Line}«Ну же, чувак!»{End}",
+        "Target": "{X160Y12}{Char Zell}{Line}Ну же, чувак!{End}",
         "Source Text SHA256": "A76373FDFB865BB66D29C6DF8AE15430F27A53452678B96F0A3B8787E8D995AC",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bvcar_1_0002": {
-        "Target": "{X140Y12}{Char Zell}{Line}«Хоть одним глазком!»{End}",
+        "Target": "{X140Y12}{Char Zell}{Line}Хоть одним глазком!{End}",
         "Source Text SHA256": "C5911C1E5F08F906316A0811E35E11971A6397F9387FB9E8A8DA008301C756D1",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bvcar_1_0003": {
-        "Target": "{X210Y12}{Char Zell}{Line}«Ну и ладно...»{End}",
+        "Target": "{X210Y12}{Char Zell}{Line}Ну и ладно...{End}",
         "Source Text SHA256": "329C7E6194E71528EB6C729C76E229CA3F2FBA2D84F4723005715459C350CFA8",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bvcar_1_0004": {
-        "Target": "{X220Y12}{Char Zell}{Line}«Не хочешь и не надо...»{End}",
+        "Target": "{X220Y12}{Char Zell}{Line}Не хочешь и не надо...{End}",
         "Source Text SHA256": "54A06937F9A0886A1E54E0B78E610FB65E277E3F40474FE2A29BC7EDC30A769B",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bvcar_1_0005": {
-        "Target": "{X120Y12}{Char Zell}{Line}«И почему ты такой эгоист?!..{Line}Жааааааааааадина!»{End}",
+        "Target": "{X120Y12}{Char Zell}{Line}И почему ты такой эгоист?!..{Line}Жааааааааааадина!{End}",
         "Source Text SHA256": "54CAE9E0E1DBD4D09C392D82AEFB1673C724589922E25265B372DE2253819428",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bvcar_1_0006": {
-        "Target": "{X120Y12}{Char Zell}{Line}«Эй, да скажи ты уже что-нибудь!»{End}",
+        "Target": "{X120Y12}{Char Zell}{Line}Эй, да скажи ты уже что-нибудь!{End}",
         "Source Text SHA256": "F83ADF250CC9A7F2852804C40415D2ACB7BD905DFF350193B0D2D2379AC7F8AE",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bvcar_1_0007": {
-        "Target": "{X12Y160}{Char Squall}{Line}«.........»{End}",
+        "Target": "{X12Y160}{Char Squall}{Line}.........{End}",
         "Source Text SHA256": "C18086EF038DED2D551650BA1ACE035A542C03DE85996859A608F09D30C1EEBA",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bvcar_1_0008": {
-        "Target": "{X12Y160}{Char Squall}{Line}«Что-нибудь...»",
+        "Target": "{X12Y160}{Char Squall}{Line}Что-нибудь...",
         "Source Text SHA256": "BEB79F012EEDBC05B054B0307B246123446BFA6005FE7973BFE8909D9A1718A7",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bvcar_1_0009": {
-        "Target": "{X64Y170}{Char Quistis}{Line}«Что-нибудь...»{End}",
+        "Target": "{X64Y170}{Char Quistis}{Line}Что-нибудь...{End}",
         "Source Text SHA256": "6ABBCA5104E7F4510D03AD0D323666DAEED7E87DAA9DFCD62D7DE3DC1BD3F63C",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bvcar_1_0010": {
-        "Target": "{X190Y12}{Char Zell}{Line}«.........»{End}",
+        "Target": "{X190Y12}{Char Zell}{Line}.........{End}",
         "Source Text SHA256": "EE6E43A8EFBD4480371E16808C777FE872C5164C0D96E404790DCFA093CBF347",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bvcar_1_0011": {
-        "Target": "{X200Y160}{Char Seifer}{Line}«Перестань. Раздражает...»{End}",
+        "Target": "{X200Y160}{Char Seifer}{Line}Перестань. Раздражает...{End}",
         "Source Text SHA256": "F97BD507BBD6516E5F47E7E1251EA3F8F211534060A9FC13DDA98CF4056DFC0A",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bvcar_1_0012": {
-        "Target": "{X200Y160}{Char Seifer}{Line}«Сопляк...»{End}",
+        "Target": "{X200Y160}{Char Seifer}{Line}Сопляк...{End}",
         "Source Text SHA256": "E37AF970226CD56CA0FD5DD5FFB6AB6F0EF9D09727892A9A311F09D226BB391C",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bvcar_1_0013": {
-        "Target": "{X12Y160}{Char Zell}{Line}«КАК ТЫ МЕНЯ НАЗВАЛ?!»{End}",
+        "Target": "{X12Y160}{Char Zell}{Line}КАК ТЫ МЕНЯ НАЗВАЛ?!{End}",
         "Source Text SHA256": "B5972A899429B1D67768A3B13243185146AB61F146C861A55C107A599DDFDB99",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bvcar_1_0014": {
-        "Target": "{X200Y160}{Char Seifer}{Line}«Хехехе...»{End}",
+        "Target": "{X200Y160}{Char Seifer}{Line}Хехехе...{End}",
         "Source Text SHA256": "41CFB7AD9843ABB2BA452C2CBC217A4CB7DB7DD930BBF38391DCDC76BC1E13CC",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bvcar_1_0015": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Да перестаньте наконец!»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Да перестаньте наконец!{End}",
         "Source Text SHA256": "7027BBE599DA71C753D4D131576B310865BE52E52148F107A1A0FE953C04F227",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bvcar_1_0016": {
-        "Target": "{X12Y160}{Char Squall}{Line}«Инструктор...»",
+        "Target": "{X12Y160}{Char Squall}{Line}Инструктор...",
         "Source Text SHA256": "0EDD3D1013DA23DA433746FF3EC6036FD953D8D1A4592709F0F7B442808787D3",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bvcar_1_0017": {
-        "Target": "{X12Y160}{Char Squall}{Line}«Что за девушка была{Line} сегодня утром в лазарете?»",
+        "Target": "{X12Y160}{Char Squall}{Line}Что за девушка была{Line} сегодня утром в лазарете?",
         "Source Text SHA256": "C17A79768966801E96465B6520E6E0EA5F02D1D706B76075862D705DAA98498E",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bvcar_1_0018": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Разве там кто-то был? Я никого не{Line}заметила».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Разве там кто-то был? Я никого не{Line}заметила.{End}",
         "Source Text SHA256": "6D3DFC29529ACCDD4740B4F42FBC90230237778692E2CFCBBBF984652399543A",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bvcar_1_0019": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Хорошенькая?..»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Хорошенькая?..{End}",
         "Source Text SHA256": "072CBB3B5C6CD55FB1D464ABB9F4B7F04A486E6C717CAF7376350EB051DB4105",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bvcar_1_0020": {
-        "Target": "{X12Y160}{Char Squall}{Line}«Нет... не в том дело...»",
+        "Target": "{X12Y160}{Char Squall}{Line}Нет... не в том дело...",
         "Source Text SHA256": "019711F74E1B1A0A01F0D0857CA6AD19FC411BEC3556E327D730CD1BCE548A71",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",
@@ -170,7 +170,7 @@
         }
       },
       "$en_bvcar_1_0021": {
-        "Target": "{X160Y160}{Char Seifer}{Line}«Великолепно...»{Next}«У меня в отряде сопляк и парень, только{Line}что достигнувший половой зрелости...»{End}",
+        "Target": "{X160Y160}{Char Seifer}{Line}Великолепно...{Next}У меня в отряде сопляк и парень, только{Line}что достигнувший половой зрелости...{End}",
         "Source Text SHA256": "8591F7E6C4D685D34217ACB222DE0CCD737B40CA8C145F6092C07DF52269C240",
         "sourceContext": {
           "Source MSD SHA256": "BF781EB6F480B404DF91F708B540D78ED98450041D37770CB0B26EFD0191B24D",

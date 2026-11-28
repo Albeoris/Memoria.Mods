@@ -2,7 +2,7 @@
   "Fields": {
     "tiyane1": {
       "$en_tiyane1_0000": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}«{Char Squall}, сюда!»{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}{Char Squall}, сюда!{End}",
         "Source Text SHA256": "4295F344484FAEC6F732E320F1C0E21E1735852852EF12144AF95A344A2D698E",
         "sourceContext": {
           "Source MSD SHA256": "018D2FA5B6C27E2778E92BF69DE5F8F1A770C522A86B7C40DCDD0129F9E5A637",
@@ -10,7 +10,7 @@
         }
       },
       "$en_tiyane1_0001": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}«Мы скоро догоним [2-ой {Color Blue}эскорт]. Приготовьтесь.{Color White}{Next}После{Line} того как мы сблизимся, нам следует как можно быстрее{Line} перепрыгнуть на его крышу, чтобы{Line} выиграть немного времени».{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}Мы скоро догоним [2-ой {Color Blue}эскорт]. Приготовьтесь.{Color White}{Next}После{Line} того как мы сблизимся, нам следует как можно быстрее{Line} перепрыгнуть на его крышу, чтобы{Line} выиграть немного времени.{End}",
         "Source Text SHA256": "0B5102791468BF8D87C4C473B9BEA65ECE627C373CE3BB114973E35EB4DA3751",
         "sourceContext": {
           "Source MSD SHA256": "018D2FA5B6C27E2778E92BF69DE5F8F1A770C522A86B7C40DCDD0129F9E5A637",
@@ -18,7 +18,7 @@
         }
       },
       "$en_tiyane1_0002": {
-        "Target": "{X20Y150}{Char Rinoa}{Line}«С этого момента у нас ровно... 5 минут{Pause 96}{Color Yellow}на выполнение операции.{Color White}{Next}Постарайтесь использовать каждую секунду отведённого времени с толком».{End}",
+        "Target": "{X20Y150}{Char Rinoa}{Line}С этого момента у нас ровно... 5 минут{Pause 96}{Color Yellow}на выполнение операции.{Color White}{Next}Постарайтесь использовать каждую секунду отведённого времени с толком.{End}",
         "Source Text SHA256": "24631652868B085A3E703935802B89DB38EF22E5974C48E82BF7B20949278082",
         "sourceContext": {
           "Source MSD SHA256": "018D2FA5B6C27E2778E92BF69DE5F8F1A770C522A86B7C40DCDD0129F9E5A637",

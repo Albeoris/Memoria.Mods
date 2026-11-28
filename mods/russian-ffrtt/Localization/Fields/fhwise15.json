@@ -26,7 +26,7 @@
         }
       },
       "$en_fhwise15_0003": {
-        "Target": "{Char Selphie}{Line}«Погодите».{End}",
+        "Target": "{Char Selphie}{Line}Погодите.{End}",
         "Source Text SHA256": "8CF3B32270FD6AC8CE8E774D31B7500A9C2A939D2ACD26761591471108FF9C58",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -34,7 +34,7 @@
         }
       },
       "$en_fhwise15_0004": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Привет, народ».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Привет, народ.{End}",
         "Source Text SHA256": "E15AD5FDC5B249841FD170E602B88CDECF359DC77930291799912A662E70132B",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -42,7 +42,7 @@
         }
       },
       "$en_fhwise15_0005": {
-        "Target": "{Char Irvine}{Line}«Спасибо, что пришли.{Line} Сейчас соберём{Line} группу Сельфи».{End}",
+        "Target": "{Char Irvine}{Line}Спасибо, что пришли.{Line} Сейчас соберём{Line} группу Сельфи.{End}",
         "Source Text SHA256": "361C7F0EA3B7FEEB8C99CE538DCE0ACFD5FC64D0051294AA013828916B6B9EAC",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -50,7 +50,7 @@
         }
       },
       "$en_fhwise15_0006": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Вот наш продюсер, Сельфи».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Вот наш продюсер, Сельфи.{End}",
         "Source Text SHA256": "A21F59A906EE8BA42FBBE53A63F38758100221DFB8085953096F3D89E58DDD16",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -58,7 +58,7 @@
         }
       },
       "$en_fhwise15_0007": {
-        "Target": "{X30Y20}{Char Selphie}{Line}«Кхм!»{End}",
+        "Target": "{X30Y20}{Char Selphie}{Line}Кхм!{End}",
         "Source Text SHA256": "545DED5F83C9E6DFAFFC1BD850234BEBDE44957F7CC26E25A3CE11CB7C1904C6",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -66,7 +66,7 @@
         }
       },
       "$en_fhwise15_0008": {
-        "Target": "{X10Y20}{Char Selphie}{Line}«Концерт проведём, как и задумали.{Line}Выступаем не только для себя».{Next}«Ещё и для {Char Squall}.{Line}Ну, чтобы поздравить его{Line}с повышением».{End}",
+        "Target": "{X10Y20}{Char Selphie}{Line}Концерт проведём, как и задумали.{Line}Выступаем не только для себя.{Next}Ещё и для {Char Squall}.{Line}Ну, чтобы поздравить его{Line}с повышением.{End}",
         "Source Text SHA256": "7BABFC3A72E1D18E300284CBC60D0EFFB38C4BE858226E5DF074E30979CF733D",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -74,7 +74,7 @@
         }
       },
       "$en_fhwise15_0009": {
-        "Target": "{X10Y30}{Char Quistis}{Line}«Звучит весело».{End}",
+        "Target": "{X10Y30}{Char Quistis}{Line}Звучит весело.{End}",
         "Source Text SHA256": "6F0B9DA25F1F8856AC2E8FF6C4636874370AE6FB621A46A82C19DB858883C4B0",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -82,7 +82,7 @@
         }
       },
       "$en_fhwise15_0010": {
-        "Target": "{X124Y10}{Char Zell}{Line}«Так кто будет выступать?»{End}",
+        "Target": "{X124Y10}{Char Zell}{Line}Так кто будет выступать?{End}",
         "Source Text SHA256": "0BFD9AD99DA56A56DA94802809F1E1B59CB030FC102E0A85BD6ACD40D27889FC",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -90,7 +90,7 @@
         }
       },
       "$en_fhwise15_0011": {
-        "Target": "{X90Y10}{Char Irvine}{Line}«Мы».{End}",
+        "Target": "{X90Y10}{Char Irvine}{Line}Мы.{End}",
         "Source Text SHA256": "BDA73E7671060C61722312C033312DFEC4559E6734ED08F0B5E4FE55FC8F5C1A",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -98,7 +98,7 @@
         }
       },
       "$en_fhwise15_0012": {
-        "Target": "{X211Y10}{Char Zell}{Line}«Ну да, конечно».{End}",
+        "Target": "{X211Y10}{Char Zell}{Line}Ну да, конечно.{End}",
         "Source Text SHA256": "98B15A196FFD95B7814C2A820B439B3C1A13C4168BE9D498677CEC0E50FC6D6C",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -106,7 +106,7 @@
         }
       },
       "$en_fhwise15_0013": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«Ты шутишь».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}Ты шутишь.{End}",
         "Source Text SHA256": "32BE9FB636145576596D6B3788A95996E6E1C3ECD4CAE7DD6F450DEB4A3D0027",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -114,7 +114,7 @@
         }
       },
       "$en_fhwise15_0014": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«О нет. На меня не рассчитывайте.{Line}У меня нет музыкальных способностей».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}О нет. На меня не рассчитывайте.{Line}У меня нет музыкальных способностей.{End}",
         "Source Text SHA256": "0826BB7CB92C53470416BB5F24CC034E0F096851DEA472B9FBD82B574FCA5CB7",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -122,7 +122,7 @@
         }
       },
       "$en_fhwise15_0015": {
-        "Target": "{X106Y40}{Char Rinoa}{Line}«Да ну? Вот на это я бы посмотрела».{End}",
+        "Target": "{X106Y40}{Char Rinoa}{Line}Да ну? Вот на это я бы посмотрела.{End}",
         "Source Text SHA256": "36E4BBEBF3097347679F71C79831CA4E0BB22A9245BB673C6BF3739F4D971878",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -130,7 +130,7 @@
         }
       },
       "$en_fhwise15_0016": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Давайте хоть попробуем. Всё уже готово.{Line}Нужно только четыре человека».{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Давайте хоть попробуем. Всё уже готово.{Line}Нужно только четыре человека.{End}",
         "Source Text SHA256": "75B35D8FB1FD305CB60AF7FDCFCD7A132FA13A116CCDDA12698605619A587D2C",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -138,7 +138,7 @@
         }
       },
       "$en_fhwise15_0017": {
-        "Target": "{X150Y30}{Char Rinoa}{Line}«Будет весело!»{End}",
+        "Target": "{X150Y30}{Char Rinoa}{Line}Будет весело!{End}",
         "Source Text SHA256": "5482BEADB2C3ED761FC3FE7579C2448D8B706EAEE2F525F15FFBD349F7526852",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -146,7 +146,7 @@
         }
       },
       "$en_fhwise15_0018": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Ой, прости, {Char Rinoa}, но ты{Line}в группе играть не будешь».{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Ой, прости, {Char Rinoa}, но ты{Line}в группе играть не будешь.{End}",
         "Source Text SHA256": "05C81C1300F6EC9F8CCC3B78767419845219C133988FBFA08FEBD696B9C8FDBA",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -154,7 +154,7 @@
         }
       },
       "$en_fhwise15_0019": {
-        "Target": "{X140Y30}{Char Rinoa}{Line}«Меня вычёркиваете?»{End}",
+        "Target": "{X140Y30}{Char Rinoa}{Line}Меня вычёркиваете?{End}",
         "Source Text SHA256": "B9F83BC61125EE0C44C4240A940CF54EF5808ECD0F715E0A3A1CD9A966A09F45",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -162,7 +162,7 @@
         }
       },
       "$en_fhwise15_0020": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Нет-нет. У нас для тебя{Line}куда более важное дело».{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Нет-нет. У нас для тебя{Line}куда более важное дело.{End}",
         "Source Text SHA256": "87952375325DA82E6F6D73F6179F0F84E1C8D2A7D873C6DA5BAF3C2D5D68363C",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -170,7 +170,7 @@
         }
       },
       "$en_fhwise15_0021": {
-        "Target": "{X61Y10}{Char Zell}{Line}«И как мы сыграем? Мы же,{Line}по сути, все любители, да?»{Next}«Даже если дашь нам инструменты,{Line}ничего не выйдет».{End}",
+        "Target": "{X61Y10}{Char Zell}{Line}И как мы сыграем? Мы же,{Line}по сути, все любители, да?{Next}Даже если дашь нам инструменты,{Line}ничего не выйдет.{End}",
         "Source Text SHA256": "346A181C520547A93176BBC0E87167FDC0FF9E30AD2338FB13526D4750D0ADB4",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -178,7 +178,7 @@
         }
       },
       "$en_fhwise15_0022": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Сначала хочу кое-что спросить.{Line}Помните, я взялась за праздник{Line}после перевода в Баламб?»{Next}«У меня есть мелодия, которую{Line}порекомендовал прежний продюсер,{Line}но всё перемешалось,{Line}когда Сад пришёл в движение».{Next}«К мелодии должно прилагаться{Line}всего четыре партии,{Line}а у меня их восемь».{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Сначала хочу кое-что спросить.{Line}Помните, я взялась за праздник{Line}после перевода в Баламб?{Next}У меня есть мелодия, которую{Line}порекомендовал прежний продюсер,{Line}но всё перемешалось,{Line}когда Сад пришёл в движение.{Next}К мелодии должно прилагаться{Line}всего четыре партии,{Line}а у меня их восемь.{End}",
         "Source Text SHA256": "9AF6B220D2EA4F3D06973BEB55ADD92AB581FCC9103017BFD6D0598C06C8774C",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -186,7 +186,7 @@
         }
       },
       "$en_fhwise15_0023": {
-        "Target": "{X142Y10}{Char Zell}{Line}«И что это значит?»{End}",
+        "Target": "{X142Y10}{Char Zell}{Line}И что это значит?{End}",
         "Source Text SHA256": "D0600A5FC521CE023B66BE3C2193911C2321E3B6FD86C75E4155CDB43F7D2267",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -194,7 +194,7 @@
         }
       },
       "$en_fhwise15_0024": {
-        "Target": "{X30Y10}{Char Irvine}{Line}«Всё просто. К четырём партиям Сельфи{Line}примешались ещё четыре{Line}из другой мелодии».{Next}«Нам надо найти те четыре,{Line}чтобы сыграть мелодию Сельфи».{Next}«Придётся сыграть все восемь партий{Line}и послушать».{End}",
+        "Target": "{X30Y10}{Char Irvine}{Line}Всё просто. К четырём партиям Сельфи{Line}примешались ещё четыре{Line}из другой мелодии.{Next}Нам надо найти те четыре,{Line}чтобы сыграть мелодию Сельфи.{Next}Придётся сыграть все восемь партий{Line}и послушать.{End}",
         "Source Text SHA256": "DFAA5A66854AE4070EED95649F6111C319508558BA2526E92BE9D72EFE3EE1C5",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -202,7 +202,7 @@
         }
       },
       "$en_fhwise15_0025": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Так что берите инструмент по одному{Line}и играйте».{Next}«Ирвин знает мелодию{Line}и выберет нужные четыре партии».{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Так что берите инструмент по одному{Line}и играйте.{Next}Ирвин знает мелодию{Line}и выберет нужные четыре партии.{End}",
         "Source Text SHA256": "BEAC8EFEA4710ED00517A52D7E406181B55BAAC4549A1632E98071D6256657A2",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -210,7 +210,7 @@
         }
       },
       "$en_fhwise15_0026": {
-        "Target": "{X80Y20}{Char Irvine}{Line}«Давайте начнём».{End}",
+        "Target": "{X80Y20}{Char Irvine}{Line}Давайте начнём.{End}",
         "Source Text SHA256": "5E7CEE1A4B4421BD2F22A4942B84DDF016837D06E3A112DE48D4506ACEAB9002",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",
@@ -218,7 +218,7 @@
         }
       },
       "$en_fhwise15_0027": {
-        "Target": "{X10Y10F1L8B1C8}«Что выберем для Зелла?»{Line}(Гитара){Line}(Саксофон){Line}(Электрогитара){Line}(Фортепиано){Line}(Скрипка){Line}(Флейта){Line}(Бас-гитара){Line}(Чечётка){End}",
+        "Target": "{X10Y10F1L8B1C8}Что выберем для Зелла?{Line}(Гитара){Line}(Саксофон){Line}(Электрогитара){Line}(Фортепиано){Line}(Скрипка){Line}(Флейта){Line}(Бас-гитара){Line}(Чечётка){End}",
         "Source Text SHA256": "0643285EDB6B51951240726323F7023D810E37F176F2F8E24E4E655C144F0B27",
         "sourceContext": {
           "Source MSD SHA256": "1F2E0F539F62E65CD8F071E95343831C9CAB826F82A1F0805EFE960E0E5EA44F",

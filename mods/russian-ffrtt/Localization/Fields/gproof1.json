@@ -10,7 +10,7 @@
         }
       },
       "$en_gproof1_0001": {
-        "Target": "{X79Y8}{Char Irvine}{Line}«Народ, живой кто есть?»{End}",
+        "Target": "{X79Y8}{Char Irvine}{Line}Народ, живой кто есть?{End}",
         "Source Text SHA256": "C7E0636BD8A02E24E3045586DB0AC9B4FD0BD8F4ABB797D8F8FF35BA126C2373",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gproof1_0002": {
-        "Target": "{X32Y8}{Char Quistis}{Line}«Это то, о чём ты говорил?»{Next}«А что, если {Char Squall} и другие{Line} уже выбрались?»{End}",
+        "Target": "{X32Y8}{Char Quistis}{Line}Это то, о чём ты говорил?{Next}А что, если {Char Squall} и другие{Line} уже выбрались?{End}",
         "Source Text SHA256": "CB162FCAC979E53FCA2965799498599288592988256DB9EC45E87298B8E573AD",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gproof1_0003": {
-        "Target": "{X72Y8}{Char Zell}{Line}«Вот оно как... Это то,{Line} о чём ты говорила?»{Next}«А если {Char Squall} с остальными{Line} уже ушли вперёд?»{End}",
+        "Target": "{X72Y8}{Char Zell}{Line}Вот оно как... Это то,{Line} о чём ты говорила?{Next}А если {Char Squall} с остальными{Line} уже ушли вперёд?{End}",
         "Source Text SHA256": "1AC29D5D2E4BBDD027EB9321206A708A5338C99B79006963E5FF68C733ADD309",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gproof1_0004": {
-        "Target": "{X300Y8}{Char Squall}{Line}«Я вас слышу».{End}",
+        "Target": "{X300Y8}{Char Squall}{Line}Я вас слышу.{End}",
         "Source Text SHA256": "72925E36889C23622EAA195A25E370E762A616292440C83DF3785D8CD855DC9A",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gproof1_0005": {
-        "Target": "{X67Y8}{Char Irvine}{Line}«Я{Line} же говорил, что всё получится!{Next}Давай, {Char Squall}, поднимай{Line} нас наверх!»{End}",
+        "Target": "{X67Y8}{Char Irvine}{Line}Я{Line} же говорил, что всё получится!{Next}Давай, {Char Squall}, поднимай{Line} нас наверх!{End}",
         "Source Text SHA256": "E94F2A52E0D2C49EF893A11B4EC7C0B8A45118E65163DB36AD0F82A0A0D40843",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gproof1_0006": {
-        "Target": "{X300Y8}{Char Squall}{Line}«Как?»{End}",
+        "Target": "{X300Y8}{Char Squall}{Line}Как?{End}",
         "Source Text SHA256": "62F75F3AA202C3D5D6CB2834179CD7DE16A603D33BC29DD90C9885AF9318BF69",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gproof1_0007": {
-        "Target": "{X300Y40}{Char Zell}{Line}«В сторонку, друг, предоставь это профессионалу».{End}",
+        "Target": "{X300Y40}{Char Zell}{Line}В сторонку, друг, предоставь это профессионалу.{End}",
         "Source Text SHA256": "E12A210AAAD7F15409EE551B71CEE3C7ED9991874D3943039AD76808EA84DAC3",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gproof1_0008": {
-        "Target": "{X54Y8}{Char Zell}{Line}«{Char Squall},{Line} нажми жёлтую кнопку{Line} справа вверху».{End}",
+        "Target": "{X54Y8}{Char Zell}{Line}{Char Squall},{Line} нажми жёлтую кнопку{Line} справа вверху.{End}",
         "Source Text SHA256": "17EDE1CB8A8EA6DCB87898722319FC00C5577ED29C85CFE807855C0E46F0C777",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gproof1_0011": {
-        "Target": "{X55Y8}{Char Irvine}{Line}«Отличненько!»{Next}«Будем на месте через минуту.{Line} Без нас не уходите!»{End}",
+        "Target": "{X55Y8}{Char Irvine}{Line}Отличненько!{Next}Будем на месте через минуту.{Line} Без нас не уходите!{End}",
         "Source Text SHA256": "C7431D57E1FB0A71E3F2A3EDDE182B1B8E668C3DDD4FC125068B0E7227D5C0DF",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gproof1_0012": {
-        "Target": "{X44Y8}{Char Zell}{Line}«Эй...{Line} Так и должно быть, что она еле ползёт?»{End}",
+        "Target": "{X44Y8}{Char Zell}{Line}Эй...{Line} Так и должно быть, что она еле ползёт?{End}",
         "Source Text SHA256": "841DCE54DA2E370F5732D0FD823C23B1B2BBAC239A3B42DCB354B8BD758F2780",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gproof1_0013": {
-        "Target": "{X92Y8}{Char Quistis}{Line}«Что-то долго{Line} они».{End}",
+        "Target": "{X92Y8}{Char Quistis}{Line}Что-то долго{Line} они.{End}",
         "Source Text SHA256": "9965B42077B5E16775B34249D757F1F5CC893876EF9FC949795E655204A29750",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gproof1_0014": {
-        "Target": "{X60Y8}{Char Irvine}{Line}«Ну и что? Куда спешить-то?»{End}",
+        "Target": "{X60Y8}{Char Irvine}{Line}Ну и что? Куда спешить-то?{End}",
         "Source Text SHA256": "84888A9EE213DB38BB164B7C2F2A1F2D1887390D764A878764D1089D44C13B0E",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gproof1_0015": {
-        "Target": "{X8Y20}{Char Rinoa}{Line}«Похоже, с{Line} ними всё будет хорошо».{End}",
+        "Target": "{X8Y20}{Char Rinoa}{Line}Похоже, с{Line} ними всё будет хорошо.{End}",
         "Source Text SHA256": "AD963A6BB22C0A6D02D6F488EA25BA6B2B26990FCBCAEE3C577058DDFF0482DC",
         "sourceContext": {
           "Source MSD SHA256": "D2C16D3AC182F50F2AE5DBC32115C76F534D987E28C577B1BFF526FF4E774681",

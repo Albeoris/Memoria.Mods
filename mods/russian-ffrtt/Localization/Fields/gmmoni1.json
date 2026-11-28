@@ -98,7 +98,7 @@
         }
       },
       "$en_gmmoni1_0010": {
-        "Target": "{X12Y148}«Ракетная{Line} установка{Line} CGR4083B»{End}",
+        "Target": "{X12Y148}Ракетная{Line} установка{Line} CGR4083B{End}",
         "Source Text SHA256": "53F5325C07CB3F7F136DD77CF7C5164AC6B43198A8543C526AA8ED180EFFC20F",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gmmoni1_0011": {
-        "Target": "{X12Y148}«Крылатая{Line} ракета{Line} BAG0003A»{End}",
+        "Target": "{X12Y148}Крылатая{Line} ракета{Line} BAG0003A{End}",
         "Source Text SHA256": "35685097282A4F5B5C4B35E1F88C091255A354B7BD0F710ECF54E292A2614DF9",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gmmoni1_0012": {
-        "Target": "{X12Y148}«Армия Галбадии{Line} Офицер»{End}",
+        "Target": "{X12Y148}Армия Галбадии{Line} Офицер{End}",
         "Source Text SHA256": "C5A67F42C1DAF48910E86AC36D0748EC44AAB68FA7EB2E168E381AB8A5D9706D",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gmmoni1_0013": {
-        "Target": "{X12Y148}«Армия Галбадии{Line} Солдат»{End}",
+        "Target": "{X12Y148}Армия Галбадии{Line} Солдат{End}",
         "Source Text SHA256": "9EA6A5266718D8EC4B917C73D7F982102FBE8A7FBB9BD15F1DBF4827314274AF",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gmmoni1_0014": {
-        "Target": "{Char Selphie}{Line}«Ой нет! Ошибка?!{Line} Похоже, цель не сменить».{End}",
+        "Target": "{Char Selphie}{Line}Ой нет! Ошибка?!{Line} Похоже, цель не сменить.{End}",
         "Source Text SHA256": "C63A9AC8D72CD850AFEFD3E2B9784CDAEAB95987A29E3A1124E271C0175DB216",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gmmoni1_0015": {
-        "Target": "{X40Y140}{Char Zell}{Line}«Здесь вроде как вводятся{Line} координаты...{Next}Может, если мы поставим погрешность{Line} на максимум, это снизит вероятность{Line} прямого попадания?»{End}",
+        "Target": "{X40Y140}{Char Zell}{Line}Здесь вроде как вводятся{Line} координаты...{Next}Может, если мы поставим погрешность{Line} на максимум, это снизит вероятность{Line} прямого попадания?{End}",
         "Source Text SHA256": "9E89E5CBDC72340A733316083335AAEA45F7C6BD59719796D5CEC7FFE334A0C8",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gmmoni1_0016": {
-        "Target": "{X40Y140}{Char Zell}{Line}«Какого...{Line} Что с этой штукой?»{End}",
+        "Target": "{X40Y140}{Char Zell}{Line}Какого...{Line} Что с этой штукой?{End}",
         "Source Text SHA256": "F9D95AA5CFDD660EE7161D7C27B16870CD46E0FE7EEFBF073D0F64F57C35E950",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gmmoni1_0017": {
-        "Target": "{X40Y140}{Char Zell}{Line}«Эй! И какой в этом толк?!{Line} Они точно попадут прямо в цель!»{End}",
+        "Target": "{X40Y140}{Char Zell}{Line}Эй! И какой в этом толк?!{Line} Они точно попадут прямо в цель!{End}",
         "Source Text SHA256": "1F7C73E7A47C7D85F128EE2425A2EA3ABB2BCC7A36F9DF747F2EC9A4925F2A7E",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gmmoni1_0018": {
-        "Target": "{X40Y140}{Char Zell}{Line}«Ты ещё не загрузила{Line} координаты».{End}",
+        "Target": "{X40Y140}{Char Zell}{Line}Ты ещё не загрузила{Line} координаты.{End}",
         "Source Text SHA256": "D333F720CB3B1E3FBA4DA9C7E2073264EC3BC1C84B786F0C813EA5C4178A8939",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -170,7 +170,7 @@
         }
       },
       "$en_gmmoni1_0019": {
-        "Target": "{X40Y140}{Char Zell}{Line}«Ты чего удумала?!{Line} Куда выходишь?!{Line} Ты же ещё ничего не сделала!»{End}",
+        "Target": "{X40Y140}{Char Zell}{Line}Ты чего удумала?!{Line} Куда выходишь?!{Line} Ты же ещё ничего не сделала!{End}",
         "Source Text SHA256": "FC337C78929C24A753B797A2CA5A56A87ADA1DC6703067B0A7CD78D7FCB64B0B",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -178,7 +178,7 @@
         }
       },
       "$en_gmmoni1_0020": {
-        "Target": "{X40Y140}{Char Rinoa}{Line}«Здесь задаются{Line} координаты?»{Next}«Если да, выставь максимальную{Line} погрешность. Тогда ракеты{Line} скорее всего промахнутся».{End}",
+        "Target": "{X40Y140}{Char Rinoa}{Line}Здесь задаются{Line} координаты?{Next}Если да, выставь максимальную{Line} погрешность. Тогда ракеты{Line} скорее всего промахнутся.{End}",
         "Source Text SHA256": "4C6AE05BA09CF4FF8EDD2A61F77F7180F170FBCAD3977CFB77C444CC55894785",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -186,7 +186,7 @@
         }
       },
       "$en_gmmoni1_0021": {
-        "Target": "{X40Y140}{Char Rinoa}{Line}«Ха-ха-ха! Это ещё что?{Line} Интересно, это что-нибудь значит?»{End}",
+        "Target": "{X40Y140}{Char Rinoa}{Line}Ха-ха-ха! Это ещё что?{Line} Интересно, это что-нибудь значит?{End}",
         "Source Text SHA256": "0AF600CB5932D35903F47EDF7026983EA2A9A0BD51D47B59B892C5BB7CA423C1",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -194,7 +194,7 @@
         }
       },
       "$en_gmmoni1_0022": {
-        "Target": "{X40Y140}{Char Rinoa}{Line}«Нет, нет, нет!{Line} Так они точно попадут в цель!»{End}",
+        "Target": "{X40Y140}{Char Rinoa}{Line}Нет, нет, нет!{Line} Так они точно попадут в цель!{End}",
         "Source Text SHA256": "54D2397C055E0B5F6568D3D162C9C07F3DD95653CBC3C8B47218DE9C1913BD3D",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -202,7 +202,7 @@
         }
       },
       "$en_gmmoni1_0023": {
-        "Target": "{X40Y140}{Char Rinoa}{Line}«Ты ещё не загрузила{Line} координаты».{End}",
+        "Target": "{X40Y140}{Char Rinoa}{Line}Ты ещё не загрузила{Line} координаты.{End}",
         "Source Text SHA256": "1E439816EC2AB8848DCB8008B60BB16B6C8A9A47C86FCEEDAA41A273FCD34738",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -210,7 +210,7 @@
         }
       },
       "$en_gmmoni1_0024": {
-        "Target": "{X40Y140}{Char Rinoa}{Line}«А?! Нельзя ещё выходить!{Line} Ты же ничего не сделала!»{End}",
+        "Target": "{X40Y140}{Char Rinoa}{Line}А?! Нельзя ещё выходить!{Line} Ты же ничего не сделала!{End}",
         "Source Text SHA256": "23D64F45620456BFFCF10596567680A7D8C26E210EE59084BD19892EAC23B550",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -218,7 +218,7 @@
         }
       },
       "$en_gmmoni1_0025": {
-        "Target": "{X40Y140}{Char Quistis}{Line}«Похоже на{Line} устройство ввода координат».{Next}«Не очень-то{Line} продвинутая технология».{End}",
+        "Target": "{X40Y140}{Char Quistis}{Line}Похоже на{Line} устройство ввода координат.{Next}Не очень-то{Line} продвинутая технология.{End}",
         "Source Text SHA256": "D6287555F5817801C7722231620BC019977002E8850BE4A4CFF08ACEDE4A36B5",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -226,7 +226,7 @@
         }
       },
       "$en_gmmoni1_0026": {
-        "Target": "{X40Y140}{Char Quistis}{Line}«.........{Line} О чём ты думаешь?..»{End}",
+        "Target": "{X40Y140}{Char Quistis}{Line}.........{Line} О чём ты думаешь?..{End}",
         "Source Text SHA256": "5F2A30A8252B2DED3E3A9760E3F1100D21C979F270D5ADC5210E4ACBB8A332BA",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -234,7 +234,7 @@
         }
       },
       "$en_gmmoni1_0027": {
-        "Target": "{X40Y140}{Char Quistis}{Line}«Нет, Сельфи!{Line} Это будет прямое попадание!»{End}",
+        "Target": "{X40Y140}{Char Quistis}{Line}Нет, Сельфи!{Line} Это будет прямое попадание!{End}",
         "Source Text SHA256": "9B97B88E2B068B6F475D6238E7520DA22CF1B04A8D2C7F37375B7451210C002A",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -242,7 +242,7 @@
         }
       },
       "$en_gmmoni1_0028": {
-        "Target": "{X40Y140}{Char Quistis}{Line}«Тебе нужно загрузить координаты, иначе{Line} они не сохранятся».{End}",
+        "Target": "{X40Y140}{Char Quistis}{Line}Тебе нужно загрузить координаты, иначе{Line} они не сохранятся.{End}",
         "Source Text SHA256": "5F6AC31C0AE23BE199FA4666F27F438359995C1E1A5D5A33FFB35A240A0A301E",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -250,7 +250,7 @@
         }
       },
       "$en_gmmoni1_0029": {
-        "Target": "{X40Y140}{Char Quistis}{Line}«Выходить ещё рано.{Line} Ты пропустила{Line} один важный шаг».{End}",
+        "Target": "{X40Y140}{Char Quistis}{Line}Выходить ещё рано.{Line} Ты пропустила{Line} один важный шаг.{End}",
         "Source Text SHA256": "F1250A0EFC5A28D06EDA0EBB09A11B244C1B62E3F7EFD893B3AEC5246867284B",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -258,7 +258,7 @@
         }
       },
       "$en_gmmoni1_0030": {
-        "Target": "{X40Y140}{Char Irvine}{Line}«О, тут ведь нужно{Line} ввести координаты...»{Next}«Ракеты точно промахнутся,{Line} если выставить погрешность на максимум».{End}",
+        "Target": "{X40Y140}{Char Irvine}{Line}О, тут ведь нужно{Line} ввести координаты...{Next}Ракеты точно промахнутся,{Line} если выставить погрешность на максимум.{End}",
         "Source Text SHA256": "F4B092DFE362777FBD95D7715551AB2E0CE0C9F8BCAA9A10BE785937BDDA7B50",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -266,7 +266,7 @@
         }
       },
       "$en_gmmoni1_0031": {
-        "Target": "{X40Y140}«Ха! Она танцует!{Line} Чудно как-то».{End}",
+        "Target": "{X40Y140}Ха! Она танцует!{Line} Чудно как-то.{End}",
         "Source Text SHA256": "66205094927A9677536CB5B059558F4A9985CC844C4050CC2F985B2C7558B108",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -274,7 +274,7 @@
         }
       },
       "$en_gmmoni1_0032": {
-        "Target": "{X40Y140}{Char Irvine}{Line}«Хм-м-м...{Line} Тут точно будет „БАБАХ!“»{End}",
+        "Target": "{X40Y140}{Char Irvine}{Line}Хм-м-м...{Line} Тут точно будет „БАБАХ!“{End}",
         "Source Text SHA256": "7FB06277C0C8DEBB26093110518C0ACB0D5FAF80B4C48C0915724F2FBA48D675",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -282,7 +282,7 @@
         }
       },
       "$en_gmmoni1_0033": {
-        "Target": "{X40Y140}{Char Irvine}{Line}«Загрузи координаты,{Line} а то система их не запомнит».{End}",
+        "Target": "{X40Y140}{Char Irvine}{Line}Загрузи координаты,{Line} а то система их не запомнит.{End}",
         "Source Text SHA256": "349593361956804C8546E821DFFDAF34BDB33D0B3B818B4D97A2B106791198E8",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",
@@ -290,7 +290,7 @@
         }
       },
       "$en_gmmoni1_0034": {
-        "Target": "{X40Y140}{Char Irvine}{Line}«А? Уже всё?{Line} Ты кое-что забыла!»{End}",
+        "Target": "{X40Y140}{Char Irvine}{Line}А? Уже всё?{Line} Ты кое-что забыла!{End}",
         "Source Text SHA256": "8D60FC5231E510B0F0D6F40897C1FA741E2DDF925816D546E6B5F00CCF02D853",
         "sourceContext": {
           "Source MSD SHA256": "CB536C5C6CF975944A000BC4DE23D4BA51F23A81DBF224EBAFF44379B70C4562",

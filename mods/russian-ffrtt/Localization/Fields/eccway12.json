@@ -10,7 +10,7 @@
         }
       },
       "$en_eccway12_0001": {
-        "Target": "{X150Y50}«Почему так долго?»{End}",
+        "Target": "{X150Y50}Почему так долго?{End}",
         "Source Text SHA256": "FEE438685C890E808E6D68EB560C2098BA26F478F89F4DB3465B09DBEF1A9C9C",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -18,7 +18,7 @@
         }
       },
       "$en_eccway12_0002": {
-        "Target": "{X150Y50}«Мы же здесь, внизу,{Line} условились встретиться».{End}",
+        "Target": "{X150Y50}Мы же здесь, внизу,{Line} условились встретиться.{End}",
         "Source Text SHA256": "6FA65E15FC0E6A3914927DBA10BE79506BB538767B4AF247EE3281B19977AD7F",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -26,7 +26,7 @@
         }
       },
       "$en_eccway12_0003": {
-        "Target": "{X100Y150}«Что происходит?{Line} …Эй!»{End}",
+        "Target": "{X100Y150}Что происходит?{Line} …Эй!{End}",
         "Source Text SHA256": "098120A582231D5F2DC65A708F2389C485559BDB5925D2A3BC8EC2DF6808A064",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -34,7 +34,7 @@
         }
       },
       "$en_eccway12_0004": {
-        "Target": "{X100Y150}«Извините. Тут так легко{Line} запутаться».{End}",
+        "Target": "{X100Y150}Извините. Тут так легко{Line} запутаться.{End}",
         "Source Text SHA256": "CEE6BD2E835AC6B97459815F23CAB76147EF42F7E56D0FD14746319C2D029243",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -42,7 +42,7 @@
         }
       },
       "$en_eccway12_0005": {
-        "Target": "«!!!»{End}",
+        "Target": "!!!{End}",
         "Source Text SHA256": "021597FDF74CF3FD74A485DA00ADD9A02604B54666D8091E3366E548023CFF18",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -50,7 +50,7 @@
         }
       },
       "$en_eccway12_0005_ctx_4029545a518da83b": {
-        "Target": "{X150Y50}«!!!»{End}",
+        "Target": "{X150Y50}!!!{End}",
         "Source Text SHA256": "021597FDF74CF3FD74A485DA00ADD9A02604B54666D8091E3366E548023CFF18",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -58,7 +58,7 @@
         }
       },
       "$en_eccway12_0005_ctx_7d19b96ac62191b3": {
-        "Target": "{X100Y150}«!!!»{End}",
+        "Target": "{X100Y150}!!!{End}",
         "Source Text SHA256": "021597FDF74CF3FD74A485DA00ADD9A02604B54666D8091E3366E548023CFF18",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -66,7 +66,7 @@
         }
       },
       "$en_eccway12_0006": {
-        "Target": "{X100Y10}{Char Zell}{Line}«ЧЁРТ! Не успеем!»{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}ЧЁРТ! Не успеем!{End}",
         "Source Text SHA256": "84ED47C1DC25A2C9BB6575F54857CFFD36951E144E12F4E12719DDF2F095F07C",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -74,7 +74,7 @@
         }
       },
       "$en_eccway12_0007": {
-        "Target": "«Сюда!»{End}",
+        "Target": "Сюда!{End}",
         "Source Text SHA256": "3B6D3BACDB47C9FF8BA2E249162C2EB5FE79083D02ADF51DA8B0E7D04DF106B4",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -82,7 +82,7 @@
         }
       },
       "$en_eccway12_0007_ctx_5791147b20524a28": {
-        "Target": "{X50Y50}«Сюда!»{End}",
+        "Target": "{X50Y50}Сюда!{End}",
         "Source Text SHA256": "3B6D3BACDB47C9FF8BA2E249162C2EB5FE79083D02ADF51DA8B0E7D04DF106B4",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -90,7 +90,7 @@
         }
       },
       "$en_eccway12_0007_ctx_a6a0b0ca9b1b73ab": {
-        "Target": "{X150Y100}«Сюда!»{End}",
+        "Target": "{X150Y100}Сюда!{End}",
         "Source Text SHA256": "3B6D3BACDB47C9FF8BA2E249162C2EB5FE79083D02ADF51DA8B0E7D04DF106B4",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -98,7 +98,7 @@
         }
       },
       "$en_eccway12_0007_ctx_e24642f1333f0850": {
-        "Target": "{X100Y50}«Сюда!»{End}",
+        "Target": "{X100Y50}Сюда!{End}",
         "Source Text SHA256": "3B6D3BACDB47C9FF8BA2E249162C2EB5FE79083D02ADF51DA8B0E7D04DF106B4",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -154,7 +154,7 @@
         }
       },
       "$en_eccway12_0014": {
-        "Target": "{X10Y10F1L2B1C2}«Ха-ха-ха! Сыграем?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}Ха-ха-ха! Сыграем?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "F2C9CE82880D59A03F725DFD9EDDFB5FAE83925E141F4533A637D6CE92318D2A",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -162,7 +162,7 @@
         }
       },
       "$en_eccway12_0015": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим.{End}",
         "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -170,7 +170,7 @@
         }
       },
       "$en_eccway12_0016": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим.{End}",
         "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -178,7 +178,7 @@
         }
       },
       "$en_eccway12_0017": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим.{End}",
         "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -186,7 +186,7 @@
         }
       },
       "$en_eccway12_0018": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим.{End}",
         "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -194,7 +194,7 @@
         }
       },
       "$en_eccway12_0019": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим.{End}",
         "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -202,7 +202,7 @@
         }
       },
       "$en_eccway12_0020": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
         "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -210,7 +210,7 @@
         }
       },
       "$en_eccway12_0021": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим.{End}",
         "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",
@@ -218,7 +218,7 @@
         }
       },
       "$en_eccway12_0022": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим.{End}",
         "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
         "sourceContext": {
           "Source MSD SHA256": "DD43FF931B67587CF6D6887A79CBA016831E7853A72CBA63073C385894AAB1E5",

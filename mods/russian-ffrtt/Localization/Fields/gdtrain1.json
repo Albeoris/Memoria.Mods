@@ -2,7 +2,7 @@
   "Fields": {
     "gdtrain1": {
       "$en_gdtrain1_0000": {
-        "Target": "{X160Y80}Солдат Гальбадии{Line}«ЭЙ!{Line} СТОЙ!»{End}",
+        "Target": "{X160Y80}Солдат Гальбадии{Line}ЭЙ!{Line} СТОЙ!{End}",
         "Source Text SHA256": "DACED848D84864BD4E7AE3D77DDCD351837B41B43F24408D6168D171D9BD645F",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gdtrain1_0001": {
-        "Target": "{X160Y80}Солдат Гальбадии{Line}«О-остановите поезд!»{End}",
+        "Target": "{X160Y80}Солдат Гальбадии{Line}О-остановите поезд!{End}",
         "Source Text SHA256": "0B764A0350C692A930A3A3BD9946DA13B982C55C7E9599B3ABD65DE159396326",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gdtrain1_0002": {
-        "Target": "{X160Y80}Солдат Гальбадии{Line}«АААХХХ!!! СТОЙТЕ!{Line}»{End}",
+        "Target": "{X160Y80}Солдат Гальбадии{Line}АААХХХ!!! СТОЙТЕ!{Line}{End}",
         "Source Text SHA256": "84A11F9BF601F63C456C04E99B7D2B8A9C1860F7ADD44EA4C02E57C0CAB0B039",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gdtrain1_0003": {
-        "Target": "{X160Y80}Солдат Гальбадии{Line}«АААГХХХХ...»{End}",
+        "Target": "{X160Y80}Солдат Гальбадии{Line}АААГХХХХ...{End}",
         "Source Text SHA256": "143F1CB3AC2396D2BDB6FE9332B7652AFB56FFCAE00EF946CBE058CC51F30B86",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gdtrain1_0004": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Эй, {Char Squall}.{Line} За нами какой-то чудик бежит!»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Эй, {Char Squall}.{Line} За нами какой-то чудик бежит!{End}",
         "Source Text SHA256": "0E438C8F60CE63624DD68FD3FB11602B8F65BAD6750C715614C66EC25F968337",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gdtrain1_0005": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Эй, а он{Line} неплох».{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Эй, а он{Line} неплох.{End}",
         "Source Text SHA256": "4E35FEDADD81F15CF130CE13B2CA8DFBC1F463D5915A7E7B64649B02E84EC483",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gdtrain1_0006": {
-        "Target": "{X12Y12}{Char Zell}{Line}«…Пока, спортсмен».{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}…Пока, спортсмен.{End}",
         "Source Text SHA256": "859457073889C92C793B251D5AED388DDC928605E4108E8B8F8CD7D9C93AA21C",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gdtrain1_0007": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«{Char Squall}!{Line} За нами погоня!»{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}{Char Squall}!{Line} За нами погоня!{End}",
         "Source Text SHA256": "E4E0AF1E069A03ED81C0461DA6CE8FAD4EF761912B6F0A4FB3AC1F4A43735B2D",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gdtrain1_0008": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«Простите!»{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}Простите!{End}",
         "Source Text SHA256": "08B4672F6E31379D35DDFF4C25F414CC3096402DB4E54E030C75D5D0EDAECDD4",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gdtrain1_0009": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«Простите, у нас неотложное дело».{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}Простите, у нас неотложное дело.{End}",
         "Source Text SHA256": "528C18EABEC98404DDC7B00516EE067394A8B1335DBBA1F8F9C2D2AA3AADB025",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gdtrain1_0010": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«{Char Squall}{Line} За нами гонится какой-то солдат!»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}{Char Squall}{Line} За нами гонится какой-то солдат!{End}",
         "Source Text SHA256": "76F6E3B878905C8C8A62FFEAB9E5BB78255CE61E330B076D1F04C3F45595EE96",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gdtrain1_0011": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Святые небеса, да сдайся же ты, наконец».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Святые небеса, да сдайся же ты, наконец.{End}",
         "Source Text SHA256": "02C94DF3DF6A913987B420D9ABD3EA20CD0DD6505186D49EE4975A5A51B55B85",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gdtrain1_0012": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Надеюсь, он не сильно ушибся».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Надеюсь, он не сильно ушибся.{End}",
         "Source Text SHA256": "3F1999DF9E1D3688BFE4CDC6D4104246EDEADFD2DC2C044255284CD327E08828",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gdtrain1_0013": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Эй, {Char Squall}.{Line} Твой приятель за нами бежит».{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Эй, {Char Squall}.{Line} Твой приятель за нами бежит.{End}",
         "Source Text SHA256": "A014867077D2D27DC0F237E02A13AC8F19DA77B37D4EFE71B7AB369F0EA4F9DF",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gdtrain1_0014": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Впечатляет.{Line} Смотри не расшибись».{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Впечатляет.{Line} Смотри не расшибись.{End}",
         "Source Text SHA256": "8D54007511C52BD106EC18C5C8B6AC80B9350327CD1F23FA51EC165E6CD25643",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gdtrain1_0015": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Прости, приятель».{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Прости, приятель.{End}",
         "Source Text SHA256": "E1ED62C808FFC04B1F60E8A6E305060105C18BF4AC0165893C7CCFF0DDFDA984",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",
@@ -130,7 +130,7 @@
         }
       },
       "$en_gdtrain1_0016": {
-        "Target": "{X12Y12}{Char Squall}{Line}«......»{End}",
+        "Target": "{X12Y12}{Char Squall}{Line}......{End}",
         "Source Text SHA256": "9ED13FD6ECD4A2C449A5BA80270FDAD29DCD9433342982D687F6261EBFBC2096",
         "sourceContext": {
           "Source MSD SHA256": "87D9AAE68DE3962EE32361B6F3B8937A02F0C1184D3A587085FD04ACC782C906",

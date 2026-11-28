@@ -26,7 +26,7 @@
         }
       },
       "$en_bgkote_3_0003": {
-        "Target": "{X10Y130}{Char Zell}{Line}«Вы сюда.{Line} Прикройте передовой отряд».{End}",
+        "Target": "{X10Y130}{Char Zell}{Line}Вы сюда.{Line} Прикройте передовой отряд.{End}",
         "Source Text SHA256": "3A77BADEA9823EF3DDDC889F2A5998C6C0EFAA2F08CC667DC6ECAF0DEE1B52AC",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgkote_3_0004": {
-        "Target": "{X62Y10}Нида{Line}«{Char Squall}.{Line} Возвращайся на {Color Blue}〖мостик〗{Color White}!»{End}",
+        "Target": "{X62Y10}Нида{Line}{Char Squall}.{Line} Возвращайся на {Color Blue}〖мостик〗{Color White}!{End}",
         "Source Text SHA256": "E7028E10012A2031D06C3C760781273AE09C98075DE054674D3826FA250A0D41",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgkote_3_0005": {
-        "Target": "{X56Y10}«Извини, ты играешь на{Line} каком-нибудь инстурменте?»",
+        "Target": "{X56Y10}Извини, ты играешь на{Line} каком-нибудь инстурменте?",
         "Source Text SHA256": "4E7FF826E159A13C51398B93A9930E65C21FB43815B27C6256B5CDBD298D2DAB",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bgkote_3_0006": {
-        "Target": "{X69Y10}«Эй, не игнорируй меня!»",
+        "Target": "{X69Y10}Эй, не игнорируй меня!",
         "Source Text SHA256": "F2C7638DC81BFED84AF53A14E0A61E19A5A60FCD320FB1B3E94E371E1C558262",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgkote_3_0007": {
-        "Target": "{X37Y10}«Эй, это же я! Помнишь, я налетела{Line} на тебя у классной комнаты?»",
+        "Target": "{X37Y10}Эй, это же я! Помнишь, я налетела{Line} на тебя у классной комнаты?",
         "Source Text SHA256": "4F1132F1DED6BA3B6C784AB0801BBBE9781BBA180EDBDF2E8B29767B0D01EBA6",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgkote_3_0008": {
-        "Target": "{X48Y10}«Я теперь в исполнительном{Line} комитете Садового фестиваля!»",
+        "Target": "{X48Y10}Я теперь в исполнительном{Line} комитете Садового фестиваля!",
         "Source Text SHA256": "9846DD9905A1E0D6F47DA5F895A51CD5D7C2E783BA49C50BE80C98B0FBE0A57D",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgkote_3_0009": {
-        "Target": "{X53Y10}«Если интересно,{Line} приходи к сцене!»",
+        "Target": "{X53Y10}Если интересно,{Line} приходи к сцене!",
         "Source Text SHA256": "D136E14FE038420793ACD8EDA68CCB39928A407488AE6AA5C719D6C662886073",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgkote_3_0010": {
-        "Target": "{X29Y10}«Я мечтаю о собственной группе!»",
+        "Target": "{X29Y10}Я мечтаю о собственной группе!",
         "Source Text SHA256": "971F7BFFD574F23654F1170334918D4B0334C73E8BA0E5841B78DDA9E508218A",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgkote_3_0011": {
-        "Target": "{X45Y10}«Правда, мне ещё четверо нужны...{Line} Приссоединишься?»",
+        "Target": "{X45Y10}Правда, мне ещё четверо нужны...{Line} Приссоединишься?",
         "Source Text SHA256": "E428112A6BFCD4E7B1FDC2D833A718FE9DB68939B66B01D02A3A03D026A416D1",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgkote_3_0012": {
-        "Target": "{X40Y10}{Char Squall}{Line}«Враг совсем рядом! Отряд{Line} на площади! Берегитесь!»{End}",
+        "Target": "{X40Y10}{Char Squall}{Line}Враг совсем рядом! Отряд{Line} на площади! Берегитесь!{End}",
         "Source Text SHA256": "C2823DE1940661D3FE14D1D4E46431D402323D3833384B23B3A98DE332CB5D51",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bgkote_3_0013": {
-        "Target": "{X10Y150}{Char Zell}{Line}«Прямо, потом {Color Blue}〖налево〗{Color White}!{Line} Не дайте им прорваться!{Line} Не забудьте привязать {Color Yellow}〖ЗС〗{Color White}!»{End}",
+        "Target": "{X10Y150}{Char Zell}{Line}Прямо, потом {Color Blue}〖налево〗{Color White}!{Line} Не дайте им прорваться!{Line} Не забудьте привязать {Color Yellow}〖ЗС〗{Color White}!{End}",
         "Source Text SHA256": "47C8B0AFD16BB62B51EDA96AC6D8128113AE7F1B747C8749B3B423771803DD21",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bgkote_3_0014": {
-        "Target": "«{Char Squall}, говорит директор.{Line} Прошу явиться в мой кабинет».{End}",
+        "Target": "{Char Squall}, говорит директор.{Line} Прошу явиться в мой кабинет.{End}",
         "Source Text SHA256": "455C025F0A67C61149ACF69104D9FDA1C3A51CCF790125845C606CD1E7C55977",
         "sourceContext": {
           "Source MSD SHA256": "14ADFBEEDCFFB210BB242FD49DCD4716864F8E564C5706E997C8AFFFFF91C99C",

@@ -10,7 +10,7 @@
         }
       },
       "$en_rgcock3_0001": {
-        "Target": "{Char Rinoa}{Line}«Вот это да!»{End}",
+        "Target": "{Char Rinoa}{Line}Вот это да!{End}",
         "Source Text SHA256": "09391B65564E6D6D4CBFFBBBDFEFB59F338C927E84A12D1857ABD3C5C51ABBFA",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -26,7 +26,7 @@
         }
       },
       "$en_rgcock3_0003": {
-        "Target": "{Char Rinoa}{Line}«А? Ты что-то сказал?»{End}",
+        "Target": "{Char Rinoa}{Line}А? Ты что-то сказал?{End}",
         "Source Text SHA256": "E4B3809F8364C1858CF032149CCB0F208F10799DCF1BE1D69CEBBF6653B8911D",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -34,7 +34,7 @@
         }
       },
       "$en_rgcock3_0004": {
-        "Target": "{Char Rinoa}{Line}«{Char Squall}, оно{Line}пытается что-то сказать».{End}",
+        "Target": "{Char Rinoa}{Line}{Char Squall}, оно{Line}пытается что-то сказать.{End}",
         "Source Text SHA256": "0F2081D5B82678089A24377E6F162A42A68ECF07187DA88E1AF83A759ECDD9C0",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -50,7 +50,7 @@
         }
       },
       "$en_rgcock3_0006": {
-        "Target": "«Говорит космодром Эстара».{End}",
+        "Target": "Говорит космодром Эстара.{End}",
         "Source Text SHA256": "71FB4DE3B29DBEBBA0CD56B2D9CF32553DA7CEF2798C841C183399B75F4D7F66",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -66,7 +66,7 @@
         }
       },
       "$en_rgcock3_0008": {
-        "Target": "«„Рагнарок“, как слышно?{Line}„Рагнарок“, ответьте!»{End}",
+        "Target": "„Рагнарок“, как слышно?{Line}„Рагнарок“, ответьте!{End}",
         "Source Text SHA256": "FDADC33BE19B7862938E5672783A51D34D23F77F2861D90BB48E16A71C01A9F6",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -82,7 +82,7 @@
         }
       },
       "$en_rgcock3_0010": {
-        "Target": "«Говорит космодром.{Line}Как слышно?»{End}",
+        "Target": "Говорит космодром.{Line}Как слышно?{End}",
         "Source Text SHA256": "FD3BCA5D658938693E82DFCDFD2C0EF9BDB70FA952931418AE195875A8DAC10A",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -90,7 +90,7 @@
         }
       },
       "$en_rgcock3_0011": {
-        "Target": "{Char Squall}{Line}«Этот корабль — „Рагнарок“?»{End}",
+        "Target": "{Char Squall}{Line}Этот корабль — „Рагнарок“?{End}",
         "Source Text SHA256": "D157BF9A09AA59E79D6245355E87614E7ABBC738B8098595B242E25341ABB80F",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -98,7 +98,7 @@
         }
       },
       "$en_rgcock3_0012": {
-        "Target": "«Вот это да!{Line}Это и правда „Рагнарок“?{Line}Вы ведь в космосе?»{End}",
+        "Target": "Вот это да!{Line}Это и правда „Рагнарок“?{Line}Вы ведь в космосе?{End}",
         "Source Text SHA256": "E7F1180949196ADF0A4FC64A260B289207ABC8AC297317E3FD7B784E8469C53C",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -106,7 +106,7 @@
         }
       },
       "$en_rgcock3_0013": {
-        "Target": "{Char Squall}{Line}«Да, но я понятия не имею, где мы».{End}",
+        "Target": "{Char Squall}{Line}Да, но я понятия не имею, где мы.{End}",
         "Source Text SHA256": "98EC3AE210F648BB2913636D0C9FB70BFD926B3A439C2D76ACD1C34368A73719",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -114,7 +114,7 @@
         }
       },
       "$en_rgcock3_0014": {
-        "Target": "«Принято!{Line}Мы определим ваши координаты отсюда».{End}",
+        "Target": "Принято!{Line}Мы определим ваши координаты отсюда.{End}",
         "Source Text SHA256": "5AD3D71143281971D6501530EEF9EDA86B73CA7D40EC6B77B7F6172D93D09D21",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -130,7 +130,7 @@
         }
       },
       "$en_rgcock3_0016": {
-        "Target": "«„Рагнарок“... Пятнадцать лет прошло!»{End}",
+        "Target": "„Рагнарок“... Пятнадцать лет прошло!{End}",
         "Source Text SHA256": "2A5D5C9C5BE40B22B84774ED114F9BB20D6A7432D09F1400AA5406E707E23CA8",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -138,7 +138,7 @@
         }
       },
       "$en_rgcock3_0017": {
-        "Target": "{Char Squall}{Line}«Мы сможем вернуться?»{End}",
+        "Target": "{Char Squall}{Line}Мы сможем вернуться?{End}",
         "Source Text SHA256": "59FDA6BA742AA1A496C6650FD7139A229CA33B6C8A5A3EF35865CC8B4D8BF686",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -154,7 +154,7 @@
         }
       },
       "$en_rgcock3_0019": {
-        "Target": "{Char Squall}{Line}«Как ввести данные?»{End}",
+        "Target": "{Char Squall}{Line}Как ввести данные?{End}",
         "Source Text SHA256": "5C30E666FCBBF3C57D1B8B8627A8EC732B3C3829563C7692F378F48C10799C5C",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -162,7 +162,7 @@
         }
       },
       "$en_rgcock3_0020": {
-        "Target": "«Ничего сложного.{Line}Будем действовать по порядку».{End}",
+        "Target": "Ничего сложного.{Line}Будем действовать по порядку.{End}",
         "Source Text SHA256": "7FD6E836F89EB8D0F8AD60F4D991FBEF0FD1382D70B1076A8DBCCF781F870A38",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -170,7 +170,7 @@
         }
       },
       "$en_rgcock3_0021": {
-        "Target": "«Вы в кресле пилота?»{End}",
+        "Target": "Вы в кресле пилота?{End}",
         "Source Text SHA256": "73D5EF935AF28754CA203383985E7181E90BD8EDC2DF31533EAC2579A34DB691",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -178,7 +178,7 @@
         }
       },
       "$en_rgcock3_0022": {
-        "Target": "{Char Squall}{Line}«Тут слишком много кресел».{End}",
+        "Target": "{Char Squall}{Line}Тут слишком много кресел.{End}",
         "Source Text SHA256": "7E608551773847B440BC90781EF40223DAAD0EDE6D800827706ABD059939EA1C",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -186,7 +186,7 @@
         }
       },
       "$en_rgcock3_0023": {
-        "Target": "«Кресло справа.{Line}Садитесь туда».{End}",
+        "Target": "Кресло справа.{Line}Садитесь туда.{End}",
         "Source Text SHA256": "875893278FBBB31FE1FA2ADD03F01AAF34B1AB164F051EBCB861254C67083D0B",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -194,7 +194,7 @@
         }
       },
       "$en_rgcock3_0024": {
-        "Target": "{X190Y8}{Char Squall}{Line}«Хорошо, я на месте».{End}",
+        "Target": "{X190Y8}{Char Squall}{Line}Хорошо, я на месте.{End}",
         "Source Text SHA256": "7ABB25BCF3A3213B7DEFF58FD5DE66914DCD98AE4B4C7C0429FCC5815DE18D04",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -202,7 +202,7 @@
         }
       },
       "$en_rgcock3_0025": {
-        "Target": "{X300Y220}«Видите сенсорную панель перед вами?»{End}",
+        "Target": "{X300Y220}Видите сенсорную панель перед вами?{End}",
         "Source Text SHA256": "56B575108A47C9AC64452103FBD040D97BD647EED78F777B917B9BB0BC7BC0EC",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -210,7 +210,7 @@
         }
       },
       "$en_rgcock3_0026": {
-        "Target": "{X190Y8}{Char Squall}{Line}«Да, вижу».{End}",
+        "Target": "{X190Y8}{Char Squall}{Line}Да, вижу.{End}",
         "Source Text SHA256": "152AAD0F752E8A47C4EB7C50CFE438D3CF989336D788CF11C5BF53B5946F54DC",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -218,7 +218,7 @@
         }
       },
       "$en_rgcock3_0027": {
-        "Target": "{X300Y220}«Остальное просто.{Line} Просто введите следующие данные».{End}",
+        "Target": "{X300Y220}Остальное просто.{Line} Просто введите следующие данные.{End}",
         "Source Text SHA256": "1723C1D8807344A612986FDF8756778EE3A040B3F0896B3D6AAB71AC5092E7E9",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -226,7 +226,7 @@
         }
       },
       "$en_rgcock3_0028": {
-        "Target": "{X190Y8}{Char Squall}{Line}«Давайте».{End}",
+        "Target": "{X190Y8}{Char Squall}{Line}Давайте.{End}",
         "Source Text SHA256": "9D68491F4AC2388D200ACBB0DA9C9CF70B7E687158FED5DC9F25FA6A092BF412",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -234,7 +234,7 @@
         }
       },
       "$en_rgcock3_0029": {
-        "Target": "{X300Y220}«WJHEIE/...»{End}",
+        "Target": "{X300Y220}WJHEIE/...{End}",
         "Source Text SHA256": "409D7FD7785F41C1CFA3465C3FB0D12BAE3DD7235F40475FE7A0E491D64A6400",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -242,7 +242,7 @@
         }
       },
       "$en_rgcock3_0030": {
-        "Target": "{X190Y8}{Char Squall}{Line}«Ввёл».{End}",
+        "Target": "{X190Y8}{Char Squall}{Line}Ввёл.{End}",
         "Source Text SHA256": "69788E376E0F7A99C0E887142272114CD5E799829B5F5751D3E20B52B2E56885",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -250,7 +250,7 @@
         }
       },
       "$en_rgcock3_0031": {
-        "Target": "{X300Y220}«Потом... 2872/HD-IEU»{End}",
+        "Target": "{X300Y220}Потом... 2872/HD-IEU{End}",
         "Source Text SHA256": "C1829AD8F2724704EF4113A8184A83D39772ADF62D6C9ACEBC8BDE5782675208",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -258,7 +258,7 @@
         }
       },
       "$en_rgcock3_0032": {
-        "Target": "{X300Y220}«Без ошибок?»{End}",
+        "Target": "{X300Y220}Без ошибок?{End}",
         "Source Text SHA256": "834CC462654C25B8BA1ED54E389E72E25869535EC17B77F0B0595EA8A4B4EC28",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -266,7 +266,7 @@
         }
       },
       "$en_rgcock3_0033": {
-        "Target": "{X190Y8}{Char Squall}{Line}«Всё в порядке».{End}",
+        "Target": "{X190Y8}{Char Squall}{Line}Всё в порядке.{End}",
         "Source Text SHA256": "5506C5DFCA59FEA275E92F7E16060024C5812AF74A4433C3BEB9B7E69D1C38E2",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -274,7 +274,7 @@
         }
       },
       "$en_rgcock3_0034": {
-        "Target": "{X300Y220}«Дальше, я уверен, у вас{Line} всё получится, но нужно сделать ещё кое-что».{End}",
+        "Target": "{X300Y220}Дальше, я уверен, у вас{Line} всё получится, но нужно сделать ещё кое-что.{End}",
         "Source Text SHA256": "F169535EDC1745CA63FF967B15813B86FB226EB79DEEBEAA568CE923B49D4877",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -282,7 +282,7 @@
         }
       },
       "$en_rgcock3_0035": {
-        "Target": "{X300Y220}«Выключите генератор гравитации.{Next}Это должно сэкономить немного топлива.{Next}Воспользуйтесь той же панелью, чтобы его выключить».{End}",
+        "Target": "{X300Y220}Выключите генератор гравитации.{Next}Это должно сэкономить немного топлива.{Next}Воспользуйтесь той же панелью, чтобы его выключить.{End}",
         "Source Text SHA256": "38C8A27F050031DCB08090F926491D69AB66FCBC201E0B037F6D23C1D2D39163",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -290,7 +290,7 @@
         }
       },
       "$en_rgcock3_0036": {
-        "Target": "{X190Y8}{Char Squall}{Line}«Хорошо».{End}",
+        "Target": "{X190Y8}{Char Squall}{Line}Хорошо.{End}",
         "Source Text SHA256": "4E7B35DCD22DF373BF01825D21831D15329DF6F807457470BA17D3C28D17F33A",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -306,7 +306,7 @@
         }
       },
       "$en_rgcock3_0038": {
-        "Target": "{X190Y8}{Char Squall}{Line}«Готово».{End}",
+        "Target": "{X190Y8}{Char Squall}{Line}Готово.{End}",
         "Source Text SHA256": "020065BDD430D923A67C92960D34FE918A92FA51B8A7744AF6745FBEF817D7E8",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -314,7 +314,7 @@
         }
       },
       "$en_rgcock3_0039": {
-        "Target": "{X300Y220}«Поздравляю, Рагнарок.{Line} Вы взяли правильный курс».{End}",
+        "Target": "{X300Y220}Поздравляю, Рагнарок.{Line} Вы взяли правильный курс.{End}",
         "Source Text SHA256": "78977245517A68247458A7C12BD103609CB088F09D60664EC02D6D51F6915F3E",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -322,7 +322,7 @@
         }
       },
       "$en_rgcock3_0040": {
-        "Target": "{X300Y220}«И...»{End}",
+        "Target": "{X300Y220}И...{End}",
         "Source Text SHA256": "EAFA82A2BD24FEA4C5BA6FE668B2882DA4DB78A56C7EC986119B4B039E1B9A96",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -330,7 +330,7 @@
         }
       },
       "$en_rgcock3_0041": {
-        "Target": "{X300Y220}«Хотим сказать вам{Line} ещё кое-что».{End}",
+        "Target": "{X300Y220}Хотим сказать вам{Line} ещё кое-что.{End}",
         "Source Text SHA256": "C969FD6D3DCF694C783FCB8BB46EA06059A0EC58C4744658408FD444C5A8D7F7",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -338,7 +338,7 @@
         }
       },
       "$en_rgcock3_0042": {
-        "Target": "{X300Y220}«Все мы, в наземном управлении,{Line} желаем вам удачи».{End}",
+        "Target": "{X300Y220}Все мы, в наземном управлении,{Line} желаем вам удачи.{End}",
         "Source Text SHA256": "0B0FA95B7ED7E11E15D13F61C88F41ADFCE86074212A8FB3D33B2BFDB8F716C5",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -346,7 +346,7 @@
         }
       },
       "$en_rgcock3_0043": {
-        "Target": "{X190Y8}{Char Squall}{Line}«Спасибо».{End}",
+        "Target": "{X190Y8}{Char Squall}{Line}Спасибо.{End}",
         "Source Text SHA256": "69316C2472A2255DF83DF6EFE635CF4586824CC65114D782527EA5BC99235B62",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -354,7 +354,7 @@
         }
       },
       "$en_rgcock3_0044": {
-        "Target": "{X120Y8}{Char Rinoa}{Line}«Что такое?!»{End}",
+        "Target": "{X120Y8}{Char Rinoa}{Line}Что такое?!{End}",
         "Source Text SHA256": "86B52B15B6F432312C34BA60D03D5DD0CA0F0916246B5D11F6C477D1D60818F6",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -362,7 +362,7 @@
         }
       },
       "$en_rgcock3_0045": {
-        "Target": "{Char Rinoa}{Line}«{Char Squall}...»{End}",
+        "Target": "{Char Rinoa}{Line}{Char Squall}...{End}",
         "Source Text SHA256": "D064FD7F6CA74A8359C4D0F04F2AF16357FC4160D0C01302F3E2E4A8FEF8C131",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -370,7 +370,7 @@
         }
       },
       "$en_rgcock3_0046": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Давай, сядь туда.{Line} Пристегни ремень безопасности».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Давай, сядь туда.{Line} Пристегни ремень безопасности.{End}",
         "Source Text SHA256": "FD675E6FBB226BDFF36C6621C04C24231188FF440E2EC74596029C62765253EF",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -378,7 +378,7 @@
         }
       },
       "$en_rgcock3_0047": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Мы скоро будем дома?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Мы скоро будем дома?{End}",
         "Source Text SHA256": "DBF5B21C9041557FBFA7548AC6B6E6C9826DB5DBE99D535799CCD761F856C4DC",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -386,7 +386,7 @@
         }
       },
       "$en_rgcock3_0048": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Надеюсь».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Надеюсь.{End}",
         "Source Text SHA256": "2F3F86432E7739A08D58A0582D548399056F458C5238F435160B0885E11A33B0",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -394,7 +394,7 @@
         }
       },
       "$en_rgcock3_0049": {
-        "Target": "{X8Y200}{Char Squall}{Line}«А теперь иди и сядь там».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}А теперь иди и сядь там.{End}",
         "Source Text SHA256": "AF0AA4F7C5FB462CF9FB24B1741C48E2466E5F3073A71C0FC2E8B619CC7CB21D",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -402,7 +402,7 @@
         }
       },
       "$en_rgcock3_0050": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Ну, ещё немного».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Ну, ещё немного.{End}",
         "Source Text SHA256": "D3E215D48C9634372736117DB102CC2696289C9ADD2D86B8FB56D7345B512DDA",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -410,7 +410,7 @@
         }
       },
       "$en_rgcock3_0051": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Чего ты за меня{Line} так уцепилась?»{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Чего ты за меня{Line} так уцепилась?{End}",
         "Source Text SHA256": "36CEDFF138D9CE3A073199B054268B4A280FD52EE03EDA0B5C514D111863817B",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -418,7 +418,7 @@
         }
       },
       "$en_rgcock3_0052": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Тебе не нравится, {Char Squall}?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Тебе не нравится, {Char Squall}?{End}",
         "Source Text SHA256": "241A0BDDBFB5424E41887D961D00BEBA5ADC98BA31C90121AD0C895251A9E210",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -426,7 +426,7 @@
         }
       },
       "$en_rgcock3_0053": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Просто непривычно».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Просто непривычно.{End}",
         "Source Text SHA256": "F1B76F85E76BB6F303D8FD617A0731E96B8AC8DA9DC4C51A3C3AA47AAA660451",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -434,7 +434,7 @@
         }
       },
       "$en_rgcock3_0054": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«А когда был маленьким?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}А когда был маленьким?{End}",
         "Source Text SHA256": "E44BBFF0BBE8E5ECE19E2E2C212451D1178D54B109E8D6C85F16D17BB5EF0D96",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -442,7 +442,7 @@
         }
       },
       "$en_rgcock3_0055": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Разве ты не чувствовал себя в безопасности,{Line} когда тебя держали на руках родители?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Разве ты не чувствовал себя в безопасности,{Line} когда тебя держали на руках родители?{End}",
         "Source Text SHA256": "07CCD7E7979E3F2E35CF647BDEC31A9495E33D4F7A22BFFC28E712558FC8BC2C",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -450,7 +450,7 @@
         }
       },
       "$en_rgcock3_0056": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Я ничего не помню{Line} о своих родителях...»{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Я ничего не помню{Line} о своих родителях...{End}",
         "Source Text SHA256": "DD96DFCBDD56B0C475808C08B0E230E036F27031D1FA17C43B8ACDE94A9EE475",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -466,7 +466,7 @@
         }
       },
       "$en_rgcock3_0058": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Но... у меня{Line} была Эллона».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Но... у меня{Line} была Эллона.{End}",
         "Source Text SHA256": "B8A16A7D9F65D33A34CA43D86F9C734A4D4AE643C2B5201EFB864F127982DB48",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -474,7 +474,7 @@
         }
       },
       "$en_rgcock3_0059": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Эллона держала меня{Line} за руку».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Эллона держала меня{Line} за руку.{End}",
         "Source Text SHA256": "1BACFAEE50160036BE9B1C21AAC46C8046759D89F9F3258BAE274514E70EEABA",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -482,7 +482,7 @@
         }
       },
       "$en_rgcock3_0060": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«И это давало тебе ощущение защищённости?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}И это давало тебе ощущение защищённости?{End}",
         "Source Text SHA256": "A6175D6DD6D8AC1A1795CD9BCCEAE31211A70A7FD2B3991A3A604319FFD64540",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -490,7 +490,7 @@
         }
       },
       "$en_rgcock3_0061": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Конечно».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Конечно.{End}",
         "Source Text SHA256": "027E456FD71958F5117C5D5AEB60F3236C10C0D7C95B3A056A1619FAE72906AE",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -498,7 +498,7 @@
         }
       },
       "$en_rgcock3_0062": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Но она{Line} ушла. Просто исчезла».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Но она{Line} ушла. Просто исчезла.{End}",
         "Source Text SHA256": "6BB29076A2794AEB2130F9CD2315825CEB1423AB78601A1B15A26032ECFE9459",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -506,7 +506,7 @@
         }
       },
       "$en_rgcock3_0063": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Я боюсь...»{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Я боюсь...{End}",
         "Source Text SHA256": "BE40B2EBDFDF9E5B0422351FAE945F6089CA8426F3644FDB479EEEF4765BE3E5",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -514,7 +514,7 @@
         }
       },
       "$en_rgcock3_0064": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Боюсь этого ощущения{Line} отнятого комфорта».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Боюсь этого ощущения{Line} отнятого комфорта.{End}",
         "Source Text SHA256": "081044E28923975250B6D731BE7CE76E8A2D9EC1AE9648503F6F0A920CD4814B",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -530,7 +530,7 @@
         }
       },
       "$en_rgcock3_0066": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Ты боялся{Line} потерять нас?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Ты боялся{Line} потерять нас?{End}",
         "Source Text SHA256": "DEF5FCF62E147A37E8C7BD6EB3774A596A530E00DF2CBE50EC7BE58D0B3307A4",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -538,7 +538,7 @@
         }
       },
       "$en_rgcock3_0067": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Поэтому ты{Line} держался на расстоянии?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Поэтому ты{Line} держался на расстоянии?{End}",
         "Source Text SHA256": "5128BB6799C89621225E76224580CBC5CD871C38E26DA7DBD992F999FB405852",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -546,7 +546,7 @@
         }
       },
       "$en_rgcock3_0068": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Я всегда был один...»{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Я всегда был один...{End}",
         "Source Text SHA256": "B6A060A26A52460DD8F57338A158B72141A9BF87739B907C52075E3849A7AD5E",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -554,7 +554,7 @@
         }
       },
       "$en_rgcock3_0069": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«{Char Squall}......»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}{Char Squall}......{End}",
         "Source Text SHA256": "12734AA7B1167EB7F512EE16C7E9BDD33AACC8BDAD6432AEAFBD4DDA8DAD43DA",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -562,7 +562,7 @@
         }
       },
       "$en_rgcock3_0070": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Ты упустил всё{Line} хорошее в жизни».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Ты упустил всё{Line} хорошее в жизни.{End}",
         "Source Text SHA256": "80FC4D6C704420A6CE5DA61D44A343F07F6D75C84F651158410EC718C4586540",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -570,7 +570,7 @@
         }
       },
       "$en_rgcock3_0071": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Ты так много{Line} упустил».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Ты так много{Line} упустил.{End}",
         "Source Text SHA256": "EFEB3E4B3EBFC34B90696E50A3EBD906B781FBE813F0507026804193301929ED",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -578,7 +578,7 @@
         }
       },
       "$en_rgcock3_0072": {
-        "Target": "{Char Squall}{Line}«...Может и так».{End}",
+        "Target": "{Char Squall}{Line}...Может и так.{End}",
         "Source Text SHA256": "BF997D75ABF0638165DE153E1BE6A0A8A55CDC52F06017703C5FBE11A5878C22",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -586,7 +586,7 @@
         }
       },
       "$en_rgcock3_0073": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Точно».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Точно.{End}",
         "Source Text SHA256": "4DAC5A0A76BBCD6032F95CE85E1A8FEC77FB76FC5D2187109FC6DFE97C4BD8EC",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -594,7 +594,7 @@
         }
       },
       "$en_rgcock3_0074": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Мне же это нравится».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Мне же это нравится.{End}",
         "Source Text SHA256": "EB08EFDF56F40B30A4678F58FE899CAC6D6AA5623C5D2C359CACD8E11265C135",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -602,7 +602,7 @@
         }
       },
       "$en_rgcock3_0075": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Мне нравилось, когда мама{Line} держала меня».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Мне нравилось, когда мама{Line} держала меня.{End}",
         "Source Text SHA256": "B439F9120E853FBD0381D0D456835F7A00F8B43591734A765B2A4AAE1738D7C6",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -610,7 +610,7 @@
         }
       },
       "$en_rgcock3_0076": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«И папа, когда мы{Line} жили вместе».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}И папа, когда мы{Line} жили вместе.{End}",
         "Source Text SHA256": "80FF8082AC3AF1AD40629BEDCB261F2A2C5352ED5F690C949813AC0F5544AA5B",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -618,7 +618,7 @@
         }
       },
       "$en_rgcock3_0077": {
-        "Target": "{Char Rinoa}{Line}«Я любила, когда{Line}родители меня обнимали».{End}",
+        "Target": "{Char Rinoa}{Line}Я любила, когда{Line}родители меня обнимали.{End}",
         "Source Text SHA256": "70563C744E1946E0B79897DB62CAE4ED1CBBE8958B303E5EC6BD58478E86EC59",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -626,7 +626,7 @@
         }
       },
       "$en_rgcock3_0078": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Я не твоя мама».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Я не твоя мама.{End}",
         "Source Text SHA256": "D4548AED65CB77FBBDFBA5AA79A7A80505A9F8C54D29A1269AC0C3F30F879563",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -634,7 +634,7 @@
         }
       },
       "$en_rgcock3_0079": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Нет, конечно же нет».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Нет, конечно же нет.{End}",
         "Source Text SHA256": "C588497BA024E7AF14F4D7C6A643F22C5AAB4BAE1959F974813C2F74F984454A",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -642,7 +642,7 @@
         }
       },
       "$en_rgcock3_0080": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Но теперь... {Char Squall}, ты тот{Line} с кем мне {Pause 64}наиболее комфортно».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Но теперь... {Char Squall}, ты тот{Line} с кем мне {Pause 64}наиболее комфортно.{End}",
         "Source Text SHA256": "AAC567AA12744A1155C0DB6D56EF3DDA564AFA9B3D25B43DE00DACAF2CD4ACAE",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -650,7 +650,7 @@
         }
       },
       "$en_rgcock3_0081": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Комфорт и{Line} счастье...»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Комфорт и{Line} счастье...{End}",
         "Source Text SHA256": "054826E15ED62D75C4AA74F788521343AB0EAB1D3C9A18F94A9462D788E93378",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -658,7 +658,7 @@
         }
       },
       "$en_rgcock3_0082": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Досада{Line} и разочарование!»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Досада{Line} и разочарование!{End}",
         "Source Text SHA256": "A8BE275B0BDBCD06F7601238393E2B142F17608F17D4AF7B3D3CFDDBB65E6D6A",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -666,7 +666,7 @@
         }
       },
       "$en_rgcock3_0083": {
-        "Target": "{X8Y200}{Char Squall}{Line}«... Неважно».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}... Неважно.{End}",
         "Source Text SHA256": "23E4A4DB37260BB23C90963E610B8B34F9B7F5438EF8167C238ED811C5911D68",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -674,7 +674,7 @@
         }
       },
       "$en_rgcock3_0084": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«... Как скажешь».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}... Как скажешь.{End}",
         "Source Text SHA256": "9F8A33C73052F6642C87305810AC2DA70AE1CEC92F8531E07A3EAEA728F8B0FB",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -682,7 +682,7 @@
         }
       },
       "$en_rgcock3_0085": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«С тех пор как мама умерла,{Line}а папа вечно был занят...»{Next}«Мне ещё никогда так сильно{Line}не хотелось к кому-то прижаться».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}С тех пор как мама умерла,{Line}а папа вечно был занят...{Next}Мне ещё никогда так сильно{Line}не хотелось к кому-то прижаться.{End}",
         "Source Text SHA256": "25DDE7C98E28E2308C7B32DFDC3DAAA0CF9989A10E0491E585E9B3AB29A0F7C1",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -690,7 +690,7 @@
         }
       },
       "$en_rgcock3_0086": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Я серьёзно.{Line}Совершенно серьёзно».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Я серьёзно.{Line}Совершенно серьёзно.{End}",
         "Source Text SHA256": "E236E2631FE6C5378D60487EC2F244D33936C8FDEE49AAD7CDB2CE738ED6A0BB",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -698,7 +698,7 @@
         }
       },
       "$en_rgcock3_0087": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Ладно, ладно, верю».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Ладно, ладно, верю.{End}",
         "Source Text SHA256": "5106CE13B4CF41FD084D88528BCA3CE09E8EFCB06D51A097C5AA78AB55375677",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -706,7 +706,7 @@
         }
       },
       "$en_rgcock3_0088": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Просто хотела убедиться,{Line}что ты не ревнуешь».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Просто хотела убедиться,{Line}что ты не ревнуешь.{End}",
         "Source Text SHA256": "A5571A59390B98D7C95496EC51418E397C255A4C6BF8165ABFD969BAFCCC7672",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -714,7 +714,7 @@
         }
       },
       "$en_rgcock3_0089": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Скучно с тобой».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Скучно с тобой.{End}",
         "Source Text SHA256": "DB4536F5746690AACE2C731C4537FF006315D8F38D80F76B75D19DC32F5C8F81",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -730,7 +730,7 @@
         }
       },
       "$en_rgcock3_0091": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Да так, ни к кому».{Next}«Тебе же всё равно,{Line}что у других было раньше».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Да так, ни к кому.{Next}Тебе же всё равно,{Line}что у других было раньше.{End}",
         "Source Text SHA256": "0DAE7F9977D47E3493DA8E8E71EC6B2A5EFAC9860CD378603E87E0A64B325710",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -754,7 +754,7 @@
         }
       },
       "$en_rgcock3_0094": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Ты про...{Line}Сейфера?»{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Ты про...{Line}Сейфера?{End}",
         "Source Text SHA256": "3FCEE75F37B0C403714481AA353EB5B0B6D1AC3923ACD47AA3B8FAE5D8C84A25",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -762,7 +762,7 @@
         }
       },
       "$en_rgcock3_0095": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«А теперь ревнуешь?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}А теперь ревнуешь?{End}",
         "Source Text SHA256": "F3079DF85E46B027854E3107131A7766CF925115A64F984CC3CA2D45A6EF1C05",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -778,7 +778,7 @@
         }
       },
       "$en_rgcock3_0097": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Скорее, просто любопытно».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Скорее, просто любопытно.{End}",
         "Source Text SHA256": "2A7531A46516BB8B3DACA5CF7B072A52ED453C96F454105997D7670DCE90AD4F",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -786,7 +786,7 @@
         }
       },
       "$en_rgcock3_0098": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Ха-ха-ха...»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Ха-ха-ха...{End}",
         "Source Text SHA256": "B9480D1C4AF61755B2E7A64DB7FDF79D35238F06755646EB2A1F99BA9B7D1A58",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -794,7 +794,7 @@
         }
       },
       "$en_rgcock3_0099": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Странно ты себя ведёшь».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Странно ты себя ведёшь.{End}",
         "Source Text SHA256": "C5BBA1B056723742D915CECDE6F3440D70D472D6747686331FEF999395AE05E0",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -802,7 +802,7 @@
         }
       },
       "$en_rgcock3_0100": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Не переживай.{Line}Это всё в прошлом».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Не переживай.{Line}Это всё в прошлом.{End}",
         "Source Text SHA256": "858B8388A62C75FB1D8BFC0974CB36D42E076FD356DB02843149BF773C7A9B81",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -826,7 +826,7 @@
         }
       },
       "$en_rgcock3_0103": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Да нет, не особо».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Да нет, не особо.{End}",
         "Source Text SHA256": "F7486551172F1139C566C957AFBDD69A6516A1CC5DCB5F4B62239B22FC740450",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -834,7 +834,7 @@
         }
       },
       "$en_rgcock3_0104": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Даже чуточку нет?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Даже чуточку нет?{End}",
         "Source Text SHA256": "E808F69D74164A385446E3D51FBFA30B2B9BF9CCB7B55D7B27FDDC86D46EDC0C",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -842,7 +842,7 @@
         }
       },
       "$en_rgcock3_0105": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Наверное, это неважно».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Наверное, это неважно.{End}",
         "Source Text SHA256": "570D9201153E863EF17FFAED9A4F192812734EF0F398B3A911105E4E54562C19",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -866,7 +866,7 @@
         }
       },
       "$en_rgcock3_0108": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Теперь тебе следует вернуться в своё кресло».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Теперь тебе следует вернуться в своё кресло.{End}",
         "Source Text SHA256": "0F83B1402B3CFF86246C3FC6408E5E82FF7E6ECFBE5B8D48FEEC872CE5CA8A75",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -874,7 +874,7 @@
         }
       },
       "$en_rgcock3_0109": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Ещё немного».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Ещё немного.{End}",
         "Source Text SHA256": "D3E215D48C9634372736117DB102CC2696289C9ADD2D86B8FB56D7345B512DDA",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -890,7 +890,7 @@
         }
       },
       "$en_rgcock3_0111": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Мы ведь доберёмся домой, правда?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Мы ведь доберёмся домой, правда?{End}",
         "Source Text SHA256": "B4F4966368E506A4B871C68F2E55190E68311E34D47FE99B5C2A50E102BC6CAA",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -898,7 +898,7 @@
         }
       },
       "$en_rgcock3_0112": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Мы можем лишь надеяться на это».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Мы можем лишь надеяться на это.{End}",
         "Source Text SHA256": "A97D254DC644D8AEE5060772B7450842D5F5CA18F3794BF2F87CEC7777612506",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -906,7 +906,7 @@
         }
       },
       "$en_rgcock3_0113": {
-        "Target": "{Char Squall}{Line}«От нас мало что зависит».{End}",
+        "Target": "{Char Squall}{Line}От нас мало что зависит.{End}",
         "Source Text SHA256": "4C9F5302624188A3B6E4C2ADA9D9A870A8055163FD9AA5731BC99673CEB81EF9",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -914,7 +914,7 @@
         }
       },
       "$en_rgcock3_0114": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Когда мы вернёмся...{Line} Мы больше не сможем {Pause 64}быть вместе, а?»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Когда мы вернёмся...{Line} Мы больше не сможем {Pause 64}быть вместе, а?{End}",
         "Source Text SHA256": "98BDE95930116FA1501DED57A0968DB451B40FE44155B1124959C746749BEB39",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -922,7 +922,7 @@
         }
       },
       "$en_rgcock3_0115": {
-        "Target": "{X8Y200}{Char Squall}{Line}«...Может быть».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}...Может быть.{End}",
         "Source Text SHA256": "20BC318CF71A85D7206BA98929B0B877DFE98C4CC96B7C3EB03B3A450EBB91AE",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -930,7 +930,7 @@
         }
       },
       "$en_rgcock3_0116": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Никто не может предсказать{Line} будущее, нет никаких гарантий».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Никто не может предсказать{Line} будущее, нет никаких гарантий.{End}",
         "Source Text SHA256": "C356D685593920DAD7DC988CFF8C4A295C38AF93AF83E77A2B9D928904F32819",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -938,7 +938,7 @@
         }
       },
       "$en_rgcock3_0117": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Не ты ли это{Line} говорила, {Pause 64}{Char Rinoa}?.»{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Не ты ли это{Line} говорила, {Pause 64}{Char Rinoa}?.{End}",
         "Source Text SHA256": "1A953A852195740312F5C71DD4F2769C56AC46FC2F2DB3BA1E2057032D7746D4",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -946,7 +946,7 @@
         }
       },
       "$en_rgcock3_0118": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Я не это имела в виду».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Я не это имела в виду.{End}",
         "Source Text SHA256": "B291BB2B33592A8C126E0DA8E8FF4BC5E44698FF36AF16B3ACF304CE5FA53380",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -954,7 +954,7 @@
         }
       },
       "$en_rgcock3_0119": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Когда вернёмся, мы{Line} что-нибудь придумаем».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Когда вернёмся, мы{Line} что-нибудь придумаем.{End}",
         "Source Text SHA256": "1C1CD9E771F7FFB819C0C379DA620850728EF406A118AC5EF34147F51924F5E4",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -962,7 +962,7 @@
         }
       },
       "$en_rgcock3_0120": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Они все будут на меня {Pause 64}злиться».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Они все будут на меня {Pause 64}злиться.{End}",
         "Source Text SHA256": "8DE8B983D56EE34D7C8ACFB829CBB687A2F73912CEAE947388392E96EAABE075",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -970,7 +970,7 @@
         }
       },
       "$en_rgcock3_0121": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Злиться?»{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Злиться?{End}",
         "Source Text SHA256": "E308CB92E90C579BC76A15AE16A31CD36BFD4758D355A42E38E2E69AA73F9584",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -978,7 +978,7 @@
         }
       },
       "$en_rgcock3_0122": {
-        "Target": "{X300Y200}«Это космодром.{Line} Рагнарок, приём».{End}",
+        "Target": "{X300Y200}Это космодром.{Line} Рагнарок, приём.{End}",
         "Source Text SHA256": "656523AFF9990236D5ACC39522AD3A73D9010822F1666B0201C29A9569D1A082",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -986,7 +986,7 @@
         }
       },
       "$en_rgcock3_0123": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Это Рагнарок».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Это Рагнарок.{End}",
         "Source Text SHA256": "4E36F1A99EB01A26A356D15CA546B3F9ECAFDF41052567C9AD10082F32769FB4",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -994,7 +994,7 @@
         }
       },
       "$en_rgcock3_0124": {
-        "Target": "{X300Y200}«У нас есть к вам несколько вопросов».{End}",
+        "Target": "{X300Y200}У нас есть к вам несколько вопросов.{End}",
         "Source Text SHA256": "34C45227D887D7D3ECBFB4C45A17C39102F661EAE06DEDE8138A7343160B0EE0",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1002,7 +1002,7 @@
         }
       },
       "$en_rgcock3_0125": {
-        "Target": "{X300Y200}«Мы подбираем спасательные капсулы».{End}",
+        "Target": "{X300Y200}Мы подбираем спасательные капсулы.{End}",
         "Source Text SHA256": "1871B9A7A25B1147EA39BBB9024EA78810ECD410A74645F90951D4F004B15FDC",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1010,7 +1010,7 @@
         }
       },
       "$en_rgcock3_0126": {
-        "Target": "{X300Y200}«Мы прекрасно знаем, что{Line} произошло».{End}",
+        "Target": "{X300Y200}Мы прекрасно знаем, что{Line} произошло.{End}",
         "Source Text SHA256": "9FAC60EF18B372107E9FCDAE1000C9C9FAFF525109D69A6962E1ADE02C0CCF97",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1018,7 +1018,7 @@
         }
       },
       "$en_rgcock3_0127": {
-        "Target": "{X300Y200}«Я слышал, что на Рагнароке{Line} нет никого с Лунной станции».{End}",
+        "Target": "{X300Y200}Я слышал, что на Рагнароке{Line} нет никого с Лунной станции.{End}",
         "Source Text SHA256": "1AF0334B7D36A840CD6E345695DA827DEC9AC5E9897449FA6C5056E155F3CE87",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1026,7 +1026,7 @@
         }
       },
       "$en_rgcock3_0128": {
-        "Target": "{X300Y200}«Сколько вас там?»{End}",
+        "Target": "{X300Y200}Сколько вас там?{End}",
         "Source Text SHA256": "9BA5C77F6796A00BB257216679A953B2BA1ADC5EF6437A4C9C190A3475CD4FB3",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1034,7 +1034,7 @@
         }
       },
       "$en_rgcock3_0129": {
-        "Target": "{X8Y200}{Char Squall}{Line}«Только двое».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}Только двое.{End}",
         "Source Text SHA256": "70F9E5153D4074968B678B01EB367F1DEFE774C28017E16FE2D944D48A6F08B3",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1042,7 +1042,7 @@
         }
       },
       "$en_rgcock3_0130": {
-        "Target": "{X300Y200}«......{Line} ...Ваши имена?»{End}",
+        "Target": "{X300Y200}......{Line} ...Ваши имена?{End}",
         "Source Text SHA256": "B28B3861B5BE76039144A0AA4308271C0EE0262C3EFCC70F3666B7A4FC650BB1",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1050,7 +1050,7 @@
         }
       },
       "$en_rgcock3_0131": {
-        "Target": "{X8Y200}{Char Squall}{Line}«{Char Squall}. Я Сид{Line} из Сада Баламб».{End}",
+        "Target": "{X8Y200}{Char Squall}{Line}{Char Squall}. Я Сид{Line} из Сада Баламб.{End}",
         "Source Text SHA256": "8A2AE98F558DA214938A18C81D65BDD068590167875C164829A7ED1431C41208",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1058,7 +1058,7 @@
         }
       },
       "$en_rgcock3_0132": {
-        "Target": "{X300Y200}«А второе?»{End}",
+        "Target": "{X300Y200}А второе?{End}",
         "Source Text SHA256": "6186499C7415B3467B3B954263BDF7A5E080EBE190047BEB735E0A5560C1F10D",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1066,7 +1066,7 @@
         }
       },
       "$en_rgcock3_0133": {
-        "Target": "{X190Y8}{Char Squall}{Line}«......{Char Rinoa}..»{End}",
+        "Target": "{X190Y8}{Char Squall}{Line}......{Char Rinoa}..{End}",
         "Source Text SHA256": "1AF2EB18F69444EED837389732FB0E20047B0CEB50DF38E5D025117163F06410",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1074,7 +1074,7 @@
         }
       },
       "$en_rgcock3_0134": {
-        "Target": "{X300Y200}«{Char Rinoa}?{Line} Волшебница?!{Line} Она на корабле?!»{End}",
+        "Target": "{X300Y200}{Char Rinoa}?{Line} Волшебница?!{Line} Она на корабле?!{End}",
         "Source Text SHA256": "B099B522D7463389CB7FF266FD2EA7CFC40F978C878433732058EEE3261672F4",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1090,7 +1090,7 @@
         }
       },
       "$en_rgcock3_0136": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Я... стала волшебницей. Я больше не{Line} смогу быть рядом с тобой, {Pause 48}{Char Squall}..»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Я... стала волшебницей. Я больше не{Line} смогу быть рядом с тобой, {Pause 48}{Char Squall}..{End}",
         "Source Text SHA256": "A69F3BB406A756F2B2C38B2CD4F5062CEC05DDAA99F77AF8B769D627A05F4B0E",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1098,7 +1098,7 @@
         }
       },
       "$en_rgcock3_0137": {
-        "Target": "{X300Y200}«Отвечайте, Рагнарок! Рагнарок, ответьте!»{End}",
+        "Target": "{X300Y200}Отвечайте, Рагнарок! Рагнарок, ответьте!{End}",
         "Source Text SHA256": "52381674D429A2AB6041D62FA94F0BA857DE566897E4F44BB079686471D0DBE2",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1106,7 +1106,7 @@
         }
       },
       "$en_rgcock3_0138": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Я не хочу будущего.{Line} Я хочу, чтобы настоящее остановилось. Я{Line} просто хочу остаться здесь, с тобой...»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Я не хочу будущего.{Line} Я хочу, чтобы настоящее остановилось. Я{Line} просто хочу остаться здесь, с тобой...{End}",
         "Source Text SHA256": "3E28F24ED1BC2541A673031593F995947A307D8D69EAAD8AF069B3C58D71F8D1",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1122,7 +1122,7 @@
         }
       },
       "$en_rgcock3_0140": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Никто больше не захочет{Line} быть рядом со мной...»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Никто больше не захочет{Line} быть рядом со мной...{End}",
         "Source Text SHA256": "4140722EECBC54CCCC1686FA67A916C13F935AA47931537EEBF6EF157495D2FE",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1130,7 +1130,7 @@
         }
       },
       "$en_rgcock3_0141": {
-        "Target": "{X300Y200}«По прибытии волшебница будет{Line} схвачена. Следуйте инструкциям персонала».{End}",
+        "Target": "{X300Y200}По прибытии волшебница будет{Line} схвачена. Следуйте инструкциям персонала.{End}",
         "Source Text SHA256": "52B02EE98522B1A26EB14B50829C368136A68F092B8D2B643B9DB6CAED0CB812",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1138,7 +1138,7 @@
         }
       },
       "$en_rgcock3_0142": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}{Pause 64}«Мне... страшно».{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}{Pause 64}Мне... страшно.{End}",
         "Source Text SHA256": "634A2A441A213BC1B2EC9EA96C40B62419B73AAECB382A277FE28FB3DF126C31",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1146,7 +1146,7 @@
         }
       },
       "$en_rgcock3_0143": {
-        "Target": "{X300Y200}«{Char Squall},{Line} приём? Волшебница тоже слушает?»{End}",
+        "Target": "{X300Y200}{Char Squall},{Line} приём? Волшебница тоже слушает?{End}",
         "Source Text SHA256": "CD4C844001101C28D94C5445FB4DA42B9F23EC63B0029750D1C5BADB6FE09D44",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1154,7 +1154,7 @@
         }
       },
       "$en_rgcock3_0144": {
-        "Target": "{X200Y200}{Char Rinoa}{Line}«Мне страшно, {Char Squall}..»{End}",
+        "Target": "{X200Y200}{Char Rinoa}{Line}Мне страшно, {Char Squall}..{End}",
         "Source Text SHA256": "E628354C7CC0700F8DB193D5CD4A7A95ED0E61A32329590C40311902FB9EEDEE",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1162,7 +1162,7 @@
         }
       },
       "$en_rgcock3_0145": {
-        "Target": "{X30Y8}{Char Rinoa}{Line}«Я не хочу возвращаться».{End}",
+        "Target": "{X30Y8}{Char Rinoa}{Line}Я не хочу возвращаться.{End}",
         "Source Text SHA256": "1D6BD5C5199E54AA639538FC75351ECAB91B40AE01EFF9BCB1D680FC9AC54180",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",
@@ -1170,7 +1170,7 @@
         }
       },
       "$en_rgcock3_0146": {
-        "Target": "{Char Rinoa}{Line}«Прощай, {Char Squall}».{End}",
+        "Target": "{Char Rinoa}{Line}Прощай, {Char Squall}.{End}",
         "Source Text SHA256": "167B5D633AF63542E32E1241822367A74BF1C0F88C217C0B8E57F67AAE2E32FA",
         "sourceContext": {
           "Source MSD SHA256": "88FF25F92E6B7D67A64C7F67609B6BB2D3DA52C4419E3F49985339792ACDF304",

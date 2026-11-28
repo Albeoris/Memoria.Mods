@@ -2,7 +2,7 @@
   "Fields": {
     "bccent_1": {
       "$en_bccent_1_0000": {
-        "Target": "{X80Y150}«Здесь так тихо... А где-то в эту{Line} минуту идут бои».{Next}«Видя вас, я вспоминаю об этом...{Line} Но я ни в чём вас не обвиняю».",
+        "Target": "{X80Y150}Здесь так тихо... А где-то в эту{Line} минуту идут бои.{Next}Видя вас, я вспоминаю об этом...{Line} Но я ни в чём вас не обвиняю.",
         "Source Text SHA256": "9D1FA1733A7468B09953DCF01220D22A7586A6095757987E83DFE7D9403E1CA9",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -10,7 +10,7 @@
         }
       },
       "$en_bccent_1_0001": {
-        "Target": "{X10Y10}«Здравствуй, Зелл. Как поживаешь?»{End}",
+        "Target": "{X10Y10}Здравствуй, Зелл. Как поживаешь?{End}",
         "Source Text SHA256": "9A039A8369EBCB0245184CF3EF7B81616C6CC87E6C1B2DA995916A9B2FE214F4",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bccent_1_0002": {
-        "Target": "{X80Y10}{Char Zell}{Line}«Лучше всех, вы же меня знаете!»{End}",
+        "Target": "{X80Y10}{Char Zell}{Line}Лучше всех, вы же меня знаете!{End}",
         "Source Text SHA256": "6832226FFD137A1B821E586025B7A5B9D4537E70FAA9E25367C1D9FC15376F02",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bccent_1_0003": {
-        "Target": "{X10Y10}«Это хорошо... Не забудь{Line} заглянуть к маме.{Line} Ей будет приятно».",
+        "Target": "{X10Y10}Это хорошо... Не забудь{Line} заглянуть к маме.{Line} Ей будет приятно.",
         "Source Text SHA256": "30687E0A6FA922B4E0C7248C3AD53E8C37F1BBDDC5DE2D2B7F7FA65B1F9A2B6F",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bccent_1_0004": {
-        "Target": "{X10Y10}«Сегодня без этого{Line}буяна Зелла?»{End}",
+        "Target": "{X10Y10}Сегодня без этого{Line}буяна Зелла?{End}",
         "Source Text SHA256": "D191E94DCEB51603AA566CBB3E2F4E8704564A413E5C37991111C1EB467E4423",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bccent_1_0005": {
-        "Target": "{X10Y10}«Какое облегчение. Он бы{Line}всё перевернул вверх дном.{Line}А сегодня так тихо и спокойно».{End}",
+        "Target": "{X10Y10}Какое облегчение. Он бы{Line}всё перевернул вверх дном.{Line}А сегодня так тихо и спокойно.{End}",
         "Source Text SHA256": "670A38CA2CC2D36CAB8DC240DB4C6DB5740E50741E1AD53AEAB77FFB2CD572D9",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bccent_1_0006": {
-        "Target": "{X80Y150}«Только пережив это,{Line}впервые понимаешь, как близко{Line}мир и война стоят друг к другу».{End}",
+        "Target": "{X80Y150}Только пережив это,{Line}впервые понимаешь, как близко{Line}мир и война стоят друг к другу.{End}",
         "Source Text SHA256": "947F70FFA19468492773A1BB52BAC4ACE230E5AC410AF6BF376277883C2440AD",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bccent_1_0007": {
-        "Target": "{X10Y10}«Зелл!{Line}Хорошо, что ты дома».{End}",
+        "Target": "{X10Y10}Зелл!{Line}Хорошо, что ты дома.{End}",
         "Source Text SHA256": "4C314F014D9C2D431A99A7B3DC29D089DF8A72F2DF5F10B3A5AF2F4434B4B96B",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bccent_1_0008": {
-        "Target": "{X80Y10}«Привет!{Line}Только я ненадолго».{End}",
+        "Target": "{X80Y10}Привет!{Line}Только я ненадолго.{End}",
         "Source Text SHA256": "FD5F282BD37BB8EC061A0946098CA01D92E7EED569838371ACDCAAFCDE267292",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bccent_1_0009": {
-        "Target": "{X10Y10}«Вот как? Ну, хоть{Line}поздоровайся с мамой.{Line}Это всё-таки твой дом».{End}",
+        "Target": "{X10Y10}Вот как? Ну, хоть{Line}поздоровайся с мамой.{Line}Это всё-таки твой дом.{End}",
         "Source Text SHA256": "7017EE89CDA533A3F32AB493D19B7CF0BC03A05CF0AAB7C95B6BDBCA828CE0DF",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bccent_1_0010": {
-        "Target": "{X10Y10}«Твой малой только что{Line} пронёсся здесь, аки торнадо!»",
+        "Target": "{X10Y10}Твой малой только что{Line} пронёсся здесь, аки торнадо!",
         "Source Text SHA256": "58FBE5E543EDF9FD087341D5156C26451D7F0B35459E5E41F49EAD9F04C009E0",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bccent_1_0011": {
-        "Target": "{X80Y10}Мать Большого проказника{Line}«Не знаю, что с ним делать...»",
+        "Target": "{X80Y10}Мать Большого проказника{Line}Не знаю, что с ним делать...",
         "Source Text SHA256": "B08D1165FF12389FC0DA5B8874719D5C2569B81C161D2BFB8E47987FEA6F8109",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bccent_1_0012": {
-        "Target": "{X10Y10}«Это он в твоего мужа пошёл.{Line} Хотя... может, и в маму...»",
+        "Target": "{X10Y10}Это он в твоего мужа пошёл.{Line} Хотя... может, и в маму...",
         "Source Text SHA256": "2EB9512C161D3F35E307674BF784F0E9648688CF34E5E280573A931803C92E03",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bccent_1_0013": {
-        "Target": "{X80Y10}Мать Большого проказника{Line}«Что?! Да как ты можешь?!..»",
+        "Target": "{X80Y10}Мать Большого проказника{Line}Что?! Да как ты можешь?!..",
         "Source Text SHA256": "5787522A5735E5FF0EE891EB521CC6A6BCD5F9C8BDEB00C2ADEDF9E952802AB0",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bccent_1_0014": {
-        "Target": "{X10Y10}«Да чего ты переживаешь?{Line} Нормальный пацан с кучей энергии!»",
+        "Target": "{X10Y10}Да чего ты переживаешь?{Line} Нормальный пацан с кучей энергии!",
         "Source Text SHA256": "250D2EDA3EDFD54B5A194012EE5FEF0E1FB336F7D0A9D81811F1BDEA90BD8FBF",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bccent_1_0015": {
-        "Target": "{X10Y10}«Вот вырастет вторым Зеллом — тогда и{Line}будешь переживать. Хе-хе».{End}",
+        "Target": "{X10Y10}Вот вырастет вторым Зеллом — тогда и{Line}будешь переживать. Хе-хе.{End}",
         "Source Text SHA256": "1404F9D111709FEB9836CB2ED2975D66EEC8385A671ECB790165D232AB17AF73",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bccent_1_0016": {
-        "Target": "{X150Y10}Мать Большого проказника{Line}«Фуууф...»{Next}«Теперь я понимаю через что{Line} пришлось пройти миссис Динч».",
+        "Target": "{X150Y10}Мать Большого проказника{Line}Фуууф...{Next}Теперь я понимаю через что{Line} пришлось пройти миссис Динч.",
         "Source Text SHA256": "EEBB23DFFAD28F79EADDE3316673634047C35CEEA0B4DE38610E9FEA8DD109FE",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bccent_1_0017": {
-        "Target": "{X10Y10}«Да...{Line} Железная леди!»",
+        "Target": "{X10Y10}Да...{Line} Железная леди!",
         "Source Text SHA256": "A90D659FA2E829B34C267A1D18F135CE8E4A82FD5AFF40C1F7133CA40DAC6E58",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bccent_1_0018": {
-        "Target": "Мама сорванца{Line}«Привет, Зелл».{End}",
+        "Target": "Мама сорванца{Line}Привет, Зелл.{End}",
         "Source Text SHA256": "20726EE0671CA98C2DA2ADFCD5B17AEE617F4BF2A689358BB576F09124C285B7",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bccent_1_0019": {
-        "Target": "«Мы как раз говорили о твоей{Line} маме. Ты понимаешь, какой{Line} замечательный она человек?»{End}",
+        "Target": "Мы как раз говорили о твоей{Line} маме. Ты понимаешь, какой{Line} замечательный она человек?{End}",
         "Source Text SHA256": "B21A2CDC4CF12DC4E9373A964C9CC9E819D6AFBE6EF7F6942F5F49F56811283D",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bccent_1_0020": {
-        "Target": "«Не забудь зайти к ней поздороваться».{End}",
+        "Target": "Не забудь зайти к ней поздороваться.{End}",
         "Source Text SHA256": "770B1BE32B51D3279CB2B8195622819FA06866664D3E630E2711C5395BA2A469",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -170,7 +170,7 @@
         }
       },
       "$en_bccent_1_0021": {
-        "Target": "«Твой мальчишка только что{Line} пронёсся мимо, как ураган».{End}",
+        "Target": "Твой мальчишка только что{Line} пронёсся мимо, как ураган.{End}",
         "Source Text SHA256": "58FBE5E543EDF9FD087341D5156C26451D7F0B35459E5E41F49EAD9F04C009E0",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -178,7 +178,7 @@
         }
       },
       "$en_bccent_1_0022": {
-        "Target": "{X80Y10}Мать Большого проказника{Line}«Это просто невозможно!{Line} Он ни минуты не сидит спокойно...»",
+        "Target": "{X80Y10}Мать Большого проказника{Line}Это просто невозможно!{Line} Он ни минуты не сидит спокойно...",
         "Source Text SHA256": "A33F142DFEEFB898358C25A28FF4CB030AF7189E1D2508D37BA5067E2CB987F3",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -186,7 +186,7 @@
         }
       },
       "$en_bccent_1_0023": {
-        "Target": "{X10Y10}«Знаешь... А я счастлив, когда{Line} он носится вокруг».",
+        "Target": "{X10Y10}Знаешь... А я счастлив, когда{Line} он носится вокруг.",
         "Source Text SHA256": "FE89EDD83438DDE272772FC1404230B5EC8DD9FB7CF3DBD3AD12FD194B612860",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -194,7 +194,7 @@
         }
       },
       "$en_bccent_1_0024": {
-        "Target": "{X80Y10}Мать Большого проказника{Line}«Правда? Почему?»",
+        "Target": "{X80Y10}Мать Большого проказника{Line}Правда? Почему?",
         "Source Text SHA256": "9C8CDF950AFF252CDCCADEDC2C9ED24647ADC46E8D5F99B51C3708C7F6A542D8",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -202,7 +202,7 @@
         }
       },
       "$en_bccent_1_0025": {
-        "Target": "{X10Y10}«Он напоминает мне маленького Зелла.{Line} Может, в один прекрасный день{Line} станет таким же, как он!»",
+        "Target": "{X10Y10}Он напоминает мне маленького Зелла.{Line} Может, в один прекрасный день{Line} станет таким же, как он!",
         "Source Text SHA256": "868BA3FF99A61089853929CB7EB8F806AA582A27C536398B062CF03A7675D3D7",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -210,7 +210,7 @@
         }
       },
       "$en_bccent_1_0026": {
-        "Target": "Мама маленького сорванца{Line}«...Впрочем, ему ещё{Line} нужна строгая дисциплина».{Next}«Помнишь, как миссис Динчт{Line} воспитывала Зелла? Я её боялась, но{Line} теперь понимаю: мне надо брать с неё пример».{End}",
+        "Target": "Мама маленького сорванца{Line}...Впрочем, ему ещё{Line} нужна строгая дисциплина.{Next}Помнишь, как миссис Динчт{Line} воспитывала Зелла? Я её боялась, но{Line} теперь понимаю: мне надо брать с неё пример.{End}",
         "Source Text SHA256": "20212FA07CE5E9043EDE600BF5E0AA978D27B8301591F9E10DDCCA4A98F365C4",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -218,7 +218,7 @@
         }
       },
       "$en_bccent_1_0027": {
-        "Target": "{X10Y10}«Ого! Становишься ты{Line}грозной мамашей».{End}",
+        "Target": "{X10Y10}Ого! Становишься ты{Line}грозной мамашей.{End}",
         "Source Text SHA256": "2E7A7B27D3FD4E34F8BC9A0FDB2AFDD1167E35F1B75DB22CADC6F361B2CC927B",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -226,7 +226,7 @@
         }
       },
       "$en_bccent_1_0028": {
-        "Target": "{X150Y10}Мать Большого проказника{Line}«Привет, Зелл!»{End}",
+        "Target": "{X150Y10}Мать Большого проказника{Line}Привет, Зелл!{End}",
         "Source Text SHA256": "20726EE0671CA98C2DA2ADFCD5B17AEE617F4BF2A689358BB576F09124C285B7",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -234,7 +234,7 @@
         }
       },
       "$en_bccent_1_0029": {
-        "Target": "{X150Y10}«А мы только что говорили о твоей маме.{Line} Знаешь, она удивительная женщина!»",
+        "Target": "{X150Y10}А мы только что говорили о твоей маме.{Line} Знаешь, она удивительная женщина!",
         "Source Text SHA256": "B21A2CDC4CF12DC4E9373A964C9CC9E819D6AFBE6EF7F6942F5F49F56811283D",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -242,7 +242,7 @@
         }
       },
       "$en_bccent_1_0030": {
-        "Target": "{X10Y10}«Не забудь навестить её».",
+        "Target": "{X10Y10}Не забудь навестить её.",
         "Source Text SHA256": "CFA577DEB5B1D8BB77A3DF13820367801127C27694FCEDF21C2D849A50B5D78D",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -250,7 +250,7 @@
         }
       },
       "$en_bccent_1_0031": {
-        "Target": "{X80Y10}Мать Большого проказника{Line}«Куда он побежал?!»{Next}«Только бы он не попал под машину!..»",
+        "Target": "{X80Y10}Мать Большого проказника{Line}Куда он побежал?!{Next}Только бы он не попал под машину!..",
         "Source Text SHA256": "81DA1D2EC79D89045196F842EFD0D52D5F50260C657B7D96C61063DFA937E044",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -258,7 +258,7 @@
         }
       },
       "$en_bccent_1_0032": {
-        "Target": "Мама маленького хулигана{Line}«Госпожа Динч и сегодня за ним{Line} присмотрела. Я так ей благодарна».{Next}«Наверное, только она{Line} одна и может с ним{Line} справиться».{End}",
+        "Target": "Мама маленького хулигана{Line}Госпожа Динч и сегодня за ним{Line} присмотрела. Я так ей благодарна.{Next}Наверное, только она{Line} одна и может с ним{Line} справиться.{End}",
         "Source Text SHA256": "4896CE12A7C60D2EFAA3EF52B0599DE07DF6281C28529A83F3FA80CDCED17291",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -266,7 +266,7 @@
         }
       },
       "$en_bccent_1_0033": {
-        "Target": "Мама маленького сорванца{Line}«О, вы все учитесь в Саду?{Line} Надо же... Учитесь прилежно. Пока!»{End}",
+        "Target": "Мама маленького сорванца{Line}О, вы все учитесь в Саду?{Line} Надо же... Учитесь прилежно. Пока!{End}",
         "Source Text SHA256": "03CC0A5D380B96F2A22E15CECF3C225FF7EFD9D773B4786EAE898D8068B345E4",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",
@@ -274,7 +274,7 @@
         }
       },
       "$en_bccent_1_0034": {
-        "Target": "{X10Y10}Владелец лавки{Line}«Здравствуйте!»",
+        "Target": "{X10Y10}Владелец лавки{Line}Здравствуйте!",
         "Source Text SHA256": "581D39E5AB368D997EF9DB5F23F28BA8B4A7A110A2328ADD5509542C447EB1E2",
         "sourceContext": {
           "Source MSD SHA256": "D0A8FE7EC6EA13725C7806EA33C7693CFF4F498682FFC5AEFA651202ECAC47C4",

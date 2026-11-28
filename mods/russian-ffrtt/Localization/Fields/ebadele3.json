@@ -10,7 +10,7 @@
         }
       },
       "$en_ebadele3_0001": {
-        "Target": "{Char Squall}{Line}«Мы не дадим{Line} колдунье Адель воскреснуть.{Line} Уничтожить капсулу».{End}",
+        "Target": "{Char Squall}{Line}Мы не дадим{Line} колдунье Адель воскреснуть.{Line} Уничтожить капсулу.{End}",
         "Source Text SHA256": "55873E7DCC8EB4DF487FB150FD327043F8B7C7DC24E6952674BF85AA9179C824",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ebadele3_0002": {
-        "Target": "{Char Squall}{Line}«Так вот оно что...»{End}",
+        "Target": "{Char Squall}{Line}Так вот оно что...{End}",
         "Source Text SHA256": "53D4118383CF01B3952C453DC97743F21386326DB461D3D6B4287B8C01BEF2E9",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ebadele3_0003": {
-        "Target": "{Char Rinoa}{Line}«...Ещё одна ведьма этой эпохи...{Line} Ведьма Адель...»{End}",
+        "Target": "{Char Rinoa}{Line}...Ещё одна ведьма этой эпохи...{Line} Ведьма Адель...{End}",
         "Source Text SHA256": "9675B3CC853D4ACE1A4E12388E9DD4497001FB5471002067FF04E9D50A1406B6",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ebadele3_0004": {
-        "Target": "{Char Squall}{Line}«{Char Rinoa}!!!{Line} Почему ты здесь?!»{End}",
+        "Target": "{Char Squall}{Line}{Char Rinoa}!!!{Line} Почему ты здесь?!{End}",
         "Source Text SHA256": "BFC41B7040A764E925DEA01C160C36847CA1A0FF595CB7845B84B1B600E41C6E",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ebadele3_0005": {
-        "Target": "{Char Rinoa}{Line}«Но... {Char Squall}...{Line} Я всегда хочу быть рядом с тобой...»{End}",
+        "Target": "{Char Rinoa}{Line}Но... {Char Squall}...{Line} Я всегда хочу быть рядом с тобой...{End}",
         "Source Text SHA256": "B447D6EA34BAB66A28D89A76B25148D717D3F741BA6F462387FF27F656484295",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ebadele3_0006": {
-        "Target": "{Char Zell}{Line}«БЕРЕГИСЬ!!!»{End}",
+        "Target": "{Char Zell}{Line}БЕРЕГИСЬ!!!{End}",
         "Source Text SHA256": "91581320BE3D8A18AD55B6B71D21A843EC3BA414C6631B04B1A48CD2798333D7",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ebadele3_0007": {
-        "Target": "{Char Quistis}{Line}«Осторожно!»{End}",
+        "Target": "{Char Quistis}{Line}Осторожно!{End}",
         "Source Text SHA256": "505903998389219BBAD3D9B30C6ACB7A7ABDD08464F3D77D3440D55073DB92F4",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ebadele3_0008": {
-        "Target": "{Char Selphie}{Line}«Осторожно!!!»{End}",
+        "Target": "{Char Selphie}{Line}Осторожно!!!{End}",
         "Source Text SHA256": "E23A06E1787F96F722C1C322CA0F9F33C6D8E7C3FF91FB042E663F7D0D5A2EAC",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ebadele3_0009": {
-        "Target": "{Char Squall}{Line}«{Char Rinoa}!!!»{End}",
+        "Target": "{Char Squall}{Line}{Char Rinoa}!!!{End}",
         "Source Text SHA256": "F7F37DEB35F63FA3A4E7525C119FD2B6F81B1D5FC3C21599E92E9EF706C12EC6",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ebadele3_0010": {
-        "Target": "{Char Rinoa}{Line}«{Char Squall}!!!»{End}",
+        "Target": "{Char Rinoa}{Line}{Char Squall}!!!{End}",
         "Source Text SHA256": "5BE965A396EF0993C228BAC12C3C2134AFF1E55338044A7DF907DB529370E8A2",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ebadele3_0011": {
-        "Target": "{Char Squall}{Line}«САЙФЕР!!!!!!»{End}",
+        "Target": "{Char Squall}{Line}САЙФЕР!!!!!!{End}",
         "Source Text SHA256": "0BFD3B6798C2CB3C31B81FB89DF531C4D6F5DA306F22CA66DA7B4BE5873B3F04",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ebadele3_0012": {
-        "Target": "{X40Y20}{Char Rinoa}{Line}«Сейфер! Прекрати же ты!»{End}",
+        "Target": "{X40Y20}{Char Rinoa}{Line}Сейфер! Прекрати же ты!{End}",
         "Source Text SHA256": "DB6D7327C3CE1DEB88BC7678B1E1983226085D99B7DDF60819C5F069C2154872",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ebadele3_0013": {
-        "Target": "{X40Y20}{Char Rinoa}{Line}«Тебе мало того, чего ты уже натворил?!»{End}",
+        "Target": "{X40Y20}{Char Rinoa}{Line}Тебе мало того, чего ты уже натворил?!{End}",
         "Source Text SHA256": "C191BAEA4905640D705A3589B56A4CE3B93A1CAAF81440DE6F55FEEFD9BEEB8C",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ebadele3_0014": {
-        "Target": "{X40Y20}{Char Rinoa}{Line}«Я же знаю - ты не такой!»{End}",
+        "Target": "{X40Y20}{Char Rinoa}{Line}Я же знаю - ты не такой!{End}",
         "Source Text SHA256": "85D1B389B2F5EA70FF261376E0EF085A91BDCE1CDEF6D52608C75972F873F2FC",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ebadele3_0015": {
-        "Target": "{X120Y20}{Char Seifer}{Line}«Я не могу{Line} отступить! Мне некуда идти!»{End}",
+        "Target": "{X120Y20}{Char Seifer}{Line}Я не могу{Line} отступить! Мне некуда идти!{End}",
         "Source Text SHA256": "3AED57177313AFF1CD91F216C7CDBD0042ADB5B75FA31F0AA818EA3EBC15FB3E",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ebadele3_0016": {
-        "Target": "{X120Y20}{Char Seifer}{Line}«Волшебница должна быть{Line} одна! Таково ЖЕЛАНИЕ Ультимеции!»{End}",
+        "Target": "{X120Y20}{Char Seifer}{Line}Волшебница должна быть{Line} одна! Таково ЖЕЛАНИЕ Ультимеции!{End}",
         "Source Text SHA256": "EF35263211CDB7A07DDA1ED9847043438675A4DD46E30D4DA8F52778B89F122A",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ebadele3_0017": {
-        "Target": "{X80Y8}{Char Rinoa}{Line}«...Сейфер.»{End}",
+        "Target": "{X80Y8}{Char Rinoa}{Line}...Сейфер.{End}",
         "Source Text SHA256": "E0321E842E5042B98AC811F8F9CA5721672BCBA2D947CB33E05B2E5250F8D74B",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ebadele3_0018": {
-        "Target": "{X80Y8}{Char Rinoa}{Line}«Хватит... Прошу тебя».{End}",
+        "Target": "{X80Y8}{Char Rinoa}{Line}Хватит... Прошу тебя.{End}",
         "Source Text SHA256": "18A878C5D51ED527F9C7F56B48ED5D585DA6C0EC0382E54CB25D889226448D01",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ebadele3_0019": {
-        "Target": "{X100Y25}{Char Seifer}{Line}«{Char Rinoa}......»{End}",
+        "Target": "{X100Y25}{Char Seifer}{Line}{Char Rinoa}......{End}",
         "Source Text SHA256": "4520B20DC529AD896691ED749B8D0380580DFAB6242DFAB6445C7EF8EB0D6FF4",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ebadele3_0020": {
-        "Target": "{X8Y20}{Char Squall}{Line}«Сейфер!!! НЕТ!»{End}",
+        "Target": "{X8Y20}{Char Squall}{Line}Сейфер!!! НЕТ!{End}",
         "Source Text SHA256": "437FC0F84B09B0E70120FA78295BF78E3D1810E4A03542FC47B8CFAA438090EF",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ebadele3_0021": {
-        "Target": "{X100Y15}{Char Seifer}{Line}«{Char Rinoa} и Адель! Все волшебницы в{Line} сборе! Гляди же, {Char Squall}!!»{End}",
+        "Target": "{X100Y15}{Char Seifer}{Line}{Char Rinoa} и Адель! Все волшебницы в{Line} сборе! Гляди же, {Char Squall}!!{End}",
         "Source Text SHA256": "0B4DB2D2C93C99760C98D5F5F82C0B8257D42E42482AF4B4E336500F5AB6F3D2",
         "sourceContext": {
           "Source MSD SHA256": "70DDA68986B52B421476B2F642A38EE8283CBEE3354DD350CDBBEA59BF379054",

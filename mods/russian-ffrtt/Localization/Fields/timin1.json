@@ -2,7 +2,7 @@
   "Fields": {
     "timin1": {
       "$en_timin1_0000": {
-        "Target": "{X20Y20F2L3B2C3}«Young lad...{Line} Do you like beverages...?»{Line}Нет...{Line}Да, вроде того{End}",
+        "Target": "{X20Y20F2L3B2C3}Young lad...{Line} Do you like beverages...?{Line}Нет...{Line}Да, вроде того{End}",
         "Source Text SHA256": "8CE9561355174E14FD91CD53A5ACC92AA597E39222668C4FA77C7FD2EDE1982C",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -10,7 +10,7 @@
         }
       },
       "$en_timin1_0001": {
-        "Target": "{X20Y20}«Ох... очень жаль...»{End}",
+        "Target": "{X20Y20}Ох... очень жаль...{End}",
         "Source Text SHA256": "1F65062E980AD3AF294ADF93B235FE88E47AA7A6C01A114EF16E3C7081EBF97B",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -18,7 +18,7 @@
         }
       },
       "$en_timin1_0002": {
-        "Target": "{X20Y20}«Aаа... приятно слышать.{Line} Пейте из-под крана всё, что захотите».{Next}«Aх, вам не нужно стесняться. Это{Line} всего лишь вода».{End}",
+        "Target": "{X20Y20}Aаа... приятно слышать.{Line} Пейте из-под крана всё, что захотите.{Next}Aх, вам не нужно стесняться. Это{Line} всего лишь вода.{End}",
         "Source Text SHA256": "913C8E45CF8102F79D6F69E26B296A4B9DE386D8CB0E4AE96C1CCB47CB6968E2",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -26,7 +26,7 @@
         }
       },
       "$en_timin1_0003": {
-        "Target": "{X20Y20}«Вам ведь нравятся напитки, не так{Line} ли? Пейте из-под крана всё, что захотите».{Next}«Aх, вам не нужно стесняться. Это{Line} всего лишь вода».{End}",
+        "Target": "{X20Y20}Вам ведь нравятся напитки, не так{Line} ли? Пейте из-под крана всё, что захотите.{Next}Aх, вам не нужно стесняться. Это{Line} всего лишь вода.{End}",
         "Source Text SHA256": "6B41E09319951C07F5F1802A372101F4C1332D8EFF443FE1ED87937F3BF780EC",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -34,7 +34,7 @@
         }
       },
       "$en_timin1_0004": {
-        "Target": "{X20Y20}{Char Squall}{Line}«Чувствую себя, словно заново родился...»{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}Чувствую себя, словно заново родился...{End}",
         "Source Text SHA256": "74C0EA8781F604F828DA27D6C98EAF06BF61730346ABFF9623A99786E4313F78",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -42,7 +42,7 @@
         }
       },
       "$en_timin1_0005": {
-        "Target": "{X20Y20}«Ну как? Хорошо?»{End}",
+        "Target": "{X20Y20}Ну как? Хорошо?{End}",
         "Source Text SHA256": "CDE04D386314056F6F4CCB8C2F0D57D196435F302669A82757D492EEE93E303F",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -50,7 +50,7 @@
         }
       },
       "$en_timin1_0006": {
-        "Target": "{X20Y20}{Char Squall}{Line}«Не чувствую ничего нового...»{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}Не чувствую ничего нового...{End}",
         "Source Text SHA256": "DAC3FA5A5FEE07BA3886B1A2664CDFCB702A04D8D215303B46207AC489A8CA69",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -58,7 +58,7 @@
         }
       },
       "$en_timin1_0007": {
-        "Target": "{X20Y20}«Это натуральная весенняя вода. Когда{Line} её пьёшь, она срабатывает лишь первые{Line} несколько раз.{Next}Я пил её всю жизнь... Для меня{Line} эффект уже исчерпан но, ох, она{Line} так хороша!»{End}",
+        "Target": "{X20Y20}Это натуральная весенняя вода. Когда{Line} её пьёшь, она срабатывает лишь первые{Line} несколько раз.{Next}Я пил её всю жизнь... Для меня{Line} эффект уже исчерпан но, ох, она{Line} так хороша!{End}",
         "Source Text SHA256": "F44ADF6791528CE5DA5856930FCD9B79A28D675C785C20C91FEB506FE1BBBF6E",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -66,7 +66,7 @@
         }
       },
       "$en_timin1_0008": {
-        "Target": "{X20Y20}«Раньше мы называли это{Line}„Слёзами совы“ и продавали{Line}путникам из дальних краёв.{Next}Ха-ха... Да я не прошу с тебя денег.{Line}Не волнуйся, парень».{End}",
+        "Target": "{X20Y20}Раньше мы называли это{Line}„Слёзами совы“ и продавали{Line}путникам из дальних краёв.{Next}Ха-ха... Да я не прошу с тебя денег.{Line}Не волнуйся, парень.{End}",
         "Source Text SHA256": "943D0CC3C33C1CA3CEFD4A013BF9BB79C3AC322DFA7FB6E681F1443D73A8600E",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -74,7 +74,7 @@
         }
       },
       "$en_timin1_0009": {
-        "Target": "{X20Y20}«А-а-а... Лучше и не придумать!»{End}",
+        "Target": "{X20Y20}А-а-а... Лучше и не придумать!{End}",
         "Source Text SHA256": "3AF2D2E50443CF28AB85F29B11A7DC71D29D0E19BF77F7506D0397DB1918B940",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -82,7 +82,7 @@
         }
       },
       "$en_timin1_0010": {
-        "Target": "{X20Y20F2L3B2C3}{Char Squall}{Line}«......»{Line}Проверить буфет{Line}Не трогать{End}",
+        "Target": "{X20Y20F2L3B2C3}{Char Squall}{Line}......{Line}Проверить буфет{Line}Не трогать{End}",
         "Source Text SHA256": "9A9C8815732188B51E138E7E32CABF3CB612339CC627C7183C7C6F07BA82ACE0",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -98,7 +98,7 @@
         }
       },
       "$en_timin1_0012": {
-        "Target": "{X20Y20}«Скажи-ка, юноша...{Line} И что же ты делаешь?»{End}",
+        "Target": "{X20Y20}Скажи-ка, юноша...{Line} И что же ты делаешь?{End}",
         "Source Text SHA256": "76AC5439EF66AE4717198178190058E723E079FCE3B25B14825DD3BBF328E75B",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -106,7 +106,7 @@
         }
       },
       "$en_timin1_0013": {
-        "Target": "{X20Y20}«Так вот чем в наше{Line} время занимаются{Line} молодые люди? Открывают чужие буфеты?»{End}",
+        "Target": "{X20Y20}Так вот чем в наше{Line} время занимаются{Line} молодые люди? Открывают чужие буфеты?{End}",
         "Source Text SHA256": "9E05A3821F80CBE0D10CB3F79C90142438C12F441BB7B44AE64594E49BF5AD0D",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -114,7 +114,7 @@
         }
       },
       "$en_timin1_0014": {
-        "Target": "{X150Y20}«Этот буфет заело. Его можно{Line} открыть, если слегка{Line} по нему БАХНУТЬ.»{End}",
+        "Target": "{X150Y20}Этот буфет заело. Его можно{Line} открыть, если слегка{Line} по нему БАХНУТЬ.{End}",
         "Source Text SHA256": "409FDB69026873246AB511327DE7796D39D9C4039459BECC7378B1419B9CD901",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -122,7 +122,7 @@
         }
       },
       "$en_timin1_0015": {
-        "Target": "{X20Y20F2L3B2C3}{Char Squall}{Line}«......»{Line}БАХНУТЬ его слегка{Line}Оставить в покое{End}",
+        "Target": "{X20Y20F2L3B2C3}{Char Squall}{Line}......{Line}БАХНУТЬ его слегка{Line}Оставить в покое{End}",
         "Source Text SHA256": "B9055C9FD7E8A1BF8D3AACC87B38426E980449B923E69990576EB5C2BE392C28",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -138,7 +138,7 @@
         }
       },
       "$en_timin1_0017": {
-        "Target": "{X20Y20}«А ты, юноша,{Line} и в самом деле странный...{Next}По-твоему,{Line} забавно открывать пустой буфет?»{End}",
+        "Target": "{X20Y20}А ты, юноша,{Line} и в самом деле странный...{Next}По-твоему,{Line} забавно открывать пустой буфет?{End}",
         "Source Text SHA256": "27B98719CE9CFCEC2C7EB956A0EC9E2B7C7F0185625608FE3477D73D5AA4D350",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -154,7 +154,7 @@
         }
       },
       "$en_timin1_0019": {
-        "Target": "{X20Y20F2L3B2C3}{Char Squall}{Line}«......»{Line}Присмотреться{Line}Забудь об этом{End}",
+        "Target": "{X20Y20F2L3B2C3}{Char Squall}{Line}......{Line}Присмотреться{Line}Забудь об этом{End}",
         "Source Text SHA256": "AC1CB92BD53297D93C942F2666A13C6AFC90FF819254C7DD1796CDC96358826A",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -178,7 +178,7 @@
         }
       },
       "$en_timin1_0022": {
-        "Target": "{X20Y20}«Использовать старика ради{Line} наживы...»{End}",
+        "Target": "{X20Y20}Использовать старика ради{Line} наживы...{End}",
         "Source Text SHA256": "8864704A1FC863F17C185A1EC67E0A3D4016228258EDF519D43607D531D980E9",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -186,7 +186,7 @@
         }
       },
       "$en_timin1_0023": {
-        "Target": "{X150Y20}«Этот дом слишком мал для{Line} семьи из пяти человек...{Next}Мама работает в баре, бабушка – в{Line} магазине подарков... Они кажется не против...{Next}А вот дедушка так{Line} упрям, он отказывается переезжать в дом побольше».{End}",
+        "Target": "{X150Y20}Этот дом слишком мал для{Line} семьи из пяти человек...{Next}Мама работает в баре, бабушка – в{Line} магазине подарков... Они кажется не против...{Next}А вот дедушка так{Line} упрям, он отказывается переезжать в дом побольше.{End}",
         "Source Text SHA256": "B9E7C0D03BA417C3769CFF079BE61B7C634B922D6AC6BEE784A02CEB343BE6A9",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -194,7 +194,7 @@
         }
       },
       "$en_timin1_0024": {
-        "Target": "{X150Y20}«Я хочу себе БОЛЬШУЮ, просто ОГРОМНУЮ{Pause 48}{Line} комнату! Однажды у{Line} меня будет собственное жильё!»{End}",
+        "Target": "{X150Y20}Я хочу себе БОЛЬШУЮ, просто ОГРОМНУЮ{Pause 48}{Line} комнату! Однажды у{Line} меня будет собственное жильё!{End}",
         "Source Text SHA256": "5F15995919BB74AACDDB0C9D2E503B5C6EF0591BED771444B971CFCCE3D6B63A",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -202,7 +202,7 @@
         }
       },
       "$en_timin1_0025": {
-        "Target": "{X150Y20}«Люди часто принимают это{Line} место за контору станции.{Pause 48}{Line} Это очень раздражает...»{End}",
+        "Target": "{X150Y20}Люди часто принимают это{Line} место за контору станции.{Pause 48}{Line} Это очень раздражает...{End}",
         "Source Text SHA256": "99E87A04041EDC138FF36E4A3FA0DBD287B0B9F37E45C73E5E75C18BCBA5EACB",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -210,7 +210,7 @@
         }
       },
       "$en_timin1_0026": {
-        "Target": "{X20Y20}«Жизнь такая странная... Вроде{Pause 80}{Line} никто не учит нас любви, но{Line} в итоге мы все равно влюбляемся...»{End}",
+        "Target": "{X20Y20}Жизнь такая странная... Вроде{Pause 80}{Line} никто не учит нас любви, но{Line} в итоге мы все равно влюбляемся...{End}",
         "Source Text SHA256": "98826E8B5FB5EB4CDEB97B22F5513DE3B177E017A8A616F8FE92023D5BFEECDD",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -218,7 +218,7 @@
         }
       },
       "$en_timin1_0027": {
-        "Target": "{X20Y20}«Странная штука жизнь...{Pause 80}{Line}Никто ведь нас этому не учит,{Line}а почему-то мы всё равно{Line}причиняем друг другу боль...»{End}",
+        "Target": "{X20Y20}Странная штука жизнь...{Pause 80}{Line}Никто ведь нас этому не учит,{Line}а почему-то мы всё равно{Line}причиняем друг другу боль...{End}",
         "Source Text SHA256": "9F52E0880E6E80A7645022E32AEFDE1BF26EC9779086E489A0AE511C2CAFC84A",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -226,7 +226,7 @@
         }
       },
       "$en_timin1_0028": {
-        "Target": "{X20Y20}«Когда вам грустно и вы слышите{Line} трогательную песню, разве вам не{Line} хочется плакать?..»{End}",
+        "Target": "{X20Y20}Когда вам грустно и вы слышите{Line} трогательную песню, разве вам не{Line} хочется плакать?..{End}",
         "Source Text SHA256": "F6A277B87C503AD5899E2E5681744ACF038BEC49A3B82FE39310D15DDF44725F",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -234,7 +234,7 @@
         }
       },
       "$en_timin1_0029": {
-        "Target": "{X150Y20}«Бедная сестрёнка... Её снова бросили... В этом году{Line} у неё это уже в пятнадцатый раз».{End}",
+        "Target": "{X150Y20}Бедная сестрёнка... Её снова бросили... В этом году{Line} у неё это уже в пятнадцатый раз.{End}",
         "Source Text SHA256": "FA0C06432DF95725A67049F9B829F9D432FFA6C17E517144DAA9A070896327B8",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -242,7 +242,7 @@
         }
       },
       "$en_timin1_0030": {
-        "Target": "{X10Y10F1L2B1C2}«Что-то мне не до карт...»{Line}А я всё-таки хочу сыграть{Line}Неважно{End}",
+        "Target": "{X10Y10F1L2B1C2}Что-то мне не до карт...{Line}А я всё-таки хочу сыграть{Line}Неважно{End}",
         "Source Text SHA256": "9E32219F23C53249DCFF2A32D39D3DF9593E171DEFF6E6FFFBA631B11C1EF965",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -250,7 +250,7 @@
         }
       },
       "$en_timin1_0031": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Баламба и нашим...»{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Баламба и нашим...{End}",
         "Source Text SHA256": "74EF677D5066792CB035EC710DA0456BE59DE53E3A06ED4C7D435F51AB9A7E2F",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -258,7 +258,7 @@
         }
       },
       "$en_timin1_0032": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Гальбадии и нашим...»{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Гальбадии и нашим...{End}",
         "Source Text SHA256": "9C1D909264A14A7C3333C1A5E1B3F8759BFBEEBC64145FF5329C5BC417C9C1FB",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -266,7 +266,7 @@
         }
       },
       "$en_timin1_0033": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Трабии и нашим...»{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Трабии и нашим...{End}",
         "Source Text SHA256": "7495F8A07E253FB029D8AB99EB672083126DAC9D2359316B84EB71053525BCF3",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -274,7 +274,7 @@
         }
       },
       "$en_timin1_0034": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Центры и нашим...»{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Центры и нашим...{End}",
         "Source Text SHA256": "996D65476646A7805E43B057E6F6E77000FADC3133361DE7E12065B23171CE49",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -282,7 +282,7 @@
         }
       },
       "$en_timin1_0035": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Доллета и нашим...»{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Доллета и нашим...{End}",
         "Source Text SHA256": "E5FB9565AA1130768360C1B47A33169828562C505810C20C54D374DCEE4F7284",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -290,7 +290,7 @@
         }
       },
       "$en_timin1_0036": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}ГР и нашим...»{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}ГР и нашим...{End}",
         "Source Text SHA256": "4035E8862376C56AFF3750B1BBE05AA5555429AEEA47E90211332132EE3CF0DF",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -298,7 +298,7 @@
         }
       },
       "$en_timin1_0037": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Луны и нашим...»{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Луны и нашим...{End}",
         "Source Text SHA256": "F773480E4F20A7378C95D41118F49E8574728DFBC3932152C4D81713423AEC77",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",
@@ -306,7 +306,7 @@
         }
       },
       "$en_timin1_0038": {
-        "Target": "{X10Y10}«Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Эстара и нашим...»{End}",
+        "Target": "{X10Y10}Похоже, ты знаешь правила,{Line}которых у нас нет.{Line}Если уж играем, то по правилам{Line}Эстара и нашим...{End}",
         "Source Text SHA256": "52421AC21204A1C988F5C3FD840664D292B47621235D3A6814D9D66DECC77FFB",
         "sourceContext": {
           "Source MSD SHA256": "D179A7C705E68C9DC564C6422B735CCF734B2F5D8AE294E6FEFC966AD3946784",

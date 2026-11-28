@@ -18,7 +18,7 @@
         }
       },
       "$en_fhdeck4a_0002": {
-        "Target": "{X30Y50}«Постойте.{Line}Мы пришли с миром».{End}",
+        "Target": "{X30Y50}Постойте.{Line}Мы пришли с миром.{End}",
         "Source Text SHA256": "B8156F107C6F0FD3E9C2AAAF23F67258AC8F083D9A57565592DD536131F36B69",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -26,7 +26,7 @@
         }
       },
       "$en_fhdeck4a_0003": {
-        "Target": "{X30Y50}«Нам нужно поговорить с директором Сидом.{Line}Где он?»{End}",
+        "Target": "{X30Y50}Нам нужно поговорить с директором Сидом.{Line}Где он?{End}",
         "Source Text SHA256": "CC2C5C2EEC54BF6B67656681BC7430AA4FEA3CD32CF82EF6591212B17EFD6B98",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -34,7 +34,7 @@
         }
       },
       "$en_fhdeck4a_0004": {
-        "Target": "{X300Y60}Директор Сид{Line}«Я здесь».{End}",
+        "Target": "{X300Y60}Директор Сид{Line}Я здесь.{End}",
         "Source Text SHA256": "D0AA11341CED7EB75AA076867811DF8583B0EB5358922C08C7ED483EB55A4C4E",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -42,7 +42,7 @@
         }
       },
       "$en_fhdeck4a_0005": {
-        "Target": "{X8Y40}«Директор, мы{Line}пришли за Эллоной.{Line}Здесь теперь слишком опасно».{End}",
+        "Target": "{X8Y40}Директор, мы{Line}пришли за Эллоной.{Line}Здесь теперь слишком опасно.{End}",
         "Source Text SHA256": "C088995E0BC131809435BBB94BF09A62C4434AC57A559BF27DC6A2D49C0A3D88",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -50,7 +50,7 @@
         }
       },
       "$en_fhdeck4a_0006": {
-        "Target": "{X300Y20}Директор Сид{Line}«...Да.{Line}Боюсь, что так».{End}",
+        "Target": "{X300Y20}Директор Сид{Line}...Да.{Line}Боюсь, что так.{End}",
         "Source Text SHA256": "F22F35A87A141CC72C9DBAD47BCC3B07ACC75296EC669B935C89587F4DFC150A",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -66,7 +66,7 @@
         }
       },
       "$en_fhdeck4a_0008": {
-        "Target": "{X300Y20}Директор Сид{Line}«{Char Squall}. Ты знаешь,{Line}кто она?»{Next}«Пожалуйста, найди её.{Line}Она где-то здесь, в Саду».{End}",
+        "Target": "{X300Y20}Директор Сид{Line}{Char Squall}. Ты знаешь,{Line}кто она?{Next}Пожалуйста, найди её.{Line}Она где-то здесь, в Саду.{End}",
         "Source Text SHA256": "BCC37A928C524469B507D7ACAA5E4CF269CAC55A0FE56F41A1D01FB3B0D83D95",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -82,7 +82,7 @@
         }
       },
       "$en_fhdeck4a_0010": {
-        "Target": "{X160Y40}Директор Сид{Line}«{Char Squall}?»{End}",
+        "Target": "{X160Y40}Директор Сид{Line}{Char Squall}?{End}",
         "Source Text SHA256": "C4021B5D0CB73A399FF775F5840167A54654CC8A33A2A5DF7F4F17706F1F07E2",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -90,7 +90,7 @@
         }
       },
       "$en_fhdeck4a_0011": {
-        "Target": "{X300Y40}{Char Squall}{Line}«...Да, господин директор».{End}",
+        "Target": "{X300Y40}{Char Squall}{Line}...Да, господин директор.{End}",
         "Source Text SHA256": "3F18BBF41344569298DB77213EA15A40061FE9A3C3D8708B38BADF4ECE2BF0B0",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -98,7 +98,7 @@
         }
       },
       "$en_fhdeck4a_0012": {
-        "Target": "{X160Y40}Директор Сид{Line}«Пожалуйста,{Line}приведи её сюда».{End}",
+        "Target": "{X160Y40}Директор Сид{Line}Пожалуйста,{Line}приведи её сюда.{End}",
         "Source Text SHA256": "AF562F55CC24A5AB5862EC562207CF975BE6269EDF5D4D0CCB36405FC8041264",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -106,7 +106,7 @@
         }
       },
       "$en_fhdeck4a_0013": {
-        "Target": "{X300Y20}Сюй{Line}«Я тоже помогу».{End}",
+        "Target": "{X300Y20}Сюй{Line}Я тоже помогу.{End}",
         "Source Text SHA256": "E62F8372FBB0DCE014E1600EDAD10515B014578C788C9A17B9289C232B4C68AB",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -114,7 +114,7 @@
         }
       },
       "$en_fhdeck4a_0014": {
-        "Target": "«......»{End}",
+        "Target": "......{End}",
         "Source Text SHA256": "F0823C38F9E230193A95DBFD9B26DFF0A4FF20EE5F9765976E2D47A5EC64ED28",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -122,7 +122,7 @@
         }
       },
       "$en_fhdeck4a_0014_ctx_041abb57a628a232": {
-        "Target": "{X140Y10}«......»{End}",
+        "Target": "{X140Y10}......{End}",
         "Source Text SHA256": "F0823C38F9E230193A95DBFD9B26DFF0A4FF20EE5F9765976E2D47A5EC64ED28",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -130,7 +130,7 @@
         }
       },
       "$en_fhdeck4a_0014_ctx_6ba076e6712c1b2f": {
-        "Target": "{X60Y80}«......»{End}",
+        "Target": "{X60Y80}......{End}",
         "Source Text SHA256": "F0823C38F9E230193A95DBFD9B26DFF0A4FF20EE5F9765976E2D47A5EC64ED28",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",
@@ -138,7 +138,7 @@
         }
       },
       "$en_fhdeck4a_0015": {
-        "Target": "{X30Y50}«Пожалуйста,{Line}найдите её для нас».{End}",
+        "Target": "{X30Y50}Пожалуйста,{Line}найдите её для нас.{End}",
         "Source Text SHA256": "4795AC4C63E816CB6B7B788C1C577F0FBA2A9D77E956BFF274E2CAE554B507FE",
         "sourceContext": {
           "Source MSD SHA256": "26E7EB8182834F4054CF4B6485D7B276C3C4A07DEE676D4E70C76257ED98C45C",

@@ -274,7 +274,7 @@
         }
       },
       "$en_ssspace2_0034": {
-        "Target": "{Char Rinoa}{Line}«{Char Squall}...»{End}",
+        "Target": "{Char Rinoa}{Line}{Char Squall}...{End}",
         "Source Text SHA256": "12734AA7B1167EB7F512EE16C7E9BDD33AACC8BDAD6432AEAFBD4DDA8DAD43DA",
         "sourceContext": {
           "Source MSD SHA256": "49DA41ECABAA5001A3EA93CA4A074E59F2EA220902DFC97F2C1B33BFFE6515FA",
@@ -282,7 +282,7 @@
         }
       },
       "$en_ssspace2_0035": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«{Char Squall}{Pause 96}... спасибо».{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}{Char Squall}{Pause 96}... спасибо.{End}",
         "Source Text SHA256": "BFE2834E7E78DF121DA9F9D2B4C79E86BEF3191DB3A46A9A71D46ACE59EBF6AF",
         "sourceContext": {
           "Source MSD SHA256": "49DA41ECABAA5001A3EA93CA4A074E59F2EA220902DFC97F2C1B33BFFE6515FA",
@@ -290,7 +290,7 @@
         }
       },
       "$en_ssspace2_0036": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Я услышала твой голос».{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}Я услышала твой голос.{End}",
         "Source Text SHA256": "B7F5439ECF2103178FD9BB34E101D35A128398E95B7BCD1533CCDD8295A4AB6B",
         "sourceContext": {
           "Source MSD SHA256": "49DA41ECABAA5001A3EA93CA4A074E59F2EA220902DFC97F2C1B33BFFE6515FA",
@@ -298,7 +298,7 @@
         }
       },
       "$en_ssspace2_0037": {
-        "Target": "{X162Y10}{Char Squall}{Line}«...Поверить не могу».{End}",
+        "Target": "{X162Y10}{Char Squall}{Line}...Поверить не могу.{End}",
         "Source Text SHA256": "72499BBFEF8CDC30C85B4073936658643CB0DCB7642DF06EB92D9A06000D4C5F",
         "sourceContext": {
           "Source MSD SHA256": "49DA41ECABAA5001A3EA93CA4A074E59F2EA220902DFC97F2C1B33BFFE6515FA",
@@ -306,7 +306,7 @@
         }
       },
       "$en_ssspace2_0038": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Мы выберемся?»{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}Мы выберемся?{End}",
         "Source Text SHA256": "6D50E06E2AAFED4D5AD4681A66612F56158FA1ADF9FD4D7C8DD0F96A05076BFF",
         "sourceContext": {
           "Source MSD SHA256": "49DA41ECABAA5001A3EA93CA4A074E59F2EA220902DFC97F2C1B33BFFE6515FA",
@@ -314,7 +314,7 @@
         }
       },
       "$en_ssspace2_0039": {
-        "Target": "{X205Y10}{Char Squall}{Line}«Не волнуйся».{End}",
+        "Target": "{X205Y10}{Char Squall}{Line}Не волнуйся.{End}",
         "Source Text SHA256": "EEC2D4B8C9BE8BB0F2512B57787FD0CBD8D578F4D0582AF68C054294BEDF0703",
         "sourceContext": {
           "Source MSD SHA256": "49DA41ECABAA5001A3EA93CA4A074E59F2EA220902DFC97F2C1B33BFFE6515FA",
@@ -362,7 +362,7 @@
         }
       },
       "$en_ssspace2_0045": {
-        "Target": "{X227Y10}{Char Squall}{Line}«Держись, {Char Rinoa}...»{End}",
+        "Target": "{X227Y10}{Char Squall}{Line}Держись, {Char Rinoa}...{End}",
         "Source Text SHA256": "BE229DC1DC3413DE3D57FCB2F9476D91E9D18EC6B80031E879B942CB40D0C04E",
         "sourceContext": {
           "Source MSD SHA256": "49DA41ECABAA5001A3EA93CA4A074E59F2EA220902DFC97F2C1B33BFFE6515FA",

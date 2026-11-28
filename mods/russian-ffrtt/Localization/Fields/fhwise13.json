@@ -26,7 +26,7 @@
         }
       },
       "$en_fhwise13_0003": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«{Char Squall}! Ты просто красавчик!»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}{Char Squall}! Ты просто красавчик!{End}",
         "Source Text SHA256": "32E5A70B9D703B6DF5AD0FA8FB88BFF116795878CDA720A9A7FC1914062997E6",
         "sourceContext": {
           "Source MSD SHA256": "BB3831DAB28CBA7C5A3335063A8FD18E50812E39A8AE02E12753AEADA5EAEBE8",
@@ -34,7 +34,7 @@
         }
       },
       "$en_fhwise13_0004": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Это для тебя! Поздравляем!{Line} Наслаждайся шоу!»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Это для тебя! Поздравляем!{Line} Наслаждайся шоу!{End}",
         "Source Text SHA256": "1D009159F5961FCB721B8C48CC9EFA7FA9E9810B3E283361320B576735A0902C",
         "sourceContext": {
           "Source MSD SHA256": "BB3831DAB28CBA7C5A3335063A8FD18E50812E39A8AE02E12753AEADA5EAEBE8",
@@ -42,7 +42,7 @@
         }
       },
       "$en_fhwise13_0005": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«{Char Rinoa}, не дай ему уйти!»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}{Char Rinoa}, не дай ему уйти!{End}",
         "Source Text SHA256": "F72C25EF56E960BEBA45FB723A5A65460D3389AAA97308F860121A39EECBAA7F",
         "sourceContext": {
           "Source MSD SHA256": "BB3831DAB28CBA7C5A3335063A8FD18E50812E39A8AE02E12753AEADA5EAEBE8",
@@ -58,7 +58,7 @@
         }
       },
       "$en_fhwise13_0007": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Готовы?!{Line} И, раз, два, три...»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Готовы?!{Line} И, раз, два, три...{End}",
         "Source Text SHA256": "B22416D80F356BB75AAD3DC9CAE34B58C08E0615858B1603A8A6CCA10624D7E4",
         "sourceContext": {
           "Source MSD SHA256": "BB3831DAB28CBA7C5A3335063A8FD18E50812E39A8AE02E12753AEADA5EAEBE8",

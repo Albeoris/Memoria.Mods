@@ -34,7 +34,7 @@
         }
       },
       "$en_glsta2_0004": {
-        "Target": "{X33Y10}{Char Rinoa}{Line}«Мы направляемся в поместье Карвэя, верно? Просто садимся{Line} в автобус 08.»{End}",
+        "Target": "{X33Y10}{Char Rinoa}{Line}Мы направляемся в поместье Карвэя, верно? Просто садимся{Line} в автобус 08.{End}",
         "Source Text SHA256": "D8D25D81E6C228F1024F1087323606378283837A52833FF642FA37B08A9BB2D0",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -42,7 +42,7 @@
         }
       },
       "$en_glsta2_0005": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Вот это да...»{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Вот это да...{End}",
         "Source Text SHA256": "5BAFA7CA27BDB9913C769A64ECD3340454D985C7C3752C5F1649D0A5641D6211",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -50,7 +50,7 @@
         }
       },
       "$en_glsta2_0006": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Вот именно.{Line}Ты тут хорошо{Line}ориентируешься».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Вот именно.{Line}Ты тут хорошо{Line}ориентируешься.{End}",
         "Source Text SHA256": "5AF44FD3E0681BD49BF49D2D0538DD8256A0C3E92D9155E9B15311D068B82021",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -58,7 +58,7 @@
         }
       },
       "$en_glsta2_0007": {
-        "Target": "{X10Y10}{Char Zell}{Line}«Город и вправду большой».{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}Город и вправду большой.{End}",
         "Source Text SHA256": "EFA61DC1FE0A905B475F5A6CD399CBE4D23BE3E5AA7A85567626C6B9775D5C8E",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -66,7 +66,7 @@
         }
       },
       "$en_glsta2_0008": {
-        "Target": "{X10Y10}{Char Zell}{Line}«Похоже, ты тут неплохо{Line}ориентируешься».{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}Похоже, ты тут неплохо{Line}ориентируешься.{End}",
         "Source Text SHA256": "B0C295532DBBD1EE061E8DBF6AD32775F93C9FF7EE9AF147E6A13D88FC51C6AF",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -74,7 +74,7 @@
         }
       },
       "$en_glsta2_0009": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Ух ты...»{Next}«Вот здорово...»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Ух ты...{Next}Вот здорово...{End}",
         "Source Text SHA256": "4665DA5C53163B7A60ADF0C3B5B4BFBD4C6617FB7A989DACAED52E00CE064B27",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -82,7 +82,7 @@
         }
       },
       "$en_glsta2_0010": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Уже туда идём?..{Line}А город осмотреть не хочешь?»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Уже туда идём?..{Line}А город осмотреть не хочешь?{End}",
         "Source Text SHA256": "B1D9DBB130579A65C4710B7E40FC13CD343CFA952B68702B6D2143C286230C6E",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -106,7 +106,7 @@
         }
       },
       "$en_glsta2_0013": {
-        "Target": "{X15Y50}{Char Squall}{Line}«Сначала надо встретиться с генералом Каравэем».{End}",
+        "Target": "{X15Y50}{Char Squall}{Line}Сначала надо встретиться с генералом Каравэем.{End}",
         "Source Text SHA256": "0A7AAA4D292D8E70E86D5A150C3A0E9561F8B505BAE30C5469BA02064450C3B0",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -114,7 +114,7 @@
         }
       },
       "$en_glsta2_0014": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«...Пешком неблизко».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}...Пешком неблизко.{End}",
         "Source Text SHA256": "B143DAFA97EEADC09A1AEC0AD256BDB24E17CB064353768CD06846336B8FCAFC",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -122,7 +122,7 @@
         }
       },
       "$en_glsta2_0015": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«Звучит так, словно ты довольно хорошо знаешь это{Line} место»{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}Звучит так, словно ты довольно хорошо знаешь это{Line} место{End}",
         "Source Text SHA256": "155649E2A2D839998F36DE8C285AE9686F2D381B4DA5D3C7366C5BB2B2840F5A",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -130,7 +130,7 @@
         }
       },
       "$en_glsta2_0016": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Я из Гальбадии».{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}Я из Гальбадии.{End}",
         "Source Text SHA256": "0059F11A5609D85253A177EC11E521F4F638951984B383213ACD5006562AB0D4",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -138,7 +138,7 @@
         }
       },
       "$en_glsta2_0017": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«Вот как?..»{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}Вот как?..{End}",
         "Source Text SHA256": "6ECFC8D772ECDCC18354609F74569F974BC22985E2D4A83FB183163F31EF09AA",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -146,7 +146,7 @@
         }
       },
       "$en_glsta2_0018": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«Похоже, тебе есть что рассказать».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}Похоже, тебе есть что рассказать.{End}",
         "Source Text SHA256": "7CB5933A1F4FFACC2D95682EFA89A44667DE379948A4D288F5D4F3F82F8B2121",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -170,7 +170,7 @@
         }
       },
       "$en_glsta2_0021": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Командир, что такое?»{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Командир, что такое?{End}",
         "Source Text SHA256": "5B6CB802C025A5EDE17B218B7AB2AE39B8D43A6F41829A44CD7F645744A83E9B",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -178,7 +178,7 @@
         }
       },
       "$en_glsta2_0022": {
-        "Target": "{X10Y10}{Char Zell}{Line}«Что случилось, {Char Squall}?»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}Что случилось, {Char Squall}?{End}",
         "Source Text SHA256": "432660C4BBA7466CD2913A929F585060A477B7A84C7E86F93A3D21623B52A6E6",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -186,7 +186,7 @@
         }
       },
       "$en_glsta2_0023": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Что будем делать, командир?»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Что будем делать, командир?{End}",
         "Source Text SHA256": "1B5C4111D503B8D51C05E45198F991E6D36534BBA2FA7B8A2412217D6C587197",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -194,7 +194,7 @@
         }
       },
       "$en_glsta2_0024": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«{Char Squall}, пора идти».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}{Char Squall}, пора идти.{End}",
         "Source Text SHA256": "02F455D7460689B4BB47AF159ACDAFFF91F3DF00D89F9169753EDAAB7074182F",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -202,7 +202,7 @@
         }
       },
       "$en_glsta2_0025": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Идём в особняк Каравэя.{Line}Он в правительственном квартале».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Идём в особняк Каравэя.{Line}Он в правительственном квартале.{End}",
         "Source Text SHA256": "F323C4D177B8154BBE096E1DC815986DC2C964A3E717B402A39D81854EFDB924",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",
@@ -210,7 +210,7 @@
         }
       },
       "$en_glsta2_0026": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Мы прибыли как подкрепление{Line}из Сада Гальбадии.{Line}Не выдавайте себя».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Мы прибыли как подкрепление{Line}из Сада Гальбадии.{Line}Не выдавайте себя.{End}",
         "Source Text SHA256": "6E1E478479D923631F3BB2DEC9559A85F6D2B602033F1A56DC25D0F07A3ECF37",
         "sourceContext": {
           "Source MSD SHA256": "F23115AC1764F9F1E177F13A0BE3E8C613C48533C33A47198C7D613E5927980A",

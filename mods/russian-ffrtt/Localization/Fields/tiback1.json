@@ -2,7 +2,7 @@
   "Fields": {
     "tiback1": {
       "$en_tiback1_0000": {
-        "Target": "{X20Y20}{Pause 80}«У... {Pause 80}Уфф, меня{Line} тошнит... жжется я перебрал...{Pause 80}{Line} Буааа...»{End}",
+        "Target": "{X20Y20}{Pause 80}У... {Pause 80}Уфф, меня{Line} тошнит... жжется я перебрал...{Pause 80}{Line} Буааа...{End}",
         "Source Text SHA256": "DFB50A77BAA8D473FD76CFBFEBEF9B8C1675C6B267685A101AE1E9C11AFAFFB5",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -10,7 +10,7 @@
         }
       },
       "$en_tiback1_0001": {
-        "Target": "{X20Y20}«...те... коробки в углу...{Line} Они уже здесь… были...»{End}",
+        "Target": "{X20Y20}...те... коробки в углу...{Line} Они уже здесь… были...{End}",
         "Source Text SHA256": "4152BE542B92A689FF2667278B3C36D9FB442D559C5F6ABF33A1EE749E16BCEC",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -18,7 +18,7 @@
         }
       },
       "$en_tiback1_0002": {
-        "Target": "{X20Y20}«Я не тот{Line} пьяница, который их принёс...»{End}",
+        "Target": "{X20Y20}Я не тот{Line} пьяница, который их принёс...{End}",
         "Source Text SHA256": "6ADE006A74D8E750807B25CED0264D3CE063FB6769AF62B9520D1C05921CFE7B",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -26,7 +26,7 @@
         }
       },
       "$en_tiback1_0003": {
-        "Target": "{X20Y20}«Другие мои... но те... правда...{Pause 80}{Line} поверьте мне... буааа...»{End}",
+        "Target": "{X20Y20}Другие мои... но те... правда...{Pause 80}{Line} поверьте мне... буааа...{End}",
         "Source Text SHA256": "789BEB038E4988A633C5D263D3F64D763425AD7CE5400514A3A84000A31E51F1",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -34,7 +34,7 @@
         }
       },
       "$en_tiback1_0004": {
-        "Target": "{X150Y10}Старший брат{Line}«Мы, шопротивление, ошущештвили{Line} похищение президента...»{End}",
+        "Target": "{X150Y10}Старший брат{Line}Мы, шопротивление, ошущештвили{Line} похищение президента...{End}",
         "Source Text SHA256": "DBD58D98A62C5918D1094AB90E17833666FD0D647334379334DC67536C796DBF",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -42,7 +42,7 @@
         }
       },
       "$en_tiback1_0005": {
-        "Target": "{X15Y60}Младший брат{Line}«И провалилишь!»{End}",
+        "Target": "{X15Y60}Младший брат{Line}И провалилишь!{End}",
         "Source Text SHA256": "DFEA4E769648795AB851E6CE84E87CC2A570E11FB1FBE203F59BDEEFD204F0E5",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -50,7 +50,7 @@
         }
       },
       "$en_tiback1_0006": {
-        "Target": "{X150Y10}Старший брат{Line}«Но! В шледующий раз{Line} президент штанет трупом!»{End}",
+        "Target": "{X150Y10}Старший брат{Line}Но! В шледующий раз{Line} президент штанет трупом!{End}",
         "Source Text SHA256": "A3E88DC2C237B3B2F7296237FBB1D290960A052CCDFE3C369173FDA077B29D47",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -58,7 +58,7 @@
         }
       },
       "$en_tiback1_0007": {
-        "Target": "{X15Y60}Младший брат{Line}«В шледующий раз!»{End}",
+        "Target": "{X15Y60}Младший брат{Line}В шледующий раз!{End}",
         "Source Text SHA256": "9BF478768D624BD81352218C52E7ED5CCFBF0149ACA4D7C25C4A98540DD89AD7",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -66,7 +66,7 @@
         }
       },
       "$en_tiback1_0008": {
-        "Target": "{X120Y160}Старшая сестра{Line}«Разве вы знаете,{Line} что такое похищение?..»{End}",
+        "Target": "{X120Y160}Старшая сестра{Line}Разве вы знаете,{Line} что такое похищение?..{End}",
         "Source Text SHA256": "9D9CE687289AC74643BC899B7BB7A28D5138C3FF97D69B2C7B39CAB5AACC5DB7",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -74,7 +74,7 @@
         }
       },
       "$en_tiback1_0009": {
-        "Target": "{X150Y10}Старший брат{Line}«Это как играть в салки...»{End}",
+        "Target": "{X150Y10}Старший брат{Line}Это как играть в салки...{End}",
         "Source Text SHA256": "DED132ECC81601D9C997AA5A1D5BD3CADD5C0370542BEBD2436A032226AAAF48",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -82,7 +82,7 @@
         }
       },
       "$en_tiback1_0010": {
-        "Target": "{X15Y60}Младший брат{Line}«Мама сказала, что ты ловишь его,{Line} а потом задаёшь ему трёпку!»{End}",
+        "Target": "{X15Y60}Младший брат{Line}Мама сказала, что ты ловишь его,{Line} а потом задаёшь ему трёпку!{End}",
         "Source Text SHA256": "70898DA0A9E11A160E3EA04193CC9B5D93C76674B94EF9F48C6CE6E99A73D762",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -90,7 +90,7 @@
         }
       },
       "$en_tiback1_0011": {
-        "Target": "{X120Y160}Старшая сестра{Line}«Да...{Line} что-то в этом роде».{End}",
+        "Target": "{X120Y160}Старшая сестра{Line}Да...{Line} что-то в этом роде.{End}",
         "Source Text SHA256": "2D587115AF315D35D5C9BA7A5CDB1FA94B493E2085926CB4308135F7B1319DE4",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -98,7 +98,7 @@
         }
       },
       "$en_tiback1_0012": {
-        "Target": "{X120Y160}Мать{Line}«Печенье готово!»{End}",
+        "Target": "{X120Y160}Мать{Line}Печенье готово!{End}",
         "Source Text SHA256": "60F9B66D6F22EA7492D5E83DB990BBC45D2C87D38DF6A5FFE73BA4FF89A3909F",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -106,7 +106,7 @@
         }
       },
       "$en_tiback1_0013": {
-        "Target": "{X150Y10}Старший брат{Line}«ИДУ!»{End}",
+        "Target": "{X150Y10}Старший брат{Line}ИДУ!{End}",
         "Source Text SHA256": "FDEA0930D4C5CC703F8318EE177F1A01E599A23420BF48E0B7E709F87A4DB4AB",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -114,7 +114,7 @@
         }
       },
       "$en_tiback1_0014": {
-        "Target": "{X15Y60}Младший брат{Line}«Иду!»{End}",
+        "Target": "{X15Y60}Младший брат{Line}Иду!{End}",
         "Source Text SHA256": "0EAB5E8A2A345FAB735294DAA108CF723AB91A03BC68EE169F2EA83047DAAF94",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -130,7 +130,7 @@
         }
       },
       "$en_tiback1_0016": {
-        "Target": "{X10Y10F1L2B1C2}«Бхва-а... Сыграем... в карты?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}Бхва-а... Сыграем... в карты?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "18151E0EC488ADAB7644619BCDF0C885D79BC944292724A0218E7B9BCD71F46C",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -138,7 +138,7 @@
         }
       },
       "$en_tiback1_0017": {
-        "Target": "{X10Y10}«Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Баламба и нашим... Бхва-а...»{End}",
+        "Target": "{X10Y10}Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Баламба и нашим... Бхва-а...{End}",
         "Source Text SHA256": "31669651BE1B0A6C2F8495A2A8AE2790CD64A87978085F488E0D5C71390582F9",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -146,7 +146,7 @@
         }
       },
       "$en_tiback1_0018": {
-        "Target": "{X10Y10}«Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Гальбадии и нашим... Бхва-а...»{End}",
+        "Target": "{X10Y10}Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Гальбадии и нашим... Бхва-а...{End}",
         "Source Text SHA256": "DA267ADDEF54FE8B5AF74F5E6B061A7F8E9B60EB122718AFAFE3C3FB48B0BEF3",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -154,7 +154,7 @@
         }
       },
       "$en_tiback1_0019": {
-        "Target": "{X10Y10}«Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Трабии и нашим... Бхва-а...»{End}",
+        "Target": "{X10Y10}Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Трабии и нашим... Бхва-а...{End}",
         "Source Text SHA256": "7D5177ADAF9C8A044275B137F25E7787406E709225FEBC091DE0889B196B3C87",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -162,7 +162,7 @@
         }
       },
       "$en_tiback1_0020": {
-        "Target": "{X10Y10}«Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Центры и нашим... Бхва-а...»{End}",
+        "Target": "{X10Y10}Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Центры и нашим... Бхва-а...{End}",
         "Source Text SHA256": "909CB9D21439B3327FE9577337A5B1C810171EE15CBEE21D7ACA2AB5696F7F5B",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -170,7 +170,7 @@
         }
       },
       "$en_tiback1_0021": {
-        "Target": "{X10Y10}«Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Доллета и нашим... Бхва-а...»{End}",
+        "Target": "{X10Y10}Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Доллета и нашим... Бхва-а...{End}",
         "Source Text SHA256": "D28BAC49111BE936B12A51E47622897675A60BC5F306D58A6F68668AAD2F3E03",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -178,7 +178,7 @@
         }
       },
       "$en_tiback1_0022": {
-        "Target": "{X10Y10}«Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}ГР и нашим... Бхва-а...»{End}",
+        "Target": "{X10Y10}Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}ГР и нашим... Бхва-а...{End}",
         "Source Text SHA256": "D8A02C703B0340BB77555F14B998FBD2D559D513470DED61A35476FD2EBF9A57",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -186,7 +186,7 @@
         }
       },
       "$en_tiback1_0023": {
-        "Target": "{X10Y10}«Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Луны и нашим... Бхва-а...»{End}",
+        "Target": "{X10Y10}Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Луны и нашим... Бхва-а...{End}",
         "Source Text SHA256": "9B984206FC35796DC9DE6D4F82BD22210902CEE74E5321AFBDFF9923A5593E1A",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",
@@ -194,7 +194,7 @@
         }
       },
       "$en_tiback1_0024": {
-        "Target": "{X10Y10}«Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Эстара и нашим... Бхва-а...»{End}",
+        "Target": "{X10Y10}Ты, похоже, знаешь правила...{Line}которых у нас не бывает...{Line}Сыграем по правилам{Line}Эстара и нашим... Бхва-а...{End}",
         "Source Text SHA256": "CD06CBFDDBA3741FE8A0A763EC0A1C466B7B759158C299B64A9558006062CFA6",
         "sourceContext": {
           "Source MSD SHA256": "EC0DD682A7F94FCB2BB1FA6C1AB73C5490D1E0FB4CE7E0B8BAA77D8A56BA722E",

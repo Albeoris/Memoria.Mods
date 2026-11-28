@@ -26,7 +26,7 @@
         }
       },
       "$en_eapod1_0003": {
-        "Target": "{X10Y10F3L4B3C4}Королева{Line}«Давно не виделись.{Line}Хочешь бросить мне вызов?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F3L4B3C4}Королева{Line}Давно не виделись.{Line}Хочешь бросить мне вызов?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "B1D00D01E5D33B095D3319E72728937524E43DBEEFB580733CB3157B3DF93039",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -34,7 +34,7 @@
         }
       },
       "$en_eapod1_0004": {
-        "Target": "{X10Y10}Королева{Line}«Позволь мне сыграть{Line}по правилам, которые я выберу».{End}",
+        "Target": "{X10Y10}Королева{Line}Позволь мне сыграть{Line}по правилам, которые я выберу.{End}",
         "Source Text SHA256": "1D40D58E970FFE8A0220323642094F5F04C5D79D8982CC755D5F9C0C708A8D71",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -42,7 +42,7 @@
         }
       },
       "$en_eapod1_0005": {
-        "Target": "{X10Y10}Пит{Line}«Вот досада…{Line} Остался без работы».{End}",
+        "Target": "{X10Y10}Пит{Line}Вот досада…{Line} Остался без работы.{End}",
         "Source Text SHA256": "4350B6468BB625258BB4ACD8F9525EBC87784F7F158C0F76D485CF1757BFA8B6",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -50,7 +50,7 @@
         }
       },
       "$en_eapod1_0006": {
-        "Target": "{X85Y10}Медик{Line}«И что нам теперь делать?»{End}",
+        "Target": "{X85Y10}Медик{Line}И что нам теперь делать?{End}",
         "Source Text SHA256": "733D350761EAF809FB2E3A2B24FF3B8383C365E84832BA9FEE9C17FC754F3EE7",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -58,7 +58,7 @@
         }
       },
       "$en_eapod1_0007": {
-        "Target": "{X10Y10F1L2B1C2}«Хотите сыграть в карты?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}Хотите сыграть в карты?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "6ED39FBD719008CDBD20D36829866184BED223F6327C3169C4C29F21D59DBBFB",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -66,7 +66,7 @@
         }
       },
       "$en_eapod1_0008": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Баламба и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Баламба и по нашим.{End}",
         "Source Text SHA256": "45557FAD4C598903FA2888BA14E3CB45B6CD649B1F45AB20C2ABAFB707147F05",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -74,7 +74,7 @@
         }
       },
       "$en_eapod1_0009": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Галбадии и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Галбадии и по нашим.{End}",
         "Source Text SHA256": "C8746F8EB5AB184B9EB1EBE2A5A00B4D2F1ABA8F1FA859F63612E2EA98C7BC8A",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -82,7 +82,7 @@
         }
       },
       "$en_eapod1_0010": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Трабии и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Трабии и по нашим.{End}",
         "Source Text SHA256": "C6F59A1011CD639B6006D743481911C045F88E5365B6B9F635A54D7436C9066A",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -90,7 +90,7 @@
         }
       },
       "$en_eapod1_0011": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Центры и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Центры и по нашим.{End}",
         "Source Text SHA256": "8277C3ACB9D4D9F08D097B6F25F04291CA98EFEA22D8A0EA61AC193B285A735D",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -98,7 +98,7 @@
         }
       },
       "$en_eapod1_0012": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Доллета и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Доллета и по нашим.{End}",
         "Source Text SHA256": "9ACD9E64464355E42EFFA26E35C70BB776485251AADEBB7096C87C768FB288BB",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -106,7 +106,7 @@
         }
       },
       "$en_eapod1_0013": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Рыбацкого Горизонта и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
         "Source Text SHA256": "780D24703FD1319C4685517BD21DD2D3437E4A9A17152B5F5010686110FB650B",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -114,7 +114,7 @@
         }
       },
       "$en_eapod1_0014": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Лунной базы и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Лунной базы и по нашим.{End}",
         "Source Text SHA256": "DD5A661972E5F29186E1D10D4BA5EFAC79ECE33AFC3AE27558070460211C95FB",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -122,7 +122,7 @@
         }
       },
       "$en_eapod1_0015": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Эстара и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми здесь не пользуются.{Line}Предлагаю сыграть по правилам{Line}Эстара и по нашим.{End}",
         "Source Text SHA256": "DF15F774B44DF8332A231BC92BD95EDB86CF7C0E44633D1A9489927C448405F8",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -130,7 +130,7 @@
         }
       },
       "$en_eapod1_0016": {
-        "Target": "«М? Хочешь сыграть в карты?»{Line}Да{Line}Нет{End}",
+        "Target": "М? Хочешь сыграть в карты?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "820B6269D2DE6B3B55F307126E16DAEE4CC03757B0E94546F845B93D840C233A",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -138,7 +138,7 @@
         }
       },
       "$en_eapod1_0017": {
-        "Target": "«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим».{End}",
+        "Target": "Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим.{End}",
         "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -146,7 +146,7 @@
         }
       },
       "$en_eapod1_0018": {
-        "Target": "«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим».{End}",
+        "Target": "Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим.{End}",
         "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -154,7 +154,7 @@
         }
       },
       "$en_eapod1_0019": {
-        "Target": "«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим».{End}",
+        "Target": "Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим.{End}",
         "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -162,7 +162,7 @@
         }
       },
       "$en_eapod1_0020": {
-        "Target": "«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим».{End}",
+        "Target": "Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим.{End}",
         "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -170,7 +170,7 @@
         }
       },
       "$en_eapod1_0021": {
-        "Target": "«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим».{End}",
+        "Target": "Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим.{End}",
         "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -178,7 +178,7 @@
         }
       },
       "$en_eapod1_0022": {
-        "Target": "«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим».{End}",
+        "Target": "Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
         "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -186,7 +186,7 @@
         }
       },
       "$en_eapod1_0023": {
-        "Target": "«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим».{End}",
+        "Target": "Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим.{End}",
         "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -194,7 +194,7 @@
         }
       },
       "$en_eapod1_0024": {
-        "Target": "«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим».{End}",
+        "Target": "Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим.{End}",
         "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -202,7 +202,7 @@
         }
       },
       "$en_eapod1_0025": {
-        "Target": "«Сыграем в карты?»{Line}Да{Line}Нет{End}",
+        "Target": "Сыграем в карты?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "9FE807B7B4B70BF2C8C0FF8293FA1A196C3DFF1BECFC8C024D100726529B47B5",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -210,7 +210,7 @@
         }
       },
       "$en_eapod1_0026": {
-        "Target": "«Похоже, ты знаешь правила,{Line} которых у нас нет.{Next} Сыграем, смешав{Line} правила Баламба с нашими?»{End}",
+        "Target": "Похоже, ты знаешь правила,{Line} которых у нас нет.{Next} Сыграем, смешав{Line} правила Баламба с нашими?{End}",
         "Source Text SHA256": "114264EE68F2C67E0E2B67BB411FFAFE59F02979111409F8BE838A5D4E9C74B9",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -218,7 +218,7 @@
         }
       },
       "$en_eapod1_0027": {
-        "Target": "«Похоже, ты знаешь правила,{Line} незнакомые в наших краях.{Next} Сыграем, смешав{Line} правила Галбадии и наши?»{End}",
+        "Target": "Похоже, ты знаешь правила,{Line} незнакомые в наших краях.{Next} Сыграем, смешав{Line} правила Галбадии и наши?{End}",
         "Source Text SHA256": "19BE46E4C1C4C567266656E4F5287E3D63632C28A6A411B48F2583180B774BAB",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -226,7 +226,7 @@
         }
       },
       "$en_eapod1_0028": {
-        "Target": "«Похоже, ты знаешь правила,{Line} незнакомые нашим краям.{Next} Сыграем по нашим правилам{Line} и правилам Трабии?»{End}",
+        "Target": "Похоже, ты знаешь правила,{Line} незнакомые нашим краям.{Next} Сыграем по нашим правилам{Line} и правилам Трабии?{End}",
         "Source Text SHA256": "C234C839912B1F70C40D439ACEFB53865F37FC4ED7860FA345CDDFF19D408A88",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -234,7 +234,7 @@
         }
       },
       "$en_eapod1_0029": {
-        "Target": "«Похоже, ты знаешь правила,{Line} которых у нас нет.{Next} Сыграем, смешав{Line} правила Центры с нашими?»{End}",
+        "Target": "Похоже, ты знаешь правила,{Line} которых у нас нет.{Next} Сыграем, смешав{Line} правила Центры с нашими?{End}",
         "Source Text SHA256": "D3B59D66C9B6BED074C4F807E8E6CB8D1C9F4DCCE81786326C5853A8AD52D93D",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -242,7 +242,7 @@
         }
       },
       "$en_eapod1_0030": {
-        "Target": "«Похоже, ты знаешь правила,{Line} незнакомые в наших краях.{Next} Сыграем, смешав{Line} правила Доллета и наши?»{End}",
+        "Target": "Похоже, ты знаешь правила,{Line} незнакомые в наших краях.{Next} Сыграем, смешав{Line} правила Доллета и наши?{End}",
         "Source Text SHA256": "DF12FDE74B1D0B4FEEC7F3B0FC873D5BFD3D1D68AD7169E4AD53628543AD0D5F",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -250,7 +250,7 @@
         }
       },
       "$en_eapod1_0031": {
-        "Target": "«Похоже, ты знаешь правила,{Line} незнакомые нашим краям.{Next} Сыграем по нашим правилам{Line} и правилам Рыбацкого Горизонта?»{End}",
+        "Target": "Похоже, ты знаешь правила,{Line} незнакомые нашим краям.{Next} Сыграем по нашим правилам{Line} и правилам Рыбацкого Горизонта?{End}",
         "Source Text SHA256": "D485BB9E8763A3962CF63495876E0CA090CC003CFFC379DD80979BA5C5B76582",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -258,7 +258,7 @@
         }
       },
       "$en_eapod1_0032": {
-        "Target": "«Похоже, ты знаешь правила,{Line} которых у нас нет.{Next} Сыграем, смешав{Line} космические правила с нашими?»{End}",
+        "Target": "Похоже, ты знаешь правила,{Line} которых у нас нет.{Next} Сыграем, смешав{Line} космические правила с нашими?{End}",
         "Source Text SHA256": "2B81BA67348F4F033527344D7BD8BCD3260D8C31274308C09FD840441B0EE235",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",
@@ -266,7 +266,7 @@
         }
       },
       "$en_eapod1_0033": {
-        "Target": "«Похоже, ты знаешь правила,{Line} незнакомые нашим краям.{Next} Сыграем по нашим правилам{Line} и правилам Эстара?»{End}",
+        "Target": "Похоже, ты знаешь правила,{Line} незнакомые нашим краям.{Next} Сыграем по нашим правилам{Line} и правилам Эстара?{End}",
         "Source Text SHA256": "D075700BED601448087E1FFCC9085E070020E961C6AE856008253F5E4E87CDDC",
         "sourceContext": {
           "Source MSD SHA256": "A8DAF30DBFFC9EB17A6CD5F1A4CC5FEF4BF3B7AEB2B4FFD28E7B54F798E781D9",

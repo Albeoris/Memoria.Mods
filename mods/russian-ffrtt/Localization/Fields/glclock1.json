@@ -26,7 +26,7 @@
         }
       },
       "$en_glclock1_0003": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Эй, эй, эй! Главное сейчас —{Line}спасти {Char Rinoa}».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Эй, эй, эй! Главное сейчас —{Line}спасти {Char Rinoa}.{End}",
         "Source Text SHA256": "F3D5EFBE23C3024E69DC50CAA83C5D58DF9125E105BF61A9357AC3D09723B92F",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -34,7 +34,7 @@
         }
       },
       "$en_glclock1_0004": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Ирвин Киннис, теперь{Line} всё в твоих руках».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Ирвин Киннис, теперь{Line} всё в твоих руках.{End}",
         "Source Text SHA256": "4755D6E358C2F999AC31AE4A56E413808A02B30365DB97FF8AF2FFAAA8F2BE79",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -82,7 +82,7 @@
         }
       },
       "$en_glclock1_0010": {
-        "Target": "{X276Y10}{Char Squall}{Line}«{Char Rinoa}..»{End}",
+        "Target": "{X276Y10}{Char Squall}{Line}{Char Rinoa}..{End}",
         "Source Text SHA256": "989D3070E1B4C23CF2C20D15DE4D77451359B18A97860588BFD26716C45CC37C",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -90,7 +90,7 @@
         }
       },
       "$en_glclock1_0011": {
-        "Target": "{X29Y10}{Char Squall}{Line}«Сейфер жив.{Line} Он был с волшебницей на параде».{End}",
+        "Target": "{X29Y10}{Char Squall}{Line}Сейфер жив.{Line} Он был с волшебницей на параде.{End}",
         "Source Text SHA256": "0E6F00CA7024BEA0D8C1F3478E686484FB44E50BD0578F58A9CCDB7C237EE412",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -98,7 +98,7 @@
         }
       },
       "$en_glclock1_0012": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«...Что это значит?»{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}...Что это значит?{End}",
         "Source Text SHA256": "FD16EC202C46EFE3383A7EDDA6101DBF6A3DE74E7EF2251C9791FDCF800CC2F8",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -106,7 +106,7 @@
         }
       },
       "$en_glclock1_0013": {
-        "Target": "{X213Y10}{Char Squall}{Line}«Кто знает...»{End}",
+        "Target": "{X213Y10}{Char Squall}{Line}Кто знает...{End}",
         "Source Text SHA256": "786FC975B8173C476BA7775BB6029AEB181D979387785D8AF16199F9BC95CF63",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -138,7 +138,7 @@
         }
       },
       "$en_glclock1_0017": {
-        "Target": "{X117Y10}{Char Squall}{Line}«Может случиться так, что мне придётся убить Сейфера».{End}",
+        "Target": "{X117Y10}{Char Squall}{Line}Может случиться так, что мне придётся убить Сейфера.{End}",
         "Source Text SHA256": "D1B936033172596D455A8DEAE030361F9AB25776E82B448F261AC013143CAE2E",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -146,7 +146,7 @@
         }
       },
       "$en_glclock1_0018": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Вы оба... уже готовы к этому, да?..»{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}Вы оба... уже готовы к этому, да?..{End}",
         "Source Text SHA256": "D78E03EF889A8BB5ABDF8310ED5234B2139601459F263F390F9238F996C0BD47",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -154,7 +154,7 @@
         }
       },
       "$en_glclock1_0019": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Вот значит в каком мире ты{Line} живёшь. Тебе приходится быть готовым ко всему».{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}Вот значит в каком мире ты{Line} живёшь. Тебе приходится быть готовым ко всему.{End}",
         "Source Text SHA256": "AE1612CE27A6EE9968DF9926F62C5B9568B72F7D554C268294DD9B4D4C033164",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -162,7 +162,7 @@
         }
       },
       "$en_glclock1_0020": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Было бы лучше,{Line} если бы этого никогда не произошло».{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}Было бы лучше,{Line} если бы этого никогда не произошло.{End}",
         "Source Text SHA256": "A4E736B2EA1212988EC8E5F4B1762C57A214B0F810B3E885E281DB3E4BD333CA",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -178,7 +178,7 @@
         }
       },
       "$en_glclock1_0022": {
-        "Target": "{X158Y10}{Char Squall}{Line}«Всё зависит от Ирвина».{End}",
+        "Target": "{X158Y10}{Char Squall}{Line}Всё зависит от Ирвина.{End}",
         "Source Text SHA256": "7AB71F5523DDF77A8F39DD224BC078ABA7549E6DB182979FC5700DA3D228F675",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -202,7 +202,7 @@
         }
       },
       "$en_glclock1_0025": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Только не говори мне, что ты трясёшься от страха...»{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Только не говори мне, что ты трясёшься от страха...{End}",
         "Source Text SHA256": "BFF2E671A30214433413FF2ED520CE91DE98665A1C1C191D79F5C79A13BE3F4E",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",
@@ -210,7 +210,7 @@
         }
       },
       "$en_glclock1_0026": {
-        "Target": "{X184Y10}{Char Irvine}{Line}«Я... я не могу это сделать».{End}",
+        "Target": "{X184Y10}{Char Irvine}{Line}Я... я не могу это сделать.{End}",
         "Source Text SHA256": "AE17EDF30BBCCC6583F92FD14CD5186FB289C0A2245306ADED4C24A1263FAAF7",
         "sourceContext": {
           "Source MSD SHA256": "31A086212134EF7ACBDC7B8740F1839EC37F483FE19D4495EB7DC86D4E677AB3",

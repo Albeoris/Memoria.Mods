@@ -10,7 +10,7 @@
         }
       },
       "$en_bgmon_4_0001": {
-        "Target": "{X40Y165}«Кто-нибудь, помогите!!!»",
+        "Target": "{X40Y165}Кто-нибудь, помогите!!!",
         "Source Text SHA256": "697FC72EC978872D78031315DCA4554F735EB444227598A32E6150FA7A059162",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bgmon_4_0002": {
-        "Target": "{X30Y8}{Char Quistis}{Line}«Быстрее, {Char Squall}!»{End}",
+        "Target": "{X30Y8}{Char Quistis}{Line}Быстрее, {Char Squall}!{End}",
         "Source Text SHA256": "9454CF847657FC35604EF79BD93A3EC83DAC88A1422726FDBDD2EE2F551DD2B9",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bgmon_4_0003": {
-        "Target": "{X99Y8}«Опять встретились».{End}",
+        "Target": "{X99Y8}Опять встретились.{End}",
         "Source Text SHA256": "12823871FD15B557454FB4E88F8B65285EDA99C42999AC8A9F527A5153A211DC",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgmon_4_0004": {
-        "Target": "{X88Y8}«Вы {Char Squall},{Line} да? Я наслышан о вас».{End}",
+        "Target": "{X88Y8}Вы {Char Squall},{Line} да? Я наслышан о вас.{End}",
         "Source Text SHA256": "25300F336A8B5D3FF0AA005281872E28AC9676F08C907C8A0A8E0809712EA91C",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgmon_4_0005": {
-        "Target": "{X61Y8}«Хотите чего-нибудь? Не{Line} бесплатно, конечно».{End}",
+        "Target": "{X61Y8}Хотите чего-нибудь? Не{Line} бесплатно, конечно.{End}",
         "Source Text SHA256": "3B182746906DCA3F9770CBEF9F8EE7044FA93C3A857EAEBC0341F5DC43E7A32F",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgmon_4_0007": {
-        "Target": "{X54Y8}Джокер{Line}«Тебе что-нибудь нужно?»{Line} «Само собой, за деньги».{End}",
+        "Target": "{X54Y8}Джокер{Line}Тебе что-нибудь нужно?{Line} «Само собой, за деньги».{End}",
         "Source Text SHA256": "D8C1DDD52BE6FB929B75DF9A61E72D5D6B31FB6CF419AB21A34FA5A64290488A",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgmon_4_0008": {
-        "Target": "{X51Y8}«Вызываешь меня на карточную партию?{Line} …»{Next}«Извини, с новичками{Line} я не играю.{Line} Как наберёшься опыта,{Line} тогда и сыграем».{End}",
+        "Target": "{X51Y8}Вызываешь меня на карточную партию?{Line} …{Next}Извини, с новичками{Line} я не играю.{Line} Как наберёшься опыта,{Line} тогда и сыграем.{End}",
         "Source Text SHA256": "259A0859C61F8C143317DC910FAB1BBFEC9473A78C4C2EC615E4AF602B0964CD",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgmon_4_0009": {
-        "Target": "{X67Y8}«Может, и со мной{Line}проведёшь партеечку?»{End}",
+        "Target": "{X67Y8}Может, и со мной{Line}проведёшь партеечку?{End}",
         "Source Text SHA256": "BF2D145B73F2EAB24E5A9517B1F9AEEDF6C1643D26C01B2709F388FABAB078E2",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgmon_4_0010": {
-        "Target": "{X106Y8F2L3B2C3}Джокер{Line}«Сыграем?»{Line}Да{Line}Нет{End}",
+        "Target": "{X106Y8F2L3B2C3}Джокер{Line}Сыграем?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "77CE61532C1C218F62DD8B9E2D5F803933388C33466CBF7E979F1FC6C091B69F",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgmon_4_0012": {
-        "Target": "{X10Y10}Джокер{Line}«О, ты и по другим правилам{Line} играешь?»{Next}«Тогда сыграем по нашим правилам{Line} и по правилам Баламба».{End}",
+        "Target": "{X10Y10}Джокер{Line}О, ты и по другим правилам{Line} играешь?{Next}Тогда сыграем по нашим правилам{Line} и по правилам Баламба.{End}",
         "Source Text SHA256": "885D5763091B0874D6026CED0B4BF492135E3C0572D56BAD5C215C5347D27AC2",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bgmon_4_0013": {
-        "Target": "{X10Y10}Джокер{Line}«О, ты и по другим правилам{Line} играешь?»{Next}«Тогда сыграем по нашим правилам{Line} и по правилам Гальбадии».{End}",
+        "Target": "{X10Y10}Джокер{Line}О, ты и по другим правилам{Line} играешь?{Next}Тогда сыграем по нашим правилам{Line} и по правилам Гальбадии.{End}",
         "Source Text SHA256": "3D8764B12E1AC02F0DFFE3EC44F904224760C05194D82CE47A92535BB6530880",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bgmon_4_0014": {
-        "Target": "{X10Y10}Джокер{Line}«О, ты и по другим правилам{Line} играешь?»{Next}«Тогда сыграем по нашим правилам{Line} и по правилам Трабии».{End}",
+        "Target": "{X10Y10}Джокер{Line}О, ты и по другим правилам{Line} играешь?{Next}Тогда сыграем по нашим правилам{Line} и по правилам Трабии.{End}",
         "Source Text SHA256": "3DDAEC5EE9D16E38B4122806388C706EEC965EE5C84AAAFA5DAE8BE26067AB34",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bgmon_4_0015": {
-        "Target": "{X10Y10}Джокер{Line}«О, ты и по другим правилам{Line} играешь?»{Next}«Тогда сыграем по нашим правилам{Line} и по правилам Центры».{End}",
+        "Target": "{X10Y10}Джокер{Line}О, ты и по другим правилам{Line} играешь?{Next}Тогда сыграем по нашим правилам{Line} и по правилам Центры.{End}",
         "Source Text SHA256": "3CF8D99E12759CF078F1671F7EF199798F611A06033172E2B63B5CECFF860903",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bgmon_4_0016": {
-        "Target": "{X10Y10}Джокер{Line}«О, ты и по другим правилам{Line} играешь?»{Next}«Тогда сыграем по нашим правилам{Line} и по правилам Доллета».{End}",
+        "Target": "{X10Y10}Джокер{Line}О, ты и по другим правилам{Line} играешь?{Next}Тогда сыграем по нашим правилам{Line} и по правилам Доллета.{End}",
         "Source Text SHA256": "C4C517FD55E1A7190CE34559AECAFA5792174DC1CCCB3A5A502264E7028ABEB7",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bgmon_4_0017": {
-        "Target": "{X10Y10}Джокер{Line}«О, ты и по другим правилам{Line} играешь?»{Next}«Тогда сыграем по нашим правилам{Line} и по правилам Рыбацкого Горизонта».{End}",
+        "Target": "{X10Y10}Джокер{Line}О, ты и по другим правилам{Line} играешь?{Next}Тогда сыграем по нашим правилам{Line} и по правилам Рыбацкого Горизонта.{End}",
         "Source Text SHA256": "999AF093F334E82C01B14CBEA6EC6F5B5E20B6AC35FDD92543FC19FE31845928",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bgmon_4_0018": {
-        "Target": "{X10Y10}Джокер{Line}«О, ты и по другим правилам{Line} играешь?»{Next}«Тогда сыграем по нашим правилам{Line} и по правилам Лунной базы».{End}",
+        "Target": "{X10Y10}Джокер{Line}О, ты и по другим правилам{Line} играешь?{Next}Тогда сыграем по нашим правилам{Line} и по правилам Лунной базы.{End}",
         "Source Text SHA256": "A02DECE14C04D12B5A4013641235843291F213E90F0D9DF26164552567D2C74D",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bgmon_4_0019": {
-        "Target": "{X10Y10}Джокер{Line}«О, ты и по другим правилам{Line} играешь?»{Next}«Тогда сыграем по нашим правилам{Line} и по правилам Эстара».{End}",
+        "Target": "{X10Y10}Джокер{Line}О, ты и по другим правилам{Line} играешь?{Next}Тогда сыграем по нашим правилам{Line} и по правилам Эстара.{End}",
         "Source Text SHA256": "C53ABDE3D682A574012371FB73C2A2C2306BF5E051BAD88A4878BAC1877D9D93",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -402,7 +402,7 @@
         }
       },
       "$en_bgmon_4_0036": {
-        "Target": "«Баламб»{End}",
+        "Target": "Баламб{End}",
         "Source Text SHA256": "588E5A0C901DA9573BBFBCBC7DFC0417D41958591E7B88A88BE8260A8E72379B",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -410,7 +410,7 @@
         }
       },
       "$en_bgmon_4_0037": {
-        "Target": "«Галбадия»{End}",
+        "Target": "Галбадия{End}",
         "Source Text SHA256": "4D3C586BCEB5E371907A5F6EF7CFEA49ED7E228761C4D6C6E42B341B9AF030A2",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -418,7 +418,7 @@
         }
       },
       "$en_bgmon_4_0038": {
-        "Target": "«Трабия»{End}",
+        "Target": "Трабия{End}",
         "Source Text SHA256": "F6AD33B6D709C41DF449BD5FFB8E0DE328B2BA50FE0976CC8D226CAD719E3C55",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -426,7 +426,7 @@
         }
       },
       "$en_bgmon_4_0039": {
-        "Target": "«Центра»{End}",
+        "Target": "Центра{End}",
         "Source Text SHA256": "CF88B33D26A1274D2E43EFA6F5EB9FC39F62B83DE681E3D4D1C0DA4C44AED747",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -434,7 +434,7 @@
         }
       },
       "$en_bgmon_4_0040": {
-        "Target": "«Доллет»{End}",
+        "Target": "Доллет{End}",
         "Source Text SHA256": "B0ABB598561F8B0A690C33A749348FF34C27B05031641DC0A66285D736143E59",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -442,7 +442,7 @@
         }
       },
       "$en_bgmon_4_0041": {
-        "Target": "«Рыбацкий Горизонт»{End}",
+        "Target": "Рыбацкий Горизонт{End}",
         "Source Text SHA256": "2CE7A7E41CEA6D112918B92A84ED4C3195F3342F0C9D114A838BDD76353A7B2D",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -450,7 +450,7 @@
         }
       },
       "$en_bgmon_4_0042": {
-        "Target": "«Луна»{End}",
+        "Target": "Луна{End}",
         "Source Text SHA256": "494A140341883E273AA25D85038D3EAFC0706017246757CDCB6851E1A35607C2",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -458,7 +458,7 @@
         }
       },
       "$en_bgmon_4_0043": {
-        "Target": "«Эстар»{End}",
+        "Target": "Эстар{End}",
         "Source Text SHA256": "FDFFD6B74CF8BA356D3DEF39577EB22D67E187554B864637C9ABCECA5C0789B3",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -466,7 +466,7 @@
         }
       },
       "$en_bgmon_4_0044": {
-        "Target": "«Без дополнительных правил»{End}",
+        "Target": "Без дополнительных правил{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -474,7 +474,7 @@
         }
       },
       "$en_bgmon_4_0045": {
-        "Target": "{X59Y8}Джокер{Line}«О, у тебя есть счётчик боёв?{Line} Если выиграешь, я добавлю{Line} в него ещё одну функцию».{End}",
+        "Target": "{X59Y8}Джокер{Line}О, у тебя есть счётчик боёв?{Line} Если выиграешь, я добавлю{Line} в него ещё одну функцию.{End}",
         "Source Text SHA256": "BEE6DC739B9722E3FFA99D4AF85B1B8E0E709FF76102EAC09836A42973F2F7F6",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -482,7 +482,7 @@
         }
       },
       "$en_bgmon_4_0046": {
-        "Target": "{X53Y8}Джокер{Line}«А ты хорош.{Line} Ну, обещание есть обещание.{Line} Покажи мне счётчик боёв».{End}",
+        "Target": "{X53Y8}Джокер{Line}А ты хорош.{Line} Ну, обещание есть обещание.{Line} Покажи мне счётчик боёв.{End}",
         "Source Text SHA256": "A4BDEFA7B0B607B6294DBB0617CBF98D983DE83C8EBCF3656D6BEF37AED56525",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",
@@ -490,7 +490,7 @@
         }
       },
       "$en_bgmon_4_0047": {
-        "Target": "{X78Y8}Джокер{Line}«…{Line} Готово».{Next}«Теперь через него можно{Line} посмотреть данные о ЗС».{End}",
+        "Target": "{X78Y8}Джокер{Line}…{Line} Готово.{Next}Теперь через него можно{Line} посмотреть данные о ЗС.{End}",
         "Source Text SHA256": "F8248A469796B1E154ACE078A99637522162C8B2804F53E00EC08017C31AF011",
         "sourceContext": {
           "Source MSD SHA256": "1A24E298D6840C267B8AD35CF10335BA92A4632268BCF5CF252C60AA9E5CA768",

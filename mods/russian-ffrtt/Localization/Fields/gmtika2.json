@@ -2,7 +2,7 @@
   "Fields": {
     "gmtika2": {
       "$en_gmtika2_0000": {
-        "Target": "{X12Y12}Охранник{Line}«Вход только для обслуживающего персонала!{Line} К тому же, сейчас не время проверки».{End}",
+        "Target": "{X12Y12}Охранник{Line}Вход только для обслуживающего персонала!{Line} К тому же, сейчас не время проверки.{End}",
         "Source Text SHA256": "7188A7D88CB6C8799FFD7505FE5391C977331FC0301A54A3106409012B7D0414",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gmtika2_0001": {
-        "Target": "{X12Y12}Охранник{Line}«Вся база находится в боевой{Line} готовности! Нечего тут прохлаждаться!»{End}",
+        "Target": "{X12Y12}Охранник{Line}Вся база находится в боевой{Line} готовности! Нечего тут прохлаждаться!{End}",
         "Source Text SHA256": "9602613F0C54333B44BB560F91BBBD9EC4464A12A0A726C5B859211D30B73615",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gmtika2_0002": {
-        "Target": "{X100Y140}{Char Selphie}{Line}«Команда техобслуживания{Line} попросила нас провести осмотр{Line} вместо них».{End}",
+        "Target": "{X100Y140}{Char Selphie}{Line}Команда техобслуживания{Line} попросила нас провести осмотр{Line} вместо них.{End}",
         "Source Text SHA256": "3DFFAE438B9D89A89E263C819E01DF9783BEC8178FE74A89871042A914D3E15A",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gmtika2_0003": {
-        "Target": "{X12Y12}Охранник{Line}«Серьёзно?{Line} Тогда, думаю, моя смена окончена...{Next}Я заскочу за{Line} часовым. Приступайте к осмотру».{End}",
+        "Target": "{X12Y12}Охранник{Line}Серьёзно?{Line} Тогда, думаю, моя смена окончена...{Next}Я заскочу за{Line} часовым. Приступайте к осмотру.{End}",
         "Source Text SHA256": "A87737119723D876F94666451E9930AE61F9F34B10E04D81A98634BB9BD68417",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gmtika2_0005": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Чтобы не вызывать подозрений, давайте{Line} вести себя естественно!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Чтобы не вызывать подозрений, давайте{Line} вести себя естественно!{End}",
         "Source Text SHA256": "AD05000420720E33A63FDE4FCDBDD9F23C3F03047D35872CF6DB749E358CE410",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gmtika2_0006": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Если мы пробежим, это может{Line} вызвать подозрение.{Line} Давайте просто спокойно пройдём мимо!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Если мы пробежим, это может{Line} вызвать подозрение.{Line} Давайте просто спокойно пройдём мимо!{End}",
         "Source Text SHA256": "0588947609328C10EB56D1AA6E10BDB919B06578C0575C558B4F2FBE030191C3",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gmtika2_0007": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Лучше не показывать ему наши лица.{Line} Давайте попробуем прокрасться!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Лучше не показывать ему наши лица.{Line} Давайте попробуем прокрасться!{End}",
         "Source Text SHA256": "906004627C7A159DE6E1E899063BD45C9E6F380FE0F3D6F182C39BD0F3D41770",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gmtika2_0008": {
-        "Target": "{X12Y12}Охранник{Line}«Эй! Вы!{Line} А ну-ка стойте!»{End}",
+        "Target": "{X12Y12}Охранник{Line}Эй! Вы!{Line} А ну-ка стойте!{End}",
         "Source Text SHA256": "DCC83FCBBD7D9F72764295C68AF24ACB49B47BE5E8E542658BC59AC8DABC7431",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gmtika2_0010": {
-        "Target": "{X12Y12}Охранник{Line}«Не бегайте внутри базы!{Line} Здесь очень узкие мостики!»{End}",
+        "Target": "{X12Y12}Охранник{Line}Не бегайте внутри базы!{Line} Здесь очень узкие мостики!{End}",
         "Source Text SHA256": "7331B845BB30A05C0C89C76C1AAB9B38C5519801CD3073836316E83AAC887600",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gmtika2_0012": {
-        "Target": "{X120Y150}{Char Selphie}{Line}«Простите, сэр.{Line} Мы будем иметь это в виду!»{End}",
+        "Target": "{X120Y150}{Char Selphie}{Line}Простите, сэр.{Line} Мы будем иметь это в виду!{End}",
         "Source Text SHA256": "FD2404A2B0690AAA3A2A069D0679C66237E09EFE98FE4648F6223E3D07D90D88",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gmtika2_0013": {
-        "Target": "{X12Y12}Охранник{Line}«Ха!»{Next}«Строем ходите...{Line} ...Видать, вас родители хорошо воспитали. Какие хорошие манеры!»{End}",
+        "Target": "{X12Y12}Охранник{Line}Ха!{Next}Строем ходите...{Line} ...Видать, вас родители хорошо воспитали. Какие хорошие манеры!{End}",
         "Source Text SHA256": "ADFF4B8768D031C81E136F7870885DE58BB9FDEDBB1805264C04E10CDF854F68",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -114,7 +114,7 @@
         }
       },
       "$en_gmtika2_0014": {
-        "Target": "{X12Y12}Охранник{Line}«Всегда будьте благодарны родителям за{Line} своё воспитание!»{End}",
+        "Target": "{X12Y12}Охранник{Line}Всегда будьте благодарны родителям за{Line} своё воспитание!{End}",
         "Source Text SHA256": "CB08FFDE062BEDAC2B496B333E9576C9366E334DB5F37E82F2A1BDC04B9856FE",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -122,7 +122,7 @@
         }
       },
       "$en_gmtika2_0015": {
-        "Target": "{X120Y150}{Char Selphie}{Line}«Да, сэр...»{End}",
+        "Target": "{X120Y150}{Char Selphie}{Line}Да, сэр...{End}",
         "Source Text SHA256": "B46DCE10652FDDB9F7F93E1558D435F43AA665DAC9B04C87782BA98B6AD921A8",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -138,7 +138,7 @@
         }
       },
       "$en_gmtika2_0017": {
-        "Target": "{X12Y12}Охранник{Line}«Почему это вы так странно ходите?{Line} Вам плохо?»{End}",
+        "Target": "{X12Y12}Охранник{Line}Почему это вы так странно ходите?{Line} Вам плохо?{End}",
         "Source Text SHA256": "06FED901B5277385FB0C06BB9F169FA1F62C6316D8BF921D2269FCD348DF5261",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -146,7 +146,7 @@
         }
       },
       "$en_gmtika2_0018": {
-        "Target": "{X120Y150}{Char Selphie}{Line}«Aаа... эммм...{Line} Нет, сэр!..»{End}",
+        "Target": "{X120Y150}{Char Selphie}{Line}Aаа... эммм...{Line} Нет, сэр!..{End}",
         "Source Text SHA256": "4EE7F7AE6515F5D61D58C4D49D0029E43493CD21EDDAEFD4564E031D99DA41E5",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -154,7 +154,7 @@
         }
       },
       "$en_gmtika2_0019": {
-        "Target": "{X12Y12}Охранник{Line}«Ну так идите нормально...»{End}",
+        "Target": "{X12Y12}Охранник{Line}Ну так идите нормально...{End}",
         "Source Text SHA256": "81C8EA4328A84ACDE39158FB4C801312370E1817D44E389A95299635F368BCCA",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -162,7 +162,7 @@
         }
       },
       "$en_gmtika2_0020": {
-        "Target": "Охранник{Line}«На посту не болтать».{End}",
+        "Target": "Охранник{Line}На посту не болтать.{End}",
         "Source Text SHA256": "118594F147DB4D900D118878DFD3E505E0E8EE2EEAF8B613ABE1E2EA94CFAD05",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -170,7 +170,7 @@
         }
       },
       "$en_gmtika2_0021": {
-        "Target": "{X100Y140}Солдат ремонтной службы{Line}«Проблемы с энергоснабжением. Команде техобслуживания, немедленно устраните неисправность.{Line} Эй, вы! Что здесь происходит?!»{End}",
+        "Target": "{X100Y140}Солдат ремонтной службы{Line}Проблемы с энергоснабжением. Команде техобслуживания, немедленно устраните неисправность.{Line} Эй, вы! Что здесь происходит?!{End}",
         "Source Text SHA256": "173504F1F0DFA1AD8BA3E8E5ACEE1F13EC2E9B302FF9E607D0096CA4679344B4",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -186,7 +186,7 @@
         }
       },
       "$en_gmtika2_0023": {
-        "Target": "Солдат ремонтной службы{Line}«А-А-А!»{End}",
+        "Target": "Солдат ремонтной службы{Line}А-А-А!{End}",
         "Source Text SHA256": "F4390F8B9D3DB5685B9E53D9FBF25DC32212B9BDC4C3BF7F252F530B29851200",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -202,7 +202,7 @@
         }
       },
       "$en_gmtika2_0025": {
-        "Target": "{X12Y140}{Char Selphie}{Line}«Мы сами только что{Line} пришли. Мы АБСОЛЮТНО не имеем{Line} понятия, что происходит!»{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}Мы сами только что{Line} пришли. Мы АБСОЛЮТНО не имеем{Line} понятия, что происходит!{End}",
         "Source Text SHA256": "1871FA2D3B1AF2A2BB3B2AD7BA86318D59FC89F40D67D9DF50D1F33560313E84",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -210,7 +210,7 @@
         }
       },
       "$en_gmtika2_0026": {
-        "Target": "{X100Y140}Солдат ремонтной службы{Line}«Врёшь! Мы видели,{Line} как вы только что вышли оттуда!»{End}",
+        "Target": "{X100Y140}Солдат ремонтной службы{Line}Врёшь! Мы видели,{Line} как вы только что вышли оттуда!{End}",
         "Source Text SHA256": "5E5E61E3752726B4C2F2259B53FB168794B11410013EF6CB160E6887DCCD19B2",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -226,7 +226,7 @@
         }
       },
       "$en_gmtika2_0028": {
-        "Target": "{X12Y140}{Char Selphie}{Line}«Вам показалось!{Next}Ни о чём не беспокойтесь! Мы сейчас всё исправим!»{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}Вам показалось!{Next}Ни о чём не беспокойтесь! Мы сейчас всё исправим!{End}",
         "Source Text SHA256": "2C262BAF2C50DA4472231FAED70958AE23C24BB8462CFFCC43DD6E816AF53B0E",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -234,7 +234,7 @@
         }
       },
       "$en_gmtika2_0029": {
-        "Target": "{X12Y140}Солдат ремонтной службы{Line}«Ну, сами так сами. У нас{Line} и своей работы по горло».{End}",
+        "Target": "{X12Y140}Солдат ремонтной службы{Line}Ну, сами так сами. У нас{Line} и своей работы по горло.{End}",
         "Source Text SHA256": "164555D539E411D9FFA68DB3197C03D609655CB7BE0BE328B58D94BC41A7E206",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -242,7 +242,7 @@
         }
       },
       "$en_gmtika2_0030": {
-        "Target": "{X100Y140}Солдат ремонтной службы{Line}«...Лады! Только{Line} глупостей не наделайте!»{End}",
+        "Target": "{X100Y140}Солдат ремонтной службы{Line}...Лады! Только{Line} глупостей не наделайте!{End}",
         "Source Text SHA256": "83B348BA82E59D957234C9293696B4BCB5B2037BC505033865015C4A277DBFB0",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -250,7 +250,7 @@
         }
       },
       "$en_gmtika2_0031": {
-        "Target": "{X12Y140}{Char Selphie}{Line}{Line} «...Фууух. Пронесло...»{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}{Line} ...Фууух. Пронесло...{End}",
         "Source Text SHA256": "6275F3D0D9DDE7BED3228FA470E5B2EE95D27A252C88A740BF226B00050D7187",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -258,7 +258,7 @@
         }
       },
       "$en_gmtika2_0032": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Сельфи!{Line} Ну ты даёшь!»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Сельфи!{Line} Ну ты даёшь!{End}",
         "Source Text SHA256": "CEACD3D0573DD9207B6A38F6598F7B4E0FD24A4284D9CFFE83D6BFCE58438BD0",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -266,7 +266,7 @@
         }
       },
       "$en_gmtika2_0033": {
-        "Target": "{X12Y12}{Char Rinoa}{Line}«Сельфи!{Line} Ты уже перегибаешь палку!»{End}",
+        "Target": "{X12Y12}{Char Rinoa}{Line}Сельфи!{Line} Ты уже перегибаешь палку!{End}",
         "Source Text SHA256": "ADFC275CCE5ABE7C8BC0117AF6B7F4D4648035FF75E8D14F86C7A7F2C1710517",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -274,7 +274,7 @@
         }
       },
       "$en_gmtika2_0034": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Сельфи!{Line} Что на тебя нашло?!»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Сельфи!{Line} Что на тебя нашло?!{End}",
         "Source Text SHA256": "B1A712AC72F7A3E5D1472A313411DE5BD6E464C9A5EB6E5C29E1260E21A40E19",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -282,7 +282,7 @@
         }
       },
       "$en_gmtika2_0035": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Эй, эй, эй, Сельфи,{Line} держи себя в руках».{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Эй, эй, эй, Сельфи,{Line} держи себя в руках.{End}",
         "Source Text SHA256": "6CCA0008143A21D40BAD7805D7BC9AF43882F97FDEC7CA08478DC5E39EDD7492",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -290,7 +290,7 @@
         }
       },
       "$en_gmtika2_0036": {
-        "Target": "{X12Y140}{Char Selphie}{Line}«Бывает!{Line} Поторопимся!»{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}Бывает!{Line} Поторопимся!{End}",
         "Source Text SHA256": "F994532BC7708A2F9AB04357984F5B0F88C7B11A57D5A6CF32294702CD8CB92E",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -298,7 +298,7 @@
         }
       },
       "$en_gmtika2_0037": {
-        "Target": "{X12Y140}{Char Selphie}{Line}«Мы только заглянули внутрь, но...{Next}Там полный бардак! Нам никак не починить такое!»{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}Мы только заглянули внутрь, но...{Next}Там полный бардак! Нам никак не починить такое!{End}",
         "Source Text SHA256": "2096743FA087AA8DBC174293470313FA380237151C7F3A37FFC426F46B747C53",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -306,7 +306,7 @@
         }
       },
       "$en_gmtika2_0038": {
-        "Target": "{X100Y140}Охранник ремонтной службы{Line}«Хорошо. Подвиньтесь-ка в сторону, мы с этим разберёмся!{Line} Подвиньтесь-ка в сторону, мы с этим разберёмся!»{End}",
+        "Target": "{X100Y140}Охранник ремонтной службы{Line}Хорошо. Подвиньтесь-ка в сторону, мы с этим разберёмся!{Line} Подвиньтесь-ка в сторону, мы с этим разберёмся!{End}",
         "Source Text SHA256": "68FE2416D0A76190FCD5E4E7B73492E475C882CA97C3472730E402DB6889A467",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -314,7 +314,7 @@
         }
       },
       "$en_gmtika2_0039": {
-        "Target": "Солдат ремонтной службы{Line}«Какого...?!{Line} Тут будто бомба рванула!»{End}",
+        "Target": "Солдат ремонтной службы{Line}Какого...?!{Line} Тут будто бомба рванула!{End}",
         "Source Text SHA256": "74CAAD7C28F37A690FC46899F9CCF833D924A435043F66207F065F7AB0A6F93B",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -322,7 +322,7 @@
         }
       },
       "$en_gmtika2_0040": {
-        "Target": "{X12Y12}Солдат ремонтной службы{Line}«Э-эй! В-вы что делаете?!»{End}",
+        "Target": "{X12Y12}Солдат ремонтной службы{Line}Э-эй! В-вы что делаете?!{End}",
         "Source Text SHA256": "DCF8B6E07F0CDB9F049888353DF363C1F4B015F198D9A1F5092DB064E8C358F6",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -338,7 +338,7 @@
         }
       },
       "$en_gmtika2_0042": {
-        "Target": "{X12Y12}Солдат ремонтной службы{Line}«AАА!!! В-вы{Line} кто такие?!.»{End}",
+        "Target": "{X12Y12}Солдат ремонтной службы{Line}AАА!!! В-вы{Line} кто такие?!.{End}",
         "Source Text SHA256": "12FDD6444EB6FD245506BBA743663FAA7584631A5191D8C72A36FC6D00682BF3",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -346,7 +346,7 @@
         }
       },
       "$en_gmtika2_0043": {
-        "Target": "{X160Y12}Солдат ремонтной службы{Line}«Аргх... Проклятье...{Line} Агхх... Проклятье...»{End}",
+        "Target": "{X160Y12}Солдат ремонтной службы{Line}Аргх... Проклятье...{Line} Агхх... Проклятье...{End}",
         "Source Text SHA256": "2A8404E0369971344593DD74ECB676B4BACCDC9768EF602DE294751A0CA05019",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -362,7 +362,7 @@
         }
       },
       "$en_gmtika2_0045": {
-        "Target": "{X100Y12}{Char Selphie}{Line}«Вуу-хуу!{Line} Идём дальше!»{End}",
+        "Target": "{X100Y12}{Char Selphie}{Line}Вуу-хуу!{Line} Идём дальше!{End}",
         "Source Text SHA256": "C105B4DA321B7E3E47648116951DB65D7D01210C94E818138029B62B8376B55F",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",
@@ -402,7 +402,7 @@
         }
       },
       "$en_gmtika2_0050": {
-        "Target": "{X12Y140}{Char Selphie}{Line}«Мы как раз собирались{Line} за вами идти!»{End}",
+        "Target": "{X12Y140}{Char Selphie}{Line}Мы как раз собирались{Line} за вами идти!{End}",
         "Source Text SHA256": "D048B9FFB76E3FAA82CAC0D9C489E7718993ACDF13D023F829813E4901D1F438",
         "sourceContext": {
           "Source MSD SHA256": "55D3547EDC9912D2BD7275713F1F12A05E1480CFC33FA8046F59ADEAFEAD5123",

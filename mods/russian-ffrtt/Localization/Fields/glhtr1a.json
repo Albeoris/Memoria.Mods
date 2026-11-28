@@ -2,7 +2,7 @@
   "Fields": {
     "glhtr1a": {
       "$en_glhtr1a_0000": {
-        "Target": "Джулия{Line}«Спасибо, что пришли».{End}",
+        "Target": "Джулия{Line}Спасибо, что пришли.{End}",
         "Source Text SHA256": "1059BF4D3714E8C8114A35C2219DAC87092D16B451BA3E0007B4DCC8A60F0B53",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -10,7 +10,7 @@
         }
       },
       "$en_glhtr1a_0001": {
-        "Target": "{X170Y10}Джулия{Line}«Спасибо, что пришли».{End}",
+        "Target": "{X170Y10}Джулия{Line}Спасибо, что пришли.{End}",
         "Source Text SHA256": "1059BF4D3714E8C8114A35C2219DAC87092D16B451BA3E0007B4DCC8A60F0B53",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -18,7 +18,7 @@
         }
       },
       "$en_glhtr1a_0002": {
-        "Target": "{X10Y150}{Char Laguna}{Line}«Нет... да не за{Line} что, ааа... Спасибо, что пригласили меня».{End}",
+        "Target": "{X10Y150}{Char Laguna}{Line}Нет... да не за{Line} что, ааа... Спасибо, что пригласили меня.{End}",
         "Source Text SHA256": "879CBF7D3D52D0342DE3B7873B52AC1477787FA7A629C3830A84A52350AD9A2B",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -26,7 +26,7 @@
         }
       },
       "$en_glhtr1a_0003": {
-        "Target": "{X215Y10}Джулия{Line}«Присаживайтесь».{End}",
+        "Target": "{X215Y10}Джулия{Line}Присаживайтесь.{End}",
         "Source Text SHA256": "89696C3747ECCC97694AF44CE5918FD7C25FA610DB0ECC17033B3557B09BD60B",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -34,7 +34,7 @@
         }
       },
       "$en_glhtr1a_0004": {
-        "Target": "{X10Y10}Джулия{Line}«Уже уходите? Мы{Line} ведь даже ещё не поговорили».{End}",
+        "Target": "{X10Y10}Джулия{Line}Уже уходите? Мы{Line} ведь даже ещё не поговорили.{End}",
         "Source Text SHA256": "FB6AB3ED11A2C4187B36DDE6AB21056635E25088D5FBF3AA7CA59D7A91F95D84",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -42,7 +42,7 @@
         }
       },
       "$en_glhtr1a_0005": {
-        "Target": "{X180Y10}{Char Laguna}{Line}«Нет, дело не в этом.{Next}Просто мне очень нравится ваше пение,{Line} вот я и разволновался».{End}",
+        "Target": "{X180Y10}{Char Laguna}{Line}Нет, дело не в этом.{Next}Просто мне очень нравится ваше пение,{Line} вот я и разволновался.{End}",
         "Source Text SHA256": "BD6B9F4B7DA763991BA0CEE3DC79A7CF64612A4EDA243B31D4EBF49E06FD5A1A",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -50,7 +50,7 @@
         }
       },
       "$en_glhtr1a_0006": {
-        "Target": "{X50Y150}Джулия{Line}«Так вот почему вы так{Line} часто приходите меня послушать».{End}",
+        "Target": "{X50Y150}Джулия{Line}Так вот почему вы так{Line} часто приходите меня послушать.{End}",
         "Source Text SHA256": "FEF688F739CBCDF5AA08FDF9E00637BE4868F279FD13EF9CC765E0CB112B86C0",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -58,7 +58,7 @@
         }
       },
       "$en_glhtr1a_0007": {
-        "Target": "{X180Y10}{Char Laguna}{Line}«Вы... вы меня видели?»{End}",
+        "Target": "{X180Y10}{Char Laguna}{Line}Вы... вы меня видели?{End}",
         "Source Text SHA256": "F00BEACF762B9BCBF1D4282EB85E2CFF5341B402D6B4BEB84BE640DD88A10224",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -66,7 +66,7 @@
         }
       },
       "$en_glhtr1a_0008": {
-        "Target": "{X50Y150}Джулия{Line}«Вы всегда улыбались,{Line} когда слушали, верно?»{End}",
+        "Target": "{X50Y150}Джулия{Line}Вы всегда улыбались,{Line} когда слушали, верно?{End}",
         "Source Text SHA256": "30FF76D844A517806D6A94600BBAF51D0B6EF2454759FA4F5F4CF36D44E3B6D7",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -74,7 +74,7 @@
         }
       },
       "$en_glhtr1a_0009": {
-        "Target": "{X180Y10}Джулия{Line}«У вас красивые глаза. Хоть{Line} сейчас они и выглядят немного испуганными».{End}",
+        "Target": "{X180Y10}Джулия{Line}У вас красивые глаза. Хоть{Line} сейчас они и выглядят немного испуганными.{End}",
         "Source Text SHA256": "B6CF29252B83F643F21A0E843B2B5BC80B720DEB7207D17A1016E55F9F64E9C4",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -90,7 +90,7 @@
         }
       },
       "$en_glhtr1a_0011": {
-        "Target": "{X180Y10}Джулия{Line}«Хотите выпить? Может{Line} быть вина?»{End}",
+        "Target": "{X180Y10}Джулия{Line}Хотите выпить? Может{Line} быть вина?{End}",
         "Source Text SHA256": "CB56B539D482987F6699B16962B844B37F9B1C784BEE51C2C61ACBC75CED6DF1",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -98,7 +98,7 @@
         }
       },
       "$en_glhtr1a_0012": {
-        "Target": "{X50Y10}{Char Laguna}{Line}«Должно быть я сплю...»{End}",
+        "Target": "{X50Y10}{Char Laguna}{Line}Должно быть я сплю...{End}",
         "Source Text SHA256": "C588E8A0F8BFA3051764137E0E2FE5A0C20A0B55481098027E8CE3039156D265",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -114,7 +114,7 @@
         }
       },
       "$en_glhtr1a_0014": {
-        "Target": "{X250Y150}{Char Laguna}{Line}«А это весело, потому что{Line} Кирос и Вард всегда со мной.{Next}Эй, нам нужно будет как-нибудь{Line} сходить выпить! Что скажете?»{End}",
+        "Target": "{X250Y150}{Char Laguna}{Line}А это весело, потому что{Line} Кирос и Вард всегда со мной.{Next}Эй, нам нужно будет как-нибудь{Line} сходить выпить! Что скажете?{End}",
         "Source Text SHA256": "F3308D4B4E2762B55FEA54BAD1002344575E28F7664D015FE48ECC3CD0430C03",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -122,7 +122,7 @@
         }
       },
       "$en_glhtr1a_0015": {
-        "Target": "{X250Y150}{Char Laguna}{Line}«И, ммм... О чём я говорил?»{End}",
+        "Target": "{X250Y150}{Char Laguna}{Line}И, ммм... О чём я говорил?{End}",
         "Source Text SHA256": "5F120C2BFD95B3A23C916F206DC8E78B76B398A485CFD07667B9A2E0A0E6BFFB",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -130,7 +130,7 @@
         }
       },
       "$en_glhtr1a_0016": {
-        "Target": "{X250Y150}{Char Laguna}{Line}«Ах да, я хочу уйти из{Line} армии и стать журналистом!{Next}Тогда я смогу поведать людям о том,{Line} что я увидел в своих путешествиях».{End}",
+        "Target": "{X250Y150}{Char Laguna}{Line}Ах да, я хочу уйти из{Line} армии и стать журналистом!{Next}Тогда я смогу поведать людям о том,{Line} что я увидел в своих путешествиях.{End}",
         "Source Text SHA256": "7437FB274A8CE300C94C0D65315895DFAE9F31CA20A32F217593CBB26D5344A5",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -138,7 +138,7 @@
         }
       },
       "$en_glhtr1a_0017": {
-        "Target": "{X250Y150}{Char Laguna}{Line}«Круто,{Line} да?{Line}»{End}",
+        "Target": "{X250Y150}{Char Laguna}{Line}Круто,{Line} да?{Line}{End}",
         "Source Text SHA256": "DF1F661F4F79C1B012B57897D3F2C7E274C1A23868C5592A8550694A3B021F76",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -146,7 +146,7 @@
         }
       },
       "$en_glhtr1a_0018": {
-        "Target": "{X250Y150}{Char Laguna}{Line}«Это было так классно!..»{End}",
+        "Target": "{X250Y150}{Char Laguna}{Line}Это было так классно!..{End}",
         "Source Text SHA256": "F05C3A49219EB703DE3D84DDC17EC32B3F5AC305257E99059282F6CA22CACC55",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -154,7 +154,7 @@
         }
       },
       "$en_glhtr1a_0019": {
-        "Target": "{X200Y10}Джулия{Line}«Я рада за вас».{End}",
+        "Target": "{X200Y10}Джулия{Line}Я рада за вас.{End}",
         "Source Text SHA256": "4930A37D289292B0EBBBDDB9300C09BE4F5DD38F813C0F04449B27C953C13C12",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -162,7 +162,7 @@
         }
       },
       "$en_glhtr1a_0020": {
-        "Target": "{X250Y150}{Char Laguna}{Line}«Ах да, а потом...»{End}",
+        "Target": "{X250Y150}{Char Laguna}{Line}Ах да, а потом...{End}",
         "Source Text SHA256": "A4493C20ADD36757EED8E3C91B21DE854557037BDDD347592B78D7CE10DDCEFD",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -170,7 +170,7 @@
         }
       },
       "$en_glhtr1a_0021": {
-        "Target": "{X50Y150}Джулия{Line}«Простите.{Line}Я не знала, что вас от вина клонит в сон».{End}",
+        "Target": "{X50Y150}Джулия{Line}Простите.{Line}Я не знала, что вас от вина клонит в сон.{End}",
         "Source Text SHA256": "834EDCB83E4A5231A5719A2F19475280777B937369DFECBEA4E41FF2819BBBD4",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -178,7 +178,7 @@
         }
       },
       "$en_glhtr1a_0022": {
-        "Target": "{X10Y5}Джулия{Line}«Вы такой милый, когда спите».{End}",
+        "Target": "{X10Y5}Джулия{Line}Вы такой милый, когда спите.{End}",
         "Source Text SHA256": "AE05F8A7206D19E449662CE91EA4484663512310B05405612C71A4B13C376D2B",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -186,7 +186,7 @@
         }
       },
       "$en_glhtr1a_0023": {
-        "Target": "{X250Y150}{Char Laguna}{Line}«Чёрт... Как это я уснул?»{End}",
+        "Target": "{X250Y150}{Char Laguna}{Line}Чёрт... Как это я уснул?{End}",
         "Source Text SHA256": "5EBB178288528CCED62D8FC980BC50D30C295BE7F2DEFA6B4B13CA75CFAAB105",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -194,7 +194,7 @@
         }
       },
       "$en_glhtr1a_0024": {
-        "Target": "{X250Y150}{Char Laguna}{Line}«Ой... Я снова слишком много болтаю».{End}",
+        "Target": "{X250Y150}{Char Laguna}{Line}Ой... Я снова слишком много болтаю.{End}",
         "Source Text SHA256": "ED1260CBD7E3FCA1A9E1EC1C03CAA00FE909C5FEF39FD1FE47997B97C00D215B",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -202,7 +202,7 @@
         }
       },
       "$en_glhtr1a_0025": {
-        "Target": "{X150Y10}Джулия{Line}«Да?»{End}",
+        "Target": "{X150Y10}Джулия{Line}Да?{End}",
         "Source Text SHA256": "9DEE5906F7F0BD52939CBC8B1DB68814EE9E893EBC38F204C848AC51B7AD4103",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -210,7 +210,7 @@
         }
       },
       "$en_glhtr1a_0026": {
-        "Target": "{X10Y100}{Char Laguna}{Line}«Я... Я, должно быть, уснул,{Line}пока болтал без умолку...»{End}",
+        "Target": "{X10Y100}{Char Laguna}{Line}Я... Я, должно быть, уснул,{Line}пока болтал без умолку...{End}",
         "Source Text SHA256": "FA7C2CB41F9DAA7EA95AA3948801F0627C59F858B095758E3CB31424E538D34F",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -218,7 +218,7 @@
         }
       },
       "$en_glhtr1a_0027": {
-        "Target": "{X50Y150}{Char Laguna}{Line}«Расскажите мне о себе,{Line} скажем... о ваших планах на будущее».{End}",
+        "Target": "{X50Y150}{Char Laguna}{Line}Расскажите мне о себе,{Line} скажем... о ваших планах на будущее.{End}",
         "Source Text SHA256": "8D6ED64C721D16FF122341530CA861D1AB4E0915A36BC49272267983714977FD",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -226,7 +226,7 @@
         }
       },
       "$en_glhtr1a_0028": {
-        "Target": "{X150Y50}Джулия{Line}«Я... я хочу петь.{Line} Не просто играть на фортепиано, но и петь тоже».{End}",
+        "Target": "{X150Y50}Джулия{Line}Я... я хочу петь.{Line} Не просто играть на фортепиано, но и петь тоже.{End}",
         "Source Text SHA256": "070283FC27BC78E387F60858155C8D53A8B3078A392C6F0C72C79C0F63DDF80F",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -234,7 +234,7 @@
         }
       },
       "$en_glhtr1a_0029": {
-        "Target": "{X80Y100}{Char Laguna}{Line}«О, я бы с удовольствием это послушал».{End}",
+        "Target": "{X80Y100}{Char Laguna}{Line}О, я бы с удовольствием это послушал.{End}",
         "Source Text SHA256": "F15091D11E35774EFBFB4C147A4E2E847EC6438D99DDAFA231F50A56FCC079EF",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -242,7 +242,7 @@
         }
       },
       "$en_glhtr1a_0030": {
-        "Target": "{X150Y10}Джулия{Line}«Но я не{Line} могу. У меня не очень хорошо выходит писать стихи...»{End}",
+        "Target": "{X150Y10}Джулия{Line}Но я не{Line} могу. У меня не очень хорошо выходит писать стихи...{End}",
         "Source Text SHA256": "C43A3D0ECA3396219E49190065454CDA2BBF16A1D315D9203D9D6D9C3F3FB90C",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -250,7 +250,7 @@
         }
       },
       "$en_glhtr1a_0031": {
-        "Target": "{X115Y170}{Char Laguna}{Line}«Хмм... Это должно быть непросто».{End}",
+        "Target": "{X115Y170}{Char Laguna}{Line}Хмм... Это должно быть непросто.{End}",
         "Source Text SHA256": "17CFDA2EFEE387F54106BE696C8BC71C7850D1042412FE7393808336F7227C81",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -258,7 +258,7 @@
         }
       },
       "$en_glhtr1a_0032": {
-        "Target": "{X150Y10}Джулия{Line}«Но, благодаря вам,{Line} я думаю, что смогу что-нибудь придумать».{End}",
+        "Target": "{X150Y10}Джулия{Line}Но, благодаря вам,{Line} я думаю, что смогу что-нибудь придумать.{End}",
         "Source Text SHA256": "4FD0157850AEC89AD22B8D97611AFF3D2EDE2B91076B418676AB4A1754C32E90",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -266,7 +266,7 @@
         }
       },
       "$en_glhtr1a_0033": {
-        "Target": "{X180Y160}{Char Laguna}{Line}«Благодаря мне?..»{End}",
+        "Target": "{X180Y160}{Char Laguna}{Line}Благодаря мне?..{End}",
         "Source Text SHA256": "BC0751026A14341A57AF111E2310FD0226EC40176FC733F80F008DAA00009870",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -274,7 +274,7 @@
         }
       },
       "$en_glhtr1a_0034": {
-        "Target": "{X150Y10}Джулия{Line}«Да...»{End}",
+        "Target": "{X150Y10}Джулия{Line}Да...{End}",
         "Source Text SHA256": "30815163F5A5161503D17A6389CDA9D284E5FCE7B79832D5971328C254D3D5DD",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -282,7 +282,7 @@
         }
       },
       "$en_glhtr1a_0035": {
-        "Target": "{X150Y10}Джулия{Line}«Вы оказались таким чувствительным!»{End}",
+        "Target": "{X150Y10}Джулия{Line}Вы оказались таким чувствительным!{End}",
         "Source Text SHA256": "7C315E840C59E893D02B62A0F234027A82DEED3304E9D903253962C02FC053F9",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -290,7 +290,7 @@
         }
       },
       "$en_glhtr1a_0036": {
-        "Target": "{X150Y10}Джулия{Line}«Когда вы испытывали душевные муки, когда вы{Line} были взволнованы... Или чувствовали боль глубоко{Line} внутри... Ваша улыбка, ваше лицо, ваши глаза...»{End}",
+        "Target": "{X150Y10}Джулия{Line}Когда вы испытывали душевные муки, когда вы{Line} были взволнованы... Или чувствовали боль глубоко{Line} внутри... Ваша улыбка, ваше лицо, ваши глаза...{End}",
         "Source Text SHA256": "6DE00733EDF49692990425B75BF123D4DBDA20589BF7DBE79ED5C1BBB5340178",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -298,7 +298,7 @@
         }
       },
       "$en_glhtr1a_0037": {
-        "Target": "{X150Y10}Джулия{Line}«Вы показали мне кое-что особенное...{Line} Думаю, теперь у меня получится написать песню».{End}",
+        "Target": "{X150Y10}Джулия{Line}Вы показали мне кое-что особенное...{Line} Думаю, теперь у меня получится написать песню.{End}",
         "Source Text SHA256": "3ACBA73E28EFF2DE084C48CCB7DA95495FD6ABE333259ABBDBE9A839B97F1A73",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -306,7 +306,7 @@
         }
       },
       "$en_glhtr1a_0038": {
-        "Target": "{X10Y150}{Char Laguna}{Line}«Ух{Line} ты... должно быть я сплю...»{End}",
+        "Target": "{X10Y150}{Char Laguna}{Line}Ух{Line} ты... должно быть я сплю...{End}",
         "Source Text SHA256": "5F30BB42040BEF8A90D21EA9E9A6F018F628150091C24F923716FF28D055DB8A",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -314,7 +314,7 @@
         }
       },
       "$en_glhtr1a_0039": {
-        "Target": "{X190Y10}Джулия{Line}«Но ведь это не сон, не так ли?»{End}",
+        "Target": "{X190Y10}Джулия{Line}Но ведь это не сон, не так ли?{End}",
         "Source Text SHA256": "E8D21ECB1D1A2B4FF2ED3D1D604E2E090F582868DD8910320AB0EA421F07B741",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -322,7 +322,7 @@
         }
       },
       "$en_glhtr1a_0040": {
-        "Target": "{X150Y170}{Char Kiros}{Line}«Лагуна! Новые приказы!{Line} Встречаемся возле резиденции Президента, немедленно!»{End}",
+        "Target": "{X150Y170}{Char Kiros}{Line}Лагуна! Новые приказы!{Line} Встречаемся возле резиденции Президента, немедленно!{End}",
         "Source Text SHA256": "88AFD5C062F4994E1E09D5EBCEC7D4ABE700A93C52C8A66435C51C50BD159A95",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -330,7 +330,7 @@
         }
       },
       "$en_glhtr1a_0041": {
-        "Target": "{X180Y10}Джулия{Line}«Мы сможем встретиться снова?»{End}",
+        "Target": "{X180Y10}Джулия{Line}Мы сможем встретиться снова?{End}",
         "Source Text SHA256": "89D6BB4FBE765DBA83990833CAC72B7E9677C90D8A3236CEB0138A0866E48DB3",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",
@@ -338,7 +338,7 @@
         }
       },
       "$en_glhtr1a_0042": {
-        "Target": "{X10Y170}{Char Laguna}{Line}«Конечно! Я обязательно{Line} вернусь сюда, чтобы послушать как вы поёте!»{End}",
+        "Target": "{X10Y170}{Char Laguna}{Line}Конечно! Я обязательно{Line} вернусь сюда, чтобы послушать как вы поёте!{End}",
         "Source Text SHA256": "3EB70EF24F5D805579C2DCF8E456CDD2A64997B6AF8C77587579814C4E6CF951",
         "sourceContext": {
           "Source MSD SHA256": "4B861EF9FA63F4228C40BF0A938CBEDC2EEE76900C9E0AE1318DC7B9BA21D1BE",

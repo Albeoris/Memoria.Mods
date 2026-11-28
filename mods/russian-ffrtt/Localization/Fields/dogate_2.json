@@ -2,7 +2,7 @@
   "Fields": {
     "dogate_2": {
       "$en_dogate_2_0000": {
-        "Target": "{X150Y10}«{Color Blue}〖Гальбадианский Сад〗{Color White}…?{Line} Сейчас вы в Доллете…{Pause 48}{Line} Вам ещё немного дальше».{Next}«С окраины его даже{Line} видно…{Pause 48}{Line} Только добираться туда непросто».{End}",
+        "Target": "{X150Y10}{Color Blue}〖Гальбадианский Сад〗{Color White}…?{Line} Сейчас вы в Доллете…{Pause 48}{Line} Вам ещё немного дальше.{Next}С окраины его даже{Line} видно…{Pause 48}{Line} Только добираться туда непросто.{End}",
         "Source Text SHA256": "2347BB7073773E38351DF2E54AEA619464F68E2540038888E67CFC479052C4A7",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -10,7 +10,7 @@
         }
       },
       "$en_dogate_2_0001": {
-        "Target": "{X150Y10F1L2B1C2}«Вы случайно не заблудились?»{Line}Самую малость…{Line}Да вроде нет…{End}",
+        "Target": "{X150Y10F1L2B1C2}Вы случайно не заблудились?{Line}Самую малость…{Line}Да вроде нет…{End}",
         "Source Text SHA256": "26118152E6711EFFC3225E06612B4AED579FD1F8EE885CF7B7D8AF1BFA3BFD53",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -18,7 +18,7 @@
         }
       },
       "$en_dogate_2_0002": {
-        "Target": "{X150Y10}«Так…{Line} Знаете {Color Blue}〖станцию Восточная академия〗{Color White}?»{Next}«До неё, кажется, можно добраться{Line} вдоль путей или по дороге…»{Next}«{Color Blue}〖К западу от станции〗{Color White} есть {Color Blue}〖лес〗{Color White}.{Line} За ним и находится {Color Blue}〖Гальбадианский Сад〗{Color White}».{Next}«Поезда не ходят, так что придётся{Line} идти пешком или взять машину напрокат».{End}",
+        "Target": "{X150Y10}Так…{Line} Знаете {Color Blue}〖станцию Восточная академия〗{Color White}?{Next}До неё, кажется, можно добраться{Line} вдоль путей или по дороге…{Next}{Color Blue}〖К западу от станции〗{Color White} есть {Color Blue}〖лес〗{Color White}.{Line} За ним и находится {Color Blue}〖Гальбадианский Сад〗{Color White}.{Next}Поезда не ходят, так что придётся{Line} идти пешком или взять машину напрокат.{End}",
         "Source Text SHA256": "A35F335205816AA84571A213FB8AC2A53288D388EB3D1E3AD6E155A0A2EA3DAE",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -26,7 +26,7 @@
         }
       },
       "$en_dogate_2_0003": {
-        "Target": "{X150Y10}«Я бы взял машину.{Line} Быстро и безопасно!{Line} Правда, стоит это 3500 гилей…»{Next}«Если всё же пойдёте пешком,{Line} то наверняка найдёте{Line} {Color Blue}〖станцию Восточная академия〗{Color White},{Line} если не свернёте с дороги».{End}",
+        "Target": "{X150Y10}Я бы взял машину.{Line} Быстро и безопасно!{Line} Правда, стоит это 3500 гилей…{Next}Если всё же пойдёте пешком,{Line} то наверняка найдёте{Line} {Color Blue}〖станцию Восточная академия〗{Color White},{Line} если не свернёте с дороги.{End}",
         "Source Text SHA256": "C79FA113098B92CB39EB508E227609B5D7BE7B793018FB9D9BDB995B58E25138",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -34,7 +34,7 @@
         }
       },
       "$en_dogate_2_0004": {
-        "Target": "{X150Y10}«Да ну? Правда?..{Line} Ну… удачи».{End}",
+        "Target": "{X150Y10}Да ну? Правда?..{Line} Ну… удачи.{End}",
         "Source Text SHA256": "3FAEF963C09C7467D688A050F199686CC6819E9623C76DF60D62701229DFEC4C",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -42,7 +42,7 @@
         }
       },
       "$en_dogate_2_0005": {
-        "Target": "{X20Y130F3L4B3C4}Прокатчик{Line}«Ну, типа, на машине…{Line} и быстро, и безопасно».{Line}Взять машину за 3500 гилей{Line}Отказаться{End}",
+        "Target": "{X20Y130F3L4B3C4}Прокатчик{Line}Ну, типа, на машине…{Line} и быстро, и безопасно.{Line}Взять машину за 3500 гилей{Line}Отказаться{End}",
         "Source Text SHA256": "F8374ED08A7A889D8C3FA07FEEE40305B0CBA6E5C62A6D2C6EF1D2050B931106",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -50,7 +50,7 @@
         }
       },
       "$en_dogate_2_0006": {
-        "Target": "{X20Y130}«Ну, типа, жаль…{Line} Денег-то у вас не хватает…»{End}",
+        "Target": "{X20Y130}Ну, типа, жаль…{Line} Денег-то у вас не хватает…{End}",
         "Source Text SHA256": "860D78CBEACB1DC941F858568B5230C15BCE13543738FEBD535A7C7DC27B7A35",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -58,7 +58,7 @@
         }
       },
       "$en_dogate_2_0007": {
-        "Target": "{X10Y10F1L2B1C2}«Ну, типа, в карты сыграем?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}Ну, типа, в карты сыграем?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "8F30E1F863D9F86F0D32021440D0726C5A41374FFAA736B33937D7416F903F37",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -66,7 +66,7 @@
         }
       },
       "$en_dogate_2_0008": {
-        "Target": "{X10Y10}«Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Баламба и нашим».{End}",
+        "Target": "{X10Y10}Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Баламба и нашим.{End}",
         "Source Text SHA256": "730BCE013ACC93B566276824C9A4AC522BA8B8F1C5355DAE666496A60056506E",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -74,7 +74,7 @@
         }
       },
       "$en_dogate_2_0009": {
-        "Target": "{X10Y10}«Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Гальбадии и нашим».{End}",
+        "Target": "{X10Y10}Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Гальбадии и нашим.{End}",
         "Source Text SHA256": "F84C4948274A2BA0E072015D98D7A6A37B003DE0E8E472CEE56BC82E3F08BB61",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -82,7 +82,7 @@
         }
       },
       "$en_dogate_2_0010": {
-        "Target": "{X10Y10}«Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Трабии и нашим».{End}",
+        "Target": "{X10Y10}Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Трабии и нашим.{End}",
         "Source Text SHA256": "F3B4A85F009FDF6E548E43EE0AE9D0B1F5C69ABC140DAC18ACAF947C1F62B807",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -90,7 +90,7 @@
         }
       },
       "$en_dogate_2_0011": {
-        "Target": "{X10Y10}«Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Центры и нашим».{End}",
+        "Target": "{X10Y10}Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Центры и нашим.{End}",
         "Source Text SHA256": "6DB5F3C66F6880A12B95C9DDC394821C1D493B199B027D6B77CFC9A6CCD4447D",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -98,7 +98,7 @@
         }
       },
       "$en_dogate_2_0012": {
-        "Target": "{X10Y10}«Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Доллета и нашим».{End}",
+        "Target": "{X10Y10}Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Доллета и нашим.{End}",
         "Source Text SHA256": "94FF7B326FC4EEA6CC5A2EF68CAE54EDCCCCD8BDE8E8010088218BE9B0CD1126",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -106,7 +106,7 @@
         }
       },
       "$en_dogate_2_0013": {
-        "Target": "{X10Y10}«Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}ГР и нашим».{End}",
+        "Target": "{X10Y10}Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}ГР и нашим.{End}",
         "Source Text SHA256": "2A1526A9DD6E5B6DA5DA34D0D4D595F7F003AA9A8999F953F6D4E249C749F9ED",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -114,7 +114,7 @@
         }
       },
       "$en_dogate_2_0014": {
-        "Target": "{X10Y10}«Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Луны и нашим».{End}",
+        "Target": "{X10Y10}Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Луны и нашим.{End}",
         "Source Text SHA256": "24795C5F8FF38B989BE6832EB914027AB699BF0924ADAA3AAECEFA368532C32C",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",
@@ -122,7 +122,7 @@
         }
       },
       "$en_dogate_2_0015": {
-        "Target": "{X10Y10}«Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Эстара и нашим».{End}",
+        "Target": "{X10Y10}Так, похоже, ты знаешь правила,{Line}которых у нас не бывает.{Line}Так давай сыграем по правилам{Line}Эстара и нашим.{End}",
         "Source Text SHA256": "73A9EFD5051318B29DC2E211F9E31D6A05D9816FB88448046C0955FC9960B580",
         "sourceContext": {
           "Source MSD SHA256": "3BEBEC3F01BD18C8BB0F230B7A3186D35B7D2A0DB55C8B64655EB9550166BEC8",

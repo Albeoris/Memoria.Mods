@@ -10,7 +10,7 @@
         }
       },
       "$en_rgroad11_0001": {
-        "Target": "{X8Y8}Джокер{Line}«Я Джокер. Приятно познакомиться».{End}",
+        "Target": "{X8Y8}Джокер{Line}Я Джокер. Приятно познакомиться.{End}",
         "Source Text SHA256": "C15FC5DBB15DB13E43D3564FED7148182977E0E40C8E9F6D189B9069080FD6F9",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -18,7 +18,7 @@
         }
       },
       "$en_rgroad11_0002": {
-        "Target": "{X8Y8}Джокер{Line}«Чёрт, ну мы и встряли!{Next}Я постараюсь помочь.{Next}Дай знать, если тебе что-нибудь понадобится.{Line} Я тоже могу играть с тобой в карты. Я член группы КК!»{End}",
+        "Target": "{X8Y8}Джокер{Line}Чёрт, ну мы и встряли!{Next}Я постараюсь помочь.{Next}Дай знать, если тебе что-нибудь понадобится.{Line} Я тоже могу играть с тобой в карты. Я член группы КК!{End}",
         "Source Text SHA256": "73E9219FE6DF5B550EFB3BEDAC66E8726B722FE8F4CED3D88405CD05BC684715",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -26,7 +26,7 @@
         }
       },
       "$en_rgroad11_0003": {
-        "Target": "{X100Y8F2L3B2C3}Джокер{Line}«Что-нибудь нужно?»{Line} Магазин{Line} Лавка старьёвщика{End}",
+        "Target": "{X100Y8F2L3B2C3}Джокер{Line}Что-нибудь нужно?{Line} Магазин{Line} Лавка старьёвщика{End}",
         "Source Text SHA256": "D16E4B3AAB651EAC33503166D82C699D3941433240EC54E5B6D17ECA3E043659",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -34,7 +34,7 @@
         }
       },
       "$en_rgroad11_0004": {
-        "Target": "{X106Y8F2L3B2C3}Джокер{Line}«Хочешь сыграть?»{Line}Да{Line}Нет{End}",
+        "Target": "{X106Y8F2L3B2C3}Джокер{Line}Хочешь сыграть?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "77CE61532C1C218F62DD8B9E2D5F803933388C33466CBF7E979F1FC6C091B69F",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -42,7 +42,7 @@
         }
       },
       "$en_rgroad11_0005": {
-        "Target": "{X8Y8}Джокер{Line}«Посмотрим, что за карты?..»{End}",
+        "Target": "{X8Y8}Джокер{Line}Посмотрим, что за карты?..{End}",
         "Source Text SHA256": "DEEE9E2493C49CE288E2E5C51A1ABE21F07F92041811673D797474B765CE2F46",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -50,7 +50,7 @@
         }
       },
       "$en_rgroad11_0006": {
-        "Target": "{X8Y8}Джокер{Line}«Порядок, готов».{End}",
+        "Target": "{X8Y8}Джокер{Line}Порядок, готов.{End}",
         "Source Text SHA256": "AF7A6627B4B84631330FEEF1E12A9B5A4195F37A7C1185EDDE09DDF09E030A9D",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -58,7 +58,7 @@
         }
       },
       "$en_rgroad11_0007": {
-        "Target": "{X67Y8}«{Char Squall}...{Line}Чтобы сыграть,{Line}нужно хотя бы пять карт».{End}",
+        "Target": "{X67Y8}{Char Squall}...{Line}Чтобы сыграть,{Line}нужно хотя бы пять карт.{End}",
         "Source Text SHA256": "B1C3E144E1844697D30EB594BC52A5FC213657812A905647DFD9ED227D3FB860",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -66,7 +66,7 @@
         }
       },
       "$en_rgroad11_0008": {
-        "Target": "{X10Y10}Джокер{Line}«Ладно, давай добавим{Line}ещё и правила Баламба».{End}",
+        "Target": "{X10Y10}Джокер{Line}Ладно, давай добавим{Line}ещё и правила Баламба.{End}",
         "Source Text SHA256": "85E4DC906E5DBECCA0219A58A994A23DD1500D94778475BED960CAC516B6BADE",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -74,7 +74,7 @@
         }
       },
       "$en_rgroad11_0009": {
-        "Target": "{X10Y10}Джокер{Line}«Ладно, давай добавим{Line}ещё и правила Галбадии».{End}",
+        "Target": "{X10Y10}Джокер{Line}Ладно, давай добавим{Line}ещё и правила Галбадии.{End}",
         "Source Text SHA256": "F7E105F2402599D17BB1F8934800728F099F358C190DBFBA6C043A7BC8F1721A",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -82,7 +82,7 @@
         }
       },
       "$en_rgroad11_0010": {
-        "Target": "{X10Y10}Джокер{Line}«Ладно, давай добавим{Line}ещё и правила Трабии».{End}",
+        "Target": "{X10Y10}Джокер{Line}Ладно, давай добавим{Line}ещё и правила Трабии.{End}",
         "Source Text SHA256": "2AF2541DC38EFE5F93387A8779474215F4F3C00211FE679EE001601FE224A720",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -90,7 +90,7 @@
         }
       },
       "$en_rgroad11_0011": {
-        "Target": "{X10Y10}Джокер{Line}«Ладно, давай добавим{Line}ещё и правила Центры».{End}",
+        "Target": "{X10Y10}Джокер{Line}Ладно, давай добавим{Line}ещё и правила Центры.{End}",
         "Source Text SHA256": "F667B931574A623501AD67862E213A930B987B5944F15925BE8EB9A6EF4FC378",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -98,7 +98,7 @@
         }
       },
       "$en_rgroad11_0012": {
-        "Target": "{X10Y10}Джокер{Line}«Ладно, давай добавим{Line}ещё и правила Доллета».{End}",
+        "Target": "{X10Y10}Джокер{Line}Ладно, давай добавим{Line}ещё и правила Доллета.{End}",
         "Source Text SHA256": "E6FA4A3624DB6BBD77564AD67FDFB1786996769FEEC11BCFF7F1A571A7AFDD6F",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -106,7 +106,7 @@
         }
       },
       "$en_rgroad11_0013": {
-        "Target": "{X10Y10}Джокер{Line}«Ладно, давай добавим{Line}ещё и правила ГР.»{End}",
+        "Target": "{X10Y10}Джокер{Line}Ладно, давай добавим{Line}ещё и правила ГР.{End}",
         "Source Text SHA256": "A798014A35657696DCB93C64B8AE4773A24868447D7193956BC5BD20156607F1",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -114,7 +114,7 @@
         }
       },
       "$en_rgroad11_0014": {
-        "Target": "{X10Y10}Джокер{Line}«Ладно, давай добавим{Line}ещё и правила Лунного региона».{End}",
+        "Target": "{X10Y10}Джокер{Line}Ладно, давай добавим{Line}ещё и правила Лунного региона.{End}",
         "Source Text SHA256": "840E9EC08BA984AA87A373D80CA8219545DAF7645CC4C3A517D15C17FF4B02C6",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -122,7 +122,7 @@
         }
       },
       "$en_rgroad11_0015": {
-        "Target": "{X10Y10}Джокер{Line}«Ладно, давай добавим{Line}ещё и правила Эстара».{End}",
+        "Target": "{X10Y10}Джокер{Line}Ладно, давай добавим{Line}ещё и правила Эстара.{End}",
         "Source Text SHA256": "CC0311BEC23506B0D5C7A72F0E74A5158F2DBD0F986F080E9572C19E708E598B",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -130,7 +130,7 @@
         }
       },
       "$en_rgroad11_0016": {
-        "Target": "Джокер{Line}«По правилу {Color Blue}„В открытую“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "Джокер{Line}По правилу {Color Blue}„В открытую“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "DBAEE5A588CD5E2BA23331F1F33ADF81AE874823EB25FD9CDF635CB41E192662",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -138,7 +138,7 @@
         }
       },
       "$en_rgroad11_0016_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джокер{Line}«По правилу {Color Blue}„В открытую“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X10Y10}Джокер{Line}По правилу {Color Blue}„В открытую“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "DBAEE5A588CD5E2BA23331F1F33ADF81AE874823EB25FD9CDF635CB41E192662",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -146,7 +146,7 @@
         }
       },
       "$en_rgroad11_0016_ctx_e4a06aa8be2d3c6c": {
-        "Target": "{X70Y10}Джокер{Line}«По правилу {Color Blue}„В открытую“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X70Y10}Джокер{Line}По правилу {Color Blue}„В открытую“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "DBAEE5A588CD5E2BA23331F1F33ADF81AE874823EB25FD9CDF635CB41E192662",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -154,7 +154,7 @@
         }
       },
       "$en_rgroad11_0017": {
-        "Target": "Джокер{Line}«По правилу {Color Blue}„Одинаковые“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "Джокер{Line}По правилу {Color Blue}„Одинаковые“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "0E586E133D02FBDB2692273709F32EC0B08422906C1F6587B9BA02A571D83A5D",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -162,7 +162,7 @@
         }
       },
       "$en_rgroad11_0017_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джокер{Line}«По правилу {Color Blue}„Одинаковые“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X10Y10}Джокер{Line}По правилу {Color Blue}„Одинаковые“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "0E586E133D02FBDB2692273709F32EC0B08422906C1F6587B9BA02A571D83A5D",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -170,7 +170,7 @@
         }
       },
       "$en_rgroad11_0017_ctx_c5acf1dde66f6689": {
-        "Target": "{X69Y10}Джокер{Line}«По правилу {Color Blue}„Одинаковые“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X69Y10}Джокер{Line}По правилу {Color Blue}„Одинаковые“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "0E586E133D02FBDB2692273709F32EC0B08422906C1F6587B9BA02A571D83A5D",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -178,7 +178,7 @@
         }
       },
       "$en_rgroad11_0018": {
-        "Target": "Джокер{Line}«По правилу {Color Blue}„Сложение“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "Джокер{Line}По правилу {Color Blue}„Сложение“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "114D5D3D9A0C088BBCC3319AB597DA4A24230D3A8452C5A8DB323B0FAA35EBA4",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -186,7 +186,7 @@
         }
       },
       "$en_rgroad11_0018_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джокер{Line}«По правилу {Color Blue}„Сложение“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X10Y10}Джокер{Line}По правилу {Color Blue}„Сложение“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "114D5D3D9A0C088BBCC3319AB597DA4A24230D3A8452C5A8DB323B0FAA35EBA4",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -194,7 +194,7 @@
         }
       },
       "$en_rgroad11_0018_ctx_83e2e47be26d00ec": {
-        "Target": "{X72Y10}Джокер{Line}«По правилу {Color Blue}„Сложение“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X72Y10}Джокер{Line}По правилу {Color Blue}„Сложение“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "114D5D3D9A0C088BBCC3319AB597DA4A24230D3A8452C5A8DB323B0FAA35EBA4",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -202,7 +202,7 @@
         }
       },
       "$en_rgroad11_0019": {
-        "Target": "Джокер{Line}«По правилу {Color Blue}„Случайные“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "Джокер{Line}По правилу {Color Blue}„Случайные“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "8DF65F146A3725D91E3AFB31E0D8A011A9B3EC6BF1FDD55AB4D06EBCD9E35522",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -210,7 +210,7 @@
         }
       },
       "$en_rgroad11_0019_ctx_6435e47f79d3a935": {
-        "Target": "{X62Y10}Джокер{Line}«По правилу {Color Blue}„Случайные“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X62Y10}Джокер{Line}По правилу {Color Blue}„Случайные“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "8DF65F146A3725D91E3AFB31E0D8A011A9B3EC6BF1FDD55AB4D06EBCD9E35522",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -218,7 +218,7 @@
         }
       },
       "$en_rgroad11_0019_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джокер{Line}«По правилу {Color Blue}„Случайные“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X10Y10}Джокер{Line}По правилу {Color Blue}„Случайные“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "8DF65F146A3725D91E3AFB31E0D8A011A9B3EC6BF1FDD55AB4D06EBCD9E35522",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -226,7 +226,7 @@
         }
       },
       "$en_rgroad11_0020": {
-        "Target": "Джокер{Line}«По правилу {Color Blue}„Внезапная смерть“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "Джокер{Line}По правилу {Color Blue}„Внезапная смерть“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "18D6E6200887C20BB7C2C27A9AC54AA39EBAA80A8CB790E2AF809E002073BCE8",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -234,7 +234,7 @@
         }
       },
       "$en_rgroad11_0020_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джокер{Line}«По правилу {Color Blue}„Внезапная смерть“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X10Y10}Джокер{Line}По правилу {Color Blue}„Внезапная смерть“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "18D6E6200887C20BB7C2C27A9AC54AA39EBAA80A8CB790E2AF809E002073BCE8",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -242,7 +242,7 @@
         }
       },
       "$en_rgroad11_0020_ctx_afc0d4957c7eb5c5": {
-        "Target": "{X43Y10}Джокер{Line}«По правилу {Color Blue}„Внезапная смерть“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X43Y10}Джокер{Line}По правилу {Color Blue}„Внезапная смерть“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "18D6E6200887C20BB7C2C27A9AC54AA39EBAA80A8CB790E2AF809E002073BCE8",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -250,7 +250,7 @@
         }
       },
       "$en_rgroad11_0021": {
-        "Target": "{X10Y10}Джокер{Line}«Правило {Color Blue}„Повтор“{Color White}{Line} теперь действует».{End}",
+        "Target": "{X10Y10}Джокер{Line}Правило {Color Blue}„Повтор“{Color White}{Line} теперь действует.{End}",
         "Source Text SHA256": "48F4324B73A75DC0D9E74DE7838FD16BC225BCA7DEDB8C586B3FB2B7AFC85243",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -258,7 +258,7 @@
         }
       },
       "$en_rgroad11_0022": {
-        "Target": "Джокер{Line}«По правилу {Color Blue}„Та же стена“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "Джокер{Line}По правилу {Color Blue}„Та же стена“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "03F21A5EDE9CBF659B5696E2820950E5534AE10BB568405CC3142244CC4E9BD6",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -266,7 +266,7 @@
         }
       },
       "$en_rgroad11_0022_ctx_22d10ce6fb7c408d": {
-        "Target": "{X56Y10}Джокер{Line}«По правилу {Color Blue}„Та же стена“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X56Y10}Джокер{Line}По правилу {Color Blue}„Та же стена“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "03F21A5EDE9CBF659B5696E2820950E5534AE10BB568405CC3142244CC4E9BD6",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -274,7 +274,7 @@
         }
       },
       "$en_rgroad11_0022_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джокер{Line}«По правилу {Color Blue}„Та же стена“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X10Y10}Джокер{Line}По правилу {Color Blue}„Та же стена“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "03F21A5EDE9CBF659B5696E2820950E5534AE10BB568405CC3142244CC4E9BD6",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -282,7 +282,7 @@
         }
       },
       "$en_rgroad11_0023": {
-        "Target": "Джокер{Line}«По правилу {Color Blue}„Стихийное поле“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "Джокер{Line}По правилу {Color Blue}„Стихийное поле“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "63A31EC5C13B871B4347A8C4F86CE0A1EF3401D4DB8B403E5348DB39A57A2ACE",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -290,7 +290,7 @@
         }
       },
       "$en_rgroad11_0023_ctx_22d10ce6fb7c408d": {
-        "Target": "{X56Y10}Джокер{Line}«По правилу {Color Blue}„Стихийное поле“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X56Y10}Джокер{Line}По правилу {Color Blue}„Стихийное поле“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "63A31EC5C13B871B4347A8C4F86CE0A1EF3401D4DB8B403E5348DB39A57A2ACE",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -298,7 +298,7 @@
         }
       },
       "$en_rgroad11_0023_ctx_705d088c51ef6ed2": {
-        "Target": "{X10Y10}Джокер{Line}«По правилу {Color Blue}„Стихийное поле“{Color White}{Line}будем играть и дальше».{End}",
+        "Target": "{X10Y10}Джокер{Line}По правилу {Color Blue}„Стихийное поле“{Color White}{Line}будем играть и дальше.{End}",
         "Source Text SHA256": "63A31EC5C13B871B4347A8C4F86CE0A1EF3401D4DB8B403E5348DB39A57A2ACE",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -306,7 +306,7 @@
         }
       },
       "$en_rgroad11_0024": {
-        "Target": "{X33Y10}Джокер{Line}«Мне надоело правило {Color Blue}„В открытую“{Color White}.{Line}Давай больше без него».{End}",
+        "Target": "{X33Y10}Джокер{Line}Мне надоело правило {Color Blue}„В открытую“{Color White}.{Line}Давай больше без него.{End}",
         "Source Text SHA256": "BD22E35B4579A7E8885C31CDDCA69C517C62E39C3BD5D12FAAC3087A06318B67",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -314,7 +314,7 @@
         }
       },
       "$en_rgroad11_0025": {
-        "Target": "{X32Y10}Джокер{Line}«Мне надоело правило {Color Blue}„Одинаковые“{Color White}.{Line}Давай больше без него».{End}",
+        "Target": "{X32Y10}Джокер{Line}Мне надоело правило {Color Blue}„Одинаковые“{Color White}.{Line}Давай больше без него.{End}",
         "Source Text SHA256": "485FADFF42D511671299368DE979E87217A6F46CA62F0DDD034210E4DAB3FCCD",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -322,7 +322,7 @@
         }
       },
       "$en_rgroad11_0026": {
-        "Target": "{X35Y10}Джокер{Line}«Мне надоело правило {Color Blue}„Сложение“{Color White}.{Line}Давай больше без него».{End}",
+        "Target": "{X35Y10}Джокер{Line}Мне надоело правило {Color Blue}„Сложение“{Color White}.{Line}Давай больше без него.{End}",
         "Source Text SHA256": "4EB4E86D1869A6E7FA8AC4CD5307AEAA0EFC95F5B74170A110C6A4A4FC4D6A13",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -330,7 +330,7 @@
         }
       },
       "$en_rgroad11_0027": {
-        "Target": "{X38Y10}Джокер{Line}«Мне надоело правило {Color Blue}„Случайные“{Color White}.{Line}Давай больше без него».{End}",
+        "Target": "{X38Y10}Джокер{Line}Мне надоело правило {Color Blue}„Случайные“{Color White}.{Line}Давай больше без него.{End}",
         "Source Text SHA256": "873B04914EA5B03F5242D8B76F1C9C17A42E54C309EC43759D9DC678EAEA1466",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -338,7 +338,7 @@
         }
       },
       "$en_rgroad11_0028": {
-        "Target": "{X19Y10}Джокер{Line}«Мне надоело правило {Color Blue}„Внезапная смерть“{Color White}.{Line}Давай больше без него».{End}",
+        "Target": "{X19Y10}Джокер{Line}Мне надоело правило {Color Blue}„Внезапная смерть“{Color White}.{Line}Давай больше без него.{End}",
         "Source Text SHA256": "80586D6148D5F9D4D6FC32900C38B97E889A7F6F46605BCCB7B2D82D29FF8E53",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -346,7 +346,7 @@
         }
       },
       "$en_rgroad11_0029": {
-        "Target": "«Мне надоело правило {Color Blue}„Повтор“{Color White}.{Line} Давай больше его не использовать».{End}",
+        "Target": "Мне надоело правило {Color Blue}„Повтор“{Color White}.{Line} Давай больше его не использовать.{End}",
         "Source Text SHA256": "ADD86D152D29904C7DDB1F2BE583F18E3E7AEE168575684EB0352B2495AB48B3",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -354,7 +354,7 @@
         }
       },
       "$en_rgroad11_0030": {
-        "Target": "{X31Y10}Джокер{Line}«Мне надоело правило {Color Blue}„Та же стена“{Color White}.{Line}Давай больше без него».{End}",
+        "Target": "{X31Y10}Джокер{Line}Мне надоело правило {Color Blue}„Та же стена“{Color White}.{Line}Давай больше без него.{End}",
         "Source Text SHA256": "034D5882A326D4D3C561AED8C453639E66B03072E47539220BCA8CD5F1DE1B57",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -362,7 +362,7 @@
         }
       },
       "$en_rgroad11_0031": {
-        "Target": "{X47Y10}Джокер{Line}«Мне надоело {Color Blue}„Стихийное поле“{Color White}{Line}это правило.{Line}Давай больше без него».{End}",
+        "Target": "{X47Y10}Джокер{Line}Мне надоело {Color Blue}„Стихийное поле“{Color White}{Line}это правило.{Line}Давай больше без него.{End}",
         "Source Text SHA256": "61D1C04818735898C7A94F5D5E5FDA1BBCA26D0052BDD3DCF7F8BDD7D1DE6AA4",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -370,7 +370,7 @@
         }
       },
       "$en_rgroad11_0032": {
-        "Target": "«Баламб»{End}",
+        "Target": "Баламб{End}",
         "Source Text SHA256": "588E5A0C901DA9573BBFBCBC7DFC0417D41958591E7B88A88BE8260A8E72379B",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -378,7 +378,7 @@
         }
       },
       "$en_rgroad11_0033": {
-        "Target": "«Галбадия»{End}",
+        "Target": "Галбадия{End}",
         "Source Text SHA256": "4D3C586BCEB5E371907A5F6EF7CFEA49ED7E228761C4D6C6E42B341B9AF030A2",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -386,7 +386,7 @@
         }
       },
       "$en_rgroad11_0034": {
-        "Target": "«Трабия»{End}",
+        "Target": "Трабия{End}",
         "Source Text SHA256": "F6AD33B6D709C41DF449BD5FFB8E0DE328B2BA50FE0976CC8D226CAD719E3C55",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -394,7 +394,7 @@
         }
       },
       "$en_rgroad11_0035": {
-        "Target": "«Центра»{End}",
+        "Target": "Центра{End}",
         "Source Text SHA256": "CF88B33D26A1274D2E43EFA6F5EB9FC39F62B83DE681E3D4D1C0DA4C44AED747",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -402,7 +402,7 @@
         }
       },
       "$en_rgroad11_0036": {
-        "Target": "«Доллет»{End}",
+        "Target": "Доллет{End}",
         "Source Text SHA256": "B0ABB598561F8B0A690C33A749348FF34C27B05031641DC0A66285D736143E59",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -410,7 +410,7 @@
         }
       },
       "$en_rgroad11_0037": {
-        "Target": "«Рыбацкий Горизонт»{End}",
+        "Target": "Рыбацкий Горизонт{End}",
         "Source Text SHA256": "2CE7A7E41CEA6D112918B92A84ED4C3195F3342F0C9D114A838BDD76353A7B2D",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -418,7 +418,7 @@
         }
       },
       "$en_rgroad11_0038": {
-        "Target": "«Луна»{End}",
+        "Target": "Луна{End}",
         "Source Text SHA256": "494A140341883E273AA25D85038D3EAFC0706017246757CDCB6851E1A35607C2",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -426,7 +426,7 @@
         }
       },
       "$en_rgroad11_0039": {
-        "Target": "«Эстар»{End}",
+        "Target": "Эстар{End}",
         "Source Text SHA256": "FDFFD6B74CF8BA356D3DEF39577EB22D67E187554B864637C9ABCECA5C0789B3",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",
@@ -434,7 +434,7 @@
         }
       },
       "$en_rgroad11_0040": {
-        "Target": "«Без дополнительных правил»{End}",
+        "Target": "Без дополнительных правил{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "987924D203749B28BCCC79A37A32C1160D1F34D4517671C89920EED9C70D87DF",

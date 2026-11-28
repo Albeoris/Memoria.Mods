@@ -2,7 +2,7 @@
   "Fields": {
     "test12": {
       "$en_test12_0000": {
-        "Target": "Скволл{Line}«***Так вот она, комната Зелла».{End}",
+        "Target": "Скволл{Line}***Так вот она, комната Зелла.{End}",
         "Source Text SHA256": "0E80679E09527A2EDEE9B8E83D8CD2FFC2FB8FE5192FBDC731423631F9D6FE53",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -10,7 +10,7 @@
         }
       },
       "$en_test12_0001": {
-        "Target": "{Char Zell}: «Что ты делаешь?!»",
+        "Target": "{Char Zell}: Что ты делаешь?!",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -18,7 +18,7 @@
         }
       },
       "$en_test12_0002": {
-        "Target": "Риноа{Line}«Хм-м,{Line}а здесь довольно мило!»{End}",
+        "Target": "Риноа{Line}Хм-м,{Line}а здесь довольно мило!{End}",
         "Source Text SHA256": "165AEA0F0B7C4710B362B8DECBB81EA32CDCDFED9E37BF55E65E79EBB70CD1A9",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -26,7 +26,7 @@
         }
       },
       "$en_test12_0003": {
-        "Target": "Сайфер{Line}«Тесновато».{End}",
+        "Target": "Сайфер{Line}Тесновато.{End}",
         "Source Text SHA256": "5A24DDA91D945619A0774946A1A069C35A4EA00E9052CD731531A5F2138BA3A1",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -34,7 +34,7 @@
         }
       },
       "$en_test12_0004": {
-        "Target": "{Char Zell}: «Ты же нахлебник, так что ничего не поделаешь».",
+        "Target": "{Char Zell}: Ты же нахлебник, так что ничего не поделаешь.",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -42,7 +42,7 @@
         }
       },
       "$en_test12_0005": {
-        "Target": "Риноа{Line}«Но как же у тебя тут чисто.{Line}Зауважала тебя!»{End}",
+        "Target": "Риноа{Line}Но как же у тебя тут чисто.{Line}Зауважала тебя!{End}",
         "Source Text SHA256": "43E5FCC34523B46D5E63A6CE1F81B19723F45EBE11700301E062FFEA75DB8DB1",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -58,7 +58,7 @@
         }
       },
       "$en_test12_0007": {
-        "Target": "Сайфер{Line}«...Ты ведь трус...»{End}",
+        "Target": "Сайфер{Line}...Ты ведь трус...{End}",
         "Source Text SHA256": "9A3B728333D88E64E272AD53F616A14347061009A4BC4430A1B61123795562F5",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -66,7 +66,7 @@
         }
       },
       "$en_test12_0008": {
-        "Target": "Зелл{Line}«А?»{End}",
+        "Target": "Зелл{Line}А?{End}",
         "Source Text SHA256": "2B7679444E0A693D8F3D04633375E4B8D503FF80C8ED9FB4943B8EB192F3923B",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -82,7 +82,7 @@
         }
       },
       "$en_test12_0010": {
-        "Target": "Зелл{Line}«А, ты об этом?{Glyph 207}{Line}...Это мой дед».{End}",
+        "Target": "Зелл{Line}А, ты об этом?{Glyph 207}{Line}...Это мой дед.{End}",
         "Source Text SHA256": "084738608A1821B077B3160BE060184F40631F2C3EA9D066A57EFA532CA491C8",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -90,7 +90,7 @@
         }
       },
       "$en_test12_0011": {
-        "Target": "{Char Rinoa}{Line}«Не надо, Скволл.{Line} Если Зелл начнёт рассказывать о дедушке,{Line} это запросто затянется на целый час!»{End}",
+        "Target": "{Char Rinoa}{Line}Не надо, Скволл.{Line} Если Зелл начнёт рассказывать о дедушке,{Line} это запросто затянется на целый час!{End}",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -106,7 +106,7 @@
         }
       },
       "$en_test12_0013": {
-        "Target": "{Char Seifer}: «Кстати, гостей пригласил, а чаю даже не предложишь?»",
+        "Target": "{Char Seifer}: Кстати, гостей пригласил, а чаю даже не предложишь?",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",
@@ -114,7 +114,7 @@
         }
       },
       "$en_test12_0014": {
-        "Target": "{Char Zell}{Line}«Вы же сами{Line} ко мне заявились!»{End}",
+        "Target": "{Char Zell}{Line}Вы же сами{Line} ко мне заявились!{End}",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "DFAEA426809000D0421535071B136D8E49FE0EFCA1B4A24E2934B2BBB49B13BD",

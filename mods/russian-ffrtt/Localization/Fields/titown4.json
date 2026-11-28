@@ -10,7 +10,7 @@
         }
       },
       "$en_titown4_0001": {
-        "Target": "{X15Y150}«Добро пожаловать{Line} в Тимбер, сэр.{Line} Следуйте за мной».{End}",
+        "Target": "{X15Y150}Добро пожаловать{Line} в Тимбер, сэр.{Line} Следуйте за мной.{End}",
         "Source Text SHA256": "CA59857C2B5C062ECE7234B76DE6F3832D1938EADC36D49D493D5D0748955B08",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -18,7 +18,7 @@
         }
       },
       "$en_titown4_0002": {
-        "Target": "{X15Y150}«О чём{Line} это вы, сэр?»{Next}«Совы тут в лесу...{Line}»{End}",
+        "Target": "{X15Y150}О чём{Line} это вы, сэр?{Next}Совы тут в лесу...{Line}{End}",
         "Source Text SHA256": "96EF4F79DEFA7B4B03157BD4009B06BCF6503D9E6D56E996901BDED3C811BD16",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -26,7 +26,7 @@
         }
       },
       "$en_titown4_0003": {
-        "Target": "{X15Y150}«Ни о чём,{Line} сэр. Ни о чём».{End}",
+        "Target": "{X15Y150}Ни о чём,{Line} сэр. Ни о чём.{End}",
         "Source Text SHA256": "6A98B43064B2084B9C031A85CD24EE6E1FF99F3ACB27545B0D5119B0AA224B57",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -34,7 +34,7 @@
         }
       },
       "$en_titown4_0004": {
-        "Target": "{X20Y20}«В ОТПУСКЕ?!{Line} Это нечестно!{Next}Мой Джорджи{Line} здесь.{Next}Я ненавижу этот{Line} зоомагазин!!!»{End}",
+        "Target": "{X20Y20}В ОТПУСКЕ?!{Line} Это нечестно!{Next}Мой Джорджи{Line} здесь.{Next}Я ненавижу этот{Line} зоомагазин!!!{End}",
         "Source Text SHA256": "9CA6FF80671370C2A3A375766944FA1A48843D5005D218D4B1C0462457E602C5",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -42,7 +42,7 @@
         }
       },
       "$en_titown4_0005": {
-        "Target": "{X20Y20}«Кормят ли его там?..{Pause 80}{Line}Лишь бы не заболел...»{Next}«Хочу поиграть{Line}с моим Джорджи!»{End}",
+        "Target": "{X20Y20}Кормят ли его там?..{Pause 80}{Line}Лишь бы не заболел...{Next}Хочу поиграть{Line}с моим Джорджи!{End}",
         "Source Text SHA256": "E71E684AE545BBF53D335AD556CE08388CA654EC1E5F20735C6D6EFAD02D8BFA",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -50,7 +50,7 @@
         }
       },
       "$en_titown4_0006": {
-        "Target": "{X20Y20}«Джорджи... Джорджи!!!{Next}Ах... я{Pause 96}{Line} так рад, что ты вернулся!»{End}",
+        "Target": "{X20Y20}Джорджи... Джорджи!!!{Next}Ах... я{Pause 96}{Line} так рад, что ты вернулся!{End}",
         "Source Text SHA256": "827051DC36BEA5BFB546FAF21ECF3F8FAFB3C3AB7C48B0C1CA34214D8AB0D750",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -58,7 +58,7 @@
         }
       },
       "$en_titown4_0007": {
-        "Target": "{X20Y20}«Взгляните на{Pause 80}{Line} него... он такой милый».{Next}«Мои родители купили {Pause 80}мне Джорджи{Line} в этом зоомагазине».{End}",
+        "Target": "{X20Y20}Взгляните на{Pause 80}{Line} него... он такой милый.{Next}Мои родители купили {Pause 80}мне Джорджи{Line} в этом зоомагазине.{End}",
         "Source Text SHA256": "419F138974C62DFEA69E30F2D5ADF114838E6FB3758A46E722917BC5985B1445",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -66,7 +66,7 @@
         }
       },
       "$en_titown4_0008": {
-        "Target": "{X20Y20}«Добро{Line} пожаловать! Как вам Тимбер?»{End}",
+        "Target": "{X20Y20}Добро{Line} пожаловать! Как вам Тимбер?{End}",
         "Source Text SHA256": "21C580483C532BA6DBFFFA0CEABB1F684873117183DAA04561A80235BB33CECF",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -74,7 +74,7 @@
         }
       },
       "$en_titown4_0009": {
-        "Target": "{X20Y20}«Я давно держу{Line}сувенирную лавку,{Line}да только сейчас продавать нечего».{End}",
+        "Target": "{X20Y20}Я давно держу{Line}сувенирную лавку,{Line}да только сейчас продавать нечего.{End}",
         "Source Text SHA256": "FDC2EA7D25D2C615F35E8F1753A496B72312DF59F42483C410400BB62DD14EBF",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -82,7 +82,7 @@
         }
       },
       "$en_titown4_0010": {
-        "Target": "{X20Y20}«Будет время —{Line}загляни внутрь.{Line}Кое-что у нас ещё есть».{End}",
+        "Target": "{X20Y20}Будет время —{Line}загляни внутрь.{Line}Кое-что у нас ещё есть.{End}",
         "Source Text SHA256": "8947831CB9FD998F1E8A10DFC595EE0F4DA33ED31908C5321BADFA29206D0463",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -98,7 +98,7 @@
         }
       },
       "$en_titown4_0012": {
-        "Target": "{X20Y20}«„Слёзы совы“?{Line}Закончились.{Next}У старика на окраине города{Line}должны быть».{End}",
+        "Target": "{X20Y20}„Слёзы совы“?{Line}Закончились.{Next}У старика на окраине города{Line}должны быть.{End}",
         "Source Text SHA256": "296CA71B8C6B6FC9BECC7A064979E45AB2979327A0406C46AA87D0CF3746C30B",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -106,7 +106,7 @@
         }
       },
       "$en_titown4_0013": {
-        "Target": "{X20Y20}«Карту Тимбера я не продаю...{Line}Но показать могу».{End}",
+        "Target": "{X20Y20}Карту Тимбера я не продаю...{Line}Но показать могу.{End}",
         "Source Text SHA256": "0A69CE3DB53E96ADF26105AD41D8540B5CEC4BF38DFCCE633490DF0253C43069",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -114,7 +114,7 @@
         }
       },
       "$en_titown4_0014": {
-        "Target": "{X20Y20F1L2B1C2}«Хочешь взглянуть на карту Тимбера?»{Line}Да{Line}Нет{End}",
+        "Target": "{X20Y20F1L2B1C2}Хочешь взглянуть на карту Тимбера?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "5AB9F260A87AE03DDB30FC71842A9AD868243B6FAB507562ED4A7813A627D182",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -130,7 +130,7 @@
         }
       },
       "$en_titown4_0016": {
-        "Target": "{X20Y20}«Это я рисую карты.{Line}Понятно, правда?»{End}",
+        "Target": "{X20Y20}Это я рисую карты.{Line}Понятно, правда?{End}",
         "Source Text SHA256": "1031189C9B1379FB062534F727469156AB3FEFDDA4BAFDA2A1D4D02A1516592E",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -138,7 +138,7 @@
         }
       },
       "$en_titown4_0017": {
-        "Target": "{X20Y20}«Модели поездов{Line}закончились...»{Next}«Последнюю купили{Line}Уоттс и Зон».{End}",
+        "Target": "{X20Y20}Модели поездов{Line}закончились...{Next}Последнюю купили{Line}Уоттс и Зон.{End}",
         "Source Text SHA256": "959C6524136591E954947B829D6EC6A0023430423698573D5DB45A1B62BBA650",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -146,7 +146,7 @@
         }
       },
       "$en_titown4_0018": {
-        "Target": "{X20Y20}«Хозяин гостиницы{Line}отличные модели делал...{Line}Бывало, целыми партиями».{Next}«После войны пропал...{Line}А без него никто{Line}их больше не делает...»{End}",
+        "Target": "{X20Y20}Хозяин гостиницы{Line}отличные модели делал...{Line}Бывало, целыми партиями.{Next}После войны пропал...{Line}А без него никто{Line}их больше не делает...{End}",
         "Source Text SHA256": "FCB0D5729467F82625E10C777178D2A30BE33ACB67587C8F30BFBC876E6C8D98",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -154,7 +154,7 @@
         }
       },
       "$en_titown4_0019": {
-        "Target": "{X20Y20}«Несовершеннолетним журналы{Line}для взрослых не продаю...{Next}Хотя Зон у нас постоянный покупатель.{Line}Ему иногда продаю.{Next}Он искал журнал{Line}„Соседская девчонка“.{Next}Если найдёшь,{Line}скажи ему».{End}",
+        "Target": "{X20Y20}Несовершеннолетним журналы{Line}для взрослых не продаю...{Next}Хотя Зон у нас постоянный покупатель.{Line}Ему иногда продаю.{Next}Он искал журнал{Line}„Соседская девчонка“.{Next}Если найдёшь,{Line}скажи ему.{End}",
         "Source Text SHA256": "9DCC541B28BC8A920EEBE674A5A82BBBBDC50695A90DBFAC99795EA397291A67",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -162,7 +162,7 @@
         }
       },
       "$en_titown4_0020": {
-        "Target": "{X20Y20}«Джорджи...{Line}Джорджи!!!»{Next}«Ох......{Pause 96}{Line}Куда же он пропал?»{End}",
+        "Target": "{X20Y20}Джорджи...{Line}Джорджи!!!{Next}Ох......{Pause 96}{Line}Куда же он пропал?{End}",
         "Source Text SHA256": "0072E23577C672BA5DF7762F0545B17D209D216FE0740A620F54DEBBBAAC4CA8",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -178,7 +178,7 @@
         }
       },
       "$en_titown4_0022": {
-        "Target": "{X150Y150F1L2B1C2}«Поезд до {Color Blue}〖Баламба〗{Color White}...»{Line}Заплатить 3000 гил и сесть{Line}Не садиться{End}",
+        "Target": "{X150Y150F1L2B1C2}Поезд до {Color Blue}〖Баламба〗{Color White}...{Line}Заплатить 3000 гил и сесть{Line}Не садиться{End}",
         "Source Text SHA256": "B54F133106447E99197133E14B886F9FF65A630F4608D10F2B91BE2F16F14E4C",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -186,7 +186,7 @@
         }
       },
       "$en_titown4_0023": {
-        "Target": "{X20Y20}«У вас не хватает денег на билет».{End}",
+        "Target": "{X20Y20}У вас не хватает денег на билет.{End}",
         "Source Text SHA256": "BB87931E834390E0FDFC667CEBF282ACDA1B72B6D877466A9F672E025F7AB77F",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -202,7 +202,7 @@
         }
       },
       "$en_titown4_0025": {
-        "Target": "{X10Y10F1L2B1C2}«Хочешь поиграть в карты?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}Хочешь поиграть в карты?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "6FE416AE5D63EE33D89D254108650031C352FE5783E07F280E6C9B05E451B4EC",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -210,7 +210,7 @@
         }
       },
       "$en_titown4_0026": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Баламба и нашим?»{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Баламба и нашим?{End}",
         "Source Text SHA256": "F45F901529E831B872EA56A0F770F963622D0D899896C8693D86974570CCD149",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -218,7 +218,7 @@
         }
       },
       "$en_titown4_0027": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Гальбадии и нашим?»{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Гальбадии и нашим?{End}",
         "Source Text SHA256": "6C3D9CF7678FDE6BE4D44D0B3E2BC648C26A6663019801A0C79CE62A52B3E632",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -226,7 +226,7 @@
         }
       },
       "$en_titown4_0028": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Трабии и нашим?»{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Трабии и нашим?{End}",
         "Source Text SHA256": "B5184117EA97A2B2EF792BF6CBC36066845C4EEC6FCFCDBF6B0118DF94D60D82",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -234,7 +234,7 @@
         }
       },
       "$en_titown4_0029": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Центры и нашим?»{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Центры и нашим?{End}",
         "Source Text SHA256": "37355C5EDB7D7E6CCCFC812179EF58A113C1CEAAD4AE675077B1679F4223A7DD",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -242,7 +242,7 @@
         }
       },
       "$en_titown4_0030": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Доллета и нашим?»{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Доллета и нашим?{End}",
         "Source Text SHA256": "DEF830E36921C6B6AA166A8C55F77669A8ACD0298CA923038F269ABD551D511E",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -250,7 +250,7 @@
         }
       },
       "$en_titown4_0031": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}ГР и нашим?»{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}ГР и нашим?{End}",
         "Source Text SHA256": "C36E1E98FE14E8A45C7B13B9486F08449A104D4D76C09DB71E17C67D8005B50A",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -258,7 +258,7 @@
         }
       },
       "$en_titown4_0032": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Луны и нашим?»{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Луны и нашим?{End}",
         "Source Text SHA256": "48B4E204955F94540275AC1B0060241DEE634EB22800EC4748DCBB7E7796EE97",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",
@@ -266,7 +266,7 @@
         }
       },
       "$en_titown4_0033": {
-        "Target": "{X10Y10}«Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Эстара и нашим?»{End}",
+        "Target": "{X10Y10}Ты знаешь правила,{Line}по которым мы не играем.{Line}Сыграем по правилам{Line}Эстара и нашим?{End}",
         "Source Text SHA256": "7892E13CE13105F70D831681246344BE1224C4C3AF01783D016F6C4E7F2B5486",
         "sourceContext": {
           "Source MSD SHA256": "8582AE239C1EE303BD8610EE0ACC63888DFD6D423F97D3B26BF928B094D73A37",

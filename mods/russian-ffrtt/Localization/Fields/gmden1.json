@@ -10,7 +10,7 @@
         }
       },
       "$en_gmden1_0001": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Не знаю, что нужно{Line} делать, попробую нажать что-нибудь».{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Не знаю, что нужно{Line} делать, попробую нажать что-нибудь.{End}",
         "Source Text SHA256": "3A1596BFEB7D4B126E0FEFD71B8BB32887A35B5F489C4073FCDD8E7483A35AB9",
         "sourceContext": {
           "Source MSD SHA256": "1862BB03384C99DFDDEF72D697225B4F8EA4BDF59A475842C09EDD70301CFB82",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gmden1_0002": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Выбора нет!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Выбора нет!{End}",
         "Source Text SHA256": "A411E77BA09AC648D752C1F908F971FB1CEF2B41376687EF58FABBF0644ECA22",
         "sourceContext": {
           "Source MSD SHA256": "1862BB03384C99DFDDEF72D697225B4F8EA4BDF59A475842C09EDD70301CFB82",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gmden1_0003": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Всё поломаю!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Всё поломаю!{End}",
         "Source Text SHA256": "5F49E7929FC88C0640A54F4C70E6794F9CF86DC13E7074A05C0F9258B92A3BB7",
         "sourceContext": {
           "Source MSD SHA256": "1862BB03384C99DFDDEF72D697225B4F8EA4BDF59A475842C09EDD70301CFB82",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gmden1_0007": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«А?{Line} Эээй... Свет погас...»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}А?{Line} Эээй... Свет погас...{End}",
         "Source Text SHA256": "11FA409C05A1B15688DFC8F86073D89A97AFC1C0E47D1793814C29EDF23FF482",
         "sourceContext": {
           "Source MSD SHA256": "1862BB03384C99DFDDEF72D697225B4F8EA4BDF59A475842C09EDD70301CFB82",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gmden1_0008": {
-        "Target": "{X160Y12}«Сбой электроснабжения.{Line} Ремонтной бригаде срочно проверить систему».{End}",
+        "Target": "{X160Y12}Сбой электроснабжения.{Line} Ремонтной бригаде срочно проверить систему.{End}",
         "Source Text SHA256": "A3E46ADBE78E48F56A13E57910324C0B2EE46359ECCEEF95CC4A67B6D050119F",
         "sourceContext": {
           "Source MSD SHA256": "1862BB03384C99DFDDEF72D697225B4F8EA4BDF59A475842C09EDD70301CFB82",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gmden1_0009": {
-        "Target": "{X12Y140}{Char Zell}{Line}«Надо сваливать.{Line} Живо...»{End}",
+        "Target": "{X12Y140}{Char Zell}{Line}Надо сваливать.{Line} Живо...{End}",
         "Source Text SHA256": "6D266012FC3C18A6800139990F6F51FE20BD61FFFBB60347903642EAEEDE95C7",
         "sourceContext": {
           "Source MSD SHA256": "1862BB03384C99DFDDEF72D697225B4F8EA4BDF59A475842C09EDD70301CFB82",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gmden1_0010": {
-        "Target": "{X12Y140}{Char Rinoa}{Line}«Надо уйти отсюда, пока{Line} никто не пришёл!»{End}",
+        "Target": "{X12Y140}{Char Rinoa}{Line}Надо уйти отсюда, пока{Line} никто не пришёл!{End}",
         "Source Text SHA256": "3800787BEBA27D45DE1FFE4D5821785E2E96DBF8D85F22690AFEC06CBD3687B9",
         "sourceContext": {
           "Source MSD SHA256": "1862BB03384C99DFDDEF72D697225B4F8EA4BDF59A475842C09EDD70301CFB82",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gmden1_0011": {
-        "Target": "{X12Y140}{Char Quistis}{Line}«Думаю, будет не очень хорошо,{Line} если нас{Line} здесь застукают. Пора уходить».{End}",
+        "Target": "{X12Y140}{Char Quistis}{Line}Думаю, будет не очень хорошо,{Line} если нас{Line} здесь застукают. Пора уходить.{End}",
         "Source Text SHA256": "ABA017BE57CA301C3314081F460821305F932B3A4427E0B41B889E18373DBD1C",
         "sourceContext": {
           "Source MSD SHA256": "1862BB03384C99DFDDEF72D697225B4F8EA4BDF59A475842C09EDD70301CFB82",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gmden1_0012": {
-        "Target": "{X12Y140}{Char Irvine}{Line}«Эй, эй, эй!{Line} Нам конец, если нас здесь застанут!»{End}",
+        "Target": "{X12Y140}{Char Irvine}{Line}Эй, эй, эй!{Line} Нам конец, если нас здесь застанут!{End}",
         "Source Text SHA256": "2FB824B95A55D665969D10B5618D953802EA8A2CC61FC1A959B2DB94D7DAD67A",
         "sourceContext": {
           "Source MSD SHA256": "1862BB03384C99DFDDEF72D697225B4F8EA4BDF59A475842C09EDD70301CFB82",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gmden1_0013": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Отлично! СЛЕДУЮЩИЙ!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Отлично! СЛЕДУЮЩИЙ!{End}",
         "Source Text SHA256": "0CFFC7EEFFF59E121205610A0FEDC4BF1A0598CD1EE359F86D6A9ACD32F25A6E",
         "sourceContext": {
           "Source MSD SHA256": "1862BB03384C99DFDDEF72D697225B4F8EA4BDF59A475842C09EDD70301CFB82",

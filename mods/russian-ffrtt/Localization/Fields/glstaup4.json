@@ -2,7 +2,7 @@
   "Fields": {
     "glstaup4": {
       "$en_glstaup4_0000": {
-        "Target": "{X10Y10}{Char Ward}{Line}«Эй! Нельзя парковаться посреди улицы!»{End}",
+        "Target": "{X10Y10}{Char Ward}{Line}Эй! Нельзя парковаться посреди улицы!{End}",
         "Source Text SHA256": "1AB64E740B97AD65F0F91E210F437A44023DD5A93DF0828372BD362281F65F13",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -10,7 +10,7 @@
         }
       },
       "$en_glstaup4_0001": {
-        "Target": "{X170Y30}{Char Laguna}{Line}«Расслабься, парень, всё путём».{End}",
+        "Target": "{X170Y30}{Char Laguna}{Line}Расслабься, парень, всё путём.{End}",
         "Source Text SHA256": "C620787E6B066826CAB959E00F23F751129065DA99D5AD432894B59E67B012F8",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -18,7 +18,7 @@
         }
       },
       "$en_glstaup4_0002": {
-        "Target": "{X150Y10}{Char Laguna}{Line}«Отлично! Как насчёт выпивки?!»{End}",
+        "Target": "{X150Y10}{Char Laguna}{Line}Отлично! Как насчёт выпивки?!{End}",
         "Source Text SHA256": "49CCAB64624F5FEA9A2E155D40E7E915A45C26C266C85C789271890F201150A6",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -26,7 +26,7 @@
         }
       },
       "$en_glstaup4_0003": {
-        "Target": "{X10Y10}{Char Kiros}{Line}«Да ладно! Знаю я, как ты пьёшь...»{Next}«Харош притворяться. Ты здесь не ради выпивки».{End}",
+        "Target": "{X10Y10}{Char Kiros}{Line}Да ладно! Знаю я, как ты пьёшь...{Next}Харош притворяться. Ты здесь не ради выпивки.{End}",
         "Source Text SHA256": "DC38D6CCD1E14FB679B67F3D2B2C3F2CFA28835D43C693F64E5B38A647AC4EAB",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -34,7 +34,7 @@
         }
       },
       "$en_glstaup4_0004": {
-        "Target": "{X10Y10}{Char Ward}{Line}«Ага, выпить стакан сока».{Next}«А заодно поглазеть на пианистку».{End}",
+        "Target": "{X10Y10}{Char Ward}{Line}Ага, выпить стакан сока.{Next}А заодно поглазеть на пианистку.{End}",
         "Source Text SHA256": "A0EA311AB400858BC97EFFFB770D47F266A4206DFE564FCAFB67EEC2B171ECD8",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -42,7 +42,7 @@
         }
       },
       "$en_glstaup4_0005": {
-        "Target": "{X150Y10}{Char Laguna}{Line}«НЕ НАЗЫВАЙ ЕЁ ПИАНИСТКОЙ! Всё! Я никуда{Line}не иду!»{End}",
+        "Target": "{X150Y10}{Char Laguna}{Line}НЕ НАЗЫВАЙ ЕЁ ПИАНИСТКОЙ! Всё! Я никуда{Line}не иду!{End}",
         "Source Text SHA256": "F5F17C5FA42BF75FEF75CDCA6F3D566F2FC06AE4DD1B90DBF5D30D9557FB1DDC",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -50,7 +50,7 @@
         }
       },
       "$en_glstaup4_0006": {
-        "Target": "{X10Y10}{Char Kiros}{Line}«Да-да, мы в этом не сомневаемся...»{End}",
+        "Target": "{X10Y10}{Char Kiros}{Line}Да-да, мы в этом не сомневаемся...{End}",
         "Source Text SHA256": "A70A2DECA24D3F648B484B211E0E45C2C28FAE37A8F32BC41AD862B3B52A8AD1",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -58,7 +58,7 @@
         }
       },
       "$en_glstaup4_0007": {
-        "Target": "{X10Y10}{Char Kiros}{Line}«Мы же здесь не только для того, чтобы{Line}напиться? Мы должны сражаться».{End}",
+        "Target": "{X10Y10}{Char Kiros}{Line}Мы же здесь не только для того, чтобы{Line}напиться? Мы должны сражаться.{End}",
         "Source Text SHA256": "B120F025BEB09FB0805C1637972D2140CFF2AE666C1AE3F6393F0E5CC8A4C099",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -66,7 +66,7 @@
         }
       },
       "$en_glstaup4_0008": {
-        "Target": "{X10Y10}{Char Ward}{Line}«Тогда нажрёмся вдрызг, а потом пойдём в{Line}атаку!»{End}",
+        "Target": "{X10Y10}{Char Ward}{Line}Тогда нажрёмся вдрызг, а потом пойдём в{Line}атаку!{End}",
         "Source Text SHA256": "0F7E6A932233C81799F6684A063925C3D7F8B123D785EB3416730B1A878447C9",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -74,7 +74,7 @@
         }
       },
       "$en_glstaup4_0009": {
-        "Target": "{X150Y10}{Char Laguna}{Line}«Кирос, Вард... Парни, вы не понимаете...»{Next}«Я просто хочу отдохнуть вместе с вами».{End}",
+        "Target": "{X150Y10}{Char Laguna}{Line}Кирос, Вард... Парни, вы не понимаете...{Next}Я просто хочу отдохнуть вместе с вами.{End}",
         "Source Text SHA256": "77F63E9BFECB891158A107E3C3786460AB3729149D242C5166B40ECD77CD058F",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -82,7 +82,7 @@
         }
       },
       "$en_glstaup4_0010": {
-        "Target": "{X10Y10}{Char Ward}{Line}«Харош заливать! Пошли, герой-любовник!»{End}",
+        "Target": "{X10Y10}{Char Ward}{Line}Харош заливать! Пошли, герой-любовник!{End}",
         "Source Text SHA256": "99F89322B3025D55A23A796666E7914BF6C1BDABD76DAB702AA438DA2D5B778E",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",
@@ -90,7 +90,7 @@
         }
       },
       "$en_glstaup4_0011": {
-        "Target": "{X10Y10}Солдат{Line}«Сэр!»",
+        "Target": "{X10Y10}Солдат{Line}Сэр!",
         "Source Text SHA256": "6ECBB7BFA96F494314AB419EE2DCE08BCF6EB6AB97A33D1EE46BBB6982C16F74",
         "sourceContext": {
           "Source MSD SHA256": "BFF65A0F16E017D77E7234F4D3D45FB7259FD20CD9FC9DCF3723AFC7FD6DBADB",

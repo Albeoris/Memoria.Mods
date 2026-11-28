@@ -2,7 +2,7 @@
   "Fields": {
     "ecenter2": {
       "$en_ecenter2_0000": {
-        "Target": "«Спускаетесь?»{Line}Да{Line}Нет{End}",
+        "Target": "Спускаетесь?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "0537EBDCD81DCC2594833B658A1374FA4B8A5817D1E77A6E2F5490F37C25EE47",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",
@@ -10,7 +10,7 @@
         }
       },
       "$en_ecenter2_0001": {
-        "Target": "{X10Y10F2L3B2C3}«Здравствуйте. Хотите взять{Line} машину напрокат за 3 500 гил?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F2L3B2C3}Здравствуйте. Хотите взять{Line} машину напрокат за 3 500 гил?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "A2B986B14E43C3DAB1DC3FE7E4949C5E1AC9DD6696033937E7F2E58D57183B05",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ecenter2_0002": {
-        "Target": "{X100Y10F1L2B1C2}«Хотите воспользоваться лифтом?»{Line}Да{Line}Нет{End}",
+        "Target": "{X100Y10F1L2B1C2}Хотите воспользоваться лифтом?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "1F6F4043926008491F126155F68AADCDADC5917ADB4BADF2D8D746D8CEBBD1EB",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ecenter2_0003": {
-        "Target": "{X140Y20}«Не хватает гил».{End}",
+        "Target": "{X140Y20}Не хватает гил.{End}",
         "Source Text SHA256": "53A5CB3C62CB0A4FB1382EB2B8DCFADFE7EE15C859334365EB3EE3D2F762C1D6",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ecenter2_0004": {
-        "Target": "{X150Y20}«Спасибо».{End}",
+        "Target": "{X150Y20}Спасибо.{End}",
         "Source Text SHA256": "F16B9B9EFBEB627A1B705FB8DEEACCD25B4FD240CA4BB60495959FE9D5C5EE58",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ecenter2_0005": {
-        "Target": "«Пожалуйста, пройдите на платформу».{End}",
+        "Target": "Пожалуйста, пройдите на платформу.{End}",
         "Source Text SHA256": "29D3FEF9E3C8C7F701E2993C4BE2996AC8C1F8A72AD636F58D0A990C4ACA6A39",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ecenter2_0006": {
-        "Target": "«Прошу садиться в машину».{End}",
+        "Target": "Прошу садиться в машину.{End}",
         "Source Text SHA256": "C86C2E6E02564F8A636F223A4E632ECBF0692336E430E553F0BE1127EB20B228",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ecenter2_0007": {
-        "Target": "{X10Y50}{Char Zell}{Line}«Не срабатывает!»{End}",
+        "Target": "{X10Y50}{Char Zell}{Line}Не срабатывает!{End}",
         "Source Text SHA256": "10BE7784689C32A0175AE53CA0FDBCAD1A8E13D2AEC58F24E63D9E9010F7F339",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ecenter2_0008": {
-        "Target": "{X100Y10}{Char Zell}{Line}«ЧЁРТ! Не успеем!»{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}ЧЁРТ! Не успеем!{End}",
         "Source Text SHA256": "84ED47C1DC25A2C9BB6575F54857CFFD36951E144E12F4E12719DDF2F095F07C",
         "sourceContext": {
           "Source MSD SHA256": "D8C404AF6CD2C38B88ED7523E142FF480C131EE73DFA4CB7574A9C6EC041B573",

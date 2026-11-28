@@ -12,9 +12,9 @@
     "releaseNotes": "Boost costs 200 AP and has a localized description. FFVIII summons are limited to 9,999 damage until their GF learns Boost."
   },
   "russian-ffrtt": {
-    "version": "3.20.5",
+    "version": "3.20.6",
     "engineVersionRange": "[0.9.18,)",
-    "releaseNotes": "Localizes the ability menu prompt and page indicator. Memoria FFVIII 0.9.18 displays the existing Russian refinement ability names and descriptions throughout the menu."
+    "releaseNotes": "Removes the outer guillemets from Russian field dialogue while preserving quotes within the text."
   },
   "russian-ffrtt-opening": {
     "version": "1.0.0",

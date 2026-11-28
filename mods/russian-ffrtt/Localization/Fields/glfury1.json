@@ -50,7 +50,7 @@
         }
       },
       "$en_glfury1_0006": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Эмм...»{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}Эмм...{End}",
         "Source Text SHA256": "4E2272FACBF8ACF07E9F2AD274908E056EB8537A47D3059EEDB07A2197AAF520",
         "sourceContext": {
           "Source MSD SHA256": "01890CEFA7C523236B278DCAC4C9B0D1412DC524804469DDF05D2083BE87C3F1",
@@ -58,7 +58,7 @@
         }
       },
       "$en_glfury1_0007": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Мой контракт...{Line} ещё в силе?»{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}Мой контракт...{Line} ещё в силе?{End}",
         "Source Text SHA256": "AD3514FBA714429D276CEADA85A09AA0C312D915406928734B4BE2AD2591794D",
         "sourceContext": {
           "Source MSD SHA256": "01890CEFA7C523236B278DCAC4C9B0D1412DC524804469DDF05D2083BE87C3F1",
@@ -74,7 +74,7 @@
         }
       },
       "$en_glfury1_0009": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Не бросай меня в этом доме,{Line} ладно? Мне объяснить почему?»{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}Не бросай меня в этом доме,{Line} ладно? Мне объяснить почему?{End}",
         "Source Text SHA256": "0972C1BAFC0BC6A6E9AA68A0347A93B36D0702ECC080E1BB632941BD9341C109",
         "sourceContext": {
           "Source MSD SHA256": "01890CEFA7C523236B278DCAC4C9B0D1412DC524804469DDF05D2083BE87C3F1",
@@ -90,7 +90,7 @@
         }
       },
       "$en_glfury1_0011": {
-        "Target": "{X58Y10}{Char Squall}{Line}«Я не устану это повторять – просто{Line} прикажи, и мы сделаем это».{End}",
+        "Target": "{X58Y10}{Char Squall}{Line}Я не устану это повторять – просто{Line} прикажи, и мы сделаем это.{End}",
         "Source Text SHA256": "EB769F2F51EAB6A61491B2A8CD1A1E196D302621303B16D4F7D4CA291FB34EE8",
         "sourceContext": {
           "Source MSD SHA256": "01890CEFA7C523236B278DCAC4C9B0D1412DC524804469DDF05D2083BE87C3F1",
@@ -98,7 +98,7 @@
         }
       },
       "$en_glfury1_0012": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«Ладно. Спасибо».{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}Ладно. Спасибо.{End}",
         "Source Text SHA256": "17AC6D62F2744C220DF1423B602E573A88FE8FFDA03C61666EAA59C5DE7939DB",
         "sourceContext": {
           "Source MSD SHA256": "01890CEFA7C523236B278DCAC4C9B0D1412DC524804469DDF05D2083BE87C3F1",
@@ -106,7 +106,7 @@
         }
       },
       "$en_glfury1_0013": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Если нам придётся открыто напасть на волшебницу, я{Line} пойду первым и попытаюсь выиграть немного времени».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Если нам придётся открыто напасть на волшебницу, я{Line} пойду первым и попытаюсь выиграть немного времени.{End}",
         "Source Text SHA256": "40DC04AAC1F1DAC2C639337D6FA28387A5E457F7102EC90DBCAC538287819C8B",
         "sourceContext": {
           "Source MSD SHA256": "01890CEFA7C523236B278DCAC4C9B0D1412DC524804469DDF05D2083BE87C3F1",
@@ -114,7 +114,7 @@
         }
       },
       "$en_glfury1_0014": {
-        "Target": "{X121Y10}{Char Irvine}{Line}«Это не понадобится...{Line} Я не промахнусь».{End}",
+        "Target": "{X121Y10}{Char Irvine}{Line}Это не понадобится...{Line} Я не промахнусь.{End}",
         "Source Text SHA256": "6180E4FBF18F01C9FD0E0D3D8D1435B253D11225AC6A8AE881144EB83C4FB3A2",
         "sourceContext": {
           "Source MSD SHA256": "01890CEFA7C523236B278DCAC4C9B0D1412DC524804469DDF05D2083BE87C3F1",
@@ -122,7 +122,7 @@
         }
       },
       "$en_glfury1_0015": {
-        "Target": "{X10Y144}Генерал Карвэй{Line}«Я уверен вам уже{Line} известно о том, что правительство Гальбадии достигло{Line} взаимного согласия с Волшебницей Эдеей».{End}",
+        "Target": "{X10Y144}Генерал Карвэй{Line}Я уверен вам уже{Line} известно о том, что правительство Гальбадии достигло{Line} взаимного согласия с Волшебницей Эдеей.{End}",
         "Source Text SHA256": "71F2354F0FDD4F108E1AABE0DC9CBA489624E9A9FA4A980E60C719ACA4D9E16D",
         "sourceContext": {
           "Source MSD SHA256": "01890CEFA7C523236B278DCAC4C9B0D1412DC524804469DDF05D2083BE87C3F1",
@@ -138,7 +138,7 @@
         }
       },
       "$en_glfury1_0017": {
-        "Target": "{X10Y40}Генерал Карвэй{Line}«В честь этого события сегодня ночью{Line} будет проведена церемония празднования».{End}",
+        "Target": "{X10Y40}Генерал Карвэй{Line}В честь этого события сегодня ночью{Line} будет проведена церемония празднования.{End}",
         "Source Text SHA256": "F9E2CC8436493E897904A96AD9CCEC0964E510934B17B659614FB3F11ED79D39",
         "sourceContext": {
           "Source MSD SHA256": "01890CEFA7C523236B278DCAC4C9B0D1412DC524804469DDF05D2083BE87C3F1",

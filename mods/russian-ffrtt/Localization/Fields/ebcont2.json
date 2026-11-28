@@ -10,7 +10,7 @@
         }
       },
       "$en_ebcont2_0001": {
-        "Target": "{X61Y8}{Char Seifer}{Line}«Э, э... Вы че, народ?»{End}",
+        "Target": "{X61Y8}{Char Seifer}{Line}Э, э... Вы че, народ?{End}",
         "Source Text SHA256": "E26F59A24169C1CF3E3B4F2C39C77611A75E12FA4AE59BA5342DDAEB38E6276F",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ebcont2_0002": {
-        "Target": "{X160Y8}Райдзин{Line}«Сейфер, мы уходим, понимаешь? Мы{Line} больше не знаем, что правильно, понимаешь...»{End}",
+        "Target": "{X160Y8}Райдзин{Line}Сейфер, мы уходим, понимаешь? Мы{Line} больше не знаем, что правильно, понимаешь...{End}",
         "Source Text SHA256": "6A0596FF758C3FCDF640E3F07C0C4AD4A86397D8D1A26CCC1D43C792821244FC",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ebcont2_0003": {
-        "Target": "{X63Y8}{Char Seifer}{Line}«Точь-в-точь, как я и предполагал. А{Line} я-то думал, что мы - команда».{End}",
+        "Target": "{X63Y8}{Char Seifer}{Line}Точь-в-точь, как я и предполагал. А{Line} я-то думал, что мы - команда.{End}",
         "Source Text SHA256": "D4E9BC17662E921C14F28C5BCA0D15F7BB46895F93E1D201BA324E89A86AC1CD",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ebcont2_0004": {
-        "Target": "{X200Y220}Фудзин{Line}«КОМАНДА...»{End}",
+        "Target": "{X200Y220}Фудзин{Line}КОМАНДА...{End}",
         "Source Text SHA256": "37C30B68BF5E5C65217AF4CB8E4B695691BC840184E0D3C6BA822808039A57CF",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ebcont2_0005": {
-        "Target": "{X8Y8}Фудзин{Line}«Мы и{Line} есть команда. И всегда ей будем».{End}",
+        "Target": "{X8Y8}Фудзин{Line}Мы и{Line} есть команда. И всегда ей будем.{End}",
         "Source Text SHA256": "B70CFC9A2ABADEE854987398587C5C3AB19FC8F29EE414C864722490E7E3F476",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ebcont2_0006": {
-        "Target": "{X8Y8}Фудзин{Line}«Именно поэтому мы и хотим{Line} тебе помочь.{Next}Мы пойдём на всё, ради того, чтобы твоя{Line} мечта исполнилась, чего бы это ни стоило».{End}",
+        "Target": "{X8Y8}Фудзин{Line}Именно поэтому мы и хотим{Line} тебе помочь.{Next}Мы пойдём на всё, ради того, чтобы твоя{Line} мечта исполнилась, чего бы это ни стоило.{End}",
         "Source Text SHA256": "02F76F888AE1C9AE7A10C7CE9FCE25C2D386D81B5EC81C597E249B52805077BC",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ebcont2_0007": {
-        "Target": "{X8Y8}Фудзин{Line}{Line} «Но... Сейфер, тобой манипулируют.{Next}Ты потерял себя и свою мечту.{Line} Ты стал как ручной пес».{End}",
+        "Target": "{X8Y8}Фудзин{Line}{Line} Но... Сейфер, тобой манипулируют.{Next}Ты потерял себя и свою мечту.{Line} Ты стал как ручной пес.{End}",
         "Source Text SHA256": "9B0DB9B9FFC14B34FADDC21FA0AB8198207AA4A89A25401D2AFFB5D86E513DA2",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ebcont2_0008": {
-        "Target": "{X8Y8}Фудзин{Line}«Мы хотим вернуть прежнего тебя!{Next}А поскольку мы не можем к тебе достучаться, нам остаётся лишь довериться {Char Squall}у!!»{End}",
+        "Target": "{X8Y8}Фудзин{Line}Мы хотим вернуть прежнего тебя!{Next}А поскольку мы не можем к тебе достучаться, нам остаётся лишь довериться {Char Squall}у!!{End}",
         "Source Text SHA256": "C7725F79F4E1B86B83B3254F144BAE07F9ECB70A25D377A2DACD53A2FFCC6ED9",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ebcont2_0009": {
-        "Target": "{X8Y8}Фудзин{Line}«Это печально... Печально, что{Line}{Char Squall} - единственный, на кого можно положиться...»{End}",
+        "Target": "{X8Y8}Фудзин{Line}Это печально... Печально, что{Line}{Char Squall} - единственный, на кого можно положиться...{End}",
         "Source Text SHA256": "793779937ED2D92EF9BBFA35A0571AD6C775474B4A7F579755A78E93BBE721C2",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ebcont2_0010": {
-        "Target": "{X8Y8}Фудзин{Line}«Сейфер!{Line} Ты так и будешь продолжать?»{End}",
+        "Target": "{X8Y8}Фудзин{Line}Сейфер!{Line} Ты так и будешь продолжать?{End}",
         "Source Text SHA256": "617C2A5C8E6140840F88099C78B183B6F4715DDAAE9BB8046A18ECABF1EAAC4C",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ebcont2_0011": {
-        "Target": "{X59Y8}{Char Seifer}{Line}«Райдзин, Фудзин! С вами было весело!»{End}",
+        "Target": "{X59Y8}{Char Seifer}{Line}Райдзин, Фудзин! С вами было весело!{End}",
         "Source Text SHA256": "E35A98D7A4D2C8194B999A205D6304F54B25AEAD46CA1E97AEC6437A56E6E3F8",
         "sourceContext": {
           "Source MSD SHA256": "6CE3DEDBF0F936B61CAD81047BD43838846C30B4A2A21235C42624EEB0D04B6F",

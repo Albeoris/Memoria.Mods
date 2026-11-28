@@ -10,7 +10,7 @@
         }
       },
       "$en_bgroad_1_0001": {
-        "Target": "{X140Y8}Преподаватель Сада{Line}«В чём дело?! Почему вы{Line} до сих пор не взяли этот сектор?!»{End}",
+        "Target": "{X140Y8}Преподаватель Сада{Line}В чём дело?! Почему вы{Line} до сих пор не взяли этот сектор?!{End}",
         "Source Text SHA256": "38AA7B290EFB4193B76395F75CD69917CB701F66A04E3F7A24AC5783D9655F82",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bgroad_1_0002": {
-        "Target": "Преподаватель Сада{Line}«Похоже, у Сида{Line} есть неплохие пешки».{End}",
+        "Target": "Преподаватель Сада{Line}Похоже, у Сида{Line} есть неплохие пешки.{End}",
         "Source Text SHA256": "A4DEAC62AE36DA6C48CD7BF6D5163ED3220415C04C0570A6065B9627024784B4",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgroad_1_0005": {
-        "Target": "{X160Y30}{Char Squall}{Line}«Прочь с дороги.{Line} Мы на стороне директора».{End}",
+        "Target": "{X160Y30}{Char Squall}{Line}Прочь с дороги.{Line} Мы на стороне директора.{End}",
         "Source Text SHA256": "5D4C981C5B4A0614AC50CE5243DFF3EED07DC6DB633C2269A87079E11E6D0508",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bgroad_1_0006": {
-        "Target": "{X140Y8}Преподаватель Сада{Line}«Ещё один сторонник Сида?! УМРИ!»{End}",
+        "Target": "{X140Y8}Преподаватель Сада{Line}Ещё один сторонник Сида?! УМРИ!{End}",
         "Source Text SHA256": "08EF6C843CCAC23D06BF6E3710B3CE75486A8A90754CE11F8446D84EA46F2027",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgroad_1_0007": {
-        "Target": "{X300Y40}«Хм... Может, я должен был...{Line} Что я сделал не так?..»",
+        "Target": "{X300Y40}Хм... Может, я должен был...{Line} Что я сделал не так?..",
         "Source Text SHA256": "0EAD1DB0C45D3931FA8B735E35FDB5C0D6476A631952FBD140A545A6D1F3C584",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgroad_1_0008": {
-        "Target": "{X300Y40}«Если бы я тогда...{Line} Эх... Теперь уже поздно...»",
+        "Target": "{X300Y40}Если бы я тогда...{Line} Эх... Теперь уже поздно...",
         "Source Text SHA256": "AFABF6A5530528774AB1BDBB1342C220CA34ADFAC00BBDB97897A82548ECA2DD",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgroad_1_0009": {
-        "Target": "{X300Y40}«Почему?..{Line} Как это случилось?..»",
+        "Target": "{X300Y40}Почему?..{Line} Как это случилось?..",
         "Source Text SHA256": "121C86317BD09C482602937F3E68ED86964531C98D529745767B84BC08F7C009",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgroad_1_0010": {
-        "Target": "{X89Y8}«Поели, теперь можно и поспа... за учёбу!»",
+        "Target": "{X89Y8}Поели, теперь можно и поспа... за учёбу!",
         "Source Text SHA256": "5C2D46E8F98DB0BCCCFD04283D3EA668E2008EFDC80CB9EC802F3C3702396933",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgroad_1_0011": {
-        "Target": "{X11Y8}«Кое-что с годами теряет смысл.{Line} Нужно пользоваться моментом,{Line} пока ещё молодой! Вот, например, учёба...{Line} Нужно изучить своё сердце...»",
+        "Target": "{X11Y8}Кое-что с годами теряет смысл.{Line} Нужно пользоваться моментом,{Line} пока ещё молодой! Вот, например, учёба...{Line} Нужно изучить своё сердце...",
         "Source Text SHA256": "B7454FCD2AC888633C4480257754C21ED8171FF0777FB4C6B60BD3D4862C9208",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgroad_1_0012": {
-        "Target": "{X45Y8}«Я не очень силён, приходится{Line} компенсировать это учёбой».",
+        "Target": "{X45Y8}Я не очень силён, приходится{Line} компенсировать это учёбой.",
         "Source Text SHA256": "DAFBCF54E5B0E408F9A4769110136262B1E13DADAAD90C27C2350B3C05A0622F",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bgroad_1_0013": {
-        "Target": "{X45Y8}«Эх... Может, повременить с диетой...»",
+        "Target": "{X45Y8}Эх... Может, повременить с диетой...",
         "Source Text SHA256": "FD75FDF0CCBC3356626EB1E39411775459690B3C7B573BFEE30230BDB6D68FE0",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bgroad_1_0014": {
-        "Target": "{X44Y8}«Вот скажи, почему у них нет{Line} диетических плюшек?!»",
+        "Target": "{X44Y8}Вот скажи, почему у них нет{Line} диетических плюшек?!",
         "Source Text SHA256": "8A1BE1646ABA3462C41E61A6A4B462988DD353AFA963274A03D6DFEF259B6E7A",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bgroad_1_0015": {
-        "Target": "{X32Y8}«Столько увлеченных людей вокруг...{Line} Это лучший мотиватор!»",
+        "Target": "{X32Y8}Столько увлеченных людей вокруг...{Line} Это лучший мотиватор!",
         "Source Text SHA256": "5E3CAA57DE4888338585F2EAE0ABB7F9345D30B64DA0507C874B9F35F47D180D",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bgroad_1_0016": {
-        "Target": "{X81Y8}«Есть, есть, ЕСТЬ ХОЧУ!»",
+        "Target": "{X81Y8}Есть, есть, ЕСТЬ ХОЧУ!",
         "Source Text SHA256": "76B5180D7611631F3B19E27A42B584CCF0B425831D48F035F5EBE747B04ABF0D",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bgroad_1_0017": {
-        "Target": "{X48Y8}«Я должен хорошо питаться, чтобы{Line} вырасти большим и сильным сидом!»",
+        "Target": "{X48Y8}Я должен хорошо питаться, чтобы{Line} вырасти большим и сильным сидом!",
         "Source Text SHA256": "EBAFEE81166654A79368CEFE62B1F04A3E51177B5E43300AC243EAAAA3E7DC68",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bgroad_1_0018": {
-        "Target": "{X28Y8}«Вначале едят, потом сидят и бездельничают...{Line} Нет уж, как-нибудь без меня!..»",
+        "Target": "{X28Y8}Вначале едят, потом сидят и бездельничают...{Line} Нет уж, как-нибудь без меня!..",
         "Source Text SHA256": "5DE5B4B850919BF48C12F06F4D926BBBFA9CC090FBDEBBFF5CEA9650BDA3E8B0",
         "sourceContext": {
           "Source MSD SHA256": "1D4730259486E1C1C4365D66587943C329CEBF5A4B492387DBF7722F7B183124",

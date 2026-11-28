@@ -2,7 +2,7 @@
   "Fields": {
     "titrain1": {
       "$en_titrain1_0000": {
-        "Target": "{X20Y150}Гальбадианский солдат{Line}«Докладываю обстановку.{Line}Обстановка в полном порядке!»",
+        "Target": "{X20Y150}Гальбадианский солдат{Line}Докладываю обстановку.{Line}Обстановка в полном порядке!",
         "Source Text SHA256": "8A55B3F5D891C2BC084C085632614764C01D04D20CFDB50D182046CE9626187F",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -10,7 +10,7 @@
         }
       },
       "$en_titrain1_0001": {
-        "Target": "{X20Y140}Президент Делинг{Line}«Попугай пожаловал. {Line}Знаешь в который раз?»",
+        "Target": "{X20Y140}Президент Делинг{Line}Попугай пожаловал. {Line}Знаешь в который раз?",
         "Source Text SHA256": "254D9C6AE408393FAA5BAD81B91A0614BF96378B30A627486E65128B2D53C3B8",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -18,7 +18,7 @@
         }
       },
       "$en_titrain1_0002": {
-        "Target": "{X20Y140}Президент Делинг{Line}«27-ой. 27-ой раз одно и то же.{Line}Не надоело?»",
+        "Target": "{X20Y140}Президент Делинг{Line}27-ой. 27-ой раз одно и то же.{Line}Не надоело?",
         "Source Text SHA256": "3DC9CFA16619ECA742EFDDC5223E86552E85466B385644CB370BB9A84F63F84D",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -26,7 +26,7 @@
         }
       },
       "$en_titrain1_0003": {
-        "Target": "{X20Y150}Гальбадианский солдат{Line}«Прошу прощения, господин президент.{Line} ...Но докладывать обстановку - часть {Line} моей работы. Нравится мне это или нет».",
+        "Target": "{X20Y150}Гальбадианский солдат{Line}Прошу прощения, господин президент.{Line} ...Но докладывать обстановку - часть {Line} моей работы. Нравится мне это или нет.",
         "Source Text SHA256": "36ED47C6BEEDF7A419095327D914324C8140A6ACF3940CA5FC7963F9BD2DB59E",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -34,7 +34,7 @@
         }
       },
       "$en_titrain1_0004": {
-        "Target": "{X20Y140}Президент Делинг{Line}«......{Pause 80}{Line} В следующий раз я зачитаю тебе абзац {Line} из моего прошлого выступления. И в {Line} следующий раз тоже. Тот же самый».{Next}«Иди подумай. Тебе полезно».",
+        "Target": "{X20Y140}Президент Делинг{Line}......{Pause 80}{Line} В следующий раз я зачитаю тебе абзац {Line} из моего прошлого выступления. И в {Line} следующий раз тоже. Тот же самый.{Next}Иди подумай. Тебе полезно.",
         "Source Text SHA256": "ACF241DCB369514235B8A6991B6800BC4F25B789410BF55A6AADF4A4F33D47F2",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -42,7 +42,7 @@
         }
       },
       "$en_titrain1_0005": {
-        "Target": "{X20Y150}Гальбадианский солдат{Line}«Как скажете, господин президент».",
+        "Target": "{X20Y150}Гальбадианский солдат{Line}Как скажете, господин президент.",
         "Source Text SHA256": "93817CADC0F134F6655829457FD99287A9EA427DCFE9D57BE7640ED822ACA60C",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -66,7 +66,7 @@
         }
       },
       "$en_titrain1_0008": {
-        "Target": "{X20Y150}Гальбадианский солдат{Line}«Докладываю обстановку.{Pause 80} {Line} ...Обстановка в порядке».",
+        "Target": "{X20Y150}Гальбадианский солдат{Line}Докладываю обстановку.{Pause 80} {Line} ...Обстановка в порядке.",
         "Source Text SHA256": "536BB847583819A327DD2889392DDB12DC368610368A0A7C2AC921BACDAB2C64",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -82,7 +82,7 @@
         }
       },
       "$en_titrain1_0010": {
-        "Target": "{X150Y15}Гальбадианский офицер{Line}«Что это было?!{Line} Рядовой, ты слышал что-нибудь?!{Line} Есть проблемы?»",
+        "Target": "{X150Y15}Гальбадианский офицер{Line}Что это было?!{Line} Рядовой, ты слышал что-нибудь?!{Line} Есть проблемы?",
         "Source Text SHA256": "991783325B25199CEA9C9ABE3B4F4E5D122C1BEF04542CDA79EA0B23007918A4",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -90,7 +90,7 @@
         }
       },
       "$en_titrain1_0011": {
-        "Target": "{X20Y140}Макет президента{Line}«У меня плохое настроение. Если {Line} нет ничего важного, приказываю {Line} убраться немедленно».",
+        "Target": "{X20Y140}Макет президента{Line}У меня плохое настроение. Если {Line} нет ничего важного, приказываю {Line} убраться немедленно.",
         "Source Text SHA256": "51698A10F0D12127EA9BE72C94064568744B7CCAADA310D9115AFA5B23A06BDC",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -98,7 +98,7 @@
         }
       },
       "$en_titrain1_0012": {
-        "Target": "{X150Y15}Гальбадианский офицер{Line}«Есть! Есть убраться немедленно!»",
+        "Target": "{X150Y15}Гальбадианский офицер{Line}Есть! Есть убраться немедленно!",
         "Source Text SHA256": "E76A0C93CF1C3F8327712956BA0D043D01D53198BDE2A808F1A9BE50C26DAE38",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -106,7 +106,7 @@
         }
       },
       "$en_titrain1_0013": {
-        "Target": "{X150Y15}Гальбадианский офицер{Line}«Рядовой! Вон отсюда!{Line} Пошёл на своё место!»",
+        "Target": "{X150Y15}Гальбадианский офицер{Line}Рядовой! Вон отсюда!{Line} Пошёл на своё место!",
         "Source Text SHA256": "B51697588EBE40881B75F0239941043FA3F9831035A78E22F87A8FAAB384C47F",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -114,7 +114,7 @@
         }
       },
       "$en_titrain1_0014": {
-        "Target": "{X20Y150}Солдат {Line}«Есть!»",
+        "Target": "{X20Y150}Солдат {Line}Есть!",
         "Source Text SHA256": "8F2AEF4F40729A073826461C4BD1A6FA858ACEC717C5CF338A9869CDC5E7AF82",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -138,7 +138,7 @@
         }
       },
       "$en_titrain1_0017": {
-        "Target": "{X150Y15}Гальбадианский офицер{Line}«К-к-какого чёрта!?{Line} Это что другой поезд?»",
+        "Target": "{X150Y15}Гальбадианский офицер{Line}К-к-какого чёрта!?{Line} Это что другой поезд?",
         "Source Text SHA256": "CF673F7B1643646159601703EAFB278281477B24C88AF0C9211FE1E1F318BE78",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -154,7 +154,7 @@
         }
       },
       "$en_titrain1_0019": {
-        "Target": "{X150Y20}{Char Rinoa}{Line}«...Президент Делинг!»{Next}«...Если Вы не будете сопротивляться,{Line} мы не причиним Вам вреда...»",
+        "Target": "{X150Y20}{Char Rinoa}{Line}...Президент Делинг!{Next}...Если Вы не будете сопротивляться,{Line} мы не причиним Вам вреда...",
         "Source Text SHA256": "BD1B4B208513FA97EB91CAB959DEB37E7033601CD7B22C90902958FC4D628EB9",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -162,7 +162,7 @@
         }
       },
       "$en_titrain1_0020": {
-        "Target": "{X20Y150}Президент Делинг{Line}«А если я буду сопротивляться?..{Line} Что Вы сделаете?..{Pause 96}  Юная{Pause 80} леди?»",
+        "Target": "{X20Y150}Президент Делинг{Line}А если я буду сопротивляться?..{Line} Что Вы сделаете?..{Pause 96}  Юная{Pause 80} леди?",
         "Source Text SHA256": "F06944EA3B1A0E3474C62B0207931BF0FB916457B5BBE30FDF0E4E5D5B88D10B",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -170,7 +170,7 @@
         }
       },
       "$en_titrain1_0021": {
-        "Target": "{X150Y20}{Char Rinoa}{Line}«!!!»{End}",
+        "Target": "{X150Y20}{Char Rinoa}{Line}!!!{End}",
         "Source Text SHA256": "313266C6ACDD54C878D4A34E6CC6F3E6CCAAD909C735942CE0ACEA992A7ADA2C",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -178,7 +178,7 @@
         }
       },
       "$en_titrain1_0022": {
-        "Target": "{X150Y20}{Char Squall}{Line}«Что не так?»",
+        "Target": "{X150Y20}{Char Squall}{Line}Что не так?",
         "Source Text SHA256": "5FF510F8880151F7CE6438D2299EA455E1DE160EEE29C775E40A3A791F99AF5A",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -186,7 +186,7 @@
         }
       },
       "$en_titrain1_0023": {
-        "Target": "{X20Y150}Президент Делинг{Line}«Хы-хны... Вам не повезло...»{Next}«Я не настоящий президент.{Line} Я то, что они называют... двойник тела».",
+        "Target": "{X20Y150}Президент Делинг{Line}Хы-хны... Вам не повезло...{Next}Я не настоящий президент.{Line} Я то, что они называют... двойник тела.",
         "Source Text SHA256": "14B25800453B0CA34DA021F7376F4E46DA2AB880E9BDF396DFF234943BBDE198",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -194,7 +194,7 @@
         }
       },
       "$en_titrain1_0024": {
-        "Target": "{X20Y150}Двойник президента{Line}«Вы что правда думаете, что президент{Line}прибыл бы с визитом без дополнительной {Line}охраны? При том, что в городе полно {Line}антиправительственных организаций?...»{Next}«Им стоило только пустить слух об этом {Line}маршруте, и вы клюнули.{Line} ...Жалкие повстанцы...{Line} Как видно, среди вас одни дилетанты».",
+        "Target": "{X20Y150}Двойник президента{Line}Вы что правда думаете, что президент{Line}прибыл бы с визитом без дополнительной {Line}охраны? При том, что в городе полно {Line}антиправительственных организаций?...{Next}Им стоило только пустить слух об этом {Line}маршруте, и вы клюнули.{Line} ...Жалкие повстанцы...{Line} Как видно, среди вас одни дилетанты.",
         "Source Text SHA256": "07385F7128F1A3CD5B25E95D27274CDE693DAE5CE00FFB097D4B4FEA86EA39DE",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -202,7 +202,7 @@
         }
       },
       "$en_titrain1_0025": {
-        "Target": "{X20Y20}{Char Rinoa}{Line}«Ди-ле{Pause 96}-танты?!..»",
+        "Target": "{X20Y20}{Char Rinoa}{Line}Ди-ле{Pause 96}-танты?!..",
         "Source Text SHA256": "8FD5DB0C7E00FC02E928FE599820ECC314DE7E8903E619D16B52702872B5022D",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -210,7 +210,7 @@
         }
       },
       "$en_titrain1_0026": {
-        "Target": "{X20Y150}Двойник президента{Line}«А-а-а... Я тут задницу отсидел...{Line} Юная...{Pause 96}леди...»",
+        "Target": "{X20Y150}Двойник президента{Line}А-а-а... Я тут задницу отсидел...{Line} Юная...{Pause 96}леди...",
         "Source Text SHA256": "21D9147E323B8E15B074B5E6F3FECCA765883D1B6C08E8559E2D85763F9AFAF2",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -218,7 +218,7 @@
         }
       },
       "$en_titrain1_0027": {
-        "Target": "{X20Y150}Двойник президента{Line}«..так что вы приготовили на тот случАЙ,{Line} если я БУду сопрОтивЛЯться?..»{Next}«Ну ЖЕ, скаЖИте...»",
+        "Target": "{X20Y150}Двойник президента{Line}..так что вы приготовили на тот случАЙ,{Line} если я БУду сопрОтивЛЯться?..{Next}Ну ЖЕ, скаЖИте...",
         "Source Text SHA256": "035ACD80A20DD05635978CC9423DF23C4667CD5F4800F1404B1BCA54A751A126",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",
@@ -226,7 +226,7 @@
         }
       },
       "$en_titrain1_0028": {
-        "Target": "{X20Y150}Двойник президента{Line}«..И всё же вы такие забавные {Line}дилетанты. Жаль вас, конечно. {Line}Но вы напали на президента, и{Line}я вас уничтожу!»",
+        "Target": "{X20Y150}Двойник президента{Line}..И всё же вы такие забавные {Line}дилетанты. Жаль вас, конечно. {Line}Но вы напали на президента, и{Line}я вас уничтожу!",
         "Source Text SHA256": "6C0B17A7A3796F26F5A9F93A168ED207FDCA45E84AE168D91E2331B2EFF1A203",
         "sourceContext": {
           "Source MSD SHA256": "FDBE7781DD4213DBD617E7A0E85663508F4FC1AF5765E3707DC701BBFCD90813",

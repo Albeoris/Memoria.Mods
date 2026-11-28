@@ -26,7 +26,7 @@
         }
       },
       "$en_test11_0003": {
-        "Target": "{Char Squall}: «А? О чём ты?»",
+        "Target": "{Char Squall}: А? О чём ты?",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "8418A028A2EB6EBCEEC2CEF6E351382F9A6A432EF10A8E31866CAA245D932E0D",
@@ -34,7 +34,7 @@
         }
       },
       "$en_test11_0004": {
-        "Target": "{Char Rinoa}{Line}«Скволл, разве ты не знаешь?{Line}Тут появилось что-то мягкое и упругое!»{End}",
+        "Target": "{Char Rinoa}{Line}Скволл, разве ты не знаешь?{Line}Тут появилось что-то мягкое и упругое!{End}",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "8418A028A2EB6EBCEEC2CEF6E351382F9A6A432EF10A8E31866CAA245D932E0D",
@@ -50,7 +50,7 @@
         }
       },
       "$en_test11_0006": {
-        "Target": "{Char Zell}: «Ну до чего же странный. Не могу устоять перед этой мягкостью».",
+        "Target": "{Char Zell}: Ну до чего же странный. Не могу устоять перед этой мягкостью.",
         "Source Text SHA256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
         "sourceContext": {
           "Source MSD SHA256": "8418A028A2EB6EBCEEC2CEF6E351382F9A6A432EF10A8E31866CAA245D932E0D",
@@ -58,7 +58,7 @@
         }
       },
       "$en_test11_0007": {
-        "Target": "Риноа{Line}«Чтобы расслабиться,{Line}лучше и не придумаешь!»{End}",
+        "Target": "Риноа{Line}Чтобы расслабиться,{Line}лучше и не придумаешь!{End}",
         "Source Text SHA256": "30D696B6C092C46C710DD9B41EC1AE678B2045D03E20A8CDF6A55EE0BF1D8D36",
         "sourceContext": {
           "Source MSD SHA256": "8418A028A2EB6EBCEEC2CEF6E351382F9A6A432EF10A8E31866CAA245D932E0D",
@@ -66,7 +66,7 @@
         }
       },
       "$en_test11_0008": {
-        "Target": "Зелл{Line}«И эти круглые глазки{Line}тоже такие милые!»{End}",
+        "Target": "Зелл{Line}И эти круглые глазки{Line}тоже такие милые!{End}",
         "Source Text SHA256": "D9701CC362129B216E2B463E9F42078AB65CB105242E765E50305032EB1D9D3D",
         "sourceContext": {
           "Source MSD SHA256": "8418A028A2EB6EBCEEC2CEF6E351382F9A6A432EF10A8E31866CAA245D932E0D",
@@ -82,7 +82,7 @@
         }
       },
       "$en_test11_0010": {
-        "Target": "Риноа и Зелл{Line}«Да-а-а!{Line}Это же озвучка!»{End}",
+        "Target": "Риноа и Зелл{Line}Да-а-а!{Line}Это же озвучка!{End}",
         "Source Text SHA256": "E1D3D1F6D35260D03E54A73D6AEA8784449AD8A8F53D7747744193BE76A35554",
         "sourceContext": {
           "Source MSD SHA256": "8418A028A2EB6EBCEEC2CEF6E351382F9A6A432EF10A8E31866CAA245D932E0D",
@@ -146,7 +146,7 @@
         }
       },
       "$en_test11_0018": {
-        "Target": "«У тебя спина{Line}в саже-е-е!»{End}",
+        "Target": "У тебя спина{Line}в саже-е-е!{End}",
         "Source Text SHA256": "5E024E816FC3B9324D30F2EEA47E0C8E84C89ECEC48E6B92053D43A089A783B2",
         "sourceContext": {
           "Source MSD SHA256": "8418A028A2EB6EBCEEC2CEF6E351382F9A6A432EF10A8E31866CAA245D932E0D",

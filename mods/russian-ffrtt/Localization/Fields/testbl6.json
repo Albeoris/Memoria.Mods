@@ -26,7 +26,7 @@
         }
       },
       "$en_testbl6_0003": {
-        "Target": "{X50Y90}«Сильны вы, смертные!{Line} Дарую вам свою силу».{Next}«Призовите меня{Line} в трудный час...»{End}",
+        "Target": "{X50Y90}Сильны вы, смертные!{Line} Дарую вам свою силу.{Next}Призовите меня{Line} в трудный час...{End}",
         "Source Text SHA256": "0889731BD222BD1A2CBB219F8FD50042C661429BCFEFEDE468BAEB92443B5BD7",
         "sourceContext": {
           "Source MSD SHA256": "2494469B69DA2406FC924099FCF6C062E658C807BB18D5E301B26E5BDA6EBB44",
@@ -34,7 +34,7 @@
         }
       },
       "$en_testbl6_0004": {
-        "Target": "{X31Y100}«Небеса предрешили судьбу твою.{Line} ПАДИ ОТ МОЕГО МЕЧА!»{End}",
+        "Target": "{X31Y100}Небеса предрешили судьбу твою.{Line} ПАДИ ОТ МОЕГО МЕЧА!{End}",
         "Source Text SHA256": "3A5FC91BAEC2F8CB31E62DE7FDD85008BD57CE17FB405285675D1FCD6822B3F6",
         "sourceContext": {
           "Source MSD SHA256": "2494469B69DA2406FC924099FCF6C062E658C807BB18D5E301B26E5BDA6EBB44",
@@ -98,7 +98,7 @@
         }
       },
       "$en_testbl6_0012": {
-        "Target": "«Какую печать снять?»{Line}{Color Grey}[Предметы]{Line}[Магия]{Line}[GF]{Line}[Вытягивание]{Line}[Командная способность]{Line}[Предел]{Line}[Воскрешение]{Line}[Сохранение]{End}",
+        "Target": "Какую печать снять?{Line}{Color Grey}[Предметы]{Line}[Магия]{Line}[GF]{Line}[Вытягивание]{Line}[Командная способность]{Line}[Предел]{Line}[Воскрешение]{Line}[Сохранение]{End}",
         "Source Text SHA256": "F8CB60EFCA8B430A629B7D687361B7DABA5D07615C4950BC5853DF787A9959C7",
         "sourceContext": {
           "Source MSD SHA256": "2494469B69DA2406FC924099FCF6C062E658C807BB18D5E301B26E5BDA6EBB44",

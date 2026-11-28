@@ -2,7 +2,7 @@
   "Fields": {
     "dogate_1": {
       "$en_dogate_1_0000": {
-        "Target": "{X150Y20}«Ну, и где же все враги?»",
+        "Target": "{X150Y20}Ну, и где же все враги?",
         "Source Text SHA256": "88196131215BABDE9A5166DD708A6149FB487A1EA771E96D8D7AD468B472655E",
         "sourceContext": {
           "Source MSD SHA256": "4FA7D9D058C347B7FABF8C312B8A26622655B3238CBA912BBF2532971F9DB66E",
@@ -10,7 +10,7 @@
         }
       },
       "$en_dogate_1_0001": {
-        "Target": "{X150Y150}«Эту территорию контролирует{Line} отряд „Альфа“. Не отвлекайтесь{Line} от своей задачи».",
+        "Target": "{X150Y150}Эту территорию контролирует{Line} отряд „Альфа“. Не отвлекайтесь{Line} от своей задачи.",
         "Source Text SHA256": "2D3FF85165135C02FE3E66264993F505CF0596C27083DBE4644FB9F815A060BD",
         "sourceContext": {
           "Source MSD SHA256": "4FA7D9D058C347B7FABF8C312B8A26622655B3238CBA912BBF2532971F9DB66E",
@@ -18,7 +18,7 @@
         }
       },
       "$en_dogate_1_0002": {
-        "Target": "{X150Y150}«Эй, никаких посторонних разговоров!{Line} Не хочу, чтобы с меня сняли баллы!»",
+        "Target": "{X150Y150}Эй, никаких посторонних разговоров!{Line} Не хочу, чтобы с меня сняли баллы!",
         "Source Text SHA256": "A67FB3049168937DCF768D0EDEE95590E7D0B2643A965E24D2AC135497D75005",
         "sourceContext": {
           "Source MSD SHA256": "4FA7D9D058C347B7FABF8C312B8A26622655B3238CBA912BBF2532971F9DB66E",
@@ -26,7 +26,7 @@
         }
       },
       "$en_dogate_1_0003": {
-        "Target": "{X150Y20}«А вот и враг...{Line} Чтож, мы не бойцы.{Line} Бои оставим вам».",
+        "Target": "{X150Y20}А вот и враг...{Line} Чтож, мы не бойцы.{Line} Бои оставим вам.",
         "Source Text SHA256": "73EA4480830076BAF1C40E30B1B2EDBD4CA31FEED4029091D8D31E6149DB28D9",
         "sourceContext": {
           "Source MSD SHA256": "4FA7D9D058C347B7FABF8C312B8A26622655B3238CBA912BBF2532971F9DB66E",
@@ -34,7 +34,7 @@
         }
       },
       "$en_dogate_1_0004": {
-        "Target": "{X150Y150}«Где-то здесь должен быть{Line} кабель информационной сети...»",
+        "Target": "{X150Y150}Где-то здесь должен быть{Line} кабель информационной сети...",
         "Source Text SHA256": "A03793A02C2033C392B7D57DA4D892E491D38DB0F99ED0070302091D5A01755E",
         "sourceContext": {
           "Source MSD SHA256": "4FA7D9D058C347B7FABF8C312B8A26622655B3238CBA912BBF2532971F9DB66E",
@@ -42,7 +42,7 @@
         }
       },
       "$en_dogate_1_0005": {
-        "Target": "{X150Y150}«Надо перехватить последнюю{Line} информацию из Инфосети!»{Next}«Мы должны сделать всё возможное{Line} без использования радиосвязи».",
+        "Target": "{X150Y150}Надо перехватить последнюю{Line} информацию из Инфосети!{Next}Мы должны сделать всё возможное{Line} без использования радиосвязи.",
         "Source Text SHA256": "CAC32B4791CE32BC3FF660A4542B21436A9DC3ABF88ED349B971EF3D7A0B6EF2",
         "sourceContext": {
           "Source MSD SHA256": "4FA7D9D058C347B7FABF8C312B8A26622655B3238CBA912BBF2532971F9DB66E",
@@ -50,7 +50,7 @@
         }
       },
       "$en_dogate_1_0006": {
-        "Target": "{X150Y150}«Нам приходится не только{Line} кулаками махать, но ещё{Line} и головой думать...»",
+        "Target": "{X150Y150}Нам приходится не только{Line} кулаками махать, но ещё{Line} и головой думать...",
         "Source Text SHA256": "2A9ECAD1EA8EFE2D4D41C3D272771033CC8682715CF57C1E4399564C3A78026B",
         "sourceContext": {
           "Source MSD SHA256": "4FA7D9D058C347B7FABF8C312B8A26622655B3238CBA912BBF2532971F9DB66E",
@@ -58,7 +58,7 @@
         }
       },
       "$en_dogate_1_0007": {
-        "Target": "{X20Y20}{Char Squall}{Line}«Наверное, скучно сидеть в тылу...»",
+        "Target": "{X20Y20}{Char Squall}{Line}Наверное, скучно сидеть в тылу...",
         "Source Text SHA256": "18CA4EA4EC54D757712F6EA179ECD0DC5DB5F5A7A17B58EB663CA705F1C8EFEA",
         "sourceContext": {
           "Source MSD SHA256": "4FA7D9D058C347B7FABF8C312B8A26622655B3238CBA912BBF2532971F9DB66E",
@@ -66,7 +66,7 @@
         }
       },
       "$en_dogate_1_0008": {
-        "Target": "{X150Y20}{Char Zell}{Line}«А мы станем героями на передовой!»{End}",
+        "Target": "{X150Y20}{Char Zell}{Line}А мы станем героями на передовой!{End}",
         "Source Text SHA256": "E21AB9C140B7D4802D1A7F1A6B1B75F3F458835A97B8997181FE400399F0E2DA",
         "sourceContext": {
           "Source MSD SHA256": "4FA7D9D058C347B7FABF8C312B8A26622655B3238CBA912BBF2532971F9DB66E",
@@ -74,7 +74,7 @@
         }
       },
       "$en_dogate_1_0009": {
-        "Target": "{X150Y150}«Да дадите вы мне поработать?!..{Line} Чёртовы остолопы. У вас есть{Line} задача? Вот и следуйте на свою точку!»",
+        "Target": "{X150Y150}Да дадите вы мне поработать?!..{Line} Чёртовы остолопы. У вас есть{Line} задача? Вот и следуйте на свою точку!",
         "Source Text SHA256": "BA42997A76F8E83889C8B858AD6B589A1D5610CE0B4E0C321A6675F442327D92",
         "sourceContext": {
           "Source MSD SHA256": "4FA7D9D058C347B7FABF8C312B8A26622655B3238CBA912BBF2532971F9DB66E",

@@ -19,7 +19,7 @@
         }
       },
       "$en_fhroof1_0002": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Директор разрешил впустить{Line}техников в Сад.{Line}Они сейчас внутри».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Директор разрешил впустить{Line}техников в Сад.{Line}Они сейчас внутри.{End}",
         "Source Text SHA256": "F1CF1E87E7B2DFBE471A998F2D4374A2B827D0ED476CF3A146F0D2F32BEB607B",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -27,7 +27,7 @@
         }
       },
       "$en_fhroof1_0003": {
-        "Target": "{X180Y30}{Char Squall}{Line}«Ясно».{End}",
+        "Target": "{X180Y30}{Char Squall}{Line}Ясно.{End}",
         "Source Text SHA256": "87562FDCE3EBAED8FCA3EE4A07F40144E8110FD74E5BAD1E77FA27F76BA33F2C",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -35,7 +35,7 @@
         }
       },
       "$en_fhroof1_0004": {
-        "Target": "{X250Y20}{Char Irvine}{Line}«Скажи...»{End}",
+        "Target": "{X250Y20}{Char Irvine}{Line}Скажи...{End}",
         "Source Text SHA256": "DF1453B73177E7C6886DC33D757DC1DB4FA08CEA31A173BF8365F39DF789BCB9",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -43,7 +43,7 @@
         }
       },
       "$en_fhroof1_0005": {
-        "Target": "{X130Y20}{Char Squall}{Line}«Да?»{End}",
+        "Target": "{X130Y20}{Char Squall}{Line}Да?{End}",
         "Source Text SHA256": "D78D0F76034E317C450A6807538D923EEF2E6460B1180DFAC9FDDF55C51FAB50",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -51,7 +51,7 @@
         }
       },
       "$en_fhroof1_0006": {
-        "Target": "{X400Y20}{Char Irvine}{Line}«Эм... Хотел спросить».{End}",
+        "Target": "{X400Y20}{Char Irvine}{Line}Эм... Хотел спросить.{End}",
         "Source Text SHA256": "BDEA8CDB4507B62BE352904C6E7456574407BC58CF53FD5F660057EA8D19461F",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -59,7 +59,7 @@
         }
       },
       "$en_fhroof1_0007": {
-        "Target": "{X400Y20}{Char Irvine}{Line}«Похоже, эти техники весьма умелы».{End}",
+        "Target": "{X400Y20}{Char Irvine}{Line}Похоже, эти техники весьма умелы.{End}",
         "Source Text SHA256": "42FEBDC5314A49A2D1094DC6DA5AF5949E199C11511FD555283557D0307D152C",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -67,7 +67,7 @@
         }
       },
       "$en_fhroof1_0008": {
-        "Target": "{X400Y10}{Char Irvine}{Line}«Ну это... будет ли нормально попросить{Line} их починить кое что ещё?»{End}",
+        "Target": "{X400Y10}{Char Irvine}{Line}Ну это... будет ли нормально попросить{Line} их починить кое что ещё?{End}",
         "Source Text SHA256": "23B54605CB0993D00E3D4AFA2DEADF4D3EADC14358C5DDA3D3DB64007EC18B63",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -99,7 +99,7 @@
         }
       },
       "$en_fhroof1_0010": {
-        "Target": "{X10Y0}{Char Squall}{Line}«Если это не задержит работу{Line} над Садом, то давай. Постарайся{Line} не просить слишком многого».{End}",
+        "Target": "{X10Y0}{Char Squall}{Line}Если это не задержит работу{Line} над Садом, то давай. Постарайся{Line} не просить слишком многого.{End}",
         "Source Text SHA256": "6F2171DD76F919645F6D7A161FA1D0F9CBF61D611CE9CCF28A850C977AF84A96",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -107,7 +107,7 @@
         }
       },
       "$en_fhroof1_0011": {
-        "Target": "{X400Y20}{Char Irvine}{Line}«Да,{Line} конечно».{End}",
+        "Target": "{X400Y20}{Char Irvine}{Line}Да,{Line} конечно.{End}",
         "Source Text SHA256": "6EDDA920FD7700AF6B2961405029A2587B99F1A829108110B81AB9FFECD4926A",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -115,7 +115,7 @@
         }
       },
       "$en_fhroof1_0012": {
-        "Target": "{X0Y20}{Char Squall}{Line}«...Ну что ещё?»{End}",
+        "Target": "{X0Y20}{Char Squall}{Line}...Ну что ещё?{End}",
         "Source Text SHA256": "F2F3D4CF00A70DF9AF6C5FB5388EF71893E38EB67CBB624356D563E49FAD1561",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -123,7 +123,7 @@
         }
       },
       "$en_fhroof1_0013": {
-        "Target": "{X235Y20}{Char Irvine}{Line}«...Сельфи сейчас расстроена».{End}",
+        "Target": "{X235Y20}{Char Irvine}{Line}...Сельфи сейчас расстроена.{End}",
         "Source Text SHA256": "8D8890AFC304E8EC00607AA6745D927B8C0D1CAA720E8ED1F9EE6C7363F696CB",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -131,7 +131,7 @@
         }
       },
       "$en_fhroof1_0014": {
-        "Target": "{X235Y5}{Char Irvine}{Line}«Я подумал, что надо сказать тебе об этом, раз{Line} уж ты... что-то вроде нашего лидера».{End}",
+        "Target": "{X235Y5}{Char Irvine}{Line}Я подумал, что надо сказать тебе об этом, раз{Line} уж ты... что-то вроде нашего лидера.{End}",
         "Source Text SHA256": "B0390A7E48322710BB950492BBC5CA0316F7844942405AE7A61EE86FA4E9B3AB",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -139,7 +139,7 @@
         }
       },
       "$en_fhroof1_0015": {
-        "Target": "{X235Y20}{Char Irvine}{Line}«Думаю, тебе стоит пойти поговорить с ней».{End}",
+        "Target": "{X235Y20}{Char Irvine}{Line}Думаю, тебе стоит пойти поговорить с ней.{End}",
         "Source Text SHA256": "15E2F89FBAC720BDEEA990C32AD3D93B4C74FD8DB02AABA8EED41F349DBC61C8",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -147,7 +147,7 @@
         }
       },
       "$en_fhroof1_0016": {
-        "Target": "{X235Y20}{Char Irvine}{Line}«Знаю, ты в таких делах увалень,{Line}так что я тебя подстрахую».{End}",
+        "Target": "{X235Y20}{Char Irvine}{Line}Знаю, ты в таких делах увалень,{Line}так что я тебя подстрахую.{End}",
         "Source Text SHA256": "DC71AD7957639D03E7D1B604985F97BA3F87DA2FD18792E47606A8D2A7BAFE52",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -155,7 +155,7 @@
         }
       },
       "$en_fhroof1_0017": {
-        "Target": "{X20Y20}{Char Squall}{Line}«...Где она?»{End}",
+        "Target": "{X20Y20}{Char Squall}{Line}...Где она?{End}",
         "Source Text SHA256": "95C76C4307075D66764B5EF180DAC7FF13D6ED4D10BF15886C666D0CDC03D6D2",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -163,7 +163,7 @@
         }
       },
       "$en_fhroof1_0018": {
-        "Target": "{X235Y20}{Char Irvine}{Line}«Она на{Line} [сцене] {Color Blue}во{Color White} дворе».{End}",
+        "Target": "{X235Y20}{Char Irvine}{Line}Она на{Line} [сцене] {Color Blue}во{Color White} дворе.{End}",
         "Source Text SHA256": "3BA5A816C6332C44D83DFB6484C23391685B12670920D749AF20E05FA0ACA202",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -180,7 +180,7 @@
         }
       },
       "$en_fhroof1_0020": {
-        "Target": "{X400Y10}Знакомое лицо{Line}«Хорошо».{End}",
+        "Target": "{X400Y10}Знакомое лицо{Line}Хорошо.{End}",
         "Source Text SHA256": "AECBEF9A49B0A940E28E2786D9404E8472B723A5074116A73DBC9CF01657E33D",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -188,7 +188,7 @@
         }
       },
       "$en_fhroof1_0021": {
-        "Target": "{X400Y80}Знакомое лицо{Line}«Секундочку... Ох, как я ненавижу{Line}эту дрянь. Иногда вообще не слушается».{End}",
+        "Target": "{X400Y80}Знакомое лицо{Line}Секундочку... Ох, как я ненавижу{Line}эту дрянь. Иногда вообще не слушается.{End}",
         "Source Text SHA256": "A6B362F7EF83ED3D2E9B58799EF1E5C3CA0713C25BF98F9B9C0FFC1606EF3720",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -196,7 +196,7 @@
         }
       },
       "$en_fhroof1_0022": {
-        "Target": "{X400Y30}Знакомое лицо{Line}«ЭЙ...!»{End}",
+        "Target": "{X400Y30}Знакомое лицо{Line}ЭЙ...!{End}",
         "Source Text SHA256": "BDE831680EAACFDC9EC95854535F141A9EA6A95F0CFC084839816CA7E7A0E72A",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -204,7 +204,7 @@
         }
       },
       "$en_fhroof1_0023": {
-        "Target": "{X400Y30}Знакомое лицо{Line}«ЗАРАБОТАЛО!»{End}",
+        "Target": "{X400Y30}Знакомое лицо{Line}ЗАРАБОТАЛО!{End}",
         "Source Text SHA256": "A8D3CAF154F22FDD79AC5D85E58DE938F988D9625F1501E224782FEE58753939",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -212,7 +212,7 @@
         }
       },
       "$en_fhroof1_0024": {
-        "Target": "{X200Y20}Знакомое лицо{Line}«Значит, вы, ребята, в Эстар направляетесь?»{End}",
+        "Target": "{X200Y20}Знакомое лицо{Line}Значит, вы, ребята, в Эстар направляетесь?{End}",
         "Source Text SHA256": "A1178F16FDCE70385A90B3A6951ECDA35DE909506DF81AC5600B8F69B1838EED",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -220,7 +220,7 @@
         }
       },
       "$en_fhroof1_0025": {
-        "Target": "{X150Y50}{Char Squall}{Line}«Эстар?»{End}",
+        "Target": "{X150Y50}{Char Squall}{Line}Эстар?{End}",
         "Source Text SHA256": "43C6966EC388CB3D167B1E7A11AF505260449A61649457CB7F9BE4777F1CD22E",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -228,7 +228,7 @@
         }
       },
       "$en_fhroof1_0026": {
-        "Target": "{X200Y20}Знакомое лицо{Line}«Ну, этот город с передовой техникой.{Line}Он прямо за железной дорогой».{End}",
+        "Target": "{X200Y20}Знакомое лицо{Line}Ну, этот город с передовой техникой.{Line}Он прямо за железной дорогой.{End}",
         "Source Text SHA256": "AC70E5EE6636EA9B3648546BF02ED2A8DF51AB4AF045118D46CAD924DA854C3C",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -236,7 +236,7 @@
         }
       },
       "$en_fhroof1_0027": {
-        "Target": "{X200Y20}Знакомое лицо{Line}«Вы, похоже, не туда. А большинство,{Line}кто тут останавливается, едет туда».{End}{End}",
+        "Target": "{X200Y20}Знакомое лицо{Line}Вы, похоже, не туда. А большинство,{Line}кто тут останавливается, едет туда.{End}{End}",
         "Source Text SHA256": "4EFE648AE2B1BDE0C4B789AC0B5FB1CDDF2B3EB31AB3E37697A40494B3BA3F1A",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -244,7 +244,7 @@
         }
       },
       "$en_fhroof1_0028": {
-        "Target": "{X200Y20}Знакомое лицо{Line}«Поезда не ходят, так что лучше всего{Line}добраться отсюда пешком».{Next}«Смешно, да?»{End}",
+        "Target": "{X200Y20}Знакомое лицо{Line}Поезда не ходят, так что лучше всего{Line}добраться отсюда пешком.{Next}Смешно, да?{End}",
         "Source Text SHA256": "A4429F9B046EC129E47B6E0AE67E65BF052679E7D465A56FFEF991C0D3FBE7A7",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -252,7 +252,7 @@
         }
       },
       "$en_fhroof1_0029": {
-        "Target": "{X210Y10}Знакомое лицо{Line}«Чтож, раз вам туда не{Line} надо, значит, вы из налетевшего на нас{Line} сада. Тогда не буду вас задерживать!»{End}",
+        "Target": "{X210Y10}Знакомое лицо{Line}Чтож, раз вам туда не{Line} надо, значит, вы из налетевшего на нас{Line} сада. Тогда не буду вас задерживать!{End}",
         "Source Text SHA256": "7410B7CA08AF527C3D0A79359D9DB3E4FC78D37D8A88E830DD6C3E45C9DBC352",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",
@@ -260,7 +260,7 @@
         }
       },
       "$en_fhroof1_0030": {
-        "Target": "{X200Y20}Знакомое лицо{Line}«Ладно, заходите».{End}",
+        "Target": "{X200Y20}Знакомое лицо{Line}Ладно, заходите.{End}",
         "Source Text SHA256": "87E1731EA00AE5DF8659932F563723F3FDC5825DB67144AFFC4CEA6A7284BC2A",
         "sourceContext": {
           "Source MSD SHA256": "1924A7421F94D33E0CC9398EB148B1D9659BFED60CE5899B217C6C51AA546570",

@@ -10,7 +10,7 @@
         }
       },
       "$en_emlabo1b_0001": {
-        "Target": "{X150Y10}Солдат Эстара{Line}« ! »{End}",
+        "Target": "{X150Y10}Солдат Эстара{Line} ! {End}",
         "Source Text SHA256": "88429212EFC07BF4DF329E1D0D28AF5538E1F3806EBFC69C2A3B87CBB53FFA17",
         "sourceContext": {
           "Source MSD SHA256": "65A4F1534347DF2C622214C759620C6DEB6AE6F6D865405A70676C2B70C94CAE",
@@ -18,7 +18,7 @@
         }
       },
       "$en_emlabo1b_0002": {
-        "Target": "{X100Y10}{Char Laguna}{Line}«Хмм?»{End}",
+        "Target": "{X100Y10}{Char Laguna}{Line}Хмм?{End}",
         "Source Text SHA256": "E19BE5DAF2C49182D8BB750A5FA7456E94948ABA6E6ED4DEAC78ADA4732B5947",
         "sourceContext": {
           "Source MSD SHA256": "65A4F1534347DF2C622214C759620C6DEB6AE6F6D865405A70676C2B70C94CAE",
@@ -26,7 +26,7 @@
         }
       },
       "$en_emlabo1b_0003": {
-        "Target": "{X100Y100}{Char Kiros}{Line}«Эмм... Ты хоть знаешь, что делаешь?»{End}",
+        "Target": "{X100Y100}{Char Kiros}{Line}Эмм... Ты хоть знаешь, что делаешь?{End}",
         "Source Text SHA256": "F49C113FAFB065C73F2E7C4607BD6677BA843CFA60ACF150B4FEA1759412BFC3",
         "sourceContext": {
           "Source MSD SHA256": "65A4F1534347DF2C622214C759620C6DEB6AE6F6D865405A70676C2B70C94CAE",

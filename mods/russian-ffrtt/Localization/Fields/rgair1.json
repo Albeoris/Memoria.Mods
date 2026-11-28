@@ -18,7 +18,7 @@
         }
       },
       "$en_rgair1_0002": {
-        "Target": "{Char Rinoa}{Line}«{Char Squall}?»{End}",
+        "Target": "{Char Rinoa}{Line}{Char Squall}?{End}",
         "Source Text SHA256": "9DA6855FAE59577BA294E3B72AF3FF2CC46E80F671C44E93444FA47DCCF957DB",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -26,7 +26,7 @@
         }
       },
       "$en_rgair1_0003": {
-        "Target": "{X8Y8}{Char Rinoa}{Line}«Спасибо тебе, {Char Squall}..»{End}",
+        "Target": "{X8Y8}{Char Rinoa}{Line}Спасибо тебе, {Char Squall}..{End}",
         "Source Text SHA256": "8E7484D1B41AE0F63B5D8D27ACE48C00A54D818EBE9F04EC8F348D9ADB7E7F68",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -34,7 +34,7 @@
         }
       },
       "$en_rgair1_0004": {
-        "Target": "{X8Y8}{Char Rinoa}{Line}«Ты снова спас меня. Даже{Line} не знаю, как и благодарить тебя».{End}",
+        "Target": "{X8Y8}{Char Rinoa}{Line}Ты снова спас меня. Даже{Line} не знаю, как и благодарить тебя.{End}",
         "Source Text SHA256": "800713B4CDB6C06D71EC9E1A836B2AC130A89CA2190DD37638CB5DDB503B8075",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -42,7 +42,7 @@
         }
       },
       "$en_rgair1_0005": {
-        "Target": "{X160Y8}{Char Squall}{Line}«Насчёт этого не беспокойся.{Line} Я просто сделал то, что должен».{End}",
+        "Target": "{X160Y8}{Char Squall}{Line}Насчёт этого не беспокойся.{Line} Я просто сделал то, что должен.{End}",
         "Source Text SHA256": "954CC257093450EC2C3845975CE4ED8C51253F268145AE35CA3C70EFF510F11A",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -58,7 +58,7 @@
         }
       },
       "$en_rgair1_0007": {
-        "Target": "{X8Y8}{Char Rinoa}{Line}«Тогда нам помешал костюм».{End}",
+        "Target": "{X8Y8}{Char Rinoa}{Line}Тогда нам помешал костюм.{End}",
         "Source Text SHA256": "F82E00A5C4BE5666EE203715C6D2A59A6F4C02E3B3BEA87B9C8CA1A2CE6D8E6A",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -74,7 +74,7 @@
         }
       },
       "$en_rgair1_0009": {
-        "Target": "{X8Y8}{Char Rinoa}{Line}«Обними меня».{End}",
+        "Target": "{X8Y8}{Char Rinoa}{Line}Обними меня.{End}",
         "Source Text SHA256": "6AFC1FAB2C3E8B7A73AE1647ED6F3B270CBCDF6F2FE178883CD016EE609AE963",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -90,7 +90,7 @@
         }
       },
       "$en_rgair1_0011": {
-        "Target": "{X8Y8}{Char Rinoa}{Line}«И покрепче!»{End}",
+        "Target": "{X8Y8}{Char Rinoa}{Line}И покрепче!{End}",
         "Source Text SHA256": "BA9E9D3BE81891F6443290BC518A3EB47E728169EC2464BB1F2C7B08C79C0C6D",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -98,7 +98,7 @@
         }
       },
       "$en_rgair1_0012": {
-        "Target": "{X8Y8}{Char Rinoa}{Line}«Мне нужно знать, что{Line} я жива!»{End}",
+        "Target": "{X8Y8}{Char Rinoa}{Line}Мне нужно знать, что{Line} я жива!{End}",
         "Source Text SHA256": "B1B4DFAF796FED1991D55C70BCF956A6336267C4D294F74265B834BF38DDE420",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -122,7 +122,7 @@
         }
       },
       "$en_rgair1_0015": {
-        "Target": "{X160Y8}{Char Squall}{Line}«Может сейчас мы и живы...{Line} Но посмотри, в каком мы положении...»{End}",
+        "Target": "{X160Y8}{Char Squall}{Line}Может сейчас мы и живы...{Line} Но посмотри, в каком мы положении...{End}",
         "Source Text SHA256": "1628446C957E04139E08A014B5A1B5E0C7489339ED49915D9CEE86973B5C5033",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -130,7 +130,7 @@
         }
       },
       "$en_rgair1_0016": {
-        "Target": "{X160Y8}{Char Squall}{Line}«Ты ведь хочешь жить,{Line} верно? Хочешь вернуться и{Line} повидаться со всеми?»{End}",
+        "Target": "{X160Y8}{Char Squall}{Line}Ты ведь хочешь жить,{Line} верно? Хочешь вернуться и{Line} повидаться со всеми?{End}",
         "Source Text SHA256": "BF81DCDB59BFA708558105F600A80BFD6546600484E86AB1ED1AFBA6CC31C0F3",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -138,7 +138,7 @@
         }
       },
       "$en_rgair1_0017": {
-        "Target": "{X8Y8}{Char Rinoa}{Line}«А не стать воспоминанием для других?»{End}",
+        "Target": "{X8Y8}{Char Rinoa}{Line}А не стать воспоминанием для других?{End}",
         "Source Text SHA256": "601538D711032DE8AAB9F32CFDF079DD21932683AEE4A08AEA67B27126467A48",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",
@@ -146,7 +146,7 @@
         }
       },
       "$en_rgair1_0018": {
-        "Target": "{X160Y8}{Char Squall}{Line}«Именно».{End}",
+        "Target": "{X160Y8}{Char Squall}{Line}Именно.{End}",
         "Source Text SHA256": "2F427E6CA8E58369F67ECD6E1142AA95E7016D4D002B18419F13E8A0870F6AAD",
         "sourceContext": {
           "Source MSD SHA256": "00287F0210D99ADF38D1EA69496A785AC63F01D09BC98AC46E4D774F70B3C715",

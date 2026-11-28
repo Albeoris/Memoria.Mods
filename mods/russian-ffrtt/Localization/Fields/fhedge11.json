@@ -34,7 +34,7 @@
         }
       },
       "$en_fhedge11_0004": {
-        "Target": "{X100Y10}{Char Irvine}{Line}«Значит, убедила всё-таки, а?»{End}",
+        "Target": "{X100Y10}{Char Irvine}{Line}Значит, убедила всё-таки, а?{End}",
         "Source Text SHA256": "B2F8ADE0AFA43397A8394184F8FB94D26AD0CF87BFA6ED18CEC0B0ACBD72B656",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",
@@ -42,7 +42,7 @@
         }
       },
       "$en_fhedge11_0005": {
-        "Target": "{X130Y10}{Char Irvine}{Line}«(Хорошо смотритесь вместе)»{End}",
+        "Target": "{X130Y10}{Char Irvine}{Line}(Хорошо смотритесь вместе){End}",
         "Source Text SHA256": "3B360F7F300EA2256C3CD885FCAE31533A7CCEAFF41453E68191410975A743F6",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",
@@ -50,7 +50,7 @@
         }
       },
       "$en_fhedge11_0006": {
-        "Target": "{X112Y10}{Char Irvine}{Line}«(Я тут подыскал местечко. Оно{Line} просто создано для вас.)»{End}",
+        "Target": "{X112Y10}{Char Irvine}{Line}(Я тут подыскал местечко. Оно{Line} просто создано для вас.){End}",
         "Source Text SHA256": "10835682C0354A2FB2840559063A5804F748A3875624E80563D61E7839E287F9",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",
@@ -66,7 +66,7 @@
         }
       },
       "$en_fhedge11_0008": {
-        "Target": "{X40Y10}{Char Irvine}{Line}«(Оно рядом со сценой, мимо не пройдёте.)»{Next}«(Я там для тебя журнальчик оставил.)»{End}",
+        "Target": "{X40Y10}{Char Irvine}{Line}(Оно рядом со сценой, мимо не пройдёте.){Next}(Я там для тебя журнальчик оставил.){End}",
         "Source Text SHA256": "72A8F0DE92F83817180DB6A4AAEA154AF3F580E668EE37EE8597C6B3D6906C34",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",
@@ -74,7 +74,7 @@
         }
       },
       "$en_fhedge11_0009": {
-        "Target": "{X120Y10}{Char Irvine}{Line}«(Потом поблагодаришь.){Next}(Веселитесь! Сегодня ваша ночь.)»{End}",
+        "Target": "{X120Y10}{Char Irvine}{Line}(Потом поблагодаришь.){Next}(Веселитесь! Сегодня ваша ночь.){End}",
         "Source Text SHA256": "7698DECCB14B455AE83A9DBB502A619B43DB035F856ACF5C59A5ADEEFB94C0C5",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",
@@ -90,7 +90,7 @@
         }
       },
       "$en_fhedge11_0011": {
-        "Target": "{X10Y80}{Char Squall}{Line}«Ты закончил?»{End}",
+        "Target": "{X10Y80}{Char Squall}{Line}Ты закончил?{End}",
         "Source Text SHA256": "36414605CC3C1ED3996B0C02359B44B6049FEA4F0DA15749AF69EBA87D818D2C",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",
@@ -98,7 +98,7 @@
         }
       },
       "$en_fhedge11_0012": {
-        "Target": "{X125Y10}{Char Irvine}{Line}«Может, и я кое с{Line} кем туда потом загляну...»{End}",
+        "Target": "{X125Y10}{Char Irvine}{Line}Может, и я кое с{Line} кем туда потом загляну...{End}",
         "Source Text SHA256": "4D26A97C4C6FB089E60580A91D376D79A6D8E64B0FC0C92CF8FB5C7F0F00D2A8",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",
@@ -106,7 +106,7 @@
         }
       },
       "$en_fhedge11_0013": {
-        "Target": "{X100Y10}{Char Irvine}{Line}«(Я надеюсь на тебя,{Line} парень. Мне тоже предстоит сделать трудный шаг.)»{End}",
+        "Target": "{X100Y10}{Char Irvine}{Line}(Я надеюсь на тебя,{Line} парень. Мне тоже предстоит сделать трудный шаг.){End}",
         "Source Text SHA256": "20DDF888FB717D0495B0A3F71E2D4CE224E95AF717F3301DA2B91125B52E72F9",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",
@@ -114,7 +114,7 @@
         }
       },
       "$en_fhedge11_0014": {
-        "Target": "{X70Y10}{Char Selphie}{Line}«Всё в порядке?»{End}",
+        "Target": "{X70Y10}{Char Selphie}{Line}Всё в порядке?{End}",
         "Source Text SHA256": "4B7DDDC1101E023C5944236EACC751BB8267259BB16FBC3CDA86BA59F36AE690",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",
@@ -122,7 +122,7 @@
         }
       },
       "$en_fhedge11_0015": {
-        "Target": "{X10Y190}{Char Squall}{Line}«Ладно...»{End}",
+        "Target": "{X10Y190}{Char Squall}{Line}Ладно...{End}",
         "Source Text SHA256": "1CC65B932EE94F6BF2455C2E90A3E634155981B031B5B57D6AC06EA1859A345A",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",
@@ -130,7 +130,7 @@
         }
       },
       "$en_fhedge11_0016": {
-        "Target": "{X80Y10}{Char Irvine}{Line}«Чёрт... Большое спасибо!»{End}",
+        "Target": "{X80Y10}{Char Irvine}{Line}Чёрт... Большое спасибо!{End}",
         "Source Text SHA256": "8E15A0EB615AA5A96F27ABC48A0ACF187F9E957F20CC648959E3E4F844BB27E9",
         "sourceContext": {
           "Source MSD SHA256": "0F124B95F3B911D06A7B48DE39385DAF213D59D0C27CE926220300EBEAB38E5F",

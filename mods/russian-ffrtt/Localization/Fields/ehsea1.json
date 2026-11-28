@@ -10,7 +10,7 @@
         }
       },
       "$en_ehsea1_0001": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Как насчёт этого? А как насчёт такого?»{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Как насчёт этого? А как насчёт такого?{End}",
         "Source Text SHA256": "F8E4079BDDBA3D92C2B12E13186943E08DBCC8533FAF2EAFF39BEFFBE20C49E6",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ehsea1_0002": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«ДА!»{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}ДА!{End}",
         "Source Text SHA256": "0A601EA408845D3B0E0264E6E3B280974A801F821DC4DD118EC2B5DD05198562",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ehsea1_0003": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Мы запускали фейерверки!»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Мы запускали фейерверки!{End}",
         "Source Text SHA256": "01A4433F9C633E472020B9F2156CD552F7E9C6A82843BFB1559F148C06FEEF74",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ehsea1_0004": {
-        "Target": "{X160Y18}{Char Zell}{Line}«Океан!{Line} Маяк!»{End}",
+        "Target": "{X160Y18}{Char Zell}{Line}Океан!{Line} Маяк!{End}",
         "Source Text SHA256": "99FA7A84B552E1F3634D41F021DE1A41475AD6C0D1F319B6C38E41FF090E123D",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ehsea1_0005": {
-        "Target": "{Char Squall}{Line}«Но это очень странно...»{End}",
+        "Target": "{Char Squall}{Line}Но это очень странно...{End}",
         "Source Text SHA256": "EE388781A7682B08474E17EB0E5EF1C18C2BBE2F6F7342B04FD34B8BE574BF8C",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ehsea1_0006": {
-        "Target": "{Char Squall}{Line}«По крайней мере мы с Квистис{Line} и Сайфером попали в Сад{Line} прямо из приюта».{End}",
+        "Target": "{Char Squall}{Line}По крайней мере мы с Квистис{Line} и Сайфером попали в Сад{Line} прямо из приюта.{End}",
         "Source Text SHA256": "FE24ED58B3765BC7971AA4F50F243B34BBF9203541D76322A652A5B51A01B674",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ehsea1_0007": {
-        "Target": "{Char Squall}{Line}«Но мы никогда не говорили{Line} о своём детстве. Почему?»{End}",
+        "Target": "{Char Squall}{Line}Но мы никогда не говорили{Line} о своём детстве. Почему?{End}",
         "Source Text SHA256": "CE27A5A0C5A3BBB67D3E7B758103F05AD6E5A0DDD4CCD0EEA47CAC92D19A89F8",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ehsea1_0008": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Побочные эффекты магии и GF...{Line} Наверняка дело в них».{Next}«Магия и GF дают нам силу. Но взамен{Line} мы отдаём нечто важное.{Line} Что-то, связанное с нашим сознанием...»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Побочные эффекты магии и GF...{Line} Наверняка дело в них.{Next}Магия и GF дают нам силу. Но взамен{Line} мы отдаём нечто важное.{Line} Что-то, связанное с нашим сознанием...{End}",
         "Source Text SHA256": "7DD3F9E7F35BFDAEA8C47725E8F4FB912FB5188E082AA0345D0FA71679111833",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ehsea1_0009": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Что-то важное?{Line} Например... воспоминания?»{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Что-то важное?{Line} Например... воспоминания?{End}",
         "Source Text SHA256": "BA063A13B26DBFD29641BB1FD6AE7358C6D1B76C0E66E5D7957B4130946A2CF2",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ehsea1_0010": {
-        "Target": "{Char Squall}{Line}«Верно...{Line} Главное, что мы знаем причину».{End}",
+        "Target": "{Char Squall}{Line}Верно...{Line} Главное, что мы знаем причину.{End}",
         "Source Text SHA256": "4747BBE2634F363AFD5F6F5D43E64D7C8B07EFC0AEC3A385B14674F6BF61D9D9",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ehsea1_0011": {
-        "Target": "{X160Y18}{Char Zell}{Line}«Если и дальше полагаться на GF,{Line} мы ещё много чего забудем...{End}",
+        "Target": "{X160Y18}{Char Zell}{Line}Если и дальше полагаться на GF,{Line} мы ещё много чего забудем...{End}",
         "Source Text SHA256": "9A5E3519DBDAF51CF19BF973AC7C5A9BEE9590ACBE0CE795BA15D2A1BD8C3541",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ehsea1_0012": {
-        "Target": "{Char Squall}{Line}«Но это не так уж страшно. Нынешняя{Line} наша сила куда важнее. Верно?»{End}",
+        "Target": "{Char Squall}{Line}Но это не так уж страшно. Нынешняя{Line} наша сила куда важнее. Верно?{End}",
         "Source Text SHA256": "B3DFDCA85FD7F24A93471575A4B933C7F33E63ABA8FC8593E6ADBA375374249A",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ehsea1_0013": {
-        "Target": "{X160Y18}{Char Zell}{Line}«То есть, Сестра — это Эллона?»{End}",
+        "Target": "{X160Y18}{Char Zell}{Line}То есть, Сестра — это Эллона?{End}",
         "Source Text SHA256": "0425640DA6417A0CDA06CD8187C8AC87F1872AA1A8E929E32434978498D312F3",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ehsea1_0014": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«Это она переносит нас{Line} обратно во времена Лагуны».{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}Это она переносит нас{Line} обратно во времена Лагуны.{End}",
         "Source Text SHA256": "06CE3C227166DBD6E28FAFDB6F85E3B9434BCF706052AD0A88623A41AA9A1240",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ehsea1_0015": {
-        "Target": "{X160Y18}{Char Squall}{Line}«...Она сказала, что хотела изменить{Line} прошлое. Не знаю зачем...»{End}",
+        "Target": "{X160Y18}{Char Squall}{Line}...Она сказала, что хотела изменить{Line} прошлое. Не знаю зачем...{End}",
         "Source Text SHA256": "2282FC6C5C19B0250A1577ED0573C787255481577C3CECA2D199DB76EEA1E7CE",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ehsea1_0016": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Для этого может быть{Line} только одна причина».{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Для этого может быть{Line} только одна причина.{End}",
         "Source Text SHA256": "82F2FB6EBAA074E706830CD5B2E686B2DBEB839B733EAC87B579B1E37B8D3F8D",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ehsea1_0017": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«Она должно быть{Line} недовольна настоящим».{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}Она должно быть{Line} недовольна настоящим.{End}",
         "Source Text SHA256": "4293B4F8D51499B526E642EE89CAC0C585CE73EE08A232E0A54B021E5CC881D2",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ehsea1_0018": {
-        "Target": "{X160Y18}{Char Zell}{Line}«Если это так, то{Line} я определённо за то, чтобы помочь ей!»{End}",
+        "Target": "{X160Y18}{Char Zell}{Line}Если это так, то{Line} я определённо за то, чтобы помочь ей!{End}",
         "Source Text SHA256": "BB2AB0992F9E26A092CCF0ACFD9C013688AB448226CDFC39E5BE181B501AEBFB",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ehsea1_0019": {
-        "Target": "{X160Y18}{Char Zell}{Line}«Она — часть нашей сиротской банды!»{End}",
+        "Target": "{X160Y18}{Char Zell}{Line}Она — часть нашей сиротской банды!{End}",
         "Source Text SHA256": "7EE9658EB2BB6DE70CEF06F8EF2568DEDCB8881C699579D747FD478B494C248A",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ehsea1_0020": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«Ты даже не помнил, кем она была!»{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}Ты даже не помнил, кем она была!{End}",
         "Source Text SHA256": "F909BBEDAC9D83C4786FDBCBEBAE4FECFBB42C4A179A84BA166517D39B6EDB1C",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ehsea1_0021": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Эй, Сельфи...{Line} Тебя это тоже касается!»{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Эй, Сельфи...{Line} Тебя это тоже касается!{End}",
         "Source Text SHA256": "8459A0A13FA3FE05746573DC6D97383D85495B03A363B3E961FFDD80121A09B9",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -178,7 +178,7 @@
         }
       },
       "$en_ehsea1_0022": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Зачем уходить?{Line} Давайте поговорим ещё».{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Зачем уходить?{Line} Давайте поговорим ещё.{End}",
         "Source Text SHA256": "D5BD32FB01A8EA5BD4579CFE1710059C372854C37DFAEEFA888E69153905CC60",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ehsea1_0023": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Хмм...{Line} Значит, Сестрой была Эллона, да?»{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Хмм...{Line} Значит, Сестрой была Эллона, да?{End}",
         "Source Text SHA256": "D932E52658D6A75009C2123200FB592B4E8E2A894CA5882B3DA8E22AA57906F9",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -194,7 +194,7 @@
         }
       },
       "$en_ehsea1_0024": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Все любили Сестру, кроме тебя,{Line}{Char Squall}, ты всё время винил её».{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Все любили Сестру, кроме тебя,{Line}{Char Squall}, ты всё время винил её.{End}",
         "Source Text SHA256": "BEF1F6F5543656045783D1C87A752DBCB1FABC09FF5E63420423A183B3B9C4AE",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -202,7 +202,7 @@
         }
       },
       "$en_ehsea1_0025": {
-        "Target": "{X160Y18}{Char Squall}{Line}«А у тебя хорошая память...»{End}",
+        "Target": "{X160Y18}{Char Squall}{Line}А у тебя хорошая память...{End}",
         "Source Text SHA256": "C3D3483B3B57011E9247E454C874EF70A7C1612E35F493F9FFA8558FC0EE951D",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -210,7 +210,7 @@
         }
       },
       "$en_ehsea1_0026": {
-        "Target": "{X160Y18}{Char Squall}{Line}«...Это весьма странно».{End}",
+        "Target": "{X160Y18}{Char Squall}{Line}...Это весьма странно.{End}",
         "Source Text SHA256": "1E6B399A7C2C7D770E10E81F51DFA42DA6C42D2CA2851138791E9866702F479C",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -218,7 +218,7 @@
         }
       },
       "$en_ehsea1_0027": {
-        "Target": "{X160Y18}{Char Squall}{Line}«Не думаю, что меня усыновили потому,{Line} что я такой, какой я есть.{Next}С Сейфером, возможно, то же самое. Вы{Line} двое должно быть были в Саду с пяти{Line} лет или около того...»{End}",
+        "Target": "{X160Y18}{Char Squall}{Line}Не думаю, что меня усыновили потому,{Line} что я такой, какой я есть.{Next}С Сейфером, возможно, то же самое. Вы{Line} двое должно быть были в Саду с пяти{Line} лет или около того...{End}",
         "Source Text SHA256": "D343B86E6E100C6DBE47A5220136AE4E80D299A11A6BAB47135D110C39CE5162",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -226,7 +226,7 @@
         }
       },
       "$en_ehsea1_0028": {
-        "Target": "{X160Y18}{Char Squall}{Line}«Даже если и так,{Line} он никогда ничего не упоминал о{Line} том, что рос{Line} в приюте».{End}",
+        "Target": "{X160Y18}{Char Squall}{Line}Даже если и так,{Line} он никогда ничего не упоминал о{Line} том, что рос{Line} в приюте.{End}",
         "Source Text SHA256": "0D425F5FFC9B0E41FF63F5BC5CCEAC41A6C522B532607F4B59ED19D84F89A0E1",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -234,7 +234,7 @@
         }
       },
       "$en_ehsea1_0029": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«Это СТРАННО!..»{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}Это СТРАННО!..{End}",
         "Source Text SHA256": "17B811318E3C5E739C523CCA60B71231AB250FC203325DD8259A36DBD97D30CB",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -242,7 +242,7 @@
         }
       },
       "$en_ehsea1_0030": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«В моём случае, я получила{Line} немало веселья, когда приехала в Трабию.{Next}Наверное, поэтому я забыла о своём{Line} детстве. Вот что я думаю».{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}В моём случае, я получила{Line} немало веселья, когда приехала в Трабию.{Next}Наверное, поэтому я забыла о своём{Line} детстве. Вот что я думаю.{End}",
         "Source Text SHA256": "012BF9279FD5CFE3CB9905EB2189F986F29B9EF83F8DA30E65F8F1321A35F497",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -250,7 +250,7 @@
         }
       },
       "$en_ehsea1_0031": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«Но я не знаю что с вами, ребята!{Line} Так странно, что вы забыли об этом!»{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}Но я не знаю что с вами, ребята!{Line} Так странно, что вы забыли об этом!{End}",
         "Source Text SHA256": "AC6B694D376C7CEA45B69605850711CA74CDFFA60633ABB789AC375C21AA41FB",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -258,7 +258,7 @@
         }
       },
       "$en_ehsea1_0032": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Я... помню.{Line} Да, теперь я припоминаю».{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Я... помню.{Line} Да, теперь я припоминаю.{End}",
         "Source Text SHA256": "EFCB2849B2D34EFA83D51B5FCAFA0AA244CB0F747F840A82FF1B7B1CBC0307C5",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -266,7 +266,7 @@
         }
       },
       "$en_ehsea1_0033": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«В моём новом доме{Line} дела не сложились.{Next}Поэтому в 10 лет я{Line} приехала в Сад.{Next}Именно тогда я впервые заметила{Line} Сейфера и {Char Squall}а...»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}В моём новом доме{Line} дела не сложились.{Next}Поэтому в 10 лет я{Line} приехала в Сад.{Next}Именно тогда я впервые заметила{Line} Сейфера и {Char Squall}а...{End}",
         "Source Text SHA256": "F321B93BDC130DA6B350137B6A4F2BE3307FCE22B3FF0977B0D8509C7DBE22CA",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -274,7 +274,7 @@
         }
       },
       "$en_ehsea1_0034": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Сейфер и {Char Squall}{Line} всегда сражались друг с другом».{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Сейфер и {Char Squall}{Line} всегда сражались друг с другом.{End}",
         "Source Text SHA256": "3F6B7A1857B859335CD457E9B2C247B324329469E720A54F9160C869A0D0264E",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -282,7 +282,7 @@
         }
       },
       "$en_ehsea1_0035": {
-        "Target": "{X160Y18}{Char Squall}{Line}«Да...{Line} Квистис частенько нас разнимала».{End}",
+        "Target": "{X160Y18}{Char Squall}{Line}Да...{Line} Квистис частенько нас разнимала.{End}",
         "Source Text SHA256": "CA6605E9D5F006490D2055739C29A2A5A3E90C563CE9243581343270BDF14AF1",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -290,7 +290,7 @@
         }
       },
       "$en_ehsea1_0036": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Да! Точно!»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Да! Точно!{End}",
         "Source Text SHA256": "4EE83D525681F907F8D58F078752176CC39D5634B18B65412F80D489980480B1",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -298,7 +298,7 @@
         }
       },
       "$en_ehsea1_0037": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Сейфер был ребёнком, которому всегда хотелось{Line} быть в центре внимания».{Next}«Но {Char Squall} всегда{Line} его игнорировал...»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Сейфер был ребёнком, которому всегда хотелось{Line} быть в центре внимания.{Next}Но {Char Squall} всегда{Line} его игнорировал...{End}",
         "Source Text SHA256": "E43ABD6499E97D94973756FF5F8F6F2BD2799DBDB62FED12FDC93E867DCA1423",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -306,7 +306,7 @@
         }
       },
       "$en_ehsea1_0038": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«В конечном счёте они ввязывались в драку».{Next}«{Char Squall} мог просто уйти,{Line} но он всегда принимал вызов».{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}В конечном счёте они ввязывались в драку.{Next}{Char Squall} мог просто уйти,{Line} но он всегда принимал вызов.{End}",
         "Source Text SHA256": "8FB2C01B766C1F71F9EFDB5CF2C707E475CDD0012AB22D2D40F9EF737BCD9FF5",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -314,7 +314,7 @@
         }
       },
       "$en_ehsea1_0039": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Ему стоило просто игнорировать его,{Line} но {Char Squall}, почти в слезах, говорил...»{Next}«'Я должен делать всё сам. Иначе я{Line} не смогу увидеть Сестру».{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Ему стоило просто игнорировать его,{Line} но {Char Squall}, почти в слезах, говорил...{Next}'Я должен делать всё сам. Иначе я{Line} не смогу увидеть Сестру.{End}",
         "Source Text SHA256": "47C70E537F15AADE2DA9E249DEE2C8A4C6C44B000A3C64C170B11C52BAD09042",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -322,7 +322,7 @@
         }
       },
       "$en_ehsea1_0040": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Думаю, я пыталась занять место{Line} Сес... то есть, Эллоны».{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Думаю, я пыталась занять место{Line} Сес... то есть, Эллоны.{End}",
         "Source Text SHA256": "9B362D3593ED05EC257179DF838499CF2603DDC5192BE1432AB42931E9D6E07F",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -330,7 +330,7 @@
         }
       },
       "$en_ehsea1_0041": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Я пыталась, но безуспешно... Наверное,{Line} в этом всё дело!»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Я пыталась, но безуспешно... Наверное,{Line} в этом всё дело!{End}",
         "Source Text SHA256": "62586CEFBC19B7AE41CD692D22CBF85F4525B8C1C3C1DB6BB25AD61CBDED6C44",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -338,7 +338,7 @@
         }
       },
       "$en_ehsea1_0042": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Даже после того, как я стала инструктором,{Line} я не могла перестать думать о {Char Squall}е. Я думала, что...{Line} влюбилась.{Next}Мне приходилось скрывать свои чувства, потому{Line} что я была инструктором,{Line} но я осознала, что их не было».{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Даже после того, как я стала инструктором,{Line} я не могла перестать думать о {Char Squall}е. Я думала, что...{Line} влюбилась.{Next}Мне приходилось скрывать свои чувства, потому{Line} что я была инструктором,{Line} но я осознала, что их не было.{End}",
         "Source Text SHA256": "A8C169004193DF8CE35533DCE802E5B5CE07A3C9401BB106038A7B52199B70C0",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -346,7 +346,7 @@
         }
       },
       "$en_ehsea1_0043": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Это были оставшиеся детские{Line} чувства, как старшей сестры...»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Это были оставшиеся детские{Line} чувства, как старшей сестры...{End}",
         "Source Text SHA256": "4E0788AEDD3A31A775D25F3CBE2E57757DC58E251B7851D45310F95C42F8327C",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -354,7 +354,7 @@
         }
       },
       "$en_ehsea1_0044": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Ладно...»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Ладно...{End}",
         "Source Text SHA256": "EA3AEFFB407466F7961535FCBA8956BA90513241E69A7B6922F5D95835B4C58F",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -362,7 +362,7 @@
         }
       },
       "$en_ehsea1_0045": {
-        "Target": "{X100Y18}{Char Zell}{Line}«(Вздох...) Значит, мама с папой{Line} мне не родные...»{End}",
+        "Target": "{X100Y18}{Char Zell}{Line}(Вздох...) Значит, мама с папой{Line} мне не родные...{End}",
         "Source Text SHA256": "DC0BA0B867BE9A0FD4618840E407C24E2F0D941B40DA7544C39E5EC8073393B1",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -370,7 +370,7 @@
         }
       },
       "$en_ehsea1_0046": {
-        "Target": "{X18Y18}{Char Quistis}{Line}«Страшно, что мы смогли{Line} всё это забыть...»{End}",
+        "Target": "{X18Y18}{Char Quistis}{Line}Страшно, что мы смогли{Line} всё это забыть...{End}",
         "Source Text SHA256": "2859AD2FD4635AA6D8D30350EA7F1C41C10EBA63423FBD0548E4512FA421729E",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -378,7 +378,7 @@
         }
       },
       "$en_ehsea1_0047": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«Интересно, где же приют?..»{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}Интересно, где же приют?..{End}",
         "Source Text SHA256": "6BEEB9D84672A4532E9CF32A5B34A1D51FFBDAD21BA05CFA4AC9F80FB606D4AE",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -386,7 +386,7 @@
         }
       },
       "$en_ehsea1_0048": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«(Неразделённая любовь?..)»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}(Неразделённая любовь?..){End}",
         "Source Text SHA256": "50CDEF8903ACEE49EB2162B1660EE6EDD4A6279CF1B353A936943BB850D41E6B",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -394,7 +394,7 @@
         }
       },
       "$en_ehsea1_0049": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«(На самом деле я окончательно сдалась, когда{Line} появилась {Char Rinoa}.)»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}(На самом деле я окончательно сдалась, когда{Line} появилась {Char Rinoa}.){End}",
         "Source Text SHA256": "AC8C674B5A9D9EC06EF14A5FCD622CD7D98BA13666145DD48D4B8C8948666BBA",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -402,7 +402,7 @@
         }
       },
       "$en_ehsea1_0050": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Эй!»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Эй!{End}",
         "Source Text SHA256": "672E1CABCCCBCEFB21F630E5CEF64B617745B9A74463825BF7FD255AEAC27F0B",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -410,7 +410,7 @@
         }
       },
       "$en_ehsea1_0051": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Должно быть, с Сейфером то же самое!»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Должно быть, с Сейфером то же самое!{End}",
         "Source Text SHA256": "F820FBBA07F796F1981CB8EB3BFAE71EB161F63256A62C7565AE38CBF35DB1F1",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -418,7 +418,7 @@
         }
       },
       "$en_ehsea1_0052": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Уверена, что Сейфер тоже забыл{Line} своё детство.{Next}Но когда он видит {Char Squall}{Line} а, его внутренние чувства вскипают...»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Уверена, что Сейфер тоже забыл{Line} своё детство.{Next}Но когда он видит {Char Squall}{Line} а, его внутренние чувства вскипают...{End}",
         "Source Text SHA256": "8B7A798DAE1E770C467A2F8E7883676F8955E7E8BE9F8273B2D8B205ACF71807",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -426,7 +426,7 @@
         }
       },
       "$en_ehsea1_0053": {
-        "Target": "{X160Y18}{Char Zell}{Line}«И поэтому он всегда{Line} ввязывается в схватки со {Char Squall}ом?»{End}",
+        "Target": "{X160Y18}{Char Zell}{Line}И поэтому он всегда{Line} ввязывается в схватки со {Char Squall}ом?{End}",
         "Source Text SHA256": "64E01DF180F68B8BB0455ABDB780466E37837952923048B162C911F1525E8D40",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -434,7 +434,7 @@
         }
       },
       "$en_ehsea1_0054": {
-        "Target": "{X160Y18}{Char Squall}{Line}«...Почему мы забыли?{Next}Мы же росли вместе, будучи детьми... Как такое возможно?...»{End}",
+        "Target": "{X160Y18}{Char Squall}{Line}...Почему мы забыли?{Next}Мы же росли вместе, будучи детьми... Как такое возможно?...{End}",
         "Source Text SHA256": "7EB23AF2F8270E004009F65190CB1F9D3E38B7B8DDBCFADB1DE39250E9BE81FA",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -442,7 +442,7 @@
         }
       },
       "$en_ehsea1_0055": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Это...»{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Это...{End}",
         "Source Text SHA256": "099419F1EA1F7C28A16E7EE4AF66ADA3DB589785870E9C23C49A3D485183425C",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -450,7 +450,7 @@
         }
       },
       "$en_ehsea1_0056": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«...Цена, которую мы платим за использование Хранителей».{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}...Цена, которую мы платим за использование Хранителей.{End}",
         "Source Text SHA256": "57E6326181C4596C8A9621C37EA8AFD4A4B373E281B661FCC66C403E6E32804A",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -458,7 +458,7 @@
         }
       },
       "$en_ehsea1_0057": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Хранители дают нам свою силу.{Next}Но ЗС также занимают место в нашем мозгу...»{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Хранители дают нам свою силу.{Next}Но ЗС также занимают место в нашем мозгу...{End}",
         "Source Text SHA256": "C5885DE990E3900006360D26A77AB576ED4664238B2CA8641035308A3660DE63",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -466,7 +466,7 @@
         }
       },
       "$en_ehsea1_0058": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«То есть, по-твоему это место,{Line} где хранятся наши воспоминания?»{Next}«Нет!.. Это просто{Line} слухи, распространяемые противниками ЗС.»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}То есть, по-твоему это место,{Line} где хранятся наши воспоминания?{Next}Нет!.. Это просто{Line} слухи, распространяемые противниками ЗС.{End}",
         "Source Text SHA256": "EAED044F3B5695F3E7C22CC2F0CB9A58CBC74A851C24F881003C8A6D47F5EAAA",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -474,7 +474,7 @@
         }
       },
       "$en_ehsea1_0059": {
-        "Target": "{X160Y18}{Char Zell}{Line}«Значит, если мы и{Line} дальше будем полагаться на{Line} ЗС, то многое забудем?»{End}",
+        "Target": "{X160Y18}{Char Zell}{Line}Значит, если мы и{Line} дальше будем полагаться на{Line} ЗС, то многое забудем?{End}",
         "Source Text SHA256": "A0C2FA7123977DAE71AFA8DBEF0359B699D64E36934E6481C26AAF5307DCFF0F",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -482,7 +482,7 @@
         }
       },
       "$en_ehsea1_0060": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«Директор Сид не разрешил бы{Line} использовать такую опасную вещь!»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}Директор Сид не разрешил бы{Line} использовать такую опасную вещь!{End}",
         "Source Text SHA256": "0E63D0D569846F3AD8B5DD9A6D0901B304CB03097D83562FA3FC80BF954006D4",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -490,7 +490,7 @@
         }
       },
       "$en_ehsea1_0061": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Тогда почему же я помню,{Line} в то время как другие забыли?»{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Тогда почему же я помню,{Line} в то время как другие забыли?{End}",
         "Source Text SHA256": "6F410D58F48CB9D24F62155098BE0ADF7051816D658014C87C9913761776CBA2",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -498,7 +498,7 @@
         }
       },
       "$en_ehsea1_0062": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Ну?..»{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Ну?..{End}",
         "Source Text SHA256": "BD7074C0F015B515C8F03F234C3DFA8E5AB502C06940DBF9FBBD509B9C3E21F4",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -506,7 +506,7 @@
         }
       },
       "$en_ehsea1_0063": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«До недавних пор, я не{Line} использовал ЗС.»{Next}«Поэтому я и помню{Line} намного больше вашего, ребята».{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}До недавних пор, я не{Line} использовал ЗС.{Next}Поэтому я и помню{Line} намного больше вашего, ребята.{End}",
         "Source Text SHA256": "9F7AFC2BAF8144321E0C1520D502F2AD201A78F82A0D182B3D02267A5364FDD5",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -514,7 +514,7 @@
         }
       },
       "$en_ehsea1_0064": {
-        "Target": "{X12Y18}{Char Quistis}{Line}«А как насчёт тебя, Сельфи?{Next}Ты впервые применила{Line} ЗС, когда перевелась в{Line} Сад Баламб, верно?»{End}",
+        "Target": "{X12Y18}{Char Quistis}{Line}А как насчёт тебя, Сельфи?{Next}Ты впервые применила{Line} ЗС, когда перевелась в{Line} Сад Баламб, верно?{End}",
         "Source Text SHA256": "2AF30EB9E503E90BFA83F19228092E11A5AA9F6DEEEB637DD2D65F9BE6375B4C",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -522,7 +522,7 @@
         }
       },
       "$en_ehsea1_0065": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«...Да.»{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}...Да.{End}",
         "Source Text SHA256": "6570D158F433E9DDE54852921DD658E682F837602433161BAD61D782C4423827",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -530,7 +530,7 @@
         }
       },
       "$en_ehsea1_0066": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«Я хочу признаться!»{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}Я хочу признаться!{End}",
         "Source Text SHA256": "086FC440C7247BEEE682FDD191D3057BE859AE718EC607ECEFD3AF969E3D4362",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -538,7 +538,7 @@
         }
       },
       "$en_ehsea1_0067": {
-        "Target": "{X160Y18}{Char Selphie}{Line}«Хмм... Я не могу вспомнить.{Next}Приют располагался в... Хм? Хм? Хм?»{End}",
+        "Target": "{X160Y18}{Char Selphie}{Line}Хмм... Я не могу вспомнить.{Next}Приют располагался в... Хм? Хм? Хм?{End}",
         "Source Text SHA256": "33E29135714C59FA32A19CBAC8F21B080B8E58C20C1D7EDA6277048409B5E13E",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -546,7 +546,7 @@
         }
       },
       "$en_ehsea1_0068": {
-        "Target": "{X160Y18}{Char Zell}{Line}«Эй... Это совсем ни в какие{Line} ворота не лезет. Мы слишком много забываем».{End}",
+        "Target": "{X160Y18}{Char Zell}{Line}Эй... Это совсем ни в какие{Line} ворота не лезет. Мы слишком много забываем.{End}",
         "Source Text SHA256": "7541623A341C343CDAB3343C6BF2F9E356884655EA752971DF3ADB1798513190",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -554,7 +554,7 @@
         }
       },
       "$en_ehsea1_0069": {
-        "Target": "{X160Y18}{Char Irvine}{Line}«Поговори с Квистис.{Line} Похоже, она немного шокирована...»{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Поговори с Квистис.{Line} Похоже, она немного шокирована...{End}",
         "Source Text SHA256": "8258E920754DD8D5CE99FABA83720C221B230FB947CDCB42BB4DCD1B6BFE8B3C",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -562,7 +562,7 @@
         }
       },
       "$en_ehsea1_0070": {
-        "Target": "{X160Y18}{Char Zell}{Line}«Мы забываем из-за ЗС?..{Line} Поэтому другие вооружённые силы{Line} воздерживаются от их применения?»{End}",
+        "Target": "{X160Y18}{Char Zell}{Line}Мы забываем из-за ЗС?..{Line} Поэтому другие вооружённые силы{Line} воздерживаются от их применения?{End}",
         "Source Text SHA256": "83BF61C23814A1ECDF7B5F2752A3226DE846100C9B8E1AD37D0972D248E2C283",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -570,7 +570,7 @@
         }
       },
       "$en_ehsea1_0071": {
-        "Target": "{X160Y18}{Char Irvine}{Line}Есть вещи, о которых{Line} нам лучше не забывать...{Next}«Особенно когда твоя{Line} жизнь крутится вокруг сражений...»{End}",
+        "Target": "{X160Y18}{Char Irvine}{Line}Есть вещи, о которых{Line} нам лучше не забывать...{Next}Особенно когда твоя{Line} жизнь крутится вокруг сражений...{End}",
         "Source Text SHA256": "FAEBE3FE14687E6E1AAE87587EE144685764B7B017D4CE5B89BE4CD06895A794",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",
@@ -578,7 +578,7 @@
         }
       },
       "$en_ehsea1_0072": {
-        "Target": "{X160Y18}{Char Quistis}{Line}«Мы отдали наши воспоминания{Line} в обмен на силу...»{End}",
+        "Target": "{X160Y18}{Char Quistis}{Line}Мы отдали наши воспоминания{Line} в обмен на силу...{End}",
         "Source Text SHA256": "F4DB058736A6A326B1127E6F0C7F563F95ED85A45B15D7C00F835160161A15A0",
         "sourceContext": {
           "Source MSD SHA256": "C551C40E13EA6E731400D466A3D38C6E78D6F0320E0EFCB40D5E09B12B4608BF",

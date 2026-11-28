@@ -2,7 +2,7 @@
   "Fields": {
     "dotown_2": {
       "$en_dotown_2_0000": {
-        "Target": "{X120Y8}{Char Seifer}{Line}«Ещё не сдрейфили?»{End}",
+        "Target": "{X120Y8}{Char Seifer}{Line}Ещё не сдрейфили?{End}",
         "Source Text SHA256": "DA07ACFA089D794563F83EC2F7834770E0D1EB0B20BA0856C135BF3A6F6AFAB4",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -10,7 +10,7 @@
         }
       },
       "$en_dotown_2_0001": {
-        "Target": "{X120Y8}{Char Seifer}{Line}«Настоящее сражение впереди!..»{End}",
+        "Target": "{X120Y8}{Char Seifer}{Line}Настоящее сражение впереди!..{End}",
         "Source Text SHA256": "68A53E43BDF6159F46467BFEFD35EB8A153CF6B5CBD482CA8DAEC36393A5CA38",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -18,7 +18,7 @@
         }
       },
       "$en_dotown_2_0002": {
-        "Target": "{X120Y8}{Char Seifer}{Line}«......»{End}",
+        "Target": "{X120Y8}{Char Seifer}{Line}......{End}",
         "Source Text SHA256": "4C54438DCA937F32046D2BD63D23ECE69523759E029D75D8A3C9266DBA6B7A22",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -26,7 +26,7 @@
         }
       },
       "$en_dotown_2_0003": {
-        "Target": "{Char Zell}{Line}«Эй, ты чего?!{Line} Нам нельзя возвращаться!»{End}",
+        "Target": "{Char Zell}{Line}Эй, ты чего?!{Line} Нам нельзя возвращаться!{End}",
         "Source Text SHA256": "50A7E58A0475302C00DF020A03B006A25A667478980CDC38E8987E08A4F762DA",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -34,7 +34,7 @@
         }
       },
       "$en_dotown_2_0004": {
-        "Target": "{X150Y160}«Территория находится под контролем{Line} отряда „Гамма“...»{Next}«Мы еле пробились сюда.{Line} Пострайтесь и за нас, ребята!»",
+        "Target": "{X150Y160}Территория находится под контролем{Line} отряда „Гамма“...{Next}Мы еле пробились сюда.{Line} Пострайтесь и за нас, ребята!",
         "Source Text SHA256": "D0B44CCA403C535C91E4162D5EA9A2C902B5192EA8A5B912D0B4320C8A61B78D",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -42,7 +42,7 @@
         }
       },
       "$en_dotown_2_0005": {
-        "Target": "{X20Y160}«Одного из наших стошнило...»{Next}«Нет... {Pause 80}Не подумай, мы тут не едим!»",
+        "Target": "{X20Y160}Одного из наших стошнило...{Next}Нет... {Pause 80}Не подумай, мы тут не едим!",
         "Source Text SHA256": "BF7E0D431026B27EB5B9C87E7C45EED1E0D0B0D4FFD1E09F52558C5CDB6F0A8C",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -50,7 +50,7 @@
         }
       },
       "$en_dotown_2_0006": {
-        "Target": "{X150Y180}«Отряд „Гамма“, отступайте!...»",
+        "Target": "{X150Y180}Отряд „Гамма“, отступайте!...",
         "Source Text SHA256": "9C5AB7328C34A14C3B3AD48F4C7240E6DE61B6145B551AFBEE13E8910AEC12E0",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -58,7 +58,7 @@
         }
       },
       "$en_dotown_2_0007": {
-        "Target": "{X20Y160}«Есть!»",
+        "Target": "{X20Y160}Есть!",
         "Source Text SHA256": "773104A0761CC55C2BDAE83F0DB634987684D5314EC5859ABD05315D25FFAC6D",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -66,7 +66,7 @@
         }
       },
       "$en_dotown_2_0008": {
-        "Target": "{X20Y20}{Char Zell}{Line}«Бежим, пока есть шанс!»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}Бежим, пока есть шанс!{End}",
         "Source Text SHA256": "46A7430F8ED42B5D7F487A7BF8F5F76167DF431B78CE747EFD65D9AD07D5E5CB",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -74,7 +74,7 @@
         }
       },
       "$en_dotown_2_0009": {
-        "Target": "{X140Y20}«Ааааааааа!!!{Line} Ч-ч-ч-что-то приближается!»",
+        "Target": "{X140Y20}Ааааааааа!!!{Line} Ч-ч-ч-что-то приближается!",
         "Source Text SHA256": "D59A435A75A4545A1E4A1EF399A530F1B99D785D28F5C573136857F289DD6216",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -82,7 +82,7 @@
         }
       },
       "$en_dotown_2_0010": {
-        "Target": "{X20Y160}«Отряд „Гамма“, БЕЖИ~ИМ!!!»",
+        "Target": "{X20Y160}Отряд „Гамма“, БЕЖИ~ИМ!!!",
         "Source Text SHA256": "FB04150D62B3816A28BFF0EFAE0713D4D7D23C7B30504358716B2A8EC7F33044",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",
@@ -90,7 +90,7 @@
         }
       },
       "$en_dotown_2_0011": {
-        "Target": "{X20Y20}{Char Zell}{Line}«ЭЙ! Ты чего стоишь?! Ну же, пошли!»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}ЭЙ! Ты чего стоишь?! Ну же, пошли!{End}",
         "Source Text SHA256": "41F3B90354F150E5C0843348E65AB10DAF38F69B0C7AE83350631997D61E34F6",
         "sourceContext": {
           "Source MSD SHA256": "88A3DDDA1D3D902E492145781DFEC00FDFC4665BB465248DC5390ECC40CA598B",

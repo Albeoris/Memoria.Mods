@@ -2,7 +2,7 @@
   "Fields": {
     "gmcont2": {
       "$en_gmcont2_0000": {
-        "Target": "{X120Y140}«Механизм самоуничтожения включён.{Line} До взрыва 10 минут».{Next}«Всему персоналу немедленно{Line} эвакуироваться с базы. Повторяю...»{End}",
+        "Target": "{X120Y140}Механизм самоуничтожения включён.{Line} До взрыва 10 минут.{Next}Всему персоналу немедленно{Line} эвакуироваться с базы. Повторяю...{End}",
         "Source Text SHA256": "B5B684EDA80E7B66EBE77178CC8EE5FFA71B3ADD13D341DD0ED18DA9B389924C",
         "sourceContext": {
           "Source MSD SHA256": "6EA27B713B610860D1BFC474167CF80EE604A375FD0E4DE27647E3A42C2FB3D3",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gmcont2_0001": {
-        "Target": "{X120Y140}«Механизм самоуничтожения включён.{Line} До взрыва 20 минут».{Next}«Всему персоналу немедленно{Line} эвакуироваться с базы. Повторяю...»{End}",
+        "Target": "{X120Y140}Механизм самоуничтожения включён.{Line} До взрыва 20 минут.{Next}Всему персоналу немедленно{Line} эвакуироваться с базы. Повторяю...{End}",
         "Source Text SHA256": "B8A3CCB0D18CBA7854F340A63FB4676E15AE4DCDB120F30CCE4A5BB8564DC4BF",
         "sourceContext": {
           "Source MSD SHA256": "6EA27B713B610860D1BFC474167CF80EE604A375FD0E4DE27647E3A42C2FB3D3",
@@ -18,7 +18,7 @@
         }
       },
       "$en_gmcont2_0002": {
-        "Target": "{X120Y140}«Механизм самоуничтожения включён.{Line} До взрыва 30 минут».{Next}«Всему персоналу немедленно{Line} эвакуироваться с базы. Повторяю...»{End}",
+        "Target": "{X120Y140}Механизм самоуничтожения включён.{Line} До взрыва 30 минут.{Next}Всему персоналу немедленно{Line} эвакуироваться с базы. Повторяю...{End}",
         "Source Text SHA256": "8154E4DA476B099ABA1F5C616F2C531F50470AA07EB7837284F333B296441DC7",
         "sourceContext": {
           "Source MSD SHA256": "6EA27B713B610860D1BFC474167CF80EE604A375FD0E4DE27647E3A42C2FB3D3",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gmcont2_0003": {
-        "Target": "{X120Y140}«Механизм самоуничтожения включён. До самоуничтожения{Line} осталось 40 минут.{Next}Всему персоналу немедленно эвакуироваться с базы.{Line} Повторяю...»{End}",
+        "Target": "{X120Y140}Механизм самоуничтожения включён. До самоуничтожения{Line} осталось 40 минут.{Next}Всему персоналу немедленно эвакуироваться с базы.{Line} Повторяю...{End}",
         "Source Text SHA256": "425ECBC741B749656849297D7D9531A8F1C7AFCDAF4FD080F843DCE089510F35",
         "sourceContext": {
           "Source MSD SHA256": "6EA27B713B610860D1BFC474167CF80EE604A375FD0E4DE27647E3A42C2FB3D3",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gmcont2_0004": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Эээй! Это же{Line} программа самоуничтожения базы!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Эээй! Это же{Line} программа самоуничтожения базы!{End}",
         "Source Text SHA256": "2ED026371EBD4B05ADA41D80A298912E0A3E2E956643FABEA2BDC5C19B13306F",
         "sourceContext": {
           "Source MSD SHA256": "6EA27B713B610860D1BFC474167CF80EE604A375FD0E4DE27647E3A42C2FB3D3",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gmcont2_0005": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Тэкс... Что у нас тут...{Line} Хмм... Давай посмотрим здесь...»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Тэкс... Что у нас тут...{Line} Хмм... Давай посмотрим здесь...{End}",
         "Source Text SHA256": "15B93B249C93F3135BE2BFD6E10F823123985C69DE061C7555126C809D91162F",
         "sourceContext": {
           "Source MSD SHA256": "6EA27B713B610860D1BFC474167CF80EE604A375FD0E4DE27647E3A42C2FB3D3",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gmcont2_0006": {
-        "Target": "{X160Y12F3L6B3C6}{Char Selphie}{Line}«А?{Line} Нам нужно выставить время?»{Line}10 минут{Line}20 минут{Line}30 минут{Line}40 минут{End}",
+        "Target": "{X160Y12F3L6B3C6}{Char Selphie}{Line}А?{Line} Нам нужно выставить время?{Line}10 минут{Line}20 минут{Line}30 минут{Line}40 минут{End}",
         "Source Text SHA256": "7983A06FBF9BD5D92D95B3BB1B6D8940B0F0D408586544319560E2CD1F6232C2",
         "sourceContext": {
           "Source MSD SHA256": "6EA27B713B610860D1BFC474167CF80EE604A375FD0E4DE27647E3A42C2FB3D3",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gmcont2_0007": {
-        "Target": "{X120Y12}{Char Selphie}{Line}«Вуу-хуу!{Line} Быстро, сваливаем отсюда!»{End}",
+        "Target": "{X120Y12}{Char Selphie}{Line}Вуу-хуу!{Line} Быстро, сваливаем отсюда!{End}",
         "Source Text SHA256": "9C7898BDB5A49181FE8F3B09CF10FC3C045935142E34FF74BB93FB06391DC243",
         "sourceContext": {
           "Source MSD SHA256": "6EA27B713B610860D1BFC474167CF80EE604A375FD0E4DE27647E3A42C2FB3D3",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gmcont2_0008": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Что?!{Line} „Дверь откроется за 20 минут{Line} до самоуничтожения базы“?!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Что?!{Line} „Дверь откроется за 20 минут{Line} до самоуничтожения базы“?!{End}",
         "Source Text SHA256": "A8B10F0E910681DE4F40BB1AEA082C7A8C2EB839A52BA77614F2DA42264E5759",
         "sourceContext": {
           "Source MSD SHA256": "6EA27B713B610860D1BFC474167CF80EE604A375FD0E4DE27647E3A42C2FB3D3",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gmcont2_0009": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Скорее назад!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Скорее назад!{End}",
         "Source Text SHA256": "73296E7E9BC6BBE1918ACFEFF7592CECE7E2131F1B16507A2757B1E8ED00B4AA",
         "sourceContext": {
           "Source MSD SHA256": "6EA27B713B610860D1BFC474167CF80EE604A375FD0E4DE27647E3A42C2FB3D3",

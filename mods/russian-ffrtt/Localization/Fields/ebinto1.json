@@ -10,7 +10,7 @@
         }
       },
       "$en_ebinto1_0001": {
-        "Target": "{X8Y220}«Грохнуло где-то здесь.{Line} Может это они, а?»{End}",
+        "Target": "{X8Y220}Грохнуло где-то здесь.{Line} Может это они, а?{End}",
         "Source Text SHA256": "BEF0421DC3DE4D6C30951DDD51BC2DA86CD38F698F939A12695D8E3C45EC802C",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ebinto1_0002": {
-        "Target": "{X8Y220}«ОНИ? НЕТ, НЕВОЗМОЖНО.»{End}",
+        "Target": "{X8Y220}ОНИ? НЕТ, НЕВОЗМОЖНО.{End}",
         "Source Text SHA256": "1FE4FEEC59653C457DDCD692EE97640275F590572465DD06F8258BA30A214B11",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ebinto1_0004": {
-        "Target": "{X195Y200}Райдзин{Line}«Ааа!{Line} Это {Char Squall}, да?!»{End}",
+        "Target": "{X195Y200}Райдзин{Line}Ааа!{Line} Это {Char Squall}, да?!{End}",
         "Source Text SHA256": "B00B4D0A08AC88EC1B52F089D8F38E80CFBA965633E78390EF029D43D89B2A52",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ebinto1_0005": {
-        "Target": "{X15Y20}Фудзин{Line}«В ШОКЕ.»{End}",
+        "Target": "{X15Y20}Фудзин{Line}В ШОКЕ.{End}",
         "Source Text SHA256": "739382537C2B28AAE52E8AB60FE00491B8BC29928F0955C600AFF4D037BC83F5",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ebinto1_0006": {
-        "Target": "{X15Y20}Фудзин{Line}«ХОРОШО. КАК РАЗ ВОВРЕМЯ.»{End}",
+        "Target": "{X15Y20}Фудзин{Line}ХОРОШО. КАК РАЗ ВОВРЕМЯ.{End}",
         "Source Text SHA256": "BD04F4BDD1265D72527AE6289B90C32FBCF881CC85109B910D03215519A5E933",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ebinto1_0007": {
-        "Target": "{X195Y200}Райдзин{Line}«Точно.{Line} Отдайте {Char Rinoa}, вам ясно?!»{End}",
+        "Target": "{X195Y200}Райдзин{Line}Точно.{Line} Отдайте {Char Rinoa}, вам ясно?!{End}",
         "Source Text SHA256": "43509DC59F7E81000EA07B8F517986CD0654FEBE53121BEAE74441AF8B9FF55C",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ebinto1_0008": {
-        "Target": "{X65Y8}{Char Squall}{Line}«Ну уж нет! Я никогда не отдам {Char Rinoa}!»{End}",
+        "Target": "{X65Y8}{Char Squall}{Line}Ну уж нет! Я никогда не отдам {Char Rinoa}!{End}",
         "Source Text SHA256": "408ECF668B60FAF1A7DD211EDE52B169C89F5D995EDC797343EBB634840EF3A4",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ebinto1_0009": {
-        "Target": "{X72Y8}{Char Squall}{Line}«И мы забираем Эллону!»{End}",
+        "Target": "{X72Y8}{Char Squall}{Line}И мы забираем Эллону!{End}",
         "Source Text SHA256": "804D61439E8125FCD0E1EE110E33B95E0261ED07211125E77C30C3B1B38C04E7",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ebinto1_0010": {
-        "Target": "{X23Y8}{Char Squall}{Line}«И я не позволю вам воскресить Адель!!!»{End}",
+        "Target": "{X23Y8}{Char Squall}{Line}И я не позволю вам воскресить Адель!!!{End}",
         "Source Text SHA256": "023E8F3B970A3531A319A2432521B3CAE7CD2067225D87CD3C461E55A7B37244",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ebinto1_0011": {
-        "Target": "{X195Y200}Райдзин{Line}«Ну ты и жадина, знаешь ли!{Line} Так, знаешь ли, нечестно?!»{End}",
+        "Target": "{X195Y200}Райдзин{Line}Ну ты и жадина, знаешь ли!{Line} Так, знаешь ли, нечестно?!{End}",
         "Source Text SHA256": "1ACCF2A0BE4B90B835A5AB538C1A9639566785D9C763059711E61494A653668D",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ebinto1_0012": {
-        "Target": "{X15Y20}Фудзин{Line}«УБЕЖДАТЬ БЕСПОЛЕЗНО.{Line} СХВАТИТЬ.»{End}",
+        "Target": "{X15Y20}Фудзин{Line}УБЕЖДАТЬ БЕСПОЛЕЗНО.{Line} СХВАТИТЬ.{End}",
         "Source Text SHA256": "CD7DBEF39604206A8D66B38F2A91506ED934F7E070318177CE62611C42FBA7F2",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ebinto1_0013": {
-        "Target": "{X195Y200}Райдзин{Line}«А вот она права,{Line} понимаешь?! Начнём!»{End}",
+        "Target": "{X195Y200}Райдзин{Line}А вот она права,{Line} понимаешь?! Начнём!{End}",
         "Source Text SHA256": "2206F0B685A614B6436ADDDD7BB8A327EC90F627601CC792CC755B71E0DB7EA9",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ebinto1_0014": {
-        "Target": "{X15Y20}Фудзин{Line}«ОТСТУПАЕМ. ВРЕМЕННО.»{End}",
+        "Target": "{X15Y20}Фудзин{Line}ОТСТУПАЕМ. ВРЕМЕННО.{End}",
         "Source Text SHA256": "BC14C9D5ED1F221D270D163EEC9282DA01C02F76FE1D60E7023E59A0695625D2",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ebinto1_0015": {
-        "Target": "{X195Y200}Райдзин{Line}«Т-т-точно! Это{Line} ещё не конец, знаете ли!»{End}",
+        "Target": "{X195Y200}Райдзин{Line}Т-т-точно! Это{Line} ещё не конец, знаете ли!{End}",
         "Source Text SHA256": "C71EFA93DD56ADE830BB0943CC69791CE1F3258517698BBC6BF263BF0BD7ADA5",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ebinto1_0016": {
-        "Target": "{X97Y8}{Char Squall}{Line}«Нет, я не могу вот так{Line} оставить {Char Rinoa}!»{End}",
+        "Target": "{X97Y8}{Char Squall}{Line}Нет, я не могу вот так{Line} оставить {Char Rinoa}!{End}",
         "Source Text SHA256": "7FF01F47C62764B056FBD57C6167C8C0CE4D4F46871907F0F68CF1EDDFD80D81",
         "sourceContext": {
           "Source MSD SHA256": "C0548FE862CA4364F8E0E662F9CF8A3B38693F4A3905808C0E386FB12EF11357",

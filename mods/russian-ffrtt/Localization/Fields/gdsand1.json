@@ -26,7 +26,7 @@
         }
       },
       "$en_gdsand1_0003": {
-        "Target": "{X152Y10}{Char Rinoa}{Line}«Ирвин, поворачивай{Line} к пустынной тюрьме!»{End}",
+        "Target": "{X152Y10}{Char Rinoa}{Line}Ирвин, поворачивай{Line} к пустынной тюрьме!{End}",
         "Source Text SHA256": "83C1BB95ADA75B1E7D0F53E3841A4A14D9D287CFAC2BF6E6CE6FBC67391AD7BC",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gdsand1_0004": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Нет, это приказ твоего{Line} отца. Я доставлю тебя в Делинг».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Нет, это приказ твоего{Line} отца. Я доставлю тебя в Делинг.{End}",
         "Source Text SHA256": "F5E027E512F5DB0ECD534740E91D092684BF470169F115A6C6F82989A0913C8F",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",
@@ -42,7 +42,7 @@
         }
       },
       "$en_gdsand1_0005": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Что?! Ты сошла с ума?!»{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Что?! Ты сошла с ума?!{End}",
         "Source Text SHA256": "7D21D424C402EEA5A05CBA824FD419CF88C313B9E94B105B5E1ADF5BFB1DB7F6",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gdsand1_0006": {
-        "Target": "{X29Y10}{Char Rinoa}{Line}«Мы должны вернуться и помочь остальным!»{End}",
+        "Target": "{X29Y10}{Char Rinoa}{Line}Мы должны вернуться и помочь остальным!{End}",
         "Source Text SHA256": "C6DA2CA0243B2DA9C433060CD76E98808D5382DA6BE9F8FF4CE841A341EBB9F3",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gdsand1_0007": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«С ними всё будет в порядке.{Next}Я уверен, скоро они оттуда выберутся».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}С ними всё будет в порядке.{Next}Я уверен, скоро они оттуда выберутся.{End}",
         "Source Text SHA256": "94C37FD99196C905DBB5024C9772D65B0C66F7C6EC4B5FBD1142F46C8CD31139",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",
@@ -66,7 +66,7 @@
         }
       },
       "$en_gdsand1_0008": {
-        "Target": "{X129Y10}{Char Rinoa}{Line}«Ты не можешь этого знать».{End}",
+        "Target": "{X129Y10}{Char Rinoa}{Line}Ты не можешь этого знать.{End}",
         "Source Text SHA256": "DDC75A9B7679BE7DF3DA1E3CB8E2A41377FE58D332A8A906075AB6F1AA137554",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",
@@ -74,7 +74,7 @@
         }
       },
       "$en_gdsand1_0009": {
-        "Target": "{X120Y10}{Char Rinoa}{Line}«{Char Squall} может сказать „но никто{Line} не приказал мне сбегать“ и{Line} закончить свои дни там».{End}",
+        "Target": "{X120Y10}{Char Rinoa}{Line}{Char Squall} может сказать „но никто{Line} не приказал мне сбегать“ и{Line} закончить свои дни там.{End}",
         "Source Text SHA256": "5D1F3DCAF72FE02AF939125AE9B1D4A7A053768A054529C1508E10816D04CC38",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",
@@ -82,7 +82,7 @@
         }
       },
       "$en_gdsand1_0010": {
-        "Target": "{X127Y10}{Char Rinoa}{Line}«Мы не допустим этого!{Line} Мы должны им помочь!»{End}",
+        "Target": "{X127Y10}{Char Rinoa}{Line}Мы не допустим этого!{Line} Мы должны им помочь!{End}",
         "Source Text SHA256": "31F8AF4F5B1E9D44419C44F12E14759038394B0437176A06D324B864EA2CBC6B",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",
@@ -90,7 +90,7 @@
         }
       },
       "$en_gdsand1_0011": {
-        "Target": "{X156Y10}{Char Rinoa}{Line}«Я сделаю это, даже если{Line} мне придётся заставить тебя силой».{End}",
+        "Target": "{X156Y10}{Char Rinoa}{Line}Я сделаю это, даже если{Line} мне придётся заставить тебя силой.{End}",
         "Source Text SHA256": "1A2EC8ED5248DC64D5AAE063560C26BDC90A7BD8CFDB221EB95D2E98445495F0",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",
@@ -98,7 +98,7 @@
         }
       },
       "$en_gdsand1_0012": {
-        "Target": "{X10Y100}{Char Irvine}{Line}«Ой... Ой... АЙ!»{End}",
+        "Target": "{X10Y100}{Char Irvine}{Line}Ой... Ой... АЙ!{End}",
         "Source Text SHA256": "1B548249412E9B1044C4228D67D78E3D4F35F85813ABE142C1462263F83D1F48",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",
@@ -106,7 +106,7 @@
         }
       },
       "$en_gdsand1_0013": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Ладно, ладно... Я еду, я еду!»{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Ладно, ладно... Я еду, я еду!{End}",
         "Source Text SHA256": "ED39AABCFD497EA374B617BAD79DF1B73BF7F3B13F015E48FB8536DD3A3548C2",
         "sourceContext": {
           "Source MSD SHA256": "6F72EA3E394F006B931739805C1CBCFF568EC95059F50821A9A85AD9A3234EF8",

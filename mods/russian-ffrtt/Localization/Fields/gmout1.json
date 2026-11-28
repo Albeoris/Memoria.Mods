@@ -2,7 +2,7 @@
   "Fields": {
     "gmout1": {
       "$en_gmout1_0000": {
-        "Target": "{X16Y16}Охранник{Line}«Хорошо, проезжайте».{End}",
+        "Target": "{X16Y16}Охранник{Line}Хорошо, проезжайте.{End}",
         "Source Text SHA256": "FEF1B8421D50CCD63F5F71558A7C4CD4641CE306FA549D119357CDD6EEBE794D",
         "sourceContext": {
           "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
@@ -10,7 +10,7 @@
         }
       },
       "$en_gmout1_0001": {
-        "Target": "{X16Y16}Охранник{Line}«Это закрытая зона!{Line} Немедленно покиньте территорию!»{End}",
+        "Target": "{X16Y16}Охранник{Line}Это закрытая зона!{Line} Немедленно покиньте территорию!{End}",
         "Source Text SHA256": "90B409FE5AA6BE3C0E6937FAF571AE31D9EC043E24AD0BB0591F3EEC40BD8A65",
         "sourceContext": {
           "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
@@ -26,7 +26,7 @@
         }
       },
       "$en_gmout1_0003": {
-        "Target": "{X12Y12}Охранник{Line}«Эй! Это запретная зона! Детям{Line} здесь не место! Проваливайте!»{End}",
+        "Target": "{X12Y12}Охранник{Line}Эй! Это запретная зона! Детям{Line} здесь не место! Проваливайте!{End}",
         "Source Text SHA256": "6304F8A5EFBA2078C8EE4826E3901E5D79066575D09BCE7AA030D857CFEDC9F9",
         "sourceContext": {
           "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
@@ -34,7 +34,7 @@
         }
       },
       "$en_gmout1_0004": {
-        "Target": "{X200Y40}{Char Selphie}{Line}«Я только одним{Line} глазком. Ну пожааалуйста?!»{End}",
+        "Target": "{X200Y40}{Char Selphie}{Line}Я только одним{Line} глазком. Ну пожааалуйста?!{End}",
         "Source Text SHA256": "2AC1A99B0D15DFEB71C9A9210DC361C6EA2398BD0FF45977A9CA6C1E2108DACE",
         "sourceContext": {
           "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
@@ -50,7 +50,7 @@
         }
       },
       "$en_gmout1_0006": {
-        "Target": "{X200Y40}{Char Selphie}{Line}«Ну и ладно!»{End}",
+        "Target": "{X200Y40}{Char Selphie}{Line}Ну и ладно!{End}",
         "Source Text SHA256": "31B55959D8DFC702A55373BF63DC966C350CAD748FFD913CF584D45138525F31",
         "sourceContext": {
           "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",
@@ -58,7 +58,7 @@
         }
       },
       "$en_gmout1_0007": {
-        "Target": "{X16Y16}Охранник{Line}«ЭЙ!{Line} Тут вам не экскурсия!{Line} ВОН ОТСЮДА!»{End}",
+        "Target": "{X16Y16}Охранник{Line}ЭЙ!{Line} Тут вам не экскурсия!{Line} ВОН ОТСЮДА!{End}",
         "Source Text SHA256": "0645E932C2BD6DF2FD8CA6C91B8279EC7A8A4F8B6E3F4D6ED56010B61ACB96F8",
         "sourceContext": {
           "Source MSD SHA256": "605A82BE99D65407CC32975748C6B33D899287B81C65D60CC08D9DA9DBAFD910",

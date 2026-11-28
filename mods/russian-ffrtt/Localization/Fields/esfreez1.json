@@ -2,7 +2,7 @@
   "Fields": {
     "esfreez1": {
       "$en_esfreez1_0000": {
-        "Target": "{X40Y60}Сотрудник Лунных врат{Line}«Вы отправляетесь?»{End}",
+        "Target": "{X40Y60}Сотрудник Лунных врат{Line}Вы отправляетесь?{End}",
         "Source Text SHA256": "1896ACA8DF403F6472D078E6E4B8A96F50E251FEA85DC5418DBD101B62EAEFEE",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -10,7 +10,7 @@
         }
       },
       "$en_esfreez1_0001": {
-        "Target": "{X160Y40}{Char Squall}{Line}«Да».{End}",
+        "Target": "{X160Y40}{Char Squall}{Line}Да.{End}",
         "Source Text SHA256": "84434F4675474AB2DAE3C52F83519D25CC788C0D141E5A7B4708E5A00985B3BE",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -18,7 +18,7 @@
         }
       },
       "$en_esfreez1_0002": {
-        "Target": "{X40Y60}Сотрудник Лунных врат{Line}«Хорошо, пройдите сюда».{End}",
+        "Target": "{X40Y60}Сотрудник Лунных врат{Line}Хорошо, пройдите сюда.{End}",
         "Source Text SHA256": "8C8489EAE749F6971F6B5EB9FB3CE4FA8653CDC3B1D809237D1F7FDA7DBEDD89",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -26,7 +26,7 @@
         }
       },
       "$en_esfreez1_0003": {
-        "Target": "{X12Y12}Сотрудник Лунных врат{Line}«Это довольно далеко, но вы окажетесь там{Line} в два счёта. К тому времени,{Line} когда вы проснётесь, вы уже будете на месте».{End}",
+        "Target": "{X12Y12}Сотрудник Лунных врат{Line}Это довольно далеко, но вы окажетесь там{Line} в два счёта. К тому времени,{Line} когда вы проснётесь, вы уже будете на месте.{End}",
         "Source Text SHA256": "FACD67DD504C05F40B5BC729FBDE401D7F16588179DA3FA71AB6823484605017",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -34,7 +34,7 @@
         }
       },
       "$en_esfreez1_0004": {
-        "Target": "{X120Y40}{Char Squall}{Line}«Куда мы отправляемся?»{End}",
+        "Target": "{X120Y40}{Char Squall}{Line}Куда мы отправляемся?{End}",
         "Source Text SHA256": "8D338EF59BDB91B53EC54C3BA49A5673A0F9B356EF6962CA320FD97B4DB2C5F9",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -42,7 +42,7 @@
         }
       },
       "$en_esfreez1_0005": {
-        "Target": "{X12Y12}Сотрудник Лунных врат{Line}«Позвольте мне вкратце объяснить{Line} суть процесса».{End}",
+        "Target": "{X12Y12}Сотрудник Лунных врат{Line}Позвольте мне вкратце объяснить{Line} суть процесса.{End}",
         "Source Text SHA256": "EC59EAC71422438BA046DD465C524DB8919576D0CADE09CEC2D26B033D78D72C",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -50,7 +50,7 @@
         }
       },
       "$en_esfreez1_0006": {
-        "Target": "{X12Y12}«Сперва нам нужно, чтобы вы вошли{Line} в капсулу внутри трубы. Там{Line} вы подвергнетесь процессу „криосна“».{End}",
+        "Target": "{X12Y12}Сперва нам нужно, чтобы вы вошли{Line} в капсулу внутри трубы. Там{Line} вы подвергнетесь процессу „криосна“.{End}",
         "Source Text SHA256": "7700786927231DA40D0D9D32A5C8160F1AE5894ADAAC5A3486FD2ED9EBD74F94",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -58,7 +58,7 @@
         }
       },
       "$en_esfreez1_0007": {
-        "Target": "{X12Y12}Сотрудник Лунных врат{Line}«По завершении процесса, ваша{Line} капсула будет автоматически загружена в{Line} ускоритель. После этого{Line} мы произведём запуск».{End}",
+        "Target": "{X12Y12}Сотрудник Лунных врат{Line}По завершении процесса, ваша{Line} капсула будет автоматически загружена в{Line} ускоритель. После этого{Line} мы произведём запуск.{End}",
         "Source Text SHA256": "73B8D4DF1677FCCBAB7B9215E55169E97855AD7CD0E57902C75D13A3DC1B05F4",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -66,7 +66,7 @@
         }
       },
       "$en_esfreez1_0008": {
-        "Target": "{X12Y12}Сотрудник Лунных врат{Line}«К тому времени как вы проснётесь вы{Line} уже должны будете быть на месте. Когда{Line} прибудете, предоставьте остальное{Line} персоналу... Ну, на этом об оболочке всё».{End}",
+        "Target": "{X12Y12}Сотрудник Лунных врат{Line}К тому времени как вы проснётесь вы{Line} уже должны будете быть на месте. Когда{Line} прибудете, предоставьте остальное{Line} персоналу... Ну, на этом об оболочке всё.{End}",
         "Source Text SHA256": "660205AAE330569D08916689F40DA30BF83569D5040FA345A25668D6207535AA",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -74,7 +74,7 @@
         }
       },
       "$en_esfreez1_0009": {
-        "Target": "{X12Y12F3L4B3C4}Сотрудник Лунных врат{Line}«Не могу сказать, что в этом нет никакого{Line} риска. Что будете делать?»{Line}(...Космос? Дайте мне подумать){Line}(...Я сделаю всё, что потребуется){End}",
+        "Target": "{X12Y12F3L4B3C4}Сотрудник Лунных врат{Line}Не могу сказать, что в этом нет никакого{Line} риска. Что будете делать?{Line}(...Космос? Дайте мне подумать){Line}(...Я сделаю всё, что потребуется){End}",
         "Source Text SHA256": "D172F9F0DA1137888C8CB4BBCC2C1C396105E6CFE338B819E0AFC900B6108686",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -82,7 +82,7 @@
         }
       },
       "$en_esfreez1_0010": {
-        "Target": "{X60Y40}{Char Squall}{Line}«... Думаю, мне нужно подготовиться».{End}",
+        "Target": "{X60Y40}{Char Squall}{Line}... Думаю, мне нужно подготовиться.{End}",
         "Source Text SHA256": "2D9AEE1D46C9F86612C8FF5807C3E5812E62A6353782D9CE1766516FA15144E8",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -90,7 +90,7 @@
         }
       },
       "$en_esfreez1_0011": {
-        "Target": "{X60Y40}{Char Squall}{Line}«... Сделаем это».{End}",
+        "Target": "{X60Y40}{Char Squall}{Line}... Сделаем это.{End}",
         "Source Text SHA256": "F3853BE5D588FF9936507D4E74A3E7AD90B46EEED3F4C0719C9EAC7F52FAFBC7",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -98,7 +98,7 @@
         }
       },
       "$en_esfreez1_0012": {
-        "Target": "{X12Y12F2L3B2C3}Сотрудник Лунных врат{Line}«Готовы?»{Line}(...Ещё нет){Line}(Начинаем){End}",
+        "Target": "{X12Y12F2L3B2C3}Сотрудник Лунных врат{Line}Готовы?{Line}(...Ещё нет){Line}(Начинаем){End}",
         "Source Text SHA256": "49EAC5C12969CDA063EB29FC3C621F7FF94D59C5F92309768E9FC98141BC4CDA",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -106,7 +106,7 @@
         }
       },
       "$en_esfreez1_0013": {
-        "Target": "{X60Y40}{Char Squall}{Line}«...Минутку».{End}",
+        "Target": "{X60Y40}{Char Squall}{Line}...Минутку.{End}",
         "Source Text SHA256": "23A94E25686900B23E631229B972CBD9A688FAD144B81845CD0C19B1B3963AB2",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -114,7 +114,7 @@
         }
       },
       "$en_esfreez1_0014": {
-        "Target": "{X12Y12}Сотрудник Лунных врат{Line}{Line} «Хорошо, вам нужно выбрать, кого{Line} вы возьмёте с{Line} собой».{End}",
+        "Target": "{X12Y12}Сотрудник Лунных врат{Line}{Line} Хорошо, вам нужно выбрать, кого{Line} вы возьмёте с{Line} собой.{End}",
         "Source Text SHA256": "93C99A3B7F3B5374FF3B8FA77B592D40FA35A6A13E3EC8869A612C1F7AA55B17",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -122,7 +122,7 @@
         }
       },
       "$en_esfreez1_0015": {
-        "Target": "{X40Y40}{Char Edea}{Line}«.........»{Next}«...{Line} Между тем, нужно сделать что-нибудь, чтобы подавить мои силы...»{End}",
+        "Target": "{X40Y40}{Char Edea}{Line}.........{Next}...{Line} Между тем, нужно сделать что-нибудь, чтобы подавить мои силы...{End}",
         "Source Text SHA256": "7C2646338461E4FDFB9F375C9BAE627D868A4438124AB10AA1C0553CDC531FD9",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -130,7 +130,7 @@
         }
       },
       "$en_esfreez1_0016": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Но Матроне слишком{Line} опасно оставаться одной!»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Но Матроне слишком{Line} опасно оставаться одной!{End}",
         "Source Text SHA256": "34AF8CDB0C7AC3EE158F4A1E9CB13750621B997E16FBF36D4B1511039E271922",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -138,7 +138,7 @@
         }
       },
       "$en_esfreez1_0017": {
-        "Target": "{X20Y20}{Char Zell}{Line}«Тогда позвольте мне сопровождать её!{Line} Давай, {Char Squall}, что скажешь?!»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}Тогда позвольте мне сопровождать её!{Line} Давай, {Char Squall}, что скажешь?!{End}",
         "Source Text SHA256": "B49E55ED197B86798F8B0FF2DDD074359BB67A3F6CB4EC2752F2AE54F418FF74",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -154,7 +154,7 @@
         }
       },
       "$en_esfreez1_0019": {
-        "Target": "{X60Y40}{Char Squall}{Line}«Уверен, что справишься?..»{End}",
+        "Target": "{X60Y40}{Char Squall}{Line}Уверен, что справишься?..{End}",
         "Source Text SHA256": "33DA00131BB16465F4A797157E32AFAD354CDB0803405872F2BC99B4B1831F00",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -162,7 +162,7 @@
         }
       },
       "$en_esfreez1_0020": {
-        "Target": "{X20Y20}{Char Zell}{Line}«А почему не{Line} Я?! Потому что я трус?! ...{Next}Тогда... позволь{Line} я докажу тебе! Я{Line} СИД, такой же, как и ТЫ!»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}А почему не{Line} Я?! Потому что я трус?! ...{Next}Тогда... позволь{Line} я докажу тебе! Я{Line} СИД, такой же, как и ТЫ!{End}",
         "Source Text SHA256": "13AFA7DB0620F2D5631C335D060D54F89AD4490F453A987E5E41E1DA2441C5D4",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -170,7 +170,7 @@
         }
       },
       "$en_esfreez1_0021": {
-        "Target": "{X12Y40}{Char Edea}{Line}«...Я бы тоже предпочла, чтобы рядом был{Line} Зелл. Это дало бы мне ощущение защищённости...»{End}",
+        "Target": "{X12Y40}{Char Edea}{Line}...Я бы тоже предпочла, чтобы рядом был{Line} Зелл. Это дало бы мне ощущение защищённости...{End}",
         "Source Text SHA256": "62EDE76B32BA0F812D7321476C164A6AFAA0344FFC52B89D077475D91F6DE35E",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -178,7 +178,7 @@
         }
       },
       "$en_esfreez1_0022": {
-        "Target": "{X12Y40}{Char Quistis}{Line}«У меня нет никаких возражений насчёт Зелла».{End}",
+        "Target": "{X12Y40}{Char Quistis}{Line}У меня нет никаких возражений насчёт Зелла.{End}",
         "Source Text SHA256": "8DBC9416CB4E7F38329CC7A58A8677AC9C603929DA8842B6FF1816C914FFAA04",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -186,7 +186,7 @@
         }
       },
       "$en_esfreez1_0023": {
-        "Target": "{X12Y40}{Char Selphie}{Line}«И у меня!!!»{End}",
+        "Target": "{X12Y40}{Char Selphie}{Line}И у меня!!!{End}",
         "Source Text SHA256": "352A30C43764011AFDE11E4819FA5F864B8A514F562F4A20686975A5ACF612E9",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -194,7 +194,7 @@
         }
       },
       "$en_esfreez1_0024": {
-        "Target": "{X12Y40}{Char Irvine}{Line}«Тогда решено, {Char Squall}..»{End}",
+        "Target": "{X12Y40}{Char Irvine}{Line}Тогда решено, {Char Squall}..{End}",
         "Source Text SHA256": "CACFCC3B8DE93217D79F3C302663C31083B726B32DAA1602001EF8EEB2CD06ED",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -210,7 +210,7 @@
         }
       },
       "$en_esfreez1_0026": {
-        "Target": "{X60Y40}{Char Squall}{Line}{Line} «Хорошо. Передаю это в руки Зелла».{End}",
+        "Target": "{X60Y40}{Char Squall}{Line}{Line} Хорошо. Передаю это в руки Зелла.{End}",
         "Source Text SHA256": "62CD0295B51D874466FC56F1738A35C26090FA2DB9E6AC263E649A2FD25778E4",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -218,7 +218,7 @@
         }
       },
       "$en_esfreez1_0027": {
-        "Target": "{X20Y20}{Char Zell}{Line}«ООО ДААА!»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}ООО ДААА!{End}",
         "Source Text SHA256": "77B302DDFA01DFEC15AC28FCF8569E2505DA7F4849EBA314C2D2EF768BF9B4A9",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -226,7 +226,7 @@
         }
       },
       "$en_esfreez1_0028": {
-        "Target": "{X20Y20}{Char Zell}{Line}«Я сделаю всё, что потребуется, чтобы присмотреть за вами.{Line} Ни о чём не беспокойтесь!»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}Я сделаю всё, что потребуется, чтобы присмотреть за вами.{Line} Ни о чём не беспокойтесь!{End}",
         "Source Text SHA256": "C917B05C86D550C8806804B07C3837B8693E2B7027B691BBE6B79385F6BAFE9F",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -234,7 +234,7 @@
         }
       },
       "$en_esfreez1_0029": {
-        "Target": "{X20Y20}{Char Zell}{Line}«{Char Squall}, не беспокойся за нас!»{End}",
+        "Target": "{X20Y20}{Char Zell}{Line}{Char Squall}, не беспокойся за нас!{End}",
         "Source Text SHA256": "C037BCE79A8F42AFED2419E61DCD74576F438C4781EB3D4BC375C7F47329C933",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -250,7 +250,7 @@
         }
       },
       "$en_esfreez1_0031": {
-        "Target": "{X60Y40}{Char Squall}{Line}«Ладно, дайте мне решить, кто отправится».{End}",
+        "Target": "{X60Y40}{Char Squall}{Line}Ладно, дайте мне решить, кто отправится.{End}",
         "Source Text SHA256": "36BA35EDE815A06C9FC86666F2F9539C9966175AEE89B73378E43DBE2BFCAF8D",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -258,7 +258,7 @@
         }
       },
       "$en_esfreez1_0032": {
-        "Target": "{X12Y12F2L3B2C3}Сотрудник Лунных врат{Line}«Вы готовы?»{Line}(...Да){Line}(...Позвольте, я всё обдумаю){End}",
+        "Target": "{X12Y12F2L3B2C3}Сотрудник Лунных врат{Line}Вы готовы?{Line}(...Да){Line}(...Позвольте, я всё обдумаю){End}",
         "Source Text SHA256": "17788D6D02F058571F72EFE495EB93291C512B189792A3905530520F56839495",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -266,7 +266,7 @@
         }
       },
       "$en_esfreez1_0033": {
-        "Target": "{X12Y12}Сотрудник Лунных врат{Line}«Хорошо, те, кто отправляется, полезайте внутрь».{End}",
+        "Target": "{X12Y12}Сотрудник Лунных врат{Line}Хорошо, те, кто отправляется, полезайте внутрь.{End}",
         "Source Text SHA256": "11B4C817062FFC914EDF6B828B25A3D1ABE48D15EA4AAC2F7FCC0D9B25AB6475",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -274,7 +274,7 @@
         }
       },
       "$en_esfreez1_0034": {
-        "Target": "{X12Y12}{Char Zell}{Line}«{Char Squall}, у нас мало времени!»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}{Char Squall}, у нас мало времени!{End}",
         "Source Text SHA256": "3C2124C454F5D05E3C5EBB5D03DE8B4AF1B5CCEB5C79BA01ACFBADDF13C6E070",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -282,7 +282,7 @@
         }
       },
       "$en_esfreez1_0035": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«{Char Squall}, ты должен сделать это, ради {Char Rinoa}..»{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}{Char Squall}, ты должен сделать это, ради {Char Rinoa}..{End}",
         "Source Text SHA256": "90A185EE54A470F494DF4A691C680950732B832F80CD78C031CAE1BEDA3BC76A",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -290,7 +290,7 @@
         }
       },
       "$en_esfreez1_0036": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Что, {Char Squall}, струсил? Ни за{Line} что бы не подумал...»{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Что, {Char Squall}, струсил? Ни за{Line} что бы не подумал...{End}",
         "Source Text SHA256": "1E58E1933FCBDF6FD3A0211116F2854001D11308CBDABF69493F33DCAEDA6977",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -298,7 +298,7 @@
         }
       },
       "$en_esfreez1_0037": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«Всё будет хорошо, {Char Squall}!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}Всё будет хорошо, {Char Squall}!{End}",
         "Source Text SHA256": "BF84490DF9FFC1EB0490D775182014F805B49D4151E23B732EDB4DEE185C6C76",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -306,7 +306,7 @@
         }
       },
       "$en_esfreez1_0038": {
-        "Target": "{X12Y12}{Char Edea}{Line}«{Char Squall}, давай доверимся им.»{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}{Char Squall}, давай доверимся им.{End}",
         "Source Text SHA256": "8A931D7EA4C5A1764C2A96FD3EB7DEA0B1D2C768A2288FDFA91353878FCF0ED7",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -314,7 +314,7 @@
         }
       },
       "$en_esfreez1_0039": {
-        "Target": "{X12Y12}{Char Zell}{Line}«Можешь на меня рассчитывать, {Char Squall}!»{End}",
+        "Target": "{X12Y12}{Char Zell}{Line}Можешь на меня рассчитывать, {Char Squall}!{End}",
         "Source Text SHA256": "DC73A2494A0003682C43CB6DAFE6FEA686060113C9ABAA28D1930E04E0560D75",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -322,7 +322,7 @@
         }
       },
       "$en_esfreez1_0040": {
-        "Target": "{X12Y12}{Char Edea}{Line}«Не волнуйся за нас...»{End}",
+        "Target": "{X12Y12}{Char Edea}{Line}Не волнуйся за нас...{End}",
         "Source Text SHA256": "924D77B0B43BE540A07DCDA99E2A5A4290260A7DB1A91C5137AAAAFD199BA283",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -330,7 +330,7 @@
         }
       },
       "$en_esfreez1_0041": {
-        "Target": "{X12Y12}{Char Irvine}{Line}«Разберись с этим, {Char Squall}!»{End}",
+        "Target": "{X12Y12}{Char Irvine}{Line}Разберись с этим, {Char Squall}!{End}",
         "Source Text SHA256": "5FB2582BE8D01AF5B7DA228FAE11908EE3A1202540701B390574C506AF7A6C0E",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -338,7 +338,7 @@
         }
       },
       "$en_esfreez1_0042": {
-        "Target": "{X12Y12}{Char Selphie}{Line}«{Char Squall}, с {Char Rinoa} всё будет хорошо!»{End}",
+        "Target": "{X12Y12}{Char Selphie}{Line}{Char Squall}, с {Char Rinoa} всё будет хорошо!{End}",
         "Source Text SHA256": "9CE26CE9286113ADD85042CEFBD281422F0A6823147272E2E9CCD20042E25D29",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -346,7 +346,7 @@
         }
       },
       "$en_esfreez1_0043": {
-        "Target": "{X12Y12}{Char Quistis}{Line}«Всё будет хорошо, {Char Squall}».{End}",
+        "Target": "{X12Y12}{Char Quistis}{Line}Всё будет хорошо, {Char Squall}.{End}",
         "Source Text SHA256": "ED509B89D1A9C0F7808530024861BCA3F18E87F8B0A783243E374D07DA190E43",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",
@@ -354,7 +354,7 @@
         }
       },
       "$en_esfreez1_0044": {
-        "Target": "{X12Y12}Сотрудник Лунных врат{Line}«Хорошо, заходите внутрь».{End}",
+        "Target": "{X12Y12}Сотрудник Лунных врат{Line}Хорошо, заходите внутрь.{End}",
         "Source Text SHA256": "4A2AA4C872875F6297E79B782149C73C34E85DB9940B798F570190858471DC8B",
         "sourceContext": {
           "Source MSD SHA256": "78A2F6F561EAE357DAD097211A347D3E11899BB8973AEFF3F6FD6A5C2A8EE059",

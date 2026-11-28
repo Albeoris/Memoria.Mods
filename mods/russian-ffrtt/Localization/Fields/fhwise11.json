@@ -26,7 +26,7 @@
         }
       },
       "$en_fhwise11_0003": {
-        "Target": "{X130Y10}{Char Rinoa}{Line}«{Char Squall}, не могу поверить,{Line}что ты ничего не сказал!»{End}",
+        "Target": "{X130Y10}{Char Rinoa}{Line}{Char Squall}, не могу поверить,{Line}что ты ничего не сказал!{End}",
         "Source Text SHA256": "1C6E4568E89D00460C600E51A132EF0EB8A7EACF6E81B0F561BF125CD6684502",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -34,7 +34,7 @@
         }
       },
       "$en_fhwise11_0004": {
-        "Target": "{X90Y10}{Char Zell}{Line}«Блин, этот чувак меня достал!{Line}{Char Squall}, почему ты ничего ему не ответил?!»{End}",
+        "Target": "{X90Y10}{Char Zell}{Line}Блин, этот чувак меня достал!{Line}{Char Squall}, почему ты ничего ему не ответил?!{End}",
         "Source Text SHA256": "AEEC05ADAE3EF80BCD3C0EF1C64712DEF24EEDAC5E262DA194E0631528EA2F5B",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -42,7 +42,7 @@
         }
       },
       "$en_fhwise11_0005": {
-        "Target": "{X105Y10}{Char Irvine}{Line}«Так... и всё?{Line}Просто уйдём?»{End}",
+        "Target": "{X105Y10}{Char Irvine}{Line}Так... и всё?{Line}Просто уйдём?{End}",
         "Source Text SHA256": "5D7580F446F071FB5C9F6D30C7D46A7ECAE87DD3962B90D2CF31F432C430E2BD",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -50,7 +50,7 @@
         }
       },
       "$en_fhwise11_0006": {
-        "Target": "{X100Y10}{Char Quistis}{Line}«...Ох, как неприятно вышло».{End}",
+        "Target": "{X100Y10}{Char Quistis}{Line}...Ох, как неприятно вышло.{End}",
         "Source Text SHA256": "A2E7EA9BAEBCB161FF975F07F2C6C792846ACBFF4BE6056EF4F2F557EA8CE4E5",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -58,7 +58,7 @@
         }
       },
       "$en_fhwise11_0007": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Забудьте об этом. Нельзя{Line} ждать от всех гостеприимства».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Забудьте об этом. Нельзя{Line} ждать от всех гостеприимства.{End}",
         "Source Text SHA256": "4AFE384A76D4D9A383BEF74033D7B88F2D8A8D1F7404CF5C7DFD70F8129984BA",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -66,7 +66,7 @@
         }
       },
       "$en_fhwise11_0008": {
-        "Target": "{X10Y10}«Мэр, у нас большие{Line} проблемы! На подходе гальбадианцы!»{End}",
+        "Target": "{X10Y10}Мэр, у нас большие{Line} проблемы! На подходе гальбадианцы!{End}",
         "Source Text SHA256": "49BD2E27A751ACBB7467566C05FB21B89A9C4BA56461073CD8E503EB525734C8",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -74,7 +74,7 @@
         }
       },
       "$en_fhwise11_0009": {
-        "Target": "{X150Y10}Мэр Доуб{Line}«Гальбадианцы? Они вооружены?»{End}",
+        "Target": "{X150Y10}Мэр Доуб{Line}Гальбадианцы? Они вооружены?{End}",
         "Source Text SHA256": "D2F616C474D1221D06E9EF5EF8735A559E1375CAFC35C248D1208404F69DFEC5",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -82,7 +82,7 @@
         }
       },
       "$en_fhwise11_0010": {
-        "Target": "{X79Y20}Фло{Line}«Должно быть, это какая-то ошибка».{End}",
+        "Target": "{X79Y20}Фло{Line}Должно быть, это какая-то ошибка.{End}",
         "Source Text SHA256": "1EA125FEF8F0CC7AE166C53DEFAADA9310C50CA8953A0E1F9AA7B366A57A04BE",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -90,7 +90,7 @@
         }
       },
       "$en_fhwise11_0011": {
-        "Target": "{X35Y10}Мэр Доуб{Line}«Без паники. Я знаю президента{Line} Делинга. Я выйду поговорить с ними{Line} и всё улажу».{End}",
+        "Target": "{X35Y10}Мэр Доуб{Line}Без паники. Я знаю президента{Line} Делинга. Я выйду поговорить с ними{Line} и всё улажу.{End}",
         "Source Text SHA256": "5921282B005D54027094883C2BE8CD663E21D2A91665C1572EB3BFE04EC1C5BA",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -98,7 +98,7 @@
         }
       },
       "$en_fhwise11_0012": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Президент Делинг мёртв.{Next}Теперь Гальбадией правит волшебница».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Президент Делинг мёртв.{Next}Теперь Гальбадией правит волшебница.{End}",
         "Source Text SHA256": "6D554CD03260C91C09AD15EFBFE0CC98A61A2F70BB1C8B150B505AC14596EDB5",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -106,7 +106,7 @@
         }
       },
       "$en_fhwise11_0013": {
-        "Target": "{X31Y10}Фло{Line}«Волшебница тоже человек.{Line}Уверена, мы сможем договориться».{End}",
+        "Target": "{X31Y10}Фло{Line}Волшебница тоже человек.{Line}Уверена, мы сможем договориться.{End}",
         "Source Text SHA256": "65EC06EE68800F2A96CA3402F022733B873C53E4DC54914C03FD35845D6ECFE3",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -114,7 +114,7 @@
         }
       },
       "$en_fhwise11_0014": {
-        "Target": "{X242Y10}Фло{Line}«Верно?»{End}",
+        "Target": "{X242Y10}Фло{Line}Верно?{End}",
         "Source Text SHA256": "100FD47C69A166AD3960EAF8EFD82C2CE7E4477AB3F6DEBFAC48E4C2613A7FE0",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -130,7 +130,7 @@
         }
       },
       "$en_fhwise11_0016": {
-        "Target": "{X10Y10}Фло{Line}«Но с чего бы гальбадианцам...»{End}",
+        "Target": "{X10Y10}Фло{Line}Но с чего бы гальбадианцам...{End}",
         "Source Text SHA256": "E85D07407CFFC6328E6AC7CBC3DEB5895A5C1B1A136BDB91AD6D4639C9A0D4C1",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -138,7 +138,7 @@
         }
       },
       "$en_fhwise11_0017": {
-        "Target": "{X63Y10}Мэр Доуб{Line}«Уверен, всё будет хорошо».{End}",
+        "Target": "{X63Y10}Мэр Доуб{Line}Уверен, всё будет хорошо.{End}",
         "Source Text SHA256": "A07DA7207833F2E8981268135BCA0205D2A446DA1AC996811A7259BC3B837EA8",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",
@@ -146,7 +146,7 @@
         }
       },
       "$en_fhwise11_0018": {
-        "Target": "{X10Y10}«Они прибыли на {Color Blue}〖станцию〗{Color White}.{Line}Вооружены до зубов».{End}",
+        "Target": "{X10Y10}Они прибыли на {Color Blue}〖станцию〗{Color White}.{Line}Вооружены до зубов.{End}",
         "Source Text SHA256": "12DF790DC0EC88EA29F2B9A494E6520E380DABF24C11A8338C400D0ED8E99135",
         "sourceContext": {
           "Source MSD SHA256": "2009059F3D45C432BF57C78259F0918CDBC3FC708161A2E44AD6B40EE7CD2331",

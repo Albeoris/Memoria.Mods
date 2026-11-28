@@ -2,7 +2,7 @@
   "Fields": {
     "tmele1": {
       "$en_tmele1_0000": {
-        "Target": "{X100Y30}«Пожалуйста, садитесь».{End}",
+        "Target": "{X100Y30}Пожалуйста, садитесь.{End}",
         "Source Text SHA256": "61E1E3D65011A2BA7D66B12558C43408A44A79D2EC820FB43F3CD4E4278BC1B6",
         "sourceContext": {
           "Source MSD SHA256": "3A88158E717BF2586F9020B3AACAD5E60754B4B5E89E127946EE7BE680464361",
@@ -10,7 +10,7 @@
         }
       },
       "$en_tmele1_0001": {
-        "Target": "{X60Y20}«Добро пожаловать в деревню Шуми».{End}",
+        "Target": "{X60Y20}Добро пожаловать в деревню Шуми.{End}",
         "Source Text SHA256": "15D0D010B671F1302261814536226A23FF170F5F7FEAB319BF364A773D654460",
         "sourceContext": {
           "Source MSD SHA256": "3A88158E717BF2586F9020B3AACAD5E60754B4B5E89E127946EE7BE680464361",
@@ -18,7 +18,7 @@
         }
       },
       "$en_tmele1_0002": {
-        "Target": "«Обычно мы пускаем в деревню{Line} лишь немногих избранных торговцев».{End}",
+        "Target": "Обычно мы пускаем в деревню{Line} лишь немногих избранных торговцев.{End}",
         "Source Text SHA256": "16B677136426DA07E05A3C839A20F0739449672F48CD256FC1CD278B25ED0224",
         "sourceContext": {
           "Source MSD SHA256": "3A88158E717BF2586F9020B3AACAD5E60754B4B5E89E127946EE7BE680464361",
@@ -26,7 +26,7 @@
         }
       },
       "$en_tmele1_0003": {
-        "Target": "{X60Y20}«Вам выдали особое разрешение на вход.{Line} Надеемся, вам у нас понравится».{End}",
+        "Target": "{X60Y20}Вам выдали особое разрешение на вход.{Line} Надеемся, вам у нас понравится.{End}",
         "Source Text SHA256": "8FCAF84C28607B4C1D24697E4E6CBA08DD8823747B2DFF1F895A84BA64AD7051",
         "sourceContext": {
           "Source MSD SHA256": "3A88158E717BF2586F9020B3AACAD5E60754B4B5E89E127946EE7BE680464361",
@@ -34,7 +34,7 @@
         }
       },
       "$en_tmele1_0004": {
-        "Target": "{X60Y20}«Лифт скоро прибудет{Line} к {Color Blue}〖входу в деревню〗{Color White}».{End}",
+        "Target": "{X60Y20}Лифт скоро прибудет{Line} к {Color Blue}〖входу в деревню〗{Color White}.{End}",
         "Source Text SHA256": "96204B80DFA88E5358100E4FEDCEDC5863D6E4F7E6E96BE04346D6DF9CF3389C",
         "sourceContext": {
           "Source MSD SHA256": "3A88158E717BF2586F9020B3AACAD5E60754B4B5E89E127946EE7BE680464361",
@@ -42,7 +42,7 @@
         }
       },
       "$en_tmele1_0005": {
-        "Target": "{X100Y30}«Пожалуйста, выходите через дверь».{End}",
+        "Target": "{X100Y30}Пожалуйста, выходите через дверь.{End}",
         "Source Text SHA256": "106A5504C4CB1F663706B2DB335DF5B4CA292B1827AADBFE8317FE5CAF054C58",
         "sourceContext": {
           "Source MSD SHA256": "3A88158E717BF2586F9020B3AACAD5E60754B4B5E89E127946EE7BE680464361",
@@ -50,7 +50,7 @@
         }
       },
       "$en_tmele1_0006": {
-        "Target": "{X100Y70}Голос помощника{Line}«{Color Yellow}Показать ему, как мы изменились.{Line} Снова увидеть господина Лагуну.{Color White}»{End}",
+        "Target": "{X100Y70}Голос помощника{Line}{Color Yellow}Показать ему, как мы изменились.{Line} Снова увидеть господина Лагуну.{Color White}{End}",
         "Source Text SHA256": "5478571BDAD45C76854B362573E77497E31AEB7E8986B0C43F3CD4E2D0258C71",
         "sourceContext": {
           "Source MSD SHA256": "3A88158E717BF2586F9020B3AACAD5E60754B4B5E89E127946EE7BE680464361",
@@ -58,7 +58,7 @@
         }
       },
       "$en_tmele1_0007": {
-        "Target": "{X100Y70}Голос помощника{Line}«{Color Yellow}Господин Лагуна...{Color White}»{End}",
+        "Target": "{X100Y70}Голос помощника{Line}{Color Yellow}Господин Лагуна...{Color White}{End}",
         "Source Text SHA256": "825C8932B0418E6E970A1B742FA76CD9743D0746F23D8170A780B1F128BBEC99",
         "sourceContext": {
           "Source MSD SHA256": "3A88158E717BF2586F9020B3AACAD5E60754B4B5E89E127946EE7BE680464361",
@@ -66,7 +66,7 @@
         }
       },
       "$en_tmele1_0008": {
-        "Target": "Голос помощника{Line}«{Color Yellow}Шуми...{Color White}»{End}",
+        "Target": "Голос помощника{Line}{Color Yellow}Шуми...{Color White}{End}",
         "Source Text SHA256": "E322DBEB30BB86D8BF1C263434582A9FF3DD3C92FEA3FFB0C0FE55F4E5B55703",
         "sourceContext": {
           "Source MSD SHA256": "3A88158E717BF2586F9020B3AACAD5E60754B4B5E89E127946EE7BE680464361",

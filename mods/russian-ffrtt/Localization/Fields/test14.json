@@ -314,7 +314,7 @@
         }
       },
       "$en_test14_0039": {
-        "Target": "   «{Key Circle} 1{Line} {Key Square} 3  {Key Cross} 2{Line}    {Key Triangle} 4    »{End}",
+        "Target": "   {Key Circle} 1{Line} {Key Square} 3  {Key Cross} 2{Line}    {Key Triangle} 4    {End}",
         "Source Text SHA256": "6EA5DEDC6A4FF504CE095DFC85878ECA4F978B8831D9CF2A089995A65E690813",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",
@@ -330,7 +330,7 @@
         }
       },
       "$en_test14_0041": {
-        "Target": "«Тогда... 5677.{Line} А?.. Это же не от 1 до 4...{Line} Что-то не так?»{Next}«Всё нормально. Нажми две кнопки сразу,{Line} чтобы их сумма дала нужное число.{Line} Для 6 — это 2 и 4».{Next}«Тогда... 5677.{Line} Следуй сообщениям и введи код.{Line} Запусти сообщение кнопкой подтверждения с кружком».{End}",
+        "Target": "Тогда... 5677.{Line} А?.. Это же не от 1 до 4...{Line} Что-то не так?{Next}Всё нормально. Нажми две кнопки сразу,{Line} чтобы их сумма дала нужное число.{Line} Для 6 — это 2 и 4.{Next}Тогда... 5677.{Line} Следуй сообщениям и введи код.{Line} Запусти сообщение кнопкой подтверждения с кружком.{End}",
         "Source Text SHA256": "B7E6EDBF47E6559086FFDB8D75D52FEEA712955504494A0FC47ABAC199B4DA8B",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",
@@ -362,7 +362,7 @@
         }
       },
       "$en_test14_0045": {
-        "Target": "«Введи третью цифру!»{End}",
+        "Target": "Введи третью цифру!{End}",
         "Source Text SHA256": "C3D2C07E068E3023BE753EAB6F54A877DED6CD2D40BEA4A51313FE8793E8BE75",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",
@@ -378,7 +378,7 @@
         }
       },
       "$en_test14_0047": {
-        "Target": "«Не вышло!{Line} Попробуй ещё раз».{End}",
+        "Target": "Не вышло!{Line} Попробуй ещё раз.{End}",
         "Source Text SHA256": "5C652F4028D2E82C72EC62EEC3258138154D9B2E3B343F6301E7E0B889C34461",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",
@@ -498,7 +498,7 @@
         }
       },
       "$en_test14_0059": {
-        "Target": "{X80Y80}{Char Quistis}{Line}«Не думала,{Line} что он {Color Grey}всерьёз».{End}",
+        "Target": "{X80Y80}{Char Quistis}{Line}Не думала,{Line} что он {Color Grey}всерьёз.{End}",
         "Source Text SHA256": "C3A2249F8AB4193260DA1950314BE3A43F2B2E9672B7D5C92D42D26152743EBB",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",
@@ -506,7 +506,7 @@
         }
       },
       "$en_test14_0060": {
-        "Target": "{Char Zell}{Line}«Пожалуйста... Не трогай».{End}",
+        "Target": "{Char Zell}{Line}Пожалуйста... Не трогай.{End}",
         "Source Text SHA256": "DF0DA1C87A2C44554F397B7C6C16FB631A43C06497336339574608AB55906039",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",
@@ -514,7 +514,7 @@
         }
       },
       "$en_test14_0061": {
-        "Target": "Поддельный Скволл № 2{Line}«Ха-ха-ха!..{Line} Беги, беги!{Line} Они тебя догонят!»{End}",
+        "Target": "Поддельный Скволл № 2{Line}Ха-ха-ха!..{Line} Беги, беги!{Line} Они тебя догонят!{End}",
         "Source Text SHA256": "1E5C49D15AC1A3F13A6D4082CA88DB2A7D9038FB40F23AEDDE39F76ABEAB7047",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",
@@ -522,7 +522,7 @@
         }
       },
       "$en_test14_0062": {
-        "Target": "Поддельный Скволл 2{Line}«Попался!{Line} Ням-ням-ням...{Line} Ик...»{End}",
+        "Target": "Поддельный Скволл 2{Line}Попался!{Line} Ням-ням-ням...{Line} Ик...{End}",
         "Source Text SHA256": "C85B410595601958D0E0192B23184553D822459B3BB4FA661D9F9E9F58E7B908",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",
@@ -530,7 +530,7 @@
         }
       },
       "$en_test14_0063": {
-        "Target": "Поддельный Скволл{Line}«Появилось!»{End}",
+        "Target": "Поддельный Скволл{Line}Появилось!{End}",
         "Source Text SHA256": "69A8DD4FA1B8487804144222F7EC7DCF67334781249973C50503EB6954B47DB7",
         "sourceContext": {
           "Source MSD SHA256": "ED110503411ADF094D26111CBAB394CA2873AF1979BBD91596F733FF71346404",

@@ -18,7 +18,7 @@
         }
       },
       "$en_bgryo2_2_0002": {
-        "Target": "{Char Selphie}{Line}«{Char Squall}, наше первое задание SeeD!»{Next}«Похоже, едем в {Color Blue}〖Тимбер〗{Color White}.{Line} Встречаемся {Color Blue}〖у главных ворот〗{Color White}».{Next}«Скорее!»{End}",
+        "Target": "{Char Selphie}{Line}{Char Squall}, наше первое задание SeeD!{Next}Похоже, едем в {Color Blue}〖Тимбер〗{Color White}.{Line} Встречаемся {Color Blue}〖у главных ворот〗{Color White}.{Next}Скорее!{End}",
         "Source Text SHA256": "6E2373C1D70FBFA537EA913936CE151B47CB9FED752F377AC2B0A599B7300439",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bgryo2_2_0003": {
-        "Target": "{X80Y160}{Char Squall}{Line}«Я просто пойду спать...»",
+        "Target": "{X80Y160}{Char Squall}{Line}Я просто пойду спать...",
         "Source Text SHA256": "AD55DC1846CEB5FE929CDA4BDF93DD98BF695A2702B5FD3734BC7518BE9BA253",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgryo2_2_0008": {
-        "Target": "{X64Y92}«Ты одолел всех четырёх мастеров».{End}",
+        "Target": "{X64Y92}Ты одолел всех четырёх мастеров.{End}",
         "Source Text SHA256": "DE55D415BFAC65609EED8B61CF20DA578515692D57843C990BE65C8383AD2598",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgryo2_2_0009": {
-        "Target": "{X49Y92}«Ты доказал, что достоин».{End}",
+        "Target": "{X49Y92}Ты доказал, что достоин.{End}",
         "Source Text SHA256": "76DC39A083FAB284711202468B791042FA61DA128A2946F49531823B11C4D946",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -82,7 +82,7 @@
         }
       },
       "$en_bgryo2_2_0010": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«Перед тобой лидер группы КК{Line} и повелитель карт - король...»{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}Перед тобой лидер группы КК{Line} и повелитель карт - король...{End}",
         "Source Text SHA256": "ED01355704544EED380BAACB3563BB99E9817796FCEA74FB203FDF6FD0E732EB",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -90,7 +90,7 @@
         }
       },
       "$en_bgryo2_2_0011": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«...Это я, Квистис Трип.{Line} Униформа группы КК была придумана мной!»{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}...Это я, Квистис Трип.{Line} Униформа группы КК была придумана мной!{End}",
         "Source Text SHA256": "2EFB398E2DBBDB8DB3F58A4445B3943A2787D8E0777D9249197A96AB4356840B",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgryo2_2_0012": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«{Char Squall}, ну ты даёшь.{Line} Не верится, что ты стал{Line} так хорошо играть».{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}{Char Squall}, ну ты даёшь.{Line} Не верится, что ты стал{Line} так хорошо играть.{End}",
         "Source Text SHA256": "93DB5D0ABEA152FDC5B5C219282E4B406C384B045443E4F1C3ED34426B3BDCE4",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bgryo2_2_0013": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«Нам суждено было сойтись в карточном поединке. Да{Line} начнётся же битва!»{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}Нам суждено было сойтись в карточном поединке. Да{Line} начнётся же битва!{End}",
         "Source Text SHA256": "7E641AAE40D2ADA0874FA07D4692588A169609E939BF09FF390E67A4D8D86E52",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bgryo2_2_0014": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«Не верится, что я проиграла».{Next}«Только пока{Line} не зазнавайся».{Next}«С этого дня мы можем{Line} играть на равных».{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}Не верится, что я проиграла.{Next}Только пока{Line} не зазнавайся.{Next}С этого дня мы можем{Line} играть на равных.{End}",
         "Source Text SHA256": "CB7DEE8C1E924F56907CBB6B55BAB395D850F649F0EB587343A4281BA5BFD172",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bgryo2_2_0015": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«А ты неплохо играешь.{Line} Как я и ожидала».{Next}«Думаю, мы с тобой{Line} ещё не раз сыграем».{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}А ты неплохо играешь.{Line} Как я и ожидала.{Next}Думаю, мы с тобой{Line} ещё не раз сыграем.{End}",
         "Source Text SHA256": "0921BD109E47F1D818924EE499F47C5B0A0009DBEFFE9D76031639DB73709E93",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bgryo2_2_0016": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«Тебе ещё многому надо научиться.{Line} Я думала, к этому времени{Line} ты будешь играть лучше».{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}Тебе ещё многому надо научиться.{Line} Я думала, к этому времени{Line} ты будешь играть лучше.{End}",
         "Source Text SHA256": "5D60E30F8E8B5162A0CACC5D342D74BBFAA9710220311CE71BB4C260FAC4CD0C",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -138,7 +138,7 @@
         }
       },
       "$en_bgryo2_2_0017": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«Ну нет… Теперь нельзя отступать!{Line} Нам суждено было сыграть».{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}Ну нет… Теперь нельзя отступать!{Line} Нам суждено было сыграть.{End}",
         "Source Text SHA256": "1D9D1F4721BCF3A9C6522CCCF93BAA9702C6652D138B949B412A7FEA94B53FF1",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -146,7 +146,7 @@
         }
       },
       "$en_bgryo2_2_0018": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«Я всегда готова сыграть,{Line} но только на мостике Сада».{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}Я всегда готова сыграть,{Line} но только на мостике Сада.{End}",
         "Source Text SHA256": "D6C68248BAB6E0164F54043967A297BE2EC39E401BD6FD6EDBB20E57E2B0546E",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -154,7 +154,7 @@
         }
       },
       "$en_bgryo2_2_0019": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«До встречи, {Char Squall}».{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}До встречи, {Char Squall}.{End}",
         "Source Text SHA256": "0BF348F7FA13BC5A54F4A83B7A1D7A0C5E1A1582D01AB74E1EE4B51ACF251471",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -162,7 +162,7 @@
         }
       },
       "$en_bgryo2_2_0020": {
-        "Target": "{X300Y200}{Char Quistis}{Line}«Как это у тебя{Line} не хватает карт?{Line} Ну что ж, жаль».{End}",
+        "Target": "{X300Y200}{Char Quistis}{Line}Как это у тебя{Line} не хватает карт?{Line} Ну что ж, жаль.{End}",
         "Source Text SHA256": "92F684DF12173A190EADE6859B696D64AF1E73563A5DF2BF13E9247CB0D1FDC2",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -170,7 +170,7 @@
         }
       },
       "$en_bgryo2_2_0021": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«{Char Squall}, ты знаешь{Line} правила Баламба, верно?{Line} Давай и их добавим».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}{Char Squall}, ты знаешь{Line} правила Баламба, верно?{Line} Давай и их добавим.{End}",
         "Source Text SHA256": "0EEAE4104796608A45B7EFA2966D8187778BF76C508A04D12AA34092F1E8EDAE",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -178,7 +178,7 @@
         }
       },
       "$en_bgryo2_2_0022": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«{Char Squall}, ты знаешь{Line} правила Гальбадии, верно?{Line} Давай и их добавим».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}{Char Squall}, ты знаешь{Line} правила Гальбадии, верно?{Line} Давай и их добавим.{End}",
         "Source Text SHA256": "81EE2351C38C24BA8C94015059C993E480E297D5F4996AA02F0CB9D5C42F4336",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -186,7 +186,7 @@
         }
       },
       "$en_bgryo2_2_0023": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«{Char Squall}, ты знаешь{Line} правила Трабии, верно?{Line} Давай и их добавим».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}{Char Squall}, ты знаешь{Line} правила Трабии, верно?{Line} Давай и их добавим.{End}",
         "Source Text SHA256": "B2B72763EC49B62CE2BDE54E82D7D37707827B842F4C21773767C8555C171963",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -194,7 +194,7 @@
         }
       },
       "$en_bgryo2_2_0024": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«{Char Squall}, ты знаешь{Line} правила Центры, верно?{Line} Давай и их добавим».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}{Char Squall}, ты знаешь{Line} правила Центры, верно?{Line} Давай и их добавим.{End}",
         "Source Text SHA256": "CB8699E6019CCBB4507BFCAF36318A84097C619E177A833AC677D95D29338E32",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -202,7 +202,7 @@
         }
       },
       "$en_bgryo2_2_0025": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«{Char Squall}, ты знаешь{Line} правила Доллета, верно?{Line} Давай и их добавим».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}{Char Squall}, ты знаешь{Line} правила Доллета, верно?{Line} Давай и их добавим.{End}",
         "Source Text SHA256": "73B83636B099CBC3AB6AC1B370EEB5D59C5505FE2AFEB41E3B429ABDB7F7DC12",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -210,7 +210,7 @@
         }
       },
       "$en_bgryo2_2_0026": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«{Char Squall}, ты знаешь{Line} правила Рыбацкого Горизонта, верно?{Line} Давай и их добавим».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}{Char Squall}, ты знаешь{Line} правила Рыбацкого Горизонта, верно?{Line} Давай и их добавим.{End}",
         "Source Text SHA256": "0D5BF8789168DD2A3ABD7609C05A1C31CC931CB2A869F78B1A8836328FC8CD4C",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -218,7 +218,7 @@
         }
       },
       "$en_bgryo2_2_0027": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«{Char Squall}, ты знаешь{Line} правила Лунной базы, верно?{Line} Давай и их добавим».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}{Char Squall}, ты знаешь{Line} правила Лунной базы, верно?{Line} Давай и их добавим.{End}",
         "Source Text SHA256": "2AFC67F3B3080C34BC216BB67946508B109C52C20F7F26465A67E292C03C1466",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -226,7 +226,7 @@
         }
       },
       "$en_bgryo2_2_0028": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«{Char Squall}, ты знаешь{Line} правила Эстара, верно?{Line} Давай и их добавим».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}{Char Squall}, ты знаешь{Line} правила Эстара, верно?{Line} Давай и их добавим.{End}",
         "Source Text SHA256": "14EA4E47924B9042C8E8D0EE729D04C5CCDD27470BC8155F04F22676662F08F4",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -474,7 +474,7 @@
         }
       },
       "$en_bgryo2_2_0045": {
-        "Target": "«Баламб»{End}",
+        "Target": "Баламб{End}",
         "Source Text SHA256": "588E5A0C901DA9573BBFBCBC7DFC0417D41958591E7B88A88BE8260A8E72379B",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -482,7 +482,7 @@
         }
       },
       "$en_bgryo2_2_0046": {
-        "Target": "«Гальбадия»{End}",
+        "Target": "Гальбадия{End}",
         "Source Text SHA256": "4D3C586BCEB5E371907A5F6EF7CFEA49ED7E228761C4D6C6E42B341B9AF030A2",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -490,7 +490,7 @@
         }
       },
       "$en_bgryo2_2_0047": {
-        "Target": "«Трабия»{End}",
+        "Target": "Трабия{End}",
         "Source Text SHA256": "F6AD33B6D709C41DF449BD5FFB8E0DE328B2BA50FE0976CC8D226CAD719E3C55",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -498,7 +498,7 @@
         }
       },
       "$en_bgryo2_2_0048": {
-        "Target": "«Центра»{End}",
+        "Target": "Центра{End}",
         "Source Text SHA256": "CF88B33D26A1274D2E43EFA6F5EB9FC39F62B83DE681E3D4D1C0DA4C44AED747",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -506,7 +506,7 @@
         }
       },
       "$en_bgryo2_2_0049": {
-        "Target": "«Доллет»{End}",
+        "Target": "Доллет{End}",
         "Source Text SHA256": "B0ABB598561F8B0A690C33A749348FF34C27B05031641DC0A66285D736143E59",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -514,7 +514,7 @@
         }
       },
       "$en_bgryo2_2_0050": {
-        "Target": "«Рыбацкий Горизонт»{End}",
+        "Target": "Рыбацкий Горизонт{End}",
         "Source Text SHA256": "2CE7A7E41CEA6D112918B92A84ED4C3195F3342F0C9D114A838BDD76353A7B2D",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -522,7 +522,7 @@
         }
       },
       "$en_bgryo2_2_0051": {
-        "Target": "«Космос»{End}",
+        "Target": "Космос{End}",
         "Source Text SHA256": "494A140341883E273AA25D85038D3EAFC0706017246757CDCB6851E1A35607C2",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -530,7 +530,7 @@
         }
       },
       "$en_bgryo2_2_0052": {
-        "Target": "«Эстар»{End}",
+        "Target": "Эстар{End}",
         "Source Text SHA256": "FDFFD6B74CF8BA356D3DEF39577EB22D67E187554B864637C9ABCECA5C0789B3",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",
@@ -538,7 +538,7 @@
         }
       },
       "$en_bgryo2_2_0053": {
-        "Target": "«Без дополнительных правил»{End}",
+        "Target": "Без дополнительных правил{End}",
         "Source Text SHA256": "8D54A0E4B298F36168A05B7B519A5E39B5C51CBDE2176434415C8C563513A155",
         "sourceContext": {
           "Source MSD SHA256": "EAA0E5D2D1594E178ACA1F7F00C09055959CA5FDFD1A9ED3CA9D8586D637D2B4",

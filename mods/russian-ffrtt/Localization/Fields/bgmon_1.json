@@ -10,7 +10,7 @@
         }
       },
       "$en_bgmon_1_0001": {
-        "Target": "{X160Y30}«Сюда, сюда! Мы{Line} нашли сидов!»{End}",
+        "Target": "{X160Y30}Сюда, сюда! Мы{Line} нашли сидов!{End}",
         "Source Text SHA256": "7FA0AF0042EA6048C6BEC2DAF3D141DFA7C2A6BDA4F69870B8953EC2D7571A3E",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -18,7 +18,7 @@
         }
       },
       "$en_bgmon_1_0002": {
-        "Target": "{X20Y8}«Здесь только дети и девчонка. Не{Line} дайте им уйти».{End}",
+        "Target": "{X20Y8}Здесь только дети и девчонка. Не{Line} дайте им уйти.{End}",
         "Source Text SHA256": "F2E456E1909211081EFA20B3BD02045B540243166AB454B81D9A5374D745CD10",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -26,7 +26,7 @@
         }
       },
       "$en_bgmon_1_0003": {
-        "Target": "{X160Y40}«Спасибо».{End}",
+        "Target": "{X160Y40}Спасибо.{End}",
         "Source Text SHA256": "245066665EAC4DDA05E1C0A164F0A887178277763E649BD66555C6CDD375B9E1",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -34,7 +34,7 @@
         }
       },
       "$en_bgmon_1_0004": {
-        "Target": "{X140Y20}«Спасибо,{Line}{Char Squall}..»{End}",
+        "Target": "{X140Y20}Спасибо,{Line}{Char Squall}..{End}",
         "Source Text SHA256": "F42D5E93215881A283B8F9B47CAD878CFF81E075C308E31DF7881C70AC8400D9",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -42,7 +42,7 @@
         }
       },
       "$en_bgmon_1_0005": {
-        "Target": "{X140Y20}«Директор? Его{Line} здесь нет».{End}",
+        "Target": "{X140Y20}Директор? Его{Line} здесь нет.{End}",
         "Source Text SHA256": "8C05FC923ACD74ADA541FF72B0C6192BA1D467238586CCA161AEA482609122BD",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -50,7 +50,7 @@
         }
       },
       "$en_bgmon_1_0006": {
-        "Target": "{X140Y20}«Вот,{Line} надеюсь, это поможет».{End}",
+        "Target": "{X140Y20}Вот,{Line} надеюсь, это поможет.{End}",
         "Source Text SHA256": "1537154C29845DB239D69F196D311F4B1B1FD03CF0846F65525544AA8CB09478",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -58,7 +58,7 @@
         }
       },
       "$en_bgmon_1_0007": {
-        "Target": "{X160Y40}«Когда-нибудь{Line} я стану таким же классным Сидом, как ты».{End}",
+        "Target": "{X160Y40}Когда-нибудь{Line} я стану таким же классным Сидом, как ты.{End}",
         "Source Text SHA256": "15CF60ED7A6676E4E0E1D3377A788A7B475E62888C843360B29E21A4A7F5D758",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -66,7 +66,7 @@
         }
       },
       "$en_bgmon_1_0008": {
-        "Target": "{X40Y40}«Спасибо».{End}",
+        "Target": "{X40Y40}Спасибо.{End}",
         "Source Text SHA256": "245066665EAC4DDA05E1C0A164F0A887178277763E649BD66555C6CDD375B9E1",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -74,7 +74,7 @@
         }
       },
       "$en_bgmon_1_0009": {
-        "Target": "{X40Y40}«Спасибо вам».{End}",
+        "Target": "{X40Y40}Спасибо вам.{End}",
         "Source Text SHA256": "F16B9B9EFBEB627A1B705FB8DEEACCD25B4FD240CA4BB60495959FE9D5C5EE58",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -98,7 +98,7 @@
         }
       },
       "$en_bgmon_1_0012": {
-        "Target": "{X47Y8}{Char Squall}{Line}«Это тренировочный центр, или,{Line} как мы его называем, монстрятник».{End}",
+        "Target": "{X47Y8}{Char Squall}{Line}Это тренировочный центр, или,{Line} как мы его называем, монстрятник.{End}",
         "Source Text SHA256": "916B33DDFD6B13DE36E0083E985F59B6C6FEF1B5AAA7B63BC6957442E40B5581",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -106,7 +106,7 @@
         }
       },
       "$en_bgmon_1_0013": {
-        "Target": "{X13Y8}{Char Squall}{Line}«За монстрами никто не присматривает, поэтому{Line} студенты могут почувствовать вкус настоящего боя».{End}",
+        "Target": "{X13Y8}{Char Squall}{Line}За монстрами никто не присматривает, поэтому{Line} студенты могут почувствовать вкус настоящего боя.{End}",
         "Source Text SHA256": "3D56841F9914D81BE76582B4006F44E8AF8FD3ACEF85A56577D49C3745E7BD4D",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -114,7 +114,7 @@
         }
       },
       "$en_bgmon_1_0014": {
-        "Target": "{X109Y8}{Char Squall}{Line}«Хочешь попробовать?»{End}",
+        "Target": "{X109Y8}{Char Squall}{Line}Хочешь попробовать?{End}",
         "Source Text SHA256": "3E7835A8133969908A1DB8A25712368B73FF87A7E9B73DC4A21D5F5C5AAB44E4",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -122,7 +122,7 @@
         }
       },
       "$en_bgmon_1_0015": {
-        "Target": "{X30Y8}{Char Rinoa}{Line}«О чём ещё может{Line} мечтать девушка на{Line} первом свидании?..»{End}",
+        "Target": "{X30Y8}{Char Rinoa}{Line}О чём ещё может{Line} мечтать девушка на{Line} первом свидании?..{End}",
         "Source Text SHA256": "EA34366753975FC5B5CEAFE39AD8D12F512D557D817DCA2253ECE2CB1335CF0D",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",
@@ -130,7 +130,7 @@
         }
       },
       "$en_bgmon_1_0016": {
-        "Target": "{X30Y8}{Char Rinoa}{Line}«Ты так романтичен...»{End}",
+        "Target": "{X30Y8}{Char Rinoa}{Line}Ты так романтичен...{End}",
         "Source Text SHA256": "35973846B7ADB1392542BBF2ED3865D0F60E3B6ED4DCB866894381FF4B645C14",
         "sourceContext": {
           "Source MSD SHA256": "92DF3276FCE4F2511278737D18C8C0E172DA7A0DD003552903F1CD180F71A802",

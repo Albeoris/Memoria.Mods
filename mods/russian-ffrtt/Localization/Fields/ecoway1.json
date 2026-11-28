@@ -10,7 +10,7 @@
         }
       },
       "$en_ecoway1_0001": {
-        "Target": "{X100Y10}{Char Zell}{Line}«ЧЁРТ! Не успеем!»{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}ЧЁРТ! Не успеем!{End}",
         "Source Text SHA256": "84ED47C1DC25A2C9BB6575F54857CFFD36951E144E12F4E12719DDF2F095F07C",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ecoway1_0002": {
-        "Target": "{X100Y50}{Char Zell}{Line}«Оно движется в центр!»{End}",
+        "Target": "{X100Y50}{Char Zell}{Line}Оно движется в центр!{End}",
         "Source Text SHA256": "C99C47CEC579E1216C34649111B4109081F8451286B3A8C2AB631FC826A5B325",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ecoway1_0003": {
-        "Target": "{X150Y50}«Последние 17 лет, со времён{Line} правления волшебницы Адель, мы{Line} были в изоляции от этого мира.{Next}Возможно, нам стоило{Line} контактировать с внешним миром и{Line} делиться нашими обширными познаниями».{End}",
+        "Target": "{X150Y50}Последние 17 лет, со времён{Line} правления волшебницы Адель, мы{Line} были в изоляции от этого мира.{Next}Возможно, нам стоило{Line} контактировать с внешним миром и{Line} делиться нашими обширными познаниями.{End}",
         "Source Text SHA256": "952EF35C70996B4913A765CFCB8652682C4D7433172FA118BA7FB5E77BCF06D5",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ecoway1_0004": {
-        "Target": "{X10Y10F1L2B1C2}«Карты? Конечно, сыграем. Готовы?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}Карты? Конечно, сыграем. Готовы?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "AE04FE2C16183C451D70E092B850D924EB0DF73FFBC035B369CD851BA11A7221",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ecoway1_0005": {
-        "Target": "{X10Y10}«По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Баламба и по нашим, ладно?»{End}",
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Баламба и по нашим, ладно?{End}",
         "Source Text SHA256": "277ABC35B358EB0CEE628A67D1413B25475F8508C07BD2FEB3FE7CA0E9ACD489",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ecoway1_0006": {
-        "Target": "{X10Y10}«По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Галбадии и по нашим, ладно?»{End}",
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Галбадии и по нашим, ладно?{End}",
         "Source Text SHA256": "070A0B1DD22987CE334D09DAFB07E4EDBA37AC5598DAA23C909465CA2E5E1CA5",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ecoway1_0007": {
-        "Target": "{X10Y10}«По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Трабии и по нашим, ладно?»{End}",
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Трабии и по нашим, ладно?{End}",
         "Source Text SHA256": "080D768150E6310162013B9D1023F26D2122013A65B61BF12E7D07D9CD7F8742",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ecoway1_0008": {
-        "Target": "{X10Y10}«По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Центры и по нашим, ладно?»{End}",
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Центры и по нашим, ладно?{End}",
         "Source Text SHA256": "3E40ACA11005799E794F4FC03B08C7DBAAF0439DFC7661D81D50ACBB650360A2",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ecoway1_0009": {
-        "Target": "{X10Y10}«По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Доллета и по нашим, ладно?»{End}",
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Доллета и по нашим, ладно?{End}",
         "Source Text SHA256": "5CD340B9DCC9EE2B1F5A472857B0E711841F8E9039DFB015642FB6CE7930D487",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ecoway1_0010": {
-        "Target": "{X10Y10}«По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Рыбацкого Горизонта и по нашим, ладно?»{End}",
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Рыбацкого Горизонта и по нашим, ладно?{End}",
         "Source Text SHA256": "40F568E81A471ADE2E40100D3A2A31418F196AC91C33556B1E71ED5718685E64",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ecoway1_0011": {
-        "Target": "{X10Y10}«По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Лунной базы и по нашим, ладно?»{End}",
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Лунной базы и по нашим, ладно?{End}",
         "Source Text SHA256": "CD70DA6564B549C32722ED66D2A970FFE214EF65BB400263E6ECA5F87AACDAB0",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ecoway1_0012": {
-        "Target": "{X10Y10}«По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Эстара и по нашим, ладно?»{End}",
+        "Target": "{X10Y10}По-моему, такого правила{Line}у нас нет.{Line}Давай сыграем по правилам{Line}Эстара и по нашим, ладно?{End}",
         "Source Text SHA256": "5D88FC04F252FCF2E3F157D98482FA7863509848FD7337F831CF7200F3075948",
         "sourceContext": {
           "Source MSD SHA256": "F798AE17952AC6CBF531113FD07349AA5F0DB87C440D2DC4997FE1A9F6D7B23F",

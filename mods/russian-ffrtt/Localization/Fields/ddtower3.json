@@ -2,7 +2,7 @@
   "Fields": {
     "ddtower3": {
       "$en_ddtower3_0000": {
-        "Target": "{X50Y30}«Левая дверь ведёт в паровую камеру.{Line} Для входа в неё потребуется {Color Yellow}4 ед. давления{Color White}{Line} из резерва».{End}",
+        "Target": "{X50Y30}Левая дверь ведёт в паровую камеру.{Line} Для входа в неё потребуется {Color Yellow}4 ед. давления{Color White}{Line} из резерва.{End}",
         "Source Text SHA256": "7DCF72CD4031232C3A94AB4EF54C8E579987403C4A2739323F7C552A565446B7",
         "sourceContext": {
           "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
@@ -10,7 +10,7 @@
         }
       },
       "$en_ddtower3_0001": {
-        "Target": "{X50Y30}«На нижнем уровне обнаружено переполнение.{Line} Вход в паровую камеру невозможен».{End}",
+        "Target": "{X50Y30}На нижнем уровне обнаружено переполнение.{Line} Вход в паровую камеру невозможен.{End}",
         "Source Text SHA256": "556AFDEE7966AA6DC7BC8438D0CD155B801FE5171B0A1EF6BC5FFD95F2082817",
         "sourceContext": {
           "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
@@ -210,7 +210,7 @@
         }
       },
       "$en_ddtower3_0026": {
-        "Target": "{X50Y30}«Открывается дверь на 4-й уровень».{End}",
+        "Target": "{X50Y30}Открывается дверь на 4-й уровень.{End}",
         "Source Text SHA256": "53FFF9D2A9AF9349B7DC62C5C4EAF9E9B06B5288F66EB4BD0CB6DDD5A023250F",
         "sourceContext": {
           "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
@@ -218,7 +218,7 @@
         }
       },
       "$en_ddtower3_0027": {
-        "Target": "{X50Y30}«Открывается дверь в паровую камеру».{End}",
+        "Target": "{X50Y30}Открывается дверь в паровую камеру.{End}",
         "Source Text SHA256": "4071AAF12055E22DF64C8ABE3743387F0776594E5F58D747BC6B4E5F47B26D3B",
         "sourceContext": {
           "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",
@@ -226,7 +226,7 @@
         }
       },
       "$en_ddtower3_0028": {
-        "Target": "«Паровая камера и{Line} левая дверь не совмещены».{End}",
+        "Target": "Паровая камера и{Line} левая дверь не совмещены.{End}",
         "Source Text SHA256": "45574ED199C704DCF12BD5057A9BCB2AEFAFC8C6A34002E3F8F0870069A41189",
         "sourceContext": {
           "Source MSD SHA256": "7DD4887DA3304B2C3C20C6B07B542EDDEF6930063022494094B8B1B6C2499C33",

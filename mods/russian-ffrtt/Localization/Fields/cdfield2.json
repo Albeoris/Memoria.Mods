@@ -2,7 +2,7 @@
   "Fields": {
     "cdfield2": {
       "$en_cdfield2_0000": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«Но, в самом{Pause 80}{Line} деле... это место очень странное...»{Next}«Что это, чёрт возьми, за груда{Line} камней? Как думаете, это те самые камни,{Line} что используют в качестве надгробий?»{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}Но, в самом{Pause 80}{Line} деле... это место очень странное...{Next}Что это, чёрт возьми, за груда{Line} камней? Как думаете, это те самые камни,{Line} что используют в качестве надгробий?{End}",
         "Source Text SHA256": "8D48689F2E5B477253F2FB6A707811A6B0A19C666D45E5EC60C560F9B0D538BF",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -10,7 +10,7 @@
         }
       },
       "$en_cdfield2_0001": {
-        "Target": "{X20Y150}{Char Kiros}{Line}«Кто знает... вернее, не{Pause 80}всё ли равно?»{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}Кто знает... вернее, не{Pause 80}всё ли равно?{End}",
         "Source Text SHA256": "F9A42E1E347A8BC82BE9B81091FDD0FD1C6BBA2921F22BD6F7ADBC5BCAC1C9CA",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -18,7 +18,7 @@
         }
       },
       "$en_cdfield2_0002": {
-        "Target": "{X150Y170}{Char Ward}{Line}«Кстати о странном...{Next}Почему ты...{Pause 80}{Line} так странно перебегал?»{End}",
+        "Target": "{X150Y170}{Char Ward}{Line}Кстати о странном...{Next}Почему ты...{Pause 80}{Line} так странно перебегал?{End}",
         "Source Text SHA256": "E4B7E31B50164BF8A470A547F2AB21176004825EDF6A95BB4DDFABC0BDD3561C",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -26,7 +26,7 @@
         }
       },
       "$en_cdfield2_0003": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«Странно?.. Ты о чём?{Line} Просто соблюдаю осторожность. Это{Line} первое правило...»{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}Странно?.. Ты о чём?{Line} Просто соблюдаю осторожность. Это{Line} первое правило...{End}",
         "Source Text SHA256": "63141A95846DD281CE39DF528CEFAC46EA0DB0757298B19EFA1285F1FE67548F",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -34,7 +34,7 @@
         }
       },
       "$en_cdfield2_0004": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«...Эй?»{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}...Эй?{End}",
         "Source Text SHA256": "0E2B143026233A7D25ADE742BB698E74515D501DC94BAE032B2202882E466BE0",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -42,7 +42,7 @@
         }
       },
       "$en_cdfield2_0005": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«Похоже у нас компания. Солдаты Эстара.{Next}Всё ещё носят эту яркую форму».{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}Похоже у нас компания. Солдаты Эстара.{Next}Всё ещё носят эту яркую форму.{End}",
         "Source Text SHA256": "2236118680A8F6FF731DB086C798B30A2C23ABB352FCF6E63A7E8A60411C50B0",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -50,7 +50,7 @@
         }
       },
       "$en_cdfield2_0006": {
-        "Target": "{X20Y150}{Char Kiros}{Line}«..?»{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}..?{End}",
         "Source Text SHA256": "D0E35D8651D3471719E0A4500A8F7A0459323E6A6D9CE3E609AC0DB47B6584D1",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -58,7 +58,7 @@
         }
       },
       "$en_cdfield2_0007": {
-        "Target": "{X150Y170}{Char Ward}{Line}«Лагуна!!!»{End}",
+        "Target": "{X150Y170}{Char Ward}{Line}Лагуна!!!{End}",
         "Source Text SHA256": "A9BFB648F8A33105D567EA4814CBB046D2786BF80669A0A20C12BB7D9FC702F2",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -66,7 +66,7 @@
         }
       },
       "$en_cdfield2_0008": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«Не время трусить!»{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}Не время трусить!{End}",
         "Source Text SHA256": "C555862D060C8507D5B569D82EEBF86AA8E67AB9479C8673C79A7D71E632A534",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -74,7 +74,7 @@
         }
       },
       "$en_cdfield2_0009": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«Какого чёрта?!»{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}Какого чёрта?!{End}",
         "Source Text SHA256": "8571A0C204B58BB5407E5D0E7F0E0CF2B41F99B386F78A5058A8990222CE3897",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -82,7 +82,7 @@
         }
       },
       "$en_cdfield2_0010": {
-        "Target": "{X20Y150}{Char Kiros}{Line}«А разве нашим заданием{Pause 80}{Line} не было патрулирование?..»{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}А разве нашим заданием{Pause 80}{Line} не было патрулирование?..{End}",
         "Source Text SHA256": "32813E2B65402EA518A5BD542C5D5282219FA42BB6DCFD6023057F068C169C1B",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -90,7 +90,7 @@
         }
       },
       "$en_cdfield2_0011": {
-        "Target": "{X150Y170}{Char Ward}{Line}«И почему всё всегда получается вот так?»{End}",
+        "Target": "{X150Y170}{Char Ward}{Line}И почему всё всегда получается вот так?{End}",
         "Source Text SHA256": "38EF6D9193DDAFE6C43AAEC53BA3FDAC0C2D4C9D194A79BB46DE4FFD4BCA1E68",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -98,7 +98,7 @@
         }
       },
       "$en_cdfield2_0012": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«Серьёзно! Я{Pause 80}{Line} вообще этого не ожидал!»{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}Серьёзно! Я{Pause 80}{Line} вообще этого не ожидал!{End}",
         "Source Text SHA256": "CCA55F4B0F92198EC675A0B0BD3AFF5604650AC78CAEF2ABD2ADEA49E70265C8",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -106,7 +106,7 @@
         }
       },
       "$en_cdfield2_0013": {
-        "Target": "{X150Y170}{Char Ward}{Line}«Ещё идут?..»{End}",
+        "Target": "{X150Y170}{Char Ward}{Line}Ещё идут?..{End}",
         "Source Text SHA256": "236AC2B8F7E77D064610D038123C4FD0F6D0CD04AD33B801FB07922CF043AF14",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -114,7 +114,7 @@
         }
       },
       "$en_cdfield2_0014": {
-        "Target": "{X20Y150}{Char Kiros}{Line}«Им нет конца».{End}",
+        "Target": "{X20Y150}{Char Kiros}{Line}Им нет конца.{End}",
         "Source Text SHA256": "12A61D7D23BAEA12ADE9635E78F134A2D0747A65562B609EA03459C6994A16F8",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -122,7 +122,7 @@
         }
       },
       "$en_cdfield2_0015": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«Пора делать ноги!»{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}Пора делать ноги!{End}",
         "Source Text SHA256": "8A4312E6986ADAF1E612CB6B640D85A4AB3B917E60D8CA58756D85166F24227E",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",
@@ -130,7 +130,7 @@
         }
       },
       "$en_cdfield2_0016": {
-        "Target": "{X15Y15}{Char Laguna}{Line}«А?..»{Next}«Лестница. Ребята, тут лестница.{Line}Похоже, она ведёт вниз».{End}",
+        "Target": "{X15Y15}{Char Laguna}{Line}А?..{Next}Лестница. Ребята, тут лестница.{Line}Похоже, она ведёт вниз.{End}",
         "Source Text SHA256": "B111385216362E2DEB120DDF7C104A080028D67FDAD5F7E34BD45BE1125681C6",
         "sourceContext": {
           "Source MSD SHA256": "059A7A2F18C0595337307AC65998DA828B2F3A652CF55170DA347CE5D52C4CB1",

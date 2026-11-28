@@ -26,7 +26,7 @@
         }
       },
       "$en_eccway21_0003": {
-        "Target": "{X100Y10}{Char Zell}{Line}«ЧЁРТ! Не успеем!»{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}ЧЁРТ! Не успеем!{End}",
         "Source Text SHA256": "84ED47C1DC25A2C9BB6575F54857CFFD36951E144E12F4E12719DDF2F095F07C",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -34,7 +34,7 @@
         }
       },
       "$en_eccway21_0004": {
-        "Target": "{X100Y150}Солдат{Line}«А, да.{Line} Точно».{End}",
+        "Target": "{X100Y150}Солдат{Line}А, да.{Line} Точно.{End}",
         "Source Text SHA256": "2B201D3036F2BD0B426C36AA1F1022FDBA7B933DA4E33D1D4F6122FFEE61FB14",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -42,7 +42,7 @@
         }
       },
       "$en_eccway21_0005": {
-        "Target": "{X100Y150}Солдат{Line}«Видите ли, научно усиленных{Line} способностей мало. Надо ещё{Line} и самому тренироваться». {End}",
+        "Target": "{X100Y150}Солдат{Line}Видите ли, научно усиленных{Line} способностей мало. Надо ещё{Line} и самому тренироваться. {End}",
         "Source Text SHA256": "25A16BF6C1B80F5952FBE0AF7BB34439E2427725D60FA0DF93248685F0DB9D7E",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -50,7 +50,7 @@
         }
       },
       "$en_eccway21_0006": {
-        "Target": "{X100Y100}Солдат{Line}«Так точно!{Line} Я уже прочитал. Можете взять».{End}",
+        "Target": "{X100Y100}Солдат{Line}Так точно!{Line} Я уже прочитал. Можете взять.{End}",
         "Source Text SHA256": "F5224DB7BBA4076F5EC30A765D0CC0712BF38745F28E965DC2B84F0E5AF7B83D",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -58,7 +58,7 @@
         }
       },
       "$en_eccway21_0007": {
-        "Target": "{X100Y100}Солдат{Line}«Так точно!{Line} Вот досада, я ещё не дочитал».{End}",
+        "Target": "{X100Y100}Солдат{Line}Так точно!{Line} Вот досада, я ещё не дочитал.{End}",
         "Source Text SHA256": "FB8D982C077BFD5D564527456737F55481B937C071C8F35A3E7EBB10E5EFB859",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -122,7 +122,7 @@
         }
       },
       "$en_eccway21_0015": {
-        "Target": "{X10Y10F1L2B1C2}«О, вы тоже играете в карты?»{Line}Да{Line}Нет{End}",
+        "Target": "{X10Y10F1L2B1C2}О, вы тоже играете в карты?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "BA0D8B873574F37EEDF3246C38C5F4858604C8952997AB75417AF4A01BF8E34E",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -130,7 +130,7 @@
         }
       },
       "$en_eccway21_0016": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим.{End}",
         "Source Text SHA256": "0AEA78EF84C41E23406B3C0DE5AE5BEAEC1F1C5E32D324B04DB7E597366D2E2F",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -138,7 +138,7 @@
         }
       },
       "$en_eccway21_0017": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим.{End}",
         "Source Text SHA256": "AA6AD18B5644DCA428078875F25F18EFC55ED60287E53C23B6E22775209ADDA6",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -146,7 +146,7 @@
         }
       },
       "$en_eccway21_0018": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим.{End}",
         "Source Text SHA256": "E0D42967F0B864D6627684B7C7D1E3F2C8E769A576AE14408CA1707B34FB32ED",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -154,7 +154,7 @@
         }
       },
       "$en_eccway21_0019": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим.{End}",
         "Source Text SHA256": "8A4EE772ED4208EEBCF3B4FE3ED35E7C832A6B010F6FB91ECEE551F9A6CC707A",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -162,7 +162,7 @@
         }
       },
       "$en_eccway21_0020": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим.{End}",
         "Source Text SHA256": "0E5B4694488CA37C155D5D84335669527878A7D013254E9B31C5C19A98A8842C",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -170,7 +170,7 @@
         }
       },
       "$en_eccway21_0021": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
         "Source Text SHA256": "AB7044D16D52BD0E5ADB35C2DE981D4347A4C24539021BC94C598D216109203E",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -178,7 +178,7 @@
         }
       },
       "$en_eccway21_0022": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим.{End}",
         "Source Text SHA256": "85202B7333AD1301263C5B814FC737D27A672A976FAF0CADF8476BF2C26DFB76",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",
@@ -186,7 +186,7 @@
         }
       },
       "$en_eccway21_0023": {
-        "Target": "{X10Y10}«Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим».{End}",
+        "Target": "{X10Y10}Похоже, вы знаете правила,{Line}которыми у нас не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим.{End}",
         "Source Text SHA256": "CC73E59AA84E3A240837D5F046432B7FA6D6D55FEC497E0B5F63EC7453DC5F2A",
         "sourceContext": {
           "Source MSD SHA256": "3DF8B7532F627F62DA90437C0A979EF53C6D8C6F27A0CA5C09D65149D37738E5",

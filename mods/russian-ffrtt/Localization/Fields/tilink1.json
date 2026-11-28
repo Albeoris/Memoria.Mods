@@ -2,7 +2,7 @@
   "Fields": {
     "tilink1": {
       "$en_tilink1_0000": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«Это {Color Blue}[1-й эскорт].{Color White}{Line} Мы отцепим его первым».{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}Это {Color Blue}[1-й эскорт].{Color White}{Line} Мы отцепим его первым.{End}",
         "Source Text SHA256": "1D767E044F660098B4E19E20C26B328A6296D6DCD4917F23DA9163CE81695547",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -10,7 +10,7 @@
         }
       },
       "$en_tilink1_0001": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«По словам Уоттса, в этом вагоне{Line} должно быть два охранника».{Next}«Сельфи и Зелл, вы, ребята, не спускайте{Line} с охранников глаз».{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}По словам Уоттса, в этом вагоне{Line} должно быть два охранника.{Next}Сельфи и Зелл, вы, ребята, не спускайте{Line} с охранников глаз.{End}",
         "Source Text SHA256": "2CB5F64A13B5E44DB39E7BB6E7BC16C08FA4ECCFDD95DF9E694356F6A0902B2C",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -18,7 +18,7 @@
         }
       },
       "$en_tilink1_0002": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«Если увидите, что они{Line} идут, дайте нам знать заранее».{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}Если увидите, что они{Line} идут, дайте нам знать заранее.{End}",
         "Source Text SHA256": "1D313FF46157756878132B0D5A28EAD4F2F0447857470810CDA56D873C833863",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -26,7 +26,7 @@
         }
       },
       "$en_tilink1_0003": {
-        "Target": "{X15Y150}{Char Zell}{Line}«Хорошо. Я{Line} буду следить за {Color Blue}синим{Color White} охранником».{End}",
+        "Target": "{X15Y150}{Char Zell}{Line}Хорошо. Я{Line} буду следить за {Color Blue}синим{Color White} охранником.{End}",
         "Source Text SHA256": "93FDC2810115D84B376A54A903BBA48860907710405E5D1C54D2EFA4A6E4DAB9",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -34,7 +34,7 @@
         }
       },
       "$en_tilink1_0004": {
-        "Target": "{X50Y150}{Char Selphie}{Line}«Я беру на себя {Color Red}красного.{Color White}.»{End}",
+        "Target": "{X50Y150}{Char Selphie}{Line}Я беру на себя {Color Red}красного.{Color White}.{End}",
         "Source Text SHA256": "B51A11D4E85F91EA7B21117281BE03FD1C18D16012D6CA734AA61468084F43A1",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -42,7 +42,7 @@
         }
       },
       "$en_tilink1_0005": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}{Color Red}«Красный{Color White} охранник ближе».{Next}«{Char Squall}, ты можешь следить за ним.{Line} Зажми L1, чтобы посмотреть {Key L1} налево, и отпусти,{Line} чтобы вернуть камеру в исходное положение».{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}{Color Red}Красный{Color White} охранник ближе.{Next}{Char Squall}, ты можешь следить за ним.{Line} Зажми L1, чтобы посмотреть {Key L1} налево, и отпусти,{Line} чтобы вернуть камеру в исходное положение.{End}",
         "Source Text SHA256": "C9EB1EA71C0BF09FE7401865D24273F986E326729EDC8BE162982E02CF2F6B4F",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -58,7 +58,7 @@
         }
       },
       "$en_tilink1_0007": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«Хорошо, готов{Line} вводить коды?»{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}Хорошо, готов{Line} вводить коды?{End}",
         "Source Text SHA256": "909419FBC126A8994A4D8D3E2000BD07FEEB6572863D6A589943B821EFA77665",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -66,7 +66,7 @@
         }
       },
       "$en_tilink1_0008": {
-        "Target": "{X15Y145F2L3B2C3}{Char Rinoa}{Line}«Ты всё запомнил, верно?»{Line}Да{Line}…Я забыл{End}",
+        "Target": "{X15Y145F2L3B2C3}{Char Rinoa}{Line}Ты всё запомнил, верно?{Line}Да{Line}…Я забыл{End}",
         "Source Text SHA256": "5B9E2FF19382C43731758CA732E22580C5D5EEB6BFED07F63AB9E61F30E923F3",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -74,7 +74,7 @@
         }
       },
       "$en_tilink1_0009": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«{Char Squall}! Ну же!{Line} Давай быстро повторим{Line} ещё раз».{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}{Char Squall}! Ну же!{Line} Давай быстро повторим{Line} ещё раз.{End}",
         "Source Text SHA256": "29826F9C29D3178B70274F231107644A1A4768B67E26266F4D999A5EA4020841",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -90,7 +90,7 @@
         }
       },
       "$en_tilink1_0011": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«В каждом коде четыре цифры от 1 до 4.{Line} Например, 2341».{Next}«Только цифр на панели не будет.{Line} Вместо них четыре кнопки».{Line} {Key Cross} {Key Triangle} {Key Circle} {Key Square} {Next}«Например, если я назову код 3124,{Line} нажми {Key Square}{Pause 80} {Key Circle}{Pause 80} {Key Cross}{Pause 80} {Key Triangle}{Pause 80},{Line} именно в таком порядке».{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}В каждом коде четыре цифры от 1 до 4.{Line} Например, 2341.{Next}Только цифр на панели не будет.{Line} Вместо них четыре кнопки.{Line} {Key Cross} {Key Triangle} {Key Circle} {Key Square} {Next}Например, если я назову код 3124,{Line} нажми {Key Square}{Pause 80} {Key Circle}{Pause 80} {Key Cross}{Pause 80} {Key Triangle}{Pause 80},{Line} именно в таком порядке.{End}",
         "Source Text SHA256": "FD862FFFF6D2454900754420466097C4169666F41AC2BCC17EA084CA97CEDA6A",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -98,7 +98,7 @@
         }
       },
       "$en_tilink1_0012": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«Действуй быстро и точно. На ввод{Line} каждого кода у тебя около {Color Yellow}5 секунд{Color White}».{Next}«Если не успеешь, код сменится{Line} и введённые цифры сбросятся».{Next}«В таком случае сразу остановись.{Line} Можешь подождать нового кода{Line} или подняться обратно».{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}Действуй быстро и точно. На ввод{Line} каждого кода у тебя около {Color Yellow}5 секунд{Color White}.{Next}Если не успеешь, код сменится{Line} и введённые цифры сбросятся.{Next}В таком случае сразу остановись.{Line} Можешь подождать нового кода{Line} или подняться обратно.{End}",
         "Source Text SHA256": "D7E84F6A121CB1521F0D70ABD18698217FFC3E1DA2F5749EFC036ABFF4790F5A",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -106,7 +106,7 @@
         }
       },
       "$en_tilink1_0013": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«Нам нужно ввести 3{Line} кода, чтобы разъединить цепь».{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}Нам нужно ввести 3{Line} кода, чтобы разъединить цепь.{End}",
         "Source Text SHA256": "70F8E9ABBA28F53FE5B370D3A8294A541E9B9E23CB262A44028DE655B8BD4DF3",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -114,7 +114,7 @@
         }
       },
       "$en_tilink1_0014": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«Хорошо, {Char Squall},{Line} приготовь трос».{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}Хорошо, {Char Squall},{Line} приготовь трос.{End}",
         "Source Text SHA256": "017583E6A4E4C452B2630711791B7CE76B9BD7C91CE167E977DC7318298B0CE9",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -149,7 +149,7 @@
         }
       },
       "$en_tilink1_0018": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«Ладно, поехали».{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}Ладно, поехали.{End}",
         "Source Text SHA256": "5F89F1DAA45B8991B28DC23BDD20E26F037EC4B2B6A048EC15B2994492432D9B",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -157,7 +157,7 @@
         }
       },
       "$en_tilink1_0019": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«У нас осталось {Color Yellow}{Var 48} минуты!{Color White}{Line} Удачи, {Char Squall}!»{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}У нас осталось {Color Yellow}{Var 48} минуты!{Color White}{Line} Удачи, {Char Squall}!{End}",
         "Source Text SHA256": "ACAE8DD07F0C0FC5C338375EE206C69C2F14182D3F6CDDB335DC880E1C680EE6",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -165,7 +165,7 @@
         }
       },
       "$en_tilink1_0020": {
-        "Target": "{X150Y15}«Код такой…{Color Yellow}{Line} {Var 48} {Var 49} {Var 50} {Var 51}{Color White}!»{End}",
+        "Target": "{X150Y15}Код такой…{Color Yellow}{Line} {Var 48} {Var 49} {Var 50} {Var 51}{Color White}!{End}",
         "Source Text SHA256": "AFB3E3F2AF8CD834AB96011C95B56197C6B936B5253315345D4D01E08BD02957",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -229,7 +229,7 @@
         }
       },
       "$en_tilink1_0028": {
-        "Target": "{X15Y80}{Char Zell}{Line}«Эй, {Color Blue}синий!{Color White}!»{End}",
+        "Target": "{X15Y80}{Char Zell}{Line}Эй, {Color Blue}синий!{Color White}!{End}",
         "Source Text SHA256": "83777516A9588A641993BF5487596041BE72825C431852B4A0E0EC0B401A8DE0",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -237,7 +237,7 @@
         }
       },
       "$en_tilink1_0029": {
-        "Target": "{X125Y80}{Char Selphie}{Line}«И {Color Red}красный!{Color White}!»{End}",
+        "Target": "{X125Y80}{Char Selphie}{Line}И {Color Red}красный!{Color White}!{End}",
         "Source Text SHA256": "5DEB5F90C6EFE22929B58BD19776EF1EC7DB6E3905FF9CBB26EE457C2020C3BA",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -245,7 +245,7 @@
         }
       },
       "$en_tilink1_0030": {
-        "Target": "{X15Y150}{Char Rinoa}{Line}«{Char Squall}, сюда!»{End}",
+        "Target": "{X15Y150}{Char Rinoa}{Line}{Char Squall}, сюда!{End}",
         "Source Text SHA256": "AAB62847A3ADD1AC73BB8D7506859F64FF0BEE1430EC18B580469C8ECF158F2A",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -253,7 +253,7 @@
         }
       },
       "$en_tilink1_0031": {
-        "Target": "{X64Y74F2L3B2C3}{Char Rinoa}{Line}«Что случилось, {Char Squall}?!»{Line}А… ничего…{Line}Я не справился. Всё кончено…{End}",
+        "Target": "{X64Y74F2L3B2C3}{Char Rinoa}{Line}Что случилось, {Char Squall}?!{Line}А… ничего…{Line}Я не справился. Всё кончено…{End}",
         "Source Text SHA256": "54721B4A579A366F933046EB5BCDFAC2F78562B592889B3D6DDE882416645D0B",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -261,7 +261,7 @@
         }
       },
       "$en_tilink1_0032": {
-        "Target": "{X90Y74F2L3B2C3}{Char Rinoa}{Line}«Всё ясно, {Char Squall}?»{Line}Ага{Line}Ещё раз{End}",
+        "Target": "{X90Y74F2L3B2C3}{Char Rinoa}{Line}Всё ясно, {Char Squall}?{Line}Ага{Line}Ещё раз{End}",
         "Source Text SHA256": "D0FE67BCE0CEAF69787686511DBE38A17F22847E4366BB4F661FCCB36982AB75",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -269,7 +269,7 @@
         }
       },
       "$en_tilink1_0033": {
-        "Target": "{X19Y86}{Char Rinoa}{Line}«Вот как подняться обратно,{Line} пока тебя не поймали».{Next}«Если идут охранники, не трать{Line} время на правильный код.{Line} Можешь специально ошибиться».{Next}«Главное — подняться, пока не заметили.{Line} Это лучше, чем начинать сначала».{End}",
+        "Target": "{X19Y86}{Char Rinoa}{Line}Вот как подняться обратно,{Line} пока тебя не поймали.{Next}Если идут охранники, не трать{Line} время на правильный код.{Line} Можешь специально ошибиться.{Next}Главное — подняться, пока не заметили.{Line} Это лучше, чем начинать сначала.{End}",
         "Source Text SHA256": "92AEC1830A776F39CB7AB6EE6648A563FEAB3F1826621214213C8622573F66C0",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -277,7 +277,7 @@
         }
       },
       "$en_tilink1_0034": {
-        "Target": "{X44Y86}{Char Rinoa}{Line}«Как только трос пойдёт,{Line} дальше он будет двигаться сам».{Next}«На крышу лучше вернуться{Line} заранее, когда охранники{Line} только начинают обход».{End}",
+        "Target": "{X44Y86}{Char Rinoa}{Line}Как только трос пойдёт,{Line} дальше он будет двигаться сам.{Next}На крышу лучше вернуться{Line} заранее, когда охранники{Line} только начинают обход.{End}",
         "Source Text SHA256": "E63ACA398B5C04ADCAE980E7C0AEF99B8CA54B379DDC696A5C3ED79ECC0113BA",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",
@@ -285,7 +285,7 @@
         }
       },
       "$en_tilink1_0035": {
-        "Target": "{X9Y92}{Char Rinoa}{Line}«Есть и другой способ не попасться».{Next}«Спускайся по тросу, как только{Line} оба охранника уйдут от двери».{Next}«Введи один, ну максимум два кода{Line} и возвращайся на крышу».{Next}«Так уйдёт больше времени,{Line} зато это самый надёжный способ».{Next}«Помни, время ограничено,{Line} так что не осторожничай слишком долго».{End}",
+        "Target": "{X9Y92}{Char Rinoa}{Line}Есть и другой способ не попасться.{Next}Спускайся по тросу, как только{Line} оба охранника уйдут от двери.{Next}Введи один, ну максимум два кода{Line} и возвращайся на крышу.{Next}Так уйдёт больше времени,{Line} зато это самый надёжный способ.{Next}Помни, время ограничено,{Line} так что не осторожничай слишком долго.{End}",
         "Source Text SHA256": "DCE270ADA960EE4765CC29E753221D54D47F95883208371391325F57D13F224D",
         "sourceContext": {
           "Source MSD SHA256": "ABBACD89794CF3C2FC4F24204A49BFDE0D50FD47686CFEA213966D684BE3EE10",

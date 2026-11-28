@@ -2,7 +2,7 @@
   "Fields": {
     "tgcourt2": {
       "$en_tgcourt2_0000": {
-        "Target": "{X10Y150}«Полагаю, так и будет... Мы сражаемся».{End}",
+        "Target": "{X10Y150}Полагаю, так и будет... Мы сражаемся.{End}",
         "Source Text SHA256": "9FDF8785D80687CC896A4CB058BD3342DECFD1D870CE178C29DCE3EE15DB1694",
         "sourceContext": {
           "Source MSD SHA256": "B71D43B400A0D234EA2D90D54CE71573536BE2C7A51BAEA9F2E86EC6C54530D9",
@@ -10,7 +10,7 @@
         }
       },
       "$en_tgcourt2_0001": {
-        "Target": "{X10Y10}{Char Rinoa}{Line}«...Вы — бесстрашные, ребята».{End}",
+        "Target": "{X10Y10}{Char Rinoa}{Line}...Вы — бесстрашные, ребята.{End}",
         "Source Text SHA256": "1FDA3C4F43BADEBE5956CE89F1C41974010AF6A37C58B30ACAC364B89695539D",
         "sourceContext": {
           "Source MSD SHA256": "B71D43B400A0D234EA2D90D54CE71573536BE2C7A51BAEA9F2E86EC6C54530D9",
@@ -26,7 +26,7 @@
         }
       },
       "$en_tgcourt2_0003": {
-        "Target": "{Char Rinoa}{Line}«...О чём ты думаешь?»{End}",
+        "Target": "{Char Rinoa}{Line}...О чём ты думаешь?{End}",
         "Source Text SHA256": "7295AFE03701BE223363D286F06AB8F359B72BC5AD5EB8E679C79FEFB1751C21",
         "sourceContext": {
           "Source MSD SHA256": "B71D43B400A0D234EA2D90D54CE71573536BE2C7A51BAEA9F2E86EC6C54530D9",
@@ -34,7 +34,7 @@
         }
       },
       "$en_tgcourt2_0004": {
-        "Target": "{X10Y140}{Char Squall}{Line}«Я бы тоже хотел,{Line} чтобы нам не пришлось сражаться».{End}",
+        "Target": "{X10Y140}{Char Squall}{Line}Я бы тоже хотел,{Line} чтобы нам не пришлось сражаться.{End}",
         "Source Text SHA256": "174BB256688D6123FA48355DEF94B339C9B56F726EE7F4CBF4D2F670DED8051E",
         "sourceContext": {
           "Source MSD SHA256": "B71D43B400A0D234EA2D90D54CE71573536BE2C7A51BAEA9F2E86EC6C54530D9",
@@ -42,7 +42,7 @@
         }
       },
       "$en_tgcourt2_0005": {
-        "Target": "«Полагаю, так и будет... Мы сражаемся».{End}",
+        "Target": "Полагаю, так и будет... Мы сражаемся.{End}",
         "Source Text SHA256": "9FDF8785D80687CC896A4CB058BD3342DECFD1D870CE178C29DCE3EE15DB1694",
         "sourceContext": {
           "Source MSD SHA256": "B71D43B400A0D234EA2D90D54CE71573536BE2C7A51BAEA9F2E86EC6C54530D9",

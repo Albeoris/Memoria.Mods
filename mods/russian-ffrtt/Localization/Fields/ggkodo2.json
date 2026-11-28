@@ -26,7 +26,7 @@
         }
       },
       "$en_ggkodo2_0003": {
-        "Target": "{X11Y170}Волшебница Эдея{Line}«Итак, время пришло. Значит это ты тот легендарный Сид,{Line} которому было суждено встретиться со мной?»{End}",
+        "Target": "{X11Y170}Волшебница Эдея{Line}Итак, время пришло. Значит это ты тот легендарный Сид,{Line} которому было суждено встретиться со мной?{End}",
         "Source Text SHA256": "CCCC7AC497F68ED7865D4DFE13FE6406FD23F0F8492C005FC95CA41FA9C9D9BB",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ggkodo2_0005": {
-        "Target": "{X186Y10}Волшебница Эдея{Line}«Признаться, я{Line} поражена».{End}",
+        "Target": "{X186Y10}Волшебница Эдея{Line}Признаться, я{Line} поражена.{End}",
         "Source Text SHA256": "58E01C171AEA0F21769C31CF0DFFFED3FF0D83E6CE97866E4A68894EA8F8FDB5",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ggkodo2_0006": {
-        "Target": "{X122Y10}Волшебница Эдея{Line}«...Какая досада. Твоя жизнь{Line} закончится здесь, Сид».{End}",
+        "Target": "{X122Y10}Волшебница Эдея{Line}...Какая досада. Твоя жизнь{Line} закончится здесь, Сид.{End}",
         "Source Text SHA256": "CEDC71CC0B07803B4933F731F78BFA8788EF1058B634097C2B1FB3E7B59B5D83",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ggkodo2_0007": {
-        "Target": "{X190Y10}Волшебница Эдея{Line}«Никчёмный глупец».{End}",
+        "Target": "{X190Y10}Волшебница Эдея{Line}Никчёмный глупец.{End}",
         "Source Text SHA256": "E31EF8A6F8D70E6E734EFB7FA559D2B31408735F5CCE08249ADA96B3D1E32F70",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ggkodo2_0009": {
-        "Target": "{X143Y10}Волшебница Эдея{Line}«Сиды должны исчезнуть!»{End}",
+        "Target": "{X143Y10}Волшебница Эдея{Line}Сиды должны исчезнуть!{End}",
         "Source Text SHA256": "40CCA160FEC856B55E77707A8C33AE013E3B830EF4AF52C26BE2EB2EAC95C6DB",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ggkodo2_0010": {
-        "Target": "{Char Squall}{Line}«{Char Rinoa}!»{End}",
+        "Target": "{Char Squall}{Line}{Char Rinoa}!{End}",
         "Source Text SHA256": "A8A416132A37AF1CE0CDCD3142EF48006045230F92106AF059EBE104FD61B179",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ggkodo2_0011": {
-        "Target": "{Char Squall}{Line}«......{Char Rinoa}...?»{End}",
+        "Target": "{Char Squall}{Line}......{Char Rinoa}...?{End}",
         "Source Text SHA256": "069559C7FF4DCD6A96D777075BCCD6E82E8B1972B4FEE6CAA093B4D33DFA5DA6",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ggkodo2_0012": {
-        "Target": "Волшебница Эдея{Line}«{Char Squall}, Квистис, Сельфи».{End}",
+        "Target": "Волшебница Эдея{Line}{Char Squall}, Квистис, Сельфи.{End}",
         "Source Text SHA256": "89CC485B9B81F6A7C31875EE36D0E4ECE49C8DC0A6F65A1BF9F52DEDCB5E01B4",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ggkodo2_0013": {
-        "Target": "Волшебница Эдея{Line}«Ирвин, Зелл».{End}",
+        "Target": "Волшебница Эдея{Line}Ирвин, Зелл.{End}",
         "Source Text SHA256": "4650A1F71F2D93BA4D8DEB76F52C77DBF8E4F809C749790E5733C50BF9DC2753",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ggkodo2_0014": {
-        "Target": "Волшебница Эдея{Line}«Вы все так{Line} повзрослели... и окрепли...»{End}",
+        "Target": "Волшебница Эдея{Line}Вы все так{Line} повзрослели... и окрепли...{End}",
         "Source Text SHA256": "4D291CF582B6572D6C114DAC4C9DA90F6DE3F8E3569764601B70B0E22F558260",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ggkodo2_0015": {
-        "Target": "Волшебница Эдея{Line}«Я ждала, когда этот день придёт.{Line} И так боялась, что он наступит».{End}",
+        "Target": "Волшебница Эдея{Line}Я ждала, когда этот день придёт.{Line} И так боялась, что он наступит.{End}",
         "Source Text SHA256": "F8B29383997D2A075F17738C53418F46A1EE2152A2AB1E5CDF2487F7919EDC60",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ggkodo2_0016": {
-        "Target": "Волшебница Эдея{Line}«Сегодня день радости?{Line} Или день скорби?»{End}",
+        "Target": "Волшебница Эдея{Line}Сегодня день радости?{Line} Или день скорби?{End}",
         "Source Text SHA256": "FC401A73F220ED2315A6EC895195A331310981FE3C2CA971E2B4263C4AF958E9",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ggkodo2_0018": {
-        "Target": "{Char Squall}{Line}«(...Я не понимаю.)»{End}",
+        "Target": "{Char Squall}{Line}(...Я не понимаю.){End}",
         "Source Text SHA256": "EDD5EB6F25F4FF4131AF8DEA92151C0689118A499A46FD48BE3FC80E2616B4FF",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ggkodo2_0019": {
-        "Target": "{Char Quistis}{Line}«{Char Squall}!!»{End}",
+        "Target": "{Char Quistis}{Line}{Char Squall}!!{End}",
         "Source Text SHA256": "DDD43DAED96B43106021A79AA73E44F1A85D1DAC63552DBA1C30DE8B1FEB7ED3",
         "sourceContext": {
           "Source MSD SHA256": "DCB1829B88D6650F8E287096D5B0C7F8865F742F38FCE04F8A9B6594B26ADDE1",

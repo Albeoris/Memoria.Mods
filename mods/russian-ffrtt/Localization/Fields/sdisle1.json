@@ -2,7 +2,7 @@
   "Fields": {
     "sdisle1": {
       "$en_sdisle1_0000": {
-        "Target": "{X30Y60}{Char Quistis}{Line}«Где это мы?»{End}",
+        "Target": "{X30Y60}{Char Quistis}{Line}Где это мы?{End}",
         "Source Text SHA256": "B30862B09A803F35BE10F92366FEC8F6C24D62D8470BB524B22B15B671759E9A",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -10,7 +10,7 @@
         }
       },
       "$en_sdisle1_0001": {
-        "Target": "{X30Y60}{Char Irvine}{Line}«Ну что... кто-нибудь знает, где мы?»{End}",
+        "Target": "{X30Y60}{Char Irvine}{Line}Ну что... кто-нибудь знает, где мы?{End}",
         "Source Text SHA256": "9E278411112B0BA1FC7CE8B6B9124E22E744BBE85BD2CD885E43D8717C56FBBD",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -18,7 +18,7 @@
         }
       },
       "$en_sdisle1_0002": {
-        "Target": "{X30Y60}{Char Rinoa}{Line}«Ребята, что это за место?»{End}",
+        "Target": "{X30Y60}{Char Rinoa}{Line}Ребята, что это за место?{End}",
         "Source Text SHA256": "82F8AF0196442E4F2947DEEED8901DE9C69991F0C25C472EC51CD9E8E6BB10FF",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -26,7 +26,7 @@
         }
       },
       "$en_sdisle1_0003": {
-        "Target": "{X30Y60}{Char Selphie}{Line}«Здорово!{Line}Что это за место?!»{End}",
+        "Target": "{X30Y60}{Char Selphie}{Line}Здорово!{Line}Что это за место?!{End}",
         "Source Text SHA256": "9869E69CF4848A819297A892FB430011ECDB1993D2B8F3E496DC86D4FB24DEC9",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -34,7 +34,7 @@
         }
       },
       "$en_sdisle1_0004": {
-        "Target": "{Char Quistis}{Line}«»{End}",
+        "Target": "{Char Quistis}{Line}{End}",
         "Source Text SHA256": "05EF89AE56CF1709478E009FD201D683F3DC5DCF10A0596F194E5DC5133866C3",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -42,7 +42,7 @@
         }
       },
       "$en_sdisle1_0005": {
-        "Target": "{Char Irvine}{Line}«О...»{End}",
+        "Target": "{Char Irvine}{Line}О...{End}",
         "Source Text SHA256": "9916971C7AF472B9DC8B9A2D22364BD339DC05FC5D25840D4A1BFFAF36C4CCE6",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -50,7 +50,7 @@
         }
       },
       "$en_sdisle1_0006": {
-        "Target": "{Char Rinoa}{Line}«»{End}",
+        "Target": "{Char Rinoa}{Line}{End}",
         "Source Text SHA256": "9C704E271C84C594607484BC03B49AB143A8916D3D099E1CD223B35C366C6452",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -58,7 +58,7 @@
         }
       },
       "$en_sdisle1_0007": {
-        "Target": "{Char Selphie}{Line}«Правда?»{End}",
+        "Target": "{Char Selphie}{Line}Правда?{End}",
         "Source Text SHA256": "61CEA61998D6C27D887119A096C3C340DCC1188562916D4531EA240E4B996EF0",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -66,7 +66,7 @@
         }
       },
       "$en_sdisle1_0008": {
-        "Target": "{X30Y60}{Char Zell}{Line}«...О, я знаю это место!»{End}",
+        "Target": "{X30Y60}{Char Zell}{Line}...О, я знаю это место!{End}",
         "Source Text SHA256": "AD4AC937038358B147ABFC0C8044423C35C9340DE2553AB5239AD6E1A367043E",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -74,7 +74,7 @@
         }
       },
       "$en_sdisle1_0009": {
-        "Target": "{Char Zell}{Line}«Зелл Всезнайка снова спешит на помощь!{Line}Ну что, {Char Squall}, послушаешь историю?»{Line}Не надо{Line}Давай, рассказывай{End}",
+        "Target": "{Char Zell}{Line}Зелл Всезнайка снова спешит на помощь!{Line}Ну что, {Char Squall}, послушаешь историю?{Line}Не надо{Line}Давай, рассказывай{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "35CF2003458C14D573802A172AAF4DDE1AFD1388C0A5AA7DF3FEFE5D3F46E3F2",
         "sourceContext": {
@@ -83,7 +83,7 @@
         }
       },
       "$en_sdisle1_0010": {
-        "Target": "{X80Y70}{Char Squall}{Line}«Не надо».{End}",
+        "Target": "{X80Y70}{Char Squall}{Line}Не надо.{End}",
         "Source Text SHA256": "7C39618E53BFF18E450DD53B1AA5029E299170D38C53AC3D2939818C1DC0FB28",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -91,7 +91,7 @@
         }
       },
       "$en_sdisle1_0011": {
-        "Target": "{X80Y70}{Char Squall}{Line}«Давай, рассказывай».{End}",
+        "Target": "{X80Y70}{Char Squall}{Line}Давай, рассказывай.{End}",
         "Source Text SHA256": "50A95390D75E6A63FA20C5F9BB49519834375099F964CF28731B5250E5F1C964",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -99,7 +99,7 @@
         }
       },
       "$en_sdisle1_0012": {
-        "Target": "{X30Y60}{Char Zell}{Line}«Да ладно, я же знаю, что тебе интересно...»{End}",
+        "Target": "{X30Y60}{Char Zell}{Line}Да ладно, я же знаю, что тебе интересно...{End}",
         "Source Text SHA256": "5A9950D8CA9F7846A0088BDC585583275B40DB6242D39B05721D58CF59CEBF0C",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -107,7 +107,7 @@
         }
       },
       "$en_sdisle1_0013": {
-        "Target": "{X30Y60}{Char Zell}{Line}«А-а-а... Теперь понял».{End}",
+        "Target": "{X30Y60}{Char Zell}{Line}А-а-а... Теперь понял.{End}",
         "Source Text SHA256": "29F1EA82FAE299D6EB8222F5427E783C99810C5812EAC118FCB497BD554BF407",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -115,7 +115,7 @@
         }
       },
       "$en_sdisle1_0014": {
-        "Target": "{Char Zell}{Line}«Ну и что, что я больше тебя знаю?{Line}Не надо завидовать».{Line}...Не обращать внимания{Line}Дать ему договорить{End}",
+        "Target": "{Char Zell}{Line}Ну и что, что я больше тебя знаю?{Line}Не надо завидовать.{Line}...Не обращать внимания{Line}Дать ему договорить{End}",
         "Choice Line Map": [],
         "Source Text SHA256": "F370A2AAF59E16705134DAC4F058EAD67AD1F6DE833E9CA1A30D956C2EBE8BA3",
         "sourceContext": {
@@ -124,7 +124,7 @@
         }
       },
       "$en_sdisle1_0015": {
-        "Target": "{X30Y60}{Char Zell}{Line}«ДА ЛАДНО!!! Я же пошутил!..{Line}Пф, ну и ладно».{End}",
+        "Target": "{X30Y60}{Char Zell}{Line}ДА ЛАДНО!!! Я же пошутил!..{Line}Пф, ну и ладно.{End}",
         "Source Text SHA256": "EBA712A3746125AA95EE2EC81309B6FD27F98DC81595DCD2C2871AFCF460EA39",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -132,7 +132,7 @@
         }
       },
       "$en_sdisle1_0016": {
-        "Target": "{X30Y60}{Char Zell}{Line}«Ладно,{Line}слушайте».{End}",
+        "Target": "{X30Y60}{Char Zell}{Line}Ладно,{Line}слушайте.{End}",
         "Source Text SHA256": "EAFBEC4C12F6D41D5F1433AD3F457F51E7850B9225F3513A96D501AB3AA59755",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -140,7 +140,7 @@
         }
       },
       "$en_sdisle1_0017": {
-        "Target": "{X30Y60}{Char Zell}{Line}«Скорее всего, это и есть{Line}та плавучая исследовательская станция».{End}",
+        "Target": "{X30Y60}{Char Zell}{Line}Скорее всего, это и есть{Line}та плавучая исследовательская станция.{End}",
         "Source Text SHA256": "3FAE3F01A486B692AB4133B101A78130A49593FA04A7BB53880030D39613AEE5",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -156,7 +156,7 @@
         }
       },
       "$en_sdisle1_0019": {
-        "Target": "{X30Y60}{Char Zell}{Line}«Ещё её называют островом-линкором».{End}",
+        "Target": "{X30Y60}{Char Zell}{Line}Ещё её называют островом-линкором.{End}",
         "Source Text SHA256": "92C7DB26A57F6352B52B18B3B1CB7E84AFCC288C23D4E853E3A96E6A29EA8E52",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -164,7 +164,7 @@
         }
       },
       "$en_sdisle1_0020": {
-        "Target": "{X80Y70}{Char Squall}{Line}«...И что же{Line}они исследовали?»{End}",
+        "Target": "{X80Y70}{Char Squall}{Line}...И что же{Line}они исследовали?{End}",
         "Source Text SHA256": "715D047293B74E0798D2ECAAA88668667F74597F6EF94F49A913AB5A2BF4D1F2",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -172,7 +172,7 @@
         }
       },
       "$en_sdisle1_0021": {
-        "Target": "{X30Y60}{Char Zell}{Line}«Если коротко, они пытались разработать{Line}систему извлечения, как у нас. Наверное,{Line}объехали весь мир в поисках энергии{Line}и материалов для опытов».{End}",
+        "Target": "{X30Y60}{Char Zell}{Line}Если коротко, они пытались разработать{Line}систему извлечения, как у нас. Наверное,{Line}объехали весь мир в поисках энергии{Line}и материалов для опытов.{End}",
         "Source Text SHA256": "A208952A870F61A0A24EB3F1C3F737D8EB7D9764B498332C6148ECC666A15627",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -180,7 +180,7 @@
         }
       },
       "$en_sdisle1_0022": {
-        "Target": "{X80Y100}{Char Squall}{Line}«......»{End}",
+        "Target": "{X80Y100}{Char Squall}{Line}......{End}",
         "Source Text SHA256": "9ED13FD6ECD4A2C449A5BA80270FDAD29DCD9433342982D687F6261EBFBC2096",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -188,7 +188,7 @@
         }
       },
       "$en_sdisle1_0023": {
-        "Target": "{X30Y30}{Char Zell}{Line}«Понятия не имею, как её сюда занесло.{Line}Говорят, здесь вели серьёзные исследования.{Line}Даже над GF ставили опыты.{Line}Для учёных это был остров сокровищ».{End}",
+        "Target": "{X30Y30}{Char Zell}{Line}Понятия не имею, как её сюда занесло.{Line}Говорят, здесь вели серьёзные исследования.{Line}Даже над GF ставили опыты.{Line}Для учёных это был остров сокровищ.{End}",
         "Source Text SHA256": "ACFBB376562E7DA16DD734DA0501693D16A8861A59A025CAAF45985F36ADA45D",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -196,7 +196,7 @@
         }
       },
       "$en_sdisle1_0024": {
-        "Target": "{X80Y70}{Char Squall}{Line}«......Хм».{End}",
+        "Target": "{X80Y70}{Char Squall}{Line}......Хм.{End}",
         "Source Text SHA256": "E64A99D7E0E32C488D3CE207834D1BD0AACE38C99F594AF5230906791165A4B7",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -204,7 +204,7 @@
         }
       },
       "$en_sdisle1_0025": {
-        "Target": "{X30Y60}{Char Zell}{Line}«Что? Думаешь, я вру?»{End}",
+        "Target": "{X30Y60}{Char Zell}{Line}Что? Думаешь, я вру?{End}",
         "Source Text SHA256": "766D4D3E5FB7AA2ABACD2854AA9EE127F65954601E987C4CCAD51E91DFAA3564",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -212,7 +212,7 @@
         }
       },
       "$en_sdisle1_0026": {
-        "Target": "{X100Y70}{Char Squall}{Line}«Нет...»{End}",
+        "Target": "{X100Y70}{Char Squall}{Line}Нет...{End}",
         "Source Text SHA256": "09B62A7F749E9012DF9F99EA8E43D8A36F488DF7A14CD993B5B90F2E8E359409",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -228,7 +228,7 @@
         }
       },
       "$en_sdisle1_0028": {
-        "Target": "{X80Y70}{Char Squall}{Line}«Не уверен, но...»{End}",
+        "Target": "{X80Y70}{Char Squall}{Line}Не уверен, но...{End}",
         "Source Text SHA256": "F07F9754B2BA87A1A92534BCF4D32B5FF52463A81246681B8952C4C973900753",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -236,7 +236,7 @@
         }
       },
       "$en_sdisle1_0029": {
-        "Target": "{X80Y50}{Char Squall}{Line}«Я слышал о плавучем острове.{Line}Он собирал материалы для исследований{Line}в самых разных краях».{End}",
+        "Target": "{X80Y50}{Char Squall}{Line}Я слышал о плавучем острове.{Line}Он собирал материалы для исследований{Line}в самых разных краях.{End}",
         "Source Text SHA256": "1B3684AA16DB9A32EA0CC596C51BC65CEE317BC24BC65E9C4F74933B500AA9A0",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -244,7 +244,7 @@
         }
       },
       "$en_sdisle1_0030": {
-        "Target": "{X80Y70}{Char Squall}{Line}«Может, это и есть он».{End}",
+        "Target": "{X80Y70}{Char Squall}{Line}Может, это и есть он.{End}",
         "Source Text SHA256": "8295948E4C23E747364665F2068CE4D859B0B0DBAB22DF9DB712657B59BD9906",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",
@@ -252,7 +252,7 @@
         }
       },
       "$en_sdisle1_0031": {
-        "Target": "{X80Y50}{Char Squall}{Line}«Ещё я слышал, что там искали{Line}какую-то крупную точку извлечения».{End}",
+        "Target": "{X80Y50}{Char Squall}{Line}Ещё я слышал, что там искали{Line}какую-то крупную точку извлечения.{End}",
         "Source Text SHA256": "902B2CF80A0A0C8378DE784A37DA1BF81CA732A4AE32A6E2945729AB077DC9B4",
         "sourceContext": {
           "Source MSD SHA256": "DB6880F0B454F93B3CFA3CAE4005684A587F36D1BCE9AD5D7CEC2EA0E8A0AED3",

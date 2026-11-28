@@ -26,7 +26,7 @@
         }
       },
       "$en_ssroad1_0003": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«{Char Squall}, сначала нужно{Line}отнести {Char Rinoa} в медблок».{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}{Char Squall}, сначала нужно{Line}отнести {Char Rinoa} в медблок.{End}",
         "Source Text SHA256": "E3F76065F2AA8944110793A17410298D2940CF1EA1354813FE86E6B6F75BA230",
         "sourceContext": {
           "Source MSD SHA256": "F6218D5EE9030EC7DF7C72E5C2DBA6E6A0B70CF1FE84D2914E5F36D0ED9F02A2",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ssroad1_0004": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«{Char Squall}, ты куда?{Line}Разве ты не пойдёшь за ними?»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}{Char Squall}, ты куда?{Line}Разве ты не пойдёшь за ними?{End}",
         "Source Text SHA256": "1352D2AA4C45872235869640F8F8480E17CAA7689E08527E7D919A91EA89CBD2",
         "sourceContext": {
           "Source MSD SHA256": "F6218D5EE9030EC7DF7C72E5C2DBA6E6A0B70CF1FE84D2914E5F36D0ED9F02A2",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ssroad1_0005": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Эй, ты куда, приятель?{Line}Пусть {Char Rinoa} отдохнёт».{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Эй, ты куда, приятель?{Line}Пусть {Char Rinoa} отдохнёт.{End}",
         "Source Text SHA256": "F242DE535470ACF9424A05D1692A82D84C95D72319A6963B2CDAFE25B9ACA074",
         "sourceContext": {
           "Source MSD SHA256": "F6218D5EE9030EC7DF7C72E5C2DBA6E6A0B70CF1FE84D2914E5F36D0ED9F02A2",

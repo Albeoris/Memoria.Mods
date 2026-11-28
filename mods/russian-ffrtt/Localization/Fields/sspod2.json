@@ -26,7 +26,7 @@
         }
       },
       "$en_sspod2_0003": {
-        "Target": "{X10Y160}{Char Selphie}{Line}«Это несправедливо... {Char Rinoa}.{Line}Неужели мы ничего не можем сделать?»{End}",
+        "Target": "{X10Y160}{Char Selphie}{Line}Это несправедливо... {Char Rinoa}.{Line}Неужели мы ничего не можем сделать?{End}",
         "Source Text SHA256": "6413A23CEE2FB60441DB0FE8C0560D5F6447C847D7246C2F55029DDACD901A3F",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -34,7 +34,7 @@
         }
       },
       "$en_sspod2_0004": {
-        "Target": "{X10Y160}{Char Irvine}{Line}«{Char Rinoa}, она ведь сейчас...{Line}Чёрт!{Line}Поверить не могу».{End}",
+        "Target": "{X10Y160}{Char Irvine}{Line}{Char Rinoa}, она ведь сейчас...{Line}Чёрт!{Line}Поверить не могу.{End}",
         "Source Text SHA256": "95E262C11D857D6C4FC610A47A98785EFB6962092F892DEEC9A64785A5FD7E80",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -42,7 +42,7 @@
         }
       },
       "$en_sspod2_0005": {
-        "Target": "{X10Y160}{Char Quistis}{Line}«Должно быть что-то, что мы можем...{Line} сделать. Ох, {Char Rinoa}......»{End}",
+        "Target": "{X10Y160}{Char Quistis}{Line}Должно быть что-то, что мы можем...{Line} сделать. Ох, {Char Rinoa}......{End}",
         "Source Text SHA256": "5F76297C47EAC34938C58E29B9FDFCC85530E58D2EF08B9D0A104AB904653CCF",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -50,7 +50,7 @@
         }
       },
       "$en_sspod2_0006": {
-        "Target": "{X91Y10}Пиетт{Line}«Система жизнеобеспечения в этом скафандре будет{Line} работать всего 20 минут».{Next}«Запасной баллон может дать ей ещё{Line} максимум 5 минут».{Next}«Это бесполезно, мы не{Line} сможем ей помочь».{End}",
+        "Target": "{X91Y10}Пиетт{Line}Система жизнеобеспечения в этом скафандре будет{Line} работать всего 20 минут.{Next}Запасной баллон может дать ей ещё{Line} максимум 5 минут.{Next}Это бесполезно, мы не{Line} сможем ей помочь.{End}",
         "Source Text SHA256": "AAA391DFCDF6048E515AE9E95B5F20331EE2A0AD54F6436760B8C0641E47B872",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -58,7 +58,7 @@
         }
       },
       "$en_sspod2_0007": {
-        "Target": "{X10Y10}{Char Squall}{Line}«БОЖЕ!!! {Pause 128}{Char Rinoa} скоро умрёт!.. Я{Line}{Pause 96}не смогу с этим смириться.{Next}Эллона, пожалуйста. Я никогда не{Line} чувствовал ничего подобного раньше».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}БОЖЕ!!! {Pause 128}{Char Rinoa} скоро умрёт!.. Я{Line}{Pause 96}не смогу с этим смириться.{Next}Эллона, пожалуйста. Я никогда не{Line} чувствовал ничего подобного раньше.{End}",
         "Source Text SHA256": "C84E838639F20251B44654BE335E31398D94F740470855C3DE9F2C48F1971C89",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -66,7 +66,7 @@
         }
       },
       "$en_sspod2_0008": {
-        "Target": "{X256Y10}Эллона{Line}«...»{End}",
+        "Target": "{X256Y10}Эллона{Line}...{End}",
         "Source Text SHA256": "C6F45C9CB6C9456E636AB5C50DA7862FAF6425C6E5318CE8C260D2181EEBBBEB",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -74,7 +74,7 @@
         }
       },
       "$en_sspod2_0009": {
-        "Target": "{X30Y10}{Char Squall}{Line}«Отправь меня к {Char Rinoa}... в её прошлое».{End}",
+        "Target": "{X30Y10}{Char Squall}{Line}Отправь меня к {Char Rinoa}... в её прошлое.{End}",
         "Source Text SHA256": "804D95D734357B39007E755CC480D78ED278BDCDAA262632CB2FCE9B80FE51EF",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -82,7 +82,7 @@
         }
       },
       "$en_sspod2_0010": {
-        "Target": "{X259Y10}Эллона{Line}«Хорошо».{End}",
+        "Target": "{X259Y10}Эллона{Line}Хорошо.{End}",
         "Source Text SHA256": "8E6461AB3AD9F4797720427236A0EBD045ABA03F3E51C3DBCDF8298252CDDB19",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -90,7 +90,7 @@
         }
       },
       "$en_sspod2_0011": {
-        "Target": "{X10Y10}Эллона{Line}«Это может не сработать, но{Line} мы попытаемся, хорошо?»{End}",
+        "Target": "{X10Y10}Эллона{Line}Это может не сработать, но{Line} мы попытаемся, хорошо?{End}",
         "Source Text SHA256": "41551102741794D238A2EAFD0D9F61B228404EF210D035EDD708A6FF1BD27CC1",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -98,7 +98,7 @@
         }
       },
       "$en_sspod2_0012": {
-        "Target": "{X97Y10}Пиетт{Line}«Быстрее! Нам пора уходить!»{End}",
+        "Target": "{X97Y10}Пиетт{Line}Быстрее! Нам пора уходить!{End}",
         "Source Text SHA256": "DEF352FC6918CD400091F24E8AAFA84BB9D5ADE5302DE8FEA69C8F13ED06D0BD",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -106,7 +106,7 @@
         }
       },
       "$en_sspod2_0013": {
-        "Target": "{X10Y160}{Char Squall}{Line}«Эллона, это не то, что{Line} нужно. Это было слишком далеко».{End}",
+        "Target": "{X10Y160}{Char Squall}{Line}Эллона, это не то, что{Line} нужно. Это было слишком далеко.{End}",
         "Source Text SHA256": "2337BA6E35CD06AB2EC3F769C18C85B8AA8C2EA01CE1E7B703197B07EA187866",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -114,7 +114,7 @@
         }
       },
       "$en_sspod2_0014": {
-        "Target": "{X174Y160}Эллона{Line}«Прости. Дай{Line} мне попробовать ещё раз».{End}",
+        "Target": "{X174Y160}Эллона{Line}Прости. Дай{Line} мне попробовать ещё раз.{End}",
         "Source Text SHA256": "15BB69606CCA673700F708CCD9A868DC41AAFB31416E1634D80C302E054871A6",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -122,7 +122,7 @@
         }
       },
       "$en_sspod2_0015": {
-        "Target": "{X10Y10}{Char Squall}{Line}«{Char Rinoa}!!»{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}{Char Rinoa}!!{End}",
         "Source Text SHA256": "A8A416132A37AF1CE0CDCD3142EF48006045230F92106AF059EBE104FD61B179",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -130,7 +130,7 @@
         }
       },
       "$en_sspod2_0016": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Эллона?!»{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Эллона?!{End}",
         "Source Text SHA256": "21849FE51303131AFB4E79929F4A4295B533384BB294C1F2B24DEDCF2748ECE2",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -138,7 +138,7 @@
         }
       },
       "$en_sspod2_0017": {
-        "Target": "{X65Y10}Эллона{Line}«Тебе удалось выяснить,{Line} что случилось с {Char Rinoa}?{Line} Мог ли ты изменить прошлое?»{End}",
+        "Target": "{X65Y10}Эллона{Line}Тебе удалось выяснить,{Line} что случилось с {Char Rinoa}?{Line} Мог ли ты изменить прошлое?{End}",
         "Source Text SHA256": "61F0BD46F1DB11CBF75D811E1B6362DAD6D858E437974136D0006F42FEF71937",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -146,7 +146,7 @@
         }
       },
       "$en_sspod2_0018": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Я был бессилен...{Line} Что мне делать?»{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Я был бессилен...{Line} Что мне делать?{End}",
         "Source Text SHA256": "8FFFD35BB497D311D4A5A34A066F2706DB17156B61B77D26DE139927FB1D079C",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -154,7 +154,7 @@
         }
       },
       "$en_sspod2_0019": {
-        "Target": "{X32Y10}Эллона{Line}«Я помню этот взгляд. Таким{Line} же взглядом ты смотрел{Line} на меня когда был мальчиком.{Next}Этот любопытный, невинный, щенячий взгляд.{Line} Я любила его».{End}",
+        "Target": "{X32Y10}Эллона{Line}Я помню этот взгляд. Таким{Line} же взглядом ты смотрел{Line} на меня когда был мальчиком.{Next}Этот любопытный, невинный, щенячий взгляд.{Line} Я любила его.{End}",
         "Source Text SHA256": "A50FB914517C6379D072B6A829019C31E8F2D75AE2B9C4A41EBAEE1EAFE77194",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -162,7 +162,7 @@
         }
       },
       "$en_sspod2_0020": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Это в прошлом».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Это в прошлом.{End}",
         "Source Text SHA256": "189E10AA3A91870CD32E9C798014CEBC3F5C736A9861035B59F0A44C17754463",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -170,7 +170,7 @@
         }
       },
       "$en_sspod2_0021": {
-        "Target": "{X103Y10}Эллона{Line}«Верно».{Next}«Важно только настоящее.{Line} Теперь я поняла это».{End}",
+        "Target": "{X103Y10}Эллона{Line}Верно.{Next}Важно только настоящее.{Line} Теперь я поняла это.{End}",
         "Source Text SHA256": "3181FBD7513FFF4B6E38E0CFC8D846557E43F79A0D0AD92256F6096D16420034",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -178,7 +178,7 @@
         }
       },
       "$en_sspod2_0022": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Сейчас я должен помочь {Char Rinoa}. Это всё,{Line} что я могу сделать, верно?»{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Сейчас я должен помочь {Char Rinoa}. Это всё,{Line} что я могу сделать, верно?{End}",
         "Source Text SHA256": "DE1B3C20AD4DD61447FB7A71B4483945502FD64C6135C91430F23D3B9A1EDB99",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -186,7 +186,7 @@
         }
       },
       "$en_sspod2_0023": {
-        "Target": "{X41Y10}Эллона{Line}«Да. Поговори с ней, {Char Squall}. Может она{Line} и не услышит твой голос, но услышит твоё сердце».{End}",
+        "Target": "{X41Y10}Эллона{Line}Да. Поговори с ней, {Char Squall}. Может она{Line} и не услышит твой голос, но услышит твоё сердце.{End}",
         "Source Text SHA256": "93256DABCD4C2EA981F6E7F676F8ABF7A79218C178BE12C807DFEE931A511686",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -194,7 +194,7 @@
         }
       },
       "$en_sspod2_0024": {
-        "Target": "{X42Y10}Эллона{Line}«Ты готов?{Next}Я отправлю тебя в ближайшее прошлое... В ближайшее грядущее время...»{End}",
+        "Target": "{X42Y10}Эллона{Line}Ты готов?{Next}Я отправлю тебя в ближайшее прошлое... В ближайшее грядущее время...{End}",
         "Source Text SHA256": "0CD6A837AC9EF1D3D2217FEBC04E196BCBA4FA1E73743650EB854FBEFE7FDBB0",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -202,7 +202,7 @@
         }
       },
       "$en_sspod2_0025": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Я отправлюсь на поиски {Char Rinoa}..»{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Я отправлюсь на поиски {Char Rinoa}..{End}",
         "Source Text SHA256": "21D4D0B1FB575B8A7260FEF4E4DC18642F044C27763D29B20A5675F262210F6B",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -210,7 +210,7 @@
         }
       },
       "$en_sspod2_0026": {
-        "Target": "{X92Y10}Эллона{Line}«Тебе вовсе не нужна была моя помощь».{End}",
+        "Target": "{X92Y10}Эллона{Line}Тебе вовсе не нужна была моя помощь.{End}",
         "Source Text SHA256": "3CF4510B8350CDFE0B2945DF8B553B5BE6C3AB3FB777E34739255CC4E5DFF5DB",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -218,7 +218,7 @@
         }
       },
       "$en_sspod2_0027": {
-        "Target": "{X10Y10}{Char Squall}{Line}«Спасибо, сестра».{End}",
+        "Target": "{X10Y10}{Char Squall}{Line}Спасибо, сестра.{End}",
         "Source Text SHA256": "E9D28DA766A1A3DBB481C174358279C7D9385AC189A18FE802A438B808E9D8C0",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -226,7 +226,7 @@
         }
       },
       "$en_sspod2_0028": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«Т-ты туда, наружу?!{Line}Да ты спятил!»{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}Т-ты туда, наружу?!{Line}Да ты спятил!{End}",
         "Source Text SHA256": "6BB96DDDB12FC7807730714E200D7E64DFE7530A076A6F2737A4C35F6D1E8519",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -234,7 +234,7 @@
         }
       },
       "$en_sspod2_0029": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Боже мой!{Line}Он и правда выходит?!»{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Боже мой!{Line}Он и правда выходит?!{End}",
         "Source Text SHA256": "7BBF3B7742B29BEF43AB7B5E5682C42C634DB9AE2BC97E58F7751FA887DC5402",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -242,7 +242,7 @@
         }
       },
       "$en_sspod2_0030": {
-        "Target": "{X10Y10}{Char Quistis}{Line}«Стой!{Line} Вернись!»{End}",
+        "Target": "{X10Y10}{Char Quistis}{Line}Стой!{Line} Вернись!{End}",
         "Source Text SHA256": "66E659FF4FBC18AF9424F5BD5E3FCC35F273818112E1F6D0A1E0CBCCBAACE162",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",
@@ -250,7 +250,7 @@
         }
       },
       "$en_sspod2_0031": {
-        "Target": "{X78Y10}Пиетт{Line}{Line} «Идиот!»{Next}«Он не{Line} сможет{Line} вернуться!»{End}",
+        "Target": "{X78Y10}Пиетт{Line}{Line} Идиот!{Next}Он не{Line} сможет{Line} вернуться!{End}",
         "Source Text SHA256": "B642A5E67F0CDFFD6D833B237987DC3C90F570E99ABDF86517416AF7BB3A6001",
         "sourceContext": {
           "Source MSD SHA256": "A19249D98A6CFAA98F85352E49BF04DFDAD6C26EBB1E9CFD2CE8E16CBC7A49E4",

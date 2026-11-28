@@ -42,7 +42,7 @@
         }
       },
       "$en_ffbrdg1_0005": {
-        "Target": "{X10Y10}{Char Zell}{Line}«»{End}",
+        "Target": "{X10Y10}{Char Zell}{Line}{End}",
         "Source Text SHA256": "F4E91D6A6574259D3E4140D542E011C9113A47C61B5936EB380970FC8BB368F1",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ffbrdg1_0006": {
-        "Target": "{X10Y10}{Char Irvine}{Line}«»{End}",
+        "Target": "{X10Y10}{Char Irvine}{Line}{End}",
         "Source Text SHA256": "316B782E07B3C0ECFBEF129090A4ABC03D44E125C20202D7A1E6C80638F25858",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ffbrdg1_0008": {
-        "Target": "{Char Selphie}{Line}«»{End}",
+        "Target": "{Char Selphie}{Line}{End}",
         "Source Text SHA256": "F199D761D4384C7B4DA275187C38D0202BA1B58212EB1B8B01F961560BE4F042",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ffbrdg1_0010": {
-        "Target": "{X80Y10}{Char Squall}{Line}«Хорошо. Добрались без потерь».{End}",
+        "Target": "{X80Y10}{Char Squall}{Line}Хорошо. Добрались без потерь.{End}",
         "Source Text SHA256": "85B077E27ACBADBC142AADCF40635E89AA5BBFEFDCDB86E9566BC2BEC5031EB8",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ffbrdg1_0011": {
-        "Target": "{X10Y30}{Char Zell}{Line}«...Ничего себе!.. Так это и есть её замок?»{End}",
+        "Target": "{X10Y30}{Char Zell}{Line}...Ничего себе!.. Так это и есть её замок?{End}",
         "Source Text SHA256": "535DFADFE737D520B3B64582394E1ED638888997864C9F300A6C076E8D722792",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ffbrdg1_0012": {
-        "Target": "{X10Y10}{Char Selphie}{Line}«Наконец-то».{End}",
+        "Target": "{X10Y10}{Char Selphie}{Line}Наконец-то.{End}",
         "Source Text SHA256": "36A96D9A02A92BFC02E6CC00A30D2333649FEF4F60A557CB42BA2984FEF1D48D",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ffbrdg1_0013": {
-        "Target": "{X10Y20}{Char Irvine}{Line}«В жизни не видал ничего{Line} ужаснее. Думаете, сами-знаете-кто живёт здесь?»{End}",
+        "Target": "{X10Y20}{Char Irvine}{Line}В жизни не видал ничего{Line} ужаснее. Думаете, сами-знаете-кто живёт здесь?{End}",
         "Source Text SHA256": "7336210E7FD1807845813BB3B381B569B2AA1BB72A51BEE253C56887E143C6DE",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -114,7 +114,7 @@
         }
       },
       "$en_ffbrdg1_0014": {
-        "Target": "{X155Y20}{Char Rinoa}{Line}«Мы и так далеко{Line} зашли. Она должна быть здесь».{End}",
+        "Target": "{X155Y20}{Char Rinoa}{Line}Мы и так далеко{Line} зашли. Она должна быть здесь.{End}",
         "Source Text SHA256": "40EF5B15078965FC09F0B8F849C5ADB9FD2462D38C64A3DBEFB37476F7EEBAE9",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -122,7 +122,7 @@
         }
       },
       "$en_ffbrdg1_0015": {
-        "Target": "{X30Y10}{Char Quistis}{Line}«Значит, это и есть{Line} будущее... То, где правит Ультимеция...»{End}",
+        "Target": "{X30Y10}{Char Quistis}{Line}Значит, это и есть{Line} будущее... То, где правит Ультимеция...{End}",
         "Source Text SHA256": "9D5EA72656D4B681E9C34AEEE9F6316918FFA8F7133042328333775CADD03276",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -130,7 +130,7 @@
         }
       },
       "$en_ffbrdg1_0016": {
-        "Target": "{X43Y10}{Char Squall}{Line}«Я не знаю, что происходит. Но раз{Line} уж мы здесь, думаю, у нас ещё есть{Line} время закончить то, что начали».{End}",
+        "Target": "{X43Y10}{Char Squall}{Line}Я не знаю, что происходит. Но раз{Line} уж мы здесь, думаю, у нас ещё есть{Line} время закончить то, что начали.{End}",
         "Source Text SHA256": "6B5C7B565633EF209ED1C72B883A63DF06C40A75742BA07552B484908338D3F2",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -138,7 +138,7 @@
         }
       },
       "$en_ffbrdg1_0017": {
-        "Target": "{X20Y10}{Char Quistis}{Line}«{Char Squall}, как мы поступим?»{End}",
+        "Target": "{X20Y10}{Char Quistis}{Line}{Char Squall}, как мы поступим?{End}",
         "Source Text SHA256": "83E80F6079A4ED805A75AAF206D4F2FA7EDFF8E459CFDDB73B10A7D64ACB260D",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -146,7 +146,7 @@
         }
       },
       "$en_ffbrdg1_0018": {
-        "Target": "{X109Y10}{Char Squall}{Line}«Мы разделимся на две группы».{End}",
+        "Target": "{X109Y10}{Char Squall}{Line}Мы разделимся на две группы.{End}",
         "Source Text SHA256": "0D443039DE0CEC79FED189BFBE3397D750E7A50CD2318A76B855D8BB8D1A0795",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -154,7 +154,7 @@
         }
       },
       "$en_ffbrdg1_0019": {
-        "Target": "{Char Zell}{Line}«»{End}",
+        "Target": "{Char Zell}{Line}{End}",
         "Source Text SHA256": "F4E91D6A6574259D3E4140D542E011C9113A47C61B5936EB380970FC8BB368F1",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ffbrdg1_0020": {
-        "Target": "{Char Irvine}{Line}«»{End}",
+        "Target": "{Char Irvine}{Line}{End}",
         "Source Text SHA256": "316B782E07B3C0ECFBEF129090A4ABC03D44E125C20202D7A1E6C80638F25858",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ffbrdg1_0021": {
-        "Target": "{Char Rinoa}{Line}«»{End}",
+        "Target": "{Char Rinoa}{Line}{End}",
         "Source Text SHA256": "9C704E271C84C594607484BC03B49AB143A8916D3D099E1CD223B35C366C6452",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",
@@ -178,7 +178,7 @@
         }
       },
       "$en_ffbrdg1_0022": {
-        "Target": "{Char Selphie}{Line}«»{End}",
+        "Target": "{Char Selphie}{Line}{End}",
         "Source Text SHA256": "F199D761D4384C7B4DA275187C38D0202BA1B58212EB1B8B01F961560BE4F042",
         "sourceContext": {
           "Source MSD SHA256": "6056F8A52150F15D91537CA7CB8E1663AB61EA147D019F4470418044151F5031",

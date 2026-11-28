@@ -10,7 +10,7 @@
         }
       },
       "$en_ecoway3_0001": {
-        "Target": "{X100Y10}{Char Zell}{Line}«ЧЁРТ! Не успеем!»{End}",
+        "Target": "{X100Y10}{Char Zell}{Line}ЧЁРТ! Не успеем!{End}",
         "Source Text SHA256": "84ED47C1DC25A2C9BB6575F54857CFFD36951E144E12F4E12719DDF2F095F07C",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -18,7 +18,7 @@
         }
       },
       "$en_ecoway3_0002": {
-        "Target": "{X100Y50}«Я столько всего накупила».{End}",
+        "Target": "{X100Y50}Я столько всего накупила.{End}",
         "Source Text SHA256": "F0120FE52F4DD7A1600A36D1451E97C1542EB94C8C0430654C23CA9AE145670C",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -26,7 +26,7 @@
         }
       },
       "$en_ecoway3_0003": {
-        "Target": "{X50Y50}«Вы ведь приезжие, верно?{Line} Я о вас слышал…{Line} Ух ты, здорово увидеть кого-то издалека».{End}",
+        "Target": "{X50Y50}Вы ведь приезжие, верно?{Line} Я о вас слышал…{Line} Ух ты, здорово увидеть кого-то издалека.{End}",
         "Source Text SHA256": "DA913B46629648A5560427A31188E76FA2C31A4E661345E4C73EFDA2D7419654",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -34,7 +34,7 @@
         }
       },
       "$en_ecoway3_0004": {
-        "Target": "{X50Y50}«Невероятно».{End}",
+        "Target": "{X50Y50}Невероятно.{End}",
         "Source Text SHA256": "C981A08C0AE54CBA8EE13953F203CA7C47ECAE44A5E871DAB14D6AC783430D9F",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -42,7 +42,7 @@
         }
       },
       "$en_ecoway3_0005": {
-        "Target": "{X50Y50}«Ликвидаторы — чудо техники, но программировать{Line} их характер надо осторожно.{Line} А то чудаками выйдут».{End}",
+        "Target": "{X50Y50}Ликвидаторы — чудо техники, но программировать{Line} их характер надо осторожно.{Line} А то чудаками выйдут.{End}",
         "Source Text SHA256": "B08513489E9665AC3BEE86911F48CE8458EFBF4DBFF67D0876941FCDF3E49F69",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -50,7 +50,7 @@
         }
       },
       "$en_ecoway3_0006": {
-        "Target": "{X50Y50}«Странно. Что с ним не так?»{End}",
+        "Target": "{X50Y50}Странно. Что с ним не так?{End}",
         "Source Text SHA256": "DF4CB23FE77C20B5EFCECE6F3C5A8736519FB88BB2D3A828C379EDF529A2CCDD",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -58,7 +58,7 @@
         }
       },
       "$en_ecoway3_0007": {
-        "Target": "{X100Y50}«Может, пора сделать{Line} новый подъёмник».{End}",
+        "Target": "{X100Y50}Может, пора сделать{Line} новый подъёмник.{End}",
         "Source Text SHA256": "83B3504545ACB07A132223047B1E81996E450741911D3C57785172DA48362BFD",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -66,7 +66,7 @@
         }
       },
       "$en_ecoway3_0008": {
-        "Target": "{X100Y50}«Да, трудно научить Ликвидаторов{Line} разговаривать и чувствовать».{Next}«Жаль, что времени на исследования мало.{Line} Что ж, хотя бы основы они усвоили».{End}",
+        "Target": "{X100Y50}Да, трудно научить Ликвидаторов{Line} разговаривать и чувствовать.{Next}Жаль, что времени на исследования мало.{Line} Что ж, хотя бы основы они усвоили.{End}",
         "Source Text SHA256": "C2BCF014E4F68F440981DF33177C1A29D0EB5D4A4854C7E2078B52671C7BF3A0",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -74,7 +74,7 @@
         }
       },
       "$en_ecoway3_0009": {
-        "Target": "{X100Y50}«Забавно, механизм не работает».{End}",
+        "Target": "{X100Y50}Забавно, механизм не работает.{End}",
         "Source Text SHA256": "E79BA2957C17B30B6D8AD7EAB0CB635106F1E1CADA617E1B75A5F016237FBEB6",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -82,7 +82,7 @@
         }
       },
       "$en_ecoway3_0010": {
-        "Target": "{X100Y50}«Всё, что вы видите здесь – это{Line} Эстар. Отсюда больше не видно ничего».{End}",
+        "Target": "{X100Y50}Всё, что вы видите здесь – это{Line} Эстар. Отсюда больше не видно ничего.{End}",
         "Source Text SHA256": "16030B868F73408E94C4A37DDB83FB5D8A7088FBC5BF4C26250A5F54274CFF44",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -90,7 +90,7 @@
         }
       },
       "$en_ecoway3_0011": {
-        "Target": "{X100Y50}«С тех пор как мы избавились от волшебницы,{Line} здесь царил мир».{End}",
+        "Target": "{X100Y50}С тех пор как мы избавились от волшебницы,{Line} здесь царил мир.{End}",
         "Source Text SHA256": "1C5286E51A80C0CEDCCF9464EDA66B39BC95D3153ED5BCA71E7ABA8A32A2A815",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -98,7 +98,7 @@
         }
       },
       "$en_ecoway3_0012": {
-        "Target": "{X100Y50}«Разговариваю с вами и вспоминаю,{Line} что за пределами города есть ещё целый мир».{End}",
+        "Target": "{X100Y50}Разговариваю с вами и вспоминаю,{Line} что за пределами города есть ещё целый мир.{End}",
         "Source Text SHA256": "3C201AA6B6DA07CDB821DAD467B0074863814FED9DDAE7F734C7E70B007A30D4",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -106,7 +106,7 @@
         }
       },
       "$en_ecoway3_0013": {
-        "Target": "{X100Y50}«Становится шумно.{Line} Что происходит?»{End}",
+        "Target": "{X100Y50}Становится шумно.{Line} Что происходит?{End}",
         "Source Text SHA256": "BDA6042B8E1C84E9B2829CDC0A8987C79DBAA0926D4C0EFAD0FF8661EC49AA76",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -162,7 +162,7 @@
         }
       },
       "$en_ecoway3_0020": {
-        "Target": "{X100Y10F2L3B2C3}«Думаю, все играют в карты,{Line} а? Хотите сыграть?»{Line}Да{Line}Нет{End}",
+        "Target": "{X100Y10F2L3B2C3}Думаю, все играют в карты,{Line} а? Хотите сыграть?{Line}Да{Line}Нет{End}",
         "Source Text SHA256": "560B8177F36EC3856DF76AB0644C0B9B5CD55AB55AD3DD6948A520C380CF43FE",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -170,7 +170,7 @@
         }
       },
       "$en_ecoway3_0021": {
-        "Target": "{X10Y10}«Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим».{End}",
+        "Target": "{X10Y10}Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Баламба и по нашим.{End}",
         "Source Text SHA256": "491DE7D292CE0E45B6BF160A7770A7676425D8A4FC43367D40F503ED0580DE41",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -178,7 +178,7 @@
         }
       },
       "$en_ecoway3_0022": {
-        "Target": "{X10Y10}«Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим».{End}",
+        "Target": "{X10Y10}Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Галбадии и по нашим.{End}",
         "Source Text SHA256": "0ED06EC2227A10C3F150375D4E08F5A59BCEB8EFE08BA99A54CD4FA1DCD397F8",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -186,7 +186,7 @@
         }
       },
       "$en_ecoway3_0023": {
-        "Target": "{X10Y10}«Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим».{End}",
+        "Target": "{X10Y10}Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Трабии и по нашим.{End}",
         "Source Text SHA256": "614CACEFF5ACC9A47DBCB7A8AEBC38E4F1EBC3F4DA8D4892E22527B9635097EA",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -194,7 +194,7 @@
         }
       },
       "$en_ecoway3_0024": {
-        "Target": "{X10Y10}«Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим».{End}",
+        "Target": "{X10Y10}Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Центры и по нашим.{End}",
         "Source Text SHA256": "4BF072C9186BEBE6A4EBEF9C11B3D7070EA0A3BBACC0B9173233C0BB5872736B",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -202,7 +202,7 @@
         }
       },
       "$en_ecoway3_0025": {
-        "Target": "{X10Y10}«Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим».{End}",
+        "Target": "{X10Y10}Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Доллета и по нашим.{End}",
         "Source Text SHA256": "AD126FE9DFB02825405EDE1260DECC94C182501F40C3D69D39D9A2F61C61B842",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -210,7 +210,7 @@
         }
       },
       "$en_ecoway3_0026": {
-        "Target": "{X10Y10}«Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим».{End}",
+        "Target": "{X10Y10}Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Рыбацкого Горизонта и по нашим.{End}",
         "Source Text SHA256": "9C1BAFC2EFB0D40DB4A70986B7CA865D728784B5BBFDA923772164AB9CB84F80",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -218,7 +218,7 @@
         }
       },
       "$en_ecoway3_0027": {
-        "Target": "{X10Y10}«Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим».{End}",
+        "Target": "{X10Y10}Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Лунной базы и по нашим.{End}",
         "Source Text SHA256": "2FF74D9746F1C36AB20F4B334810342FEDEA1BB561B0D9F09AA0D0E4C8487371",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
@@ -226,7 +226,7 @@
         }
       },
       "$en_ecoway3_0028": {
-        "Target": "{X10Y10}«Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим».{End}",
+        "Target": "{X10Y10}Вы наверняка знаете правила,{Line}которыми здесь не пользуются.{Line}Давайте сыграем по правилам{Line}Эстара и по нашим.{End}",
         "Source Text SHA256": "7DA5C9DFB703ABFFA4E4ACE77D7CB2366121BED0BE2A3D89D6AE100843FFB225",
         "sourceContext": {
           "Source MSD SHA256": "30129DEA33D96E90CB5FFB1867153C8E8F4DA5927E31B6737EED3B48B4418452",
