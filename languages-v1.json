@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "sourceId": "memoria-official",
-  "revision": 7,
-  "publishedAt": "2026-11-27T21:10:45Z",
+  "revision": 8,
+  "publishedAt": "2026-11-28T01:18:15Z",
   "components": [
     {
       "id": "russian-ffrtt",
@@ -43,15 +43,15 @@
         }
       ],
       "latest": {
-        "version": "3.20.5",
+        "version": "3.20.6",
         "engineVersionRange": "[0.9.18,)",
-        "releaseTag": "russian-ffrtt-v3.20.5",
-        "releaseNotes": "Localizes the ability menu prompt and page indicator. Memoria FFVIII 0.9.18 displays the existing Russian refinement ability names and descriptions throughout the menu.",
+        "releaseTag": "russian-ffrtt-v3.20.6",
+        "releaseNotes": "Removes the outer guillemets from Russian field dialogue while preserving quotes within the text.",
         "artifact": {
-          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-v3.20.5/russian-ffrtt-3.20.5.zip",
-          "size": 3362115,
-          "unpackedSize": 16566386,
-          "sha256": "469628e11f5ecbe79d062c54ed31440cf132c6f3abbed940280420a77d420b40"
+          "url": "https://github.com/Albeoris/Memoria.Mods/releases/download/russian-ffrtt-v3.20.6/russian-ffrtt-3.20.6.zip",
+          "size": 3350795,
+          "unpackedSize": 16499016,
+          "sha256": "e7ecc1d6ab659630e06d3802c5464f8c98eeaebd0731a2969ef5df7307921da1"
         }
       },
       "dependencies": [
